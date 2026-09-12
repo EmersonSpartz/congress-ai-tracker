@@ -1,0 +1,374 @@
+[
+{
+"bioguide": "M001176",
+"checks": [
+{
+"url": "https://www.wyden.senate.gov/news/press-releases/wyden-merkley-ask-state-data-center-advisory-committee-to-consider-multiple-issues-raised-by-oregonians",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-02",
+"note": "Live site returns 403; verified via Wayback snapshot (2026-07-11). Quote appears verbatim in the joint Wyden-Merkley letter text. Release dated July 02, 2026. Letter acknowledges data centers are 'critical to American national security... and create good union jobs' and lists consumer electricity costs, water, farmland rezoning, tribal rights among concerns; claim matches."
+},
+{
+"url": "https://www.wyden.senate.gov/news/press-releases/wyden-merkley-ask-state-data-center-advisory-committee-to-consider-multiple-issues-raised-by-oregonians",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-02",
+"note": "Quote is verbatim (via Wayback snapshot), but it is the SECOND bullet, not the first: the list opens with 'Increasing energy demand to power and cool equipment.' followed by 'Increasing electricity costs for consumers because of increased demand.' The letter also asks the committee to 'consider' these concerns; it does not condition data center expansion on solving them first. Claim overstates on both points."
+},
+{
+"url": "https://katu.com/news/local/wyden-merkley-introduce-bill-to-bar-ice-and-cbp-facial-recognition-use",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-06",
+"note": "Quote verbatim, attributed to Merkley. Article says the ICE Out of Our Faces Act 'would ban ICE and CBP from using and deploying facial recognition technology and other biometric systems' and is led by Merkley, Wyden, Markey, Jayapal. Published 2026-02-06."
+},
+{
+"url": "https://www.democracydocket.com/news-alerts/exclusive-democrats-unveil-plan-to-protect-elections-from-trump-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-11",
+"note": "Quote verbatim from Merkley's statement. Article states Merkley introduced the Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act, which 'would prohibit using AI-generated content to intimidate election officials or to knowingly spread falsehoods aimed at keeping voters from casting their ballots.' Published 2026-06-11."
+},
+{
+"url": "https://fedscoop.com/senators-want-tsa-to-scale-back-facial-recognition-at-airports/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-05-09",
+"note": "Quote verbatim. Watchdog part supported: 'Merkley had previously led a letter from a bipartisan group of senators calling for the watchdog to open an investigation' and DHS IG initiated an audit. But the article describes Merkley as 'a co-sponsor of the bill', not its leader; the 'He leads the bipartisan bill' framing is not supported by this source. Bill makes face scans opt-out-able (right to decline), which the claim calls 'opt-in'; reasonable but slightly loose."
+},
+{
+"url": "https://www.quiverquant.com/news/Press+Release%3A+Wyden+and+Merkley+Request+Transparency+from+Meta+on+Facial+Recognition+in+Smart+Glasses",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Quiver page (AI summary of the press release, posted March 19, 2026) says Wyden and Merkley urged Meta to clarify plans for facial recognition in smart glasses, warned it could 'normalize mass surveillance', and set a response deadline of April 6, 2026. Note the source is an AI-generated summary, not the primary release; claim matches it."
+},
+{
+"url": "https://www.wyden.senate.gov/news/press-releases/wyden-schumer-warren-and-cortez-masto-press-trump-to-restore-export-controls-after-trading-sensitive-us-technology-to-china-in-trade-talks",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-13",
+"note": "Live site 403; verified via Wayback snapshot (2025-12-15). Release dated November 13, 2025. Text: 'The letter was also signed by Sen. Andy Kim, D-N.J., Sen. Jeff Merkley, D-Ore., Sen. Chris Van Hollen, D-Md., and Sen. Ben Ray Luján, D-N.M.' Quote is verbatim release narration, correctly flagged as not Merkley's own words."
+},
+{
+"url": "https://katu.com/news/local/wyden-merkley-introduce-bill-to-bar-ice-and-cbp-facial-recognition-use",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-06",
+"note": "Quote verbatim, attributed to Merkley in KATU article dated 2026-02-06."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "W000779",
+"checks": [
+{
+"url": "https://www.nextgov.com/artificial-intelligence/2026/08/senate-finance-panels-top-dem-proposes-excise-tax-new-data-centers/415321/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-06",
+"note": "Quote verbatim (from Wyden press release, quoted by Nextgov, article dated Aug 10, 2026). Page confirms Aug 6 white paper, removal of tax incentives for data center construction, and a gross-receipts excise tax on AI-compute data centers to support displaced workers."
+},
+{
+"url": "https://www.wyden.senate.gov/news/press-releases/wyden-demands-big-tech-execs-answer-questions-about-data-centers-water-impact",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Loaded via Wayback (senate.gov blocks direct fetch). Quote verbatim. Letters to Pichai, Cook, Zuckerberg, Jassy; questions on closed-loop cooling and public water-use tracking, answers due May 29."
+},
+{
+"url": "https://www.wyden.senate.gov/news/press-releases/wyden-merkley-ask-state-data-center-advisory-committee-to-consider-multiple-issues-raised-by-oregonians",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-02",
+"note": "Loaded via Wayback. Quote verbatim. Letter lists utility costs, water, rezoning of agricultural land, tribal treaty rights, transparency; frames the goal as striking a balance, not stopping projects."
+},
+{
+"url": "https://www.eenews.net/articles/lawmakers-oppose-greens-call-for-data-center-moratorium/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-10",
+"note": "Quote verbatim (tail of a longer sentence). Article says Wyden 'would not yet endorse a moratorium' and cites abuse of taxpayer money on data centers."
+},
+{
+"url": "https://www.heraldandnews.com/news/u-s-sen-ron-wyden-addresses-range-of-concerns-during-klamath-falls-lakeview-stops/article_230786d5-9e08-4b31-93f6-40634a0c9db1.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-03",
+"note": "Quote verbatim. Article reports he said people should be 'very concerned' about companies promoting AI data centers and recommended 'get landowners together' to oppose efforts harming agriculture and wetlands."
+},
+{
+"url": "https://www.eenews.net/articles/wyden-proposes-new-taxes-on-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-06",
+"note": "Page describes a 'low single-digit excise tax', blocking tax breaks like Opportunity Zones for data centers, and calls it less aggressive than the Sanders/Ocasio-Cortez moratorium."
+},
+{
+"url": "https://www.klcc.org/politics-government/2026-02-12/wyden-remains-in-support-of-section-230-the-internet-company-protection-law-he-authored-31-years-ago",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-12",
+"note": "Quote verbatim. He says algorithms need clarification separate from Section 230 and points to his Algorithmic Accountability Act (he calls it 'Algorithm Accountability Act' in the quote) as his plan."
+},
+{
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-leads-bipartisan-group-of-10-senators-in-pressing-meta-for-safeguards-around-childrens-engagement-with-ai-chatbots",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "schatz.senate.gov returned 403 on four fetch attempts; Wayback connection refused each time and archive.org availability API rate-limited (429); WebFetch also 403. Could not verify signers or quote."
+},
+{
+"url": "https://www.wyden.senate.gov/news/press-releases/wyden-markey-and-lujan-urge-apple-and-google-to-remove-x-and-grok-from-app-stores-following-grok-generating-illegal-sexual-images-at-scale",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-09",
+"note": "Loaded via Wayback. Quote verbatim from the letter to Cook and Pichai. Release describes Grok generating nonconsensual sexualized images of women and children at scale and asks for removal of X and Grok apps."
+},
+{
+"url": "https://gizmodo.com/sen-wyden-warns-of-mass-surveillance-amid-pentagons-fight-with-anthropic-2000728971",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-03",
+"note": "Quote verbatim. Wyden said DOD is 'throwing a fit over Anthropic asking for the bare minimum ethical guardrails' and article says he plans legislation; the quote targets AI profiles built from purchased commercial data."
+},
+{
+"url": "https://www.healthcaredive.com/news/senate-democrats-roll-back-medicare-ai-prior-authorization-pilot-wiser/820728/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-20",
+"note": "Quote verbatim. Wyden is named first among four senators introducing a Congressional Review Act resolution to end the WISeR AI prior-authorization model."
+},
+{
+"url": "https://katu.com/news/local/wyden-merkley-introduce-bill-to-bar-ice-and-cbp-facial-recognition-use",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-06",
+"note": "Quote verbatim. Article says the ICE Out of Our Faces Act is led by Merkley, Wyden, Markey and Jayapal and would ban ICE/CBP use of facial recognition and other biometric systems."
+},
+{
+"url": "https://rollcall.com/2026/06/11/bipartisan-bill-targets-government-censorship-threats/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-11",
+"note": "Quote verbatim (second half of a longer Wyden statement). Bill with Cruz would bar government jawboning via platforms, AI systems or broadcasters and create monetary damages; article notes Cruz framed it within a 'light-touch' AI framework."
+},
+{
+"url": "https://www.klcc.org/politics-government/2026-02-12/wyden-remains-in-support-of-section-230-the-internet-company-protection-law-he-authored-31-years-ago",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-12",
+"note": "Quote verbatim. Article notes more than a dozen bills to repeal or alter Section 230; Wyden says 'the big guys' want repeal while those who need First Amendment protection support 230 (ACLU cited)."
+},
+{
+"url": "https://thehill.com/homenews/senate/4800884-senate-approves-bills-online-children/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-07-30",
+"note": "Quote verbatim (excerpt of a longer sentence). Article confirms he was one of three no votes on KOSA and COPPA 2.0 (91-3), citing encryption/anonymity and fear a future administration could pressure companies to censor 'gay, trans and reproductive health information.'"
+},
+{
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-schumer-colleagues-press-lutnick-on-administrations-decision-to-sell-out-us-national-and-economic-security-by-greenlighting-the-sale-of-h200-chips-to-china",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-12-12",
+"note": "Loaded via Wayback. Quote verbatim; Wyden listed as signer; letter raises Nvidia's Trump-ballroom donation and Jensen Huang lobbying. But the letter has seven Democratic signers in total (Warren, Schumer, Wyden, Kim, Bennet, Kaine, Slotkin), so he joined six colleagues, not seven."
+},
+{
+"url": "https://www.wyden.senate.gov/news/press-releases/wyden-schumer-warren-and-cortez-masto-press-trump-to-restore-export-controls-after-trading-sensitive-us-technology-to-china-in-trade-talks",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-13",
+"note": "Loaded via Wayback. Quote verbatim. Wyden is lead ('My letter'); release says the trade deal suspended BIS's ability to enforce export controls including on advanced AI chips and demands reversal."
+},
+{
+"url": "https://unchainedcrypto.com/senate-democrats-demand-hearings-on-uaes-reported-500-million-stake-in-trump-family-crypto-venture/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-24",
+"note": "Wyden named among five signers (Warren, Blumenthal, Peters, Durbin, Wyden). Article says the letter cites Commerce authorizing 35,000 Nvidia Blackwell chips to G42 despite U.S. intelligence warnings China could access them."
+},
+{
+"url": "https://www.nextgov.com/artificial-intelligence/2026/08/senate-finance-panels-top-dem-proposes-excise-tax-new-data-centers/415321/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-06",
+"note": "Headline quote appears verbatim, attributed to Wyden's press release on the Aug 6 white paper."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "Both tech_regulation sources show Wyden resisting new platform regulation: he defends Section 230 against repeal and was one of three no votes on KOSA/COPPA 2.0 (on privacy/encryption/censorship grounds). His pro-regulation moves in this set (Algorithmic Accountability Act, pressing app stores, surveillance limits) cut the other way, so the record here reads as mixed rather than clearly 'Targeted rules'.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "preemption",
+"objection": "None of the 19 items addresses federal preemption of state AI laws. The only state-related item (letter to Oregon's Data Center Advisory Committee) encourages state action on data centers but says nothing about blocking or preserving state AI regulation. Evidence is too thin for a -2 'Let states regulate' assignment.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "B001278",
+"checks": [
+{
+"url": "https://bonamici.house.gov/media/press-releases/three-democratic-science-committee-members-tapped-bipartisan-ai-taskforce",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-02-20",
+"note": "Quote appears verbatim in Bonamici's own statement on being named to the task force; energy use is listed alongside jobs/workforce as an effect to consider. Note it is a one-clause mention, not a data-center policy position."
+},
+{
+"url": "https://bonamici.house.gov/media/statements/bonamici-announces-human-centered-framework-address-ai-education-and-workforce",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Quote verbatim. Page describes the framework as emphasizing evidence-based policy, educator and worker readiness, student protections, and clear guardrails that support innovation."
+},
+{
+"url": "https://bonamici.house.gov/media/press-releases/three-democratic-science-committee-members-tapped-bipartisan-ai-taskforce",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-02-20",
+"note": "Quote verbatim and attributed to Bonamici. Item title paraphrases the page title (actual: 'Three Democratic Science Committee Members Tapped for Bipartisan AI Taskforce')."
+},
+{
+"url": "https://fedscoop.com/ai-task-force-work-rep-bonamici/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-02-26",
+"note": "Quote verbatim. She says she is 'very worried' about AI-generated election content and names privacy, algorithmic bias, job displacement and deepfakes as risks, while saying regulation must not stifle innovation."
+},
+{
+"url": "https://www.electronicsweekly.com/news/business/us-congress-introduces-no-robot-bosses-bill-2025-12/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-08",
+"note": "Quote verbatim and attributed to Bonamici. Article says the bill bars employers from relying solely on automated decision systems for hiring/discipline/firing and requires disclosure of when and how systems are used; lists Deluzio, Bonamici and Moylan as sponsors."
+},
+{
+"url": "https://bonamici.house.gov/media/press-releases/deluzio-bonamici-reintroduce-stop-spying-bosses-act-protect-workers-privacy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-23",
+"note": "Quote verbatim. Bill summary on the page lists limiting data collection, requiring disclosure of surveillance, rules on automated decision systems, and creating a Privacy and Technology Division at the Department of Labor."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned zero chars for the PDF; downloaded and extracted with pypdf. Quote verbatim; 'Suzanne Bonamici Member of Congress' appears in the signer list (page 5-6). Letter dated November 26, 2025, addressed to Johnson, Thune, Jeffries, Schumer. Letter's framing is conditional: 'Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.'"
+},
+{
+"url": "https://bonamici.house.gov/media/statements/bonamici-announces-human-centered-framework-address-ai-education-and-workforce",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Quote verbatim in the opening paragraph of the Jan 15, 2026 statement."
+},
+{
+"url": "https://fedscoop.com/ai-task-force-work-rep-bonamici/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2024-02-26",
+"note": "Quote verbatim, but it follows an editorial ellipsis and directly follows sentences about social media and young people, within an answer to a question about lessons for AI guardrails. It is plausible but not certain that '50 different systems' refers to AI regulation rather than social media/kids rules. Treat as suggestive, not a clean statement of an AI preemption position."
+},
+{
+"url": "https://bonamici.house.gov/media/statements/bonamici-announces-human-centered-framework-address-ai-education-and-workforce",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Quote verbatim; attributed to Bonamici in her own statement."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only evidence is a single clause (Feb 2024) that 'we must consider the effects that AI could have on ... energy use' plus an interview remark that she is interested in energy-efficiency research. Neither states a position on building, pausing, or conditioning data centers, or on ratepayers. Too thin to place her on the scale even at 'Mixed'.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "preemption",
+"objection": "Sources do not support the strongest 'Let states regulate' position. The Matsui letter she signed is explicitly conditional ('least of all when there are no meaningful federal protections in place'), her Jan 2026 statement faults moratorium advocates for failing to offer a national comprehensive proposal (implying a federal framework would be acceptable), and in Feb 2024 she said 'I don't think we can have 50 different systems; I think it needs to be done at the federal level.' Net picture is opposition to preemption absent a federal standard, not a principled preference for state regulation.",
+"suggested_score": -1,
+"suggested_label": "Leans states"
+}
+]
+},
+{
+"bioguide": "B000668",
+"checks": [
+{
+"url": "https://bendbulletin.com/2026/01/07/bentz-warns-of-future-power-shortfall-in-oregon-calls-for-changes-to-energy-policy/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-01-07",
+"note": "Quote is verbatim (Jan 7, 2026 Bulletin interview). Nuclear and transmission parts of the claim are directly supported: he wants Oregon to revisit constitutional nuclear restrictions and calls transmission 'already a bottleneck.' But the Prineville data-center reference is the reporter's context ('Data centers near Prineville also consume large amounts of electricity'), not something Bentz is quoted citing. Closest Bentz attribution is the paraphrase that population growth, electrification and data center development 'make it urgent' to reassess strategy. 'He cites Prineville data centers' overstates."
+},
+{
+"url": "https://bendbulletin.com/2026/01/07/bentz-warns-of-future-power-shortfall-in-oregon-calls-for-changes-to-energy-policy/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-07",
+"note": "Verbatim: 'If we don't streamline permitting,' Bentz said, 'we're not going to build what we need in time.' Article says he supports changes to federal permitting laws to speed power lines and generation; demand drivers per utility forecasts include data centers."
+},
+{
+"url": "https://kobi5.com/news/local-news/congressman-bentz-urges-passage-of-speed-act-in-light-of-energy-shortfalls-302100/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-18",
+"note": "Loaded via Wayback (site blocks direct fetch). Quote verbatim. Article: he urges the Senate to pass the SPEED Act, says Northwest faces an estimated 9-gigawatt shortfall, and transmission is 'full up, there's no more capacity.' Note the article frames this around energy shortfalls generally, not data centers specifically."
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-09",
+"note": "Verbatim in Bentz's questioning at the April 2025 E&C hearing (transcript published 2025-04-11; hearing was April 9). He calls AI an 'existential issue' and says 'we need to waive environmental rules... create exemptions... get past this haystack of obstacles.'"
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-09",
+"note": "Verbatim ('Why It's absolutely essential that we win this race to a goal that's not as clear as I would like.'). He asks each witness to 'make the best argument you can to America' for why AI competition is 'existential'; witnesses (Wang, Schmidt) frame it as beating the CCP."
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-21",
+"note": "Verbatim. His five minutes focus on how 'billions and billions and even trillions of dollars' get funded, whether there is 'some better way to fund,' and 'the access of the smaller people.' He does not propose or discuss new rules. The 'launched the national AI framework push' framing is the item's characterization of the hearing, not something in the transcript."
+},
+{
+"url": "https://bentz.house.gov/media/press-releases/congressman-bentz-s-safe-social-media-act-passes-out-of-the-energy-and-commerce-subcommittee-on-commerce-manufacturing-and-trade",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-12",
+"note": "Verbatim. Release (Dec 12, 2025) describes a study bill on social media's effects on children; no mandates proposed."
+},
+{
+"url": "https://bentz.house.gov/media/press-releases/case-you-missed-it-congressman-bentz-appointed-gop-task-force-big-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-07-01",
+"note": "Verbatim. Task force framing (leader quote) is that Big Tech must 'be reined in'; Bentz adds the caution about carefully considered government action. Release says his amendment to H.R.3816 (American Choice and Innovation Online Act) made it 'much more supportive of both consumers and innovation,' adopted 22-21."
+},
+{
+"url": "https://bendbulletin.com/2026/01/07/bentz-warns-of-future-power-shortfall-in-oregon-calls-for-changes-to-energy-policy/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-07",
+"note": "Verbatim headline quote, attributed to Bentz in a Bulletin interview about a PacifiCorp meeting."
+}
+],
+"score_objections": []
+}
+]

@@ -1,0 +1,686 @@
+[
+{
+"bioguide": "S001181",
+"name": "Jeanne Shaheen",
+"signature": "Retiring Foreign Relations ranking member who leads Senate Democrats against selling advanced AI chips to China and signed the New England senators' letter on data center power costs.",
+"groups": [
+"Ranking Member, Senate Committee on Foreign Relations"
+],
+"notable_quote": {
+"text": "The Trump administration’s announcement that it will allow the export of advanced H200 AI chips to China is a colossal economic and national security failure.",
+"url": "https://www.foreign.senate.gov/press/dem/release/ranking-member-shaheen-senator-coons-national-security-democrats-statement-on-president-trumps-decision-to-allow-the-export-of-advanced-nvidia-h200-ai-chips-to-china",
+"date": "2025-12-08"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Shaheen signed a January 2026 letter with five other New England senators pressing the regional grid operator to make tech companies, not families, pay for data center power demand. No statement calling for a pause or moratorium was found; the widely quoted 2026 'Shaheen' moratorium remarks come from her daughter Stefany Shaheen, the NH-1 candidate, not the senator.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: six New England senators ask ISO New England how it will protect ratepayers from data center costs",
+"url": "https://www.whitehouse.senate.gov/news/release/reed-whitehouse-seek-answers-about-how-new-regional-data-centers-could-drive-up-energy-health-environmental-costs-for-consumers",
+"date": "2026-01-29",
+"quote": "We believe it is necessary to require tech companies, not American families, to foot the bill for their load.",
+"what_it_shows": "Shaheen signed on to the view that the AI industry, not households, should pay for data center load and that the grid operator must shield residential ratepayers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Shaheen says Congress is doing too little on AI and hopes it does better than it did on social media; she backs targeted fixes like the TAKE IT DOWN Act and a ban on algorithmic price fixing. No call for licensing, binding safety testing or a pause was found.",
+"evidence": [
+{
+"type": "interview",
+"title": "WMUR town hall: Shaheen says Congress doing very little to address rise of AI",
+"url": "https://www.wmur.com/article/jeanne-shaheen-new-hampshire-ai/70656165",
+"date": "2026-03-08",
+"quote": "I hope that Congress can do a better job of addressing the technology around AI than we've done to address the other technology companies that have been responsible for social media",
+"what_it_shows": "She wants Congress to act on AI, and in the same answer voiced sympathy for an AI company that insisted on safeguards against surveillance uses in its Pentagon dispute."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (S.146), now law",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-02-06",
+"quote": null,
+"what_it_shows": "Backs a federal crime for posting AI-faked intimate images and fast takedown rules, a targeted guardrail."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Preventing Algorithmic Collusion Act of 2025 (S.232)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/232",
+"date": "2025-01-23",
+"quote": null,
+"what_it_shows": "Supports stopping companies from using shared pricing algorithms to fix prices."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Shaheen backs targeted rules on tech platforms, especially for kids: the Kids Online Safety Act, STOP CSAM, the ECCHO Act and a ban on Chinese-linked connected cars. She talks about holding Big Tech accountable but has not pushed break-ups or a Section 230 repeal.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Shaheen-backed Kids Online Safety Act passes Senate",
+"url": "https://www.shaheen.senate.gov/news/press/shaheen-backed-kids-online-safety-act-passes-senate-with-overwhelming-bipartisan-support-would-hold-big-tech-accountable-and-safeguard-youth-online",
+"date": "2024-07-30",
+"quote": "For too long, Big Tech has put profits above all else and failed to protect kids online.",
+"what_it_shows": "She frames kids' online safety as holding Big Tech accountable for addictive and harmful content."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (S.1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-07-31",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms toward minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: STOP CSAM Act of 2025 (S.1829)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2025-09-29",
+"quote": null,
+"what_it_shows": "Backs letting victims sue platforms that fail to remove child sexual abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (S.4429)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act, 118th Congress (S.1409)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409",
+"date": "2023-07-26",
+"quote": null,
+"what_it_shows": "Her support for kids online safety rules spans two Congresses."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Shaheen voted with nearly the whole Senate to strip the 10-year state AI law moratorium from the 2025 budget bill, but no statement, letter or bill was found showing her view on federal preemption of state AI laws as of Sept 2026.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Blackburn amendment striking the 10-year state AI law moratorium (Senate roll call 363)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "She joined the 99-1 vote to remove the moratorium, which by itself does not show a position on preemption."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Shaheen, the top Democrat on Foreign Relations, is one of the Senate's loudest voices against selling advanced AI chips to China: she called the H200 decision a colossal failure, signed letters against the 15 percent fee deal and the Gulf chip deals, and cosponsors the SAFE Chips and AI OVERWATCH Acts. She pairs that with a bill to help allies buy American tech.",
+"evidence": [
+{
+"type": "statement",
+"title": "Statement: Shaheen leads national security Democrats against allowing Nvidia H200 exports to China",
+"url": "https://www.foreign.senate.gov/press/dem/release/ranking-member-shaheen-senator-coons-national-security-democrats-statement-on-president-trumps-decision-to-allow-the-export-of-advanced-nvidia-h200-ai-chips-to-china",
+"date": "2025-12-08",
+"quote": "The Trump administration’s announcement that it will allow the export of advanced H200 AI chips to China is a colossal economic and national security failure.",
+"what_it_shows": "She led the Senate Democrats' condemnation of letting Nvidia sell H200 chips to China and asked the president to reverse course."
+},
+{
+"type": "letter",
+"title": "Letter: six Senate Democrats urge Trump to reverse the 15 percent fee deal for Nvidia and AMD chip sales to China (CNBC)",
+"url": "https://www.cnbc.com/2025/08/16/senate-democrats-letter-trump-advanced-ai-chip-sales-china.html",
+"date": "2025-08-15",
+"quote": "The willingness displayed in this arrangement to 'negotiate' away America's competitive edge that is key to our national security in exchange for what is, in effect, a commission on a sale of AI-enabling technology to our main global competitor",
+"what_it_shows": "She signed the letter calling the fee-for-licenses deal a threat to national security."
+},
+{
+"type": "statement",
+"title": "Joint statement of Senate and House Democrats on Trump's UAE and Saudi AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"date": "2025-05-16",
+"quote": "AI chips must only be exported to trusted companies, in reasonable numbers, and in concert with credible security standards and assurances.",
+"what_it_shows": "She opposed large Gulf chip exports without security assurances, warning the compute could reach China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: SAFE Chips Act of 2025 (S.3374)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3374",
+"date": "2025-12-04",
+"quote": null,
+"what_it_shows": "Backs locking in current chip export limits on China so the White House cannot loosen them alone."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI OVERWATCH Act (S.4456)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4456",
+"date": "2026-04-30",
+"quote": null,
+"what_it_shows": "Supports giving Congress a say before advanced AI chips are approved for sale to China and other risky countries."
+},
+{
+"type": "other",
+"title": "MeriTalk: Shaheen and Ricketts introduce the U.S. Tech PATH Act to help allies buy American cyber and digital technology",
+"url": "https://www.meritalk.com/articles/sens-shaheen-ricketts-push-tech-export-bill-for-allies/",
+"date": "2026-05-21",
+"quote": null,
+"what_it_shows": "She favors exporting American technology to trusted partners to undercut China, so her hawkishness is aimed at China rather than at exports generally."
+}
+]
+}
+},
+"search_notes": "About 16 searches plus site listings for shaheen.senate.gov. Direct fetches of senate.gov pages are blocked and the Wayback fallback was intermittent; the ISO New England letter was read on Whitehouse's site, the KOSA release via Wayback, and the H200 statement on foreign.senate.gov. Could not open the Ricketts SAFE Chips or Warner letter pages directly (used CNBC coverage). Many 'Shaheen' data center hits in Sept 2026 refer to Stefany Shaheen, not the senator. No AI super PAC activity found for her. No statements on the Dec 2025 executive order or Mar 2026 framework found."
+},
+{
+"bioguide": "H001076",
+"name": "Margaret Wood Hassan",
+"signature": "Joint Economic Committee ranking Democrat and Senate AI Caucus member who targets AI scams, voice cloning and AI-enabled hacking, and cosponsors the Chip Security Act.",
+"groups": [
+"Senate Artificial Intelligence Caucus (member)",
+"Ranking Member, Joint Economic Committee"
+],
+"notable_quote": {
+"text": "American workers cannot be left behind as American corporations continue to push forward with the development and adoption of artificial intelligence",
+"url": "https://www.hassan.senate.gov/news/press-releases/senator-hassan-colleagues-introduce-the-bipartisan-ai-workforce-prepare-act",
+"date": "2025-12-12"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. We searched her press releases and news coverage of the Bow and Nottingham fights, and checked the January 2026 New England senators' letter to ISO New England, which she did not sign.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Hassan focuses on concrete AI harms: scams, voice cloning, AI-enabled hacking, chatbots and kids, and job losses. She sponsors research on making AI reliable, cosponsors the GUARD Act, and in 2024 backed a bill to test the most powerful models for serious dangers. She has not called for licensing or a pause.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letters: Hassan and Hawley demand answers from seven AI companies on AI-enabled scams (NBC News)",
+"url": "https://www.nbcnews.com/tech/security/senators-grill-ai-companies-combating-scammers-rcna248416",
+"date": "2025-12-11",
+"quote": null,
+"what_it_shows": "She pressed Anthropic, Google, Meta, Microsoft, OpenAI, Perplexity and xAI on how they stop scammers from using their tools."
+},
+{
+"type": "letter",
+"title": "Letters: Hassan presses ElevenLabs, LOVO, Speechify and VEED on voice cloning scams (Biometric Update)",
+"url": "https://www.biometricupdate.com/202604/ai-voice-fraud-draws-new-congressional-scrutiny",
+"date": "2026-04-16",
+"quote": "global criminal networks have used deepfake voice programs, along with other new AI tools, to target more people with increasingly personalized and believable digital scams",
+"what_it_shows": "She asked voice cloning firms about consent checks, watermarking and reporting bad actors, treating AI fraud as a growing harm."
+},
+{
+"type": "letter",
+"title": "Letter: Hassan and Ernst ask the National Cyber Director about AI-enabled hacking after the Anthropic Claude incident (Cybersecurity Dive)",
+"url": "https://www.cybersecuritydive.com/news/ai-anthropic-cyberattack-senate-letter-white-house/807044/",
+"date": "2025-12-02",
+"quote": "The emerging threat to U.S. cybersecurity posed by foreign adversaries deploying autonomous AI systems requires a robust response from your office and other federal agencies",
+"what_it_shows": "She treats autonomous AI systems used by adversaries as a national security threat needing a government response."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Reliable Artificial Intelligence Research Act of 2025 (S.3336)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3336",
+"date": "2025-12-03",
+"quote": null,
+"what_it_shows": "Her own bill funds research to make AI systems harder to manipulate and easier to predict."
+},
+{
+"type": "statement",
+"title": "Press release: Hassan and Banks introduce the Reliable Artificial Intelligence Research Act",
+"url": "https://www.hassan.senate.gov/news/press-releases/senators-hassan-banks-introduce-bipartisan-legislation-to-increase-ai-security",
+"date": "2025-12-05",
+"quote": "As AI technology continues to advance rapidly, we need to make sure that these systems are secure and that they make reliable decisions",
+"what_it_shows": "She wants AI systems to be secure and predictable but pursues that through research funding, not mandates."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: GUARD Act (S.3062)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "Backs age checks and a ban on AI companion bots for minors."
+},
+{
+"type": "statement",
+"title": "Press release: Hassan helps introduce the AI Workforce PREPARE Act",
+"url": "https://www.hassan.senate.gov/news/press-releases/senator-hassan-colleagues-introduce-the-bipartisan-ai-workforce-prepare-act",
+"date": "2025-12-12",
+"quote": "American workers cannot be left behind as American corporations continue to push forward with the development and adoption of artificial intelligence",
+"what_it_shows": "She wants the government to track AI job losses and require notice when AI drives layoffs."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Preserving American Dominance in Artificial Intelligence Act of 2024 (S.5616, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/5616",
+"date": "2024-12-19",
+"quote": null,
+"what_it_shows": "She backed a bill to set up a government office to check the most powerful AI models for serious dangers before release, a stronger safety step than her 2025 bills."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Hassan backs targeted rules for tech platforms, mostly around kids and abuse: the Kids Online Safety Act, the EARN IT Act, warning labels on social media, a deepfake porn bill she wrote, and a ban on Chinese-linked connected cars. No push for break-ups or a Section 230 repeal was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (S.1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms toward minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: EARN IT Act of 2023 (S.1207, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1207",
+"date": "2023-04-19",
+"quote": null,
+"what_it_shows": "Backed stripping platforms' legal shield when they let child abuse material spread."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Preventing Deepfakes of Intimate Images Act (S.4409, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/4409",
+"date": "2024-05-23",
+"quote": null,
+"what_it_shows": "Wrote a bill making it a crime to share AI-made sexual images without consent."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Stop the Scroll Act (S.1885)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1885",
+"date": "2026-03-02",
+"quote": null,
+"what_it_shows": "Supports mental health warning labels on social media apps."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (S.4429)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-08-03",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and software from companies tied to adversary nations."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Hassan voted with nearly the whole Senate to strip the 10-year state AI law moratorium from the 2025 budget bill, but no statement, letter or bill was found showing her view on preempting state AI laws as of Sept 2026.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Blackburn amendment striking the 10-year state AI law moratorium (Senate roll call 363)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "She joined the 99-1 vote to remove the moratorium, which by itself does not show a position on preemption."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Hassan cosponsors the Chip Security Act, which would require location tracking on advanced chips so they cannot be smuggled to China, and she frames AI security around Chinese threats. She has not spoken publicly on the Nvidia H20 or H200 sales.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Chip Security Act (S.1705)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2025-05-20",
+"quote": null,
+"what_it_shows": "Backs built-in location verification for exported AI chips to stop diversion to China."
+},
+{
+"type": "statement",
+"title": "Press release: Hassan and Banks introduce the Reliable Artificial Intelligence Research Act",
+"url": "https://www.hassan.senate.gov/news/press-releases/senators-hassan-banks-introduce-bipartisan-legislation-to-increase-ai-security",
+"date": "2025-12-05",
+"quote": "so that we can also strengthen our defenses against bad actors and foreign adversaries like China, who may utilize AI to hurt Americans",
+"what_it_shows": "She casts AI security as a defense against China."
+},
+{
+"type": "letter",
+"title": "Letter: Hassan and Ernst ask the White House about Chinese state-linked hackers using Anthropic's Claude (Cybersecurity Dive)",
+"url": "https://www.cybersecuritydive.com/news/ai-anthropic-cyberattack-senate-letter-white-house/807044/",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "She treats Chinese use of American AI tools for cyberattacks as a national security problem."
+}
+]
+}
+},
+"search_notes": "About 15 searches plus site listings for hassan.senate.gov. Direct senate.gov fetches are blocked; Wayback recovered the PREPARE and Reliable AI releases but not the 2023 HSGAC AI hearing, the Romney export control pages, or the Axios and Forbes voice cloning stories (used Biometric Update and NBC instead). Senate AI Caucus membership confirmed on Heinrich's caucus page via Wayback. No data center statements found; she did not sign the ISO New England letter. No AI super PAC activity found. No statements on the Dec 2025 executive order or Mar 2026 framework found."
+},
+{
+"bioguide": "P000614",
+"name": "Chris Pappas",
+"signature": "NH-1 congressman and Democratic Senate nominee who says New Hampshire is not the right place for AI data centers and wrote a bill to ban AI surveillance pricing on groceries.",
+"groups": [
+"Congressional Lowering Utility Bills Caucus (co-launched)"
+],
+"notable_quote": {
+"text": "New Hampshire is not the right place for AI data centers and Granite Staters should not be asked to foot the bill for large, out-of-state corporations who might seek to develop these centers",
+"url": "https://spectrumnews1.com/ma/worcester/news/2026/09/08/new-hampshire-data-centers-shaheen-pappas-ayotte",
+"date": "2026-09-07"
+},
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "medium",
+"summary": "Pappas, the Democratic nominee for Senate, says New Hampshire is not the right place for AI data centers and that residents should not subsidize out-of-state developers. He voted against the SPEED Act permitting bill and helped start a caucus on utility bills. He has not filed data center legislation or called for a formal moratorium.",
+"evidence": [
+{
+"type": "statement",
+"title": "Spectrum News: Pappas tells reporter New Hampshire is not the right place for AI data centers",
+"url": "https://spectrumnews1.com/ma/worcester/news/2026/09/08/new-hampshire-data-centers-shaheen-pappas-ayotte",
+"date": "2026-09-07",
+"quote": "New Hampshire is not the right place for AI data centers and Granite Staters should not be asked to foot the bill for large, out-of-state corporations who might seek to develop these centers",
+"what_it_shows": "As Senate nominee he opposes AI data centers coming to New Hampshire and wants residents shielded from the costs."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R.4776, the SPEED Act permitting reform bill (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted against a permitting-reform bill backers say would speed energy and infrastructure projects; NH Journal reported he did not explain the vote."
+},
+{
+"type": "statement",
+"title": "Press release: Pappas helps launch the Congressional Lowering Utility Bills Caucus",
+"url": "https://pappas.house.gov/media/press-releases/pappas-helps-launch-congressional-lowering-utility-bills-caucus",
+"date": "2026-01-23",
+"quote": "Congress needs to step up, take on corporations raking in record profits, and deliver solutions that lower people’s bills and put more money back in their pockets",
+"what_it_shows": "His energy focus is ratepayer costs and holding utilities accountable for rate hikes."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Pappas targets specific AI harms: he wrote a bill to ban AI surveillance pricing on groceries, cosponsors a broader AI price and wage fixing ban, pressed Medicare on AI claim denials, and led the delegation's response to the 2024 AI deepfake robocall. No statements on frontier AI safety, licensing or a pause were found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Pappas introduces the Lower Grocery Prices Act to ban AI surveillance pricing on food",
+"url": "https://pappas.house.gov/media/press-releases/pappas-introduces-bill-to-ban-corporations-from-using-ai-to-raise-food-prices",
+"date": "2026-04-10",
+"quote": "Big corporations are raking in record profits while using surveillance pricing to raise prices for families who are struggling to put food on the table.",
+"what_it_shows": "His own bill would prohibit companies from using AI and personal data to set individual food prices."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Stop AI Price Gouging and Wage Fixing Act of 2025 (H.R.4640)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2026-03-05",
+"quote": null,
+"what_it_shows": "Backs a broad ban on using AI and personal data to charge different prices or pay different wages."
+},
+{
+"type": "letter",
+"title": "Letter: Pappas asks Medicare to oversee AI use in Medicare Advantage prior authorization",
+"url": "https://pappas.house.gov/media/press-releases/pappas-raises-concern-about-improper-use-of-ai-by-medicare-advantage-providers",
+"date": "2023-11-30",
+"quote": "I am concerned that the use of AI in claims processing could further exacerbate MA prior authorization abuse and denials",
+"what_it_shows": "He wants government oversight of AI used to deny health claims."
+},
+{
+"type": "letter",
+"title": "Letter: Pappas leads NH delegation asking FCC and FEC to coordinate against AI deepfake robocalls",
+"url": "https://pappas.house.gov/media/press-releases/pappas-leads-nh-delegation-in-urging-further-coordination-to-prevent-ai-robocalls-applauds-recent-efforts-to-protect-nh-voters",
+"date": "2024-02-15",
+"quote": "We are deeply troubled by this attempt at election interference and voter suppression.",
+"what_it_shows": "After the AI-generated Biden robocall before the NH primary, he pushed regulators to police deepfake robocalls."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Pappas backs targeted tech rules: the TikTok forced-sale law, reproductive health data privacy, stronger child abuse material reporting, and more money for antitrust enforcers. No calls to break up Big Tech or repeal Section 230 were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Americans from Foreign Adversary Controlled Applications Act (H.R.7521, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "Backed forcing TikTok's Chinese owner to sell or face a ban."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: My Body, My Data Act of 2023 (H.R.3420, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Supports limits on collecting and sharing reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Child Online Safety Modernization Act of 2023 (H.R.5182, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2024-03-19",
+"quote": null,
+"what_it_shows": "Supports fuller reporting of child abuse material by online companies."
+},
+{
+"type": "statement",
+"title": "Press release: Pappas helps pass the Merger Filing Fee Modernization Act to fund antitrust enforcement",
+"url": "https://pappas.house.gov/media/press-releases/pappas-helps-pass-bipartisan-antitrust-enforcement-legislation",
+"date": "2022-09-29",
+"quote": "We must ensure that federal antitrust agencies and state officials have the resources they need to enforce our antitrust laws effectively",
+"what_it_shows": "He supports stronger antitrust enforcement resources, a moderate step rather than break-ups."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Pappas did not sign the December 2025 Clarke letter against an AI moratorium in the defense bill, and we found no statement on the December 2025 executive order or the March 2026 White House framework as of Sept 2026.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls. His China-related tech work is the TikTok forced-sale law and a bill to bring circuit board making home, neither of which addresses chip sales to China.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Circuit Boards and Substrates Act (H.R.3249, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3249",
+"date": "2023-06-13",
+"quote": null,
+"what_it_shows": "Supports tax breaks for making circuit boards in America; this is about domestic supply, not export controls."
+}
+]
+}
+},
+"search_notes": "About 14 searches plus site listings for pappas.house.gov. Read the Spectrum News data center piece, his grocery pricing, Medicare AI, robocall, antitrust and utility caucus releases, the govtrack SPEED Act roll call, NHPR primary coverage and the NH Journal permitting piece (via Wayback). The NH Bulletin Senate candidate comparison contained no data center or AI content. Could not locate the Nov 2025 Matsui preemption letter signer list. No AI super PAC support or attacks found in the Senate race as of Sept 2026."
+},
+{
+"bioguide": "G000604",
+"name": "Maggie Goodlander",
+"signature": "Former DOJ antitrust official who fights algorithmic rent fixing, signed the letter against an AI moratorium in the NDAA, and co-leads the MATCH Act on chip equipment export controls.",
+"groups": [
+"Monopoly Busters Caucus (member)",
+"Congressional Lowering Utility Bills Caucus (member)"
+],
+"notable_quote": {
+"text": "have got to have the ultimate say in whether a data center comes into their community",
+"url": "https://indepthnh.org/2026/09/03/congressional-district-2-democratic-primary-candidates-debate-housing-immigration-and-data-centers/",
+"date": "2026-09-03"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Goodlander says communities must have the final say on data centers, cites 200 percent power price jumps elsewhere, and wants companies rather than taxpayers to pay; she cosponsors the Ratepayer Protection Act and voted against the SPEED Act permitting bill. She has not called for a moratorium.",
+"evidence": [
+{
+"type": "statement",
+"title": "WMUR debate (InDepthNH report): Goodlander says communities must have the ultimate say on data centers",
+"url": "https://indepthnh.org/2026/09/03/congressional-district-2-democratic-primary-candidates-debate-housing-immigration-and-data-centers/",
+"date": "2026-09-03",
+"quote": "have got to have the ultimate say in whether a data center comes into their community",
+"what_it_shows": "She wants local control, transparency and accountability, with the corporations building data centers paying rather than taxpayers; she did not call for a ban."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Ratepayer Protection Act (H.R.9340)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-09-04",
+"quote": null,
+"what_it_shows": "Backs keeping household electric bills from rising to pay for power that big users like data centers need."
+},
+{
+"type": "statement",
+"title": "Press release: Goodlander petitions to intervene in Liberty Utilities rate hike case",
+"url": "https://goodlander.house.gov/media/press-releases/goodlander-continues-fight-to-lower-new-hampshire-energy-costs-petitions-to-intervene-in-liberty-utilities-rate-hike-case/",
+"date": "2026-09-01",
+"quote": "Granite Staters are already getting crushed by the high cost of energy, and they deserve to know that every dollar they are being asked to pay is necessary",
+"what_it_shows": "She is intervening in a utility rate case as an energy-cost watchdog; the case is about gas rates, not data centers."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R.4776, the SPEED Act permitting reform bill (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted against a permitting-reform bill backers say would speed energy and infrastructure projects."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Goodlander's AI work centers on algorithms that fix prices: she leads the End Rent Fixing Act, cosponsors a bill requiring disclosure of algorithmic pricing, and wants trade rules changed so AI systems can be audited for bias. She also backs helping small businesses use AI. No statements on frontier AI safety or a pause were found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Goodlander leads the End Rent Fixing Act against algorithmic rent setting",
+"url": "https://goodlander.house.gov/media/press-releases/goodlander-leads-bill-to-crack-down-on-corporate-monopolies-artificially-inflating-rents",
+"date": "2026-01-02",
+"quote": "I’m taking on price-fixing in housing and leading the End Rent Fixing Act to stop corporate landlords from using algorithms to artificially inflate rents",
+"what_it_shows": "Her lead bill would ban landlords from coordinating rents through AI and algorithmic software."
+},
+{
+"type": "interview",
+"title": "Business NH Magazine: Goodlander on AI-driven rent setting and the RealPage settlement",
+"url": "https://www.businessnhmagazine.com/article/nh-rents-are-already-going-up-but-is-ai-driving-some-even-higher",
+"date": "2026-09-02",
+"quote": "What we see now are new and sophisticated data-driven, algorithm-driven tools to fix prices.",
+"what_it_shows": "She calls the RealPage settlement insufficient and wants antitrust law updated for algorithmic pricing."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: SLASH Prices Act (H.R.9371)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9371",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Supports making companies disclose when a computer program sets the prices people pay."
+},
+{
+"type": "letter",
+"title": "Letter: Jayapal and Goodlander urge USTR to revise USMCA provisions that hinder regulation of Big Tech",
+"url": "https://jayapal.house.gov/2025/11/04/jayapal-goodlander-urge-ustr-to-revise-usmca-provisions-that-hinder-regulation-of-big-tech-monopolies",
+"date": "2025-11-04",
+"quote": null,
+"what_it_shows": "Asked USTR to strip trade terms that block laws letting regulators audit AI systems for accuracy, bias and fairness."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI-WISE Act (H.R.5784)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5784",
+"date": "2025-11-17",
+"quote": null,
+"what_it_shows": "Backs free SBA lessons on using AI safely, showing she also wants small businesses to adopt AI."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "medium",
+"summary": "A former DOJ antitrust official and Monopoly Busters Caucus member, Goodlander co-led a letter calling Amazon, Google, Apple and Meta monopolies and urging trade rule changes so Congress can impose structural safeguards on Big Tech. Her rent-fixing bill applies antitrust law to algorithms.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Jayapal and Goodlander urge USTR to revise USMCA provisions that hinder regulation of Big Tech monopolies",
+"url": "https://jayapal.house.gov/2025/11/04/jayapal-goodlander-urge-ustr-to-revise-usmca-provisions-that-hinder-regulation-of-big-tech-monopolies",
+"date": "2025-11-04",
+"quote": "They have achieved monopoly power by crushing and acquiring rivals, creating network effects, and leveraging vast amounts of user data to cement their dominant positions",
+"what_it_shows": "She co-led a 17-member letter treating the largest tech firms as monopolies and seeking room for structural and behavioral safeguards."
+},
+{
+"type": "statement",
+"title": "Press release: Goodlander leads the End Rent Fixing Act",
+"url": "https://goodlander.house.gov/media/press-releases/goodlander-leads-bill-to-crack-down-on-corporate-monopolies-artificially-inflating-rents",
+"date": "2026-01-02",
+"quote": "I served for years as an Assistant Attorney General at the U.S. Department of Justice, where I took on the corporate monopolies that are artificially jacking up rents",
+"what_it_shows": "She frames her tech agenda around aggressive antitrust enforcement against corporate monopolies."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Goodlander signed the December 2025 House Democratic letter urging that no moratorium or preemption of state AI laws be put in the defense bill, calling a moratorium wildly irresponsible without federal legislation. No later statement on the December 2025 executive order or March 2026 framework was found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Clarke leads 44 House Democrats urging exclusion of any AI moratorium or preemption from the FY26 NDAA",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "She is listed among the signers opposing federal preemption or a moratorium on state AI laws."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Goodlander co-led the bipartisan MATCH Act to tighten export controls on chipmaking equipment going to China and pressed the Defense Secretary on keeping America ahead of China in AI. She has not spoken specifically on Nvidia H20 or H200 sales.",
+"evidence": [
+{
+"type": "statement",
+"title": "Broadband Breakfast: Goodlander co-introduces the MATCH Act to tighten semiconductor equipment export controls",
+"url": "https://broadbandbreakfast.com/bipartisan-bill-targets-chinas-access-to-u-s-semiconductor-technology/",
+"date": "2026-04-15",
+"quote": "Our bipartisan MATCH Act is about closing dangerous loopholes that China is exploiting and standing shoulder to shoulder with our allies.",
+"what_it_shows": "She co-leads a bill restricting sales of key chipmaking tools to China and aligning controls with allies."
+},
+{
+"type": "other",
+"title": "Press release summary: Goodlander joins bipartisan effort to introduce the MATCH Act (Quiver Quantitative)",
+"url": "https://www.quiverquant.com/news/Press+Release%3A+Goodlander+Joins+Bipartisan+Efforts+to+Introduce+MATCH+Act+for+Semiconductor+Export+Controls",
+"date": "2026-04-03",
+"quote": "America, not China, should lead the world in AI",
+"what_it_shows": "She frames export controls as a way to keep the United States ahead of China in AI."
+},
+{
+"type": "hearing",
+"title": "Press release: Goodlander presses Hegseth on the defense budget and American AI dominance over China",
+"url": "https://goodlander.house.gov/media/press-releases/goodlander-pushes-hegseth-answers-delays-dod-budget-american-ai-dominance-over",
+"date": "2025-06-12",
+"quote": null,
+"what_it_shows": "At a House Armed Services hearing she questioned the Defense Secretary about keeping American AI ahead of China."
+}
+]
+}
+},
+"search_notes": "About 14 searches plus site listings for goodlander.house.gov. Read the InDepthNH debate report, her rent-fixing, Liberty Utilities, Hegseth and utility-cost releases, the Jayapal USTR letter, the Clarke NDAA letter, the Broadband Breakfast and Quiver MATCH Act items, the Business NH rent piece, and the govtrack SPEED Act roll call. Could not locate the Nov 2025 Matsui letter signer list. No AI super PAC activity found in NH-2 as of Sept 2026."
+}
+]

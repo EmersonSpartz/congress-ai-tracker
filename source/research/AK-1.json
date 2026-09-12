@@ -1,0 +1,534 @@
+[
+{
+"bioguide": "M001153",
+"name": "Lisa Murkowski",
+"signature": "Cosponsor of kids online safety and AI disclosure bills (AI in political ads, AI toys); no public record found on data centers, chips, or state AI law preemption.",
+"groups": [],
+"notable_quote": {
+"text": "Our bill only requires a disclaimer when political ads use AI in a significant way",
+"date": "2024-03-06",
+"url": "https://www.murkowski.senate.gov/press/release/murkowski-klobuchar-introduce-bipartisan-legislation-to-require-transparency-in-political-ads-with-ai-generated-content"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers, their electric bills or water use, the Stak Energy North Slope proposal, or the Air Force base data center plan as of Sept 2026. Her 2026 grid bill is about grid security and resilience, not data centers.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Murkowski, Cortez Masto, Shaheen introduce SECURE Grid Act on electric grid security",
+"url": "https://www.murkowski.senate.gov/press/release/murkowski-cortez-masto-shaheen-introduce-bipartisan-legislation-to-strengthen-electric-grid-security",
+"date": "2026-03-24",
+"quote": "As we work to connect more communities across our state, ensuring our electric grids are secure and resilient is essential.",
+"what_it_shows": "Her closest energy-grid action; it addresses grid vulnerabilities and does not mention data centers, and only her cosponsor Cortez Masto tied it to AI demand."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports specific, targeted AI rules: she co-wrote a bill requiring disclaimers on AI-generated political ads and is the original Republican cosponsor of the 2026 AI toy safety bill. She also backed a bill to grow AI research at the Energy Department, so she is not anti-AI.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Murkowski, Klobuchar introduce AI Transparency in Elections Act",
+"url": "https://www.murkowski.senate.gov/press/release/murkowski-klobuchar-introduce-bipartisan-legislation-to-require-transparency-in-political-ads-with-ai-generated-content",
+"date": "2024-03-06",
+"quote": "Our bill only requires a disclaimer when political ads use AI in a significant way",
+"what_it_shows": "In her own words she wants voters told when political ads are made with AI, a targeted transparency rule."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI Transparency in Elections Act of 2024 (118th S.3875)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/3875",
+"date": "2024-03-06",
+"quote": null,
+"what_it_shows": "She put her name on a bill requiring AI disclaimers in political ads."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: Children's Artificial Intelligence Toy Safety Act of 2026 (S.5171)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5171",
+"date": "2026-07-29",
+"quote": null,
+"what_it_shows": "She joined Sen. Duckworth on the day of introduction to set federal safety rules for AI-powered toys that talk to kids."
+},
+{
+"type": "statement",
+"title": "Tech Times: Senate Commerce advances KOSA and AI toy bill, naming Murkowski as co-author of S.5171",
+"url": "https://www.techtimes.com/articles/323240/20260805/senate-unanimously-advances-kosa-duty-care-screen-act-collapses-quorum.htm",
+"date": "2026-08-05",
+"quote": "would require a study of AI-enabled toys and the development of a joint federal action plan governing their manufacture and sale",
+"what_it_shows": "Independent coverage confirms she co-led the AI toy safety bill that the Commerce Committee advanced in August 2026."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Department of Energy AI Act (118th S.4664)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/4664",
+"date": "2024-07-10",
+"quote": null,
+"what_it_shows": "She also backs expanding AI research at the national labs, showing she supports AI development alongside targeted guardrails."
+},
+{
+"type": "statement",
+"title": "E&E News: Senate bill would boost DOE's work on artificial intelligence (Manchin-Murkowski)",
+"url": "https://www.eenews.net/articles/senate-bill-would-boost-does-work-on-artificial-intelligence/",
+"date": "2024-07-11",
+"quote": "Senate Energy and Natural Resources Chair Joe Manchin and Alaska Republican Sen. Lisa Murkowski introduced legislation Wednesday that would “advance American leadership in artificial intelligence,” including for energy and environmental applications.",
+"what_it_shows": "She co-led a pro-AI research bill, a sign her approach is pro-development with narrow rules rather than sweeping restrictions."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted rules on tech companies: she cosponsored the Kids Online Safety Act in both the 118th and 119th Congress, the EARN IT Act on child abuse material, and a bill letting news outlets bargain with Google and Facebook. No calls for breakups or repealing Section 230 were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (S.1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-23",
+"quote": null,
+"what_it_shows": "She supports making social media and gaming platforms build in protections for children."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (118th S.1409)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Her support for kids online safety rules goes back to the prior Congress."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: EARN IT Act of 2023 (118th S.1207)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1207",
+"date": "2023-04-19",
+"quote": null,
+"what_it_shows": "She backed stripping platforms' legal shield when they let child abuse material spread."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Journalism Competition and Preservation Act of 2023 (118th S.1094)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1094",
+"date": "2024-03-14",
+"quote": null,
+"what_it_shows": "She supported letting news outlets team up to negotiate payment from Google and Facebook, a targeted check on Big Tech."
+},
+{
+"type": "statement",
+"title": "Press release: Murkowski blasts Big Brother surveillance, backs USA FREEDOM Act",
+"url": "https://www.murkowski.senate.gov/press/release/murkowski-blasts-big-brother-surveillance-of-civilians-backs-bill-to-restore-privacy-rights",
+"date": "2015-05-04",
+"quote": "Just because the government possesses the technology making such data collection possible doesn’t mean they should.",
+"what_it_shows": "Long record of defending personal privacy, though aimed at government surveillance rather than tech companies."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "She voted Yea on the July 2025 amendment that struck the 10-year moratorium on state AI laws, as did 98 other senators, but no statement from her on state AI laws, the Dec 2025 executive order, or the March 2026 White House framework was found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1 (Senate roll call 363)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "She joined the 99-1 vote to remove the moratorium; nearly every senator voted the same way, so this alone does not show her view on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on AI chip export controls, Nvidia sales to China, or related chip security measures as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 15 Google News searches (artificial intelligence, AI, data centers, chatbot/deepfake/AI toy, Big Tech/Section 230/KOSA, Nvidia/export controls, preemption/moratorium, electricity/ratepayers, hearings, local Alaska outlets) plus Wayback listings of murkowski.senate.gov filtered for AI/tech/kids terms. Read her AI political ads release, USA FREEDOM release, SECURE Grid release, PHS ACCESS release (AI/AN there means American Indian/Alaska Native, not artificial intelligence), E&E News on the DOE AI Act, Tech Times on the Aug 2026 Commerce markup, and the congress.gov cosponsor page for S.5171. murkowski.senate.gov blocks direct fetches; used Wayback and a text proxy. Nothing found on data centers, chips, or preemption. An Alaska Landmine story (Aug 13, 2026) says a PauseAI volunteer met with Murkowski, but no statement from her. No AI super PAC activity involving her found."
+},
+{
+"bioguide": "S001198",
+"name": "Dan Sullivan",
+"signature": "Pushed the Air Force to site AI data centers on Alaska bases to create demand for the Alaska LNG pipeline; Commerce Committee kids-online-safety hawk who says Big Tech has a vise grip on kids.",
+"groups": [],
+"notable_quote": {
+"text": "I’ll give you an example of something we’ve been pressing on, and we just made really important progress yesterday on: new federal data centers on Air Force bases in Alaska for AI computing.",
+"date": "2026-02-18",
+"url": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-touts-alaska-comeback-historic-opportunities-in-annual-address-to-legislature/"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Strong booster of AI data centers in Alaska, especially on military bases, because they would buy Alaska gas and help finance the LNG pipeline. He also wrote defense bill language requiring grid impact reviews so base data centers do not hurt local utilities, so he is build-with-conditions rather than build-at-any-cost.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release with transcript: Sullivan's annual address to the Alaska Legislature",
+"url": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-touts-alaska-comeback-historic-opportunities-in-annual-address-to-legislature/",
+"date": "2026-02-18",
+"quote": "I’ll give you an example of something we’ve been pressing on, and we just made really important progress yesterday on: new federal data centers on Air Force bases in Alaska for AI computing.",
+"what_it_shows": "In his own words he lobbied the Air Force to issue a request for information for AI data centers in Alaska, saying it would help the military, raise gas demand, and lower the cost of the LNG pipeline."
+},
+{
+"type": "interview",
+"title": "Must Read Alaska: Sullivan on progress for the Alaska LNG project",
+"url": "https://mustreadalaska.com/sullivan-speaks-on-really-significant-progress-for-alaska-lng-project/",
+"date": "2026-01-15",
+"quote": "That’s a great idea that the administration is pursuing: data centers for our military on military bases. Well, guess where would be a great place to do that? It would be in Alaska.",
+"what_it_shows": "He praises the administration's plan for data centers on bases and pitches Alaska as the place to build them."
+},
+{
+"type": "statement",
+"title": "Press release: Sullivan secures 56 provisions in FY 2027 defense authorization, including data center community-impact language",
+"url": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-secures-56-provisions-historic-26-billion-for-alaska-in-fy-2027-defense-authorization",
+"date": "2026-06-23",
+"quote": "Direct DOW to establish a comprehensive strategy and roadmap to mitigate local community impacts during the construction of private data centers on military installations.",
+"what_it_shows": "He added a condition: the Pentagon must run grid impact assessments before leasing base land for data centers so local utility needs are not compromised."
+},
+{
+"type": "statement",
+"title": "Newsweek: AI Data Center War, where candidates in key Senate races stand",
+"url": "https://www.newsweek.com/ai-data-center-war-where-democrats-republicans-in-key-senate-races-stand-12354265",
+"date": "2026-08-22",
+"quote": "Sullivan has actively petitioned to bring data centers onto Air Force and joint military installations in the state.",
+"what_it_shows": "National coverage of his toss-up race against Mary Peltola frames him as the pro-data-center candidate, though the issue is not central to the race."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "His AI concern runs through kids and social media. On the Commerce Committee he voted in August 2026 to advance the Kids Online Safety Act along with bills on AI chatbots and AI toys. No statements found treating advanced AI itself as a major danger or calling for broad AI licensing or testing rules.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Sullivan, Commerce Committee advance legislation to protect youth online, demand accountability from Big Tech",
+"url": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-commerce-committee-advance-legislation-to-protect-youth-online-demand-accountability-from-big-tech",
+"date": "2026-08",
+"quote": "I want to commend my committee colleagues for coming together once again to advance serious legislation that protects young people online and shakes the vise grip that Big Tech has on our kids.",
+"what_it_shows": "He voted to advance four youth online safety bills at the Aug 5, 2026 markup and framed it as reining in Big Tech's hold on kids."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press: Senate Committee advances four bills aimed at protecting children online (KOSA, CHATBOT Act, AI toy bill)",
+"url": "https://www.techpolicy.press/senate-committee-advances-four-bills-aimed-at-protecting-children-online/",
+"date": "2026-08-06",
+"quote": "Sen. Dan Sullivan (R-Alaska.) proposed adding a measure requiring social media companies to report to the Federal Trade Commission how much public-service advertising they provide for mental health resources.",
+"what_it_shows": "At the markup that advanced the CHATBOT Act (parental consent for minors using AI chatbots) and the AI toy safety bill, he offered and then withdrew a mental-health amendment so KOSA could move cleanly."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (S.1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-23",
+"quote": null,
+"what_it_shows": "Original cosponsor of the main kids online safety bill, which covers algorithm-driven feeds and design features."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Wants targeted rules on tech platforms, focused on kids: original cosponsor of the Kids Online Safety Act, cosponsor of the Parents Over Platforms Act, author of a social media mental health ad bill that passed the Senate, and an early voice for hearings on TikTok. He talks about Big Tech's financial interests hurting kids but has not called for breakups or ending Section 230.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Sullivan legislation to increase mental health resources on social media passes Senate (ADS for Mental Health Act)",
+"url": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-legislation-to-increase-mental-health-awareness-and-resources-on-social-media-passes-senate",
+"date": "2026-03",
+"quote": "Since becoming senator, I’ve warned that the outsized role social media plays in the lives of our kids would be one of the biggest battles we face in this youth mental health crisis",
+"what_it_shows": "His own bill, passed by the Senate unanimously, requires platforms to report on targeted ads and pushes them to run mental health messages."
+},
+{
+"type": "statement",
+"title": "Press release: Sullivan, Commerce Committee advance legislation to protect youth online",
+"url": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-commerce-committee-advance-legislation-to-protect-youth-online-demand-accountability-from-big-tech",
+"date": "2026-08",
+"quote": "I urge my House colleagues to join us in passing these reasonable accountability safeguards and not allow the financial interests of Big Tech to override the well-being of our kids.",
+"what_it_shows": "He casts kids online safety rules as accountability for Big Tech and presses the House to pass them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Parents Over Platforms Act (S.4349)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4349",
+"date": "2026-06-04",
+"quote": null,
+"what_it_shows": "Backs device-level age signals that force platforms to turn off manipulative feeds and targeted ads for minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (118th S.1409)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409",
+"date": "2023-05-02",
+"quote": null,
+"what_it_shows": "His support for KOSA dates to the prior Congress, when it passed the Senate 91-3."
+},
+{
+"type": "letter",
+"title": "Press release: Sullivan presses for hearing on TikTok influence as Congress weighs ban (letter to Commerce leaders)",
+"url": "https://www.sullivan.senate.gov/newsroom/press-releases/-icymi_sullivan-presses-for-crucial-hearing-on-tiktok-influence-as-congress-weighs-ban",
+"date": "2023-01-11",
+"quote": "Now, there is a growing bipartisan recognition of the problem and momentum for further congressional scrutiny.",
+"what_it_shows": "He asked Commerce Committee leaders for a TikTok hearing over privacy, national security, and the app's influence on children."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: RESTRICT Act (118th S.686)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-07",
+"quote": null,
+"what_it_shows": "Supported giving the government power to review and block tech from rival countries such as China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (S.4429)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "Backs banning connected car tech from companies tied to China, Russia, Iran, or North Korea."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "He voted Yea on the July 2025 amendment that removed the 10-year moratorium on state AI laws, like 98 other senators, but no statement from him on state AI laws, the Dec 2025 executive order, or the March 2026 White House framework was found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1 (Senate roll call 363)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote to strip the moratorium; because nearly every senator did, this does not by itself show his view on preemption."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Leans hard toward tighter controls: in December 2025 he cosponsored the SAFE Chips Act, written to stop the White House from loosening export limits on advanced AI chips to China after the Nvidia H200 decision, and he backs bills to curb U.S. investment in Chinese military tech and ban Chinese connected-car tech. No speech from him on chips specifically was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: SAFE Chips Act of 2025 (S.3374)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3374",
+"date": "2025-12-16",
+"quote": null,
+"what_it_shows": "He joined the Ricketts-Coons bill to lock in restrictions on selling the most advanced AI chips to China; congress.gov shows him added Dec 16, 2025, days after the H200 sales were announced."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: FIGHT China Act of 2025 (S.1053)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1053",
+"date": "2025-03-13",
+"quote": null,
+"what_it_shows": "Supports reporting and blocking U.S. investment in Chinese companies building military or surveillance technology."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (S.4429)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "Part of a consistent pattern of restricting Chinese-linked technology in the U.S. market."
+}
+]
+}
+},
+"search_notes": "Ran about 18 Google News searches (artificial intelligence, AI, data centers, Air Force RFI, Alaska LNG and data centers, Nvidia/export controls/chips, SAFE Chips Act, Big Tech/Section 230/KOSA/chatbot, TikTok, Parents Over Platforms, Peltola race coverage, Ratepayer Protection Pledge, NDAA AI) plus Wayback listings of sullivan.senate.gov. sullivan.senate.gov returns 403 to direct fetches and Wayback was refusing connections during this session, so his releases were read through a text proxy; quotes were checked word for word in that text. Read the Feb 2026 legislature address transcript, Aug 2026 Commerce markup release, ADS for Mental Health Act release, FY2027 NDAA release, TikTok letter release, Must Read Alaska Jan 2026 remarks, Newsweek, NBC, Data for Progress poll (73% of Alaska voters back a data center pause), Tech Policy Press and Tech Times markup coverage, and the congress.gov cosponsor page for S.3374. Exact day of the Aug 2026 and Mar 2026 releases not shown on the proxy text, so month-level dates are used. No AI super PAC activity in his race found; the Aug 2026 primary coverage centered on the same-name challenger Dan Sullivan."
+},
+{
+"bioguide": "B001323",
+"name": "Nicholas J. Begich III",
+"signature": "Tech entrepreneur turned congressman who leads the House DATA Act to let data centers bring their own off-grid power, calls the AI buildout a gold rush for Alaska, and warns Congress not to regulate AI too early.",
+"groups": [
+"Congressional Artificial Intelligence Caucus (member)",
+"House Natural Resources Subcommittee on Energy and Mineral Resources (Vice Chair)"
+],
+"notable_quote": {
+"text": "We can hesitate, regulate too early and risk becoming an observer in one of the most important economic shifts of our time, or we can engage thoughtfully, strategically and on our own terms.",
+"date": "2026-04-23",
+"url": "https://begich.house.gov/media/op-eds/how-alaska-can-use-our-energy-advantage-capitalize-ai-gold-rush"
+},
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "high",
+"summary": "Wants Alaska to build data centers fast. He introduced the House DATA Act to loosen federal rules so data centers can run isolated grid-of-one power systems, wrote an op-ed urging Alaska to capitalize on the AI gold rush, and backed the SPEED Act permitting overhaul. He frames self-supplied power as the way to keep household bills from rising rather than as a limit on building.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Begich introduces House version of the DATA Act (H.R. 8400) to allow off-grid data center power",
+"url": "https://begich.house.gov/media/press-releases/congressman-begich-leads-legislation-lower-energy-costs-introduces-house",
+"date": "2026-04-21",
+"quote": "The DATA Act allows manufacturers to operate on fully self-contained, ‘grid-of-one’ power systems, so innovation can scale without forcing households to subsidize massive new energy demands or straining local utilities.",
+"what_it_shows": "His signature data center bill deregulates so large power users can bring their own generation, pitched as protecting ratepayers while letting projects scale."
+},
+{
+"type": "op_ed",
+"title": "Op-ed (Anchorage Daily News, posted on his site): How Alaska can use our energy advantage to capitalize on the AI gold rush",
+"url": "https://begich.house.gov/media/op-eds/how-alaska-can-use-our-energy-advantage-capitalize-ai-gold-rush",
+"date": "2026-04-23",
+"quote": "We can hesitate, regulate too early and risk becoming an observer in one of the most important economic shifts of our time, or we can engage thoughtfully, strategically and on our own terms.",
+"what_it_shows": "He argues Alaska's stranded gas, land, and cool climate make it ideal for rural data centers and warns against restricting them early."
+},
+{
+"type": "statement",
+"title": "Politico: Trump wants to move on data centers, Congress less so (Begich statement on DATA Act)",
+"url": "https://www.politico.com/news/2026/02/27/congress-data-centers-trump-00802072",
+"date": "2026-02-27",
+"quote": "America leads when we provide the private sector the space it needs to move at the speed of innovation",
+"what_it_shows": "Politico notes the Cotton-Begich bill would incentivize rather than mandate data centers to build their own power, and Begich frames it as getting out of industry's way."
+},
+{
+"type": "interview",
+"title": "Cato Institute blog on Scaling Laws podcast interview with Rep. Begich",
+"url": "https://www.cato.org/blog/discussing-ai-policy-house-rep-begich",
+"date": "2026-03-31",
+"quote": "Rep. Begich made a strong case for why Alaska may be a hub for the necessary data center buildout.",
+"what_it_shows": "Pressed on local opposition, he said Alaska's resource-governance approach could ease those concerns, showing he expects to build through community pushback."
+},
+{
+"type": "statement",
+"title": "Press release: Begich applauds House passage of SPEED Act permitting reform",
+"url": "https://begich.house.gov/media/press-releases/congressman-begich-applauds-house-passage-speed-act",
+"date": "2025-12-18",
+"quote": "The SPEED Act is a strong step forward in making life more affordable and allowing America to build again by establishing clear timelines for environmental reviews and limiting endless litigation",
+"what_it_shows": "He cosponsored and celebrated the NEPA permitting overhaul that speeds energy and infrastructure projects, including the power plants data centers need."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Light touch with some nuance. He says Congress must not hamstring AI development or push it offshore and that without global rules the only defense is speed, and he sponsors research and education bills rather than safety mandates. But he has raised concerns about agentic AI acting for people and about fully open-sourcing frontier models, comparing the risk to nuclear technology.",
+"evidence": [
+{
+"type": "interview",
+"title": "American Bazaar: Begich discusses the future of AI regulation on the Regulating AI podcast",
+"url": "https://americanbazaaronline.com/2025/04/25/congressman-nick-begich-discusses-the-future-of-ai-regulation-462186/",
+"date": "2025-04-25",
+"quote": "I think the United States Congress in particular has to be careful not to hamstring artificial intelligence development in a way that would push that work to other jurisdictions",
+"what_it_shows": "His core stance is that regulation must not slow U.S. AI development; he also said that until international standards exist the country cannot slow down on AI."
+},
+{
+"type": "interview",
+"title": "American Bazaar: Begich on agentic AI and liability",
+"url": "https://americanbazaaronline.com/2025/04/25/congressman-nick-begich-discusses-the-future-of-ai-regulation-462186/",
+"date": "2025-04-25",
+"quote": "When AI starts to work on behalf of an individual, we have to start thinking about whether we should empower agentic AI to, for example, enter into a contract relationship that would perhaps bind someone financially.",
+"what_it_shows": "He does see specific risks from AI agents and wants personhood validation, a targeted concern rather than a call for broad rules."
+},
+{
+"type": "interview",
+"title": "Bitcoin Magazine: Begich at Bitcoin Policy Institute event on Bitcoin reserve and AI",
+"url": "https://bitcoinmagazine.com/news/nick-begich-selling-its-bitcoin",
+"date": "2026-06-17",
+"quote": "On the question of open-source AI models, Begich pushed back against the idea that openness is an unqualified good at advanced capability levels.",
+"what_it_shows": "He compared fully open-sourcing frontier models to releasing nuclear or biotech research, saying some asymmetric risks cannot be contained once released."
+},
+{
+"type": "interview",
+"title": "Cato Institute blog on interview with Rep. Begich",
+"url": "https://www.cato.org/blog/discussing-ai-policy-house-rep-begich",
+"date": "2026-03-31",
+"quote": "According to Rep. Begich, his colleagues would benefit from playing around with AI a little more before deciding whether and how to regulate it.",
+"what_it_shows": "He counsels patience before regulating and says falling even slightly behind on AI would compound quickly."
+},
+{
+"type": "statement",
+"title": "Press release: Begich introduces House DATA Act",
+"url": "https://begich.house.gov/media/press-releases/congressman-begich-leads-legislation-lower-energy-costs-introduces-house",
+"date": "2026-04-21",
+"quote": "America must win the race to lead in artificial intelligence and other emerging technologies",
+"what_it_shows": "He frames AI policy as a race the U.S. must win, an innovation-first lens."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: bill to create an OSTP prize competition program for artificial intelligence (H.R. 9506)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9506",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "His own AI bill rewards breakthroughs rather than imposing rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: NSF AI Education Act of 2025 (H.R. 5351)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
+"date": "2026-01-21",
+"quote": null,
+"what_it_shows": "Backs AI scholarships and teacher training, a pro-adoption measure."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI PLAN Act (H.R. 2152)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2152",
+"date": "2025-06-03",
+"quote": null,
+"what_it_shows": "Supports a government report on criminals' use of AI for financial crimes, a study rather than a mandate."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No clear position found. Searched for statements or bills on Section 230, Big Tech antitrust, kids online safety, app stores, and privacy; found only a podcast remark that liability for AI agents would likely follow the platform-immunity model, and no relevant cosponsorships.",
+"evidence": []
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "Leans toward a national approach. In a Cato interview he accepted that some AI questions belong to states but stressed treating frontier AI as a national priority, and earlier he called for a globally harmonized set of rules of the road. No statement found on the 2025 moratorium fight, the Dec 2025 executive order, or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "interview",
+"title": "Cato Institute blog on interview with Rep. Begich (state versus federal AI role)",
+"url": "https://www.cato.org/blog/discussing-ai-policy-house-rep-begich",
+"date": "2026-03-31",
+"quote": "Rep. Begich acknowledged that some regulatory questions are properly left at the local and state levels. Still, we both expressed the importance of treating frontier AI as a national policy priority.",
+"what_it_shows": "He wants frontier AI handled nationally while leaving room for states on some questions; the Cato host summarized his view as states rowing in the same direction."
+},
+{
+"type": "interview",
+"title": "American Bazaar: Begich on the need for harmonized AI rules",
+"url": "https://americanbazaaronline.com/2025/04/25/congressman-nick-begich-discusses-the-future-of-ai-regulation-462186/",
+"date": "2025-04-25",
+"quote": "We need to have an effective set of regulations, (…) a globally harmonized set of rules of the road.",
+"what_it_shows": "He favors uniform rules across jurisdictions over a patchwork, which points toward one national standard."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans hawkish on China and AI. He cosponsored a bill to punish foreign companies that steal American AI models and has described China's open-source AI strategy as an economic weapon against U.S. AI investment. No statement found specifically on Nvidia chip sales or export controls.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Deterring American AI Model Theft Act of 2026 (H.R. 8283)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"date": "2026-06-08",
+"quote": null,
+"what_it_shows": "Supports penalties on foreign companies, especially Chinese ones, that steal or copy American AI models."
+},
+{
+"type": "interview",
+"title": "Bitcoin Magazine: Begich on China's open-source AI strategy",
+"url": "https://bitcoinmagazine.com/news/nick-begich-selling-its-bitcoin",
+"date": "2026-06-17",
+"quote": "He was pointed in his characterization of China’s open-source model strategy, suggesting it is less a gesture of openness than an economic tool",
+"what_it_shows": "He sees Chinese AI releases as an effort to undermine the investment case for American AI, a hawkish framing."
+}
+]
+}
+},
+"search_notes": "Ran about 16 Google News searches (artificial intelligence, AI, data centers, DATA Act, AI caucus/preemption/moratorium, chips/export controls/model theft, Cato/AI regulation, governor and House race coverage, Stak Energy North Slope, SPEED Act, prize competition/NSF bills, House AI votes) plus a Wayback listing of begich.house.gov and its committees-and-caucuses page, which lists the A.I. Caucus. Read in full his DATA Act release, AI gold rush op-ed, SPEED Act release, Science Committee assignment release, and committees page; read the Cato blog, American Bazaar podcast writeup, Bitcoin Magazine, Politico, and Nextgov via a text proxy because cato.org and politico.com blocked direct fetches. congress.gov pages for H.R. 8400 could not be opened, so the DATA Act is cited through his own press release. Note: the Begich in the 2026 governor race is his uncle Tom Begich; Nick Begich is running for House re-election against 14 challengers. An Alaska Landmine story (Aug 13, 2026) says a PauseAI volunteer met with his staff. No AI super PAC support or attacks found."
+}
+]

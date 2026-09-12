@@ -1,0 +1,436 @@
+[
+{
+"bioguide": "A000379",
+"checks": [
+{
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-missouri-political-candidates-stances-on-data-center-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Page names Mark Alford (Republican), MO-4, and the quote appears verbatim. Full response also includes 'I'm still listening and learning about this issue... serious research and serious attention to facts over emotion,' which supports the hedged framing in the claim."
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Quote appears verbatim, attributed to Rep. Mark Alford (R., Mo.), in both the narrative section and the Q&A transcript. Context: answer to a question about preempting state AI regulation in exchange for KOSA-style kids protections."
+},
+{
+"url": "https://www.foxnews.com/politics/house-passes-ai-education-bill-small-businesses-overwhelming-landslide-395-14-vote",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Quote appears verbatim, attributed to Alford's floor speech on the AI for Main Street Act. Page also has him saying 'This bill is about empowering people, not replacing them.' Note this is about SBA training for small businesses, not AI safety rules; the claim's 'rather than opposing rules' is an inference, but the quote itself is accurate."
+},
+{
+"url": "https://fedscoop.com/house-passes-two-ai-focused-small-business-bills/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Quote appears as rendered on the page ('This is not about replacing people; It is about empowering people'), attributed to Rep. Mark Alford, R-Mo., co-sponsor with Rep. Hillary Scholten. Pro-adoption framing is accurate."
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Quote appears verbatim in the narrative section (split by 'he said' after the first sentence, which is not part of this excerpt). Immediately followed by the guardrails-for-young-minds line, so the cautionary-tale-justifies-guardrails reading is supported."
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Q&A transcript confirms the question posed to Alford was: 'On AI, would you support a bill that preempts states from regulating AI if it included protection for kids, like the Kids Online Safety Act (KOSA)?' His full answer discusses social media lessons, guardrails for young minds, business, and China, and never mentions states or preemption. Claim that he sidestepped preemption is accurate."
+},
+{
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-missouri-political-candidates-stances-on-data-center-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Same page and quote as item 1; verbatim, attributed to Alford."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only regulation-favoring evidence is one interview line ('Whatever guardrails we can put up, I am for') explicitly scoped to protecting young minds and hedged against 'hampering business' and China; the other two ai_risk items are pro-adoption SBA training bills that say nothing about rules. -1 'Targeted guardrails' is defensible but the evidence is thin and a 0 'Mixed' reading is equally supported.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "tech_regulation",
+"objection": "The single tech_regulation item is a general remark that social media had pitfalls for young people; he does not call for any action against social media companies or Big Tech. -1 'Targeted rules' rests on inference from one sentence in a KOSA-framed question. Evidence is too thin; 0 'Mixed' or no position would be safer.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+},
+{
+"bioguide": "C001061",
+"checks": [
+{
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-missouri-political-candidates-stances-on-data-center-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Page lists 'Emanuel Cleaver II (Democrat) — No response by time of publication' under MO District 5. Guide states every candidate was asked whether they support continued data center expansion, the biggest impacts, and whether they support tax breaks for data centers, with a week to respond."
+},
+{
+"url": "https://cleaver.house.gov/media-center/press-releases/congressman-cleaver-calls-federal-facial-recognition-technology-testing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2018-11-27",
+"note": "Quote appears verbatim in Cleaver's letter to NIST Director Walter Copan asking NIST to develop standards for independent testing of demographic bias in facial recognition. Dated Nov 27, 2018."
+},
+{
+"url": "https://techcrunch.com/2024/01/25/openai-responds-to-congressional-black-caucus-about-lack-of-diversity-on-its-board/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-01-25",
+"note": "Article says CBC Chairs Cleaver and Barbara Lee sent OpenAI a letter in mid-December asking it to 'move expeditiously' in diversifying its board to help mitigate AI bias, and quotes Cleaver saying OpenAI's response 'did not give concrete plans.' Matches claim."
+},
+{
+"url": "https://cleaver.house.gov/media-center/press-releases/congressman-cleaver-demands-data-temp-workers-big-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-09-24",
+"note": "Quote verbatim. Letter sent to CEOs of 24 named tech companies. Release says the inquiry is 'to determine if congressional action is needed,' and cites his Restoring Worker Power Act, supporting the 'hints at possible legislation' claim."
+},
+{
+"url": "https://cleaver.house.gov/media-center/press-releases/reps-cleaver-butterfield-kelly-lee-watson-coleman-seek-answers-big-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2019-06-21",
+"note": "Quote verbatim, attributed to Cleaver, in a June 2019 release about a letter to Big Tech companies on legal-team diversity."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Page lists the 44 signers by name; 'Cleaver' does not appear anywhere on the page. Claim that he is absent from the signer list holds. Note this is absence-of-evidence and says nothing affirmative about his preemption view."
+},
+{
+"url": "https://cleaver.house.gov/media-center/press-releases/rep-cleaver-helps-pass-chips-science-act-lower-costs-strengthen",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-07-28",
+"note": "Quote verbatim ('Potato chips are good, chocolate chips are great—but microchips are what makes the world go ‘round in the 21st century'). Release frames domestic chip manufacturing as avoiding 'ceding ground to Russia or the People's Republic of China'; no mention of export controls."
+},
+{
+"url": "https://cleaver.house.gov/media-center/press-releases/congressman-cleaver-calls-federal-facial-recognition-technology-testing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2018-11-27",
+"note": "Quote appears verbatim, attributed to Cleaver in his Nov 2018 letter to NIST."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only data_centers source is a voter guide recording that Cleaver did not respond. A non-response is not evidence of a 'Protect ratepayers first' stance or any stance; no statement by him on data centers, ratepayers, or tax breaks is cited. Evidence is too thin for a -1.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "G000546",
+"checks": [
+{
+"url": "https://www.freightwaves.com/news/build-america-250-act-hands-av-trucks-a-fed-framework",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-18",
+"note": "Article (May 18, 2026) names Graves and Larsen releasing the BUILD America 250 Act on May 17; describes DOT two-year assignment to write a performance-based safety standard for ADS-equipped CMVs, Section 5403 folding ADS safety into the existing federal process for reviewing and preempting state laws, and industry (Kodiak etc.) welcoming it. Article notes it is a review/preemption process, not an instant override."
+},
+{
+"url": "https://rollcall.com/2026/05/22/surface-transportation-bill-approved-by-house-committee/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "Quote appears verbatim. Graves opposed the rail safety amendment (including two-crewmember requirement), citing cost of 'billions' and automated track inspection; amendment passed 54-11 with Graves among the 10 Republicans voting no."
+},
+{
+"url": "https://graves.house.gov/media/press-releases/future-surface-transportation-highway-chairman-graves-leads-debate-autonomous",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2016-12-06",
+"note": "Press release dated Dec 6, 2016; quote appears verbatim. Graves framed AV technology as an opportunity for safer roads while saying policymakers must be ready for regulatory implications; no restrictions called for."
+},
+{
+"url": "https://rollcall.com/2026/05/22/surface-transportation-bill-approved-by-house-committee/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "Quote appears verbatim, attributed to Graves at the May 2026 T&I markup."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "All three sources point the same direction: a pro-industry national AV framework praised by autonomous trucking companies, opposition to a rail safety staffing mandate on the grounds that automation already makes rail safer, and a 2016 statement framing AVs as opportunity. Nothing in the record supports 'Mixed' (0); the evidence leans consistently light-touch on automation regulation, though it is transportation-specific rather than Big Tech.",
+"suggested_score": 1,
+"suggested_label": "Light touch"
+},
+{
+"dimension": "preemption",
+"objection": "The FreightWaves source shows Graves' own bill folds autonomous-truck safety into the federal process for reviewing and preempting state laws, explicitly to replace the state patchwork with a single federal standard. That is direct evidence for a preemption position, currently left null. Since it is a review-and-preemption process rather than an instant override, and domain-specific to AVs, 'Leans national rule' fits better than 2.",
+"suggested_score": 1,
+"suggested_label": "Leans national rule"
+}
+]
+},
+{
+"bioguide": "B001316",
+"checks": [
+{
+"url": "https://burlison.house.gov/media/in-the-news/missouri-must-lead-americas-data-center-revolution-0",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-18",
+"note": "Quote verbatim. Page cites St. Charles City's one-year halt, calls blanket opposition a drag, and says Missouri law requires data centers to pay their fair share of energy costs so families won't see higher bills."
+},
+{
+"url": "https://www.missourinet.com/2026/01/20/missouri-congressman-eric-burlison-on-data-centers-this-is-a-national-security-issue/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Page loaded directly (not blocked). Contains the solar/wind-or-foreign-actor line, 'you do not want your data being housed in China', 'they're paying for your entire infrastructure', and the peak-load throttling point. The 'page blocked; seen via summary' caveat can be dropped."
+},
+{
+"url": "https://www.newstalkkzrg.com/2026/06/12/burlison-blames-china-for-hate-against-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-12",
+"note": "Quote verbatim. Page says he called water concerns overblown and warned foreign actors including China have sought to influence online opinion."
+},
+{
+"url": "https://themissouritimes.com/who-is-behind-missouris-anti-data-center-fake-facebook-pages/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Quote verbatim, attributed to a Burlison post: 'China absolutely wants you to hate them... They know the future runs on AI and data centers, and they want the edge.'"
+},
+{
+"url": "https://www.newstalkkzrg.com/2026/07/17/burlison-defends-ai-says-data-centers-deserve-a-fair-look/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Quote verbatim. Page has him endorsing project-by-project review of electricity, water, truck traffic, noise, and describing fear-based industry picking as central planning contrary to free-market principles."
+},
+{
+"url": "https://oversight.house.gov/release/burlison-artificial-intelligence-technology-has-the-potential-to-transform-america/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-01",
+"note": "Quote verbatim. Statement praises Stargate ($500B) and cites Trump's EO 14179 on AI; cites DOE 4.4% to 6.7-12% electricity share."
+},
+{
+"url": "https://oversight.house.gov/release/burlison-leads-roundtable-on-strategic-competition-with-china/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Quote verbatim; followed by 'China-linked groups using American AI to spread misleading anti-data center content.'"
+},
+{
+"url": "https://burlison.house.gov/media/press-releases/rep-burlison-reintroduces-reliable-grid-act-reverse-democrat-led-epa-assault",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-05",
+"note": "Quote verbatim. Bill blocks new EPA power-plant rules until NERC rates regions normal risk; supporter Alex Epstein's quoted endorsement says the crisis 'is being compounded by new demand from data centers and AI.' Burlison himself does not mention data centers in this release."
+},
+{
+"url": "https://oversight.house.gov/release/burlison-opens-roundtable-on-artificial-intelligence-and-american-prosperity/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Quote verbatim, immediately after praising Trump's day-one order revoking Biden's AI regulatory constraints ('That was the right call')."
+},
+{
+"url": "https://oversight.house.gov/release/burlison-opens-roundtable-on-artificial-intelligence-and-american-prosperity/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Quote verbatim. Framing is US-vs-adversaries AI lead; regulation cast as the obstacle."
+},
+{
+"url": "https://www.newsweek.com/republicans-vote-revenge-porn-bill-2065516",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-04-29",
+"note": "Page confirms Burlison and Massie were the only two House votes against the Take It Down Act (AI deepfake sexual imagery) and that he gave no reason. The page does not give the 409-2 tally, and the 'only bipartisan AI guardrail to become law in 2025' characterization is the tracker's own, not on the page (bill was not yet signed at publication)."
+},
+{
+"url": "https://burlison.house.gov/media/press-releases/chairman-burlison-announces-hearing-examine-americas-leadership-artificial",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-03-25",
+"note": "Quote verbatim."
+},
+{
+"url": "https://burlison.house.gov/media/press-releases/rep-burlison-attends-first-meeting-artificial-intelligence-task-force",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-12",
+"note": "Quote verbatim."
+},
+{
+"url": "https://cartercountytimes.com/local-news/state-government/reps-massie-burlison-introduce-the-flock-off-act-to-defund-surveillance-state-cameras/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-09",
+"note": "Quote verbatim, attributed to Burlison as co-lead of H.R. 10221. Bill covers AI-augmented ALPRs and biometric cameras; he invokes the Fourth Amendment."
+},
+{
+"url": "https://oversight.house.gov/release/hearing-wrap-up-action-needed-to-combat-proliferation-of-harmful-deepfakes%EF%BF%BC/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-11-09",
+"note": "Quote verbatim. Only one Burlison question is quoted on the page, about detection/authentication tech in a commercial setting; 'rather than new rules' is an inference from that single question."
+},
+{
+"url": "https://burlison.house.gov/media/press-releases/burlison-lee-reintroduce-legislation-protect-vehicle-data-and-personal-privacy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-16",
+"note": "Quote verbatim. Auto Data Privacy and Autonomy Act 'establishes firm protections' giving owners control over vehicle data."
+},
+{
+"url": "https://www.newstalkkzrg.com/2026/08/28/burlison-targets-big-brother-surveillance-with-federal-funding-threat/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-28",
+"note": "Quote verbatim. Page: communities implementing ALPR/broad surveillance tech 'could lose access to federal grants'; he cites Fourth Amendment and AI pattern identification."
+},
+{
+"url": "https://www.newsweek.com/republicans-vote-revenge-porn-bill-2065516",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-04-29",
+"note": "Page confirms he was one of two no votes on a bill with overwhelming bipartisan support, but describes it as criminalizing nonconsensual AI sexual imagery; the 'platform takedown mandate' framing is not on the page and he gave no stated reason."
+},
+{
+"url": "https://oversight.house.gov/release/burlison-opens-roundtable-on-artificial-intelligence-and-american-prosperity/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Quote verbatim. Page contains no mention of export controls or chip sales to China; the passage is about allies accessing the American AI export stack."
+},
+{
+"url": "https://oversight.house.gov/release/burlison-opens-roundtable-on-artificial-intelligence-and-american-prosperity/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Quote verbatim."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only source is one sentence about clearing the way for 'trusted allies' to access the American AI export stack, sustained 'over our adversaries.' It says nothing about chip sales to China or export controls, and his other statements (China roundtable, 'you do not want your data housed in China') are strongly China-hawkish. Ally-export promotion is not evidence for leaning toward selling more chips abroad in the China sense; the evidence is too thin to assign a position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "S001195",
+"checks": [
+{
+"url": "https://www.stlpr.org/government-politics-issues/2025-10-30/as-more-data-centers-come-to-missouri-hawley-says-ratepayers-shouldnt-foot-the-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-30",
+"note": "Page quotes Smith's Facebook post verbatim (written Wednesday Oct 29, 2025; article dated Oct 30). Names him as R-Salem and Ways and Means chairman. Claim matches: welcomes Ameren investment as a win, with only a generic oversight caveat."
+},
+{
+"url": "https://www.stlpr.org/government-politics-issues/2025-10-30/as-more-data-centers-come-to-missouri-hawley-says-ratepayers-shouldnt-foot-the-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-30",
+"note": "Quote appears verbatim. Hawley's response in the article is nuanced ('If it's going to mean jobs, I'm all for what brings jobs') before insisting ratepayers should not subsidize; the contrast is about ratepayer subsidies, not about data centers per se, but the article is framed as Hawley responding to Smith and Kehoe."
+},
+{
+"url": "https://www.notus.org/congress/ways-and-means-investigating-anti-data-center-nonprofits-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-03",
+"note": "URL now redirects to washingtonsun.com (NOTUS successor). Quote appears verbatim: 'Of domestic opposition to data centers, Smith said: \"I absolutely believe it's sparked by foreign actors.\"' Article also states he is calling on Treasury Secretary Bessent to strip the groups of tax-exempt status. By Jeff Stein, June 3, 2026."
+},
+{
+"url": "https://harici.com.tr/en/us-house-ways-and-means-chair-accuses-china-of-funding-anti-data-center-protests-to-stall-american-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-04",
+"note": "Turkish outlet's rewrite of the NOTUS interview (quotes are paraphrased/retranslated, so do not use its quote text as verbatim). Page explicitly says Smith targeted The People's Forum, BreakThrough News and Tricontinental over Singham donations and 'has threatened to subpoena these groups if they refuse to hand over' financial records."
+},
+{
+"url": "https://waysandmeans.house.gov/2026/02/12/six-key-moments-hearing-on-foreign-influence-in-american-non-profits-unmasking-threats-from-beijing-and-beyond/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-12",
+"note": "Page states the committee's work 'has led to referrals to the Biden and Trump IRS of eleven tax-exempt organizations' and that 'the day before the Committee's hearing, Chairman Smith sent letters to Tricontinental and BreakThrough News,' described as part of the Singham/CCP-linked network. Note the release itself never mentions data centers; the data-center tie comes only from the later June 2026 NOTUS interview, as the claim's wording acknowledges."
+},
+{
+"url": "https://www.alternet.org/big-beautiful-bill-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Quote is the verbatim tail of a longer Politico quote: 'Huge stretch. Opportunity zones control, like, everything — from child daycare centers to manufacturers. Can data centers be used in them? Yes. But so can everything else.' Secondhand via AlterNet citing Politico (Brugger and Faler). Claim accurately describes him defending the OZ provision rather than disowning data centers."
+},
+{
+"url": "https://www.notus.org/congress/ways-and-means-investigating-anti-data-center-nonprofits-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-03",
+"note": "Quote verbatim (appears in subhead and body), continues: 'If they can sow discord and chaos within the American citizenry, they'll slow down [America in] the AI race — and they win. We have to be guarded.' Supports beat-China/national-security framing. Note this is a statement about data-center opposition, not about AI safety regulation; see score objection."
+},
+{
+"url": "https://jasonsmith.house.gov/2022/12/09/big-techs-endless-attacks-on-the-first-amendment",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-12-09",
+"note": "Quote appears verbatim as the closing line of the Weekly Capitol Report. Content is about alleged censorship of conservatives (Twitter Files, Hunter Biden laptop, Gmail spam filtering)."
+},
+{
+"url": "https://jasonsmith.house.gov/2021/05/07/big-tech-big-problems",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-05-07",
+"note": "Quote verbatim. Claim supported by a separate sentence: 'these companies are so large and dominant in social media that they have a different level of responsibility.' No specific legislative remedy (e.g., Section 230) is named on the page."
+},
+{
+"url": "https://jasonsmith.house.gov/2023/10/27/fighting-back-against-the-left-and-big-techs-attacks-on-free-speech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-10-27",
+"note": "Quote verbatim. Page does not use the case name 'Missouri v. Biden' but describes the Supreme Court taking up the lawsuit led by Missouri AG Andrew Bailey accusing the federal government of pressuring Big Tech to censor posts, and says a win would prohibit administrations from contacting platforms to influence content decisions. That is Missouri v. Biden (Murthy v. Missouri)."
+},
+{
+"url": "https://www.scmp.com/news/china/diplomacy/article/3343119/china-and-trump-targeted-house-hearing-foreign-influence-us-non-profits",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-11",
+"note": "Quote verbatim (British spelling 'organisations' in the preceding sentence; the quoted sentence matches exactly). Page is about the Feb 10, 2026 hearing on foreign-funded nonprofits; it says nothing about chips or export controls, consistent with the claim that his China focus runs through tax/nonprofit policy. Paywalled article returned only ~2000 chars but the quote is in the visible portion."
+},
+{
+"url": "https://www.notus.org/congress/ways-and-means-investigating-anti-data-center-nonprofits-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-03",
+"note": "Headline quote appears verbatim in the article subhead and body, attributed to Rep. Jason Smith in an interview."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only ai_risk evidence is the NOTUS quote about Chinese money behind anti-data-center protests and the AI race. It is a beat-China framing about data-center opposition, not a stated position on AI safety rules, model regulation, or guardrails. None of the sources show him addressing AI risk regulation at all, so a 'Light touch' score is an inference from adjacent data-center rhetoric rather than from evidence on this dimension.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

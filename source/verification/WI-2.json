@@ -1,0 +1,338 @@
+[
+{
+"bioguide": "M001160",
+"checks": [
+{
+"url": "https://fedscoop.com/irs-using-ai-cobol-doge-house-dems-letter/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "FedScoop (Matt Bracken, Dec 18, 2025) names Moore and DelBene as leaders of the 11-member Ways & Means Democratic letter to Bessent on IRS use of AI for COBOL/IMF conversion. Quote appears verbatim, attributed to 'the Democrats wrote' (joint letter, not Moore individually). Letter asks for scrutiny of accuracy risks and taxpayer-data protection before/around deployment, consistent with a targeted-guardrails reading."
+},
+{
+"url": "https://fedscoop.com/irs-using-ai-cobol-doge-house-dems-letter/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Same page; quote verbatim. It is from the joint letter Moore co-led, not a solo Moore statement; tracker should attribute it as letter text co-led by Moore."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "Neither source checked says anything about data centers, energy, or ratepayers. The only evidence provided concerns IRS use of AI on legacy code. Unless the tracker holds other sources not listed here, -1 'Protect ratepayers first' is unsupported by this evidence set.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "The sources concern oversight of a federal agency's internal AI deployment, not regulation of tech companies or Big Tech. Nothing here supports a tech_regulation position in either direction; evidence is too thin for -1 unless other sources exist.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "F000471",
+"checks": [
+{
+"url": "https://fitzgerald.house.gov/media/press-releases/rep-fitzgerald-votes-pass-legislation-protecting-children-and-reducing-energy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-19",
+"note": "Quote appears verbatim in his SPEED Act statement. Page also carries his Power Plant Reliability Act statement (opposing 'reckless power plant closures'). No mention of data centers or AI anywhere on the page, as the claim says."
+},
+{
+"url": "https://www.rstreet.org/commentary/testimony-in-review-adam-thierers-september-2025-testimony-before-the-house-judiciarys/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-25",
+"note": "R Street recap states Rep. Scott Fitzgerald asked how embracing European-style regulations would affect the U.S. AI ecosystem; Thierer answered that Europe's approach stifled AI innovation. Fitzgerald's own words are not quoted, only paraphrased by a pro-innovation think tank, so the 'leans light touch' reading is an inference from the question's framing."
+},
+{
+"url": "https://fitzgerald.house.gov/media/press-releases/fitzgerald-statement-being-named-antitrust-subcommittee-chairman",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12-31",
+"note": "Quote is verbatim. Subcommittee is formally 'Administrative State, Regulatory Reform, and Antitrust'; statement is one sentence and says nothing about AI."
+},
+{
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/heritage-files-section-230-amicus-brief-behalf-17-us-senators",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-12-09",
+"note": "Tiffany's office release lists Rep. Scott Fitzgerald among the 17 members on whose behalf Heritage filed the Gonzalez v. Google amicus brief, which argues for limits on Section 230 immunity."
+},
+{
+"url": "https://fitzgerald.house.gov/media/press-releases/fitzgerald-demands-ftc-neutrality-antitrust-enforcement",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-12-06",
+"note": "Letter to Chair Khan calls the FTC decision a politicization of antitrust enforcement; the specific trigger was the FTC rolling back nonpartisan competition practices and opening the door to ESG criteria, not Big Tech enforcement per se. Claim's framing as 'aggressive antitrust posture' is a slight gloss but supported."
+},
+{
+"url": "https://urbanmilwaukee.com/pressrelease/fitzgerald-moolenaar-and-issa-introduce-legislation-to-prohibit-adversarial-chinese-patents/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim and attributed to Fitzgerald. Bills concern patents by foreign adversary entities, not semiconductor export controls, as the claim acknowledges. Page shows no publication date in the fetch output."
+},
+{
+"url": "https://fitzgerald.house.gov/media/press-releases/fitzgerald-issues-statement-chips-bill-vote",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-07-28",
+"note": "Quote verbatim. Preceding sentence explicitly cites the 'bloated $280 billion with no offsets' and lack of 'guardrails which would prevent China from benefitting', matching the claim."
+},
+{
+"url": "https://fitzgerald.house.gov/media/press-releases/fitzgerald-statement-being-named-antitrust-subcommittee-chairman",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12-31",
+"note": "Headline quote is verbatim from the Dec 31, 2024 statement."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "None of the eight sources addresses federal preemption of state AI laws. The only AI item (R Street recap) records Fitzgerald asking about European-style regulation; the NIST/state-capacity remarks on that page are Thierer's, not Fitzgerald's. No vote, cosponsorship, or statement on the state-AI-law moratorium is cited. Evidence is too thin to assign +1.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "G000576",
+"checks": [
+{
+"url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Page says Grothman, asked whether residents should bear data-center energy costs, 'hedged' and quotes him verbatim: 'It varies in different situations.'"
+},
+{
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Page states 'Reps. Glenn Grothman and Tony Wied declined to comment on the Foxconn plant' while Baldwin and others voiced constituent/ratepayer concerns."
+},
+{
+"url": "https://www.safetyandhealthmagazine.com/house-subcommittee-hearing-explores-ai-and-worker-safety/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-11",
+"note": "Quote appears verbatim (split by attribution) from his opening statement at the Feb. 11, 2026 hearing; article also lists his question on safeguards for worker privacy. Article dated Feb 13, hearing Feb 11."
+},
+{
+"url": "https://oversight.house.gov/release/wrap-up-congress-must-ensure-the-federal-government-has-tools-to-deploy-artificial-intelligence-effectively-and-efficiently/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-06",
+"note": "Quote appears verbatim attributed to Rep. Grothman; committee wrap-up frames it as highlighting AI's role in combatting waste, fraud and abuse."
+},
+{
+"url": "https://www.safetyandhealthmagazine.com/house-hearing-explores-hurdles-related-to-federal-workers-comp-programs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-24",
+"note": "Sedgwick's Robert Johnson, answering a Grothman question, said there should always be 'a human on both ends of the transaction.' Grothman's own words are not quoted; claim only attributes the question to him, which matches."
+},
+{
+"url": "https://racinecountyeye.com/2026/03/06/grothman-tiktok-fire-stachowicz/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-06",
+"note": "AP story states 'Grothman voted for a bill in April 2024 that required TikTok's China-based company, ByteDance, to sell its U.S. operation.'"
+},
+{
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/wisconsins-tiffany-tiktoks-undeniable-ties-communist-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-01-23",
+"note": "Page names Grothman among WI Republicans who sent a letter urging Evers to ban TikTok on state devices, citing CCP spying and propaganda concerns (as reported by the Journal-Sentinel)."
+},
+{
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/editorial-stop-big-tech-starving-local-news",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-08-31",
+"note": "Wisconsin State Journal editorial says Tiffany 'joins Rep. Glenn Grothman' and 75 others backing the JCPA, described as a temporary antitrust exemption letting local news negotiate as a group with Google, Facebook, etc."
+},
+{
+"url": "https://www.safetyandhealthmagazine.com/house-subcommittee-hearing-explores-ai-and-worker-safety/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-11",
+"note": "Headline quote is verbatim from Grothman's opening statement as reported."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "None of the nine sources touches federal preemption of state AI laws or the state-vs-national question at all; the +1 'Leans national rule' score has no supporting evidence in this item set.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "T000165",
+"checks": [
+{
+"url": "https://www.wpr.org/news/tom-tiffany-attacks-david-crowley-data-centers-wisconsin-governor",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-18",
+"note": "WPR (Aug 18, 2026) quotes the campaign statement verbatim; article also says he wanted to protect taxpayers, farmland and water."
+},
+{
+"url": "https://upnorthnewswi.com/news/politics/tiffany-data-center-attacks-vs-his-record/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-08-25",
+"note": "Quote is verbatim ('I will end those subsidies... These companies do not need to be subsidized...'). Page says the 2023 sales tax exemption has 'a potential state revenue loss of $2 billion' but does not attribute the figure to the Legislative Fiscal Bureau or say 'more than' $2 billion."
+},
+{
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "CAP Action (Aug 24, 2026) quotes the 620 WTMJ interview (Aug 7, 2026) verbatim and says the OBBBA AI moratorium he voted for would have made local control over data centers 'impossible'."
+},
+{
+"url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Quote appears verbatim, attributed to Tiffany as GOP gubernatorial front-runner; continues 'The data centers are going to have to answer the question, How do we get enough energy... yet not harm our neighbors?'"
+},
+{
+"url": "https://wisconsinindependent.com/politics/where-do-wisconsin-candidates-for-governor-stand-on-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-28",
+"note": "Quote verbatim. Page says he told PBS Wisconsin in February data centers were an 'exciting new technology' the state needs to manage, and after the August primary told WSAW they were necessary to keep technology from being outsourced to China but need strict conditions."
+},
+{
+"url": "https://tiffany.house.gov/media/press-releases/tiffany-demands-psc-prioritize-baseload-power-sources-ensure-affordable-energy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-05",
+"note": "June 5, 2025 press release; quote verbatim from his letter to PSC Chair Summer Strand urging no premature coal plant closures. 'Pro-buildout' is a fair characterization of the letter's framing."
+},
+{
+"url": "https://capitalandmain.com/wisconsin-gop-candidate-is-exploiting-the-data-center-backlash-to-hit-solar-wind",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-09-09",
+"note": "Page reports the 'exciting new technology' comment, a vote for 'a federal bill to speed their construction', the subsidy-repeal pledge, and donations from a Wisconsin Data Center Coalition lobbyist, OpenAI and Oracle lobbyists, and Amazon. It does not name the SPEED Act specifically."
+},
+{
+"url": "https://urbanmilwaukee.com/pressrelease/the-truth-about-tom-tiffanys-record-on-data-centers-and-the-environment/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Wisconsin Conservation Voters IEC press release: $2M program, $300,000 initial ad spend, says in Congress Tiffany 'voted to fast track data center development, gut environmental protections' and give developers a $70B tax break."
+},
+{
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/rep-tiffany-newsmax-house-gop-will-prioritize-big-tech-probe",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-10-20",
+"note": "Newsmax piece reposted on his House site: 'First up on the docket, according to Tiffany: Section 230.' Quote 'Section 230 needs to be addressed' appears verbatim."
+},
+{
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/heritage-files-section-230-amicus-brief-behalf-17-us-senators",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-12-09",
+"note": "Lists Tom Tiffany among the representatives on whose behalf Heritage filed the Gonzalez v. Google amicus brief testing 'the limits of Section 230 immunity'."
+},
+{
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/editorial-stop-big-tech-starving-local-news",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-08-31",
+"note": "Wisconsin State Journal editorial; quote verbatim; confirms he cosponsored the Journalism Competition and Preservation Act."
+},
+{
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/house-republican-measure-would-block-big-tech-companies",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-06-15",
+"note": "Fox News report; Tiffany named as original co-sponsor of the China Social Media Reciprocity Act, which uses sanctions law to bar platforms from hosting CCP officials. Quote verbatim."
+},
+{
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/wisconsins-tiffany-tiktoks-undeniable-ties-communist-china",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2023-01-23",
+"note": "Quote verbatim. But the page says he 'signed' a letter with Gallagher, Grothman, Steil, Fitzgerald and Sen. Johnson urging Evers to ban TikTok on state devices; it does not say he led it. He said 'more must be done'."
+},
+{
+"url": "https://upnorthnewswi.com/news/politics/tiffany-data-center-attacks-vs-his-record/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-25",
+"note": "Page says he voted for a bill with a 10-year ban on state AI laws (later removed by Senate) and supported the SPEED Act, framed as 'federal limits over state and local rules'."
+},
+{
+"url": "https://wisconsinindependent.com/politics/where-do-wisconsin-candidates-for-governor-stand-on-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-28",
+"note": "Page reports he told WSAW local data centers were necessary to keep technology from being outsourced to China. Nothing on chips or export controls, consistent with the claim."
+},
+{
+"url": "https://www.wpr.org/news/tom-tiffany-attacks-david-crowley-data-centers-wisconsin-governor",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-18",
+"note": "Headline quote appears verbatim in WPR's Aug 18, 2026 story."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "The only pro-national evidence is his vote for the House OBBBA package containing the 10-year state AI moratorium (a must-pass omnibus vote, later stripped). His own stated position in 2026 is the opposite: 'Give local communities the final say' and 'There should be local control' on data centers. Sources show a contradiction rather than a lean toward national rules.",
+"suggested_score": 0,
+"suggested_label": "Mixed or conditional"
+}
+]
+},
+{
+"bioguide": "W000829",
+"checks": [
+{
+"url": "https://wied.house.gov/media/press-releases/rep-tony-wied-urges-state-lawmakers-return-power-local-communities",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-15",
+"note": "Quote appears verbatim in Wied's own press release (published 2025-10-15). Letters urge state legislators and the PSC to back Marklein/Tranel legislation requiring town/county approval before large wind or solar projects proceed. Page never mentions data centers; the claim correctly says so and only infers a local-control philosophy."
+},
+{
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Article (Wisconsin Watch/NOTUS, 2025-12-05) says only: 'Reps. Glenn Grothman and Tony Wied declined to comment on the Foxconn plant.' It does not say he was asked about, or declined to address, the energy-cost concerns colleagues raised; that part of the claim is inference. Wied is named once and takes no position."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "Neither source supports -1 'Protect ratepayers first'. Item 1 is about wind/solar siting and says nothing about ratepayers or data centers; item 2 is a declined comment. The cited 'later data center cosponsorship' has no source in this set. Evidence is too thin for a directional score; at most a local-siting-control stance, which is closer to Mixed.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "preemption",
+"objection": "No source in this set addresses federal preemption of state AI laws. The only relevant evidence (item 1) argues for pushing siting power down from the state PSC to towns and counties, a devolution instinct that if anything cuts against 'Leans national rule'. No basis for +1.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

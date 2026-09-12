@@ -1,0 +1,301 @@
+[
+{
+"bioguide": "M001220",
+"checks": [
+{
+"url": "https://www.lpm.org/news/2026-07-09/kentucky-congressman-absolutely-opposed-to-in-state-hyperscale-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-09",
+"note": "LPM article (Sylvia Goodman, July 9, 2026) says McGarvey 'told a packed room in the South Central Regional Library that he opposes any hyperscale data center hoping to locate in Louisville, including the proposed 400-plus megawatt facility in west Louisville' and that he 'opposes all hyperscale data center construction in the state.' Quote appears verbatim, attributed to McGarvey."
+},
+{
+"url": "https://mcgarvey.house.gov/media/press-releases/rep-mcgarvey-opposes-camp-ground-road-data-center-in-letter-to-lgande-dont-raise-louisvilles-rates-to-pay-for-it",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-09",
+"note": "Press release dated July 9, 2026: letter to LG&E President John R. Crockett III 'opposing the hyperscale data center planned for Camp Ground Road.' Quote appears verbatim ('McGarvey concluded'). Release lists the demanded questions: what new infrastructure is required and who pays, what costs pass to residential/small business ratepayers, whether customers face higher outage risk, whether the data center gets priority in extreme weather."
+},
+{
+"url": "https://mcgarvey.house.gov/media/press-releases/rep-mcgarvey-opposes-camp-ground-road-data-center-in-letter-to-lgande-dont-raise-louisvilles-rates-to-pay-for-it",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-09",
+"note": "Quote appears verbatim ('he wrote'), followed by 'We must not repeat the mistakes of the past and again gamble with our community's long term economic and environmental health.' Release also opens with a coal-legacy passage about wealth created 'for those far outside the communities that made it possible,' supporting the exploitation framing."
+},
+{
+"url": "https://spectrumnews1.com/ky/louisville/news/2026/07/09/kentucky-democrats-hear-data-center-concerns-at-louisville-town-hall",
+"verdict": "confirmed",
+"corrected_quote": "We need transparency. We need to make sure this isn't going forward, this is our community. We control what happens here.",
+"corrected_date": "2026-07-09",
+"note": "Spectrum News (July 9, 2026) attributes the quote to 'Rep. Morgan McGarvey, D-Louisville' and says he 'said transparency should be a priority.' The item quote is verbatim for the second part; the full quotation begins with 'We need transparency.' Page title is generic ('data centers town hall') but body confirms."
+},
+{
+"url": "https://www.lpm.org/news/2026-07-09/kentucky-congressman-absolutely-opposed-to-in-state-hyperscale-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-09",
+"note": "Quote appears verbatim in the LPM article, attributed to McGarvey at the July 8 forum."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the five sources touch AI safety or AI risk regulation; they are exclusively about hyperscale data centers and ratepayer costs. If no other evidence exists in the record, a -1 score rests on nothing shown here.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No source addresses Big Tech regulation, platform rules, or kids online safety. Opposition to data centers on ratepayer and land-use grounds is not evidence of a tech_regulation stance. Evidence shown is too thin for -1.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "preemption",
+"objection": "No source discusses federal preemption of state AI laws. The only local-control language ('this is our community. We control what happens here') is about a Louisville data center siting fight, not AI regulation preemption. Evidence shown is too thin for a firm -2.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "M001184",
+"checks": [
+{
+"url": "https://thehill.com/homenews/house/6062972-data-centers-republicans-trump-burchett/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Page names Massie, calls companies 'insensitive' in placement, quote appears verbatim as told to Fox News, followed by 'You definitely need to let local people decide these things.' Article frames this as pushback on Trump's 'let Data Reign' push."
+},
+{
+"url": "https://www.yahoo.com/news/politics/articles/thomas-massie-says-comments-trumps-193300231.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-02",
+"note": "WHAS11 interview republished on Yahoo. Quote verbatim; he also says 'I think his comments were insensitive' and agrees '100%' with state Rep. Savannah Maddox's defense of rural communities; article notes Bullitt and Nelson counties passed bans/moratoriums."
+},
+{
+"url": "https://attackofthefanboy.com/news/new-directive-from-the-leader-thomas-massie-pushes-back-on-donald-trumps-warning-against-opposing-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-31",
+"note": "Article reproduces the X post verbatim (dated Aug 31, 2026) and says Massie 'framed the message as a demand for political loyalty rather than a normal policy disagreement.' Note the article text itself is sloppy (misattributes Trump's 'backwards and poor' line to Massie), but the embedded tweet is clear."
+},
+{
+"url": "https://www.eenews.net/articles/data-center-boom-creates-political-conundrum-for-the-gop/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Quote verbatim, preceded by 'One of the versions of the big, beautiful bill had something very troubling in there ... that said it would override even local zoning decisions for data centers.' Item lacks a date; article published Dec 11, 2025."
+},
+{
+"url": "https://earthjustice.org/article/how-we-rallied-a-big-coalition-to-stop-a-shady-data-center-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-10",
+"note": "Page says Politico reported Massie wrote on social media he would vote against the Protect American AI Act 'because no industry deserves special treatment under the law.' Page describes the bill as skipping environmental review and limiting legal challenges, and says the Judiciary Committee pulled the bill. Secondhand (Earthjustice citing Politico), not a direct social post link."
+},
+{
+"url": "https://www.fox.com/watch/clip/fmc-gyug8d7x3hbkp0y0/thomas-massie-and-rnc-s-joe-gruters-clash-over-ai-data-center-expansion",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Clip page summary matches the claim almost word for word: Massie 'argues for local control and regulation to prevent data centers from taking over pastures and neighborhoods, while Gruters emphasizes ... national security and keeping pace with China.' Video itself is behind sign-in; only the summary was verified. Aired Sep 3, 2026 on Mornings With Maria (Fox Business)."
+},
+{
+"url": "https://thehill.com/homenews/house/6069706-thomas-massie-flock-off-act-federal-funds/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Quote appears verbatim from Massie's press release. Bill withholds federal funds from municipalities/police using Flock license-plate and biometric cameras, with border and toll exceptions."
+},
+{
+"url": "https://www.lpm.org/news/2026-05-05/ai-deepfake-ads-attack-massie-and-gallrein-in-northern-kentucky-gop-primary",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-05",
+"note": "Quote verbatim; he called the ad 'beyond the pale' and a sign of desperation. Article contains no call by Massie for new AI rules (it notes a Kentucky state deepfake law already exists), consistent with the claim."
+},
+{
+"url": "https://www.huffpost.com/entry/thomas-massie-throuple-attack-ad-cheating-squad_n_69f8dca9e4b06e9242f57b3f",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-05-04",
+"note": "Quote verbatim and page says Massie called the ad disgusting and defamatory; former Rep. Marjorie Taylor Greene said it violated the Take It Down Act. However the page does NOT say Massie voted against the Take It Down Act; that part of the claim is not sourced here (the 'voted against' text refers to Trump tax bills)."
+},
+{
+"url": "https://www.wlwt.com/article/massie-says-he-believes-ai-videos-contributed-to-primary-loss/71395924",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-28",
+"note": "Quote verbatim from Meet the Press remarks. He says younger generations 'don't get fooled by artificial intelligence'; no call for regulation in the article. Note the Meet the Press appearance was Sunday May 24, 2026; article dated May 28."
+},
+{
+"url": "https://www.eenews.net/articles/data-center-boom-creates-political-conundrum-for-the-gop/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Same E&E quote as item 4, verbatim; directly supports opposition to federal override of state/local data center zoning."
+},
+{
+"url": "https://thehill.com/homenews/house/6062972-data-centers-republicans-trump-burchett/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Quote appears verbatim, attributed to Massie on Fox News."
+},
+{
+"url": "https://thehill.com/homenews/house/6062972-data-centers-republicans-trump-burchett/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Headline quote appears verbatim on the page."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the 13 sources speaks to regulating Big Tech or platforms; the only tech-adjacent item (Flock-Off Act) restricts government surveillance spending, and the deepfake items show him declining to call for rules. Evidence for +1 'Light touch' is thin and rests on his general libertarian reputation rather than anything cited here; if a position is kept it should be documented with a source about platform/Big Tech regulation.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "data_centers",
+"objection": "His stated concern is local zoning control and farmland, not ratepayers or electricity costs; none of the sources mention rates. -1 'Protect ratepayers first' is the closest guardrail-leaning bucket but the label mismatches his actual argument. Not a clear contradiction, flagging for label accuracy only; 0 'Mixed' would also be defensible since he does not oppose data centers per se, only overriding local decisions.",
+"suggested_score": -1,
+"suggested_label": "Protect ratepayers first"
+}
+]
+},
+{
+"bioguide": "R000395",
+"checks": [
+{
+"url": "https://appropriations.house.gov/news/press-releases/committee-approves-fy27-commerce-justice-science-and-related-agencies",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "Fetched directly (status 200, published 2026-05-13). Quote appears verbatim as a bullet under 'Counters China and maintains America's competitive edge by:'. Page names Hal Rogers (R-KY) as CJS Subcommittee Chairman; his own quoted statement covers fraud enforcement, space exploration and national security and does not mention AI, exactly as the claim says. Note this is committee bill-summary language, not a Rogers statement on AI risk."
+},
+{
+"url": "https://appropriations.house.gov/news/press-releases/committee-approves-fy27-commerce-justice-science-and-related-agencies",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "Quote appears verbatim under the 'Bolsters U.S. national security and border protections' bullet list. Adjacent bullets frame this as countering China and protecting American exports, so the claim (funds tighter export-control enforcement while deferring to the administration's strategy) is supported. Rogers is named as subcommittee chairman of the bill."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only source is a committee bill summary saying the bill invests in AI, quantum and advanced manufacturing to compete with China. That is a funding/competitiveness posture with no mention of safety rules, guardrails or oversight, and Rogers' own statement does not mention AI at all. Evidence is too thin to assign 'Targeted guardrails' (-1); if anything it leans toward promotion rather than regulation. Suggest no position until a real Rogers statement on AI oversight is sourced.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "Neither item touches Big Tech regulation, platform rules, privacy or antitrust. The BIS export-control bullet is about national-security trade controls, not regulating technology companies. No sourced evidence supports -1 'Targeted rules'; suggest no position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "B001282",
+"checks": [
+{
+"url": "https://www.wuky.org/wuky-news/2026-07-31/republicans-are-applauding-a-massive-kentucky-data-center-project-the-states-democratic-governor-has-questions",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim, attributed to Barr at the unveiling alongside Energy Secretary Wright. But the page never says '1.8 gigawatt' or 'historic', and describes Barr as 'among the speakers', not the headliner; it calls it a planned $100 billion investment billed as one of the largest ever in Kentucky. The 1.8 GW / 'historic' details need another source."
+},
+{
+"url": "https://barr.house.gov/2025/9/reps-barr-and-peters-introduce-bill-to-slash-permitting-times-lower-energy-costs-and-prevent-blackouts",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-25",
+"note": "Quote verbatim in Barr's own statement; same paragraph says the bill 'cuts red tape' and 'ensures we stay ahead of China in the race for AI'."
+},
+{
+"url": "https://barrforsenate.com/press-release/andy-barr-unveils-plan-to-revive-kentucky-coal-jobs-and-power-technologies-of-the-future/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-05",
+"note": "Bullet appears verbatim under 'Legislative Action to Get Results'; plan also lists 'Restarting existing, pre-permitted coal plants' and ties it to AI/data center demand."
+},
+{
+"url": "https://www.wymt.com/2026/01/05/barr-promotes-coal-powered-ai-plan-during-harlan-county-visit/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-05",
+"note": "Quote verbatim; Barr says coal is essential to 'national security', cites 'nanoseconds ahead of China', and blames coal retirements for a 'self-inflicted energy crisis'."
+},
+{
+"url": "https://www.forwardky.com/data-centers-coming-to-a-town-near-you-thanks-to-andy-barr/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-02",
+"note": "Opinion piece (critical of Barr) says Bluegrass Innovation Gateway in Mercer County got $2 million in federal funding for a hyperscale data center and reproduces Barr's quote verbatim from his announcement."
+},
+{
+"url": "https://rollcall.com/2026/04/14/winning-the-ai-arms-race-holds-appeal-for-both-parties/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-14",
+"note": "Quote verbatim, explicitly 'referring to China's construction of new coal-fired power plants'; article later says Barr 'advocated for more coal production to support the energy needs of data centers in order to keep pace with China'."
+},
+{
+"url": "https://washingtonreporter.news/exclusive-pro-ai-super-pac-spending-big-for-sen-lindsey-graham-and-rep-kevin-hern/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Quote verbatim. Page says Leading the Future 'has supported' Barr's Senate bid; it does not give a dollar figure or describe specific expenditures for him, so 'has spent on his behalf' is a slight inference."
+},
+{
+"url": "https://www.wymt.com/2026/01/05/barr-promotes-coal-powered-ai-plan-during-harlan-county-visit/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-05",
+"note": "Quote verbatim; the whole piece is race-with-China framing, no mention of AI safety or risk."
+},
+{
+"url": "https://barr.house.gov/2021/1/congressman-andy-barr-slams-big-tech-warns-against-moving-towards-chinese-communist-party-s-social-credit-system",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-01-08",
+"note": "Quote verbatim. Statement contains no legislative proposal; closes by urging Americans to 'unify around the Constitution, Bill of Rights' and free exchange of ideas."
+},
+{
+"url": "https://thehill.com/policy/technology/5699863-congress-ai-overwatch-act-chips-export/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Quote verbatim; committee voted 42-2-1; bill modeled on congressional oversight of foreign arms sales; article notes opposition from David Sacks and Laura Loomer. Barr's own reasoning is not given."
+},
+{
+"url": "https://www.wuky.org/wuky-news/2026-07-31/republicans-are-applauding-a-massive-kentucky-data-center-project-the-states-democratic-governor-has-questions",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-31",
+"note": "Quote verbatim, attributed to Congressman Andy Barr at the Paducah unveiling."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The only source is a 2021 statement denouncing Twitter's Trump ban; it calls for no legislation, and the item's own claim concedes he urged unity 'rather than legislation'. One rhetorical attack on platform moderation with no policy ask is too thin to place him at 'Targeted rules'.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "china_chips",
+"objection": "The sole chip-specific evidence is his vote as one of two committee members against the AI Overwatch Act, which would have added congressional review of advanced-chip exports to China, a bill opposed by David Sacks. That points toward looser export oversight, not a mixed record; his China-race rhetoric concerns coal power, not chips.",
+"suggested_score": 1,
+"suggested_label": "Leans sell more"
+}
+]
+}
+]

@@ -1,0 +1,758 @@
+[
+{
+"bioguide": "W000802",
+"name": "Sheldon Whitehouse",
+"groups": [
+"Ranking Member, Senate Committee on Environment and Public Works"
+],
+"signature": "Author of the Clean Cloud Act to make AI data centers pay for dirty power; leads the Senate push to repeal Section 230.",
+"notable_quote": {
+"text": "we don't have to choose between leading the world on AI and leading the world on climate safety: big technology and AI companies have all the money in the world to pay for developing new sources of clean energy",
+"url": "https://www.epw.senate.gov/public/index.cfm/2025/4/whitehouse-fetterman-introduce-clean-cloud-act-to-create-emissions-standard-for-ai-cryptomining-facilities",
+"date": "2025-04-11"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Whitehouse is the Senate's leading voice for making AI data centers pay their own way. He wrote the Clean Cloud Act to charge big data centers for dirty power, led letters to protect New England electric customers, and is pressing EPA to act on xAI's unpermitted gas turbines. He says the U.S. can lead on AI and climate at the same time, and he was open to a permitting deal to speed grid upgrades.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "S.1475 Clean Cloud Act of 2025 (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1475",
+"date": "2025-04-10",
+"quote": null,
+"what_it_shows": "His own bill would have EPA set an emissions standard for data centers and crypto mines and charge them a rising fee when their power is too dirty, with a quarter of the money going to low-income ratepayers."
+},
+{
+"type": "statement",
+"title": "Press release: Whitehouse, Fetterman introduce Clean Cloud Act",
+"url": "https://www.epw.senate.gov/public/index.cfm/2025/4/whitehouse-fetterman-introduce-clean-cloud-act-to-create-emissions-standard-for-ai-cryptomining-facilities",
+"date": "2025-04-11",
+"quote": "Energy-hungry data centers and cryptomining facilities are overloading our already strained power grid, driving up consumers' electricity costs, making it harder for Americans to power their homes and businesses, and spiking fossil fuel emissions",
+"what_it_shows": "In his own words he blames data centers for higher electric bills and more pollution, and wants tech companies to pay for new clean power."
+},
+{
+"type": "letter",
+"title": "Letter: Reed and Whitehouse lead six New England senators asking ISO New England how it will protect ratepayers from data center costs",
+"url": "https://www.reed.senate.gov/news/releases/reed-and-whitehouse-seek-answers-about-how-new-regional-data-centers-could-drive-up-energy-health_environmental-costs-for-consumers",
+"date": "2026-01-23",
+"quote": "We believe it is necessary to require tech companies, not American families, to foot the bill for their load.",
+"what_it_shows": "He wants the grid operator to make data center owners, not households, pay for the power demand they add."
+},
+{
+"type": "letter",
+"title": "Letter: Whitehouse and colleagues urge Biden White House to reconsider fast-tracking AI data centers",
+"url": "https://www.whitehouse.senate.gov/news/release/whitehouse-colleagues-urge-white-house-to-reconsider-potential-executive-action-on-fast-track-data-center-buildout-for-ai",
+"date": "2024-12-18",
+"quote": "we urge you to uphold critical clean air and water standards and ensure that the energy needs of technology companies are not prioritized over the needs of households",
+"what_it_shows": "Even under a Democratic president he opposed speeding up data center construction if it meant weaker pollution rules or higher household bills."
+},
+{
+"type": "letter",
+"title": "Letter: Whitehouse, Heinrich and Van Hollen probe nine companies over gas-powered AI data centers (Latitude Media)",
+"url": "https://www.latitudemedia.com/news/senate-democrats-probe-gas-powered-ai-data-centers/",
+"date": "2026-03-13",
+"quote": "Gas turbines are not the only option for data center developers looking to meet booming demand",
+"what_it_shows": "He is investigating Meta, OpenAI, xAI and others over plans to run AI data centers on gas plants, pushing them toward cleaner power."
+},
+{
+"type": "letter",
+"title": "Letter: Whitehouse asks EPA to take enforcement action against xAI's Memphis-area data center (E&E News)",
+"url": "https://www.eenews.net/articles/whitehouse-probes-xai-data-center-pollution/",
+"date": "2026-04-15",
+"quote": "xAI's strategy of installing turbines first and seeking permits after the fact is clearly illegal",
+"what_it_shows": "He wants federal regulators to crack down on an AI company that ran gas turbines without air permits."
+},
+{
+"type": "sponsor",
+"title": "S.Res.564 recognizing that solar, storage and wind can quickly and cheaply meet U.S. power demand growth (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-resolution/564",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "His answer to rising AI power demand is renewables and batteries rather than new gas plants."
+},
+{
+"type": "statement",
+"title": "Politico: Whitehouse and Heinrich joint statement as Senate Democrats end permitting reform talks",
+"url": "https://www.politico.com/news/2025/12/22/senate-democrats-cut-off-permitting-talks-after-trumps-newest-assault-on-wind-00703450",
+"date": "2025-12-22",
+"quote": "There was a deal to be had that would have taken politics out of permitting, made the process faster and more efficient, and streamlined grid infrastructure improvements nationwide",
+"what_it_shows": "He was willing to speed up permitting for grid projects, so he is not against building, but walked away after the administration attacked offshore wind."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Whitehouse backs targeted AI rules: keeping kids away from AI companion chatbots, banning AI fakes that trick voters, and bias testing for automated decision systems. No statement was found calling advanced AI an existential danger or seeking licensing or a pause.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.3062 GUARD Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"date": "2026-03-17",
+"quote": null,
+"what_it_shows": "Supports requiring AI chatbot companies to verify ages and keep minors away from AI companion bots."
+},
+{
+"type": "hearing",
+"title": "Roll Call: Senate Judiciary advances GUARD Act; Whitehouse ties kids' chatbot safety to repealing Section 230",
+"url": "https://rollcall.com/2026/04/30/ban-on-kids-companion-chatbots-advanced-by-senate-committee/",
+"date": "2026-04-30",
+"quote": null,
+"what_it_shows": "During the committee markup of the chatbot bill he argued Congress should also protect kids on other online platforms by repealing the Section 230 liability shield."
+},
+{
+"type": "cosponsor",
+"title": "S.4774 Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act of 2026 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4774",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "Supports rules against using AI-made fake video and audio to deceive voters."
+},
+{
+"type": "cosponsor",
+"title": "S.2892 Algorithmic Accountability Act of 2023 (cosponsor, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2892",
+"date": "2023-09-21",
+"quote": null,
+"what_it_shows": "Backed making big companies test automated decision systems for bias and harm and report results to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "S.2325 Algorithmic Justice and Online Platform Transparency Act (cosponsor, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2325",
+"date": "2023-07-13",
+"quote": null,
+"what_it_shows": "Backed transparency rules for the algorithms that pick what people see online and a ban on discriminatory algorithms."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "Whitehouse wants to rein in Big Tech. He is a lead cosponsor of the bipartisan bill to repeal Section 230, backs tougher antitrust law against giant mergers, and supports the Kids Online Safety Act and the EARN IT Act.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.3546 Sunset Section 230 Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3546",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "Supports ending the law that shields online platforms from lawsuits over user content."
+},
+{
+"type": "statement",
+"title": "Uprise RI: Whitehouse announces he is filing a bipartisan Section 230 repeal with Sen. Graham",
+"url": "https://upriseri.com/end-of-open-internet-senator-whitehouse-censorship-bill-section-230/",
+"date": "2025-12-12",
+"quote": "At long last, we are proceeding to file a bipartisan Section 230 repeal",
+"what_it_shows": "In his own words he has pushed for years to strip platforms of their legal immunity."
+},
+{
+"type": "cosponsor",
+"title": "S.130 Competition and Antitrust Law Enforcement Reform Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/130",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Supports making it harder for giant companies, including Big Tech, to merge."
+},
+{
+"type": "cosponsor",
+"title": "S.1748 Kids Online Safety Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-07-31",
+"quote": null,
+"what_it_shows": "Supports a duty of care requiring apps and platforms to protect minors."
+},
+{
+"type": "cosponsor",
+"title": "S.1207 EARN IT Act of 2023 (cosponsor, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1207",
+"date": "2023-04-19",
+"quote": null,
+"what_it_shows": "Backed removing platforms' legal shield when they allow child sexual abuse material to spread."
+},
+{
+"type": "cosponsor",
+"title": "S.1094 Journalism Competition and Preservation Act of 2023 (cosponsor, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1094",
+"date": "2023-03-30",
+"quote": null,
+"what_it_shows": "Backed letting news outlets bargain together to make Google and Facebook pay for their stories."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Whitehouse voted with 98 other senators to strip the 10-year moratorium on state AI laws from the 2025 budget bill, but no statement, letter or bill was found on federal preemption of state AI laws, the December 2025 executive order, or the March 2026 White House framework as of Sept 2026.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Yea on Blackburn amendment striking the 10-year state AI law moratorium from H.R.1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the near-unanimous vote to remove the moratorium, but almost every senator did, so the vote alone does not show a position."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China as of Sept 2026. Searched his press releases and news for Nvidia, export controls and chips; he did not sign the Senate Democratic letters on H20 and H200 sales that Sen. Reed signed.",
+"evidence": []
+}
+},
+"search_notes": "Searches run: Google News for Whitehouse plus artificial intelligence; data centers; chatbot/deepfake; preemption/moratorium; Section 230; Judiciary AI hearings; Nvidia/export controls; Clean Cloud Act; ISO New England; AI regulation. Wayback URL listing of whitehouse.senate.gov with three keyword filters. Pages read: EPW Clean Cloud Act release, Reed/Whitehouse ISO-NE release and the letter PDF (dated Jan 23 2026), Dec 2024 data center executive order letter, E&E News xAI probe, Latitude Media gas data center probe, Roll Call GUARD Act markup, Uprise RI and The Hill on the Sunset Section 230 Act, Politico permitting talks, govtrack S.Res.564, Tech Policy Press Jan 2024 AI hearing transcript (his questions were neutral, not used). senate.gov and epw.senate.gov blocked direct fetch and the Wayback Machine was refusing connections, so those pages were read as raw page text through the r.jina.ai reader proxy; quotes were checked against that text. Nothing found on preemption or chip exports. Finbold reported he sold up to $500,000 of Nvidia stock in May 2026; not a policy position, omitted. The Providence Business News June 2026 Chamber breakfast article (AI discussion) is paywalled and could not be read."
+},
+{
+"bioguide": "R000122",
+"name": "Jack Reed",
+"groups": [
+"Ranking Member, Senate Armed Services Committee"
+],
+"signature": "Top Democrat on Armed Services; co-author of the Responsible AI in Defense Act and a steady critic of selling advanced Nvidia chips to China.",
+"notable_quote": {
+"text": "There was unanimous consensus that there should be federal regulation of AI and it should be done rapidly, but very carefully.",
+"url": "https://www.reed.senate.gov/news/releases/reed-attends-historic-ai-insight-forum-in-dc-with-leading-tech-labor-and-business-leaders",
+"date": "2023-09-13"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Reed led a letter from six New England senators asking the regional grid operator how it will keep AI data centers from raising household electric bills, saying the AI industry should pay those costs. He also wants the AI buildout to happen in America rather than the Middle East, so he is not against building data centers.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Reed and Whitehouse lead six New England senators asking ISO New England how it will protect ratepayers from data center costs",
+"url": "https://www.reed.senate.gov/news/releases/reed-and-whitehouse-seek-answers-about-how-new-regional-data-centers-could-drive-up-energy-health_environmental-costs-for-consumers",
+"date": "2026-01-23",
+"quote": "As the ones who stand to benefit most, the multi-billion-dollar AI industry should be responsible for these costs.",
+"what_it_shows": "He wants tech companies, not families, to pay for the grid costs data centers create."
+},
+{
+"type": "statement",
+"title": "Joint statement of Reed, Coons, Shaheen, Warner, Kelly, Himes and Krishnamoorthi on Trump's UAE and Saudi AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"date": "2025-05-16",
+"quote": "Under this deal, data centers and AI systems that would otherwise be built in America will be built in the Middle East",
+"what_it_shows": "He treats data centers as valuable infrastructure that should be built in the U.S., which tempers his ratepayer concerns."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Reed has said since 2023 that AI needs federal regulation done quickly but carefully. His main work is on military AI: he co-wrote a bill requiring human oversight and a manual override for AI weapons and barring AI from nuclear launch decisions, much of which the Senate Armed Services Committee folded into its 2027 defense bill. He also backed an office to check the most powerful AI models for serious dangers.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.4707 Responsible Artificial Intelligence Defense Act of 2026 (cosponsor with Sen. Coons)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4707",
+"date": "2026-06-08",
+"quote": null,
+"what_it_shows": "His bill sets rules so the Pentagon keeps humans in the loop on AI weapons and bars AI from deciding to launch a nuclear weapon."
+},
+{
+"type": "statement",
+"title": "Axios: Coons and Reed to introduce the Responsible Artificial Intelligence in Defense Act",
+"url": "https://www.axios.com/2026/06/05/democrats-bill-responsible-defense-ai",
+"date": "2026-06-05",
+"quote": "A rigorous framework for human oversight is not a brake on adoption; it is the foundation that makes sustainable, confident adoption possible.",
+"what_it_shows": "The sponsors' memo frames binding human oversight rules as the way to adopt military AI safely, written after the Pentagon's fight with Anthropic."
+},
+{
+"type": "other",
+"title": "Arms Control Association: Senate Armed Services Committee adopts AI and autonomous weapons framework based on the Coons-Reed bill in the FY2027 NDAA",
+"url": "https://www.armscontrol.org/act/2026-07/news/us-senate-panel-approves-ai-autonomous-weapons-rules",
+"date": "2026-07",
+"quote": null,
+"what_it_shows": "As ranking member he got most of his human-judgment and testing rules for military AI, including a ban on AI nuclear launch decisions, into the committee's defense bill."
+},
+{
+"type": "statement",
+"title": "Press release: Reed attends first Senate AI Insight Forum",
+"url": "https://www.reed.senate.gov/news/releases/reed-attends-historic-ai-insight-forum-in-dc-with-leading-tech-labor-and-business-leaders",
+"date": "2023-09-13",
+"quote": "There was unanimous consensus that there should be federal regulation of AI and it should be done rapidly, but very carefully.",
+"what_it_shows": "In his own words he supports federal AI regulation and says there are dangers as well as benefits to sort out."
+},
+{
+"type": "cosponsor",
+"title": "S.5616 Preserving American Dominance in Artificial Intelligence Act of 2024 (cosponsor, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/5616",
+"date": "2024-12-19",
+"quote": null,
+"what_it_shows": "Backed creating a government office to evaluate the most powerful AI models for serious dangers before release."
+},
+{
+"type": "letter",
+"title": "Letter: Reed, Brown, Menendez and Smith urge CFPB to act on AI voice-cloning scams",
+"url": "https://www.reed.senate.gov/news/releases/reed-colleagues-urge-cfpb-to-step-up-to-protect-consumers-from-scams-using-ai",
+"date": "2023-07-06",
+"quote": "The FTC and CFPB need to take action to help thwart this type of fraud",
+"what_it_shows": "Wants regulators to use existing powers against AI-enabled scams."
+},
+{
+"type": "hearing",
+"title": "The Hill: Reed questions Pentagon CIO on labeling Anthropic a supply chain risk while still using Claude in the Iran war",
+"url": "https://thehill.com/policy/defense/5799136-claude-pentagon-iran-war/",
+"date": "2026-03-24",
+"quote": null,
+"what_it_shows": "He pressed the Pentagon on why it punished an AI company that resisted broad military uses of its model, calling it odd that the department kept using the product."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Reed supports targeted online rules, chiefly the Kids Online Safety Act, the STOP CSAM Act, and letting news outlets bargain with Google and Facebook. He has not called for breaking up tech companies or repealing Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.1748 Kids Online Safety Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-09",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms to protect minors."
+},
+{
+"type": "statement",
+"title": "Press release: Reed helps build momentum for bipartisan Kids Online Safety Act",
+"url": "https://www.reed.senate.gov/news/releases/reed-helps-build-momentum-for-bipartisan-kids-online-safety-act",
+"date": "2024-02",
+"quote": "Ensuring a safe environment online should be the default, especially for children.",
+"what_it_shows": "In his own words he wants tech and social media companies held accountable for harm to kids."
+},
+{
+"type": "cosponsor",
+"title": "S.1829 STOP CSAM Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2026-07-28",
+"quote": null,
+"what_it_shows": "Supports making platforms report and remove child sexual abuse material and letting victims sue."
+},
+{
+"type": "cosponsor",
+"title": "S.1094 Journalism Competition and Preservation Act of 2023 (cosponsor, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1094",
+"date": "2024-11-21",
+"quote": null,
+"what_it_shows": "Backed letting news outlets team up to make Google and Facebook pay for their stories."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Reed voted with 98 other senators to strip the state AI law moratorium from the 2025 budget bill, but no statement, letter or bill was found on preempting state AI laws, the December 2025 executive order, or the March 2026 White House framework as of Sept 2026.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Yea on Blackburn amendment striking the 10-year state AI law moratorium from H.R.1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the near-unanimous vote to remove the moratorium, but almost every senator did, so the vote alone does not show a position."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Reed is a consistent hawk on AI chip exports. He signed every major Senate Democratic letter against the Trump administration's H20 and H200 sales to China and its Gulf chip deals, and in his own words called the H200 decision a flawed, transactional move that could gift China's military key technology.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Reed and colleagues warn Trump's U-turn on AI chip sales to China is a colossal economic and national security failure",
+"url": "https://www.reed.senate.gov/news/releases/reed-and-congressional-colleagues-warn-trumps-u-turn-on-ai-chip-sales-to-china-is-a-colossal-economic-and-national-security-failure",
+"date": "2025-12-10",
+"quote": "This flawed, transactional decision without a broader AI export control strategy could gift China's military key technology gains and seems completely divorced from any consideration of America's economic and national security interests",
+"what_it_shows": "His own words opposing the December 2025 decision to let Nvidia sell H200 chips to China."
+},
+{
+"type": "statement",
+"title": "Joint statement of Reed, Coons, Shaheen, Warner, Kelly, Himes and Krishnamoorthi on Trump's UAE and Saudi AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"date": "2025-05-16",
+"quote": "AI chips must only be exported to trusted companies, in reasonable numbers, and in concert with credible security standards and assurances.",
+"what_it_shows": "He opposed exporting large volumes of advanced chips to the Gulf without security assurances against diversion to China."
+},
+{
+"type": "letter",
+"title": "Letter: Coons, Warner, Schumer, Reed and Warren to Commerce Secretary Lutnick on resuming Nvidia H20 sales to China",
+"url": "https://www.coons.senate.gov/news/press-releases/top-senate-democrats-sound-alarm-on-administrations-decision-to-resume-ai-chip-sales-to-china",
+"date": "2025-07",
+"quote": "We shouldn't be trading away key technological advantages as if they are concessions in a trade negotiation",
+"what_it_shows": "He objected to loosening chip export controls as part of trade talks with China."
+},
+{
+"type": "letter",
+"title": "Letter: Warner, Schumer, Reed, Shaheen, Coons and Warren to President Trump on the 15 percent fee deal for Nvidia and AMD chip sales to China",
+"url": "https://www.warner.senate.gov/newsroom/press-releases/top-senate-democrats-warn-trump-ai-chip-deal-with-china-raises-legal-and-national-security-risks/",
+"date": "2025-08",
+"quote": "We again urge your administration to quickly reverse course and abandon this reckless plan to trade away U.S. technology leadership.",
+"what_it_shows": "He asked Trump to reverse the deal letting Nvidia and AMD sell AI chips to China for a cut of revenue."
+},
+{
+"type": "letter",
+"title": "Letter: Schumer and Warren lead Senate Democrats including Reed urging Lutnick and Rubio to reconsider the Saudi and UAE chip deals",
+"url": "https://www.democrats.senate.gov/newsroom/press-releases/trumps-middle-east-chip-deals-are-the-art-of-the-steal-presenting-major-national-security-risk-of-china-stealing-sensitive-american-technology-leader-schumer-and-senator-warren-lead-senate-democrats-in-standing-up-against-the-loss-of-building-the-ai-future-in-america-and-urges-admin-to-reconsider-catastrophic-agreements",
+"date": "2025-05-19",
+"quote": "These deals greenlight the sale of sensitive U.S. technology in exchange for illusory promises of foreign investment.",
+"what_it_shows": "He signed on to the argument that the Gulf deals risk sensitive chips reaching China."
+}
+]
+}
+},
+"search_notes": "Searches run: Google News for Reed plus artificial intelligence; data centers; Nvidia/export controls/chips; NDAA AI; Anthropic/autonomous weapons; Kids Online Safety; electricity/ISO New England; AI super PACs and primary; preemption/moratorium. Wayback URL listing of reed.senate.gov with two keyword filters. Pages read: Reed Dec 2025 H200 release, ISO-NE release and letter PDF, House Intelligence Democrats joint statement on Gulf chip deals, Coons H20 letter release, Warner 15 percent fee letter release, Schumer/Warren Gulf letter release (all confirm Reed as signer), Reed AI Insight Forum release, CFPB voice-cloning letter release, Reed KOSA release, Axios on the Responsible AI in Defense Act, Arms Control Association on the SASC FY27 NDAA, The Hill on Reed questioning the Pentagon about Anthropic, NY Post on the Hegseth hearing. reed.senate.gov and other senate.gov pages blocked direct fetch and the Wayback Machine was refusing connections, so they were read as raw page text through the r.jina.ai reader proxy. Exact dates of the Coons and Warner letters were not shown in the proxy text, so month-level dates are given. Nothing found on preemption. Punchbowl and Politico Anthropic pieces were behind paywalls or rate limits. The Providence Business News June 2026 breakfast article is paywalled. No AI super PAC spending in his 2026 primary was found."
+},
+{
+"bioguide": "A000380",
+"name": "Gabe Amo",
+"groups": [
+"Vice Ranking Member, House Foreign Affairs Committee",
+"Ranking Member, House Science, Space, and Technology Subcommittee on Environment"
+],
+"signature": "Co-lead of the bipartisan LIFT AI Act for K-12 AI literacy; challenged Trump's approval of Nvidia H200 chip sales to China.",
+"notable_quote": {
+"text": "AI is here, it's here to stay, and we need to prepare the next generation for this new reality",
+"url": "https://amo.house.gov/press-release/may-the-force-be-with-you-amo-secures-committee-passage-of-bipartisan-bill-to-improve-ai-literacy-for-k-12-students",
+"date": "2026-06-26"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "No statement on data centers was found as of Sept 2026. Amo cosponsored a Democratic energy bill that would make large users like data centers pay in full for the grid upgrades they cause, and he voted against the House Republican permitting bill. Both are weak, party-line signals.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.7977 Energy Bills Relief Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-05-07",
+"quote": null,
+"what_it_shows": "The 421-page Democratic bill includes a section on avoiding cost shifts onto families that makes large-load facilities such as data centers their own customer class that must fully pay for the grid upgrades they require."
+},
+{
+"type": "vote",
+"title": "House roll call 356: Nay on passage of H.R.4776, the SPEED Act permitting bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted against the Republican bill to speed environmental reviews for energy and other projects; nearly all Democrats did, so it is a weak signal."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Amo's own AI work is about teaching students and small businesses to use AI, not restricting it. But he signed a 2026 letter calling AI a clear risk that demands hearings with AI CEOs under oath, has warned about AI misinformation, praised the AI Safety Institute, and cosponsored a ban on AI fakes that deceive voters.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Casar leads 20 House Democrats including Amo demanding Speaker Johnson hold hearings with AI CEOs under oath",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"date": "2026-08-10",
+"quote": "The CEOs of the largest AI companies should answer questions under oath, and Americans should have a chance to hear from independent experts on the dangers posed by this technology.",
+"what_it_shows": "He joined a letter saying AI poses a clear risk to safety and threatens millions of jobs, and that Congress has failed to respond."
+},
+{
+"type": "interview",
+"title": "American Bazaar: Amo on the Regulating AI podcast about AI literacy, misinformation and oversight",
+"url": "https://americanbazaaronline.com/2025/04/02/the-future-is-now-congressman-gabe-amo-on-ai-policy-equity-and-education-461406/",
+"date": "2025-04-02",
+"quote": "This time is unique because of the speed with which information moves",
+"what_it_shows": "He called AI misinformation one of the biggest threats to democracy, said the AI Safety Institute was a bold step on mitigating risk, and wants oversight so AI platforms give accurate election information."
+},
+{
+"type": "cosponsor",
+"title": "H.R.4894 Deceptive Practices and Voter Intimidation Prevention Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "Supports making it illegal to spread lies about voting, including AI-made fakes, before federal elections."
+},
+{
+"type": "statement",
+"title": "Press release: Amo secures committee passage of the bipartisan LIFT AI Act for K-12 AI literacy",
+"url": "https://amo.house.gov/press-release/may-the-force-be-with-you-amo-secures-committee-passage-of-bipartisan-bill-to-improve-ai-literacy-for-k-12-students",
+"date": "2026-06-26",
+"quote": "AI is here, it's here to stay, and we need to prepare the next generation for this new reality",
+"what_it_shows": "His signature AI bill funds AI literacy for students and teachers, a pro-adoption approach endorsed by Google and OpenAI as well as teachers' unions."
+},
+{
+"type": "cosponsor",
+"title": "H.R.5584 LIFT AI Act (co-lead with Rep. Kean; listed as cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5584",
+"date": "2025-09-26",
+"quote": null,
+"what_it_shows": "National Science Foundation grants for K-12 AI literacy curriculum and teacher training; neutral on AI risk."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on Section 230, antitrust, privacy law or kids online safety bills as of Sept 2026. Searched his press releases and news for Big Tech, Section 230, TikTok, privacy and kids online safety and found only an election-deception bill, which is counted under AI risk.",
+"evidence": []
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Amo signed the November 2025 letter from 81 House Democrats opposing any revival of the 10-year moratorium on state AI laws in the defense bill and opposing the planned executive order to preempt state AI laws. No personal statement on preemption was found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Matsui leads 81 House Democrats including Amo opposing an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "our strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws and regulations",
+"what_it_shows": "He is on record against Congress or the White House blocking states from enforcing their own AI laws."
+},
+{
+"type": "vote",
+"title": "House roll call 145: Nay on House passage of H.R.1, which carried the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted against the House budget bill that contained the state AI law moratorium, but the bill covered many other issues, so this is a weak signal."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Amo is a chip export hawk. With Foreign Affairs Ranking Member Meeks he challenged the Trump administration's approval of Nvidia H200 sales to China as dangerous and likely illegal, he sponsored a bill to help small businesses comply with export controls, and he cosponsored bills to close the cloud-access loophole and put more export enforcement officers overseas.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Amo, Meeks challenge Trump and Secretary Lutnick's plan to sell advanced AI chips to China",
+"url": "https://amo.house.gov/press-release/amo-meeks-challenge-trump-secretary-lutnick-plan-to-sell-advanced-ai-chips-to-china",
+"date": "2026-01-14",
+"quote": "The United States must continue to ensure that we prevent China from accessing advanced AI chips to maintain our superior AI capabilities.",
+"what_it_shows": "His letter calls the H200 decision a threat to national security and says the 25 percent revenue share is likely illegal under export control law."
+},
+{
+"type": "sponsor",
+"title": "H.R.8288 Strengthening Export Controls Compliance Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8288",
+"date": "2026-04-15",
+"quote": null,
+"what_it_shows": "His own bill would help small businesses understand and follow rules on selling sensitive technology overseas."
+},
+{
+"type": "cosponsor",
+"title": "H.R.2683 Remote Access Security Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"date": "2025-07-15",
+"quote": null,
+"what_it_shows": "Supports closing the loophole that lets foreign users reach restricted American chips and AI through the cloud."
+},
+{
+"type": "cosponsor",
+"title": "H.R.4505 Export Controls Enforcement Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4505",
+"date": "2026-04-22",
+"quote": null,
+"what_it_shows": "Supports stationing at least 20 export control officers overseas to catch chip smuggling."
+}
+]
+}
+},
+"search_notes": "Searches run: Google News for Amo plus artificial intelligence (two phrasings); data centers/electricity; export controls/Nvidia/chips; OpenAI letter; preemption/moratorium/executive order; Big Tech/Section 230/TikTok/privacy; LIFT AI; AI super PACs. Wayback URL listing of amo.house.gov with two filters, plus his live press release listing (pages 1 to 4) and his Committees and Caucuses page. Pages read: Amo/Meeks chip letter release, LIFT AI reintroduction and committee passage releases, Smithfield AI roundtable release, Boston Globe excerpt, American Bazaar podcast writeup, TMZ clip on Musk's AI Odyssey (not used), Casar letter release (confirms Amo signed), Matsui letter PDF (text extracted locally; confirms Amo signed), govtrack cosponsor list for H.R.7977 (Amo added May 7 2026), govtrack roll calls h356 and h145. The context file's 'RC 145' lead is the May 22 2025 House passage of H.R.1; the SPEED Act passage vote is roll call 356. The Congressional AI Caucus membership lead could not be confirmed: his official Committees and Caucuses page does not list it, so it is omitted. No AI super PAC activity for or against him was found. The Providence Business News June 2026 breakfast article is paywalled."
+},
+{
+"bioguide": "M001223",
+"name": "Seth Magaziner",
+"groups": [
+"Ranking Member, House Homeland Security Subcommittee on Counterterrorism, Law Enforcement, and Intelligence",
+"Member, House Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection"
+],
+"signature": "Sponsor of the AI Advertising Disclosure Act; Homeland Security Democrat pushing for mandatory AI security vetting of critical infrastructure.",
+"notable_quote": {
+"text": "Americans deserve to know if the information they are getting is the best available, or if it is being manipulated to serve the interests paid sponsors",
+"url": "https://magaziner.house.gov/media/press-releases/magaziner-introduces-bill-require-ai-chatbots-and-search-results-disclose-paid",
+"date": "2026-08-25"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "No statement on data centers was found as of Sept 2026, but Magaziner has backed two bills to keep data center power costs off family electric bills and voted against the House Republican permitting bill.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.7066 SHIELD Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7066",
+"date": "2026-02-03",
+"quote": null,
+"what_it_shows": "Supports stopping families from being stuck with higher electric bills caused by power-hungry data centers."
+},
+{
+"type": "cosponsor",
+"title": "H.R.7977 Energy Bills Relief Act (original cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "The Democratic energy bill makes large-load facilities such as data centers their own customer class that must fully pay for the grid upgrades they require."
+},
+{
+"type": "vote",
+"title": "House roll call 356: Nay on passage of H.R.4776, the SPEED Act permitting bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted against the Republican bill to speed environmental reviews for energy and other projects; nearly all Democrats did, so it is a weak signal."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Magaziner favors targeted AI rules. He wrote a bill forcing AI chatbots to disclose paid influence, has pressed at hearings for making the White House's voluntary AI security vetting mandatory, and has cosponsored bills against AI sexual deepfakes and against letting AI launch nuclear weapons.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R.10146 AI Advertising Disclosure Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10146",
+"date": "2026-08-24",
+"quote": null,
+"what_it_shows": "His own bill requires AI chatbots and AI search engines to disclose when paid deals shape their answers, with FTC enforcement and a right to sue."
+},
+{
+"type": "statement",
+"title": "Press release: Magaziner introduces bill to require AI chatbots and search results to disclose paid content",
+"url": "https://magaziner.house.gov/media/press-releases/magaziner-introduces-bill-require-ai-chatbots-and-search-results-disclose-paid",
+"date": "2026-08-25",
+"quote": "Americans deserve to know if the information they are getting is the best available, or if it is being manipulated to serve the interests paid sponsors",
+"what_it_shows": "In his own words he wants transparency rules applied to AI answers the way they apply to ads on TV and radio."
+},
+{
+"type": "hearing",
+"title": "Legis1: Magaziner presses witnesses at Homeland Security subcommittee hearing on frontier AI and critical infrastructure",
+"url": "https://legis1.com/news/frontier-ai-cybersecurity-threat-poses-urgent",
+"date": "2026-06-09",
+"quote": "What's to stop them from just selling it to the highest bidder?",
+"what_it_shows": "He questioned whether the executive order's voluntary AI security framework is adequate, noting banks told him Anthropic's model found thousands of unknown vulnerabilities, and floated legislation to make vetting mandatory."
+},
+{
+"type": "cosponsor",
+"title": "H.R.1941 Preventing Deepfakes of Intimate Images Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1941",
+"date": "2025-08-26",
+"quote": null,
+"what_it_shows": "Supports a federal crime for sharing AI-made sexual images of real people."
+},
+{
+"type": "cosponsor",
+"title": "H.R.2894 Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023 (cosponsor, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2024-04-15",
+"quote": null,
+"what_it_shows": "Backed requiring a human, not an AI, to make any nuclear launch decision."
+},
+{
+"type": "statement",
+"title": "Providence Journal: Magaziner campaign criticizes opponent's AI-generated ad imagery and says it will not use AI in ads",
+"url": "https://www.providencejournal.com/story/news/politics/elections/2026/08/17/campaigns-in-rhode-island-are-leaning-on-ai-and-there-are-few-laws-to-guide-them/91184773007/",
+"date": "2026-08-17",
+"quote": null,
+"what_it_shows": "Through a spokesperson he attacked a Republican challenger for using fake AI-generated images in a TV ad and said his own campaign does not intend to use AI in ads."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Magaziner backs specific consumer and kids protections online: FTC enforcement and a right to sue over hidden AI advertising, the House Kids Online Safety Act, limits on collecting reproductive health data, and a right to control AI copies of one's voice and face. He has not called for breaking up Big Tech or repealing Section 230.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R.10146 AI Advertising Disclosure Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10146",
+"date": "2026-08-24",
+"quote": null,
+"what_it_shows": "Treats undisclosed paid influence in AI answers as a deceptive practice, enforced by the FTC, state attorneys general and private lawsuits."
+},
+{
+"type": "cosponsor",
+"title": "H.R.7891 Kids Online Safety Act (cosponsor, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-09-03",
+"quote": null,
+"what_it_shows": "Backed requiring apps to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3420 My Body, My Data Act of 2023 (cosponsor, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-25",
+"quote": null,
+"what_it_shows": "Backed limits on apps collecting or sharing reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "H.R.9551 NO FAKES Act of 2024 (cosponsor, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9551",
+"date": "2024-10-11",
+"quote": null,
+"what_it_shows": "Backed giving people the right to stop AI copies of their voice or face."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Magaziner signed both late-2025 House Democratic letters against blocking state AI laws: the 81-member Matsui letter opposing a moratorium in the defense bill and the planned preemption executive order, and the 44-member Clarke letter calling a moratorium wildly irresponsible without any federal law in place.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Matsui leads 81 House Democrats including Magaziner opposing an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "He is on record against Congress or the White House blocking states from enforcing their own AI laws."
+},
+{
+"type": "letter",
+"title": "Letter: Clarke leads 44 House Democrats including Magaziner urging no AI moratorium or preemption in the FY26 NDAA",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "A second letter within a week asking defense bill negotiators to keep any state AI law preemption out."
+},
+{
+"type": "vote",
+"title": "House roll call 145: Nay on House passage of H.R.1, which carried the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted against the House budget bill that contained the state AI law moratorium, but the bill covered many other issues, so this is a weak signal."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "low",
+"summary": "Magaziner cosponsored the AI OVERWATCH Act, a major bill giving Congress the power to block sales of advanced AI chips to China, but no statement from him on chip exports was found as of Sept 2026.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.6875 AI OVERWATCH Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-04-29",
+"quote": null,
+"what_it_shows": "Supports letting Congress block advanced AI chip sales to China and other risky countries before they happen."
+}
+]
+}
+},
+"search_notes": "Searches run: Google News for Magaziner plus artificial intelligence; AI chatbot/deepfake/advertising; data centers/electric bills; Nvidia/export controls/chips; AI Advertising Disclosure; cybersecurity AI hearing; Energy Bills Relief/SHIELD Act; SPEED Act vote; AI 2026 Homeland Security; AI super PACs. Wayback URL listing of magaziner.house.gov with two filters, his live press release listing (two pages) and his Committees and Caucuses page. Pages read: AI Advertising Disclosure Act release, Legis1 June 2026 hearing writeup, Magaziner 119th Congress committee assignment release, Providence Journal Aug 17 2026 AI campaigns article (via reader proxy), Clarke letter release (confirms signer), Matsui letter PDF (text extracted locally; confirms signer), govtrack cosponsor list for H.R.7977 (original cosponsor), govtrack roll calls h356 and h145. The context file's 'RC 145' lead is the May 22 2025 House passage of H.R.1; the SPEED Act passage vote is roll call 356. The Congressional AI Caucus membership lead could not be confirmed: his official Committees and Caucuses page does not list it, so it is omitted. Tech Policy Press hearing writeup returned a redirect error and was not read. No AI super PAC activity for or against him was found. The Providence Business News June 2026 breakfast article is paywalled."
+}
+]

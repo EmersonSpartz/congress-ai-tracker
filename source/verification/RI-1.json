@@ -1,0 +1,291 @@
+[
+{
+"bioguide": "W000802",
+"checks": [
+{
+"url": "https://www.epw.senate.gov/public/index.cfm/2025/4/whitehouse-fetterman-introduce-clean-cloud-act-to-create-emissions-standard-for-ai-cryptomining-facilities",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-11",
+"note": "Direct fetch and WebFetch returned 403 and Wayback was rate-limited, so the page was loaded in the browser pane. Quote appears verbatim, attributed to Whitehouse. Release says revenues from the emissions standard fund clean firm generation and help ratepayers, matching the claim."
+},
+{
+"url": "https://www.reed.senate.gov/news/releases/reed-and-whitehouse-seek-answers-about-how-new-regional-data-centers-could-drive-up-energy-health_environmental-costs-for-consumers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-28",
+"note": "Loaded via browser pane after 403. Quote appears verbatim in the six-senator letter to ISO New England CEO Vamsi Chadalavada; signers include Whitehouse. Letter asks how ISO-NE will protect residential ratepayers from data center-driven costs."
+},
+{
+"url": "https://www.whitehouse.senate.gov/news/release/whitehouse-colleagues-urge-white-house-to-reconsider-potential-executive-action-on-fast-track-data-center-buildout-for-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12-18",
+"note": "Loaded via browser pane after 403. Quote appears verbatim in the letter to President Biden, Granholm, Regan and White House staff, led by Whitehouse with Schatz, Welch, Markey and Warren. Letter urges reconsidering an EO fast-tracking data centers over pollution and consumer-cost concerns."
+},
+{
+"url": "https://www.latitudemedia.com/news/senate-democrats-probe-gas-powered-ai-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-13",
+"note": "Quote appears verbatim, attributed to the senators' statement. Article names Whitehouse as a probe leader with Heinrich and Van Hollen; letters went to Meta, OpenAI, xAI, Fermi America, AI&P Corp, Joule, Crusoe and Fundamental Data about 12 gas projects and why cleaner power was not chosen."
+},
+{
+"url": "https://www.eenews.net/articles/whitehouse-probes-xai-data-center-pollution/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-17",
+"note": "Quote appears verbatim, attributed to Whitehouse's letter to EPA asking for enforcement action if xAI keeps circumventing permitting at its Tennessee/Mississippi complex."
+},
+{
+"url": "https://www.politico.com/news/2025/12/22/senate-democrats-cut-off-permitting-talks-after-trumps-newest-assault-on-wind-00703450",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-22",
+"note": "Loaded via browser pane after 403. Quote appears verbatim in the Whitehouse-Heinrich joint statement. Article confirms Democrats froze permitting talks after Interior halted five offshore wind projects under construction; statement praises a deal that would have streamlined grid infrastructure."
+},
+{
+"url": "https://rollcall.com/2026/04/30/ban-on-kids-companion-chatbots-advanced-by-senate-committee/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Article says Klobuchar, Booker and Whitehouse mentioned during debate on the GUARD Act their support for repealing Section 230, saying the committee should also protect kids on other platforms. No direct Whitehouse quote and no record of his vote, so the item is supported as a paraphrase only. Thin as ai_risk evidence on its own."
+},
+{
+"url": "https://upriseri.com/end-of-open-internet-senator-whitehouse-censorship-bill-section-230/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-15",
+"note": "Quote appears verbatim, attributed to Whitehouse announcing a bipartisan Section 230 repeal filing with Graham; he adds they have been working on it for a long time. Source is an opinion-toned outlet hostile to the bill, but the quote and attribution are clear."
+},
+{
+"url": "https://www.epw.senate.gov/public/index.cfm/2025/4/whitehouse-fetterman-introduce-clean-cloud-act-to-create-emissions-standard-for-ai-cryptomining-facilities",
+"verdict": "confirmed",
+"corrected_quote": "The good news is that we don't have to choose between leading the world on AI and leading the world on climate safety: big technology and AI companies have all the money in the world to pay for developing new sources of clean energy, rather than overloading local grids and firing up fossil fuel pollution.",
+"corrected_date": "2025-04-11",
+"note": "Quote is verbatim as an excerpt; the full sentence begins with 'The good news is that' and continues 'rather than overloading local grids and firing up fossil fuel pollution.' Attributed to Whitehouse."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "R000122",
+"checks": [
+{
+"url": "https://www.reed.senate.gov/news/releases/reed-and-whitehouse-seek-answers-about-how-new-regional-data-centers-could-drive-up-energy-health_environmental-costs-for-consumers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-28",
+"note": "Site returns Akamai 403 to scripted fetch and Wayback has no capture; read in a real browser instead. Quote appears verbatim in the six-senator letter to ISO-NE (Reed, Whitehouse, Welch, Shaheen, Blumenthal, Markey). Letter also says 'require tech companies, not American families, to foot the bill for their load', matching the claim."
+},
+{
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-16",
+"note": "Joint statement names Reed; quote verbatim. Statement's thrust is that the Gulf chip volume would offshore US data centers and slow the US AI buildout; the 'tempers ratepayer concerns' framing is the tracker's inference, but the underlying fact is supported."
+},
+{
+"url": "https://www.axios.com/2026/06/05/democrats-bill-responsible-defense-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-05",
+"note": "Axios blocks scripted fetch (Cloudflare) and Wayback was offline; read in browser via DOM. Article names Coons and Reed introducing the Responsible Artificial Intelligence in Defense Act; the quote is verbatim from the sponsors' memo; article says the bill was prompted by the Pentagon-Anthropic fight and supply-chain-risk designation."
+},
+{
+"url": "https://www.armscontrol.org/act/2026-07/news/us-senate-panel-approves-ai-autonomous-weapons-rules",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07",
+"note": "Arms Control Today July/August 2026: SASC language 'largely tracks' the June 8 Coons-Reed bill, accepted by the GOP majority into the FY2027 NDAA base text; includes 'appropriate levels of human judgment', testing/robustness and incident-repository requirements, and a categorical ban on AI deciding to launch or detonate a nuclear weapon (though not a ban on AI for nuclear targeting). Article credits Reed as ranking member."
+},
+{
+"url": "https://www.reed.senate.gov/news/releases/reed-attends-historic-ai-insight-forum-in-dc-with-leading-tech-labor-and-business-leaders",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-09-13",
+"note": "Wayback capture (2025-03-13) of the release; quote verbatim in Reed's own statement, followed by 'there are benefits and also dangers. And we have to be able to separate the one from the other in a regulatory scheme.'"
+},
+{
+"url": "https://www.reed.senate.gov/news/releases/reed-colleagues-urge-cfpb-to-step-up-to-protect-consumers-from-scams-using-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-07-06",
+"note": "Read in browser (site 403s scripted fetch, Wayback offline). Quote is verbatim from Reed's own statement; letter asks CFPB to act 'under the CFPB's existing authorities'."
+},
+{
+"url": "https://thehill.com/policy/defense/5799136-claude-pentagon-iran-war/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-24",
+"note": "Article names Reed as SASC ranking member questioning Pentagon CIO Kirsten Davies about the supply-chain-risk designation; Reed said it seems 'odd' the Pentagon keeps using Anthropic's products and asked 'Does that strike you as odd'. The article covers the designation and Anthropic's lawsuit; the 'resisted broad military uses' phrasing is the tracker's gloss on the dispute."
+},
+{
+"url": "https://www.reed.senate.gov/news/releases/reed-helps-build-momentum-for-bipartisan-kids-online-safety-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-02-15",
+"note": "Read in browser (site 403s scripted fetch). Quote verbatim from Reed's statement, which continues 'ensure that tech companies and social media companies are more accountable'."
+},
+{
+"url": "https://www.reed.senate.gov/news/releases/reed-and-congressional-colleagues-warn-trumps-u-turn-on-ai-chip-sales-to-china-is-a-colossal-economic-and-national-security-failure",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-10",
+"note": "Wayback capture (2026-05-14). Quote verbatim, attributed directly to Reed, about lifting export controls on NVIDIA's advanced chips to China."
+},
+{
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-16",
+"note": "Same joint statement as item 2; quote verbatim. Statement warns the deal would 'gift China's military key technology gains' and calls for exports only 'to trusted companies, in reasonable numbers' with security assurances."
+},
+{
+"url": "https://www.coons.senate.gov/news/press-releases/top-senate-democrats-sound-alarm-on-administrations-decision-to-resume-ai-chip-sales-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-28",
+"note": "Read in browser (Akamai 403 to scripted fetch). Reed listed as a signer of the letter to Lutnick; quote verbatim; letter objects to permitting adversary access to chips 'as part of trade discussions'."
+},
+{
+"url": "https://www.warner.senate.gov/newsroom/press-releases/top-senate-democrats-warn-trump-ai-chip-deal-with-china-raises-legal-and-national-security-risks/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-15",
+"note": "Read in browser. Reed listed as a signer of the letter to Trump on the 15 percent fee arrangement for AMD and Nvidia sales; quote verbatim."
+},
+{
+"url": "https://www.democrats.senate.gov/newsroom/press-releases/trumps-middle-east-chip-deals-are-the-art-of-the-steal-presenting-major-national-security-risk-of-china-stealing-sensitive-american-technology-leader-schumer-and-senator-warren-lead-senate-democrats-in-standing-up-against-the-loss-of-building-the-ai-future-in-america-and-urges-admin-to-reconsider-catastrophic-agreements",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-19",
+"note": "Read in browser. Reed named among the eight signers; quote verbatim in the letter to Lutnick and Rubio, which warns the deals lack protections against the technology 'falling into China's hands'."
+},
+{
+"url": "https://www.reed.senate.gov/news/releases/reed-attends-historic-ai-insight-forum-in-dc-with-leading-tech-labor-and-business-leaders",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-09-13",
+"note": "Verbatim in Reed's statement (Wayback capture). Note it is from September 2023, so somewhat dated as a headline quote."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "A000380",
+"checks": [
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Page names Gabe Amo (RI-01) as a signer. Quote appears verbatim. Letter text quoted on page says advanced AI models 'pose a clear risk to the safety and security of the American people', 'threatens to displace millions of American workers', and 'Congress has so far completely failed to respond'. Claim fully supported."
+},
+{
+"url": "https://americanbazaaronline.com/2025/04/02/the-future-is-now-congressman-gabe-amo-on-ai-policy-equity-and-education-461406/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-02",
+"note": "Quote verbatim. Article says Amo called AI misinformation 'one of the biggest threats' to democracy ahead of the 2024 elections, stressed regulatory oversight so AI platforms give accurate election-procedure information, and called the AI Safety Institute 'a bold step towards addressing [...] the mitigation of risk'. Note the remarks were made ahead of the 2024 election (podcast recorded 2024; article dated April 2025)."
+},
+{
+"url": "https://amo.house.gov/press-release/may-the-force-be-with-you-amo-secures-committee-passage-of-bipartisan-bill-to-improve-ai-literacy-for-k-12-students",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-26",
+"note": "Quote verbatim (curly apostrophe in 'it's'). Page states the LIFT AI Act invests in AI literacy for K-12 students and professional learning for educators, and lists endorsements from AFT, Google, OpenAI, ITI and SIIA. 'Signature AI bill' is the tracker's characterization, but the page supports the substance."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "The fetch tool returned zero text for the PDF, so I downloaded it directly and extracted the text. Quote appears verbatim; letter dated November 26, 2025; 'Gabe Amo' appears in the signatory list. Letter also opposes a presidential executive order that would preempt state AI laws and coerce states via federal funding threats. Claim supported."
+},
+{
+"url": "https://amo.house.gov/press-release/amo-meeks-challenge-trump-secretary-lutnick-plan-to-sell-advanced-ai-chips-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Quote verbatim (page shows it preceded by an ellipsis from an earlier clause). Letter excerpt says the H200 decision 'will erode the edge the United States maintains over China's AI program and threaten our national security' and that the 25% revenue collection 'is likely illegal' under ECRA. Claim supported. Page itself has a typo ('January 13, 2025' for the BIS action, which was 2026)."
+},
+{
+"url": "https://amo.house.gov/press-release/may-the-force-be-with-you-amo-secures-committee-passage-of-bipartisan-bill-to-improve-ai-literacy-for-k-12-students",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-26",
+"note": "Headline quote appears verbatim on the page, attributed to Congressman Gabe Amo."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "None of the six sourced items concerns data centers, electricity rates, or siting. The assigned -1 'Protect ratepayers first' has no supporting evidence in the checked sources; either add a data-center source or leave the dimension unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "M001223",
+"checks": [
+{
+"url": "https://magaziner.house.gov/media/press-releases/magaziner-introduces-bill-require-ai-chatbots-and-search-results-disclose-paid",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-25",
+"note": "Quote appears verbatim (including the release's own typo 'interests paid sponsors'). Release announces the AI Advertising Disclosure Act requiring AI chatbots and search results to disclose paid content; page date 2026-08-25. The TV/radio-ads analogy in the claim is consistent with the release's framing of extending advertising disclosure to AI."
+},
+{
+"url": "https://legis1.com/news/frontier-ai-cybersecurity-threat-poses-urgent",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-09",
+"note": "Article (dated 2026-06-09) names Rep. Seth Magaziner, says he pressed on whether the executive order's voluntary framework was adequate, notes banks told him Anthropic's model found thousands of unknown vulnerabilities, and carries the quote verbatim. Only the 'floated legislation to make vetting mandatory' portion of the claim is not visible in the grep excerpt; core claim and quote are supported."
+},
+{
+"url": "https://www.providencejournal.com/story/news/politics/elections/2026/08/17/campaigns-in-rhode-island-are-leaning-on-ai-and-there-are-few-laws-to-guide-them/91184773007/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Direct fetch returned 403, curl with browser UA returned 0 bytes, Wayback lookup returned 429/404 (no snapshot), and WebFetch is blocked for providencejournal.com. Could not verify the spokesperson claim."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF (dated November 26, 2025) extracted locally: quote appears verbatim; letter opposes both an NDAA moratorium on state AI laws and a proposed preemption executive order; 81 'Member of Congress' signature lines, including Seth Magaziner (page 8)."
+},
+{
+"url": "https://clarke.house.gov/?p=102767",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Redirects to Clarke's 2025-12-03 release; quote appears verbatim; letter urges no AI moratorium or preemption in the final FY26 NDAA and lists Seth Magaziner among the 44 signers. One week after the Matsui letter, matching the claim."
+},
+{
+"url": "https://magaziner.house.gov/media/press-releases/magaziner-introduces-bill-require-ai-chatbots-and-search-results-disclose-paid",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-25",
+"note": "Same page as item 1; quote verbatim as printed (release omits 'of' before 'paid sponsors')."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "None of the six sources touches data centers, energy, or ratepayers; a -1 'Protect ratepayers first' score has no supporting evidence in this item set.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "china_chips",
+"objection": "No source addresses export controls or chip sales; the -2 'Tighten export controls' score is unsupported by the evidence provided.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

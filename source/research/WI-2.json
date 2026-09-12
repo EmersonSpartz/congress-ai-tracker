@@ -1,0 +1,683 @@
+[
+{
+"bioguide": "M001160",
+"name": "Gwen Moore",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Moore cosponsors a bill that would make data centers publicly report their electricity and water use. She has not made public statements on Wisconsin's data center boom that we could find.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6984, Data Center Transparency Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6984",
+"date": "2026-09-08",
+"quote": null,
+"what_it_shows": "She signed on to a bill requiring data centers to disclose how much power and water they use, a transparency-first approach."
+},
+{
+"type": "vote",
+"title": "Roll call 145: Nay on H.R. 1, the House budget bill that carried a 10-year ban on state and local AI rules",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "She voted against the House bill whose AI moratorium critics said would have blocked local rules on data centers, though Democrats opposed the whole package for many reasons."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Moore led a Ways and Means letter demanding the IRS explain and justify its use of AI on taxpayer data. That is oversight of government AI use, not a broad AI safety agenda.",
+"evidence": [
+{
+"type": "letter",
+"title": "FedScoop: Moore and DelBene lead 11 Ways and Means Democrats questioning the IRS's use of AI on legacy taxpayer code",
+"url": "https://fedscoop.com/irs-using-ai-cobol-doge-house-dems-letter/",
+"date": "2025-12-18",
+"quote": "ensuring any use of AI by the IRS is appropriately scrutinized, especially given the importance and significance of maintaining the integrity of the IMF and protecting taxpayer data from inappropriate access or exposure",
+"what_it_shows": "She wants government AI deployments checked for accuracy and privacy risks before they touch taxpayer data, a targeted-guardrails stance."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Moore backs targeted privacy protections, such as limits on reproductive health data collection and cutting off abusers' remote access to a survivor's car. No broad Big Tech or Section 230 statements found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2110, Safe Vehicle Access for Survivors Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"date": "2025-03-14",
+"quote": null,
+"what_it_shows": "Supports a specific rule forcing carmakers to cut off an abuser's remote app and location access when a survivor asks."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 (118th), My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Backed a major privacy bill restricting how apps and companies collect and share reproductive health data."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption of state AI laws as of Sept 2026. She did not sign the Nov 26, 2025 Matsui letter (81 signers) or the Dec 3, 2025 Clarke letter (44 signers), and we found no statement on the Dec 2025 executive order or the March 2026 White House framework. Her Nay vote on H.R. 1 was a vote against the whole budget bill.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 145: Nay on H.R. 1, which included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "She opposed the bill carrying the moratorium, but as a Democrat voting against the entire budget package this is not by itself evidence of a preemption stance."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searches for her name with Nvidia, export controls, chips and China turned up nothing.",
+"evidence": []
+}
+},
+"signature": "Milwaukee Democrat who cosponsors the Data Center Transparency Act and led a Ways and Means letter questioning the IRS's use of AI on taxpayer data; otherwise quiet on AI.",
+"notable_quote": {
+"text": "ensuring any use of AI by the IRS is appropriately scrutinized, especially given the importance and significance of maintaining the integrity of the IMF and protecting taxpayer data from inappropriate access or exposure",
+"url": "https://fedscoop.com/irs-using-ai-cobol-doge-house-dems-letter/",
+"date": "2025-12-18"
+},
+"groups": [],
+"search_notes": "Ran Google News searches on 'Gwen Moore' with artificial intelligence, AI, data center, chatbot/deepfake/Big Tech/Section 230, electricity/ratepayers/We Energies, moratorium/preemption, Social Security AI, Joint Economic Committee AI, and IRS AI. Her official site (gwenmoore.house.gov) returned 404 for press release and caucus pages and has almost no Wayback coverage, so her own releases could not be read. Confirmed her Nay vote on H.R. 1 roll call 145 on govtrack. Extracted the Matsui letter PDF text: Pocan signed, Moore did not; Clarke letter signer list also lacks Moore. The state-context lead about a Markey/McClellan letter to EPA on data center construction permits could not be verified (Markey page returned 403, Wayback 404, no alternate source), so it is omitted. The lead saying she 'voted to advance KOSA' refers to a Senate Commerce Committee action and does not apply to a House member. She sits on the Joint Economic Committee, which held an AI hearing Nov 18, 2025, but no remarks of hers were found. No AI caucus membership found."
+},
+{
+"bioguide": "F000471",
+"name": "Scott Fitzgerald",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No statement on data centers found as of Sept 2026, even though Wisconsin's boom is a top issue and he sat next to a data center bill author on PBS Wisconsin. He has voted for permitting reform and grid reliability bills that tech companies favored, but never tied them to data centers himself.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Fitzgerald votes to pass the SPEED Act (NEPA permitting reform) and the Power Plant Reliability Act",
+"url": "https://fitzgerald.house.gov/media/press-releases/rep-fitzgerald-votes-pass-legislation-protecting-children-and-reducing-energy",
+"date": "2025-12-19",
+"quote": "The SPEED Act reforms NEPA by setting clear timelines, limiting frivolous litigation, and cutting through the bureaucratic obstacles liberals have imposed to stop growth.",
+"what_it_shows": "He backs faster permitting and keeping power plants open, bills that AI infrastructure builders supported, but his statement does not mention data centers."
+},
+{
+"type": "vote",
+"title": "Roll call 145: Yea on H.R. 1, whose 10-year state AI moratorium critics said would have blocked local rules on data centers",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House budget bill containing the moratorium; the Center for American Progress Action argues that language would have curtailed local control over data centers."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "At a Sept 2025 Judiciary AI hearing he asked how adopting European-style AI regulation would affect the U.S. AI industry, a question framed to highlight the costs of heavy rules. No other AI safety statements found.",
+"evidence": [
+{
+"type": "hearing",
+"title": "R Street review of Adam Thierer's Sept 2025 testimony before the House Judiciary Subcommittee on Courts, Intellectual Property, AI and the Internet",
+"url": "https://www.rstreet.org/commentary/testimony-in-review-adam-thierers-september-2025-testimony-before-the-house-judiciarys/",
+"date": "2025-09",
+"quote": null,
+"what_it_shows": "Fitzgerald, a subcommittee member, asked how embracing European-style regulation would affect U.S. AI development, which the pro-innovation witness used to argue Europe's rules stifle AI; the framing leans light touch."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Fitzgerald chairs the House antitrust subcommittee and says his priority is holding Big Tech accountable for censorship. He backed TikTok divestiture, a child online safety bill and a Section 230 court brief, but he also attacks aggressive antitrust enforcement as anti-business, so his record is mixed.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Fitzgerald statement on being named Antitrust Subcommittee Chairman",
+"url": "https://fitzgerald.house.gov/media/press-releases/fitzgerald-statement-being-named-antitrust-subcommittee-chairman",
+"date": "2024-12-31",
+"quote": "hold Big Tech accountable for censorship, reverse the Biden Administration’s anti-business agenda, and fight the federal bureaucracy",
+"what_it_shows": "His stated agenda targets platforms over content moderation while opposing broader regulatory activism, a conservative version of reining in Big Tech."
+},
+{
+"type": "other",
+"title": "Heritage Foundation amicus brief in Gonzalez v. Google filed on behalf of 17 lawmakers including Fitzgerald",
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/heritage-files-section-230-amicus-brief-behalf-17-us-senators",
+"date": "2022-12-09",
+"quote": null,
+"what_it_shows": "He joined a brief asking the Supreme Court to narrow Section 230's liability shield for tech platforms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7521 (118th), Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divestiture)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "Backed forcing TikTok's sale or ban, a major intervention against a tech platform."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5182 (118th), Child Online Safety Modernization Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2024-02-14",
+"quote": null,
+"what_it_shows": "Supports stronger reporting duties on online companies for child abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4791 (118th), Free Speech Protection Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4791",
+"date": "2023-07-20",
+"quote": null,
+"what_it_shows": "Backs barring government officials from pressuring platforms to remove posts, part of his censorship focus."
+},
+{
+"type": "letter",
+"title": "Press release: Fitzgerald letter to FTC Chair Lina Khan demanding neutrality in antitrust enforcement",
+"url": "https://fitzgerald.house.gov/media/press-releases/fitzgerald-demands-ftc-neutrality-antitrust-enforcement",
+"date": "2022-12-06",
+"quote": null,
+"what_it_shows": "He criticized the Biden-era FTC's aggressive antitrust posture as politicized, the light-touch side of his record."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "Fitzgerald voted for the House budget bill that included a 10-year moratorium on state AI laws. He has not made a direct statement on preempting state AI rules that we could find.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 145: Yea on H.R. 1, including the 10-year moratorium on enforcing state and local AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He supported the bill carrying the moratorium; because it was a sweeping budget package, this is weak evidence of a considered preemption stance."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China as of Sept 2026. He is hawkish on Chinese tech in other ways, leading a bill to deny U.S. patents to blacklisted Chinese firms, and he voted against the 2022 CHIPS Act subsidies.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Fitzgerald, Moolenaar and Issa introduce the Prohibiting Adversarial Patents Act and Foreign Adversary Patent Disclosure Act",
+"url": "https://urbanmilwaukee.com/pressrelease/fitzgerald-moolenaar-and-issa-introduce-legislation-to-prohibit-adversarial-chinese-patents/",
+"date": "2026-06-04",
+"quote": "The Chinese Communist Party has spent years exploiting the American economy to advance its own technological and military ambitions",
+"what_it_shows": "Shows a hawkish posture on Chinese technology firms like Huawei, though the bills concern patents, not chip exports."
+},
+{
+"type": "statement",
+"title": "Press release: Fitzgerald issues statement on voting NO on the CHIPS bill",
+"url": "https://fitzgerald.house.gov/media/press-releases/fitzgerald-issues-statement-chips-bill-vote",
+"date": "2022-07-28",
+"quote": "Despite my support of domestic manufacturing in critical technologies like semiconductors, this legislation potentially creates as many problems as it hopes to fix",
+"what_it_shows": "He opposed the $280 billion chip subsidy package as bloated and lacking guardrails against China benefiting, a fiscal objection rather than an export-control position."
+}
+]
+}
+},
+"signature": "Chairs the House antitrust subcommittee with a focus on Big Tech 'censorship' and China; questioned European-style AI rules at a Judiciary hearing; no data center statements found.",
+"notable_quote": {
+"text": "hold Big Tech accountable for censorship, reverse the Biden Administration’s anti-business agenda, and fight the federal bureaucracy",
+"url": "https://fitzgerald.house.gov/media/press-releases/fitzgerald-statement-being-named-antitrust-subcommittee-chairman",
+"date": "2024-12-31"
+},
+"groups": [
+"Chair, House Judiciary Subcommittee on the Administrative State, Regulatory Reform, and Antitrust",
+"Member, House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+],
+"search_notes": "Ran Google News searches on 'Scott Fitzgerald' with artificial intelligence, data center Wisconsin, Big Tech/Section 230/antitrust, Nvidia/export controls/chips/China, state AI/preemption/moratorium/deepfake, Judiciary AI hearing, and Google/Apple/Amazon/Meta antitrust. Listed archived URLs on fitzgerald.house.gov and read the antitrust chair statement, the Dec 2025 SPEED Act release, the 2022 FTC letter, the 2022 CHIPS vote statement, and the caucus page (no AI caucus; RSC, Fintech and Payments Caucus and others). Confirmed his Yea on H.R. 1 roll call 145 on govtrack. His Nov 2025 PBS Wisconsin interview covered the shutdown and health care, not data centers. Most 2026 news coverage concerns his probe of the NFL's Sports Broadcasting Act, which is antitrust but not tech policy, so it is omitted. Dec 2025 C-SPAN Financial Services hearing on AI in markets was found but no remarks of his were located. The FedScoop April 2025 'light touch' Judiciary hearing article could not be located for his remarks."
+},
+{
+"bioguide": "G000576",
+"name": "Glenn Grothman",
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Grothman represents Port Washington, home of the $15 billion Stargate campus, yet he declined to comment on Wisconsin's data center push and, asked whether residents should bear the energy costs, said only that it varies by situation. He has taken no position for or against.",
+"evidence": [
+{
+"type": "interview",
+"title": "Wisconsin Watch/NOTUS: Data centers become a flashpoint in Wisconsin politics",
+"url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+"date": "2026-01-22",
+"quote": "It varies in different situations",
+"what_it_shows": "Asked directly whether residents should take on the cost of data centers' energy, he hedged rather than backing ratepayer protections or the projects."
+},
+{
+"type": "other",
+"title": "Wisconsin Watch/NOTUS: Foxconn is moving to AI, giving lawmakers pause",
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"date": "2025-12-05",
+"quote": null,
+"what_it_shows": "He declined to comment on Foxconn's data center pivot while colleagues from both parties raised ratepayer concerns."
+},
+{
+"type": "vote",
+"title": "Roll call 145: Yea on H.R. 1, whose 10-year state AI moratorium critics said would have blocked local rules on data centers",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House budget bill containing the moratorium that the Center for American Progress Action argues would have curtailed local control over data centers."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "low",
+"summary": "Grothman praises AI for catching government fraud and improving worker safety but says humans must stay in charge and employers should not hand safety decisions to AI. He has not called for new AI rules, and he cosponsored a study of AI use in courts.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Safety+Health: House Workforce Protections Subcommittee hearing on AI and worker safety (Grothman remarks)",
+"url": "https://www.safetyandhealthmagazine.com/house-subcommittee-hearing-explores-ai-and-worker-safety/",
+"date": "2026-02-11",
+"quote": "These tools can be invaluable for augmenting worker safety, but there must be space for human oversight and employers should be wary of delegating responsibility for worker safety to AI.",
+"what_it_shows": "He wants human oversight of workplace AI and asked what safeguards protect worker privacy, but framed it as caution rather than a call for mandates."
+},
+{
+"type": "hearing",
+"title": "House Oversight Committee wrap-up: hearing on deploying AI in the federal government (Grothman question)",
+"url": "https://oversight.house.gov/release/wrap-up-congress-must-ensure-the-federal-government-has-tools-to-deploy-artificial-intelligence-effectively-and-efficiently/",
+"date": "2025-06-05",
+"quote": "The government loses half a trillion dollars a year to fraud. That is an astonishing amount. Can AI help with this? What kind of productivity can we see from AI?",
+"what_it_shows": "He is enthusiastic about government adopting AI to fight fraud and boost productivity."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7997, Research and Oversight of AI in Courts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7997",
+"date": "2026-05-19",
+"quote": null,
+"what_it_shows": "Supports a government study of how AI is used in courtrooms, a study-first approach."
+},
+{
+"type": "hearing",
+"title": "Safety+Health: House hearing on federal workers' compensation programs, including AI in claims management (Grothman question)",
+"url": "https://www.safetyandhealthmagazine.com/house-hearing-explores-hurdles-related-to-federal-workers-comp-programs/",
+"date": "2026-03",
+"quote": null,
+"what_it_shows": "He asked a claims contractor about AI use; the witness answered that a human should remain on both ends of any AI-assisted decision."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Grothman supports targeted rules on tech platforms: he voted to force TikTok's sale, cosponsors the STOP CSAM Act against child abuse material, backed letting local news outlets bargain collectively with Google and Facebook, and pushed to ban TikTok on state devices. He also backs a bill against government pressure on platforms to remove posts.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3921, STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-05-19",
+"quote": null,
+"what_it_shows": "Supports making platforms do more to remove child sexual abuse material and letting victims sue."
+},
+{
+"type": "other",
+"title": "Racine County Eye: man sentenced for arson at Grothman's office over his TikTok vote",
+"url": "https://racinecountyeye.com/2026/03/06/grothman-tiktok-fire-stachowicz/",
+"date": "2024-04",
+"quote": null,
+"what_it_shows": "The report notes Grothman voted in April 2024 for the bill requiring ByteDance to sell TikTok's U.S. operation."
+},
+{
+"type": "letter",
+"title": "Statement page on tiffany.house.gov: Wisconsin Republicans including Grothman urged Gov. Evers to ban TikTok on state devices",
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/wisconsins-tiffany-tiktoks-undeniable-ties-communist-china",
+"date": "2022-12",
+"quote": null,
+"what_it_shows": "He joined the delegation letter citing Chinese spying and propaganda risks from TikTok."
+},
+{
+"type": "other",
+"title": "Wisconsin State Journal editorial (on tiffany.house.gov): Grothman among backers of the Journalism Competition and Preservation Act",
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/editorial-stop-big-tech-starving-local-news",
+"date": "2022-08-31",
+"quote": null,
+"what_it_shows": "He backed an antitrust exemption letting local news outlets negotiate as a group against Google and Facebook."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 140 (118th), Protecting Speech from Government Interference Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/140",
+"date": "2023-02-01",
+"quote": null,
+"what_it_shows": "Backs banning federal workers from pressuring social media companies to remove posts, part of the conservative censorship critique."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "Grothman voted for the House budget bill that included a 10-year moratorium on state AI laws. No direct statement on preempting state AI rules found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 145: Yea on H.R. 1, including the 10-year moratorium on enforcing state and local AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He supported the bill carrying the moratorium; because it was a sweeping budget package, this is weak evidence of a considered preemption stance."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China as of Sept 2026. He cosponsors a tax-break bill for domestic chip design and manufacturing, which does not address exports.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8959, Semiconductor Superiority Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8959",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "Supports tax breaks for companies that design and build chips in America; it says nothing about selling chips to China."
+}
+]
+}
+},
+"signature": "Represents Port Washington's Stargate site but hedges on who should pay for data center power; on AI, favors human oversight without new mandates and backs kids' online safety and TikTok curbs.",
+"notable_quote": {
+"text": "These tools can be invaluable for augmenting worker safety, but there must be space for human oversight and employers should be wary of delegating responsibility for worker safety to AI.",
+"url": "https://www.safetyandhealthmagazine.com/house-subcommittee-hearing-explores-ai-and-worker-safety/",
+"date": "2026-02-11"
+},
+"groups": [],
+"search_notes": "Ran Google News searches on 'Grothman' with artificial intelligence, data center, Big Tech/Section 230/chatbot/deepfake/TikTok, chips/semiconductor/export controls, Port Washington/Stargate/Vantage, Beaver Dam/Meta/Microsoft, AI worker safety hearing, and Oversight AI hearing. Read both Wisconsin Watch/NOTUS articles to confirm his hedge and declined comment, the Feb 2026 and March 2026 Safety+Health hearing writeups, the June 2025 Oversight wrap-up, and the Racine County Eye report on his TikTok vote. Confirmed his Yea on H.R. 1 roll call 145 on govtrack. His official site has almost no Wayback coverage and the caucus page returned 404. Committee data shows he chairs the Oversight Subcommittee on Health Care and Financial Services (not AI relevant) and is a member, not chair, of Workforce Protections, though he gave Republican opening remarks at the Feb 11, 2026 AI hearing. Challenger Brad Smith raised data centers in the WI-6 race but no Grothman response was found (Journal Sentinel pages returned 403)."
+},
+{
+"bioguide": "T000165",
+"name": "Thomas P. Tiffany",
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Tiffany's record is mixed. In Congress he called AI and data centers a new era needing more coal, gas and nuclear power, and voted for the SPEED Act and the House bill with the state AI moratorium. As the GOP nominee for governor he now vows to end all data center subsidies, give towns the final say, protect ratepayers and farmland, and brands his opponent 'Data Center David,' while still opposing a moratorium.",
+"evidence": [
+{
+"type": "statement",
+"title": "WPR: Tiffany campaign statement on data centers as he attacks Crowley",
+"url": "https://www.wpr.org/news/tom-tiffany-attacks-david-crowley-data-centers-wisconsin-governor",
+"date": "2026-08-18",
+"quote": "There should be no new data centers without strong standards to protect Wisconsin. If we pave over productive farmland and drive up demand on our electric grid, families will pay the price through higher food and utility costs.",
+"what_it_shows": "His campaign position is build only with strong standards for ratepayers, farmland and water."
+},
+{
+"type": "statement",
+"title": "Up North News: Tiffany pledges to end the state data center sales tax exemption",
+"url": "https://upnorthnewswi.com/news/politics/tiffany-data-center-attacks-vs-his-record/",
+"date": "2026-08-25",
+"quote": "These companies do not need to be subsidized on the back of hardworking taxpayers here in Wisconsin.",
+"what_it_shows": "He promises to repeal the tax break the Legislative Fiscal Bureau says could cost the state more than $2 billion."
+},
+{
+"type": "interview",
+"title": "620 WTMJ interview quoted by Center for American Progress Action: Tiffany on local control of data centers",
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers",
+"date": "2026-08-07",
+"quote": "there should be local input. There should be local control. Local people should have a say in whether it’s being built in their community.",
+"what_it_shows": "He wants communities to decide whether a data center gets built; CAP Action notes this clashes with his vote for the House AI moratorium."
+},
+{
+"type": "interview",
+"title": "Wisconsin Watch/NOTUS: Data centers become a flashpoint in Wisconsin politics",
+"url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+"date": "2026-01-22",
+"quote": "Existing ratepayers and commercial users should not have their rates go up as a result of someone that’s coming in using massive amounts of electricity",
+"what_it_shows": "Early ratepayer-protection framing, before data centers became the center of his campaign."
+},
+{
+"type": "interview",
+"title": "Wisconsin Independent: Tiffany's February 2026 PBS Wisconsin remarks and August WSAW remarks",
+"url": "https://wisconsinindependent.com/politics/where-do-wisconsin-candidates-for-governor-stand-on-data-centers/",
+"date": "2026-02",
+"quote": "I think we need to make sure on the energy side of it that we do not harm existing ratepayers, so residential ratepayers and manufacturers",
+"what_it_shows": "He called data centers an exciting new technology to be managed, and later said they are needed to keep technology from moving to China but must meet strict conditions."
+},
+{
+"type": "letter",
+"title": "Press release: Tiffany letter to the Wisconsin PSC demanding baseload power and no early coal plant closures",
+"url": "https://tiffany.house.gov/media/press-releases/tiffany-demands-psc-prioritize-baseload-power-sources-ensure-affordable-energy",
+"date": "2025-06-05",
+"quote": "This is particularly critical as we enter a new era of artificial intelligence and data centers, which require a steady supply of reliable, and low-cost energy, such as coal, natural gas, and nuclear power generation.",
+"what_it_shows": "In 2025 he treated data center growth as a reason to expand fossil and nuclear generation, a pro-buildout stance."
+},
+{
+"type": "vote",
+"title": "Roll call 145: Yea on H.R. 1, whose 10-year state AI moratorium critics said would have blocked local rules on data centers",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House bill with language CAP Action and Democrats say would have stripped the local control he now campaigns on."
+},
+{
+"type": "other",
+"title": "Capital & Main: Wisconsin GOP candidate is exploiting the data center backlash to hit solar and wind",
+"url": "https://capitalandmain.com/wisconsin-gop-candidate-is-exploiting-the-data-center-backlash-to-hit-solar-wind",
+"date": "2026-09-09",
+"quote": null,
+"what_it_shows": "Reports his shift from calling data centers exciting and voting for the SPEED Act to attacking subsidies, and notes donations from a Wisconsin Data Center Coalition lobbyist, OpenAI and Oracle lobbyists, and Amazon."
+},
+{
+"type": "pac",
+"title": "Wisconsin Conservation Voters IEC launches $2 million program and $300,000 ad attacking Tiffany's data center record",
+"url": "https://urbanmilwaukee.com/pressrelease/the-truth-about-tom-tiffanys-record-on-data-centers-and-the-environment/",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "An environmental PAC is spending against him, saying he voted to fast-track data centers and cut environmental review."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI safety rules, chatbots, deepfakes or frontier AI risk as of Sept 2026. Searches on his name with AI regulation, moratorium and deepfake returned only data center coverage.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Tiffany wants Section 230 narrowed so platforms can be sued for removing posts they find objectionable, backed local news outlets bargaining with Google and Facebook, pushed TikTok bans, and joined a Supreme Court brief against broad platform immunity. His focus is on censorship of conservatives and China, not consumer privacy.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 908, Stop the Censorship Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/908",
+"date": "2025-02-04",
+"quote": null,
+"what_it_shows": "Would strip platforms' Section 230 shield when they remove posts they merely find objectionable."
+},
+{
+"type": "interview",
+"title": "Newsmax interview (on tiffany.house.gov): House GOP will prioritize Big Tech probe",
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/rep-tiffany-newsmax-house-gop-will-prioritize-big-tech-probe",
+"date": "2022-10-20",
+"quote": "Section 230 needs to be addressed",
+"what_it_shows": "He put Section 230 reform first on the Republican Big Tech agenda."
+},
+{
+"type": "other",
+"title": "Heritage Foundation amicus brief in Gonzalez v. Google filed on behalf of 17 lawmakers including Tiffany",
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/heritage-files-section-230-amicus-brief-behalf-17-us-senators",
+"date": "2022-12-09",
+"quote": null,
+"what_it_shows": "He joined a brief asking the Supreme Court to narrow Section 230 immunity for tech platforms."
+},
+{
+"type": "statement",
+"title": "Wisconsin State Journal editorial (on tiffany.house.gov): Tiffany cosponsors the Journalism Competition and Preservation Act",
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/editorial-stop-big-tech-starving-local-news",
+"date": "2022-08-31",
+"quote": "For far too long, tech giants like Google and Facebook have hamstrung local news organizations with their monopolistic power",
+"what_it_shows": "He backed an antitrust exemption to let local news bargain collectively with Big Tech."
+},
+{
+"type": "statement",
+"title": "Fox News report (on tiffany.house.gov): Tiffany original cosponsor of the China Social Media Reciprocity Act",
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/house-republican-measure-would-block-big-tech-companies",
+"date": "2022-06-15",
+"quote": "If a foreign despot refuses to allow free and unfettered access to American social media platforms, then that dictator and his cronies should be deplatformed, period.",
+"what_it_shows": "He would force platforms to drop Chinese Communist Party officials, using sanctions law to dictate platform behavior."
+},
+{
+"type": "statement",
+"title": "State Newswire report (on tiffany.house.gov): Tiffany on TikTok bans and CCP ties",
+"url": "https://tiffany.house.gov/media/editorials-letters-and-articles/wisconsins-tiffany-tiktoks-undeniable-ties-communist-china",
+"date": "2023-01-23",
+"quote": "TikTok’s undeniable ties to Communist China continue to pose a clear threat to our national security",
+"what_it_shows": "He led a delegation letter to ban TikTok on state devices and wants more action against the app."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "Tiffany voted for the House budget bill with a 10-year moratorium on state AI laws, a vote Democrats now use against him. He has made no direct statement on state AI laws, and his data center platform stresses local control, so the record is in tension.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 145: Yea on H.R. 1, including the 10-year moratorium on enforcing state and local AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He supported the bill carrying the moratorium; as a sweeping budget package this is weak evidence, and CAP Action and the Crowley campaign contrast it with his local-control pledge."
+},
+{
+"type": "other",
+"title": "Up North News: Data center double-talk, Tiffany's record gets in the way of his attacks on Crowley",
+"url": "https://upnorthnewswi.com/news/politics/tiffany-data-center-attacks-vs-his-record/",
+"date": "2026-08-25",
+"quote": null,
+"what_it_shows": "Reports that he voted for the 10-year ban on state AI laws and for the SPEED Act, framed as federal limits on state and local rules."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China as of Sept 2026. He is a China tech hawk on TikTok and said data centers are needed to keep technology from moving to China, but that is not a chip export stance.",
+"evidence": [
+{
+"type": "other",
+"title": "Wisconsin Independent: Tiffany told WSAW data centers are needed to keep technology from being outsourced to China",
+"url": "https://wisconsinindependent.com/politics/where-do-wisconsin-candidates-for-governor-stand-on-data-centers/",
+"date": "2026-08",
+"quote": null,
+"what_it_shows": "He frames AI infrastructure as a race with China, but has not addressed chip sales or export controls."
+}
+]
+}
+},
+"signature": "GOP nominee for governor running against 'Data Center David' Crowley: vows to end data center subsidies and give towns a veto, after voting for the SPEED Act and the House bill with the 10-year state AI moratorium.",
+"notable_quote": {
+"text": "There should be no new data centers without strong standards to protect Wisconsin. If we pave over productive farmland and drive up demand on our electric grid, families will pay the price through higher food and utility costs.",
+"url": "https://www.wpr.org/news/tom-tiffany-attacks-david-crowley-data-centers-wisconsin-governor",
+"date": "2026-08-18"
+},
+"groups": [
+"Chairman, House Natural Resources Subcommittee on Federal Lands"
+],
+"search_notes": "Ran Google News searches on 'Tom Tiffany' with artificial intelligence, data center, AI regulation/moratorium/state AI laws, Nvidia/export controls/chips, Big Tech/Section 230/Google/Meta, and PBS/WSAW data center remarks. Listed archived URLs on tiffany.house.gov and read the June 2025 PSC letter release, Newsmax Big Tech interview, Section 230 amicus page, JCPA editorial, China Social Media Reciprocity Act report, TikTok statement, and caucus page (Western, Dairy Farmer, Sportsmen's, Taiwan caucuses; no AI caucus). Read WPR (Aug 18, 2026), Wisconsin Independent (Aug 28), Capital & Main (Sept 9), Up North News (Aug 25), Wisconsin Watch/NOTUS (Jan 22, 2026), the CAP Action analysis (Aug 24), and the Wisconsin Conservation Voters IEC release. Confirmed his Yea on H.R. 1 roll call 145 on govtrack. Blocked or unreachable: Journal Sentinel Aug 19 article, WisPolitics Aug 21 and DGA ad pages, Wisconsin Examiner Aug 18 and 21 (403), and his campaign site tomtiffany.com (TLS error). The state-context quote 'We should end all subsidies for data centers...' from the Journal Sentinel could not be verified at the URL, so a verified Up North News subsidies quote is used instead."
+},
+{
+"bioguide": "W000829",
+"name": "Tony Wied",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Wied cosponsors a bill to keep approval of new data centers in the hands of local towns and cities, consistent with his earlier push for local say over wind and solar siting. He declined to comment on Wisconsin's data center boom in December 2025, and this score rests mainly on one cosponsorship.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 10119, Protecting Local Control of Data Centers Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10119",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "Supports keeping the power to approve or block data centers with local governments."
+},
+{
+"type": "letter",
+"title": "Press release: Rep. Tony Wied urges state lawmakers and the PSC to return power over large energy project siting to local communities",
+"url": "https://wied.house.gov/media/press-releases/rep-tony-wied-urges-state-lawmakers-return-power-local-communities",
+"date": "2025-10-15",
+"quote": "communities deserve to have a say over what takes place in their own backyards",
+"what_it_shows": "The letters concern wind and solar siting, not data centers, but show the local-control philosophy behind his later data center cosponsorship."
+},
+{
+"type": "other",
+"title": "Wisconsin Watch/NOTUS: Foxconn is moving to AI, giving lawmakers pause",
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"date": "2025-12-05",
+"quote": null,
+"what_it_shows": "He declined to comment on Foxconn's data center plans and the energy cost concerns colleagues raised."
+},
+{
+"type": "vote",
+"title": "Roll call 145: Yea on H.R. 1, whose 10-year state AI moratorium critics said would have blocked local rules on data centers",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House bill with language CAP Action argues would have curtailed the local control he now cosponsors legislation to protect."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI safety, chatbots, deepfakes or AI regulation as of Sept 2026. Searches on his name with AI, chatbot and deepfake returned only unrelated items such as a small business cybersecurity bill.",
+"evidence": []
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on Big Tech, Section 230, kids online safety or privacy as of Sept 2026. He has no relevant bill cosponsorships in the 119th Congress and no statements were found.",
+"evidence": []
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "Wied voted for the House budget bill that included a 10-year moratorium on state AI laws. He has made no direct statement on state AI laws, and his data center local-control bill points the other way on siting.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 145: Yea on H.R. 1, including the 10-year moratorium on enforcing state and local AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He supported the bill carrying the moratorium; because it was a sweeping budget package, this is weak evidence of a considered preemption stance."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searches for his name with chips, China, TikTok and export controls found nothing relevant.",
+"evidence": []
+}
+},
+"signature": "First-term Green Bay Republican with almost no AI record; cosponsors the Protecting Local Control of Data Centers Act after voting for the House bill with the state AI moratorium.",
+"notable_quote": null,
+"groups": [],
+"search_notes": "Ran Google News searches on 'Tony Wied' with artificial intelligence, data center, Kewaunee/Green Bay/Brown County data center, Protecting Local Control of Data Centers Act, Big Tech/TikTok/China/chips/Section 230, AI/chatbot/deepfake, and WLUK Connect to Congress segments. Listed archived URLs on wied.house.gov and read the Oct 2025 local-control energy siting release, his energy issues page, and caucus page (RSC, Main Street, Western, Great Lakes Task Force; no AI caucus). Read the Wisconsin Watch/NOTUS Dec 2025 article confirming he declined comment. Confirmed his Yea on H.R. 1 roll call 145 on govtrack. Checked Aug 2026 WI-8 race coverage from Wisconsin Watch and Green Bay Press-Gazette; no data center or AI statements by Wied appeared. NMPF June 2026 dairy fly-in mention of AI did not include Wied remarks. He chairs the Small Business Subcommittee on Contracting and Infrastructure, which is not AI relevant."
+}
+]

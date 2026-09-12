@@ -1,0 +1,796 @@
+[
+{
+"bioguide": "M001176",
+"name": "Jeff Merkley",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Merkley wants data centers to grow only with protections for electric bills, water, farmland, tribal rights and public transparency. He acknowledges their national security and union-job value but his one major action is a joint letter with Wyden urging Oregon's advisory committee to protect ratepayers and communities.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Wyden and Merkley to Gov. Kotek's Data Center Advisory Committee",
+"url": "https://www.wyden.senate.gov/news/press-releases/wyden-merkley-ask-state-data-center-advisory-committee-to-consider-multiple-issues-raised-by-oregonians",
+"date": "2026-07-02",
+"quote": "your work to strike a balance between pursuing economic development opportunities in alignment with sustainable utility costs and environmental impacts is critical for Oregon and the Northwest",
+"what_it_shows": "He asked the state panel to address rising electricity costs for consumers, water use, farmland rezoning, tribal rights and transparency, while calling data centers critical to national security and union jobs."
+},
+{
+"type": "letter",
+"title": "Same letter: list of concerns the senators asked the committee to weigh",
+"url": "https://www.wyden.senate.gov/news/press-releases/wyden-merkley-ask-state-data-center-advisory-committee-to-consider-multiple-issues-raised-by-oregonians",
+"date": "2026-07-02",
+"quote": "Increasing electricity costs for consumers because of increased demand.",
+"what_it_shows": "Ratepayer costs were listed first among the concerns he wants the state to solve before data centers expand."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Merkley is one of the Senate's most persistent critics of government facial recognition and AI surveillance, and he wants binding rules against AI misuse in elections. His focus is targeted guardrails on specific harms, not frontier AI licensing or a pause.",
+"evidence": [
+{
+"type": "statement",
+"title": "KATU: Wyden, Merkley introduce ICE Out of Our Faces Act to bar ICE and CBP facial recognition",
+"url": "https://katu.com/news/local/wyden-merkley-introduce-bill-to-bar-ice-and-cbp-facial-recognition-use",
+"date": "2026-02-06",
+"quote": "Without oversight, this technology is dangerous in the hands of any government, and the Trump Administration is abusing it to trample on privacy, freedom of speech, and civil liberties.",
+"what_it_shows": "He wants a statutory ban on federal immigration agencies using face recognition and other biometric AI."
+},
+{
+"type": "statement",
+"title": "Democracy Docket: Merkley introduces the FAIR Elections Act on AI and voter suppression",
+"url": "https://www.democracydocket.com/news-alerts/exclusive-democrats-unveil-plan-to-protect-elections-from-trump-ai/",
+"date": "2026-06-11",
+"quote": "The ballot box is the beating heart of democracy, and we must use every tool at our disposal to protect it",
+"what_it_shows": "His bill would prohibit AI-generated content used to intimidate election officials or spread false voting information."
+},
+{
+"type": "sponsor",
+"title": "S.4774 Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4774",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "He sponsors a bill setting binding rules against AI deepfakes and AI-driven disinformation in federal elections."
+},
+{
+"type": "statement",
+"title": "FedScoop: Senators want TSA to scale back facial recognition at airports (Traveler Privacy Protection Act)",
+"url": "https://fedscoop.com/senators-want-tsa-to-scale-back-facial-recognition-at-airports/",
+"date": "2025-05-09",
+"quote": "Folks don’t want a national surveillance state, but that’s exactly what the TSA’s unchecked expansion of facial recognition technology is leading us to",
+"what_it_shows": "He leads the bipartisan bill to make TSA face scans opt-in and has pushed a watchdog audit of the program."
+},
+{
+"type": "sponsor",
+"title": "S.1691 Traveler Privacy Protection Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1691",
+"date": "2025-05-08",
+"quote": null,
+"what_it_shows": "His bill requires airport security to get consent before scanning travelers' faces."
+},
+{
+"type": "cosponsor",
+"title": "S.2164 Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2164",
+"date": "2025-06-25",
+"quote": null,
+"what_it_shows": "He backs mandatory bias and harm testing of automated decision systems by large companies."
+},
+{
+"type": "cosponsor",
+"title": "S.3308 Artificial Intelligence Civil Rights Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3308",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "He supports banning discriminatory uses of AI and requiring bias testing."
+},
+{
+"type": "cosponsor",
+"title": "S.1394 Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1394",
+"date": "2023-05-01",
+"quote": null,
+"what_it_shows": "He wants a legal guarantee that only humans, never AI, can order a nuclear launch."
+},
+{
+"type": "cosponsor",
+"title": "S.681 Facial Recognition and Biometric Technology Moratorium Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/681",
+"date": "2023-03-07",
+"quote": null,
+"what_it_shows": "He has long backed pausing federal use of face recognition until Congress writes rules."
+},
+{
+"type": "letter",
+"title": "Press release (Quiver copy): Wyden and Merkley request transparency from Meta on facial recognition in smart glasses",
+"url": "https://www.quiverquant.com/news/Press+Release%3A+Wyden+and+Merkley+Request+Transparency+from+Meta+on+Facial+Recognition+in+Smart+Glasses",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "He pressed Meta on plans to add face recognition to consumer glasses, warning it could normalize mass surveillance; answers were due April 6, 2026."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Merkley backs specific rules on Big Tech: kids' online safety and privacy laws, takedowns of voting lies, liability for fake goods on marketplaces, and limits on health data collection. He has not called for break-ups or repeal of Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.836 Children and Teens' Online Privacy Protection Act (COPPA 2.0)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "He supports requiring consent before companies collect data on kids and teens and banning targeted ads to them."
+},
+{
+"type": "cosponsor",
+"title": "S.1409 Kids Online Safety Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409",
+"date": "2024-07-24",
+"quote": null,
+"what_it_shows": "He cosponsored the main bill imposing a duty of care on platforms toward minors."
+},
+{
+"type": "cosponsor",
+"title": "S.840 Digital Integrity in Democracy Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/840",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "He wants large platforms required to quickly remove false information about how to vote."
+},
+{
+"type": "cosponsor",
+"title": "S.2934 SHOP SAFE Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2934",
+"date": "2024-09-11",
+"quote": null,
+"what_it_shows": "He would make online marketplaces liable for counterfeit goods unless they vet sellers."
+},
+{
+"type": "cosponsor",
+"title": "S.1656 My Body, My Data Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1656",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "He supports limits on collecting and selling reproductive health data."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. I searched for Merkley statements on the 10-year state AI law moratorium, the Dec 2025 executive order, the March 2026 White House framework and the States' Right to Regulate AI Act, and found none; he did not cosponsor S.3557. His Yea on the 99-1 strike vote matched nearly the whole Senate and is not evidence on its own.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He voted with 98 other senators to remove the moratorium after the deal collapsed; the vote alone does not show a settled view on preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Merkley signed a November 2025 letter urging the Trump administration to restore export controls on advanced AI chips that were suspended in trade talks with China. That is his only located action on chip export policy.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Wyden, Schumer, Warren, Cortez Masto press Trump to restore export controls after trade talks (Merkley a signer)",
+"url": "https://www.wyden.senate.gov/news/press-releases/wyden-schumer-warren-and-cortez-masto-press-trump-to-restore-export-controls-after-trading-sensitive-us-technology-to-china-in-trade-talks",
+"date": "2025-11-13",
+"quote": "Trump struck a deal that suspended the ability of the Bureau of Industry and Security (BIS) to enforce export controls on key technologies, including American-made advanced AI chips.",
+"what_it_shows": "The release names Merkley as a signer of the letter demanding the administration reverse the suspension of chip export controls; the quoted line is the release's description, not Merkley's own words."
+}
+]
+}
+},
+"signature": "Longtime critic of facial recognition and government surveillance who now pushes bans on TSA and ICE face scanning, an AI-in-elections bill, and data center guardrails with Wyden.",
+"notable_quote": {
+"text": "For years, I’ve been ringing the alarm bells about the dangers of a national surveillance state built on facial recognition technology.",
+"url": "https://katu.com/news/local/wyden-merkley-introduce-bill-to-bar-ice-and-cbp-facial-recognition-use",
+"date": "2026-02-06"
+},
+"groups": [],
+"search_notes": "Ran 14 news searches (AI, data centers, electricity bills, chatbots/deepfakes/facial recognition, Big Tech/Section 230/KOSA, Nvidia/export controls, preemption/moratorium, Anthropic/OpenAI, Google/The Dalles water, AI regulation, kids) plus two site listings of merkley.senate.gov. merkley.senate.gov, markey.senate.gov and kennedy.senate.gov returned 403 and the Wayback fallback was intermittently refused, so I used verified copies: Wyden's site (wayback), KATU, FedScoop, Democracy Docket and Quiver. Not opened: Merkley's own FAIR Elections release, the Oct 2025 Wyden/Merkley letter to YouTube/Google, the May 2026 DHS biometric smart glasses letter. Important correction to the record file: S.4735 'Protecting Americans from High Electricity Prices Act' is labelled a data center bill, but the govtrack bill text amends the Natural Gas Act's public interest test for gas exports and never mentions data centers, so I did not use it as data center evidence. No AI super PAC activity or AI caucus membership found."
+},
+{
+"bioguide": "W000779",
+"name": "Ron Wyden",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Wyden wants data centers to pay their own way: he proposes stripping their tax breaks and adding a federal excise tax, has demanded Big Tech disclose water use in Oregon, and warns communities to be cautious. He has declined to endorse a construction moratorium and calls data centers important to national security.",
+"evidence": [
+{
+"type": "statement",
+"title": "Nextgov: Senate Finance ranking member Wyden proposes excise tax on new data centers (white paper)",
+"url": "https://www.nextgov.com/artificial-intelligence/2026/08/senate-finance-panels-top-dem-proposes-excise-tax-new-data-centers/415321/",
+"date": "2026-08-10",
+"quote": "American communities are rightfully questioning whether the rapid buildout of data centers across the nation will benefit them, as local disruptions rise and Americans grow concerned about the long-term career prospects of millions of workers",
+"what_it_shows": "His Aug 6, 2026 white paper would remove tax incentives for data center construction and levy a gross-receipts excise tax on AI data centers to fund displaced workers."
+},
+{
+"type": "letter",
+"title": "Press release: Wyden demands Google, Apple, Meta and Amazon answer questions about data centers' water impact",
+"url": "https://www.wyden.senate.gov/news/press-releases/wyden-demands-big-tech-execs-answer-questions-about-data-centers-water-impact",
+"date": "2026-04-30",
+"quote": "many communities in my state are concerned about how these centers could contribute to water scarcity in the coming years, especially as our state grapples with persistent drought",
+"what_it_shows": "He pressed the four CEOs on closed-loop cooling and public water-use disclosure, with answers due May 29, 2026."
+},
+{
+"type": "letter",
+"title": "Letter: Wyden and Merkley to Gov. Kotek's Data Center Advisory Committee",
+"url": "https://www.wyden.senate.gov/news/press-releases/wyden-merkley-ask-state-data-center-advisory-committee-to-consider-multiple-issues-raised-by-oregonians",
+"date": "2026-07-02",
+"quote": "While we acknowledge that data centers are critical to American national security, can help ensure technological advancement, and create good union jobs",
+"what_it_shows": "He balances the benefits against ratepayer costs, water, farmland, tribal rights and transparency, asking the state to set guardrails rather than stop projects."
+},
+{
+"type": "interview",
+"title": "E&E News: Lawmakers oppose greens' call for data center moratorium (Wyden declines to endorse)",
+"url": "https://www.eenews.net/articles/lawmakers-oppose-greens-call-for-data-center-moratorium/",
+"date": "2025-12-10",
+"quote": "I think that there has been significant abuse of taxpayer money as it relates to data centers",
+"what_it_shows": "He would not yet endorse a nationwide construction moratorium but said tax breaks for data centers are being abused."
+},
+{
+"type": "interview",
+"title": "Herald and News: Wyden town halls in Klamath Falls and Lakeview",
+"url": "https://www.heraldandnews.com/news/u-s-sen-ron-wyden-addresses-range-of-concerns-during-klamath-falls-lakeview-stops/article_230786d5-9e08-4b31-93f6-40634a0c9db1.html",
+"date": "2026-04-03",
+"quote": "Big promises are a stop light for caution",
+"what_it_shows": "He told constituents to be very concerned about companies promoting AI data centers and urged landowners to organize against projects that harm farms and wetlands."
+},
+{
+"type": "statement",
+"title": "E&E News: Wyden proposes new taxes on data centers",
+"url": "https://www.eenews.net/articles/wyden-proposes-new-taxes-on-data-centers/",
+"date": "2026-08-06",
+"quote": null,
+"what_it_shows": "Reporters describe his plan as a low single-digit excise tax plus a ban on using existing tax breaks like Opportunity Zones for data centers, less aggressive than the Sanders moratorium."
+},
+{
+"type": "cosponsor",
+"title": "S.4727 Artificial Intelligence Environmental Impacts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4727",
+"date": "2026-06-09",
+"quote": null,
+"what_it_shows": "He backs a federal study and reporting system for AI's energy, water and pollution footprint."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Wyden pushes targeted rules: mandatory bias audits of automated decision systems, child safeguards for chatbots, removing Grok over sexual deepfakes, blocking AI-built surveillance profiles of Americans, and ending AI-driven Medicare denials. He also co-wrote a bill with Cruz limiting government pressure on AI systems, showing a civil-liberties rather than pause-the-technology approach.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "S.2164 Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2164",
+"date": "2025-06-25",
+"quote": null,
+"what_it_shows": "His signature AI bill, introduced four times since 2019, would require large companies to test automated decision systems for bias and harm and report to the FTC."
+},
+{
+"type": "interview",
+"title": "KLCC: Wyden on Section 230 and algorithms",
+"url": "https://www.klcc.org/politics-government/2026-02-12/wyden-remains-in-support-of-section-230-the-internet-company-protection-law-he-authored-31-years-ago",
+"date": "2026-02-12",
+"quote": "When it comes to algorithms, we have some real challenges",
+"what_it_shows": "He distinguishes algorithms from Section 230 protections and points to his Algorithmic Accountability Act as his plan for them."
+},
+{
+"type": "letter",
+"title": "Schatz-led bipartisan letter of 10 senators to Meta on children and AI chatbots (Wyden a signer)",
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-leads-bipartisan-group-of-10-senators-in-pressing-meta-for-safeguards-around-childrens-engagement-with-ai-chatbots",
+"date": "2025-08-20",
+"quote": "The wellbeing of children should not be sacrificed in the race for AI development.",
+"what_it_shows": "He joined a demand that Meta explain chatbot policies allowing romantic conversations with minors and ban targeted ads to under-18s."
+},
+{
+"type": "letter",
+"title": "Press release: Wyden, Markey and Lujan urge Apple and Google to remove X and Grok from app stores",
+"url": "https://www.wyden.senate.gov/news/press-releases/wyden-markey-and-lujan-urge-apple-and-google-to-remove-x-and-grok-from-app-stores-following-grok-generating-illegal-sexual-images-at-scale",
+"date": "2026-01-09",
+"quote": "Turning a blind eye to X’s egregious behavior would make a mockery of your moderation practices.",
+"what_it_shows": "He wants app stores to pull an AI product that generated nonconsensual sexual images of women and children at scale."
+},
+{
+"type": "statement",
+"title": "Gizmodo: Wyden warns of mass surveillance amid Pentagon's fight with Anthropic",
+"url": "https://gizmodo.com/sen-wyden-warns-of-mass-surveillance-amid-pentagons-fight-with-anthropic-2000728971",
+"date": "2026-03-03",
+"quote": "Creating AI profiles of Americans based on that data represents a chilling expansion of mass surveillance that should not be allowed, regardless of what the current, outdated laws on the books say.",
+"what_it_shows": "He sided with Anthropic's refusal to allow Claude for mass domestic surveillance and pledged legislation to stop AI profiling built on purchased data."
+},
+{
+"type": "statement",
+"title": "Healthcare Dive: Senate Democrats move to roll back Medicare AI prior authorization pilot (WISeR)",
+"url": "https://www.healthcaredive.com/news/senate-democrats-roll-back-medicare-ai-prior-authorization-pilot-wiser/820728/",
+"date": "2026-05-20",
+"quote": "The last thing seniors need is even more AI denying the care they need.",
+"what_it_shows": "He led a Congressional Review Act resolution to end an AI-driven Medicare prior authorization program."
+},
+{
+"type": "statement",
+"title": "KATU: Wyden, Merkley introduce ICE Out of Our Faces Act",
+"url": "https://katu.com/news/local/wyden-merkley-introduce-bill-to-bar-ice-and-cbp-facial-recognition-use",
+"date": "2026-02-06",
+"quote": "I’m glad to work with Senators Markey and Merkley to protect Americans against harassment and biometric surveillance by Trump’s handpicked militia.",
+"what_it_shows": "He co-leads a bill to ban ICE and CBP from using facial recognition and other biometric AI."
+},
+{
+"type": "statement",
+"title": "Roll Call: Cruz and Wyden unveil bipartisan JAWBONE Act against government censorship via platforms and AI systems",
+"url": "https://rollcall.com/2026/06/11/bipartisan-bill-targets-government-censorship-threats/",
+"date": "2026-06-11",
+"quote": "Regular Americans can’t count on those companies to stand up to government jawboning, they need a way to level the playing field",
+"what_it_shows": "With Commerce Chair Cruz he would let people sue when government coerces platforms, AI systems or broadcasters over content, a limit on government power rather than a new mandate on AI firms."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Mixed but leaning toward targeted rules. Wyden is aggressive on privacy and antitrust: he sponsors bans on surveillance advertising and warrantless data purchases and cosponsors tougher merger law. Yet he co-wrote Section 230 and still defends it, voted no on the Kids Online Safety Act in 2024 over encryption and censorship fears, and backed extending the TikTok deadline.",
+"evidence": [
+{
+"type": "interview",
+"title": "KLCC: Wyden remains in support of Section 230, the law he authored 31 years ago",
+"url": "https://www.klcc.org/politics-government/2026-02-12/wyden-remains-in-support-of-section-230-the-internet-company-protection-law-he-authored-31-years-ago",
+"date": "2026-02-12",
+"quote": "What we said is that individuals who post on the internet are responsible for that content, not the people who run the platform",
+"what_it_shows": "He opposes the dozen-plus bills to repeal or sunset Section 230, arguing it protects ordinary speakers more than Big Tech."
+},
+{
+"type": "statement",
+"title": "The Hill: These 3 senators voted against children online safety bills (Wyden statement on KOSA no vote)",
+"url": "https://thehill.com/homenews/senate/4800884-senate-approves-bills-online-children/",
+"date": "2024-07-30",
+"quote": "I fear this bill could be used to sue services that offer privacy-enhancing technologies like encryption or anonymity features that are essential to young people’s ability to communicate securely and privately",
+"what_it_shows": "He was one of three senators to vote against KOSA and COPPA 2.0 in 2024, citing encryption and the risk of censoring LGBTQ and reproductive health information."
+},
+{
+"type": "cosponsor",
+"title": "S.130 Competition and Antitrust Law Enforcement Reform Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/130",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "He backs making it harder for giant companies, including Big Tech, to merge and buy rivals."
+},
+{
+"type": "sponsor",
+"title": "S.2833 Banning Surveillance Advertising Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2833",
+"date": "2023-09-18",
+"quote": null,
+"what_it_shows": "He would ban ads targeted using tracked personal data, a core Big Tech business model."
+},
+{
+"type": "sponsor",
+"title": "S.2576 Fourth Amendment Is Not For Sale Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2576",
+"date": "2023-07-27",
+"quote": null,
+"what_it_shows": "He wants to stop government agencies from buying Americans' data from brokers without a warrant."
+},
+{
+"type": "cosponsor",
+"title": "S.836 Children and Teens' Online Privacy Protection Act (COPPA 2.0)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "Despite his 2024 no vote on the combined package, he cosponsors the kids' privacy bill in this Congress."
+},
+{
+"type": "cosponsor",
+"title": "S.103 Extend the TikTok Deadline Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/103",
+"date": "2025-01-15",
+"quote": null,
+"what_it_shows": "He supported giving TikTok more time before a forced sale or ban, a lighter-touch position."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Wyden cosponsors the States' Right to Regulate AI Act, which would bar the federal government from wiping out state AI laws. No separate speech or statement on the moratorium, the Dec 2025 executive order or the March 2026 White House framework was found, so confidence rests on the cosponsorship.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.3557 States' Right to Regulate AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3557",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "He signed on to the main Senate bill protecting states' power to pass their own AI rules against federal preemption."
+},
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He voted to strip the moratorium; nearly every senator did, so this vote is weak evidence by itself."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Wyden opposes selling Nvidia's advanced chips to China and wants export controls kept tight. He signed the December 2025 letter attacking the H200 decision, led a November 2025 letter demanding Trump restore suspended chip export controls, and joined a 2026 letter questioning Blackwell chip transfers to the UAE's G42.",
+"evidence": [
+{
+"type": "letter",
+"title": "Warren, Schumer and colleagues press Lutnick on greenlighting H200 chip sales to China (Wyden a signer)",
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-schumer-colleagues-press-lutnick-on-administrations-decision-to-sell-out-us-national-and-economic-security-by-greenlighting-the-sale-of-h200-chips-to-china",
+"date": "2025-12-12",
+"quote": "The President’s dangerous decision to give away critical national security controls represents a significant departure from longstanding bipartisan efforts to ensure that U.S. technology does not turbocharge China’s military and technological capabilities.",
+"what_it_shows": "He joined seven Democrats objecting to Nvidia H200 exports to China and questioning Nvidia's lobbying and donations before the decision."
+},
+{
+"type": "statement",
+"title": "Press release: Wyden, Schumer, Warren and Cortez Masto press Trump to restore export controls after trade talks",
+"url": "https://www.wyden.senate.gov/news/press-releases/wyden-schumer-warren-and-cortez-masto-press-trump-to-restore-export-controls-after-trading-sensitive-us-technology-to-china-in-trade-talks",
+"date": "2025-11-13",
+"quote": "Trump’s selling off our tech advantage to China because he desperately needed a bargaining chip to end his foolish trade war",
+"what_it_shows": "He led a letter demanding the administration reverse a trade-deal concession that suspended BIS enforcement of export controls on advanced AI chips."
+},
+{
+"type": "letter",
+"title": "Unchained: Senate Democrats demand hearings on UAE's $500 million stake in Trump crypto venture (Wyden a signer)",
+"url": "https://unchainedcrypto.com/senate-democrats-demand-hearings-on-uaes-reported-500-million-stake-in-trump-family-crypto-venture/",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "The letter he signed cites the approval of 35,000 Nvidia Blackwell chips for UAE firm G42 despite intelligence warnings that China could access them."
+}
+]
+}
+},
+"signature": "Section 230 co-author and Senate Finance ranking member who wants data centers taxed and their water use disclosed, AI systems audited for bias, and Nvidia chip sales to China blocked.",
+"notable_quote": {
+"text": "American communities are rightfully questioning whether the rapid buildout of data centers across the nation will benefit them, as local disruptions rise and Americans grow concerned about the long-term career prospects of millions of workers",
+"url": "https://www.nextgov.com/artificial-intelligence/2026/08/senate-finance-panels-top-dem-proposes-excise-tax-new-data-centers/415321/",
+"date": "2026-08-10"
+},
+"groups": [
+"Ranking Member, Senate Committee on Finance"
+],
+"search_notes": "Ran 18 news searches (AI, data centers, excise tax, chatbots/deepfakes/Grok, Section 230, Nvidia/export controls/H200, preemption/state AI laws, JAWBONE, Anthropic/Pentagon, surveillance/FISA, Algorithmic Accountability, UAE/G42, KOSA, super PACs, worker displacement) plus site listings of wyden.senate.gov. wyden.senate.gov and finance.senate.gov blocked direct fetches (403); the Wayback fallback was refused intermittently but eventually delivered the data center committee letter, the water letter, the Grok letter and the Nov 2025 export controls release. The Finance Committee white paper release itself was not opened; its lead quote was verified in Nextgov. The Markey EPA data center air permit letter (a landscape lead) could not be opened, so it is not used. The Klamath town hall article gives his water and data center caution in his own words. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "B001278",
+"name": "Suzanne Bonamici",
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Bonamici represents the Hillsboro data center cluster but has not taken a public stand for or against building more. She backs measuring AI's energy and water use, has flagged AI energy consumption as a concern, and voted against the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.9183 Artificial Intelligence Environmental Impacts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-06-23",
+"quote": null,
+"what_it_shows": "She supports a federal study and voluntary reporting system for AI's electricity, water and pollution footprint."
+},
+{
+"type": "vote",
+"title": "House roll call 356: passage of H.R. 4776 SPEED Act (Nay)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted against the NEPA permitting overhaul that backers pitched as speeding energy and data center projects."
+},
+{
+"type": "statement",
+"title": "Press release: Three Democratic Science Committee members tapped for bipartisan AI task force",
+"url": "https://bonamici.house.gov/media/press-releases/three-democratic-science-committee-members-tapped-bipartisan-ai-taskforce",
+"date": "2024-02-20",
+"quote": "Additionally, we must consider the effects that AI could have on jobs and the workforce and on energy use.",
+"what_it_shows": "She named AI energy use as one of the issues she would press on the House AI Task Force."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Bonamici wants specific guardrails: bias testing of algorithms, rules against AI hiring discrimination and boss surveillance, criminal penalties for AI impersonation, and protections for students and workers. She pairs this with support for public AI research and says rules must not stifle innovation.",
+"evidence": [
+{
+"type": "statement",
+"title": "Statement: Bonamici announces human-centered framework on AI education and workforce readiness",
+"url": "https://bonamici.house.gov/media/statements/bonamici-announces-human-centered-framework-address-ai-education-and-workforce",
+"date": "2026-01-15",
+"quote": "Human-centered AI policy prepares people, sets guardrails, and measures success by creating opportunities, not widening gaps.",
+"what_it_shows": "Her legislative framework stresses educator and worker readiness, student protections and clear guardrails."
+},
+{
+"type": "statement",
+"title": "Press release: Bonamici named to House Bipartisan AI Task Force",
+"url": "https://bonamici.house.gov/media/press-releases/three-democratic-science-committee-members-tapped-bipartisan-ai-taskforce",
+"date": "2024-02-20",
+"quote": "Deepfake robocalls, algorithmic bias, and risks to data privacy and integrity exemplify the urgent need for guardrails in this rapidly growing field.",
+"what_it_shows": "She framed her task force role around urgent guardrails for concrete harms."
+},
+{
+"type": "interview",
+"title": "FedScoop Q&A: Bonamici is 'very worried' about AI 'and we all should be'",
+"url": "https://fedscoop.com/ai-task-force-work-rep-bonamici/",
+"date": "2024-02-26",
+"quote": "whenever we regulate around technology, we have to do it in a way that provides the needed protections but does not stifle innovation",
+"what_it_shows": "She is worried about deepfakes, bias, privacy and job loss but wants rules balanced against innovation."
+},
+{
+"type": "statement",
+"title": "Electronics Weekly: Deluzio, Bonamici and Moylan reintroduce No Robot Bosses Act",
+"url": "https://www.electronicsweekly.com/news/business/us-congress-introduces-no-robot-bosses-bill-2025-12/",
+"date": "2025-12-08",
+"quote": "No one should be shut out of a future job because of a machine’s decision.",
+"what_it_shows": "She co-leads a bill to curb AI-only hiring and firing decisions and require transparency."
+},
+{
+"type": "cosponsor",
+"title": "H.R.7110 Eliminating Bias in Algorithmic Systems Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7110",
+"date": "2026-01-15",
+"quote": null,
+"what_it_shows": "She backs civil rights offices inside agencies to catch discriminatory algorithms."
+},
+{
+"type": "cosponsor",
+"title": "H.R.4628 AI Impersonation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4628",
+"date": "2025-07-23",
+"quote": null,
+"what_it_shows": "She supports making it a crime to use AI to impersonate real people."
+},
+{
+"type": "cosponsor",
+"title": "H.R.2385 CREATE AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2025-04-17",
+"quote": null,
+"what_it_shows": "She also backs a national public computing resource so researchers can build and study AI, a pro-research position."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Bonamici favors targeted tech rules, especially on privacy: limits on employer surveillance and data collection, protection of reproductive health data, and student data privacy. No calls for break-ups or Section 230 repeal were found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Deluzio, Bonamici reintroduce Stop Spying Bosses Act",
+"url": "https://bonamici.house.gov/media/press-releases/deluzio-bonamici-reintroduce-stop-spying-bosses-act-protect-workers-privacy",
+"date": "2026-06-23",
+"quote": "Workers should be confident their employers aren't abusing their rights through surveillance or backdoor data collection",
+"what_it_shows": "Her bill would limit workplace data collection, require disclosure of surveillance and create a Labor Department privacy division."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3420 My Body, My Data Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "She supports limits on collecting and sharing reproductive health data."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Bonamici opposes federal preemption of state AI laws: she cosponsors the GUARDRAILS Act, signed the Nov 2025 letter of 81 House Democrats against a moratorium and the planned executive order, and says moratorium backers never offered a real national plan. In 2024 she had said AI rules should be set federally rather than by 50 systems, so her view has hardened as no federal law emerged.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.8031 GUARDRAILS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "She cosponsors the main House bill protecting states' right to pass their own AI laws."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter of 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Bonamici a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Trying to revive the same flawed policy in the NDAA, or through executive action, is an attempt to quietly jam through an idea that has already been rejected",
+"what_it_shows": "Her name appears among the signers of the letter urging congressional leaders to reject any state AI law moratorium or preemption."
+},
+{
+"type": "statement",
+"title": "Statement: Bonamici announces human-centered AI framework (comment on moratorium advocates)",
+"url": "https://bonamici.house.gov/media/statements/bonamici-announces-human-centered-framework-address-ai-education-and-workforce",
+"date": "2026-01-15",
+"quote": "Advocates for a moratorium on state AI laws have failed to present a national, comprehensive proposal, and current federal policy remains fragmented, reactive, and focused more on technology deployment than human readiness.",
+"what_it_shows": "She argues preemption backers have not produced a federal alternative that would justify blocking state laws."
+},
+{
+"type": "interview",
+"title": "FedScoop Q&A on the House AI Task Force (earlier view favoring a federal standard)",
+"url": "https://fedscoop.com/ai-task-force-work-rep-bonamici/",
+"date": "2024-02-26",
+"quote": "I don’t think we can have 50 different systems; I think it needs to be done at the federal level.",
+"what_it_shows": "Contradictory earlier evidence: in 2024 she preferred one federal system over a state patchwork, before the moratorium fight."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China. Bonamici is a strong CHIPS Act and Silicon Forest booster and cosponsors the STAR Act tax credit for domestic chip factories, but I found no statement on export policy.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.802 STAR Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2025-05-06",
+"quote": null,
+"what_it_shows": "She supports extending the tax credit for building chip factories in the United States; this is about domestic manufacturing, not export controls."
+}
+]
+}
+},
+"signature": "House AI Task Force alumna focused on AI in schools and workplaces who fights algorithmic bias and boss surveillance and opposes preempting state AI laws.",
+"notable_quote": {
+"text": "Human-centered AI policy prepares people, sets guardrails, and measures success by creating opportunities, not widening gaps.",
+"url": "https://bonamici.house.gov/media/statements/bonamici-announces-human-centered-framework-address-ai-education-and-workforce",
+"date": "2026-01-15"
+},
+"groups": [
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress)",
+"Ranking Member, House Education and Workforce Subcommittee on Early Childhood, Elementary, and Secondary Education"
+],
+"search_notes": "Ran 12 news searches (AI, data centers, AI education/teachers, preemption/GUARDRAILS, chips/Intel/CHIPS, Big Tech/Section 230/KOSA/privacy, No Robot Bosses/Stop Spying Bosses, Hillsboro data centers/PGE, AI Environmental Impacts, hearings, town halls) plus two site listings of bonamici.house.gov. Verified her signature on the Matsui letter by downloading the PDF and extracting text (line 204). The SPEED Act Nay was verified on govtrack. EdSource, K-12 Dive and Legis1 hearing coverage could not be opened. The landscape file lists her as a Congressional AI Caucus member, but her official committees-and-caucuses page does not list it, so I left it out of groups. No statement specific to Hillsboro data centers or ratepayers was found. No AI super PAC activity found."
+},
+{
+"bioguide": "B000668",
+"name": "Cliff Bentz",
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "medium",
+"summary": "Bentz says Oregon will run short of power as data centers and electrification grow, and his answer is to build faster: permitting reform, more transmission, nuclear power and, in his words at an AI hearing, waiving environmental rules. He voted for the SPEED Act. He has not proposed conditions on data centers themselves.",
+"evidence": [
+{
+"type": "interview",
+"title": "Bend Bulletin: Bentz warns of future power shortfall in Oregon, calls for changes to energy policy",
+"url": "https://bendbulletin.com/2026/01/07/bentz-warns-of-future-power-shortfall-in-oregon-calls-for-changes-to-energy-policy/",
+"date": "2026-01-07",
+"quote": "I asked them directly if they have enough power to meet demand around here. And the answer was no.",
+"what_it_shows": "He cites Prineville data centers among the drivers of a looming shortage and wants Oregon to lift its nuclear restrictions and speed transmission."
+},
+{
+"type": "interview",
+"title": "Bend Bulletin: Bentz on permitting reform",
+"url": "https://bendbulletin.com/2026/01/07/bentz-warns-of-future-power-shortfall-in-oregon-calls-for-changes-to-energy-policy/",
+"date": "2026-01-07",
+"quote": "If we don’t streamline permitting, we’re not going to build what we need in time.",
+"what_it_shows": "He backs federal permitting changes to speed power lines and generation to meet data center-driven demand."
+},
+{
+"type": "vote",
+"title": "House roll call 356: passage of H.R. 4776 SPEED Act (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for the NEPA permitting overhaul meant to accelerate energy and infrastructure projects."
+},
+{
+"type": "statement",
+"title": "KOBI-TV: Congressman Bentz urges passage of SPEED Act in light of energy shortfalls",
+"url": "https://kobi5.com/news/local-news/congressman-bentz-urges-passage-of-speed-act-in-light-of-energy-shortfalls-302100/",
+"date": "2026-03-18",
+"quote": "We need about as much power in the future as we have today and we need it really soon, so that means we have to about double the amount we have in the Northwest",
+"what_it_shows": "He wants the Senate to pass permitting reform, citing a 9-gigawatt Northwest shortfall and maxed-out transmission."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: House Energy and Commerce hearing on AI's role in energy and climate (Bentz remarks)",
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"date": "2025-04-09",
+"quote": "We need to waive environmental rules, we need to push things aside. We need to create exemptions. We need to get past this haystack of obstacles that we created for ourselves to protect things.",
+"what_it_shows": "He argued for clearing environmental and permitting obstacles to build AI energy infrastructure quickly."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Bentz frames AI as an existential race the United States must win against China and wants obstacles cleared, not new mandates. At a May 2025 hearing he called consumer protection serious but steered toward how AI is funded, and he has not backed AI safety rules.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: House Energy and Commerce hearing on AI's role in energy and climate (Bentz on winning the race)",
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"date": "2025-04-09",
+"quote": "Why It's absolutely essential that we win this race to a goal that's not as clear as I would like.",
+"what_it_shows": "He called AI competition with China an existential issue and asked witnesses to make the public case for it."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: House subcommittee hearing on AI Regulation and the Future of US Leadership (Bentz remarks)",
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"date": "2025-05-21",
+"quote": "the question about consumer protection is interesting and serious and I'm happy for our discussion of it",
+"what_it_shows": "At the hearing that launched Republicans' national AI framework push, he focused on how the trillions invested in AI get funded and whether smaller players can compete, not on new rules."
+}
+]
+},
+"tech_regulation": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Bentz sponsors a bipartisan bill ordering an FTC study of social media's effects on kids and joined the 2021 GOP task force on reining in Big Tech, but he stresses caution about government action and in 2021 amended a House antitrust bill to make it friendlier to innovation.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R.6290 Safe Social Media Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6290",
+"date": "2025-11-25",
+"quote": null,
+"what_it_shows": "He sponsors a bill directing the FTC to study social media use among people under 17."
+},
+{
+"type": "statement",
+"title": "Press release: Bentz's Safe Social Media Act passes Energy and Commerce subcommittee",
+"url": "https://bentz.house.gov/media/press-releases/congressman-bentz-s-safe-social-media-act-passes-out-of-the-energy-and-commerce-subcommittee-on-commerce-manufacturing-and-trade",
+"date": "2025-12-12",
+"quote": "This Act will require a study that will gather the data necessary to learn how and what social media is impacting our children. My bill is a necessary step toward real accountability.",
+"what_it_shows": "He wants data on harms to kids first, calling the study a step toward accountability rather than proposing mandates."
+},
+{
+"type": "statement",
+"title": "Press release: Bentz appointed to GOP Task Force on Big Tech Censorship and Data",
+"url": "https://bentz.house.gov/media/press-releases/case-you-missed-it-congressman-bentz-appointed-gop-task-force-big-tech",
+"date": "2021-07-01",
+"quote": "we must make sure government actions are carefully considered as we weigh many subjects, including: free speech, innovation, data privacy, national security, and the welfare of consumers",
+"what_it_shows": "He joined a Republican effort to rein in Big Tech but urged caution, and his amendment to a 2021 antitrust bill made it more supportive of innovation."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. I searched for Bentz statements on the state AI law moratorium, the Dec 2025 executive order, the March 2026 White House framework and Energy and Commerce's federal framework work, and found none, even though he sits on the committee drafting it.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position on export controls found. Bentz cosponsors a bill on bringing chip factories to America and framed AI as a race with China at an April 2025 hearing, but I found no statement on Nvidia sales to China or BIS controls.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.2480 Securing Semiconductor Supply Chains Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2480",
+"date": "2025-03-31",
+"quote": null,
+"what_it_shows": "He backs a study of how to attract chip manufacturing to the United States; this is about domestic supply, not export policy."
+}
+]
+}
+},
+"signature": "Energy and Commerce Republican who warns Oregon will run short of power for data centers and wants permitting reform and nuclear, plus a study of social media's effect on kids.",
+"notable_quote": {
+"text": "I asked them directly if they have enough power to meet demand around here. And the answer was no.",
+"url": "https://bendbulletin.com/2026/01/07/bentz-warns-of-future-power-shortfall-in-oregon-calls-for-changes-to-energy-policy/",
+"date": "2026-01-07"
+},
+"groups": [
+"House Republican Task Force on Big Tech Censorship and Data (2021)"
+],
+"search_notes": "Ran 11 news searches (AI, data centers/Prineville/Hermiston, Safe Social Media Act/kids, Energy and Commerce grid/nuclear/SPEED Act, hearings/Ratepayer Protection Act, Big Tech/Section 230, App Store Accountability/Parents Over Platforms, preemption/Cruz/moratorium, super PACs) plus two site listings of bentz.house.gov. Read two full Energy and Commerce hearing transcripts on Tech Policy Press for his own words. The landscape claim that he took part in the 52-0 Ratepayer Protection Act markup could not be confirmed, so it is not used. The Dec 2025 Tech Policy Press article on the 18-bill kids' safety markup returned an empty page. No AI super PAC activity found."
+}
+]

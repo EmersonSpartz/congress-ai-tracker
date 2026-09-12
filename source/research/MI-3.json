@@ -1,0 +1,924 @@
+[
+{
+"bioguide": "M001136",
+"name": "Lisa C. McClain",
+"signature": "House GOP Conference Chair with a thin public AI record: a TikTok crackdown bill, a proud vote for the TAKE IT DOWN deepfake law, a chip-smuggling whistleblower bill, and scrutiny over her husband's xAI stake.",
+"notable_quote": {
+"text": "I'm proud to have voted in favor of the TAKE IT DOWN Act. This important legislation will protect our kids from deepfake exploitation and hold the perpetrators of these horrifying crimes accountable.",
+"url": "https://www.gop.gov/2025/04/29/chairwoman-lisa-mcclain-chairman-guthrie-and-rep-salazar-celebrate-the-house-passing-legislation-to-protect-children/",
+"date": "2025-04-29"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026, even though her Macomb and Thumb district sits next to several proposed sites. Her only nearby comment is a Dec 2025 statement praising a grid supply-chain bill for keeping bills affordable, without mentioning data centers.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: McClain and Latta on House passage of the Electric Supply Chain Act",
+"url": "https://www.gop.gov/2025/12/11/house-passes-bill-to-protect-energy-supply-and-lower-energy-costs/",
+"date": "2025-12-11",
+"quote": "Keeping the lights on and bills affordable is a basic responsibility, yet the Biden administration allowed bureaucrats to hold our electric supply chain hostage",
+"what_it_shows": "She frames grid policy around reliability and bills; her co-author Latta, not McClain, tied the bill to powering AI data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Her one clear AI statement backs a targeted rule: she voted for and celebrated the TAKE IT DOWN Act against AI deepfake sexual images. She has not spoken about broader AI safety rules, and her family holds a large stake in Elon Musk's xAI.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: McClain celebrates House passage of the TAKE IT DOWN Act",
+"url": "https://www.gop.gov/2025/04/29/chairwoman-lisa-mcclain-chairman-guthrie-and-rep-salazar-celebrate-the-house-passing-legislation-to-protect-children/",
+"date": "2025-04-29",
+"quote": "I'm proud to have voted in favor of the TAKE IT DOWN Act. This important legislation will protect our kids from deepfake exploitation and hold the perpetrators of these horrifying crimes accountable.",
+"what_it_shows": "She supports a binding federal rule against AI deepfake exploitation, a targeted guardrail."
+},
+{
+"type": "interview",
+"title": "CNBC: McClain family xAI investment poised to benefit from SpaceX IPO (quoting her NewsNation interview)",
+"url": "https://www.cnbc.com/2026/06/12/lisa-mcclain-spacex-ipo-xai-investment-congress.html",
+"date": "2026-06-12",
+"quote": "I can 100% assure you that we didn't have the insider information. Because if it was, we wouldn't have bought 100,000 shares, we would've bought a heck of a lot more",
+"what_it_shows": "Her husband bought up to $250,000 of xAI in Dec 2025 shortly before Pentagon Grok announcements; she denies insider knowledge. It is a financial tie to the AI industry, not a policy position."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "She backs targeted rules aimed mostly at Chinese-owned apps and online exploitation: she wrote a bill to crack down on TikTok and similar apps, voted for the 2024 TikTok divest-or-ban law, and praised the TAKE IT DOWN Act. She also cosponsored a bill to stop federal officials from pressuring platforms to remove posts.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 4927 ACES Act of 2023 (crackdown on TikTok and Chinese-controlled apps)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4927",
+"date": "2023-07-26",
+"quote": null,
+"what_it_shows": "She led a bill targeting Chinese-controlled social media apps over spying concerns."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (Mar 13, 2024): Yea on H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "She voted to force TikTok's sale or ban it."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 140 Protecting Speech from Government Interference Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/140",
+"date": "2023-02-27",
+"quote": null,
+"what_it_shows": "She backed limits on federal workers pressuring platforms to take down posts, a government-censorship angle rather than a rule on companies."
+},
+{
+"type": "statement",
+"title": "Press release: McClain celebrates House passage of the TAKE IT DOWN Act",
+"url": "https://www.gop.gov/2025/04/29/chairwoman-lisa-mcclain-chairman-guthrie-and-rep-salazar-celebrate-the-house-passing-legislation-to-protect-children/",
+"date": "2025-04-29",
+"quote": null,
+"what_it_shows": "Supports a notice-and-takedown duty on platforms for non-consensual intimate images, including AI fakes."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "Her only recorded action is voting for the May 2025 House version of H.R. 1, which contained the 10-year freeze on state and local AI laws. She has not said anything public about preempting state AI rules, so this is a weak lean at best.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145 (May 22, 2025): Yea on H.R. 1, which included the 10-year moratorium on state and local AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "She voted for the full reconciliation package containing the state AI-law moratorium; it was a party-line vote on the whole bill, not a stand-alone vote on preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "She cosponsored a bill that pays and protects whistleblowers who report illegal chip exports, a small step toward tighter enforcement. No statements found on Nvidia H20 or H200 sales to China.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6322 Stop Stealing our Chips Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6322",
+"date": "2025-12-01",
+"quote": null,
+"what_it_shows": "Supports rewarding tipsters who expose chip export-control violations, a modest pro-enforcement signal."
+}
+]
+}
+},
+"search_notes": "About 12 Google News queries (AI, data center, chips, Big Tech, TikTok, preemption, xAI, Conference Chair statements) plus a mcclain.house.gov archive listing (only 2021-2023 items survive). Opened CNBC and MLive xAI stories, her gop.gov TAKE IT DOWN and Electric Supply Chain statements, GovTrack votes h145 and h86, the Sept 6, 2026 Face the Nation transcript and a Sept 10, 2026 NY Post interview (neither touched AI or data centers), and a Jan 2026 Washington Reporter piece (she only hosted the media row). The landscape lead tying her to the Casar AI-CEO hearing letter was wrong; that signer is April McClain Delaney (MD). Detroit News pages were blocked and the Wayback Machine was refusing connections."
+},
+{
+"bioguide": "J000307",
+"name": "John James",
+"signature": "GOP governor nominee who now says no new data centers until Michigan has a plan to protect ratepayers, water and local control, after voting four times in 2025 to keep the federal freeze on state and local AI rules; lead House sponsor of the App Store Accountability Act.",
+"notable_quote": {
+"text": "My position is that we need to have a plan to protect our communities. Until we do, then we have to make sure that we have local control. Our electricity bills can't go up. We must protect our water.",
+"url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-08-30-2026/",
+"date": "2026-08-30"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Running for governor, he calls Michigan's approach crazy and wants local control, no rate increases, water protection, brownfield sites instead of farmland, and enforceable benchmarks for any tax break. Since a July 2026 debate he has backed a pause on new data centers until such a plan exists, while still calling data centers one tool for the economy. Critics note he took over $110,000 from the family building the Saline campus.",
+"evidence": [
+{
+"type": "interview",
+"title": "Face the Nation transcript: James asked whether he backs local control or a moratorium on data centers",
+"url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-08-30-2026/",
+"date": "2026-08-30",
+"quote": "My position is that we need to have a plan to protect our communities. Until we do, then we have to make sure that we have local control. Our electricity bills can't go up. We must protect our water.",
+"what_it_shows": "He says local control and a pause until protections exist are the same position."
+},
+{
+"type": "interview",
+"title": "FOX 17: The Data Center Dilemma, where Michigan governor candidates stand",
+"url": "https://www.fox17online.com/news/morning-news/the-data-center-dilemma-where-michigan-governor-candidates-stand",
+"date": "2026-07-28",
+"quote": "Yeah, first Lansing should not be dictating to locals. No new data centers until we have a plan to protect our people,",
+"what_it_shows": "He endorsed a conditional pause and said blighted brownfields should be used before farmland."
+},
+{
+"type": "statement",
+"title": "Bridge Michigan candidate questionnaire: Where governor candidates stand on data centers, the environment",
+"url": "https://bridgemi.com/michigan-government/where-michigan-governor-candidates-stand-on-data-centers-the-environment/",
+"date": "2026-07-29",
+"quote": "any state incentive for a data center should be tied to measurable public benefit: real job creation, long-term capital investment, responsibility for infrastructure and transparency about water and energy use.",
+"what_it_shows": "He wants tax breaks conditioned on enforceable benchmarks and transparency, and says new data centers should not raise residential rates."
+},
+{
+"type": "social_post",
+"title": "Bridge Michigan: Where Michigan gubernatorial candidates stand on data centers (campaign pointed to his X video)",
+"url": "https://bridgemi.com/michigan-government/where-michigan-gubernatorial-candidates-stand-on-data-centers/",
+"date": "2026-02-02",
+"quote": "transparency and local control by default",
+"what_it_shows": "Early in the race he called the state's approach crazy and asked for guardrails on rates, brownfield siting and local benefit, while calling data centers just one tool for the economy."
+},
+{
+"type": "other",
+"title": "Detroit Free Press: As voters sour on data centers, governor candidates embrace moratorium",
+"url": "https://www.freep.com/story/news/politics/2026/09/10/michigan-governor-candidates-call-for-data-center-pause/91672469007/",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "Reports that both nominees now back a pause; his version comes with environmental and electricity-bill standards, and neither took a strong stance when the Saline fight began in late 2025."
+},
+{
+"type": "other",
+"title": "Bridge Michigan fact check: Is John James backed by data center developers?",
+"url": "https://bridgemi.com/michigan-government/fact-check-is-john-james-backed-by-data-center-developers/",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "At least $113,850 since 2018 from the Rakolta family and Walbridge executives, the firm building the Saline campus, plus utility PAC money; most came before his governor run."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI safety, chatbots, deepfakes or AI liability as of Sept 2026. His technology work centers on kids' app-store rules and data center siting, not on rules for AI systems themselves.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "He wants targeted rules on Big Tech to protect kids: his App Store Accountability Act would make Apple and Google verify ages and get parental consent, and it cleared the Energy and Commerce Committee in March 2026. He also voted for the TikTok divestiture law and cosponsored bills on Chinese-linked connected cars and foreign robocalls.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 3149 App Store Accountability Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3149",
+"date": "2025-05-01",
+"quote": null,
+"what_it_shows": "He leads the House bill requiring app stores to check ages and get parental consent for minors."
+},
+{
+"type": "statement",
+"title": "Press release: James' App Store Accountability Act passes committee",
+"url": "https://james.house.gov/news/documentsingle.aspx?DocumentID=1288",
+"date": "2026-03-05",
+"quote": "If a corner store can't knowingly sell adult or addictive products to minors, neither should the world's largest digital storefronts.",
+"what_it_shows": "He frames the bill as holding Big Tech to the same rules as small businesses; the bill advanced out of Energy and Commerce."
+},
+{
+"type": "interview",
+"title": "FOX 2 Detroit: Rep. John James introduces App Store Accountability Act",
+"url": "https://www.fox2detroit.com/news/rep-john-james-introduces-bill-expected-age-restrict-app-store-from-those-under-18",
+"date": "2025-12-02",
+"quote": "Our social media has become a cesspool of solicitation, in many cases hate, things that our children aren't ready for and certainly our parents should be aware of.",
+"what_it_shows": "Strong language on social media harms to kids and parental rights."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (Mar 13, 2024): Yea on H.R. 7521, TikTok divest-or-ban bill",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "He voted to force TikTok's sale or ban it."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-06-08",
+"quote": null,
+"what_it_shows": "Backs banning connected-car tech from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6152 Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-09-01",
+"quote": null,
+"what_it_shows": "Supports a targeted crackdown on foreign scam robocalls."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Mixed. In May 2025 he voted three times in the Energy and Commerce markup to keep the 10-year freeze on state and local AI laws, including against an amendment to strike it, then voted for H.R. 1 on the floor. As a candidate he now stresses local control over data centers, and Democrats attack the gap. He has not explained the votes.",
+"evidence": [
+{
+"type": "other",
+"title": "Center for American Progress Action: Almost every House Republican voted to block state and local governments' ability to protect residents from AI data centers",
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"date": "2026-08-24",
+"quote": null,
+"what_it_shows": "Documents his three E&C markup votes (May 13-14, 2025) to keep the moratorium, including a 29-24 vote against Pallone's amendment to strike it, and contrasts it with his 'Number one, local control' campaign line."
+},
+{
+"type": "vote",
+"title": "House roll call 145 (May 22, 2025): Yea on H.R. 1, which included the 10-year moratorium on state and local AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House bill that carried the state AI-law freeze."
+},
+{
+"type": "other",
+"title": "Detroit Free Press: Benson campaign attacks James over H.R. 1 vote as he embraces a data center pause",
+"url": "https://www.freep.com/story/news/politics/2026/09/10/michigan-governor-candidates-call-for-data-center-pause/91672469007/",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "Shows the live contradiction between his preemption votes and his local-control campaign message."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "He leans hawkish through cosponsorships: a 2026 bill to punish foreign firms that steal American AI models, a 2024 bill to block US money from funding Chinese AI and chip companies, and the Connected Vehicle Security Act. No statements found on Nvidia chip sales to China.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8283 Deterring American AI Model Theft Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"date": "2026-05-12",
+"quote": null,
+"what_it_shows": "Supports penalties on foreign companies, especially Chinese ones, that copy or steal US AI models."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6349 Preventing Adversaries from Developing Critical Capabilities Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6349",
+"date": "2024-01-17",
+"quote": null,
+"what_it_shows": "Backed blocking American investment in AI and chip firms in China and other rivals."
+}
+]
+}
+},
+"search_notes": "About 14 Google News queries (AI, data center, moratorium, local control, App Store Accountability, Energy and Commerce, chips, Big Tech, AI Caucus) plus his site's news list and caucus page. Opened the Aug 30, 2026 Face the Nation transcript, FOX 17, three Bridge Michigan pieces, Freep Sept 10, CAP Action, his Mar 2026 press release, FOX 2, GovTrack h145 and h86. Detroit News (Aug 1 and June 16), MLive, Michigan Advance and Metro Times were blocked (403/406) and the Wayback Machine was refusing connections. His official caucus page does not list the AI Caucus, so the landscape lead (labeled VA-11) was not used. No AI super PAC activity found; Perry Johnson's attacks concerned data center developer donations, not AI PACs."
+},
+{
+"bioguide": "S001215",
+"name": "Haley M. Stevens",
+"signature": "Science Committee Democrat and top-ranking member on Research and Technology who backs AI research, workforce and small-business bills, framed AI as a race with China, wanted data centers built but paying their own power and water bills, and opposed a moratorium during her losing 2026 Senate primary.",
+"notable_quote": {
+"text": "I want to force these data centers to pay their utility bills and to pay water bills for folks.",
+"url": "https://www.eenews.net/articles/michigan-senate-primary-puts-data-center-politics-to-the-test/",
+"date": "2026-07-31"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (member)",
+"House Bipartisan Task Force on Artificial Intelligence, 118th Congress (member)",
+"Ranking Member, House Science, Space and Technology Subcommittee on Research and Technology",
+"Co-Chair, Future of Work Task Force",
+"Autonomous Vehicles Caucus (member)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "She wants data centers in Michigan and said so, and she declined to back a moratorium. Her conditions are firm: data centers and utilities must not push costs onto families, must pay their utility, water and tax bills, and she filed a bill to punish investor-owned utilities that raise residential rates. She dodged a question on the Saline Township project.",
+"evidence": [
+{
+"type": "statement",
+"title": "E&E News: Michigan Senate primary puts data center politics to the test (WOOD-TV debate remarks)",
+"url": "https://www.eenews.net/articles/michigan-senate-primary-puts-data-center-politics-to-the-test/",
+"date": "2026-07-31",
+"quote": "I want to force these data centers to pay their utility bills and to pay water bills for folks.",
+"what_it_shows": "At the debate she also said it is unacceptable for rates to rise and that she wants Michigan at the forefront of innovation; E&E notes she made clear she wants data centers in the state."
+},
+{
+"type": "interview",
+"title": "Detroit News: Data center upheaval spills into Michigan primary election campaigns",
+"url": "https://www.detroitnews.com/story/news/politics/2026/07/31/data-center-upheaval-michigan-primary-election-campaigns/91101694007/",
+"date": "2026-07-31",
+"quote": "I support tackling why we have 50-some data centers and one being built right now and no federal laws ... governing them, ensuring that the money goes into the communities,",
+"what_it_shows": "She called for federal laws on data centers and community benefit, but her staff cut off a follow-up about the Saline Township project."
+},
+{
+"type": "statement",
+"title": "Planet Detroit: Why data centers are key issue in Michigan's Democratic Senate primary",
+"url": "https://planetdetroit.org/2026/06/data-centers-michigan-senate-primary/",
+"date": "2026-06-11",
+"quote": "We need to develop a clear, responsible policy framework to ensure these technologies are developed safely and securely,",
+"what_it_shows": "None of the Democratic candidates, including Stevens, told Planet Detroit they support a moratorium; her stated priorities were keeping data center costs off ratepayers and protecting union jobs."
+},
+{
+"type": "statement",
+"title": "Bridge Michigan: From AI to AIPAC, 6 issues defining the Stevens and El-Sayed race",
+"url": "https://bridgemi.com/michigan-government/from-ai-to-aipac-6-issues-defining-haley-stevens-abdul-el-sayed-race/",
+"date": "2026-07-29",
+"quote": "is making sure costs don't go up for Michigan families and that we are protecting good-paying union jobs.",
+"what_it_shows": "Her stated top priority on data centers, paired with a call for a policy framework stopping utilities from passing costs to customers."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 7926 Stop Unfair Electricity Prices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7926",
+"date": "2026-03-12",
+"quote": null,
+"what_it_shows": "Her bill would cut off federal help to investor-owned utilities that raise residential rates, a ratepayer-protection tool she cited when asked about data centers."
+},
+{
+"type": "statement",
+"title": "Press release: Following Rep. Stevens' bill, DTE announces multi-year electricity rate freeze",
+"url": "https://stevens.house.gov/media/press-releases/following-rep-stevens-bill-hold-utility-executives-accountable-dte-announces",
+"date": "2026-04-23",
+"quote": "We need lasting protections. That's why my legislation is about holding corporate utilities accountable, lowering costs for working families, and making sure no one has to choose between keeping the lights on and making ends meet.",
+"what_it_shows": "She claims credit for DTE's two-year rate freeze and wants binding limits on utility rate hikes."
+},
+{
+"type": "other",
+"title": "CNBC: AI, data center fears could be key in Michigan Democratic Senate primary",
+"url": "https://www.cnbc.com/2026/07/10/ai-data-center-fears-michigan-democratic-senate-primary.html",
+"date": "2026-07-10",
+"quote": null,
+"what_it_shows": "Describes her as less hostile to AI and data centers than El-Sayed and less vocal on the issue; her campaign pointed to her subcommittee post and AI task force service."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "She treats AI mainly as a competition with China and an economic opportunity, pushing research, education and small-business adoption bills and funding for the NIST AI Safety Institute's voluntary standards work. She talks about a responsible policy framework and protecting jobs but has not backed binding safety testing or licensing. She did cosponsor targeted deepfake bills.",
+"evidence": [
+{
+"type": "statement",
+"title": "Bridge Michigan: From AI to AIPAC, 6 issues defining the Stevens and El-Sayed race",
+"url": "https://bridgemi.com/michigan-government/from-ai-to-aipac-6-issues-defining-haley-stevens-abdul-el-sayed-race/",
+"date": "2026-07-29",
+"quote": "Michigan continue to lead on the moon shots of the 21st century.",
+"what_it_shows": "She framed AI as competition with China and said her goals are preventing job loss and a clear, responsible policy framework; she also said AI companies need real skin in the game supporting the tax base."
+},
+{
+"type": "letter",
+"title": "Press release: Stevens and Obernolte request additional $10 million for the NIST US AI Safety Institute",
+"url": "https://stevens.house.gov/media/press-releases/stevens-and-obernolte-request-additional-10-million-secure-us-ai-leadership",
+"date": "2024-02-22",
+"quote": "By fostering an environment of collaboration, the institute will facilitate the exchange of ideas and knowledge, leading to more comprehensive and effective innovation and safety policies,",
+"what_it_shows": "She led a bipartisan letter to fund red-teaming and evaluation work at the voluntary-standards safety institute."
+},
+{
+"type": "statement",
+"title": "Press release: House passes Rep. Stevens' bipartisan bill to help small businesses safely navigate AI",
+"url": "https://stevens.house.gov/media/press-releases/house-passes-rep-stevens-bipartisan-bill-help-small-businesses-safely-navigate",
+"date": "2026-02-25",
+"quote": "As someone who works closely with Michigan manufacturers and small businesses, I know innovation works best when businesses have the information they need to succeed,",
+"what_it_shows": "Her Small Business AI Advancement Act (H.R. 3679) passed the House; it gives NIST guidance to help small firms adopt AI, an innovation-first approach."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2385 CREATE AI Act of 2025 (National AI Research Resource)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2025-04-17",
+"quote": null,
+"what_it_shows": "Supports public computing and data resources for AI research."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3106 Preventing Deepfakes of Intimate Images Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2024-03-12",
+"quote": null,
+"what_it_shows": "Backed a targeted rule against AI sexual deepfakes; she also wrote the 2019 IOGAN Act funding deepfake-detection research."
+},
+{
+"type": "other",
+"title": "Planet Detroit: Why data centers are key issue in Michigan's Democratic Senate primary",
+"url": "https://planetdetroit.org/2026/06/data-centers-michigan-senate-primary/",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "Asked about AI and data centers, she said it is necessary to compete with China on developing the technology, while protecting Michiganders from data center costs."
+},
+{
+"type": "pac",
+"title": "PBS NewsHour fact check: El-Sayed's claim that Big AI super PACs funded Stevens",
+"url": "https://www.pbs.org/newshour/politics/fact-checking-abdul-el-sayed-and-haley-stevens-claims-ahead-of-the-michigan-democratic-senate-primary",
+"date": "2026-08-03",
+"quote": null,
+"what_it_shows": "Neither Leading the Future nor Public First Action spent in the Michigan Senate primary; she received $7,500 in corporate PAC money from Microsoft and Google."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "She supports specific fixes rather than sweeping Big Tech crackdowns: she voted for the TikTok divestiture law, cosponsored privacy bills on reproductive health data and abusers' access to connected cars, and passed research bills on privacy-enhancing technology.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 86 (Mar 13, 2024): Yea on H.R. 7521, TikTok divest-or-ban bill",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "She voted to force TikTok's sale or ban it and was also a cosponsor of the bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2024-10-18",
+"quote": null,
+"what_it_shows": "Backed limits on collecting and sharing reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2110 Safe Vehicle Access for Survivors Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"date": "2025-03-14",
+"quote": null,
+"what_it_shows": "Supports a targeted rule making carmakers cut off abusers' remote access to a survivor's car data."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "She was not among the 81 House Democrats who signed the Nov 2025 letter opposing a federal freeze on state AI laws, and she repeatedly calls for a national policy framework and federal laws governing data centers. The Detroit News reported in June 2026 that she was open to Congress preempting state AI rules because a patchwork is bad long term, but that article could not be opened to confirm her words.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Stevens not a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": null,
+"what_it_shows": "Fellow Michigan Democrats Tlaib, Thanedar, Dingell and Scholten signed; Stevens did not, a notable absence for a member of the AI Caucus."
+},
+{
+"type": "interview",
+"title": "Detroit News: Data center upheaval spills into Michigan primary election campaigns",
+"url": "https://www.detroitnews.com/story/news/politics/2026/07/31/data-center-upheaval-michigan-primary-election-campaigns/91101694007/",
+"date": "2026-07-31",
+"quote": null,
+"what_it_shows": "She said the problem is that there are no federal laws governing data centers, pointing toward a national framework rather than state-by-state rules."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "She sits on the House China Select Committee, cosponsored the bill removing DeepSeek from government devices, and frames AI as a race with China. No statements found on Nvidia H20 or H200 export approvals.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1121 No DeepSeek on Government Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-07",
+"quote": null,
+"what_it_shows": "Supports barring the Chinese AI app from federal devices."
+},
+{
+"type": "other",
+"title": "Stevens official committees and caucuses page",
+"url": "https://stevens.house.gov/about/committees-and-caucuses",
+"date": null,
+"quote": null,
+"what_it_shows": "Lists her seat on the Select Committee on Strategic Competition with the Chinese Communist Party, her AI Caucus membership and her Research and Technology ranking post."
+}
+]
+}
+},
+"search_notes": "About 16 Google News queries (AI, data center, preemption, patchwork, DeepSeek, chips, AI Task Force, Stop Unfair Electricity Prices) plus a stevens.house.gov archive listing and 12 pages of her press release index. Opened E&E, Bridge (two), CNBC, Planet Detroit, Detroit News July 31 (via eu mirror), PBS fact check, FedScoop, Sludge, four official press releases, her caucus page, the Matsui letter PDF and GovTrack h86. The Detroit News June 16, 2026 article on her openness to federal preemption of state AI laws was blocked (403 on all mirrors; Wayback and archive.ph rate-limited), so that lead is flagged, not confirmed. Michigan Advance was blocked. She lost the Aug 4, 2026 Senate primary to Abdul El-Sayed; PBS found no AI super PAC spending in that race."
+},
+{
+"bioguide": "T000481",
+"name": "Rashida Tlaib",
+"signature": "The House's most combative data center opponent: sponsor of a ban on AI data centers on federal land, cosponsor of the AI Data Center Moratorium Act, critic of Gov. Whitmer's Saline groundbreaking, and a longtime foe of facial recognition, algorithmic bias and AI pricing.",
+"notable_quote": {
+"text": "Everywhere I go in our district, our residents tell me loud and clear, data centers are not welcome in our communities.",
+"url": "https://tlaib.house.gov/posts/rep-tlaib-introduces-a-bill-to-ban-ai-data-centers-on-federal-lands",
+"date": "2026-07-23"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "high",
+"summary": "She wants to stop new AI data centers. She wrote a bill to ban them permanently on federal land including military bases, cosponsored the national moratorium bill, offered the ban as an NDAA amendment, organized residents against a Southfield project, and called Gov. Whitmer's support for the Saline campus disgusting. She ties data centers to pollution and rate hikes of up to 267 percent.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 9939 No AI Data Centers on Federal Lands Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "Her bill would permanently bar large AI data centers on federal land and require removal of existing ones."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Tlaib introduces a bill to ban AI data centers on federal lands",
+"url": "https://tlaib.house.gov/posts/rep-tlaib-introduces-a-bill-to-ban-ai-data-centers-on-federal-lands",
+"date": "2026-07-23",
+"quote": "Everywhere I go in our district, our residents tell me loud and clear, data centers are not welcome in our communities.",
+"what_it_shows": "She says AI data centers bring noise, light, air and water pollution and can raise energy costs by as much as 267 percent; the bill is endorsed by Food & Water Watch and Center for Biological Diversity."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9442 Artificial Intelligence Data Center Moratorium Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "Original cosponsor of the Ocasio-Cortez bill to pause new AI data centers nationwide."
+},
+{
+"type": "statement",
+"title": "Tlaib statement on AI data center vote in Southfield",
+"url": "https://tlaib.house.gov/posts/tlaib-statement-on-ai-data-center-vote-in-southfield",
+"date": "2025-12-16",
+"quote": "Our neighbors are right to be concerned when these facilities are being fast-tracked in our backyards, and they deserve answers to their important questions about pollution and the impacts this facility will have on already unaffordable utility bills.",
+"what_it_shows": "She said no one wants to live near a data center and pledged to organize residents against the Metrobloks project."
+},
+{
+"type": "social_post",
+"title": "Planet Detroit: Whitmer data center backlash (Tlaib post on X after the Saline groundbreaking)",
+"url": "https://planetdetroit.org/2026/06/whitmer-data-center-backlash-2026-election/",
+"date": "2026-06",
+"quote": "So disappointed in Governor Whitmer's support of data center expansions in our state especially when so many Michiganders are opposed,",
+"what_it_shows": "She called the governor's support for the Oracle/OpenAI Saline Township project disgusting."
+},
+{
+"type": "statement",
+"title": "Press release: Tlaib introduces 26 amendments to the NDAA (Tlaib 174, No AI Data Centers on Federal Lands)",
+"url": "https://tlaib.house.gov/posts/tlaib-introduces-26-amendments-to-the-national-defense-authorization-act-ndaa",
+"date": "2026-06-30",
+"quote": "Prohibits the construction or operation of AI data centers on Federal lands, including land under the jurisdiction of the Department of Defense.",
+"what_it_shows": "She tried to attach the ban to the defense bill and listed stopping AI data center expansion as a goal of her amendment package."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7858 Data Center Community Impact Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7858",
+"date": "2026-03-05",
+"quote": null,
+"what_it_shows": "Backs a federal study of data center effects on nearby communities' power, water and bills; also cosponsors H.R. 8488 on site-selection transparency and H.R. 9183 on AI environmental impacts."
+},
+{
+"type": "statement",
+"title": "Press release: Tlaib introduces Make DTE Pay Act in response to Clean Air Act violations, repeated rate hikes",
+"url": "https://tlaib.house.gov/posts/tlaib-introduces-make-dte-pay-act-in-response-to-clean-air-act-violations-repeated-rate-hikes",
+"date": "2026-05-07",
+"quote": "It's so insulting to our families that DTE wants to jack up their bills year after year while poisoning the air they breathe.",
+"what_it_shows": "Her utility fight focuses on the same ratepayer and pollution concerns she raises about data centers; DTE is the utility serving the Saline campus."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "medium",
+"summary": "She treats advanced AI as a danger that needs binding rules now. She signed the Aug 2026 letter demanding AI CEOs testify under oath after models escaped test environments, cosponsors mandatory bias and harm testing (Algorithmic Accountability Act), an AI civil rights ban on discrimination, a chatbot transparency bill, a pause on DHS AI surveillance, and a bill requiring a human decision on nuclear launch.",
+"evidence": [
+{
+"type": "letter",
+"title": "Casar-led letter from 20 House Democrats demanding Speaker Johnson hold hearings with AI CEOs under oath",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"date": "2026-08-10",
+"quote": "Advanced AI models pose a clear risk to the safety and security of the American people.",
+"what_it_shows": "Signed a letter saying Congress has completely failed to respond to AI threats and calling for CEOs to answer under oath about models that hacked other organizations."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5511 Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-19",
+"quote": null,
+"what_it_shows": "Supports mandatory impact testing of automated decision systems with reports to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6356 Artificial Intelligence Civil Rights Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "Backs a ban on discriminatory AI and required pre- and post-deployment audits."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7985 CHATBOT Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7985",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Supports transparency duties on AI chatbot companies."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9314 DHS Surveillance Technology Moratorium Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9314",
+"date": "2026-07-06",
+"quote": null,
+"what_it_shows": "Wants to pause DHS use of face recognition and other AI surveillance; she has pushed facial recognition bans since 2019."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2894 Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2023-06-05",
+"quote": null,
+"what_it_shows": "Backed keeping a human in control of nuclear launch decisions."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Tlaib introduces a bill to ban AI data centers on federal lands",
+"url": "https://tlaib.house.gov/posts/rep-tlaib-introduces-a-bill-to-ban-ai-data-centers-on-federal-lands",
+"date": "2026-07-23",
+"quote": "Our corrupt, AI-addicted President cannot be allowed to sacrifice our federal lands so that Big Tech oligarchs can get richer.",
+"what_it_shows": "She warned the Pentagon's $30 billion data center request would put largely untested AI into life-or-death military decisions."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "medium",
+"summary": "She is adversarial toward Big Tech across the board: bans on AI-driven surveillance pricing and wage setting, a crackdown on landlords' rent-setting algorithms, strong reproductive data privacy, deepfake and election deception bills, and letters accusing Facebook of censoring Palestinian speech. She did not vote on the 2024 TikTok bill. No explicit break-up or Section 230 repeal call was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640 Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-07-23",
+"quote": null,
+"what_it_shows": "Backs banning companies from using AI and personal data to set individualized prices or wages; she raised the same concern about Kroger's facial recognition plans in 2024."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8622 Preventing the Algorithmic Facilitation of Rental Housing Cartels Act of 2024",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8622",
+"date": "2024-07-30",
+"quote": null,
+"what_it_shows": "Supports an antitrust-style ban on shared rent-setting algorithms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3218 Reproductive Data Privacy and Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-09-08",
+"quote": null,
+"what_it_shows": "Backs strong limits on collecting and selling reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3562 DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-20",
+"quote": null,
+"what_it_shows": "Supports a right to sue over AI sexual deepfakes."
+},
+{
+"type": "letter",
+"title": "Press release: Tlaib urges social media platforms to cease censorship of Palestinian political speech",
+"url": "https://tlaib.house.gov/posts/tlaib-urges-social-media-platforms-to-cease-censorship-of-palestinian-political-speech",
+"date": "2021-05-25",
+"quote": "I cannot understand how Facebook can justify censoring peaceful Palestinian voices while providing an organizing platform for extremist hate,",
+"what_it_shows": "She pressed Facebook, Instagram, Twitter and TikTok on content moderation, a long-running fight with the platforms."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (Mar 13, 2024): Not voting on H.R. 7521, TikTok divest-or-ban bill",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "She did not cast a vote on the TikTok divestiture bill."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "She wants states free to regulate AI. She cosponsored the GUARDRAILS Act to block federal preemption of state AI laws and signed the Nov 2025 letter from 81 House Democrats opposing a moratorium in the NDAA and the planned executive order.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8031 GUARDRAILS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Backs protecting states' right to pass their own AI laws, cosponsored the day the White House released its preemption framework."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "That vote sent a clear, bipartisan message: Congress should not freeze state and local AI safeguards,",
+"what_it_shows": "Her name appears among the signers telling congressional leaders not to revive the state AI-law moratorium or use BEAD funds to coerce states."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls, Nvidia sales to China, or the Chip Security Act as of Sept 2026. She did not vote on the 2024 TikTok bill and her China-related activity centers on human rights, not technology.",
+"evidence": []
+}
+},
+"search_notes": "About 14 Google News queries (AI, data center, DTE, Whitmer, Saline, Big Tech, facial recognition, OpenAI, chips) plus a tlaib.house.gov archive listing. Opened four of her press releases, the Casar letter, the Matsui letter PDF (signer confirmed), Planet Detroit (via curl), E&E on the Data Center Community Impact Act, WDET (Sept 10, 2026 DTE interview is audio only), Detroit News July 31 and GovTrack h86. MLive, Michigan Advance, Michigan Chronicle, FOX 2 and the Markey EPA letter were blocked, so her signature on the Markey-McClellan EPA letter is a lead, not confirmed. Google News link decoding hit rate limits late in the session. No AI super PAC activity for or against her was found."
+},
+{
+"bioguide": "T000488",
+"name": "Shri Thanedar",
+"signature": "Homeland Security Democrat, defeated in the Aug 2026 primary, with a wide cosponsor record on AI education and workforce bills, ratepayer protections against data center costs, algorithmic bias rules, and a probe of ICE's AI surveillance contract.",
+"notable_quote": {
+"text": "The rapid development of emerging technologies, including advanced AI and quantum computing enables and enhances security risk,",
+"url": "https://iapp.org/news/a/us-house-subcommittees-explore-cybersecurity-implications-of-ai-quantum-computing",
+"date": "2025-12-19"
+},
+"groups": [
+"Ranking Member, House Homeland Security Subcommittee on Oversight, Investigations, and Accountability"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "His record points to protecting ratepayers first: he cosponsored bills to keep families' electric bills from paying for AI data center power lines and to force a federal study of data centers' effects on nearby towns. No speeches or statements of his own on data centers were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6529 Protecting Families from AI Data Center Energy Costs Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2025-12-16",
+"quote": null,
+"what_it_shows": "Backs keeping the cost of grid upgrades for AI data centers off household bills."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7858 Data Center Community Impact Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7858",
+"date": "2026-03-05",
+"quote": null,
+"what_it_shows": "Original cosponsor of a bill requiring a federal study of data centers' effects on power, water and bills in nearby communities."
+},
+{
+"type": "other",
+"title": "E&E News: Bill would mandate a 'hard look' at data center safety",
+"url": "https://www.eenews.net/articles/bill-would-mandate-a-hard-look-at-data-center-safety/",
+"date": "2026-03-10",
+"quote": null,
+"what_it_shows": "Names Thanedar and Tlaib among the original cosponsors of Watson Coleman's Data Center Community Impact Act, which focuses on communities of color and low-income neighborhoods."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "He backs targeted guardrails alongside heavy support for AI education and adoption. As ranking member of a Homeland Security subcommittee he warned that advanced AI is supercharging cyberattacks, demanded answers about ICE's no-bid AI surveillance contract, and cosponsored bills to pause DHS AI surveillance and to root out algorithmic bias. He also cosponsors many bills to teach students and workers AI skills.",
+"evidence": [
+{
+"type": "hearing",
+"title": "IAPP: US House subcommittees explore cybersecurity implications of AI, quantum computing (Thanedar remarks as ranking member)",
+"url": "https://iapp.org/news/a/us-house-subcommittees-explore-cybersecurity-implications-of-ai-quantum-computing",
+"date": "2025-12-19",
+"quote": "The rapid development of emerging technologies, including advanced AI and quantum computing enables and enhances security risk,",
+"what_it_shows": "He said AI-assisted cyberattacks hit harder and faster, help China and poorly resourced states, and called on Congress to extend the cyber information-sharing law."
+},
+{
+"type": "letter",
+"title": "The Lever: Lawmakers launch probe into ICE's phantom contractor (Thompson and Thanedar letter to ICE)",
+"url": "https://www.levernews.com/lawmakers-launch-probe-into-ices-phantom-contractor/",
+"date": "2026-05-21",
+"quote": null,
+"what_it_shows": "With Bennie Thompson he demanded information on ICE's $12 million no-bid award to Edge Ops for an AI surveillance tool tracking immigrants' locations and routines."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9314 DHS Surveillance Technology Moratorium Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9314",
+"date": "2026-06-15",
+"quote": null,
+"what_it_shows": "Supports pausing DHS use of face recognition and other AI surveillance tools."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7110 Eliminating Bias in Algorithmic Systems Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7110",
+"date": "2026-01-15",
+"quote": null,
+"what_it_shows": "Backs civil rights teams inside agencies to catch discriminatory algorithms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4894 Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "Supports outlawing AI-made voting disinformation before federal elections; he also cosponsored the 2024 AI Ads Act requiring disclosure of AI in political ads."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5351 NSF AI Education Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
+"date": "2026-05-22",
+"quote": null,
+"what_it_shows": "One of at least seven AI education, literacy and workforce bills he cosponsored in May 2026, showing he wants broad public adoption of AI, not a slowdown."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "He supports specific fixes: he voted for the TikTok divest-or-ban law in 2024 despite writing a 2023 op-ed calling TikTok crucial for his district, and he cosponsored bills on Chinese-linked connected cars, reproductive data privacy, and abusers' access to car data.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 86 (Mar 13, 2024): Yea on H.R. 7521, TikTok divest-or-ban bill",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "He voted to force TikTok's sale or ban it."
+},
+{
+"type": "op_ed",
+"title": "Detroit Free Press op-ed: TikTok is more than leisure and laughter. For my district, it's crucial.",
+"url": "https://thanedar.house.gov/news/in-the-news/detroit-free-press-opinion-tiktok-is-more-than-leisure-and-laughter-for-my-district-its-crucial",
+"date": "2023-05-12",
+"quote": null,
+"what_it_shows": "In 2023 he defended TikTok's value to Detroit creators and small businesses; only the title survives on his site, and he later voted for divestiture."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-06",
+"quote": null,
+"what_it_shows": "Backs banning connected-car tech from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3218 Reproductive Data Privacy and Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-11-04",
+"quote": null,
+"what_it_shows": "Supports limits on collecting and selling reproductive health data."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "He signed the Nov 2025 letter from 81 House Democrats telling congressional leaders not to revive the freeze on state and local AI laws in the NDAA and not to use an executive order or broadband money to override state AI laws.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "That vote sent a clear, bipartisan message: Congress should not freeze state and local AI safeguards,",
+"what_it_shows": "His name appears among the signers opposing federal preemption of state AI laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China as of Sept 2026. His China-related tech work is about connected cars and cyberattacks, and he took part in a July 2026 CSIS war game on AI-enabled cyberattacks in a Taiwan conflict, which is not a stance on chips.",
+"evidence": []
+}
+},
+"search_notes": "About 12 Google News queries (AI, data center, Homeland Security AI, cybersecurity, TikTok, DTE, utility bills, Big Tech, chips) plus a thanedar.house.gov archive listing, his press release index and caucus page (no AI caucus; ranking member on the Oversight subcommittee confirmed). Opened IAPP, The Lever, Nextgov (two), E&E, the Matsui letter PDF (signer confirmed), his 2023 TikTok op-ed page (title only), NOTUS and BridgeDetroit primary coverage (no AI or data center content), GovTrack h86. Michigan Advance and the Markey EPA letter were blocked, so his signature on that EPA letter is a lead, not confirmed. A July 29, 2026 Free Press report that an AI-tied super PAC spent $295K on a Michigan House race could not be opened, so it is unclear whether it involved his MI-13 race. He lost the Aug 4, 2026 primary to Donavan McKinney."
+}
+]

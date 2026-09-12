@@ -1,0 +1,642 @@
+[
+{
+"bioguide": "C001047",
+"name": "Shelley Moore Capito",
+"signature": "EPW chair leading permitting reform talks; favors data centers if developers build their own power and engage communities; longtime kids online safety cosponsor; backs voluntary AI testing guidelines and an AI scam ban.",
+"groups": [
+"Chair, Senate Committee on Environment and Public Works (leads bipartisan permitting reform negotiations with Sen. Whitehouse)"
+],
+"notable_quote": {
+"text": "Whoever's building the data center, they need to come into the community and say, number one, that they're going to build the power behind the grid. In other words, they're going to build their own power resources.",
+"url": "https://wvpublic.org/story/government/capito-favors-data-centers-but-wants-better-communication/",
+"date": "2026-04-16"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Capito says data centers are critical to the nation and wants them in West Virginia, but says developers must build their own power, protect water, and communicate with local communities, with property tax as the main local benefit. As EPW chair she is pushing a bipartisan permitting reform deal to build energy infrastructure faster.",
+"evidence": [
+{
+"type": "interview",
+"title": "WVPB: Capito Favors Data Centers But Wants Better Communication",
+"url": "https://wvpublic.org/story/government/capito-favors-data-centers-but-wants-better-communication/",
+"date": "2026-04-16",
+"quote": "So I think the services that come with the data center are critical to our nation. I really believe this,",
+"what_it_shows": "She supports data centers as a national priority while asking developers to bring their own power and communicate with communities."
+},
+{
+"type": "interview",
+"title": "WVPB: Capito on local benefits of data centers",
+"url": "https://wvpublic.org/story/government/capito-favors-data-centers-but-wants-better-communication/",
+"date": "2026-04-16",
+"quote": "But the property tax aspects can be used to build new schools and senior centers, improve roads, improve water systems, and so those are the things that I think we ought to really focus on,",
+"what_it_shows": "She admits data centers bring few jobs and points to property tax revenue as the payoff, a build-with-conditions framing."
+},
+{
+"type": "statement",
+"title": "Roll Call: spokesperson statement on the Tucker County Ridgeline project",
+"url": "https://rollcall.com/2026/08/12/data-centers-coming-is-congress-ready/",
+"date": "2026-08-12",
+"quote": "emphasized the importance of local involvement, responsible stewardship, and the protection of utility payers along with prospects of job creation and community development",
+"what_it_shows": "On the most contested WV project, her office stresses local involvement and ratepayer protection alongside job prospects, not opposition."
+},
+{
+"type": "statement",
+"title": "Remarks at WV Chamber Business Summit on permitting reform",
+"url": "https://www.newsandsentinel.com/news/business/2026/09/capito-justice-focus-remarks-on-energy-at-90th-annual-w-va-chamber-meeting/",
+"date": "2026-09-04",
+"quote": "We are in the midst of negotiating something that I think could be game-changing for the country, and this is permitting reform,",
+"what_it_shows": "She is the lead Republican negotiating a permitting deal covering gas pipelines and transmission lines that would speed the energy buildout data centers need."
+},
+{
+"type": "statement",
+"title": "Remarks at 2025 WV Chamber meeting on permitting",
+"url": "https://www.newsandsentinel.com/news/local-news/2025/08/capito-justice-provide-congressional-update-at-w-va-chamber-of-commerce-meeting/",
+"date": "2025-08-29",
+"quote": "If you're building a solar farm or if you're building a natural gas pipeline or you're doing a coal mine, if you can get the permit, you can go.",
+"what_it_shows": "She wants permitting to be fast and fuel-neutral, a build-faster stance on energy infrastructure."
+},
+{
+"type": "other",
+"title": "CNBC: Capito and Whitehouse meeting as permitting talks thaw",
+"url": "https://www.cnbc.com/2026/03/09/top-permitting-reform-senators-meeting-as-talks-thaw-api-chief.html",
+"date": "2026-03-09",
+"quote": null,
+"what_it_shows": "Reporting ties her permitting push directly to the tech industry's AI data center buildout."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Capito backs targeted AI rules: she cosponsors the Take It Down Act and a bill making AI impersonation scams illegal, and co-leads the VET AI Act for voluntary third-party AI safety testing guidelines. She stresses AI's potential and has not called for licensing, liability, or a pause.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press coverage on her site: Bipartisan Capito bill would help prevent AI scams",
+"url": "https://www.capito.senate.gov/news/in-the-news/bipartisan-capito-bill-would-help-prevent-ai-scams",
+"date": "2025-12-30",
+"quote": "I'm proud to help introduce the Artificial Intelligence Scam Prevention Act, legislation that explicitly prohibits AI fraud, particularly impersonations and deepfakes, and empowers federal agencies to take greater action against these criminals",
+"what_it_shows": "She wants a specific legal ban on AI impersonation and deepfake fraud."
+},
+{
+"type": "statement",
+"title": "FedScoop: Klobuchar and Capito introduce AI Scam Prevention Act",
+"url": "https://fedscoop.com/senate-bipartisan-ai-scam-prevention-bill/",
+"date": "2025-12-19",
+"quote": "While there is incredible potential with artificial intelligence, we must also be vigilant in protecting against harmful uses of the technology, especially when it comes to fraud and scams,",
+"what_it_shows": "Her framing pairs enthusiasm for AI with narrow guardrails against specific harms."
+},
+{
+"type": "cosponsor",
+"title": "S.3495 Artificial Intelligence Scam Prevention Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3495",
+"date": "2025-12-16",
+"quote": null,
+"what_it_shows": "Cosponsor of a bill making it illegal to use AI to impersonate someone to commit fraud."
+},
+{
+"type": "statement",
+"title": "MeriTalk: Hickenlooper and Capito reintroduce VET AI Act",
+"url": "https://www.meritalk.com/articles/senate-revisits-ai-testing-development-assurance-with-vet-ai-act/",
+"date": "2025-08-05",
+"quote": "the VET AI Act is a commonsense bill that will allow for a voluntary set of guidelines for AI, which will only help the development of systems that choose to adopt them.",
+"what_it_shows": "She favors voluntary, not mandatory, AI safety evaluation standards written by NIST."
+},
+{
+"type": "cosponsor",
+"title": "S.2615 VET Artificial Intelligence Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2615",
+"date": "2025-07-31",
+"quote": null,
+"what_it_shows": "Cosponsor of the bill having NIST write voluntary guidelines for outside AI evaluators."
+},
+{
+"type": "cosponsor",
+"title": "S.146 TAKE IT DOWN Act (now law)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Cosponsor of the law criminalizing non-consensual AI deepfake intimate images and forcing fast takedowns."
+},
+{
+"type": "cosponsor",
+"title": "118th S.3312 Artificial Intelligence Research, Innovation, and Accountability Act of 2024",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/3312",
+"date": "2023-11-15",
+"quote": null,
+"what_it_shows": "Cosponsored a bill requiring transparency reports and safety standards for high-stakes AI uses, a targeted guardrail."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Capito is an original cosponsor of the Kids Online Safety Act and COPPA 2.0, cosponsors the STOP CSAM Act, and has written that platforms must be responsible for content shown to kids. She also backs bills restricting Chinese-linked apps and connected cars. She has not pushed break-ups or Section 230 repeal.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Capito op-ed: Protecting Our Kids from Social Media",
+"url": "https://www.capito.senate.gov/news/in-the-news/capito-op-ed-protecting-our-kids-from-social-media",
+"date": "2024-02-20",
+"quote": "These platforms must be responsible for the content provided to our youth and tools must be in place to prevent harm.",
+"what_it_shows": "In her own words she wants platforms held responsible for harms to children, and names KOSA as a key tool."
+},
+{
+"type": "cosponsor",
+"title": "S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Cosponsor of the main bill forcing platforms to build in safety tools for minors."
+},
+{
+"type": "statement",
+"title": "Release: VIDEO: Capito Votes to Advance the Kids Online Safety Act from Commerce Committee",
+"url": "https://www.capito.senate.gov/news/press-releases/video-capito-votes-to-advance-the-kids-online-safety-act-from-commerce-committee",
+"date": "2026-08-05",
+"quote": null,
+"what_it_shows": "Her office announced she voted to move KOSA out of the Commerce Committee on Aug 5, 2026; the page itself returned an access error so only the title was confirmed."
+},
+{
+"type": "cosponsor",
+"title": "S.836 Children and Teens' Online Privacy Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "Cosponsor of the kids privacy update banning targeted ads to minors without consent."
+},
+{
+"type": "cosponsor",
+"title": "S.1829 STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2026-07-28",
+"quote": null,
+"what_it_shows": "Cosponsor of a bill letting victims sue platforms that fail to remove child sexual abuse material."
+},
+{
+"type": "cosponsor",
+"title": "S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-05-21",
+"quote": null,
+"what_it_shows": "Cosponsor of a ban on Chinese and other adversary-linked connected car technology."
+},
+{
+"type": "cosponsor",
+"title": "118th S.686 RESTRICT Act",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-07",
+"quote": null,
+"what_it_shows": "Backed giving the government power to block apps and tech from rival countries, the bill behind the TikTok debate."
+},
+{
+"type": "cosponsor",
+"title": "118th S.1094 Journalism Competition and Preservation Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1094",
+"date": "2024-07-25",
+"quote": null,
+"what_it_shows": "Backed letting news outlets bargain collectively with Google and Facebook, a targeted check on platform power."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Capito voted with 98 other senators to strip the 10-year moratorium on state AI laws from the July 2025 budget bill, but that vote was near unanimous after the deal collapsed. No statement, letter, or bill was found on preempting state AI laws, the Dec 2025 executive order, or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call #363: Blackburn amendment striking the state AI law moratorium from H.R. 1 (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "She voted Yea to remove the moratorium, as did 98 other senators; by itself this does not show a position on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "Searched for statements on Nvidia chip sales to China, export controls, the Chip Security Act and the GAIN AI Act and found none. Her China-tech record covers apps and connected cars (RESTRICT Act, Connected Vehicle Security Act), not AI chips.",
+"evidence": []
+}
+},
+"search_notes": "Ran 14 helper searches (AI, data centers, chatbot/deepfake/KOSA, preemption/moratorium, Nvidia/export controls, Section 230/Big Tech, CHIPS, VET AI, Take It Down, KOSA 2026, permitting + data centers, AI executive order, BEAD bill, EPW hearings) plus a site listing of capito.senate.gov (349 matching archived URLs). Opened and read: WVPB Apr 2026 interview, Roll Call Aug 2026, News and Sentinel Sept 2026 and Aug 2025 Chamber coverage, Intermountain reprint, AI scam release (via Wayback), FedScoop, MeriTalk VET AI, kids social media op-ed (via Wayback), E&E and CNBC permitting stories, Broadband Breakfast SUCCESS for BEAD story (that bill bars BEAD funds for data center construction but is not an AI bill). capito.senate.gov and the Senate Commerce site return 403 and Wayback was intermittently unreachable, so her Aug 5 2026 KOSA committee vote release and Aug 2025 VET AI release could not be read; quotes for those came from MeriTalk and the Ripon Advance reprint. Nothing found on chips export controls or state AI law preemption beyond the roll call vote. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "J000312",
+"name": "James C. Justice",
+"signature": "Data center booster who tells companies to take care of everybody on bills, water and noise; lead Republican on the Senior Chatbot Protection Act; frames everything as energy, energy, energy.",
+"groups": [],
+"notable_quote": {
+"text": "Think about it. Do we like our data center scrambled or fried? I would say yes. I would say there's a way to have it all. There's a way to have your cake and eat it too.",
+"url": "https://www.newsandsentinel.com/news/business/2026/09/capito-justice-focus-remarks-on-energy-at-90th-annual-w-va-chamber-meeting/",
+"date": "2026-09-04"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Justice urges West Virginians not to fear data centers and says the state must not be left out of the AI energy boom, while insisting companies take care of the environment, water, electric bills and noise. He announced the Mason County Fidelis data center campus as governor in 2023. His office did not respond to Roll Call about the Tucker County fight.",
+"evidence": [
+{
+"type": "statement",
+"title": "Remarks at WV Chamber Business Summit: conditions for data center companies",
+"url": "https://www.newsandsentinel.com/news/business/2026/09/capito-justice-focus-remarks-on-energy-at-90th-annual-w-va-chamber-meeting/",
+"date": "2026-09-04",
+"quote": "The environment, the water, the electricity bills, the noise. You've got to take care of everybody, and there's a way to do it.",
+"what_it_shows": "He supports the projects but publicly names bills, water and noise as things companies must handle."
+},
+{
+"type": "statement",
+"title": "WVVA: Justice weighs in on data centers at 2026 Business Summit",
+"url": "https://www.wvva.com/2026/09/03/justice-weighs-data-centers-2026-business-summit/",
+"date": "2026-09-03",
+"quote": "For crying out loud, if you're going to come to West Virginia and you're going to do something in West Virginia, you need to be taking care of everybody.",
+"what_it_shows": "Local TV account of the same remarks; he said data centers would bring energy and job opportunities and can coexist with the state."
+},
+{
+"type": "statement",
+"title": "Charleston Gazette-Mail: Justice at the Chamber summit on data center opponents",
+"url": "https://www.wvgazettemail.com/news/energy_and_environment/wv-leaders-ignore-high-public-health-costs-from-large-scale-data-center-development/article_e6e2ea03-86cd-43c2-981b-402b3273d467.html",
+"date": "2026-09-05",
+"quote": "Do we really want to be left out? Do we want to miss job opportunities and energy opportunities like you can't imagine?",
+"what_it_shows": "He dismisses fears about data centers and argues West Virginia should grab the projects other states are turning away."
+},
+{
+"type": "statement",
+"title": "Remarks at 2025 WV Chamber meeting on power for data centers and AI",
+"url": "https://www.newsandsentinel.com/news/local-news/2025/08/capito-justice-provide-congressional-update-at-w-va-chamber-of-commerce-meeting/",
+"date": "2025-08-29",
+"quote": "It's energy, energy, energy. No matter what you say, no matter what you do, at the end of the day, it will all be about energy,",
+"what_it_shows": "He frames the data center and AI boom as a chance for West Virginia to supply power and warns the grid cannot handle demand without action."
+},
+{
+"type": "statement",
+"title": "WSAZ: Gov. Justice announces Fidelis hydrogen project and data center campus in Mason County",
+"url": "https://www.wsaz.com/2023/08/16/gov-justice-announces-new-hydrogen-project-data-center-campus-mason-county/",
+"date": "2023-08-16",
+"quote": "This that we are talking about today is cutting edge, an opportunity beyond belief,",
+"what_it_shows": "As governor he personally launched one of the state's first big data center campuses."
+},
+{
+"type": "other",
+"title": "Roll Call: Justice's office did not respond on the Tucker County Ridgeline project",
+"url": "https://rollcall.com/2026/08/12/data-centers-coming-is-congress-ready/",
+"date": "2026-08-12",
+"quote": null,
+"what_it_shows": "He has not engaged publicly with the residents fighting the largest proposed WV data center."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Justice is the lead Republican on the Senior Chatbot Protection Act, which would require chatbots to disclose they are AI, limit use of seniors' conversation data, and bar addictive design, and he cosponsors a bill requiring AI disclosure on customer service lines. He calls AI an incredible tool that needs specific protections for vulnerable people.",
+"evidence": [
+{
+"type": "statement",
+"title": "WVVA: Justice, Kelly introduce Senior Chatbot Protection Act",
+"url": "https://www.wvva.com/2026/07/24/justice-kelly-introduce-senior-chatbot-protection-act/",
+"date": "2026-07-24",
+"quote": "AI chatbots are an incredible tool for older Americans, but we can't miss the opportunity to protect our seniors who rely on chatbots for support, companionship and even important decisions during critical times,",
+"what_it_shows": "He wants binding disclosure and design rules for chatbots used by seniors while praising the technology."
+},
+{
+"type": "statement",
+"title": "Gila Herald: Kelly, Justice introduce bipartisan Senior Chatbot Protection Act",
+"url": "https://gilaherald.com/kelly-justice-introduce-bipartisan-senior-chatbot-protection-act-to-safeguard-older-americans-from-ai-scams/",
+"date": "2026-07-24",
+"quote": "The Senior Chatbot Protection Act sets transparency standards so our seniors know they are speaking with a chatbot and not a real person",
+"what_it_shows": "He frames the bill as a transparency mandate, a targeted guardrail."
+},
+{
+"type": "cosponsor",
+"title": "S.5117 Senior Chatbot Protection Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5117",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "Original cosponsor with Sen. Kelly of chatbot safety rules for older adults."
+},
+{
+"type": "cosponsor",
+"title": "S.2495 Keep Call Centers in America Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2495",
+"date": "2025-07-29",
+"quote": null,
+"what_it_shows": "Cosponsor of a bill requiring companies to tell customers when they are talking to AI and to offer a US-based human."
+},
+{
+"type": "statement",
+"title": "CBS News: New bill aims to protect American call center jobs and consumers from AI",
+"url": "https://www.cbsnews.com/news/keep-call-centers-in-america-act-artificial-intelligence/",
+"date": "2025-07-30",
+"quote": null,
+"what_it_shows": "Reports the Gallego-Justice bill would require AI disclosure and penalize offshoring, framed around protecting workers from AI."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Justice cosponsors the Kids Online Safety Act, the STOP CSAM Act and the Connected Vehicle Security Act, all targeted rules on platforms and Chinese-linked tech. No speeches or statements on Big Tech, Section 230 or antitrust were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2026-02-03",
+"quote": null,
+"what_it_shows": "Joined the main kids online safety bill in Feb 2026."
+},
+{
+"type": "cosponsor",
+"title": "S.1829 STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2026-05-18",
+"quote": null,
+"what_it_shows": "Backs letting victims sue platforms that fail to remove child sexual abuse material."
+},
+{
+"type": "cosponsor",
+"title": "S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-23",
+"quote": null,
+"what_it_shows": "Backs banning Chinese and other adversary-linked connected car technology."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Justice voted Yea on the near-unanimous July 2025 vote to strip the state AI law moratorium from the budget bill. No statement, letter or bill was found on preempting state AI laws, the Dec 2025 executive order, or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call #363: Blackburn amendment striking the state AI law moratorium from H.R. 1 (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He voted Yea to remove the moratorium along with 98 other senators; not by itself evidence of a preemption stance."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "Searched for statements on Nvidia chip sales, export controls, the Chip Security Act and China tech; found none. His China remarks focus on out-producing China on energy.",
+"evidence": []
+}
+},
+"search_notes": "Ran 10 helper searches (AI/senator, data centers, call centers, KOSA/chatbot/social media, China chips/export controls, ENR data center hearings, Fidelis) plus a site listing of justice.senate.gov (37 archived URLs, mostly energy). Opened and read: News and Sentinel Sept 2026 and Aug 2025 Chamber coverage, WVVA Sept 2026 data center story, Gazette-Mail Sept 2026 analysis, WVVA and Gila Herald chatbot bill stories, CBS call center story, Roll Call Aug 2026, WSAZ 2023 Fidelis announcement. justice.senate.gov returns 403 and Wayback captures failed, so his Fidelis press release and energy floor speech could not be read. Roll Call reported his office did not respond on Tucker County. Nothing found on AI chips, preemption, or Big Tech beyond cosponsorships. No AI super PAC support or attacks found. Note: Sept 2026 reports say he is weighing an early Senate exit to run for governor."
+},
+{
+"bioguide": "M001205",
+"name": "Carol D. Miller",
+"signature": "Ways and Means trade voice who defends U.S. tech firms against foreign digital rules and taxes; China hawk on tech supply chains; no located position on AI safety or the data center fights in her district.",
+"groups": [],
+"notable_quote": {
+"text": "It is duly important that Congress ensures that these agreements are enforced as other countries continue attempts to stifle the free flow of digital trade.",
+"url": "https://miller.house.gov/media/press-releases/miller-participates-hearing-maintaining-american-innovation-and-technology",
+"date": "2026-01-14"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "No statement found on the data center fights in her district, including the Mason County Nscale and Fidelis projects. She voted for the SPEED Act permitting overhaul in Dec 2025 and praised a South Charleston data center in 2022, which points toward support for building, but she has not addressed electric bills, water or local control.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: H.R. 4776 SPEED Act permitting reform (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted for the NEPA permitting overhaul that backers say is needed to build power for AI data centers."
+},
+{
+"type": "statement",
+"title": "Press release: Congresswoman Miller Visits Alpha Technologies Global Data Center",
+"url": "https://miller.house.gov/media/press-releases/congresswoman-miller-visits-alpha-technologies-global-data-center",
+"date": "2022-10-18",
+"quote": "With their state-of-the-art global data center in South Charleston and their headquarters in Hurricane, Alpha Technologies is well equipped to provide federal and commercial clients strong IT infrastructure, technology, and security solutions.",
+"what_it_shows": "Before the AI boom she celebrated a small in-state data center as innovation and jobs; no comparable statement on the giant 2026 projects was found."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "Searched her press releases, hearing remarks and local news for statements on AI safety, chatbots, deepfakes, AI jobs or AI regulation and found none. Her tech work is on digital trade and China supply chains, not AI rules.",
+"evidence": []
+},
+"tech_regulation": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. She cosponsors the SCREEN Act (age checks for porn sites) and the Connected Vehicle Security Act, but she is a vocal defender of U.S. tech firms abroad, calling EU-style digital market rules a threat to innovation and pressing USTR to fight Australia's digital tax and Korea's platform bills.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Ways and Means Trade subcommittee hearing on American innovation and technology leadership",
+"url": "https://miller.house.gov/media/press-releases/miller-participates-hearing-maintaining-american-innovation-and-technology",
+"date": "2026-01-14",
+"quote": "Despite agreeing to address unjustified digital trade barriers in the US-EU agreement, the EU has taken discriminatory actions that are estimated to cost U.S. companies up to $97.6 billion dollars annually in compliance costs, revenue losses, and financial penalties.",
+"what_it_shows": "She treats EU Digital Markets Act style regulation of Big Tech as a harm to American companies, a light-touch signal."
+},
+{
+"type": "hearing",
+"title": "Same hearing: praise for trade deals barring discrimination against U.S. tech firms",
+"url": "https://miller.house.gov/media/press-releases/miller-participates-hearing-maintaining-american-innovation-and-technology",
+"date": "2026-01-14",
+"quote": "For the first time ever, countries are specifically agreeing not to discriminate against U.S. tech firms in the bilateral trade deals negotiated by President Trump.",
+"what_it_shows": "She frames protecting U.S. tech firms from foreign regulation as a top trade goal."
+},
+{
+"type": "letter",
+"title": "Miller, colleagues call on USTR to push back against Australia's treatment of American digital companies",
+"url": "https://miller.house.gov/media/press-releases/miller-colleagues-call-ustr-push-back-against-australias-discriminatory",
+"date": "2026-09-03",
+"quote": "Australia must be held accountable for its unfair legislation that targets U.S. digital service providers. These discriminatory barriers will undermine fair competition and harm American businesses, ultimately straining the strong economic relationship between our two nations.",
+"what_it_shows": "She led a letter urging a Section 301 probe over a tax on U.S. digital platforms, siding with the platforms."
+},
+{
+"type": "cosponsor",
+"title": "H.R.1623 SCREEN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-09-10",
+"quote": null,
+"what_it_shows": "Backs mandatory age verification on adult websites, a targeted kids safety rule."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-09",
+"quote": null,
+"what_it_shows": "Backs banning Chinese and other adversary-linked connected car technology."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement, letter or bill found on preempting state AI laws, the Dec 2025 executive order, or the March 2026 White House framework. She did not sign the Nov 2025 or Dec 2025 House letters against preemption and has not cosponsored the GUARDRAILS Act or the American AI Leadership and Uniformity Act.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "She is a China hawk on tech supply chains: she voted against the 2022 CHIPS Act because China accountability reforms were stripped, wrote bills to keep Chinese firms out of EV tax credits, and cosponsors the Semiconductor Superiority Act for domestic chip tax breaks. No statement found on AI chip export controls or Nvidia sales to China.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Miller statement on vote against CHIPS and Science Act",
+"url": "https://miller.house.gov/media/press-releases/congresswoman-miller-statement-vote-against-chips-and-science-act",
+"date": "2022-07-28",
+"quote": "Crucial reforms to hold China accountable and make America competitive were ripped from the bill.",
+"what_it_shows": "She opposed the chip subsidy law on the grounds it was not tough enough on China, not because she opposed chip policy."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8959 Semiconductor Superiority Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8959",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Backs tax breaks for companies that design and build chips in America."
+},
+{
+"type": "statement",
+"title": "Press release: Miller introduces End Chinese Dominance of Electric Vehicles in America Act",
+"url": "https://miller.house.gov/media/press-releases/miller-introduces-end-chinese-dominance-electric-vehicles-america-act-2024",
+"date": "2024-04-15",
+"quote": "China, or any adversary for that matter, should not have any access to American tax credits.",
+"what_it_shows": "Shows a consistent hawkish stance on Chinese access to U.S. technology markets and subsidies."
+}
+]
+}
+},
+"search_notes": "Ran 9 helper searches (AI/congresswoman, data centers, digital services tax/digital trade, SCREEN/semiconductor/chips, Mason County/Nscale/Fidelis, exact-phrase AI) plus a site listing of miller.house.gov (59 archived URLs, nearly all energy) and a scan of her press release index. Opened and read: Jan 2026 Ways and Means digital trade hearing release, Sept 2026 Australia digital tax letter release, 2022 CHIPS Act vote statement, 2024 EV China bill release, 2022 Alpha Technologies data center visit, govtrack roll call 356. Found no statements on AI safety, chatbots, deepfakes, state AI preemption, or the Mason County data center projects in her district. Many of her recent items surface only through Quiver Quantitative reposts whose Google News links did not decode. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "M001235",
+"name": "Riley M. Moore",
+"signature": "Cosponsored the Ratepayer Protection Act so data centers pay their own grid costs and voiced Tucker County frustration over lost local control; Leading the Future named him a House GOP Champion; cheers coal plants to power AI.",
+"groups": [],
+"notable_quote": {
+"text": "West Virginia families and American taxpayers should not be forced to foot the bill for massive data centers, and the enormous potential demands they place on our power grid.",
+"url": "https://rileymoore.house.gov/media/press-releases/congressman-riley-m-moore-cosponsors-legislation-protect-ratepayers-data",
+"date": "2026-08-31"
+},
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Moore cosponsored the Ratepayer Protection Act, saying data centers rather than families must pay for new power infrastructure, and he voiced Tucker County residents' frustration that state law removed local approval. But he voted for the SPEED Act permitting overhaul, applauds a new coal plant to power AI and data centers, and says he understands the need to expedite projects for the AI race with China.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Congressman Riley M. Moore cosponsors legislation to protect ratepayers from data center costs",
+"url": "https://rileymoore.house.gov/media/press-releases/congressman-riley-m-moore-cosponsors-legislation-protect-ratepayers-data",
+"date": "2026-08-31",
+"quote": "The Ratepayer Protection Act preserves state and local control over data center projects while ensuring that hardworking Americans are not asked to pay for hundreds of millions of dollars in new generation, transmission, or distribution infrastructure costs.",
+"what_it_shows": "He wants data center companies, not ratepayers, to cover grid upgrade costs, and stresses state and local control."
+},
+{
+"type": "cosponsor",
+"title": "H.R.9340 Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Cosponsor of the main House bill to keep data center power costs off household electric bills."
+},
+{
+"type": "interview",
+"title": "Roll Call: Moore on Tucker County residents and the state data center law",
+"url": "https://rollcall.com/2026/08/12/data-centers-coming-is-congress-ready/",
+"date": "2026-08-12",
+"quote": "The locals aren't particularly happy because there's not local input. They can say something, but there's not an approval or disapproval process at the local level,",
+"what_it_shows": "He acknowledges constituents' loss of local control under the state microgrid law."
+},
+{
+"type": "interview",
+"title": "Roll Call: Moore on why the state expedited data centers",
+"url": "https://rollcall.com/2026/08/12/data-centers-coming-is-congress-ready/",
+"date": "2026-08-12",
+"quote": "Part of that reasoning was the critical nature of data centers and the AI race between us and China, and the necessity to expedite these projects, which I certainly can understand.",
+"what_it_shows": "He accepts the case for fast-tracking data centers even while relaying local frustration; his office had not been in contact with the opposition group Tucker United."
+},
+{
+"type": "statement",
+"title": "Press release: Moore applauds DOE selection of TerraSpark Energy Campus coal plant",
+"url": "https://rileymoore.house.gov/media/press-releases/congressman-riley-m-moore-applauds-doe-selection-terraspark-energy-campus",
+"date": "2026-06-05",
+"quote": "As electricity demand continues to rise from advanced manufacturing, artificial intelligence, and data center development, projects like TerraSpark will help ensure the United States has the reliable baseload power necessary to remain globally competitive",
+"what_it_shows": "He champions new coal-fired generation explicitly to power the AI and data center buildout."
+},
+{
+"type": "vote",
+"title": "House roll call 356: H.R. 4776 SPEED Act permitting reform (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for the NEPA permitting overhaul backers tie to building power for AI data centers."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "No statements on AI safety rules were found. He frames AI as a race with China, and the AI industry super PAC Leading the Future named him one of its first House GOP Champions in April 2026, describing the group as members who have engaged with the industry. That points to a light-touch, innovation-first posture, but he has not said so directly.",
+"evidence": [
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC releases list of House GOP Champions, including Riley Moore",
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"date": "2026-04-16",
+"quote": "We're proud to support these conservative leaders who understand the importance of keeping the United States the global leader in AI innovation.",
+"what_it_shows": "The industry-funded AI super PAC backs him as an ally of its innovation-first agenda."
+},
+{
+"type": "interview",
+"title": "Roll Call: Moore frames data centers around the AI race with China",
+"url": "https://rollcall.com/2026/08/12/data-centers-coming-is-congress-ready/",
+"date": "2026-08-12",
+"quote": "Part of that reasoning was the critical nature of data centers and the AI race between us and China, and the necessity to expedite these projects, which I certainly can understand.",
+"what_it_shows": "His AI framing is competition with China rather than safety risk."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His only located tech-regulation action is cosponsoring the Connected Vehicle Security Act banning Chinese-linked connected car technology. No statements found on kids online safety, Section 230, privacy or antitrust.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-06-23",
+"quote": null,
+"what_it_shows": "Backs banning Chinese and other adversary-linked connected car technology, a targeted national security rule on tech."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement, letter or bill found on preempting state AI laws, the Dec 2025 executive order, or the March 2026 White House framework. His Ratepayer Protection Act statement praises preserving state and local control over data center projects, but that concerns utility and siting rules, not AI laws.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "He calls data centers part of the AI race between us and China and cosponsors the Connected Vehicle Security Act, but no statement was found on AI chip export controls, the Chip Security Act, or Nvidia sales to China.",
+"evidence": []
+}
+},
+"search_notes": "Ran 9 helper searches (AI/congressman, data centers/ratepayer, AI China/chips/Nvidia, Tucker County/Ridgeline/Fundamental Data, Big Tech/Section 230/KOSA/chatbot/deepfake, exact-phrase artificial intelligence, Walz AI video) plus a site listing of rileymoore.house.gov (5 archived URLs) and a scan of his press release index. Opened and read: his Aug 31 2026 Ratepayer Protection Act release (matches the WVDN reprint word for word), June 2026 TerraSpark coal plant release, Roll Call Aug 2026, Breitbart April 2026 Leading the Future list, govtrack roll call 356. Leading the Future (Republican arm American Mission PAC) confirmed him on its first House GOP Champions list. Press coverage from Sept 2025 says he shared an AI-faked Tim Walz video believing it real; the Daily Beast and AFP pages could not be opened so it is not included as evidence. His 2026 tech-adjacent fights (Xbox CEO, H-1B, OPT) are about immigration, not AI policy. Nothing found on chips export controls, state AI preemption, or kids online safety."
+}
+]

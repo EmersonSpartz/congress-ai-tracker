@@ -1,0 +1,263 @@
+[
+{
+"bioguide": "M001153",
+"checks": [
+{
+"url": "https://www.murkowski.senate.gov/press/release/murkowski-cortez-masto-shaheen-introduce-bipartisan-legislation-to-strengthen-electric-grid-security",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-24",
+"note": "Fetched via Wayback (2026-04-21 capture) and re-read live in browser. Quote appears verbatim in Murkowski's paragraph. Page never mentions data centers; only Cortez Masto's quote references 'Expanding AI use and increased electrification' driving grid demand, exactly as the claim states. Bill text does list 'risks posed by increasing grid demand' as a required SESP element, so it is adjacent to demand growth but not data-center-specific."
+},
+{
+"url": "https://www.murkowski.senate.gov/press/release/murkowski-klobuchar-introduce-bipartisan-legislation-to-require-transparency-in-political-ads-with-ai-generated-content",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-06",
+"note": "Direct fetch returned 403 and Wayback refused connections during this session (also 429-limited), so the verbatim check was done by loading the live page in the browser pane. Quote is verbatim (followed by ' – something I think we can all agree we'd like to know,' said Murkowski). Page dated 03.06.24. Bill requires disclaimers only when AI is used substantially, with exemptions for minor edits; supports the 'targeted transparency rule' claim."
+},
+{
+"url": "https://www.techtimes.com/articles/323240/20260805/senate-unanimously-advances-kosa-duty-care-screen-act-collapses-quorum.htm",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-05",
+"note": "Quote is verbatim. Article names S. 5171 as introduced by Sens. Duckworth and Murkowski and lists it among 'three AI-focused children's safety bills advanced out of committee Wednesday' (Aug 5, 2026 Senate Commerce markup). Note the bill is a study plus federal action plan, not a direct regulatory mandate."
+},
+{
+"url": "https://www.eenews.net/articles/senate-bill-would-boost-does-work-on-artificial-intelligence/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-07-11",
+"note": "Quote verbatim in the E&E News lede (07/11/2024). Article describes the Department of Energy AI Act as using the 17 national labs to develop AI and streamline permitting. Page is a paywalled teaser (~2,300 chars) but the visible text supports the claim. The 'narrow rules rather than sweeping restrictions' framing is the tracker's inference; the article does not discuss regulation."
+},
+{
+"url": "https://www.murkowski.senate.gov/press/release/murkowski-blasts-big-brother-surveillance-of-civilians-backs-bill-to-restore-privacy-rights",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2015-05-04",
+"note": "Direct fetch 403 and Wayback unreachable this session; verbatim check done via the live page in the browser pane. Quote is verbatim, closing her quoted paragraph. Page dated 05.04.15 and is entirely about NSA/PATRIOT Act Section 215 government surveillance (USA FREEDOM Act cosponsorship); no reference to tech companies, as the claim concedes."
+},
+{
+"url": "https://www.murkowski.senate.gov/press/release/murkowski-klobuchar-introduce-bipartisan-legislation-to-require-transparency-in-political-ads-with-ai-generated-content",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-06",
+"note": "Same page as item 2; quote verbatim, attributed to Murkowski. Suitable as headline quote."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The only tech_regulation source is a 2015 press release about NSA bulk phone-record collection under the PATRIOT Act. It concerns limits on government surveillance, not rules for technology companies, and the claim text itself acknowledges this. Nothing in the checked sources shows her position on regulating Big Tech (no KOSA vote, no antitrust, no platform/privacy-for-companies action attributed to her). Evidence is too thin to place her at -1; either add a source that actually concerns tech companies (e.g., her KOSA cosponsorship or Commerce vote, if it exists) or leave the dimension unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "S001198",
+"checks": [
+{
+"url": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-touts-alaska-comeback-historic-opportunities-in-annual-address-to-legislature/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-18",
+"note": "Site returns 403 to scripted fetches; retrieved via Wayback id_ snapshot. Quote appears verbatim in the transcript, followed by: 'This will help our military. It will help increase domestic demand for our gas and lower the costs of building and financing the pipeline. And, just yesterday, the Air Force, at my strong urging, put out a request for information on doing this in Alaska for data centers.' Release dated 02.18.26 (address to Legislature in Juneau)."
+},
+{
+"url": "https://mustreadalaska.com/sullivan-speaks-on-really-significant-progress-for-alaska-lng-project/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Direct fetch 200. Quote verbatim; he says his team is working with DoD on federal data centers on military bases and pitches Alaska. Page dated 2026-01-15."
+},
+{
+"url": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-secures-56-provisions-historic-26-billion-for-alaska-in-fy-2027-defense-authorization",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "403 to scripts and Wayback offline; read the live page in the user's Chrome. Bullet verbatim, continuing: 'To guarantee that these facilities do not compromise local utility needs, this legislation mandates that DOW conduct rigorous grid impact assessments... before executing or renewing any Enhanced Use Lease (EUL)'. Note this is the SASC-reported FY2027 NDAA (18-9 committee vote), not enacted law. Page shows no date in the extracted text."
+},
+{
+"url": "https://www.newsweek.com/ai-data-center-war-where-democrats-republicans-in-key-senate-races-stand-12354265",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-22",
+"note": "Direct fetch 200. Quote verbatim. Article says data centers 'have not dominated the Alaska race... but the issue is present' and contrasts him with Peltola; race described as within margin of error. Published 2026-08-22."
+},
+{
+"url": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-commerce-committee-advance-legislation-to-protect-youth-online-demand-accountability-from-big-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Read live page via Chrome (403 to scripts, Wayback offline). Quote verbatim. Page says he 'yesterday voted... to advance four pieces of legislation related to the safety of youth online, including KOSA'; the exact markup date (Aug 5, 2026) is not printed in the extracted text but is consistent with the Aug 6 Tech Policy Press report. Note this is a kids-online-safety item; only indirectly about AI risk."
+},
+{
+"url": "https://www.techpolicy.press/senate-committee-advances-four-bills-aimed-at-protecting-children-online/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-06",
+"note": "Direct fetch 200. Quote verbatim. Page confirms he withdrew the amendment 'after committee leaders said they wanted to advance a clean version of the Kids Online Safety Act' and that the committee also advanced the CHATBOT Act (parental consent before minors create accounts). AI toy bill not in the grep window but the article covers four bills. Published 2026-08-06."
+},
+{
+"url": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-legislation-to-increase-mental-health-awareness-and-resources-on-social-media-passes-senate",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-31",
+"note": "Retrieved via Wayback snapshot. Quote verbatim. Page: 'celebrated the unanimous Senate passage of the ADS for Mental Health Services Act... requiring platforms to report on their targeted ads and encouraging them to dedicate a portion of advertising to mental health public service announcements'. Dated 03.31.26."
+},
+{
+"url": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-commerce-committee-advance-legislation-to-protect-youth-online-demand-accountability-from-big-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Same page as item 5, read via Chrome. Quote verbatim; he frames the bills as 'reasonable accountability safeguards' against Big Tech and urges the House to pass them."
+},
+{
+"url": "https://www.sullivan.senate.gov/newsroom/press-releases/-icymi_sullivan-presses-for-crucial-hearing-on-tiktok-influence-as-congress-weighs-ban",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-01-11",
+"note": "Read live page via Chrome. Quote verbatim (from his letter, quoted in the Washington Examiner excerpt). Letter to Cantwell and Cruz asks for a hearing on 'persistent privacy issues, national security concerns, and troubling influence' over children. Letter/story dated January 11, 2023."
+},
+{
+"url": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-touts-alaska-comeback-historic-opportunities-in-annual-address-to-legislature/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-18",
+"note": "Same page as item 1; quote verbatim in the Feb 18, 2026 address transcript."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the ten sources addresses semiconductor export controls or chip sales. The only China-related evidence is TikTok hawkishness (2023 letter) and an NDAA provision requiring defense contractors to report China exposure, which supports a general hawkish lean but not the strongest 'Tighten export controls' position. Evidence is too thin for -2.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+},
+{
+"dimension": "ai_risk",
+"objection": "Both ai_risk items are kids-online-safety markups (KOSA, CHATBOT Act, AI toy bill) where he voted to advance the package; nothing shows him speaking to frontier-AI or general AI risk. -1 'Targeted guardrails' is defensible via the CHATBOT Act vote, but the evidence is indirect and the score should be flagged as low-confidence rather than changed.",
+"suggested_score": -1,
+"suggested_label": "Targeted guardrails"
+}
+]
+},
+{
+"bioguide": "B001323",
+"checks": [
+{
+"url": "https://begich.house.gov/media/press-releases/congressman-begich-leads-legislation-lower-energy-costs-introduces-house",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-21",
+"note": "Quote appears verbatim in Begich's statement. Release confirms House companion to Cotton's DATA Act, 'grid-of-one' self-contained power, framed as protecting households from subsidizing new load. Bill number H.R. 8400 is not stated on the page but the rest of the claim is supported."
+},
+{
+"url": "https://begich.house.gov/media/op-eds/how-alaska-can-use-our-energy-advantage-capitalize-ai-gold-rush",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-04-23",
+"note": "Quote is verbatim. Op-ed does cite stranded natural gas/energy assets, available land, rural siting and straightforward permitting, and warns against regulating too early. However it never mentions Alaska's cool climate; that detail comes from the Cato blog, not this op-ed."
+},
+{
+"url": "https://www.politico.com/news/2026/02/27/congress-data-centers-trump-00802072",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Politico returns 403 to direct fetch, curl, and WebFetch; Wayback holds only 402/403 captures and archive.ph presents a CAPTCHA. Could not verify the quote or the incentivize-vs-mandate characterization."
+},
+{
+"url": "https://www.cato.org/blog/discussing-ai-policy-house-rep-begich",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-31",
+"note": "Live page is Incapsula-blocked; verified via Wayback snapshot (2026-04-14). Quote verbatim. Page says host pressed him on local opponents and he 'is confident that Alaska's unique approach to resource-related governance may mitigate some of those concerns.' Also cites energy, water, and cool temperatures."
+},
+{
+"url": "https://begich.house.gov/media/press-releases/congressman-begich-applauds-house-passage-speed-act",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Quote verbatim; page confirms he is 'a proud co-sponsor' of H.R. 4776 and applauded passage. But the release never mentions data centers or power plants; that tie-in is the tracker's inference (release cites infrastructure, energy development, critical minerals)."
+},
+{
+"url": "https://americanbazaaronline.com/2025/04/25/congressman-nick-begich-discusses-the-future-of-ai-regulation-462186/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-25",
+"note": "Quote verbatim. Page also carries: 'until (…) international standards (are) achieved, we cannot slow down on the development of AI' and 'Without global agreement, the only defense we have is speed.'"
+},
+{
+"url": "https://americanbazaaronline.com/2025/04/25/congressman-nick-begich-discusses-the-future-of-ai-regulation-462186/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-25",
+"note": "Quote verbatim; page adds he 'stressed the importance of \"personhood validation\"' for agentic AI and discussed liability."
+},
+{
+"url": "https://bitcoinmagazine.com/news/nick-begich-selling-its-bitcoin",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-17",
+"note": "Quote verbatim (it is the reporter's paraphrase, not a direct Begich quote). Page: he 'cited the logic behind keeping nuclear and certain biotechnology research restricted — some asymmetric risks, once released, cannot be contained' and argued full open-sourcing of frontier/post-AGI models hands bad actors unbounded harm."
+},
+{
+"url": "https://www.cato.org/blog/discussing-ai-policy-house-rep-begich",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-31",
+"note": "Verified via Wayback snapshot. Quote verbatim; page also says 'if the US falls even slightly behind on AI progress, those losses may quickly compound.'"
+},
+{
+"url": "https://begich.house.gov/media/press-releases/congressman-begich-leads-legislation-lower-energy-costs-introduces-house",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-21",
+"note": "Quote verbatim, opening line of his statement."
+},
+{
+"url": "https://www.cato.org/blog/discussing-ai-policy-house-rep-begich",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-31",
+"note": "Verified via Wayback snapshot. Quote verbatim; host's takeaway is 'states row in the same direction rather than attempt to lay their own anchors.' Note the national-priority framing is partly the host's ('we both expressed')."
+},
+{
+"url": "https://americanbazaaronline.com/2025/04/25/congressman-nick-begich-discusses-the-future-of-ai-regulation-462186/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-04-25",
+"note": "Quote verbatim, but he is talking about globally harmonized rules across countries, not federal preemption of U.S. states. Inferring a national-preemption stance from it is a stretch; the Cato item is the better preemption source."
+},
+{
+"url": "https://bitcoinmagazine.com/news/nick-begich-selling-its-bitcoin",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-17",
+"note": "Quote verbatim (reporter paraphrase). Page: China's open-source strategy is 'a way to undermine the investment case for American AI development and collapse the domestic ecosystem from the outside.' Nothing on chips or export controls."
+},
+{
+"url": "https://begich.house.gov/media/op-eds/how-alaska-can-use-our-energy-advantage-capitalize-ai-gold-rush",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-23",
+"note": "Quote verbatim."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the sources address semiconductor export controls or chip sales. The only China evidence is his view that China's open-source model releases are an economic weapon against U.S. AI investment. That is hawkish rhetoric about China's AI strategy, not a position on chip export policy; evidence is too thin to place him on this scale.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "Sources show a light-touch default ('cannot slow down', 'careful not to hamstring', colleagues should experiment before regulating), but also concrete pro-guardrail positions: he opposes fully open-sourcing frontier/post-AGI models by analogy to restricted nuclear and biotech research, calls for 'personhood validation' and liability rules for agentic AI, and says 'We need to have an effective set of regulations.' That mix reads closer to Mixed than pure Light touch.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+}
+]

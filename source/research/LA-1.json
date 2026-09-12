@@ -1,0 +1,698 @@
+[
+{
+"bioguide": "C001075",
+"name": "Bill Cassidy",
+"signature": "HELP Chairman focused on kids' online privacy (lead sponsor of COPPA 2.0), AI in health care, and blocking Chinese AI like DeepSeek from federal work; lost his May 2026 primary and leaves in January 2027.",
+"notable_quote": {
+"text": "AI is a powerful tool which can be used to enhance things like medicine and education. But in the wrong hands, it can be weaponized. By feeding sensitive data into systems like DeepSeek, we give China another weapon",
+"url": "https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-rosen-introduce-legislation-to-protect-sensitive-federal-data-from-deepseek-adversarial-ai-technologies",
+"date": "2025-05-07"
+},
+"groups": [
+"Senate Committee on Health, Education, Labor, and Pensions (Chairman, 119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. We searched news and his official site for comments on Meta's Richland Parish project, Entergy's gas plants, electricity bills, and the Ratepayer Protection Act, and found none. A June 2026 E&E News interview says he discussed data center politics, but the text is behind a paywall.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Cassidy backs targeted AI rules, mostly for kids and health data: he cosponsored the TAKE IT DOWN and NO FAKES Acts, wrote a bill to ban chatbots that simulate minors in sexual conversations, and said consumer safeguards are needed for health data fed into AI tools. He talks about AI's promise in medicine and education rather than catastrophic risk.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.146, the TAKE IT DOWN Act (now law)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "He supported making it a crime to post AI-faked intimate images and forcing fast takedowns."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.4591, the NO FAKES Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4591",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "He backs a legal right to stop unauthorized AI copies of a person's voice or face."
+},
+{
+"type": "other",
+"title": "Bill summary: Cassidy introduces S.4678, the Stopping Illegal Minor Simulations (SIMS) Act",
+"url": "https://www.quiverquant.com/news/New+Bill%3A+Senator+Bill+Cassidy+introduces+S.+4678%3A+Stopping+Illegal+Minor+Simulations+Act",
+"date": "2026-06-16",
+"quote": null,
+"what_it_shows": "His bill would make it illegal to offer a chatbot that simulates a minor in sexually explicit conduct or conversation, a targeted chatbot rule."
+},
+{
+"type": "hearing",
+"title": "Nextgov: Cassidy questions HHS on health data uploaded to AI tools at a HELP hearing",
+"url": "https://www.nextgov.com/policy/2026/03/lawmakers-raise-questions-about-security-health-data-shared-ai-tools/411931/",
+"date": "2026-03-06",
+"quote": "Who's liable? Who gets to use the data that flows from it that might be for financial gain? What are the privacy issues? Have you all thought about these issues?",
+"what_it_shows": "He said 'I do think there's some consumer safeguards that should be implemented' for AI use of health data, while praising AI's promise in medicine."
+},
+{
+"type": "hearing",
+"title": "Chair Cassidy opening remarks, HELP hearing on health care technology and privacy",
+"url": "https://www.help.senate.gov/rep/newsroom/press/chair-cassidy-delivers-remarks-during-hearing-on-future-of-health-care-protecting-americans-health-privacy",
+"date": "2025-07-09",
+"quote": "Beyond cyberattacks that threaten Americans’ health, we must also harness the power of big, aggregate data and artificial intelligence, while preventing the misuse of patient data.",
+"what_it_shows": "He wants AI used in health care but with privacy protections and a modernized HIPAA."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.3063, the LIFE with AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3063",
+"date": "2025-10-28",
+"quote": null,
+"what_it_shows": "He also promotes AI adoption in schools, showing he is not anti-AI; the bill helps schools and families learn to use AI."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Cassidy is a leading Republican on kids' online privacy and safety. He was a main sponsor of COPPA 2.0, which passed the Senate in 2024, and cosponsors the Kids Online Safety Act, a platform transparency bill, and a health data privacy bill. His approach is targeted rules, not break-ups or repealing Section 230.",
+"evidence": [
+{
+"type": "statement",
+"title": "NOLA.com: Senate passes Cassidy's COPPA 2.0 restricting how social media targets youth",
+"url": "https://www.nola.com/news/politics/louisiana-senator-behind-historic-social-media-restrictions/article_e8d438b8-4eb2-11ef-af3d-af324d36a3dd.html",
+"date": "2024-07-30",
+"quote": "The internet is an integral part of children’s lives today. It is time our laws reflect this new reality.",
+"what_it_shows": "As a lead sponsor he pushed a law banning targeted ads to minors and expanding parental consent, and rejected Big Tech's First Amendment objections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.836, the Children and Teens' Online Privacy Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "He reintroduced the kids' privacy update in the 119th Congress."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1748, the Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-09",
+"quote": null,
+"what_it_shows": "He supports a duty of care for platforms toward children under 17."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.3292, the Platform Accountability and Transparency Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3292",
+"date": "2025-12-01",
+"quote": null,
+"what_it_shows": "He backs forcing big platforms to share data with independent researchers."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.3097, the Health Information Privacy Reform Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3097",
+"date": "2025-11-04",
+"quote": null,
+"what_it_shows": "His bill extends privacy protections to health data collected by apps and wearables outside HIPAA."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Cassidy voted with 98 other senators to strip the 10-year state AI-law moratorium from the 2025 tax bill, but that vote came after the deal collapsed and is not evidence of a view. We found no statements from him on the moratorium, the December 2025 executive order, or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 363: Yea on Blackburn amendment striking the state AI-law moratorium from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote to remove the moratorium; nearly every senator voted the same way, so this alone does not show opposition to preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Cassidy is hawkish on Chinese AI: he wrote a bill barring federal contractors from using DeepSeek, urged the Commerce Department in 2021 to blacklist Chinese AI suppliers to the PLA, and pressed for restrictions on Chinese connected-vehicle software. We found no statement on Nvidia H20 or H200 sales specifically.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor of S.1638, the Protection Against Foreign Adversarial Artificial Intelligence Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1638",
+"date": "2025-05-07",
+"quote": null,
+"what_it_shows": "His bill stops federal contractors from using DeepSeek and similar adversary AI on government work."
+},
+{
+"type": "statement",
+"title": "Press release: Cassidy, Rosen introduce bill to protect federal data from DeepSeek",
+"url": "https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-rosen-introduce-legislation-to-protect-sensitive-federal-data-from-deepseek-adversarial-ai-technologies",
+"date": "2025-05-07",
+"quote": "AI is a powerful tool which can be used to enhance things like medicine and education. But in the wrong hands, it can be weaponized. By feeding sensitive data into systems like DeepSeek, we give China another weapon",
+"what_it_shows": "He frames Chinese AI as a national security weapon."
+},
+{
+"type": "letter",
+"title": "Letter: Cassidy, Cotton and colleagues urge Commerce to blacklist companies supplying AI to the Chinese military",
+"url": "https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-cotton-colleagues-urge-biden-administration-to-blacklist-companies-that-provide-ai-technology-to-the-chinese-military",
+"date": "2021-11-16",
+"quote": "We further urge BIS to expeditiously review and then add all the PLA AI suppliers listed in the CSET report to the Entity List.",
+"what_it_shows": "He asked for tougher export controls on Chinese AI firms tied to the PLA."
+},
+{
+"type": "hearing",
+"title": "Press release: Cassidy raises national security concerns over Chinese technology at Senate Finance hearing",
+"url": "https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-raises-national-security-concerns-over-chinese-technology-supports-louisiana-fishermen-at-senate-finance-hearing",
+"date": "2026-02-13",
+"quote": "So should we have explicit restrictions on Chinese manufactured connected vehicle components and autonomous vehicle software?",
+"what_it_shows": "He pushed to keep CCP-linked autonomous vehicle software out of the US market through the USMCA review."
+}
+]
+}
+},
+"search_notes": "Searches: 'Bill Cassidy artificial intelligence'; 'Cassidy Louisiana data center'; 'Cassidy chatbot OR deepfake'; 'Cassidy state AI laws OR moratorium OR preemption'; 'Cassidy AI white paper HELP'; 'Cassidy Kids Online Safety Act'; 'Cassidy Nvidia OR H20 OR chips to China'; 'Cassidy AI jobs workforce'; 'Cassidy Meta Richland OR Entergy'; 'Cassidy HELP hearing artificial intelligence'; 'Cassidy data centers grid demand'; 'Cassidy SIMS Act chatbot'; plus site listings of cassidy.senate.gov and help.senate.gov. Opened: DeepSeek release, 2021 Cotton letter, Finance hearing release, HELP privacy hearing remarks (July 2025), Nextgov hearing story (March 2026), NOLA.com COPPA story (2024), Quiver S.4678 summary, E&E Q&A (paywalled). Blocked (403, Wayback refused connections): Cassidy's Sept 10, 2025 HELP hearing remarks on 'AI's Impact on American Families, Workers', COPPA 2.0 committee passage and Google endorsement releases, TAKE IT DOWN passage release, KOSA reintroduction release, Columbia Business School interview, BNN Bloomberg July 2026 clip on AI and jobs. No data center statements exist that we could find."
+},
+{
+"bioguide": "K000393",
+"name": "John Kennedy",
+"signature": "Blunt critic of the AI industry's data center pitch ('high IQ stupid people'), a China chip hawk who refused to meet Nvidia's CEO, and a backer of AI labeling, facial recognition limits, and kids' online safety bills.",
+"notable_quote": {
+"text": "The people who have developed AI are very, very smart. But they're high IQ stupid people. You might let them tutor you. But you wouldn't want them to date your sister. They're terrible marketers.",
+"url": "https://www.yahoo.com/news/politics/articles/sen-john-kennedy-americans-arent-130000870.html",
+"date": "2026-09-06"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Kennedy is critical of how the AI industry has built data centers. On Meet the Press in September 2026 he rejected Trump's line that opponents want to be 'backwards and poor' and said the industry must cut water use, supply its own power, stop demanding tax subsidies, and be honest with the public before it deserves support. He does not call for a pause, but he wants communities and ratepayers protected first.",
+"evidence": [
+{
+"type": "interview",
+"title": "Meet the Press transcript (via RealClearPolitics/Yahoo): Kennedy lists five things data centers must do to win support",
+"url": "https://www.yahoo.com/news/politics/articles/sen-john-kennedy-americans-arent-130000870.html",
+"date": "2026-09-06",
+"quote": "First, they're going to have to stop using so much water. Go to a closed-loop system. Number two, they're going to have to provide their own energy.",
+"what_it_shows": "He wants data centers to bear their own water and power burdens instead of shifting them to communities and the grid."
+},
+{
+"type": "interview",
+"title": "Meet the Press transcript: Kennedy on tax subsidies for data centers",
+"url": "https://www.yahoo.com/news/politics/articles/sen-john-kennedy-americans-arent-130000870.html",
+"date": "2026-09-06",
+"quote": "Number four, they're going to have to stop going into these states and demanding all these tax subsidies and, and, and demanding all the tax breaks. They're all rich.",
+"what_it_shows": "He opposes state tax breaks for data center developers and, asked if he agreed with Trump's 'backwards and poor' remark, answered 'No.'"
+},
+{
+"type": "interview",
+"title": "Politico (via Yahoo): Kennedy rails against AI developers as 'high IQ stupid people'",
+"url": "https://www.yahoo.com/news/politics/articles/sen-kennedy-rails-against-ai-175209128.html",
+"date": "2026-09-06",
+"quote": "American people look at it; they're not stupid. They get it. They think, well, AI could make our lives better if it doesn't take our jobs and kill us all first",
+"what_it_shows": "He blames the industry, not voters, for the data center backlash and says it has 'work to do to rebuild momentum among voters.'"
+},
+{
+"type": "interview",
+"title": "Washington Examiner: Kennedy knocks AI executives' messaging failures",
+"url": "https://www.washingtonexaminer.com/policy/technology/4715684/john-kennedy-knocks-ai-messaging-failures/",
+"date": "2026-09-07",
+"quote": null,
+"what_it_shows": "Confirms the Meet the Press remarks and frames them as blaming AI executives for the growing backlash against the industry."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Kennedy supports specific guardrails: he cosponsored the AI Labeling Act to require disclosure of AI-made content, the FAIRR Act on AI risks in finance, and a bill to let travelers refuse facial scans at airports. At the 2023 Altman hearing he demanded witnesses name concrete rules Congress should pass. He has not called for licensing or a pause.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Transcript: Senate Judiciary subcommittee hearing on oversight of AI (Altman, Marcus, Montgomery)",
+"url": "https://www.techpolicy.press/transcript-senate-judiciary-subcommittee-hearing-on-oversight-of-ai/",
+"date": "2023-05-16",
+"quote": "Please tell me in plain English, two or three reforms, regulations, if any, that you would, you would implement if you were queen or king for a day.",
+"what_it_shows": "He pressed witnesses for specific AI rules and said 'this is your chance, folks to tell us how to get this right,' showing openness to regulation while warning Congress does not understand AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.2691, the AI Labeling Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2691",
+"date": "2023-07-27",
+"quote": null,
+"what_it_shows": "He co-led with Sen. Schatz a bill requiring AI-made images, video, audio and text to carry clear labels and chatbots to disclose they are AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.5358, the FAIRR Act (2026)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5358",
+"date": "2026-08-06",
+"quote": null,
+"what_it_shows": "He wants financial regulators to identify and reduce risks from AI used by banks and Wall Street; he also cosponsored the 2023 version."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1691, the Traveler Privacy Protection Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1691",
+"date": "2025-05-08",
+"quote": null,
+"what_it_shows": "He backs limits on TSA facial recognition, requiring consent and an opt-out."
+},
+{
+"type": "interview",
+"title": "Music Business Worldwide: Senators revive AI Labeling Act first introduced by Schatz and Kennedy",
+"url": "https://www.musicbusinessworldwide.com/us-senators-revive-bill-to-force-ai-generated-audio-video-and-images-to-carry-labels/",
+"date": "2026-06-30",
+"quote": null,
+"what_it_shows": "Reports the AI Labeling Act 'was first introduced in 2023 by Schatz and Republican Senator John Kennedy of Louisiana'; Kennedy is not listed on the 2026 reintroduction."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Kennedy has a long record of targeted Big Tech bills: the Kids Online Safety Act, STOP CSAM, the EARN IT Act stripping Section 230 protection for child abuse material, and a bill making Google and Facebook pay news outlets. He grilled judicial nominees on Section 230 in 2026. His bills chip at platform immunity rather than repeal it outright.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1748, the Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-07-31",
+"quote": null,
+"what_it_shows": "He supports a duty of care for social media toward minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1829, the STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2025-09-18",
+"quote": null,
+"what_it_shows": "He backs letting victims sue platforms that fail to remove child sexual abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1207, the EARN IT Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1207",
+"date": "2023-04-19",
+"quote": null,
+"what_it_shows": "He supported removing platforms' Section 230 shield when they let child abuse material spread."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1094, the Journalism Competition and Preservation Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1094",
+"date": "2023-03-30",
+"quote": null,
+"what_it_shows": "He backed letting news outlets bargain collectively against Google and Facebook."
+},
+{
+"type": "hearing",
+"title": "Economic Times video: Kennedy questions judicial nominees on Section 230",
+"url": "https://m.economictimes.com/news/international/world-news/you-sound-an-awful-lot-like-a-lawyer-sen-kennedy-torches-judge-nominee-over-section-230/videoshow/131664495.cms",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "Reporter says he pressed nominees on Section 230 and 'Big Tech's role in moderating online speech,' a recurring theme for him."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Kennedy voted with 98 colleagues to strip the state AI-law moratorium from the 2025 tax bill, but that vote followed the collapse of the Cruz-Blackburn deal and is not a statement of view. We found no remarks from him on the moratorium, the December 2025 executive order, or the March 2026 framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 363: Yea on Blackburn amendment striking the state AI-law moratorium from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote; because nearly every senator voted Yea, this is not evidence of opposing preemption."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Kennedy is a hard-liner on chip exports to China. He demanded in 2024 that Commerce stop the smuggling of Nvidia chips into China, skipped Jensen Huang's December 2025 pitch to Republicans and called him not a credible source on selling chips to China, cosponsored the Chip Security Act, and wrote a bill to raise export control fines.",
+"evidence": [
+{
+"type": "statement",
+"title": "AP: Kennedy skips Nvidia CEO Jensen Huang's meeting with Republican senators",
+"url": "https://apnews.com/article/ai-nvidia-jensen-huang-computer-chips-691556d07fc35364903eab25e428a285",
+"date": "2025-12-04",
+"quote": "I don’t consider him to be an objective, credible source about whether we should be selling chips to China",
+"what_it_shows": "He publicly rejected Nvidia's lobbying for looser China chip sales."
+},
+{
+"type": "letter",
+"title": "Press release: Kennedy urges Commerce to stop the flow of advanced AI chips to China",
+"url": "https://www.kennedy.senate.gov/public/2024/7/kennedy-urges-biden-admin-to-stop-transport-of-advanced-ai-microchips-to-china-over-security-threat",
+"date": "2024-07-08",
+"quote": "despite the Commerce Department’s efforts to keep advanced microchips out of Chinese hands, it appears that the steady flow of advanced microchips into China continues. That flow must stop",
+"what_it_shows": "He wants export controls on Nvidia-class chips enforced hard against smuggling networks."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1705, the Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2026-04-27",
+"quote": null,
+"what_it_shows": "He backs location verification on exported AI chips so they cannot be diverted to China."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.4883, a bill to increase civil penalties under the Export Control Reform Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4883",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "His bill raises fines on companies that break export control rules on sensitive technology."
+}
+]
+}
+},
+"search_notes": "Searches: 'John Kennedy senator artificial intelligence'; 'Kennedy Louisiana data center'; 'Kennedy high IQ AI'; 'John Kennedy Nvidia OR export controls OR Chip Security'; 'Kennedy AI moratorium OR preemption OR state laws'; 'Kennedy Chip Security Act OR export control penalties'; 'John Kennedy Section 230 OR Big Tech OR TikTok'; 'Kennedy Meta Richland OR Entergy data centers'; 'Kennedy AI hearing Judiciary chatbot deepfake'; 'Kennedy Kids Online Safety Act'; 'Kennedy Lauren Daigle children online'; 'AMERICA Act Lee Kennedy'; plus kennedy.senate.gov site listings. Opened: Meet the Press transcript (RealClearPolitics via Yahoo), Politico story via Yahoo, Washington Examiner, AP Huang story, 2024 chip letter release, 2023 Judiciary hearing transcript, TechCrunch on Altman exchange, Economic Times Section 230 video page, Music Business Worldwide. Blocked (403, Wayback refused): Politico original, Benzinga, Kennedy's 2023 AI Labeling and FAIRR releases, 2025 facial recognition release, 2024 TSA oversight letter, 2023 AMERICA Act release, 2021 Don't Push My Buttons release, Sept 2025 Lauren Daigle kids-online release. The state context file listed Kennedy as a 'Congressional AI Caucus (House, UT-03)' member; that is a data error (he is a senator) and was dropped. No statement on preemption found."
+},
+{
+"bioguide": "S001176",
+"name": "Steve Scalise",
+"signature": "House Majority Leader driving the push to preempt state AI laws and defending data centers as a race with China (suggesting Chinese 'misinformation' is behind the backlash); endorsed by the Leading the Future super PAC.",
+"notable_quote": {
+"text": "As we see abuses (of AI) we will make sure we address them, but you also don't want to limit innovation",
+"url": "https://www.nola.com/news/politics/national_politics/louisiana-trump-congress-ai-regulations/article_066ce1c4-298a-4213-8ac8-53b7a7baada2.html",
+"date": "2026-08-07"
+},
+"groups": [
+"House Majority Leader (119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "medium",
+"summary": "Scalise celebrates data centers, pointing to Meta's Richland Parish project funding teacher bonuses, calls the fight 'a competition with China,' and says Republicans are investigating whether China is behind 'misinformation' against data centers. He says siting should stay a local choice. The top Energy and Commerce Democrat accused him and Speaker Johnson of refusing for weeks to bring up the Ratepayer Protection Act, which reports said leaders finally scheduled for a September 2026 floor vote.",
+"evidence": [
+{
+"type": "interview",
+"title": "Press release: Scalise on Fox Business, on the local benefits of data centers",
+"url": "https://scalise.house.gov/press-releases/scalise-democrats-socialist-agenda-means-higher-costs-for-american-families",
+"date": "2026-09-01",
+"quote": "This is a competition with China. Let's be clear about this. And we are investigating whether China is behind a lot of this misinformation, false information against data centers.",
+"what_it_shows": "He frames opposition to data centers as possibly China-driven misinformation and treats build-out as a national security race."
+},
+{
+"type": "interview",
+"title": "Press release: Scalise on Fox Business, siting is a local decision",
+"url": "https://scalise.house.gov/press-releases/scalise-democrats-socialist-agenda-means-higher-costs-for-american-families",
+"date": "2026-09-01",
+"quote": "Ultimately they're decided at the local level and if you want them in your community. And by the way, there are a lot of communities that do want them.",
+"what_it_shows": "He accepts local choice but sells the projects hard, citing a $50,000 teacher bonus in Richland Parish and a property tax cut in Loudoun County."
+},
+{
+"type": "statement",
+"title": "The Hill: Republicans clash over Trump's push for data centers amid China concerns",
+"url": "https://thehill.com/homenews/house/6062972-data-centers-republicans-trump-burchett/",
+"date": "2026-09-01",
+"quote": null,
+"what_it_shows": "Reports Scalise 'suggested China was behind the growing skepticism about data centers' while other Republicans like Burchett and Massie called for local control and regulation."
+},
+{
+"type": "other",
+"title": "Bloomberg Government: Top Energy panel Democrat slams GOP over data center bill",
+"url": "https://news.bgov.com/bloomberg-government-news/top-energy-panel-democrat-slams-gop-over-data-center-bill",
+"date": "2026-09-03",
+"quote": "Here on Capitol Hill, Speaker Johnson and Majority Leader Scalise have refused to bring up the Ratepayer Protection Act that passed unanimously out of this committee in July",
+"what_it_shows": "Rep. Pallone's charge that leadership stalled the ratepayer bill, citing 'concerns from Republican members'; a September floor vote was later reported."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "high",
+"summary": "Scalise takes a light-touch, beat-China view. He says Congress will address AI abuses as they appear but must not limit innovation, warns that government regulates industries 'to the point where they crush innovation,' and joined the March 2026 pledge to enact a national framework. His office did not say whether he backs the bipartisan Kill Switch bill.",
+"evidence": [
+{
+"type": "statement",
+"title": "NOLA.com: Louisiana waits to see how Trump, Congress will regulate AI",
+"url": "https://www.nola.com/news/politics/national_politics/louisiana-trump-congress-ai-regulations/article_066ce1c4-298a-4213-8ac8-53b7a7baada2.html",
+"date": "2026-08-14",
+"quote": "One thing government really likes to do a good job of is regulating to the point where they crush innovation, and you’ve seen that in a lot of industry",
+"what_it_shows": "Speaking Aug. 7, 2026, he said abuses would be addressed but innovation must not be limited; his spokesperson would not say whether he supports the Kill Switch bill."
+},
+{
+"type": "statement",
+"title": "Joint statement: Johnson, Scalise, Guthrie, Jordan, Babin on the White House national AI framework",
+"url": "https://www.speaker.gov/johnson-scalise-guthrie-jordan-babin-house-will-work-to-implement-national-ai-framework/",
+"date": "2026-03-20",
+"quote": "To ensure we continue to harness its potential and beat China in the global AI race, Congress must take action.",
+"what_it_shows": "He committed to legislation giving innovators 'much-needed certainty' while protecting kids, in line with the administration's light-touch framework."
+},
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC endorses Scalise in its second slate of House Republicans",
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"date": "2026-05-22",
+"quote": "Artificial intelligence has the potential to strengthen our economy and ensure America outcompetes China to remain the global leader in innovation.",
+"what_it_shows": "The Andreessen Horowitz and Brockman-funded pro-AI super PAC backs him; he said he looks forward to 'an AI agenda that provides much-needed certainty while protecting consumers.'"
+}
+]
+},
+"tech_regulation": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Scalise supported the 2026 KIDS Act and, as Whip, backed Republican Section 230 reform and app store transparency bills aimed at what he calls Big Tech censorship of conservatives. At the same time he warns against government over-regulating the tech industry and praises it as 'the fastest-growing industry in America.'",
+"evidence": [
+{
+"type": "statement",
+"title": "Speaker Johnson release: House passes KIDS Act, with Leader Scalise statement",
+"url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2913",
+"date": "2026-06-29",
+"quote": "Parents should be able to trust that their children are safe online. The KIDS Act takes a focused, commonsense approach to strengthening protections for minors, while giving families more tools to help keep their children safe",
+"what_it_shows": "He backed the House kids' online safety package, a targeted rule."
+},
+{
+"type": "statement",
+"title": "Press release: Scalise joins E&C Republicans in rolling out Big Tech accountability platform",
+"url": "https://scalise.house.gov/media/press-releases/scalise-joins-ec-republicans-rolling-out-next-phase-their-big-tech",
+"date": "2021-07-29",
+"quote": "would require app store operators like Google, Apple, and Amazon to annually submit a description of their app store conduct policies to the Federal Trade Commission",
+"what_it_shows": "His draft bill, prompted by the removal of Parler, was part of a package to reform Section 230 and add transparency; the focus was political bias, not consumer harm."
+},
+{
+"type": "interview",
+"title": "Press release: Scalise to Big Tech CEOs, save your documents (Fox & Friends)",
+"url": "https://scalise.house.gov/press-releases/Scalise-to-Big-Tech-CEOS%3A-Save-Your-Documents",
+"date": "2022-12-05",
+"quote": null,
+"what_it_shows": "He promised House investigations of platforms for suppressing conservative content, his main Big Tech grievance."
+},
+{
+"type": "statement",
+"title": "NOLA.com: Scalise on regulating the technology industry",
+"url": "https://www.nola.com/news/politics/national_politics/louisiana-trump-congress-ai-regulations/article_066ce1c4-298a-4213-8ac8-53b7a7baada2.html",
+"date": "2026-08-14",
+"quote": "As we see abuses (of AI) we will make sure we address them, but you also don't want to limit innovation",
+"what_it_shows": "Cuts the other way: he credits fast-moving tech for escaping regulation and calls it a top American industry."
+}
+]
+},
+"preemption": {
+"score": 2,
+"confidence": "high",
+"summary": "Scalise is one of the top champions of one national AI rule. He tried to attach a state-law moratorium to the December 2025 defense bill, said leaders would keep 'looking at other places' when that failed, backed Trump's December 2025 executive order against state laws, and signed the March 2026 leadership pledge to enact the White House framework, which calls for preemption.",
+"evidence": [
+{
+"type": "statement",
+"title": "The Hill: Scalise says GOP leaders 'looking at other places' for AI preemption as NDAA push stalls",
+"url": "https://thehill.com/policy/technology/5630709-ai-preemption-republican-leaders/",
+"date": "2025-12-02",
+"quote": "There’s still an interest in making sure that you don’t have states like California that wreck the ability to innovate in artificial intelligence, similar to what Europe did to wreck their innovation",
+"what_it_shows": "He wants federal law to block state AI rules he sees as a 'patchwork of limitations' on investment."
+},
+{
+"type": "statement",
+"title": "Broadband Breakfast: Scalise says no AI moratorium in the NDAA",
+"url": "https://broadbandbreakfast.com/scalise-no-ai-moratorium-in-national-defense-authorization-act/",
+"date": "2025-12-04",
+"quote": "If you can add it, that’s great, but that wasn’t the best place for this to fit",
+"what_it_shows": "He dropped the NDAA vehicle but said 'we're still looking at other places because there's still an interest.'"
+},
+{
+"type": "statement",
+"title": "Roll Call: With executive order, Trump moves to undo state AI laws",
+"url": "https://rollcall.com/2025/12/11/with-executive-order-trump-moves-to-undo-state-ai-laws/",
+"date": "2025-12-11",
+"quote": "codify some of the things the President is trying to do",
+"what_it_shows": "He supported the Dec. 11, 2025 executive order targeting state AI laws and left the door open for Congress to write it into law."
+},
+{
+"type": "statement",
+"title": "Joint statement: Johnson, Scalise, Guthrie, Jordan, Babin pledge to implement the national AI framework",
+"url": "https://www.speaker.gov/johnson-scalise-guthrie-jordan-babin-house-will-work-to-implement-national-ai-framework/",
+"date": "2026-03-20",
+"quote": "To ensure we continue to harness its potential and beat China in the global AI race, Congress must take action.",
+"what_it_shows": "He committed House Republicans to enact the White House framework, which calls for preempting state AI laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. We searched for Scalise statements on Nvidia H20 or H200 sales, the Chip Security Act, and export controls and found none. In August 2026 conservative groups wrote to him and Speaker Johnson urging chip-export safeguards in the FY2027 NDAA, but we found no response from him.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Scalise artificial intelligence'; 'Scalise data center'; 'Scalise state AI laws OR preemption OR AI framework'; 'Scalise ratepayer OR electricity bills'; 'Scalise Nvidia OR export controls OR chip China'; 'Scalise Ratepayer Protection Act House vote'; 'Scalise AI regulation innovation national framework'; 'Scalise Meta Richland OR Entergy'; 'Scalise AI moratorium Big Beautiful Bill'; 'Scalise Kill Switch OR AI safety'; 'Scalise Section 230 OR censorship Big Tech'; 'Ratepayer Protection Act House floor vote'; plus scalise.house.gov site listing. Opened: his Sept 1, 2026 Fox Business release, The Hill (Dec 2, 2025 and Sept 1, 2026), Broadband Breakfast, Roll Call (Dec 11, 2025), speaker.gov joint statement, Breitbart LTF endorsement, Johnson KIDS Act release, 2021 and 2022 Big Tech releases, Megyn Kelly 2021 release, Bloomberg Government (Sept 3, 2026), E&E News (March 23 and 27, 2026), NOLA.com (Aug 14, 2026), Quiver summary. Blocked: Punchbowl (Nov 17, 2025), Politico (Aug 26, Sept 2, Mar 27, 2026), Politico Pro (Sept 10, 2026 report that the House would vote on the ratepayer bill), AZCentral, American Compass coalition letter (TLS error). The September 2026 House floor vote on the Ratepayer Protection Act was seen only in headlines, so it is mentioned in the summary but not cited as evidence. No chip-export position of his own found."
+},
+{
+"bioguide": "C001125",
+"name": "Troy A. Carter",
+"signature": "Energy and Commerce Democrat who signed the 81-member letter against the state AI-law moratorium and a New Democrat letter seeking a national data center plan; backs requiring chatbots to tell children they are not human.",
+"notable_quote": {
+"text": "This bill doesn’t force state regulators to adopt any specific rate structure. It sets a federal standard for state utility commissions to consider, then use their own judgement to decide whether and how to apply it.",
+"url": "https://thehill.com/policy/technology/5983931-house-advances-ratepayer-protection-act/",
+"date": "2026-07-21"
+},
+"groups": [
+"Congressional Wi-Fi Caucus (co-chair)",
+"New Democrat Coalition (member)"
+],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Carter takes a balanced line. He signed a March 2026 New Democrat letter calling data center growth 'vital for America's economy' while asking the Energy Department for a national plan on grid reliability, consumer costs, and water. At the July 2026 markup he spoke for the Ratepayer Protection Act, stressing it does not dictate outcomes to Louisiana. We found no comment from him on Meta's Richland Parish project.",
+"evidence": [
+{
+"type": "letter",
+"title": "New Democrat Coalition letter to House appropriators requesting a National Strategic Data Center Plan (Carter signer)",
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"date": "2026-03-19",
+"quote": "Rapidly increasing demand for data centers, driven by cloud computing and AI, is vital for America's economy and competitiveness. However, this expansion strains electricity grids, land, water, and community infrastructure",
+"what_it_shows": "He wants managed growth: a DOE plan on electricity demand, consumer costs, water efficiency and geographic spread, not a pause."
+},
+{
+"type": "hearing",
+"title": "The Hill: Carter remarks at Energy and Commerce markup of the Ratepayer Protection Act",
+"url": "https://thehill.com/policy/technology/5983931-house-advances-ratepayer-protection-act/",
+"date": "2026-07-21",
+"quote": "This bill doesn’t force state regulators to adopt any specific rate structure. It sets a federal standard for state utility commissions to consider, then use their own judgement to decide whether and how to apply it.",
+"what_it_shows": "He supported the bill to keep data center power costs off household bills, framing it as a voluntary standard that respects Louisiana regulators; the committee passed it 52-0."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Carter favors targeted guardrails. He wrote a 2024 bill creating a CISA task force on AI safety and security, cosponsors a bill banning AI-made lies about voting before elections, and told NOLA.com in August 2026 he supports requiring chatbots to tell children they are not human and rules against AI abuse and deceptive AI content. He did not say whether he backs the Kill Switch bill.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Carter, Thompson introduce CISA Securing AI Task Force Act",
+"url": "https://troycarter.house.gov/media/press-releases/congressman-carter-thompson-introduce-cisa-securing-ai-task-force-act",
+"date": "2024-05-14",
+"quote": "I’m proud to introduce this bill, a critical step towards managing the impact of AI on our cybersecurity landscape",
+"what_it_shows": "His bill would set up a DHS task force on 'safe and secure design, development, adoption, and deployment of AI' with reports to Congress."
+},
+{
+"type": "statement",
+"title": "NOLA.com: Louisiana waits to see how Trump, Congress will regulate AI",
+"url": "https://www.nola.com/news/politics/national_politics/louisiana-trump-congress-ai-regulations/article_066ce1c4-298a-4213-8ac8-53b7a7baada2.html",
+"date": "2026-08-14",
+"quote": null,
+"what_it_shows": "Reporter says Carter issued a statement supporting rules requiring AI chatbots to disclose to children that they are not human, plus protections from AI abuse and AI-generated deception, but did not answer on the Kill Switch bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.4894, the Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "He backs banning AI-made false voting information in the two months before federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.7294, the AI for Secure Networks Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7294",
+"date": "2026-03-26",
+"quote": null,
+"what_it_shows": "He supports studying how AI can protect telecom networks, a pro-adoption bill that balances his guardrail stance."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.5077, the CREATE AI Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5077",
+"date": "2023-11-29",
+"quote": null,
+"what_it_shows": "He backed a national public computing resource so researchers, not just big companies, can build AI."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Carter supports targeted tech rules: he cosponsors the Connected Vehicle Security Act banning China-linked car software, backed the My Body, My Data reproductive privacy bill, and co-wrote bills to restore an FCC diversity council and defend US Wi-Fi spectrum interests against China. No Section 230 or antitrust positions found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.8730, the Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "He backs banning connected cars and car software made by companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "statement",
+"title": "Press release: Menendez, Matsui, Barragán, and Carter introduce Communications Equity and Diversity Council Act",
+"url": "https://menendez.house.gov/media/press-releases/-menendez-matsui-barragan-and-carter-introduce-legislation-compelling-fcc-to-re-establish-communications-equity-and-diversity-council",
+"date": "2026-03-16",
+"quote": "we must ensure that opportunity in the digital age reaches every community",
+"what_it_shows": "He co-led a bill forcing the FCC to restore an advisory council on the digital divide that the Trump administration dismantled."
+},
+{
+"type": "statement",
+"title": "Broadband Breakfast: Reps. Latta, Carter introduce Advancing American Wi-Fi Against Foreign Adversaries Act",
+"url": "https://broadbandbreakfast.com/reps-latta-carter-support-wi-fi-security-ahead-of-wrc-2027/",
+"date": "2026-06-08",
+"quote": null,
+"what_it_shows": "As Wi-Fi Caucus co-chair he wants a US government plan to counter China's spectrum push at the 2027 World Radiocommunication Conference."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.3420, the My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "He supported limits on apps collecting or sharing reproductive health data."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Carter signed the November 26, 2025 letter from 81 House Democrats opposing a state AI-law moratorium in the defense bill and Trump's planned executive order to override state AI laws. The letter called states 'laboratories of democracy' and said Congress should not freeze state safeguards when no federal protections exist. He was not on the separate December 2025 Clarke letter.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led House Democratic letter opposing an AI moratorium in the NDAA and a preemption executive order (Carter signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We write to express our strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws",
+"what_it_shows": "He joined 80 colleagues in telling Johnson, Thune, Jeffries and Schumer to let states keep enforcing their AI laws and not to use BEAD funds or an executive order to override them."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position on AI chip exports found. We searched for statements on Nvidia, H20 or H200 sales, the Chip Security Act and export controls and found none. His China-related work is on connected vehicles and Wi-Fi spectrum, not semiconductors.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Troy Carter artificial intelligence'; 'Troy Carter data center'; 'Troy Carter AI congressman Louisiana'; 'Troy Carter Big Tech OR Section 230 OR chatbot OR deepfake OR broadband'; 'Carter Ratepayer Protection Act Energy and Commerce'; 'Rep. Troy Carter artificial intelligence'; 'Troy Carter AI preemption OR state AI OR executive order'; 'Troy Carter deepfake OR Deceptive Practices'; 'Troy Carter KIDS Act OR Kids Online'; 'Carter Energy and Commerce hearing artificial intelligence'; 'Clarke letter AI executive order'; plus troycarter.house.gov site listing. Opened and parsed: New Democrat Coalition data center letter PDF (Carter confirmed as signer), Matsui letter PDF (Carter confirmed among signers), Clarke Dec 3, 2025 NDAA letter release (Carter NOT among the 44 signers), The Hill markup story, CISA AI Task Force release, Menendez FCC release, Broadband Breakfast Wi-Fi story, NOLA.com Aug 14, 2026 story. Blocked: Daily Energy Insider markup summary, Politico Pro. Could not find the roll call for the June 2026 KIDS Act House vote, so his vote is not recorded here. No statements found on Meta's Louisiana data center or on chip exports."
+}
+]

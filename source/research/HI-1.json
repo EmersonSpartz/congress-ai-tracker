@@ -1,0 +1,663 @@
+[
+{
+"bioguide": "H001042",
+"name": "Mazie K. Hirono",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Hirono has no press release on data centers, but at a July 2026 Senate Energy hearing she raised the risk that data centers' power use gets shifted onto regular customers' bills. The only evidence is a reporter's account of that remark.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Bloomberg Government: Senators press FERC on data center oversight (Senate Energy and Natural Resources hearing)",
+"url": "https://news.bgov.com/bloomberg-government-news/senators-press-energy-regulation-panel-on-data-center-oversight",
+"date": "2026-07-22",
+"quote": "Sen. Mazie Hirono (D-Hawaii) said that potential cost shifting of data centers' high energy use onto consumers has led to states curtailing data center projects",
+"what_it_shows": "This is the reporter's paraphrase, not her exact words, but it shows her concern at the FERC oversight hearing was about data center costs landing on ordinary ratepayers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Hirono backs targeted AI rules: testing automated systems for bias, banning AI discrimination, protecting people's voice and likeness from AI copies, and stopping AI deepfakes in elections. She also investigated a DOGE plan to replace Education Department call centers with an AI chatbot. She has not called for licensing or a pause.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Algorithmic Accountability Act of 2025 (S.2164)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2164",
+"date": "2025-06-25",
+"quote": null,
+"what_it_shows": "Supports making big companies test automated decision systems for bias and harm and report results."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Artificial Intelligence Civil Rights Act of 2025 (S.3308)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3308",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "Supports a ban on discriminatory uses of AI and required bias testing; she also cosponsored the 2024 version (S.5152)."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: NO FAKES Act of 2026 (S.4591)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4591",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "Supports a legal right to stop unauthorized AI copies of a person's voice or face; also cosponsored the 2025 version (S.1367)."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act of 2026 (S.4774)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4774",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "Supports rules against AI deepfakes that trick voters; she also cosponsored the Deceptive Practices and Voter Intimidation Prevention Act (S.2912)."
+},
+{
+"type": "letter",
+"title": "Press release: Hirono, Warren, Schumer open investigation into DOGE's AI chatbot plan for Education Department call centers",
+"url": "https://www.hirono.senate.gov/news/press-releases/hirono-warren-schumer-open-investigation-into-doges-ai-chatbot-plan-to-replace-education-department-call-centers",
+"date": "2025-04-02",
+"quote": "DOGE's proposal threatens to misinform borrowers and families, lead to data privacy breaches, and pose conflicts of interest arising from Elon Musk's financial stake in AI development",
+"what_it_shows": "She pressed the administration on AI chatbot hallucinations and data privacy before letting a chatbot replace human student aid staff."
+},
+{
+"type": "hearing",
+"title": "IPWatchdog: Senate Judiciary oversight hearing with the Copyright Office, where Hirono asked about AI and fair use",
+"url": "https://ipwatchdog.com/2026/05/13/senators-defend-copyright-office-independence-ai-executive-overreach-dominate-oversight-hearing/",
+"date": "2026-05-13",
+"quote": null,
+"what_it_shows": "Per the report, Hirono asked whether Congress should hold off on legislating AI fair use and let the courts develop case law, a cautious note on one AI copyright question."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "medium",
+"summary": "Hirono has a long record of backing tough rules on Big Tech: antitrust reform, the American Innovation and Choice Online Act, the EARN IT Act limiting platforms' legal shield, kids' online safety, and privacy for reproductive health data. At a 2024 hearing she told social media CEOs they cannot keep profiting off children while looking away from harm.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Hirono, colleagues reintroduce bipartisan legislation to boost competition and rein in Big Tech (American Innovation and Choice Online Act)",
+"url": "https://www.hirono.senate.gov/news/press-releases/hirono-colleagues-reintroduce-bipartisan-legislation-to-boost-competition-and-rein-in-big-tech",
+"date": "2023-06-22",
+"quote": "By holding online giants accountable, the American Innovation and Choice Online Act will help put an end to this distortion and foster a fair and open market where small businesses, entrepreneurs, and consumers can thrive.",
+"what_it_shows": "She co-led a bill to stop dominant platforms from favoring their own products, a core Big Tech competition measure."
+},
+{
+"type": "hearing",
+"title": "Press release: Hirono presses Big Tech executives to protect children online (Senate Judiciary hearing with Meta, X, TikTok, Snap and Discord CEOs)",
+"url": "https://www.hirono.senate.gov/news/press-releases/video-hirono-presses-big-tech-executives-to-protect-children-online",
+"date": "2024-01",
+"quote": "If you are going to continue to attract kids to your platforms, you have an obligation to ensure they are safe on those platforms.",
+"what_it_shows": "She framed platforms as profiting from children while failing to protect them, and tied them to trafficking and abuse material in Hawaii."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Competition and Antitrust Law Enforcement Reform Act of 2025 (S.130)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/130",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Supports making it harder for giant companies to merge; she also cosponsored the 2024 version (S.4308)."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: EARN IT Act of 2023 (S.1207)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1207",
+"date": "2023-04-19",
+"quote": null,
+"what_it_shows": "Supports removing platforms' legal shield when they let child abuse material spread."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (S.1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-09",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms toward minors; she also cosponsored KOSA in the 118th Congress (S.1409)."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: My Body, My Data Act of 2023 (S.1656)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1656",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Led a bill restricting how apps and companies collect and sell reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Preventing Algorithmic Collusion Act of 2025 (S.232)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/232",
+"date": "2025-01-23",
+"quote": null,
+"what_it_shows": "Supports banning shared pricing algorithms used to fix prices; she also backed the 2024 rental housing algorithm bill (S.3692)."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on whether Washington should override state AI laws. Hirono voted Yea on the 99-1 amendment that struck the 10-year moratorium on state AI laws, but nearly every senator did after the deal collapsed, so that vote alone does not show a position. She did not cosponsor the States' Right to Regulate AI Act or GUARDRAILS Act.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (Hirono voted Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "She joined the 99-1 vote to remove the moratorium, but with no accompanying statement this is not evidence of a stance on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searches for Hirono with Nvidia, H20 or H200 chips, export controls, or semiconductors and China turned up nothing beyond her 2022 vote for the CHIPS and Science Act, which is about domestic factories, not export limits.",
+"evidence": []
+}
+},
+"signature": "Judiciary Committee Democrat with a long Big Tech accountability record (antitrust, kids' safety, EARN IT) and steady cosponsorship of AI bias, deepfake and likeness bills; quiet on chips and preemption.",
+"notable_quote": {
+"text": "If you are going to continue to attract kids to your platforms, you have an obligation to ensure they are safe on those platforms.",
+"url": "https://www.hirono.senate.gov/news/press-releases/video-hirono-presses-big-tech-executives-to-protect-children-online",
+"date": "2024-01"
+},
+"groups": [],
+"search_notes": "Ran about 14 Google News searches (AI, data centers, chatbot/deepfake, Big Tech/Section 230/antitrust, Nvidia/export controls, KOSA, Judiciary AI/copyright hearings, electricity/ratepayers, FERC hearing, DOGE chatbot, TAKE IT DOWN/facial recognition, state AI laws/moratorium) plus two Wayback listings of hirono.senate.gov. hirono.senate.gov blocks direct fetches; several archived releases were read via the Wayback Machine, but the Wayback host began refusing connections partway through, so the 2025 algorithmic price-fixing release and the 2024 KOSA release could not be opened (their cosponsorships are in the record). The Daily Energy Insider and Bloomberg Government hearing writeups were paywalled; only the Bloomberg teaser sentence about Hirono was readable. No AI super PAC activity found. No caucus memberships confirmed."
+},
+{
+"bioguide": "S001194",
+"name": "Brian Schatz",
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Schatz has not taken a stand for or against building data centers. In a January 2026 floor speech he named AI data center load as one reason there are not enough electrons on the grid and bills are rising, but he blamed the Trump administration's limits on solar and wind, and his answer is more cheap clean power rather than limits on data centers.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release and floor speech: Schatz: Trump Is Intentionally Raising The Price Of Electricity",
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-trump-is-intentionally-raising-the-price-of-electricity",
+"date": "2026-01-14",
+"quote": "we've got all this AI data center load coming up ... There are not enough electrons on the grid. What happens when there's not enough of something? The people selling that thing raise the price.",
+"what_it_shows": "He treats AI data center demand as a real driver of higher bills but frames the fix as more solar and clean energy, not slowing data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Schatz is one of the Senate's most active Democrats on specific AI guardrails: labels on AI-made content, parental controls and limits on chatbots for kids, whistleblower protections, bias testing, and safety disclosures from frontier AI companies. He is also drafting an AI excise tax to fund worker retraining. He has not called for licensing or a pause on advanced AI.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: AI Labeling Act of 2026 (S.4915)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4915",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "His signature bill would require visible and machine-readable labels on AI-generated images, video, audio and text."
+},
+{
+"type": "statement",
+"title": "Press release: Schatz, Curtis, Warner introduce bipartisan legislation to provide more transparency on AI-generated content",
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-curtis-warner-introduce-bipartisan-legislation-to-provide-more-transparency-on-ai-generated-content",
+"date": "2026-06-25",
+"quote": "if any digital content is made by AI, it should be labeled so that people are aware and aren't fooled or scammed",
+"what_it_shows": "He wants a mandatory disclosure rule enforced by the FTC, citing deepfakes and AI voice-clone scams."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: CHATBOT Act (S.4407)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4407",
+"date": "2026-04-28",
+"quote": null,
+"what_it_shows": "Co-led with Sen. Cruz a bill requiring family accounts, default protective settings, parental consent and no targeted ads for kids on AI chatbots."
+},
+{
+"type": "statement",
+"title": "Press release: Schatz, Cruz introduce new bill to protect kids on AI chatbot platforms",
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-cruz-introduce-new-bill-to-protect-kids-on-ai-chatbot-platforms",
+"date": "2026-04-28",
+"quote": null,
+"what_it_shows": "The release says chatbots pose real risks to minors, including inappropriate content and addictive features, and that AI companies have used rewards and targeted ads to keep adolescents engaged."
+},
+{
+"type": "letter",
+"title": "Press release: Schatz, Britt, colleagues press AI companies to commit to timely, consistent safety disclosures on models (letters to OpenAI, Anthropic, Google, Meta, Microsoft, xAI, Character.AI, Luka)",
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-britt-colleagues-press-ai-companies-to-commit-to-timely-consistent-safety-disclosures-on-models",
+"date": "2025-12-12",
+"quote": "If AI companies struggle to predict and mitigate relatively well-understood risks, it raises concerns about their ability to manage more complex risks",
+"what_it_shows": "He asked frontier labs to publish consistent model cards and honor their Seoul Summit commitments on national security risks like cyber and bio misuse."
+},
+{
+"type": "letter",
+"title": "Press release: Schatz leads bipartisan group of 10 senators in pressing Meta for safeguards around children's engagement with AI chatbots",
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-leads-bipartisan-group-of-10-senators-in-pressing-meta-for-safeguards-around-childrens-engagement-with-ai-chatbots",
+"date": "2025-08-20",
+"quote": "The wellbeing of children should not be sacrificed in the race for AI development.",
+"what_it_shows": "He led a bipartisan demand that Meta explain policies that let chatbots have romantic conversations with children."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI Whistleblower Protection Act (S.1792)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1792",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "Supports protecting AI company employees who report safety problems."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Algorithmic Accountability Act of 2025 (S.2164)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2164",
+"date": "2025-06-25",
+"quote": null,
+"what_it_shows": "Supports required bias and harm testing of automated decision systems; he also cosponsored the 2023 version (S.2892)."
+},
+{
+"type": "interview",
+"title": "Axios exclusive: Schatz plots AI jobs bills (AI excise tax for retraining, automatic response if unemployment passes 5.5%)",
+"url": "https://www.axios.com/2026/02/27/schatz-ai-jobs-bills",
+"date": "2026-02-27",
+"quote": "AI is already changing how people work, and it's bringing real risks: massive job losses, increased workplace surveillance, and weaker bargaining power for workers. We need to get ahead of it",
+"what_it_shows": "He is planning a progressive excise tax on AI company revenue to fund retraining, treating job loss as a central AI risk."
+},
+{
+"type": "hearing",
+"title": "Press release: Schatz presses Commerce Secretary nominee Howard Lutnick on AI safety (Senate Commerce hearing)",
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-presses-commerce-secretary-nominee-howard-lutnick-on-census-noaa-protection-pacific-fisheries-consultation-ai-safety",
+"date": "2025-01-29",
+"quote": "What do we do in place of this and how quickly can we get it done? Because that part of this was one of the few things that we were not arguing about when it comes to AI policy.",
+"what_it_shows": "He objected to Trump's repeal of the Biden AI order and pushed to keep the AI Safety Institute's work going."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Schatz's signature cause is getting kids off social media: he sponsors a bill to ban under-13s and stop algorithmic feeds for teens, and cosponsors KOSA and COPPA 2.0. He also backs tougher antitrust rules and platform transparency. His focus is targeted rules rather than break-ups or repealing Section 230.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: Kids Off Social Media Act (S.278)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/278",
+"date": "2025-01-28",
+"quote": null,
+"what_it_shows": "His bipartisan bill with Sen. Cruz bans kids under 13 from social media and blocks personalized feeds for anyone under 17; he sponsored the same bill in 2024 (S.4213)."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (S.1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms toward minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Children and Teens' Online Privacy Protection Act (S.836)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "Supports updating kids' privacy law to require permission before collecting data on teens and to ban targeted ads to them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Competition and Antitrust Law Enforcement Reform Act of 2025 (S.130)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/130",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Supports tougher merger rules aimed in part at Big Tech; he also cosponsored the 2024 version (S.4308)."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Internet PACT Act (S.483)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/483",
+"date": "2023-02-16",
+"quote": null,
+"what_it_shows": "Led a bipartisan bill making large platforms explain content rules and remove court-ordered illegal content, a targeted Section 230 reform."
+},
+{
+"type": "letter",
+"title": "Kauai Now: Schatz, Senate colleagues press Zuckerberg after reports Meta AI bots spoke romantically with kids",
+"url": "https://kauainownews.com/2025/08/20/schatz-several-u-s-senate-colleagues-press-zuckerberg-after-reports-that-meta-ai-bots-spoke-romantically-sensually-with-kids/",
+"date": "2025-08-20",
+"quote": "Meta has strong financial incentives to design chatbots that maximize the time users spend engaged, including by posing as a child's girlfriend or producing extreme content",
+"what_it_shows": "He treats Meta's engagement incentives as a reason for outside rules, including a ban on targeted ads to minors."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Schatz strongly opposes Washington blocking state AI laws. He wrote the Senate GUARDRAILS Act to repeal Trump's December 2025 executive order against state AI regulation, signed the Commerce Democrats' June 2025 letter calling the moratorium a trampling of states' rights, and voted to strip the moratorium from the tax bill.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: GUARDRAILS Act (S.4216)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4216",
+"date": "2026-03-26",
+"quote": null,
+"what_it_shows": "His bill would block the executive order so states do not lose federal funds for passing AI safeguards."
+},
+{
+"type": "statement",
+"title": "Press release: Schatz, colleagues introduce legislation to repeal Trump's AI moratorium",
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-colleagues-introduce-legislation-to-repeal-trumps-ai-moratorium",
+"date": "2026-03-27",
+"quote": "Discouraging states from enacting common-sense regulation that protects people from potential AI harms is dangerous. Congress has a responsibility to get this technology right, but states must not be penalized for acting in the public interest in the meantime.",
+"what_it_shows": "He wants Congress to legislate eventually but insists states keep the power to act now, a direct rejection of preemption."
+},
+{
+"type": "letter",
+"title": "Commerce Committee Democrats' letter to Chairman Cruz on the reconciliation Commerce title, including the AI moratorium (Schatz a signer)",
+"url": "https://www.commerce.senate.gov/press/dem/release/cantwell-commerce-committee-democrats-call-for-regular-order-on-dangerous-and-damaging-commerce-title-of-reconciliation-bill-2025-6/",
+"date": "2025-06-11",
+"quote": "the AI moratorium proposal tramples states' rights and holds the $42 billion BEAD program hostage",
+"what_it_shows": "He signed on to the Democrats' objection to the 10-year state AI law moratorium before the Senate vote."
+},
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (Schatz voted Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He voted to remove the moratorium, consistent with his letter and later bill."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Schatz wants tight limits on advanced chips going to China. He led seven Senate Democrats in calling Trump's decision to allow Nvidia H200 sales to China a colossal economic and national security failure, and he cosponsors the Chip Security Act requiring location verification on exported chips.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Schatz, Coons, Shaheen, Reed, Warren, Kim, Bennet, Slotkin statement on President Trump's decision to allow the export of advanced NVIDIA H200 AI chips to China",
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-coons-shaheen-reed-warren-kim-bennet-slotkin-statement-on-president-trumps-decision-to-allow-the-export-of-advanced-nvidia-h200-ai-chips-to-china",
+"date": "2025-12-09",
+"quote": "The Trump administration's announcement that it will allow the export of advanced H200 AI chips to China is a colossal economic and national security failure.",
+"what_it_shows": "He led the Democratic response opposing H200 sales and demanded the president reverse course."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Chip Security Act (S.1705)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2025-06-16",
+"quote": null,
+"what_it_shows": "Supports requiring exported advanced chips to carry location verification so they cannot be smuggled to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protection Against Foreign Adversarial Artificial Intelligence Act of 2025 (S.1638)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1638",
+"date": "2025-06-18",
+"quote": null,
+"what_it_shows": "Supports barring the federal government from using AI made by companies in China and other rival countries."
+}
+]
+}
+},
+"signature": "Senate Commerce Democrat behind the AI Labeling Act, the Kids Off Social Media Act, the CHATBOT Act with Cruz, and the GUARDRAILS Act to protect state AI laws; a leading critic of H200 chip sales to China.",
+"notable_quote": {
+"text": "Embracing the amazing possibilities of AI can't come at the cost of leaving Americans vulnerable to its profound risks, which is exactly what President Trump's Executive Order tries to do",
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-colleagues-introduce-legislation-to-repeal-trumps-ai-moratorium",
+"date": "2026-03-27"
+},
+"groups": [
+"Senate Artificial Intelligence Caucus (member, per the landscape pass; not independently confirmed)"
+],
+"search_notes": "Ran about 12 Google News searches (AI, data centers, chatbot/CHATBOT Act, preemption/moratorium, Nvidia H200, AI tax/jobs, Meta chatbot letter, AI super PACs, executive order statement) and a Wayback listing of schatz.senate.gov (163 matching URLs). schatz.senate.gov blocks direct fetches; nine archived releases were read through the Wayback Machine before it began refusing connections. Could not open his Dec 11, 2025 statement on the Trump executive order (snapshot exists but the archive host refused connections), the Jan 2026 Commerce hearing release on addictive algorithms, Punchbowl and Reuters stories, or the Bennet copy of the Meta letter. The Jan 2026 electricity quote from the state context file was re-checked word for word at the URL. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "C001055",
+"name": "Ed Case",
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Case has no press release or bill on data centers. In his July 2026 Star-Advertiser questionnaire he said AI's huge demands on resources such as data centers are a consequence that must be addressed, while also saying the country must lead in AI. That is an acknowledgment of costs, not a position for or against building.",
+"evidence": [
+{
+"type": "statement",
+"title": "Honolulu Star-Advertiser 2026 election questionnaire: Ed Case on regulating the AI industry",
+"url": "https://www.staradvertiser.com/2026/07/09/election/2026-election-ed-case/",
+"date": "2026-07-09",
+"quote": "it is also critical that we address consequences such as the huge demands on AI on our resources such as data centers and job displacements",
+"what_it_shows": "He lists data center resource demands as a downside of AI that needs a policy answer, without saying what that answer is."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Case says AI brings tremendous benefits and tremendous risks and should be regulated nationally without hindering responsible development. His concrete steps are narrow: cosponsoring bills to require AI disclosures in political ads and to ban deceptive AI deepfakes of candidates.",
+"evidence": [
+{
+"type": "statement",
+"title": "Honolulu Star-Advertiser 2026 election questionnaire: Ed Case on regulating the AI industry",
+"url": "https://www.staradvertiser.com/2026/07/09/election/2026-election-ed-case/",
+"date": "2026-07-09",
+"quote": "AI clearly presents us with tremendous opportunities and benefits as well as tremendous consequences and risks.",
+"what_it_shows": "He wants Congress and the administration to set common standards for AI while not slowing responsible development, a middle-of-the-road guardrails stance."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protect Elections from Deceptive AI Act (H.R.5272)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5272",
+"date": "2026-09-08",
+"quote": null,
+"what_it_shows": "Supports banning AI-made fake audio or video of candidates meant to trick voters in federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI Transparency in Elections Act of 2026 (H.R.9922)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9922",
+"date": "2026-08-13",
+"quote": null,
+"what_it_shows": "Supports requiring political ads to disclose when they were made with AI; he signed on days after an opponent's ad was criticized for apparent AI use."
+},
+{
+"type": "other",
+"title": "Hawaii Public Radio: Congressional campaign ad against Case raises concern for possible use of AI",
+"url": "https://www.hawaiipublicradio.org/the-conversation/2026-08-12/congressional-campaign-ad-raises-concern-for-possible-use-of-ai",
+"date": "2026-08-12",
+"quote": null,
+"what_it_shows": "Context only: an independent candidate's ad attacking Case appeared to use AI imagery of a deceased Hawaiian scholar; Case's campaign did not comment in the story."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on Big Tech regulation. Searched for Case with Section 230, kids online safety, TikTok, antitrust and social media; found no statements, and his 118th and 119th Congress record shows no relevant bills.",
+"evidence": []
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "Case has not spoken directly about overriding state AI laws, but in his 2026 questionnaire he said AI should be regulated on a national basis through Congress and the administration to set common standards. That leans toward one national standard, though he did not say states should be blocked.",
+"evidence": [
+{
+"type": "statement",
+"title": "Honolulu Star-Advertiser 2026 election questionnaire: Ed Case on regulating the AI industry",
+"url": "https://www.staradvertiser.com/2026/07/09/election/2026-election-ed-case/",
+"date": "2026-07-09",
+"quote": "All of this should be fairly regulated on a national basis through Congress and the administration to set common expectations and standards, with the rest of the world where we can, without hindering the responsible development of AI.",
+"what_it_shows": "He favors a single national framework for AI rules, but he did not address state laws or the moratorium and did not sign the Clarke or Matsui letters."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Case cosponsors the Chip Security Act, which would put location tracking on advanced chips so they cannot be smuggled to China, and he says it is critical the U.S. lead in AI over China. He has not commented on the H20 or H200 sales.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Chip Security Act (H.R.3447)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-10-03",
+"quote": null,
+"what_it_shows": "Supports built-in location verification for exported AI chips to stop diversion to China."
+},
+{
+"type": "statement",
+"title": "Honolulu Star-Advertiser 2026 election questionnaire: Ed Case on regulating the AI industry",
+"url": "https://www.staradvertiser.com/2026/07/09/election/2026-election-ed-case/",
+"date": "2026-07-09",
+"quote": "it is critical we lead in AI over geopolitical challengers such as the People's Republic of China",
+"what_it_shows": "He frames AI as a national defense race with China, drawing on his Defense Appropriations seat."
+}
+]
+}
+},
+"signature": "Moderate Appropriations Democrat with little AI activity beyond a 2026 questionnaire calling for national AI standards, plus cosponsorship of the Chip Security Act and two election deepfake bills.",
+"notable_quote": {
+"text": "AI clearly presents us with tremendous opportunities and benefits as well as tremendous consequences and risks.",
+"url": "https://www.staradvertiser.com/2026/07/09/election/2026-election-ed-case/",
+"date": "2026-07-09"
+},
+"groups": [],
+"search_notes": "Ran about 12 Google News searches (AI, data centers, chips/Nvidia/export controls, Big Tech/TikTok/Section 230, deepfake/chatbot, Chip Security Act, deceptive AI elections, Keohokalole primary coverage) and read the case.house.gov press release index (no AI items in 2026), his Dec 2024 Civil Beat editorial board interview (no AI content), Hawaii News Now and Civil Beat primary coverage (no AI or AI PAC money), and the Star-Advertiser questionnaire via the Wayback Machine (the live page redirect-loops). A Wayback listing of case.house.gov returned nothing useful because his site uses numeric document IDs. No AI super PAC involvement found. Could not verify whether he signed the Nov 2025 Matsui preemption letter; he is not on the Dec 2025 Clarke letter."
+},
+{
+"bioguide": "T000487",
+"name": "Jill N. Tokuda",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. Searches for Tokuda with data centers, electricity bills and ratepayers returned nothing, and her press releases and 2026 questionnaire do not mention them.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Tokuda wants clear safeguards paired with innovation: national standards for privacy, transparency, non-discrimination and company accountability when AI causes harm. As an Armed Services member she demanded an impartial review of AI targeting in the Iran war and said humans must stay in charge of life-or-death decisions; she earlier cosponsored a bill to keep AI out of nuclear launch decisions.",
+"evidence": [
+{
+"type": "interview",
+"title": "NBC News: U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight (Tokuda statement)",
+"url": "https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150",
+"date": "2026-03-11",
+"quote": "We need a full, impartial review to determine if AI has already harmed or jeopardized lives in the war with Iran",
+"what_it_shows": "She called for oversight of military AI and said human judgment must remain at the center of life-or-death decisions."
+},
+{
+"type": "statement",
+"title": "Honolulu Star-Advertiser 2026 election questionnaire: Jill Tokuda on regulating the AI industry",
+"url": "https://www.staradvertiser.com/2026/07/13/election/2026-election-jill-n-tokuda/",
+"date": "2026-07-13",
+"quote": "Congress should establish commonsense national standards that protect privacy, promote transparency, prevent discrimination, and hold companies accountable when AI systems cause harm, while ensuring the United States remains the global leader in AI innovation.",
+"what_it_shows": "She backs binding accountability rules for AI companies while stressing innovation and competitiveness with China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023 (H.R.2894)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2023-05-11",
+"quote": null,
+"what_it_shows": "Supports requiring a human, not an AI, to make any nuclear launch decision."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Tokuda's tech record is thin but leans toward targeted rules: she cosponsored bills protecting reproductive health data, requiring websites and apps to be accessible, and limiting student data collection, and her 2026 questionnaire calls for privacy protections. No statements found on Section 230, antitrust or kids' social media bills.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: My Body, My Data Act of 2023 (H.R.3420)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Supports limits on collecting and sharing reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Websites and Software Applications Accessibility Act of 2023 (H.R.5813)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5813",
+"date": "2024-02-01",
+"quote": null,
+"what_it_shows": "Supports binding accessibility rules for websites and apps."
+},
+{
+"type": "statement",
+"title": "Honolulu Star-Advertiser 2026 election questionnaire: Jill Tokuda on regulating the AI industry",
+"url": "https://www.staradvertiser.com/2026/07/13/election/2026-election-jill-n-tokuda/",
+"date": "2026-07-13",
+"quote": "We don't have to choose between innovation and responsible oversight. We can encourage groundbreaking technology while protecting consumers, workers, and our national security.",
+"what_it_shows": "She frames tech oversight as compatible with innovation and centers consumer and worker protection."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Tokuda signed the December 2025 letter from 44 House Democrats urging defense bill negotiators to keep any moratorium or preemption of state AI laws out of the NDAA, calling a moratorium wildly irresponsible without federal legislation. She also wants Congress to set national standards, but not by wiping out state laws first.",
+"evidence": [
+{
+"type": "letter",
+"title": "Clarke-led letter of 44 House Democrats to Armed Services leaders opposing any AI moratorium or preemption in the FY26 NDAA (Tokuda a signer)",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation. Therefore, we urge you to prevent any AI moratorium or preemption from being included in the final FY26 NDAA.",
+"what_it_shows": "Her name is on the signer list; the letter argues state laws must stand until Congress passes comprehensive AI protections."
+},
+{
+"type": "statement",
+"title": "Honolulu Star-Advertiser 2026 election questionnaire: Jill Tokuda on regulating the AI industry",
+"url": "https://www.staradvertiser.com/2026/07/13/election/2026-election-jill-n-tokuda/",
+"date": "2026-07-13",
+"quote": null,
+"what_it_shows": "She calls for commonsense national standards from Congress, which pairs with the letter's view that federal law should come before any limits on states."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Tokuda, a member of the House Select Committee on China, wants advanced chips kept away from Beijing. She cosponsors the Chip Security Act and the No Advanced Chips for the CCP Act, and before the May 2026 Trump-Xi meeting she said the U.S. cannot give away its chips or bargain away its lead in semiconductors.",
+"evidence": [
+{
+"type": "statement",
+"title": "Select Committee on the CCP Democrats: Select Committee Democrats outline priorities ahead of Trump-Xi meeting in Beijing (Tokuda statement)",
+"url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/select-committee-democrats-outline-priorities-ahead-trump-xi-meeting-beijing",
+"date": "2026-05-13",
+"quote": "America must also draw a clear red line: we cannot give away our chips or bargain away our leadership in advanced semiconductor technology.",
+"what_it_shows": "She warned the president not to trade away chip export limits in talks with China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Chip Security Act (H.R.3447)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-07-23",
+"quote": null,
+"what_it_shows": "Supports built-in location verification for exported AI chips to catch smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: No Advanced Chips for the CCP Act of 2025 (H.R.5022)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5022",
+"date": "2025-08-22",
+"quote": null,
+"what_it_shows": "Supports blocking sales of the most powerful chips to China."
+}
+]
+}
+},
+"signature": "Armed Services and China Select Committee Democrat who is hawkish on chip exports to China, demanded oversight of military AI in the Iran war, and signed the House Democratic letter against preempting state AI laws.",
+"notable_quote": {
+"text": "Human judgment must remain at the center of life-or-death decisions.",
+"url": "https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150",
+"date": "2026-03-11"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (member, per the landscape pass; not independently confirmed)"
+],
+"search_notes": "Ran about 10 Google News searches (AI, data centers, chips/Chip Security Act/export controls, deepfake/chatbot/AI Caucus, military AI/autonomous/nuclear, preemption/moratorium, Vatican AI trip) plus a Wayback listing of all tokuda.house.gov press releases since 2025 (none about AI). Read the Star-Advertiser questionnaire, the Select Committee Democrats' May 2026 release, NBC News and The Independent on military AI, the Clarke letter (confirmed her name on the signer list), and her Dec 2025 and July 2026 NDAA releases (no AI mentions). Could not open the Aug 13, 2026 Politico story on House lawmakers visiting the Vatican to discuss AI (Politico and the Wayback host both blocked), so her role in that trip is unconfirmed. Could not locate the Nov 2025 Matsui letter signer list. No AI super PAC involvement found; she says she takes no corporate PAC money."
+}
+]

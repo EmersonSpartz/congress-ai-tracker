@@ -1,0 +1,99 @@
+[
+{
+"bioguide": "H001103",
+"checks": [
+{
+"url": "https://hernandez.house.gov/media/press-releases/resident-commissioner-highlights-importance-data-centers-ai-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-21",
+"note": "Live URL now returns 403 (also in a real browser); verified via Wayback snapshot 20250526225848. Quote is verbatim in the lede. Page subtitle: 'Commissioner Supports Preserving Renewable Energy Incentives for the Industry'. Hearing: 'Unleashing a New Golden Age: Using Federal Lands to Power Technological Innovation'."
+},
+{
+"url": "https://hernandez.house.gov/media/press-releases/resident-commissioner-highlights-importance-data-centers-ai-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-21",
+"note": "Verified via Wayback (live URL 403). Quote is verbatim from the Ezra Klein 'Abundance' passage he quoted 'to stress the strategic importance of promoting data center construction'; page also says he 'addressed legitimate concerns about the energy consumption of data centers'. Klein quote names permitting blockages, extended environmental reviews, interconnection queues."
+},
+{
+"url": "https://www.politico.com/newsletters/digital-future-daily/2026/03/18/an-ai-fix-for-puerto-ricos-grid-00834733",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-18",
+"note": "Politico blocks scripted fetches (403, Wayback capture also 403); loaded in the browser pane. Reporter's paraphrase verbatim: 'Hernández did note there are trade-offs when it comes to AI and energy, pointing to the strain data centers have been placing on grids in the continental U.S.' Article is about his two AI-grid bills; he told DFD integrating AI in the grid rebuild 'is necessary'."
+},
+{
+"url": "https://hernandez.house.gov/media/press-releases/rep-hernandez-meets-openai-ceo-sam-altman-discuss-impact-artificial",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-27",
+"note": "Live URL returns 403; verified via Wayback snapshot 20251203133127. Quote verbatim; continues 'especially renewable sources like solar. This can be strategically integrated into the reconstruction of our electrical grid, potentially creating energy abundance that finally helps stabilize electricity costs in Puerto Rico'. Page dated July 27, 2025."
+},
+{
+"url": "https://hernandez.house.gov/media/press-releases/comisionado-residente-presenta-medidas-para-integrar-inteligencia-artificial",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-17",
+"note": "Quote verbatim in the English section of the bilingual release. Bills: AI Cyber Grid Protection Resilient Development Act (H.R. 7696, DHS grant program for AI cyber testbeds) and a second grid-modernization bill (H.R. 7697). Framing is promotion of 'responsible AI innovation'; no regulatory mandates on AI."
+},
+{
+"url": "https://hernandez.house.gov/media/press-releases/comisionado-residente-presenta-legislacion-para-estudiar-el-uso-responsable-de",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Quote verbatim. Page confirms H.R. 7064, AI in Health Care Efficiency and Study Act, introduced with Ted Lieu; described as a study of how AI can 'safely and responsibly' reduce administrative burdens and 'strengthen patient data protections'."
+},
+{
+"url": "https://hernandez.house.gov/media/press-releases/rep-hernandez-meets-openai-ceo-sam-altman-discuss-impact-artificial",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-27",
+"note": "Verified via Wayback (live URL 403). Quote verbatim in the 'On arts and culture' section; the 'On employment' section says AI 'will eliminate certain jobs, particularly in repetitive fields like customer service'. No policy proposal is attached."
+},
+{
+"url": "https://hernandez.house.gov/media/press-releases/rep-hernandez-meets-openai-ceo-sam-altman-discuss-impact-artificial",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-27",
+"note": "Verified via Wayback (live URL 403). Quote verbatim, opening line of the 'On employment' section."
+},
+{
+"url": "https://hernandez.house.gov/media/press-releases/comisionado-residente-anuncia-2-millones-para-proyecto-de-inteligencia",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-06",
+"note": "Quote verbatim (Spanish). $2,018,800 FIPSE-SP grant to Atenas University Dr. María Luisa Hernández."
+},
+{
+"url": "https://hernandez.house.gov/media/press-releases/nuevo-miembro-del-congreso-ex-empleado-de-meta-cuestiona-la-decision-de-meta",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-01-14",
+"note": "Quote verbatim; letter to Zuckerberg, Spanish-language disinformation question, and Meta policy-manager background (2019-2023) all confirmed. But the page never says this was his 'first act in Congress'; it only calls him a 'new member'. Drop or soften 'first act'."
+},
+{
+"url": "https://hernandez.house.gov/media/press-releases/en-respuesta-su-carta-meta-revela-nueva-informacion-sobre-el-programa-de",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-03-10",
+"note": "Quote verbatim. He welcomes Meta's clarification that it will keep removing harmful/election misinformation and says he hopes 'to contribute to those discussions going forward'; no legislation proposed on the page, so the 'oversight and dialogue rather than sweeping laws' reading is fair as far as this page goes."
+},
+{
+"url": "https://hernandez.house.gov/media/press-releases/resident-commissioner-highlights-importance-data-centers-ai-development",
+"verdict": "confirmed",
+"corrected_quote": "Artificial Intelligence is not a toy. It’s not a trend. It’s a revolution on the scale of the personal computer, the internet, the smartphone—even the printing press. We cannot afford to fall behind",
+"corrected_date": "2025-05-21",
+"note": "Verified via Wayback (live URL 403). Quote is a verbatim truncation of the full sentence; full text given in corrected_quote for completeness."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "Every ai_risk source is pro-adoption with only soft 'responsible' language: a study bill, grant programs, meeting reflections with no proposed rule, and 'Puerto Rico cannot be a passive bystander'. Nothing in the sources calls for binding guardrails on AI itself (the privacy safeguards and grid cyber-defense are about protecting data and infrastructure, not constraining AI development). That pattern reads as Light touch rather than Mixed; 0 would need at least one source pulling toward rules. Judgment call, not a hard contradiction.",
+"suggested_score": 1,
+"suggested_label": "Light touch"
+}
+]
+}
+]

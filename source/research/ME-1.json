@@ -1,0 +1,639 @@
+[
+{
+"bioguide": "C001035",
+"name": "Susan M. Collins",
+"signature": "Cautious case-by-case line on Maine data centers while backing election deepfake bans, AI labeling, and kids online safety bills as Senate Appropriations chair.",
+"groups": [
+"Chair, Senate Committee on Appropriations"
+],
+"notable_quote": {
+"text": "I do share the concern of data centers gobbling up too much energy and putting stress on the cost of energy",
+"url": "https://www.bangordailynews.com/2026/08/19/politics/elections/susan-collins-cautious-on-maine-data-centers/",
+"date": "2026-08-19"
+},
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Collins says data center projects should be judged case by case. She praised proposals at former Maine paper mill sites with hydropower nearby, but also said she shares the worry that data centers use too much energy and push up power bills. She has not taken a position on Maine's moratorium fight or a national pause.",
+"evidence": [
+{
+"type": "statement",
+"title": "Bangor Daily News: Collins takes cautious line on data centers at Lincoln event with Energy Sec. Wright",
+"url": "https://www.bangordailynews.com/2026/08/19/politics/elections/susan-collins-cautious-on-maine-data-centers/",
+"date": "2026-08-19",
+"quote": "I do share the concern of data centers gobbling up too much energy and putting stress on the cost of energy",
+"what_it_shows": "Her most detailed public remarks: she supports mill-site projects with built-in hydropower but voices broad reservations about energy use and cost."
+},
+{
+"type": "statement",
+"title": "Bangor Daily News: Collins on why former mill sites suit data centers",
+"url": "https://www.bangordailynews.com/2026/08/19/politics/elections/susan-collins-cautious-on-maine-data-centers/",
+"date": "2026-08-19",
+"quote": "there is usually hydropower right there, so there's an energy source built in.",
+"what_it_shows": "She expressed support for data centers at former mill sites and praised the canceled Jay and Millinocket projects."
+},
+{
+"type": "interview",
+"title": "WMTW: Energy Secretary visits Lincoln; Collins says data centers must be case by case and blames Augusta Democrats for rates",
+"url": "https://www.wmtw.com/article/department-of-energy-secretary-visits-maine-for-new-energy-build/73479600",
+"date": "2026-08-19",
+"quote": "So I think what it has to be is a case-by-case basis.",
+"what_it_shows": "She declined to endorse or oppose data centers as a class, tying the issue to her attack on Democrats over Maine electricity rates."
+},
+{
+"type": "other",
+"title": "The Hill: Public anger over AI boom triggers GOP midterm worries (UMaine professor on Collins)",
+"url": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
+"date": "2026-09-10",
+"quote": "Now that we've moved into the general election phase of this, Susan Collins has been much more cautious on data centers,",
+"what_it_shows": "A political scientist's read that Collins grew more cautious as the race tightened; he says she earlier warned about water use and electricity rates and called one-size-fits-all treatment short-sighted."
+},
+{
+"type": "other",
+"title": "Maine Public: Maine groups join call for U.S. data center moratorium (delegation asked for comment)",
+"url": "https://www.mainepublic.org/climate/2025-12-08/maine-groups-join-call-for-u-s-data-center-moratorium",
+"date": "2025-12-08",
+"quote": null,
+"what_it_shows": "Her office did not respond when asked about a proposed national data center moratorium."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Collins backs specific AI rules rather than broad licensing or a pause. She is a lead cosponsor of a ban on deceptive AI content in federal elections and has cosponsored AI labeling bills in two Congresses. No statements found treating advanced AI as an existential danger.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Senator Collins, Bipartisan Group Introduce Bill to Ban Deceptive AI-Generated Content in Elections",
+"url": "https://www.collins.senate.gov/newsroom/senator-collins-bipartisan-group-introduce-bill-to-ban-deceptive-ai-generated-content-in-elections",
+"date": "2025-04-16",
+"quote": "In a rapidly evolving digital landscape, we must ensure that voters are not manipulated by purposely misleading AI-generated content,",
+"what_it_shows": "In her own words she wants a binding federal ban on deceptive AI deepfakes of candidates, framed as protecting elections while respecting the First Amendment."
+},
+{
+"type": "cosponsor",
+"title": "Protect Elections from Deceptive AI Act (S.1213)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1213",
+"date": "2025-03-31",
+"quote": null,
+"what_it_shows": "Cosponsored a ban on AI-made fake video and audio of candidates meant to trick voters."
+},
+{
+"type": "cosponsor",
+"title": "AI Labeling Act of 2026 (S.4915)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4915",
+"date": "2026-07-13",
+"quote": null,
+"what_it_shows": "Cosponsored a requirement that AI-generated pictures, video, audio and text carry a clear label; she also cosponsored the 2023 version (S.2691)."
+},
+{
+"type": "cosponsor",
+"title": "Preparing Election Administrators for AI Act (S.2346)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2346",
+"date": "2025-07-17",
+"quote": null,
+"what_it_shows": "Cosponsored a report to help election officials understand how AI could help or hurt voting."
+},
+{
+"type": "cosponsor",
+"title": "AI Labeling Act of 2023 (S.2691, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2691",
+"date": "2024-07-10",
+"quote": null,
+"what_it_shows": "Earlier support for the same AI labeling idea, showing a consistent targeted-guardrails approach."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Collins consistently backs targeted rules on tech platforms: the Kids Online Safety Act, the STOP CSAM Act, the EARN IT Act, a bill letting news outlets bargain with Google and Facebook, and bans on Chinese-linked connected car software. She has not called for breaking up Big Tech or repealing Section 230 outright.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Kids Online Safety Act (S.1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-07-16",
+"quote": null,
+"what_it_shows": "Cosponsored the main kids online safety bill, which makes platforms build in safety tools for minors."
+},
+{
+"type": "cosponsor",
+"title": "STOP CSAM Act of 2025 (S.1829)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2026-06-15",
+"quote": null,
+"what_it_shows": "Cosponsored a bill making platforms do more to remove child sexual abuse material and letting victims sue."
+},
+{
+"type": "cosponsor",
+"title": "Connected Vehicle Security Act of 2026 (S.4429)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "Cosponsored a ban on connected-car software and parts from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "EARN IT Act of 2023 (S.1207, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1207",
+"date": "2023-04-19",
+"quote": null,
+"what_it_shows": "Cosponsored a bill stripping platforms' Section 230 shield when they let child abuse material spread."
+},
+{
+"type": "cosponsor",
+"title": "Journalism Competition and Preservation Act of 2023 (S.1094, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1094",
+"date": "2023-03-30",
+"quote": null,
+"what_it_shows": "Cosponsored letting news outlets team up to make Google and Facebook pay for their stories."
+},
+{
+"type": "cosponsor",
+"title": "RESTRICT Act (S.686, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-07",
+"quote": null,
+"what_it_shows": "Cosponsored the bill letting the government review and block apps and tech from rival countries."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on whether Washington should block state AI laws. She voted with 98 other senators to strip the 10-year moratorium from the 2025 budget bill, but that vote alone shows nothing. Thirty-nine Maine state lawmakers asked her in June 2025 to oppose the moratorium; no response from her was found. Nothing found on the December 2025 executive order or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call #363: Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1 (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted Yea, as did 98 other senators after the deal collapsed; not evidence of a position on preemption by itself."
+},
+{
+"type": "other",
+"title": "Maine House Democrats: 39 state lawmakers sign letter calling on Sen. Collins to oppose AI regulation moratorium",
+"url": "https://www.maine.gov/housedems/news/39-state-lawmakers-sign-letter-calling-sen-collins-oppose-ai-regulation-moratorium",
+"date": "2025-06-27",
+"quote": null,
+"what_it_shows": "State legislators pressed her to oppose the moratorium; no reply from Collins was found in the press."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Her record shows general wariness of Chinese technology (RESTRICT Act, Connected Vehicle Security Act), but nothing on chips specifically.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Susan Collins' artificial intelligence; 'data center'; data centers electricity bills; chatbot OR deepfake; Section 230/Big Tech/antitrust/KOSA; Nvidia/export controls/chips China; state AI laws/moratorium/preemption; AI Labeling Act; Sen. Collins AI Maine; Collins Wright Lincoln; KOSA Maine; AI appropriations/NIST; state lawmakers letter; AI executive order. Site listing of collins.senate.gov (AI/tech/energy filter) reviewed. Opened: BDN 8/19/26, WMTW 8/19/26, The Hill 9/10/26, Collins 4/16/25 deceptive AI press release, Maine Public 12/8/25, Maine Beacon 2/12/26 (Palantir donations, no AI super PAC), Maine House Dems 6/27/25 letter, govtrack s363. Could not read her KOSA passage release or her 8/20/26 Lincoln release (senate.gov blocked direct fetch, WebFetch 403, Wayback copy empty). The 'Small Business AI Advancement Act' lead is a House bill and did not check out for Sen. Collins; dropped. No AI super PAC support or attack found."
+},
+{
+"bioguide": "K000383",
+"name": "Angus S. King, Jr.",
+"signature": "Co-author of a 2024 bipartisan framework for federal oversight of frontier AI models against biological, chemical, cyber and nuclear risks; cosponsor of AI liability and kids online safety bills.",
+"groups": [
+"Co-Chair, Cyberspace Solarium Commission"
+],
+"notable_quote": {
+"text": "I want to make something very clear. I don't want AI to decide if one of my veterans is entitled to the benefits they have earned, period.",
+"url": "https://www.king.senate.gov/newsroom/press-releases/king-issues-warning-of-ai-harming-access-to-veteran-benefits-in-va-secretary-confirmation-hearing",
+"date": "2025-01"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public position on data centers found as of Sept 2026. His related actions are indirect: a June 2026 letter asking FERC to reject the NextEra-Dominion utility merger to protect New England ratepayers, and a March 2026 refusal to join permitting reform talks while the administration cancels wind and solar projects. His office did not respond to a Dec 2025 question about a national data center moratorium.",
+"evidence": [
+{
+"type": "letter",
+"title": "Utility Dive: Sen. King urges FERC to reject $67B NextEra-Dominion merger",
+"url": "https://www.utilitydive.com/news/senator-king-ferc-nextera-dominion-merger-necec/824073/",
+"date": "2026-06-29",
+"quote": "The combination would create the largest electric utility in the United States, concentrating an unprecedented mix of merchant generation, rate-based generation, and transmission assets in the hands of a single company",
+"what_it_shows": "A ratepayer and competition argument about grid power; it does not mention data centers."
+},
+{
+"type": "hearing",
+"title": "Utility Dive: Senate Energy hearing on the grid after Winter Storm Fern; King on permitting reform",
+"url": "https://www.utilitydive.com/news/interregional-transmission-winter-storm-fern-senate/815934/",
+"date": "2026-03-25",
+"quote": "I feel like I'd be dumb to agree to permitting reform which only affected one half of the equation,",
+"what_it_shows": "He supports permitting reform in principle but refuses to negotiate while the administration cancels permitted wind and solar projects; this shapes how he approaches new power demand."
+},
+{
+"type": "other",
+"title": "Maine Public: Maine groups join call for U.S. data center moratorium (delegation asked for comment)",
+"url": "https://www.mainepublic.org/climate/2025-12-08/maine-groups-join-call-for-u-s-data-center-moratorium",
+"date": "2025-12-08",
+"quote": null,
+"what_it_shows": "His office did not respond when asked about a proposed national data center moratorium."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "high",
+"summary": "King treats the most powerful AI models as a national security danger and wants binding federal oversight. He co-authored a 2024 framework for oversight of frontier AI hardware, development and deployment, cosponsored a bill creating an AI Safety Review Office to test frontier models before release, and cosponsored the AI LEAD Act letting people sue AI makers. He also backs deepfake and chatbot-adjacent guardrails, and personally uses Claude while warning to be careful with its analysis.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: King, Colleagues Unveil Bipartisan Framework to Identify, Minimize Artificial Intelligence Risks",
+"url": "https://www.king.senate.gov/newsroom/press-releases/king-colleagues-unveil-bipartisan-framework-to-identify-minimize-artificial-intelligence-risks",
+"date": "2024-04-16",
+"quote": "This AI framework provides critical guidelines for federal oversight of AI technology so that it cannot be misused by bad actors looking to cause harm.",
+"what_it_shows": "With Romney, Reed and Moran he proposed federal oversight of frontier model hardware, development and deployment to guard against biological, chemical, cyber and nuclear threats."
+},
+{
+"type": "statement",
+"title": "Press release: King, Colleagues Introduce Bipartisan Preserving American Dominance in AI Act",
+"url": "https://www.king.senate.gov/newsroom/press-releases/king-colleagues-introduce-bipartisan-preserving-american-dominance-in-ai-act",
+"date": "2024-12-19",
+"quote": "This bipartisan Preserving American Dominance in AI Act provides critical guidelines for federal oversight of AI technology so that it cannot be misused by bad actors looking to cause harm.",
+"what_it_shows": "The bill would create an AI Safety Review Office with pre-deployment evaluations of frontier models and reporting by the largest training data centers."
+},
+{
+"type": "cosponsor",
+"title": "Preserving American Dominance in Artificial Intelligence Act of 2024 (S.5616, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/5616",
+"date": "2024-12-19",
+"quote": null,
+"what_it_shows": "Cosponsored setting up a government office to check the most powerful AI models for serious dangers before release."
+},
+{
+"type": "cosponsor",
+"title": "AI LEAD Act (S.2937)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2937",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Cosponsored letting people hurt by an AI system sue the company that made it, like any other faulty product."
+},
+{
+"type": "hearing",
+"title": "Press release: King warns of AI harming access to veteran benefits in VA Secretary confirmation hearing",
+"url": "https://www.king.senate.gov/newsroom/press-releases/king-issues-warning-of-ai-harming-access-to-veteran-benefits-in-va-secretary-confirmation-hearing",
+"date": "2025-01",
+"quote": "I want to make something very clear. I don't want AI to decide if one of my veterans is entitled to the benefits they have earned, period.",
+"what_it_shows": "He pressed the VA nominee to keep humans, not AI, in charge of benefit decisions, citing bad experience with AI in insurance."
+},
+{
+"type": "cosponsor",
+"title": "DEFIANCE Act of 2025 (S.1837)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1837",
+"date": "2025-05-21",
+"quote": null,
+"what_it_shows": "Cosponsored letting victims sue people who make or share AI sexual deepfakes of them; he cosponsored the 2024 version too."
+},
+{
+"type": "hearing",
+"title": "Press release: 'How Feasible is Watermarking of AI-Generated Images?' King asks in Senate Intelligence hearing",
+"url": "https://www.king.senate.gov/newsroom/press-releases/how-feasible-is-watermarking-of-ai-generated-images-king-asks-in-senate-intelligence-hearing",
+"date": "2023-09-19",
+"quote": null,
+"what_it_shows": "He questioned an AI scientist about the need for regulation and liability for computer-generated content, per the release summary."
+},
+{
+"type": "interview",
+"title": "NOTUS: Lawmakers on Capitol Hill Are Learning to Love AI (King uses Claude to prep for hearings)",
+"url": "https://www.notus.org/congress/democrats-ai-claude-chatbot-trump-social-media-congress",
+"date": "2026-04-23",
+"quote": "You have to be careful with it, particularly when it's talking about analysis. But for data, it's very useful,",
+"what_it_shows": "He is an active user of AI tools, which shows his guardrails stance is not hostility to the technology itself."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "King backs a long list of targeted tech rules: banning kids under 13 from social media, updating kids' privacy law, the Kids Online Safety Act, the STOP CSAM Act, robocall crackdowns, and letting news outlets bargain with Google and Facebook. He has also backed banning apps controlled by China. He has not called for breaking up Big Tech or repealing Section 230.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: King cosponsors bipartisan legislation to protect kids from the harmful impacts of social media (Kids Off Social Media Act)",
+"url": "https://www.king.senate.gov/newsroom/press-releases/king-cosponsors-bipartisan-legislation-to-protect-kids-from-the-harmful-impacts-of-social-media",
+"date": "2025-01",
+"quote": "The bipartisan Kids Off Social Media Act would limit the harmful impacts of social media by establishing reasonable guardrails such as age minimums for new accounts and restrictions on targeting content to children under the age of 17.",
+"what_it_shows": "In his own words he wants age minimums and limits on algorithmic targeting of minors."
+},
+{
+"type": "cosponsor",
+"title": "Kids Off Social Media Act (S.278)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/278",
+"date": "2025-01-28",
+"quote": null,
+"what_it_shows": "Cosponsored banning kids under 13 from social media and stopping data-driven content targeting of anyone under 17."
+},
+{
+"type": "cosponsor",
+"title": "Children and Teens' Online Privacy Protection Act (S.836)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "Cosponsored updating kids' online privacy law so companies need permission to collect data on kids and teens."
+},
+{
+"type": "cosponsor",
+"title": "Kids Online Safety Act (S.1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-09",
+"quote": null,
+"what_it_shows": "Cosponsored the main kids online safety bill; he also cosponsored the 2024 version."
+},
+{
+"type": "cosponsor",
+"title": "STOP CSAM Act of 2025 (S.1829)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2026-07-13",
+"quote": null,
+"what_it_shows": "Cosponsored making platforms do more to remove child sexual abuse material and letting victims sue."
+},
+{
+"type": "cosponsor",
+"title": "ECCHO Act (S.3397)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3397",
+"date": "2026-03-02",
+"quote": null,
+"what_it_shows": "Cosponsored making it a federal crime to pressure kids online into hurting themselves or others."
+},
+{
+"type": "cosponsor",
+"title": "Protecting American Consumers from Robocalls Act (S.4307)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4307",
+"date": "2026-04-15",
+"quote": null,
+"what_it_shows": "Cosponsored a robocall crackdown, continuing a 2024 cosponsorship of the same idea."
+},
+{
+"type": "cosponsor",
+"title": "Journalism Competition and Preservation Act of 2023 (S.1094, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1094",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Cosponsored letting news outlets team up to make Google and Facebook pay for their stories."
+},
+{
+"type": "cosponsor",
+"title": "ANTI-SOCIAL CCP Act (S.347, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/347",
+"date": "2023-02-09",
+"quote": null,
+"what_it_shows": "Cosponsored banning TikTok and other apps controlled by the Chinese government; he also cosponsored the RESTRICT Act."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on federal preemption of state AI laws. He voted with 98 other senators to strip the 10-year moratorium from the 2025 budget bill, which by itself shows nothing. Nothing found on the December 2025 executive order or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call #363: Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1 (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted Yea with nearly the whole Senate after the deal collapsed; not evidence of a position on preemption by itself."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "No statement found on Nvidia H20 or H200 sales or on chip export control bills. The frontier AI bill he cosponsored would make cloud providers verify foreign customers so adversaries cannot rent access to the most advanced AI compute, which leans hawkish. He has also long backed banning Chinese-controlled apps.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Preserving American Dominance in AI Act (know-your-customer rules for cloud providers dealing with foreign persons)",
+"url": "https://www.king.senate.gov/newsroom/press-releases/king-colleagues-introduce-bipartisan-preserving-american-dominance-in-ai-act",
+"date": "2024-12-19",
+"quote": null,
+"what_it_shows": "The bill he cosponsored tasks infrastructure-as-a-service providers with know-your-customer standards for foreign persons to keep adversaries from exploiting U.S. AI compute."
+},
+{
+"type": "cosponsor",
+"title": "RESTRICT Act (S.686, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-29",
+"quote": null,
+"what_it_shows": "General China-tech hawkishness: cosponsored letting the government review and block tech from rival countries; not about chip exports specifically."
+}
+]
+}
+},
+"search_notes": "Searches: 'Angus King' artificial intelligence; 'data center'/'data centers'; chatbot/deepfake/AI LEAD; Section 230/Big Tech/antitrust/KOSA; Nvidia/export controls/chips China; state AI/preemption/moratorium; AI existential/superintelligence/autonomous weapons; Sen. King data centers electricity/large load/ratepayers; H20/H200 Nvidia; CyberScoop Anthropic order; BDN superintelligence op-ed (by an outside contributor, not King). Site listing of king.senate.gov (497 archived URLs, filtered for AI/kids/chips/FERC/permitting). Opened: 2024-04-16 framework release, 2024-12-19 Preserving American Dominance release, VA hearing release, Kids Off Social Media release, NOTUS 4/23/26, Utility Dive 3/27/26 and 6/30/26, Maine Public 12/8/25, Clarke letter (King not a signer, House only). Could not read (empty via direct and Wayback): watermarking hearing release body, deepfake porn release, 2023 China technology letter, 2025 Maine electric bills release, May 2026 Wright hearing release, Daily Energy Insider FERC hearing summaries. The Jan 2026 'AI Overwatch Act' lead is a House Foreign Affairs vote and does not apply to King. No AI super PAC activity found."
+},
+{
+"bioguide": "P000597",
+"name": "Chellie Pingree",
+"signature": "Cosponsor of the Clean Cloud and SHIELD Acts on data center pollution and power bills, voted against the SPEED Act permitting bill, and signed the Dec 2025 letter against any federal AI moratorium.",
+"groups": [
+"Ranking Member, House Appropriations Subcommittee on Interior, Environment, and Related Agencies"
+],
+"notable_quote": {
+"text": "strong, science-based protections in place",
+"url": "https://www.mainepublic.org/climate/2025-12-08/maine-groups-join-call-for-u-s-data-center-moratorium",
+"date": "2025-12-08"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Pingree wants strong protections before data centers grow. She cosponsored bills to cap data center pollution and to keep families from paying for data centers' power needs, said Congress must assess environmental and consumer impacts and put strong science-based protections in place, and voted against the SPEED Act permitting overhaul. She did not endorse a moratorium.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Clean Cloud Act of 2025 (H.R.6179)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6179",
+"date": "2025-12-11",
+"quote": null,
+"what_it_shows": "Cosponsored pollution limits and fees on the electricity big data centers and crypto mines use."
+},
+{
+"type": "cosponsor",
+"title": "SHIELD Act (H.R.7066)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7066",
+"date": "2026-01-14",
+"quote": null,
+"what_it_shows": "Cosponsored a bill to stop families from getting stuck with higher electric bills caused by data centers."
+},
+{
+"type": "statement",
+"title": "Maine Public: Maine groups join call for U.S. data center moratorium (Pingree spokesperson statement)",
+"url": "https://www.mainepublic.org/climate/2025-12-08/maine-groups-join-call-for-u-s-data-center-moratorium",
+"date": "2025-12-08",
+"quote": "strong, science-based protections in place.",
+"what_it_shows": "Her office said Congress has a responsibility to assess the environmental and consumer impacts of data center and AI expansion and put protections in place; it did not endorse the moratorium the groups sought."
+},
+{
+"type": "vote",
+"title": "House roll call #356 (2025): passage of H.R.4776, the SPEED Act permitting overhaul (Nay)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against the permitting bill that backers framed as speeding AI and energy infrastructure."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Pingree signed a Dec 2025 letter saying AI's potential for harm is too great to ignore without proper protections, including on algorithmic harms and bias. No bill sponsorships or floor statements on AI safety rules were found beyond that letter.",
+"evidence": [
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Pingree signer)",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "Artificial intelligence offers exciting opportunity and innovations, but without proper protections in place, the potential for harm is too great to ignore.",
+"what_it_shows": "She joined a letter calling for protections against algorithmic harms and bias and warning of a regulatory vacuum that lets Big Tech run rampant."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Limited record: she cosponsored the My Body, My Data Act to stop apps from collecting or sharing reproductive health data. She did not vote on the June 2026 House kids online safety bill. No statements found on Section 230 or antitrust.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "My Body, My Data Act of 2023 (H.R.3420, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-07-11",
+"quote": null,
+"what_it_shows": "Cosponsored a privacy bill limiting collection and sharing of reproductive health data by apps and companies."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Pingree signed the Dec 3, 2025 letter from 44 House Democrats asking defense bill negotiators to keep any moratorium or preemption of state AI laws out of the NDAA, calling a moratorium wildly irresponsible with no federal law in place. No separate statement of her own was found on the Dec 2025 executive order or March 2026 White House framework.",
+"evidence": [
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Pingree signer)",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "Any kind of preemption would cause a slew of unintended consequences putting all Americans at risk online; a moratorium would be wildly irresponsible given the lack of any federal legislation.",
+"what_it_shows": "She is on record against both a moratorium and preemption of state AI laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Pingree' artificial intelligence/AI Maine; 'data center'/'data centers'; Clean Cloud/Power for the People/Energy Bills Relief; chatbot/deepfake/KOSA/Big Tech/Section 230; AI preemption/state AI laws/moratorium; 'Chellie Pingree' data center statement. Most 'Pingree' news hits were about Hannah Pingree's governor run, not the congresswoman. pingree.house.gov uses numeric document IDs; the archive listing found nothing, and her news index pages 1 to 10 (Sept 2026 back) had no AI or data center releases. Opened: Maine Public 12/8/25, Clarke letter 12/3/25 (confirmed signer), govtrack h356 (Nay), Tonko 4/9/26 Power for the People release (she is not in the original House cosponsor list; a later Apr 30 2026 cosponsorship in the state context file could not be verified on congress.gov), Maine Wire 6/30/26 (she did not vote on the KIDS Act). The Nov 26 2025 Matsui letter could not be located to check her signature. No AI super PAC activity found."
+},
+{
+"bioguide": "G000592",
+"name": "Jared F. Golden",
+"signature": "Lead Democratic cosponsor of the SPEED Act permitting overhaul, one of 11 Democrats to vote for it; almost no public record on AI itself; not seeking reelection in 2026.",
+"groups": [],
+"notable_quote": {
+"text": "America must get back into the business of building. We need modern infrastructure. We need robust power production that does not discriminate between energy sources.",
+"url": "https://golden.house.gov/media/press-releases/golden-introduces-permitting-reform-bill-with-natural-resources-committee-chairman-westerman",
+"date": "2025-07"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Golden is the lead Democrat on the SPEED Act, a bill to speed federal permitting for energy and infrastructure that backers tie to the AI buildout, and he says he would go even further by deeming projects approved if the government misses deadlines. He frames it as building power and cutting costs while protecting the environment. He has not spoken about data centers or Maine's moratorium directly and did not answer a question on a national pause.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Golden introduces permitting reform bill with Natural Resources Chairman Westerman (SPEED Act)",
+"url": "https://golden.house.gov/media/press-releases/golden-introduces-permitting-reform-bill-with-natural-resources-committee-chairman-westerman",
+"date": "2025-07",
+"quote": "America must get back into the business of building. We need modern infrastructure. We need robust power production that does not discriminate between energy sources.",
+"what_it_shows": "He is the primary Democratic cosponsor of the bill and casts faster permitting as the way to more power and lower prices; Westerman's quote in the same release ties it to the AI race."
+},
+{
+"type": "vote",
+"title": "House roll call #356 (2025): passage of H.R.4776, the SPEED Act (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "One of 11 Democrats who voted for the permitting overhaul that passed 221 to 196."
+},
+{
+"type": "statement",
+"title": "Press release: Golden's bipartisan permitting reform bill passes House",
+"url": "https://golden.house.gov/media/press-releases/golden-s-bipartisan-permitting-reform-bill-passes-house",
+"date": "2025-12-18",
+"quote": "The simplest way to make energy, housing, and other essentials more affordable is to make it possible to actually produce enough of it at a reasonable cost. America's broken permitting system is standing in the way,",
+"what_it_shows": "He argues scarcity from slow permitting is what raises costs, the opposite framing from data center critics who blame new demand."
+},
+{
+"type": "interview",
+"title": "E&E News: Moderate Democrat would go tougher on permitting",
+"url": "https://www.eenews.net/articles/moderate-democrat-would-go-tougher-on-permitting/",
+"date": "2025-12-02",
+"quote": "deeming projects approved if the government can't get their ducks in a row in a certain amount of time.",
+"what_it_shows": "He told E&E he was at times willing to be more aggressive than the Republican chairman on permitting."
+},
+{
+"type": "other",
+"title": "Maine Public: Maine groups join call for U.S. data center moratorium (delegation asked for comment)",
+"url": "https://www.mainepublic.org/climate/2025-12-08/maine-groups-join-call-for-u-s-data-center-moratorium",
+"date": "2025-12-08",
+"quote": null,
+"what_it_shows": "His office did not respond when asked about a proposed national data center moratorium."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements, letters or bills on AI safety rules found as of Sept 2026. Searched for AI, chatbot, deepfake and NDAA AI provisions in his name and found nothing beyond routine votes.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Thin record: in the last Congress he cosponsored the House Kids Online Safety Act and the My Body, My Data Act on reproductive health data. Nothing in the current Congress, and he did not vote on the June 2026 House kids online safety bill.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Kids Online Safety Act (H.R.7891, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-07-26",
+"quote": null,
+"what_it_shows": "Cosponsored the House version requiring apps to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "My Body, My Data Act of 2023 (H.R.3420, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-12-04",
+"quote": null,
+"what_it_shows": "Cosponsored a privacy bill limiting collection and sharing of reproductive health data."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption of state AI laws. He did not sign the Dec 2025 Clarke letter, and nothing was found on the executive order or the White House framework.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China. His China trade work has been about broad tariffs and cars, not chips.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Jared Golden' artificial intelligence/AI; 'data center'/'data centers'/'SPEED Act'; Golden Maine data center moratorium/Loring/Jay; KOSA/Big Tech/Section 230/TikTok; chips/semiconductors/export controls China; NDAA AI vote; Rep. Golden AI 2025-2026; Westerman Golden permitting; E&E moderate Democrat permitting. Site listing of golden.house.gov filtered for permitting/AI/kids/tech. Opened: two Golden press releases on the SPEED Act (July 2025 introduction, Dec 2025 passage), E&E News 12/2/25, govtrack h356 (Yea), Maine Public 12/8/25 (no response), Clarke letter (not a signer), Maine Wire 6/30/26 (did not vote on KIDS Act). The July 2026 FY27 NDAA vote (clerk roll 278) was not opened and is not AI-specific, so it is omitted. Blue Dog Caucus membership noted but not AI-related. No AI super PAC activity found."
+}
+]

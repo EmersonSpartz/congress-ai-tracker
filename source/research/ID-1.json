@@ -1,0 +1,629 @@
+[
+{
+"bioguide": "R000584",
+"name": "James E. Risch",
+"signature": "Frames AI's electricity appetite as the case for an Idaho-led nuclear build-out; co-leads the TEST AI Act on federal AI safety testing.",
+"groups": [
+"Co-lead, Senate National Labs Caucus"
+],
+"notable_quote": {
+"text": "this huge demand we’re going to have for power in just a very few years because of AI and these other things coming online, they realize that it is going to take nuclear power",
+"url": "https://www.kmvt.com/2026/03/13/idaho-leaders-push-nuclear-energy-expansion-with-new-task-force-federal-bill/",
+"date": "2026-03-13"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Risch treats AI-driven electricity demand as real and answers it with more nuclear power, including his 2026 ARC Act to help finance new reactors. No statements found on data center siting, ratepayer costs, or the Meta Kuna project as of Sept 2026.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Risch touts significance of nuclear energy to growing energy demand (Senate Energy hearing remarks)",
+"url": "https://www.risch.senate.gov/news/press-releases/risch-touts-significance-of-nuclear-energy-to-growing-energy-demand/",
+"date": "2025-07-25",
+"quote": null,
+"what_it_shows": "At a July 2025 Senate Energy hearing he said he had been a doubter about forecasts of AI-driven electricity demand but now expects the country to be inundated with demand, and that nuclear power is how to meet it."
+},
+{
+"type": "interview",
+"title": "KMVT: Idaho leaders push for nuclear energy expansion with new task force, federal bill",
+"url": "https://www.kmvt.com/2026/03/13/idaho-leaders-push-nuclear-energy-expansion-with-new-task-force-federal-bill/",
+"date": "2026-03-13",
+"quote": "this huge demand we’re going to have for power in just a very few years because of AI and these other things coming online, they realize that it is going to take nuclear power",
+"what_it_shows": "He ties AI and data center power demand directly to his bipartisan Accelerating Reliable Capacity (ARC) Act, which would put $3.6 billion behind finishing new commercial reactors."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "low",
+"summary": "His only AI-specific action is co-leading the TEST AI Act, which has the national labs and NIST build test beds to check whether AI systems are safe and trustworthy. It funds testing rather than rules, so it does not show a clear lean toward or against regulation.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1633 TEST AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1633",
+"date": "2025-05-07",
+"quote": null,
+"what_it_shows": "He co-led a bipartisan bill directing the Energy Department and NIST to build test beds for measuring whether AI systems are safe and reliable."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3162 TEST AI Act of 2024 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/3162",
+"date": "2023-10-30",
+"quote": null,
+"what_it_shows": "He backed the earlier version of the same AI testing bill, showing a sustained interest in federal AI evaluation capacity."
+},
+{
+"type": "statement",
+"title": "MeriTalk: Bipartisan Senate bill looks to improve AI testing",
+"url": "https://www.meritalk.com/articles/bipartisan-senate-bill-looks-to-improve-ai-testing/",
+"date": "2025-05-09",
+"quote": null,
+"what_it_shows": "Names Risch as one of five senators introducing the TEST AI Act; the article carries a quote from Sen. Lujan on AI vulnerabilities and risks but no Risch quote."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted rules for online platforms: he cosponsors the Kids Online Safety Act and the STOP CSAM Act and has long pushed against TikTok's Chinese ownership. No support found for Big Tech break-ups or repealing Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-09",
+"quote": null,
+"what_it_shows": "Supports requiring social media and gaming platforms to build in safety tools for minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1829 STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2026-06-15",
+"quote": null,
+"what_it_shows": "Supports making platforms do more to report and remove child sexual abuse material and letting victims sue."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1409 Kids Online Safety Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409",
+"date": "2023-05-02",
+"quote": null,
+"what_it_shows": "Backed KOSA in the prior Congress too, a consistent kids' safety position."
+},
+{
+"type": "statement",
+"title": "KTVB: Idaho delegates vote on TikTok ban bill (Risch office statement)",
+"url": "https://www.ktvb.com/article/news/local/idaho-lawmakers-vote-tiktok-ban-bill/277-ff0501fb-bfaa-4be8-b939-2107220db353",
+"date": "2024-03-13",
+"quote": "Senator Risch has long voiced concerns about TikTok given the CCP's ability to control the app.",
+"what_it_shows": "His communications director said he leaned toward the TikTok divest-or-ban bill and had written the FTC in 2023 about the app's influence on children."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Voted with 98 other senators to strip the 10-year moratorium on state AI laws from the 2025 budget bill, but that near-unanimous vote came after the deal collapsed and is not a stated position. No statements, letters, or bills on preemption found as of Sept 2026.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the state AI law moratorium from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote to remove the moratorium; because nearly every senator voted the same way, this alone does not show where he stands on preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "He signed a July 2026 letter pressing Apple not to buy memory chips from Chinese military-linked companies and has long attacked China's theft of Micron's technology. No statement found on Nvidia H20 or H200 sales to China or on the Chip Security Act.",
+"evidence": [
+{
+"type": "letter",
+"title": "MacRumors: Senators demand Apple commit to not buying Chinese memory chips (Risch a signer)",
+"url": "https://www.macrumors.com/2026/07/30/apple-chinese-chips-senator-letter/",
+"date": "2026-07-30",
+"quote": null,
+"what_it_shows": "He joined Sen. Schumer's bipartisan letter asking Apple to commit not to use memory chips from China's CXMT or YMTC, a hawkish, Micron-friendly stance on Chinese chipmakers."
+},
+{
+"type": "hearing",
+"title": "Press release: In hearing on worldwide threats, Risch points to Micron as example of technology, IP theft by China",
+"url": "https://www.risch.senate.gov/news/press-releases/in-hearing-on-worldwide-threats-risch-points-to-micron-as-example-of-technology-ip-theft-by-china",
+"date": "2019-01-30",
+"quote": null,
+"what_it_shows": "At a Senate Intelligence hearing he called China the real concern and used Chinese theft of Micron's memory chip technology as his prime example of why China must live by rule of law."
+},
+{
+"type": "letter",
+"title": "Press release: Crapo, Risch, Simpson, Fulcher support inclusion of chips permitting reform in defense bill",
+"url": "https://www.crapo.senate.gov/media/newsreleases/crapo-risch-simpson-fulcher-support-inclusion-of-chips-permitting-reform-in-defense-bill",
+"date": "2023-10-27",
+"quote": null,
+"what_it_shows": "He joined a 115-lawmaker letter to keep NEPA permitting relief for U.S. semiconductor plants in the FY24 defense bill; this is about building chips at home, not export controls."
+}
+]
+}
+},
+"search_notes": "Searches: Risch artificial intelligence; Risch data center Idaho; Risch nuclear AI electricity demand; Risch Nvidia/export controls/chips China; Risch Big Tech/Section 230/TikTok/KOSA; Risch state AI laws/preemption/moratorium (no results); Risch Gallego nuclear bill; Risch Achilles race AI; Risch KOSA/STOP CSAM (no results); Risch Micron IP theft; Risch H20/H200 export controls; site listing of risch.senate.gov. Opened: KMVT nuclear task force article, FedScoop and MeriTalk TEST AI stories, MacRumors Apple letter, KTVB TikTok vote, CFO Dive moratorium story, Lam Research Boise release, Micron 2022 delegation release. risch.senate.gov returns Akamai 403 to scripted fetchers and the Wayback fallback was unreachable, so the two Risch press releases were read in the browser pane; no quotes were taken from those pages, only descriptions. Not opened: Idaho Capital Sun Risch v. Achilles profile (Cloudflare block), Daily Energy Insider FERC large-load hearing summary (403), Syracuse.com Apple letter story (403). No AI super PAC activity found for or against him."
+},
+{
+"bioguide": "C000880",
+"name": "Mike Crapo",
+"signature": "Senate Finance chairman who wants Congress to understand AI before regulating it, while pressing agencies on AI safeguards in Social Security and Medicare.",
+"groups": [
+"Chairman, Senate Finance Committee"
+],
+"notable_quote": {
+"text": "To mitigate the risks associated with deploying AI across its programs, SSA must have strong governance frameworks in place that, among other important aspects, clarify the role of human discretion.",
+"url": "https://www.meritalk.com/articles/senators-probe-social-security-administration-on-ai-safeguards/",
+"date": "2024-08-06"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers, Idaho Power's large-load rates, or the Meta Kuna project as of Sept 2026. Searches of his press releases and Idaho news coverage turned up nothing on the topic.",
+"evidence": []
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Leans light touch: he told a 2024 Finance hearing that Congress should understand how AI works before legislating and warned that rigid one-size-fits-all rules could stifle medical advances, and in 2026 he defended Medicare's AI-assisted prior authorization pilot. He does back oversight of AI in government benefit decisions, pressing Social Security on AI safeguards in 2024.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Press release: Crapo statement at Finance hearing on AI in health care",
+"url": "https://www.crapo.senate.gov/media/newsreleases/crapo-statement-at-hearing-on-ai-in-health-care",
+"date": "2024-02-08",
+"quote": null,
+"what_it_shows": "As Finance ranking member he said Congress should not legislate first and ask questions later, called one-size-fits-all AI rules a risk to life-saving advances, and favored a sector-specific, risk-based approach with targeted oversight of algorithms that improperly deny care."
+},
+{
+"type": "letter",
+"title": "MeriTalk: Senators probe Social Security Administration on AI safeguards (Crapo-Wyden letter)",
+"url": "https://www.meritalk.com/articles/senators-probe-social-security-administration-on-ai-safeguards/",
+"date": "2024-08-06",
+"quote": "To mitigate the risks associated with deploying AI across its programs, SSA must have strong governance frameworks in place that, among other important aspects, clarify the role of human discretion.",
+"what_it_shows": "He and Sen. Wyden demanded details on how Social Security uses AI in benefit decisions, warning it could worsen improper payments without governance and human oversight."
+},
+{
+"type": "statement",
+"title": "Healthcare Dive: Senate Republicans kill bid to end Medicare AI prior authorization pilot (Crapo floor argument)",
+"url": "https://www.healthcaredive.com/news/senate-republicans-block-medicare-ai-prior-authorization-pilot-repeal-wiser/825523/",
+"date": "2026-07-16",
+"quote": "Ending this pilot program prematurely will deprive CMS of a useful tool to accomplish each of those goals.",
+"what_it_shows": "He led the argument against a Democratic resolution to shut down WISeR, Medicare's AI-backed prior authorization experiment, calling it a tool against waste and fraud."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Consistently backs targeted online rules: repeat cosponsor of the Kids Online Safety Act and the children's privacy update (COPPA 2.0), cosponsored the RESTRICT Act aimed at TikTok-style foreign apps, and as Banking chairman pushed for consumers to control their financial data. No support found for breaking up Big Tech or repealing Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.836 Children and Teens' Online Privacy Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "Supports requiring permission before companies collect data on kids and teens and banning targeted ads to them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Supports a duty of care and safety tools for minors on social media, games, and video sites."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.686 RESTRICT Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-29",
+"quote": null,
+"what_it_shows": "Backed giving the government power to review and block apps and tech from rival countries such as China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1418 Children and Teens' Online Privacy Protection Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1418",
+"date": "2024-04-15",
+"quote": null,
+"what_it_shows": "Backed the kids' privacy update in the prior Congress too."
+},
+{
+"type": "statement",
+"title": "Press release: Crapo leads efforts on data privacy and protection (Banking Committee hearing)",
+"url": "https://www.crapo.senate.gov/media/newsreleases/crapo-leads-efforts-on-data-privacy-and-protection",
+"date": "2019-05-07",
+"quote": null,
+"what_it_shows": "As Banking chairman he said consumers deserve to know what data is collected about them and should have real control over it, and that the committee would explore legislation."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Voted with 98 other senators to strip the 10-year moratorium on state AI laws from the 2025 budget bill, but that near-unanimous vote came after the deal collapsed and is not a stated position. No statements, letters, or bills on preemption found as of Sept 2026.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the state AI law moratorium from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote to remove the moratorium; because nearly every senator voted the same way, this alone does not show where he stands on preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Signed a July 2026 bipartisan letter pressing Apple to commit not to buy memory chips from Chinese military-linked firms CXMT and YMTC, a Micron-friendly stance. No statement found on Nvidia chip sales to China or the Chip Security Act.",
+"evidence": [
+{
+"type": "letter",
+"title": "MacRumors: Senators demand Apple commit to not buying Chinese memory chips (Crapo a signer)",
+"url": "https://www.macrumors.com/2026/07/30/apple-chinese-chips-senator-letter/",
+"date": "2026-07-30",
+"quote": null,
+"what_it_shows": "He joined Sen. Schumer's letter asking Apple to rule out memory chips from China's CXMT and YMTC, which Schumer also wants added to the Entity List."
+},
+{
+"type": "letter",
+"title": "Press release: Crapo, Risch, Simpson, Fulcher support inclusion of chips permitting reform in defense bill",
+"url": "https://www.crapo.senate.gov/media/newsreleases/crapo-risch-simpson-fulcher-support-inclusion-of-chips-permitting-reform-in-defense-bill",
+"date": "2023-10-27",
+"quote": null,
+"what_it_shows": "He joined a 115-lawmaker letter to keep NEPA permitting relief for U.S. semiconductor plants in the FY24 defense bill; this is about building chips at home, not export controls."
+}
+]
+}
+},
+"search_notes": "Searches: Crapo artificial intelligence; Crapo data center(s) (nothing relevant); Crapo AI tax Finance Committee; Crapo Nvidia/export controls/semiconductor/Micron; Crapo Big Tech/Section 230/antitrust/TikTok/KOSA; Crapo AI prior authorization/health care; Crapo AI moratorium/state AI laws; Chairman Crapo AI hearing/statement (no results); Crapo AI fraud IRS/Medicare/SSA; Crapo Wyden SSA AI letter; Crapo KOSA/COPPA statements (no results); Crapo H20/export controls; site listing of crapo.senate.gov. Opened: MeriTalk SSA AI story, Healthcare Dive WISeR story, FedScoop taxpayer services bill story, Nextgov DOGE-SSA data story, MacRumors Apple letter, KTVB TikTok vote, CFO Dive moratorium story, Micron 2022 delegation release. crapo.senate.gov returns Akamai 403 to scripted fetchers and the Wayback fallback was unreachable, so three Crapo press releases were read in the browser pane; no quotes were taken from those pages, only descriptions. Not opened: Politico Pulse fraud newsletter (403), Washington Post Feb 2024 health AI analysis, Idaho Statesman op-ed on CHIPS vote. His office told KTVB in March 2024 it would not say how he would vote on the TikTok bill. No AI super PAC activity found for or against him."
+},
+{
+"bioguide": "F000469",
+"name": "Russ Fulcher",
+"signature": "Former Micron employee on Energy and Commerce who grills witnesses on AI chatbots and kids and on AI bioterror risks, and pushes geothermal to power AI demand.",
+"groups": [
+"Vice Chair, House Energy and Commerce Subcommittee on Commerce, Manufacturing, and Trade",
+"Member, House Republican Big Tech Censorship and Data Task Force (2021)"
+],
+"notable_quote": {
+"text": "Kids are wired to form attachments with things that act friendly. What we don’t want happening is a chatbot taking the role of teaching a child right and wrong.",
+"url": "https://energycommerce.house.gov/posts/subcommittee-on-o-and-i-holds-hearing-on-artificial-intelligence-ai-chatbots",
+"date": "2025-11-18"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Supports building more power supply to meet AI-driven demand, mainly through faster permitting of geothermal on federal land, and frames it as a way to keep consumer prices low. He sits on the Energy and Commerce Committee that advanced the Ratepayer Protection Act 52-0 in July 2026, but his individual vote and any statement on it were not found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Fulcher introduces bill to unleash power of geothermal energy and lower costs (H.R. 5576)",
+"url": "https://fulcher.house.gov/2025/11/25/id-fe5eb258-d1e3-488b-aa68-86a5f1204107/",
+"date": "2025-11-25",
+"quote": "This clean, abundant resource has the potential to help meet the United States’ power demand, which is increasing at a historic rate due in part to AI and other technological advancements.",
+"what_it_shows": "He treats AI-driven demand as a reason to cut federal red tape and build more generation, with lower consumer prices as the stated goal."
+},
+{
+"type": "op_ed",
+"title": "Op-ed: Geothermal, the energy powerhouse Idaho already understands",
+"url": "https://fulcher.house.gov/2026/05/11/fulcher-op-ed-geothermal-the-energy-powerhouse-idaho-already-understands/",
+"date": "2026-05-11",
+"quote": "Ensuring America is ready to meet these growing needs through various power sources, such as geothermal, is essential to keeping prices low for consumers and strengthening our energy independence.",
+"what_it_shows": "He links rising electricity demand driven in part by AI to the need for new supply and permitting reform, while naming consumer prices as the concern."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Mixed. He cheers AI as a field where America must lead and praised the 2025 House package that promoted AI, but he presses hard on specific harms: kids forming attachments to chatbots, AI-faked sexual images, AI-enabled bioweapons and terrorism. No support found for broad AI licensing or safety mandates.",
+"evidence": [
+{
+"type": "hearing",
+"title": "E&C Oversight hearing on AI chatbots: Fulcher questions on kids and chatbots",
+"url": "https://energycommerce.house.gov/posts/subcommittee-on-o-and-i-holds-hearing-on-artificial-intelligence-ai-chatbots",
+"date": "2025-11-18",
+"quote": "Kids are wired to form attachments with things that act friendly. What we don’t want happening is a chatbot taking the role of teaching a child right and wrong.",
+"what_it_shows": "He worries children will treat chatbots as parental authorities and, per the hearing transcript, that customizable chatbots can validate abusers and pull struggling users away from human relationships."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.633 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-31",
+"quote": null,
+"what_it_shows": "Supports criminalizing AI-faked sexual images and forcing fast takedowns, a targeted AI harm rule now law."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.6499 Assessing Safety Tools for Parents and Minors Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6499",
+"date": "2025-12-09",
+"quote": null,
+"what_it_shows": "His bill orders a study of parental control tools; it was part of the 18-bill kids' online safety package the E&C subcommittee advanced in December 2025."
+},
+{
+"type": "hearing",
+"title": "E&C Oversight hearing on AI and biotechnology: Fulcher on stopping AI-enabled bio threats",
+"url": "https://energycommerce.house.gov/posts/o-and-i-subcommittee-holds-hearing-on-ai-and-biotechnology",
+"date": "2025-12-17",
+"quote": "can you say what specific parts of that order are actually going to stop these threats, or have the best chance of stopping these threats?",
+"what_it_shows": "He asked whether the May 2025 executive order's gene synthesis screening provisions would stop AI-enabled biological threats and what more Congress should do."
+},
+{
+"type": "hearing",
+"title": "Fulcher video: 'Are we at that point?' Fulcher questions if terrorists can use AI to carry out attacks",
+"url": "https://fulcher.house.gov/2026/02/23/are-we-at-that-point-fulcher-questions-if-terrorists-can-use-ai-to-carry-out-attacks/",
+"date": "2026-02-23",
+"quote": null,
+"what_it_shows": "Video-only post of his hearing questions on whether terrorists can already use AI to carry out attacks; shows attention to catastrophic misuse, direction on rules unclear."
+},
+{
+"type": "statement",
+"title": "Press release: Fulcher on Energy and Commerce passage of reconciliation text",
+"url": "https://fulcher.house.gov/2025/5/fulcher-on-energy-commerce-passage-of-reconciliation-text",
+"date": "2025-05-15",
+"quote": "This legislation takes important steps to strengthen America’s leadership on the world stage by supporting rapid technological advancements in Artificial Intelligence",
+"what_it_shows": "He framed AI as a race for American leadership and praised the committee text that promoted AI adoption, a pro-innovation counterweight to his harm-focused questioning."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Backs targeted tech rules rather than break-ups: his bill making smart appliances disclose hidden cameras and microphones passed the House in 2025, he cosponsors kids' online safety and car-data privacy bills, voted for the TikTok divest-or-ban bill, and served on the 2021 House GOP Big Tech task force calling to rein in the companies' power.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.859 Informing Consumers about Smart Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/859",
+"date": "2025-01-31",
+"quote": null,
+"what_it_shows": "His bipartisan bill requires makers of smart appliances to disclose hidden cameras or microphones."
+},
+{
+"type": "statement",
+"title": "Press release: Fulcher's bill to inform consumers of spy appliances passes House",
+"url": "https://fulcher.house.gov/2025/4/fulcher-s-bill-to-inform-consumers-of-spy-appliances-passes-house",
+"date": "2025-04-29",
+"quote": "Consumers have a right to know if their internet-connected ‘smart’ appliance is recording them unknowingly",
+"what_it_shows": "He celebrated House passage of a consumer disclosure mandate on connected devices."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6734 Auto Data Privacy and Autonomy Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6734",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Supports giving car owners control over the data their connected cars collect."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.7891 Kids Online Safety Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-07-11",
+"quote": null,
+"what_it_shows": "Backed the House KOSA requiring platforms to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.7890 Children and Teens' Online Privacy Protection Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7890",
+"date": "2024-04-15",
+"quote": null,
+"what_it_shows": "Backed the kids' privacy update requiring permission before collecting data on minors."
+},
+{
+"type": "statement",
+"title": "Press release: Leader McCarthy announces Fulcher's appointment to Big Tech task force",
+"url": "https://fulcher.house.gov/2021/07/01/id-16798d2a-f7bc-415a-b82f-f6f2f7043918/",
+"date": "2021-07-01",
+"quote": "It is time we start reigning in their power and ensuring these companies are held accountable for their actions.",
+"what_it_shows": "On joining the GOP Big Tech Censorship and Data task force he called for reining in Big Tech over speech bans and data practices."
+},
+{
+"type": "statement",
+"title": "Press release: Fulcher and Pappas introduce the Internet Application I.D. Act",
+"url": "https://fulcher.house.gov/2023/2/fulcher-and-pappas-introduce-the-internet-application-id-act",
+"date": "2023-02-08",
+"quote": "This bipartisan bill provides Americans with an additional tool to protect their private information.",
+"what_it_shows": "His bill would force websites and apps owned by the Chinese Communist Party to disclose that ownership to users."
+},
+{
+"type": "statement",
+"title": "KTVB: Idaho delegates vote on TikTok ban bill",
+"url": "https://www.ktvb.com/article/news/local/idaho-lawmakers-vote-tiktok-ban-bill/277-ff0501fb-bfaa-4be8-b939-2107220db353",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "KTVB reports he voted yea on the House bill forcing TikTok's Chinese owner to divest or face a ban."
+},
+{
+"type": "hearing",
+"title": "Fulcher video: Fulcher asks witness if Section 230 protections should apply to generative AI",
+"url": "https://fulcher.house.gov/2025/04/01/id-3796daec-82aa-4970-9f30-28587adcbfe7/",
+"date": "2025-04-01",
+"quote": null,
+"what_it_shows": "Video-only post showing he raised whether the platform liability shield should cover generative AI; his own view is not stated in text."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "Leans toward one national approach: his office touted the 2025 Energy and Commerce budget text for guarding against a patchwork of state AI laws, and he voted for the House bill that carried the 10-year state-law moratorium. He has not spoken directly about the Dec 2025 executive order or the March 2026 White House framework, so confidence is low.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Fulcher on Energy and Commerce passage of reconciliation text (bill background)",
+"url": "https://fulcher.house.gov/2025/5/fulcher-on-energy-commerce-passage-of-reconciliation-text",
+"date": "2025-05-15",
+"quote": "Modernizes the Department of Commerce to update IT systems and integrate beneficial AI tools, while guarding against a patchwork of state AI laws from undermining innovation.",
+"what_it_shows": "His release lists blocking a patchwork of state AI laws as one of the wins in the committee text he praised; the text carried the 10-year moratorium."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on House passage of H.R. 1 (roll call 145), which then included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A package vote for the whole budget bill, so weak on its own, but consistent with his release praising the AI provisions."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China. He opposed the 2022 CHIPS+ Act subsidies on fiscal grounds while calling a China-dominated chip market a threat, later signed a 2023 letter to speed permitting for U.S. chip plants, and targets Chinese-owned apps.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Statement on the CHIPS+ Act",
+"url": "https://fulcher.house.gov/2022/7/statement-on-the-chips-act",
+"date": "2022-07-28",
+"quote": "I recognize the importance of the industry and the threat that a market dominated by China would pose.",
+"what_it_shows": "Drawing on 15 years at a semiconductor company, he opposed the CHIPS+ subsidies as inflationary spending while agreeing China's chip position is a risk."
+},
+{
+"type": "letter",
+"title": "Press release: Crapo, Risch, Simpson, Fulcher support inclusion of chips permitting reform in defense bill",
+"url": "https://www.crapo.senate.gov/media/newsreleases/crapo-risch-simpson-fulcher-support-inclusion-of-chips-permitting-reform-in-defense-bill",
+"date": "2023-10-27",
+"quote": null,
+"what_it_shows": "He joined a 115-lawmaker letter to keep NEPA permitting relief for U.S. semiconductor plants in the FY24 defense bill; about domestic chip building, not export controls."
+}
+]
+}
+},
+"search_notes": "Searches: Russ Fulcher artificial intelligence; Fulcher data center(s); Fulcher AI chatbot/deepfake/kids online; Fulcher Section 230/TikTok/Big Tech/smart devices; Fulcher geothermal data centers/Ratepayer Protection/large load; Fulcher state AI laws/moratorium/preemption/export controls/Nvidia; Fulcher AI hearing Energy Commerce; Fulcher parental tools bill/KIDS Act; Fulcher terrorists AI hearing Feb 2026; Fulcher town hall; Fulcher AI 2026 Idaho press; two site listings of fulcher.house.gov. Opened: E&C chatbot hearing page and Tech Policy Press full transcript, E&C AI-biotech hearing page, E&C semiconductor hearing page (no Fulcher excerpt), Tech Policy Press April and December 2025 roundups, E&E News Ratepayer Protection Act markup story (does not name him), KTVB TikTok vote, govtrack H.R. 1 vote, and 13 fulcher.house.gov releases via direct curl because the helper only returned form boilerplate for that site. Not opened: Idaho Press profile of his independent challenger (captcha), Lewiston Tribune and Idaho Capital Sun phone town hall stories, KTVB July 2026 car kill-switch bill story, Post Register Sept 2026 Flock camera privacy bill story (Google News links would not decode). No AI super PAC activity found for or against him."
+},
+{
+"bioguide": "S001148",
+"name": "Michael K. Simpson",
+"signature": "Appropriations cardinal focused on Idaho National Laboratory nuclear funding and Micron's chip boom; little public engagement on AI policy.",
+"groups": [
+"Chairman, House Appropriations Subcommittee on Interior, Environment, and Related Agencies"
+],
+"notable_quote": {
+"text": "I am thrilled to hear the news that Micron will be building such a critical facility for U.S. national and economic security here in Idaho",
+"url": "https://fulcher.house.gov/2022/9/idaho-delegation-applauds-micron-announcement",
+"date": "2022-09-02"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on data centers, Idaho Power's large-load rates, the Meta Kuna project, or the Energy Department's plan for an AI data center near Arco in his district. As Interior appropriations chairman he moved a 2026 bill in which Republicans rejected Democratic data center amendments, but he did not speak to them publicly.",
+"evidence": [
+{
+"type": "other",
+"title": "E&E News: Republicans reject renewable energy, data center amendments to Interior-EPA bill",
+"url": "https://www.eenews.net/articles/republicans-reject-renewable-energy-data-center-amendments-to-interior-epa-bill/",
+"date": "2026-06-04",
+"quote": null,
+"what_it_shows": "His FY27 Interior-Environment bill cleared committee 35-27 on party lines as Republicans turned back Democratic data center amendments; the story does not quote him on data centers."
+},
+{
+"type": "statement",
+"title": "Press release: Chairman Simpson's FY27 Interior and Environment appropriations bill advances in House Appropriations Committee",
+"url": "https://simpson.house.gov/news/documentsingle.aspx?DocumentID=401997",
+"date": "2026-06-03",
+"quote": null,
+"what_it_shows": "His own release describes the bill as unleashing domestic energy and mineral production and cutting regulatory burdens, with no mention of data centers or AI."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on AI safety, chatbots, deepfakes, or AI rules found in his press releases, Idaho news coverage, or appropriations statements as of Sept 2026.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "The only clear data point is support for the 2024 TikTok divest-or-ban bill; his office said he would have voted for it. No record found on kids' online safety bills, Section 230, or privacy.",
+"evidence": [
+{
+"type": "statement",
+"title": "KTVB: Idaho delegates vote on TikTok ban bill (Simpson office statement)",
+"url": "https://www.ktvb.com/article/news/local/idaho-lawmakers-vote-tiktok-ban-bill/277-ff0501fb-bfaa-4be8-b939-2107220db353",
+"date": "2024-03-13",
+"quote": "pleased to see the bipartisan Protecting Americans from Foreign Adversary Controlled Applications Act pass the House.",
+"what_it_shows": "He missed the vote but his office said he would have voted for forcing TikTok's Chinese owner to divest."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Voted for the May 2025 House budget bill that carried the 10-year moratorium on state AI laws, but that was a package vote. No statement, letter, or bill on preemption found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on House passage of H.R. 1 (roll call 145), which then included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A vote for the whole budget package; it does not by itself show a view on preempting state AI laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on chip export controls or Nvidia sales to China. He is a booster of Idaho's domestic chip industry: he cosponsors the BASIC Act chip tax credit, secured semiconductor workforce funding for Boise State, and signed a 2023 letter to speed permitting for U.S. chip plants.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3204 BASIC Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-05-05",
+"quote": null,
+"what_it_shows": "Supports extending the tax break for building chip factories in America and adding chip design; a domestic industry measure, not an export rule."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Simpson secures funding for Boise State's continued research in microelectronics and semiconductor spaces",
+"url": "https://simpson.house.gov/news/documentsingle.aspx?DocumentID=401841",
+"date": "2026-01-12",
+"quote": "Idaho is at the forefront of the semiconductor industry, and Boise State University is uniquely positioned to support this continued development through its outstanding science and engineering programs",
+"what_it_shows": "He secured $4 million for semiconductor workforce and research at Boise State, part of a consistent focus on Idaho's chip industry."
+},
+{
+"type": "statement",
+"title": "Press release: Idaho delegation applauds Micron announcement",
+"url": "https://fulcher.house.gov/2022/9/idaho-delegation-applauds-micron-announcement",
+"date": "2022-09-02",
+"quote": "I am thrilled to hear the news that Micron will be building such a critical facility for U.S. national and economic security here in Idaho",
+"what_it_shows": "He frames Micron's Boise memory chip fab as a national security asset."
+},
+{
+"type": "letter",
+"title": "Press release: Crapo, Risch, Simpson, Fulcher support inclusion of chips permitting reform in defense bill",
+"url": "https://www.crapo.senate.gov/media/newsreleases/crapo-risch-simpson-fulcher-support-inclusion-of-chips-permitting-reform-in-defense-bill",
+"date": "2023-10-27",
+"quote": null,
+"what_it_shows": "He joined a 115-lawmaker letter to keep NEPA permitting relief for U.S. semiconductor plants in the FY24 defense bill."
+}
+]
+}
+},
+"search_notes": "Searches: Mike Simpson Idaho artificial intelligence; Simpson Idaho data center(s) appropriations; Simpson INL AI supercomputer nuclear; Simpson INL data center supercomputer; Simpson Micron/CHIPS/semiconductor/BASIC Act; Simpson Big Tech/TikTok/Section 230/AI moratorium/KOSA; Simpson Energy and Water AI; Simpson Interior data centers federal lands (no results); Simpson Arco DOE data center comment (no results); Simpson FY27 Interior statement; Simpson AI 2026 statement; two site listings of simpson.house.gov and eight pages of his press release index. Opened: E&E News Interior markup story, Roll Call DOE cuts story (his concern there was nuclear cleanup funding, not AI), House Appropriations FY27 markup release, Quiver copy of his FY27 INL release, his FY27 Interior, FY26 and FY27 INL, and Boise State semiconductor releases (none mention AI or data centers), KTVB TikTok vote, govtrack H.R. 1 vote, Lam Research Boise release (his district director attended). Not opened: Idaho Mountain Express stories on DOE's Arco AI data center plan (Google News links would not decode), E&E Q&A on the 2024 Interior bill, his 2022 CHIPS Plus statement. No AI super PAC activity found for or against him."
+}
+]

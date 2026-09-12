@@ -1,0 +1,586 @@
+[
+{
+"bioguide": "A000055",
+"name": "Robert B. Aderholt",
+"signature": "Labor-HHS appropriations chair with no notable public AI record; his tech footprint is kids-online-safety cosponsorships and the 2024 TikTok divest-or-ban vote.",
+"notable_quote": {
+"text": "Americans should be free to use the apps they choose, but they should also be free from those apps spying on them on behalf of a foreign adversary.",
+"url": "https://aderholt.house.gov/media-center/press-releases/aderholt-votes-ban-tiktok-unless-its-sold",
+"date": "2024-03-13"
+},
+"groups": [
+"Chairman, House Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026, even though Cullman in his district passed a one-year data center moratorium in June 2026. Searched his press releases, Yellowhammer op-eds, Alabama Daily News, AL.com and local Cullman coverage.",
+"evidence": []
+},
+"ai_risk": {
+"score": null,
+"confidence": "low",
+"summary": "No personal statements on AI risk found. The one related action is indirect: the FY27 Labor-HHS spending bill he chairs carried a committee-adopted provision blocking Medicare's AI prior-authorization pilot (WISeR) in June 2026, but he has not spoken about it himself and his own markup remarks do not mention AI.",
+"evidence": [
+{
+"type": "other",
+"title": "LeadingAge report: House Appropriations Committee votes to end WISeR model in FY27 Labor-HHS bill",
+"url": "https://leadingage.org/house-appropriations-committee-votes-to-end-wiser-model/",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "The spending bill Aderholt wrote as subcommittee chair left committee with a provision barring funds for Medicare's AI-driven prior authorization pilot; news headlines called the committee vote unanimous, but no Aderholt statement on it was found."
+},
+{
+"type": "statement",
+"title": "House Appropriations release: Committee approves FY27 Labor-HHS bill, Aderholt statement (no AI mention)",
+"url": "https://appropriations.house.gov/news/press-releases/committee-approves-fy27-labor-health-and-human-services-and-education",
+"date": "2026-06-09",
+"quote": null,
+"what_it_shows": "His official statement and amendment list for the bill say nothing about AI, so the WISeR provision cannot be read as a personal AI position."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted rules aimed at kids and foreign-owned apps: he cosponsored age-verification and child-safety bills, voted to force TikTok's sale, and said protecting kids online is vitally important when asked about the Kids Online Safety Act. No broader Big Tech or Section 230 agenda found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor, SCREEN Act (H.R. 1623), age checks for adult websites",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-02-26",
+"quote": null,
+"what_it_shows": "Supports a specific kids-online-safety mandate on websites."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, Child Online Safety Modernization Act of 2023 (H.R. 5182)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2023-09-21",
+"quote": null,
+"what_it_shows": "Backed stronger reporting duties for online companies on child abuse material."
+},
+{
+"type": "statement",
+"title": "Press release: Aderholt votes to ban TikTok unless it's sold",
+"url": "https://aderholt.house.gov/media-center/press-releases/aderholt-votes-ban-tiktok-unless-its-sold",
+"date": "2024-03-13",
+"quote": "As long as ByteDance owns it, TikTok is 170 million spy balloons right in our phones.",
+"what_it_shows": "Supports forcing a foreign-owned platform to divest on data-security grounds."
+},
+{
+"type": "interview",
+"title": "Yellowhammer News: Aderholt on TikTok bill, Alabama Public Television Capitol Journal remarks",
+"url": "https://yellowhammernews.com/aderholt-on-tiktok-bill-this-is-about-the-chinese-communist-government/",
+"date": "2024-03-18",
+"quote": "The problem is the Chinese Communist government and their access to all terabytes of information and spying on us citizens.",
+"what_it_shows": "Frames the TikTok measure as a China data-security issue, not a ban on the app itself."
+},
+{
+"type": "statement",
+"title": "Alabama Daily News: delegation talks social media at BCA; Aderholt on kids online safety bill",
+"url": "https://aldailynews.com/alabamas-congressional-delegation-talks-infrastructure-social-media-at-bca/",
+"date": "2024-08-12",
+"quote": "Protection of our kids is vitally important and crucial",
+"what_it_shows": "Asked about the Senate-passed Kids Online Safety Act heading to the House, he voiced support for protecting kids and national security."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on federal preemption of state AI laws, the 2025 moratorium fight, the Dec 2025 executive order or the Mar 2026 White House framework. He is not on the GUARDRAILS Act or any preemption bill.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China. His China-tech statements are about TikTok and data security, not semiconductors.",
+"evidence": []
+}
+},
+"search_notes": "Ran 12 news searches (AI, artificial intelligence, data center, chatbot/deepfake/KOSA, TikTok/Big Tech/230, China chips/export controls, electricity/grid/TVA, Cullman data center, WISeR/prior authorization, SCREEN Act, op-eds, PAC names) plus a site listing of aderholt.house.gov and appropriations.house.gov. Opened: TikTok press release, Yellowhammer TikTok interview, Alabama Daily News BCA and TikTok-vote articles, Shoals op-ed (Navy facility, no AI content), FY27 and FY26 Labor-HHS remarks and committee releases (no AI mentions), NIH op-ed, LeadingAge WISeR piece. Blocked (403): Politico Pulse prior-auth item, HealthExec, Alabama Reflector and Montgomery Advertiser Lyman column that lists him alongside data-center politics. No AI caucus membership or AI super PAC activity found. Cullman one-year moratorium (June 2026) is in his district but no reaction from him surfaced."
+},
+{
+"bioguide": "S001220",
+"name": "Dale W. Strong",
+"signature": "Pro-data-center with 'rails' so operators, not ratepayers, pay for power; a China hawk (CECC commissioner) with almost nothing on AI regulation itself.",
+"notable_quote": {
+"text": "I favor data centers, but I think that we've got to have some rails to be sure that they understand this is how it's gonna go. It's not gonna be a negative impact to the people.",
+"url": "https://www.yahoo.com/news/politics/articles/sit-down-strong-u-house-215738773.html",
+"date": "2026-08-20"
+},
+"groups": [
+"Commissioner, Congressional-Executive Commission on China (CECC)",
+"Chairman, House Homeland Security Subcommittee on Emergency Management and Technology",
+"Vice Chair, House Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies",
+"Advanced Nuclear Caucus (member)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Supports data centers and calls them the future, pointing to Google and Meta sites already in his district, but says there must be 'rails' so operators and not everyday ratepayers cover the power they use. He also backs new nuclear at Bellefonte to meet growing power demand.",
+"evidence": [
+{
+"type": "interview",
+"title": "FOX54 sit-down (via Yahoo): Strong on Bellefonte, data centers, USPS, Redstone",
+"url": "https://www.yahoo.com/news/politics/articles/sit-down-strong-u-house-215738773.html",
+"date": "2026-08-20",
+"quote": "I favor data centers, but I think that we've got to have some rails to be sure that they understand this is how it's gonna go",
+"what_it_shows": "Pro-build stance with a ratepayer-protection condition; he tells worried residents to talk to neighbors of Google's Jackson County and Meta's Madison County sites."
+},
+{
+"type": "interview",
+"title": "WAFF: Rep. Strong, Sneed discuss policies ahead of 5th District race",
+"url": "https://www.waff.com/2026/07/29/rep-strong-sneed-discuss-policies-ahead-north-alabamas-5th-congressional-district-race/",
+"date": "2026-07-29",
+"quote": null,
+"what_it_shows": "WAFF reports Strong said data centers represent the future and supported their development, while agreeing that expansion must not raise power costs for residents."
+},
+{
+"type": "statement",
+"title": "FOX54 (via Yahoo): Strong supports talks to revive Bellefonte with new nuclear reactors",
+"url": "https://www.yahoo.com/news/politics/articles/rep-dale-strong-supports-talks-204300983.html",
+"date": "2026-08-07",
+"quote": "Additional generation will help meet the region's growing demand for reliable, homegrown power.",
+"what_it_shows": "Wants more power generation built to serve rising demand, the supply-side answer to data center load."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on AI safety, chatbots, deepfakes or AI rules as of Sept 2026. Searched press releases, local Huntsville coverage, hearing coverage of his Homeland Security subcommittee and campaign interviews.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "The only tech-regulation action found is his 2024 vote to force TikTok's sale from Chinese ownership, as reported by Alabama Daily News. No statements on kids online safety, privacy or Section 230 found.",
+"evidence": [
+{
+"type": "other",
+"title": "Alabama Daily News: House votes to compel TikTok divorce from Chinese owners (delegation votes)",
+"url": "https://aldailynews.com/house-votes-to-compel-tiktok-divorce-from-chinese-owners/",
+"date": "2024-03-14",
+"quote": "In the Alabama delegation, Reps. Robert Aderholt, Mike Rogers, Terri Sewell, Gary Palmer, Jerry Carl and Dale Strong voted in favor of the bill.",
+"what_it_shows": "Voted for a targeted measure forcing a foreign-owned platform to divest."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on preempting or pausing state AI laws, the executive order or the White House framework.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "A consistent China hawk who cosponsored a bill punishing Chinese telecom makers like Huawei, co-led the SHIELD Against CCP Act and sits on the China commission, but he has not spoken on AI chip export controls or Nvidia sales specifically.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor, NETWORKS Act (H.R. 1795), sanctions on Chinese telecom equipment makers",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1795",
+"date": "2025-03-03",
+"quote": null,
+"what_it_shows": "Backs penalties on Chinese tech firms that follow authoritarian government orders; adjacent to, not the same as, chip export controls."
+},
+{
+"type": "statement",
+"title": "Press release: Speaker appoints Strong to Congressional-Executive Commission on China",
+"url": "https://strong.house.gov/media/press-releases/speaker-appoints-strong-serve-commission-dedicated-holding-china-accountable",
+"date": "2025-07-10",
+"quote": "The Chinese Communist Party is relentless in its efforts to undermine America, not just through open confrontation but by exploiting our laws, infiltrating our institutions, and using covert tactics to weaken our economy and security from within",
+"what_it_shows": "Shows his general China-hawk framing; no chip-specific position."
+},
+{
+"type": "statement",
+"title": "Rep. Suozzi release: Strong-Suozzi SHIELD Against CCP Act passes the House",
+"url": "https://suozzi.house.gov/media/press-releases/strong-suozzi-bipartisan-legislation-counter-threats-chinese-communist-party",
+"date": "2024-12-10",
+"quote": null,
+"what_it_shows": "Co-led a bill creating a DHS working group to counter CCP threats to the homeland."
+}
+]
+}
+},
+"search_notes": "Ran 12 news searches (AI, artificial intelligence, data center, China chips/Huawei, TikTok/Big Tech/KOSA, China commission/CCP, Bellefonte/nuclear/TVA, AI regulation/preemption, homeland AI, kids online, caucus, PAC names) plus strong.house.gov site listing, press release index and committees page. Opened: Yahoo/FOX54 sit-down (rocketcitynow original returned 403), WAFF candidate preview, FOX54 Bellefonte statement, 256 Today reelection piece (no data center content), CECC press release, Suozzi SHIELD Against CCP release, Alabama Daily News TikTok vote and BCA articles. Houlahan's NETWORKS Act release could not be located on her site; cosponsorship taken from the verified record. 1819 News (China commission quote) and Alabama Daily News earmark story (404) were unreachable. No AI caucus membership, no AI super PAC support or attacks found."
+},
+{
+"bioguide": "P000609",
+"name": "Gary J. Palmer",
+"signature": "E&C Environment Subcommittee chair who calls a data center moratorium 'suicidal', co-wrote the Water Cost Accountability Act to make data centers pay their water costs, and frames AI as an arms race with China.",
+"notable_quote": {
+"text": "They are major drivers of investment, economic growth, job creation, and the development of our nation's digital infrastructure. However, those benefits should not come at the expense of families and small businesses through higher water rates.",
+"url": "https://energycommerce.house.gov/posts/chairman-palmer-delivers-opening-statement-at-environment-subcommittee-hearing-to-examine-legislation-to-safeguard-americas-drinking-water",
+"date": "2026-09-03"
+},
+"groups": [
+"Chairman, House Energy and Commerce Subcommittee on Environment (since July 2025)",
+"Chairman, House Energy and Commerce Subcommittee on Oversight and Investigations (January to July 2025)",
+"Member, House Energy and Commerce Subcommittee on Energy"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Strongly pro-buildout: he says a national data center moratorium would be suicidal for the country and welcomes a $15 billion QTS project in his district, arguing the AI race with China needs huge amounts of baseload power. At the same time he chaired a Sept 2026 hearing on a draft Water Cost Accountability Act so data center builders, not families, pay the water infrastructure costs they cause.",
+"evidence": [
+{
+"type": "interview",
+"title": "KOTA/Gray DC: Data center battles started in the states, now Congress under siege",
+"url": "https://www.kotatv.com/2026/05/26/data-center-battles-started-states-now-its-congress-under-siege/",
+"date": "2026-05-26",
+"quote": "would be suicidal for the country",
+"what_it_shows": "His verdict on the Sanders and Ocasio-Cortez AI data center moratorium idea."
+},
+{
+"type": "hearing",
+"title": "Opening statement: Environment Subcommittee hearing on drinking water systems and protecting ratepayers from data center costs",
+"url": "https://energycommerce.house.gov/posts/chairman-palmer-delivers-opening-statement-at-environment-subcommittee-hearing-to-examine-legislation-to-safeguard-americas-drinking-water",
+"date": "2026-09-03",
+"quote": "In my district alone, QTS has announced a $15 billion investment in data center development, creating significant opportunities for economic growth, job creation, and digital infrastructure development across Alabama. We welcome that investment.",
+"what_it_shows": "Welcomes data center investment while saying families should not shoulder the infrastructure costs; praises tech firms' water-recycling commitments."
+},
+{
+"type": "statement",
+"title": "Guthrie and Palmer announce hearing on Safe Drinking Water reauthorization and the Water Cost Accountability Act",
+"url": "https://energycommerce.house.gov/posts/chairmen-guthrie-and-palmer-announce-legislative-hearing-to-safeguard-america-s-drinking-water",
+"date": "2026-08",
+"quote": "Further, we will consider draft legislation to ensure that data center builders, and not American families, are responsible for the water that their infrastructure requires.",
+"what_it_shows": "The condition he attaches to growth: data centers pay their own water costs."
+},
+{
+"type": "interview",
+"title": "E&E Daily Q&A (reposted by Palmer): New environment chair to focus on China, minerals",
+"url": "https://palmer.house.gov/media-center/in-the-news/qa-new-environment-chair-focus-china-minerals",
+"date": "2025-07-25",
+"quote": "We're also competing, and we're in an arms race, for artificial intelligence with China. It's going to require enormous amounts of baseload power for data centers.",
+"what_it_shows": "Sees data center power demand as a national security reason to build baseload generation and rejects renewables as the answer."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: E&C hearing on the economics of AI data centers and power consumption",
+"url": "https://www.techpolicy.press/transcript-americas-ai-moonshot-the-economics-of-ai-data-centers-and-power-consumption/",
+"date": "2025-04-01",
+"quote": "If we lose the arms race and artificial intelligence, quantum computing to China, they will be the superpower, not a superpower.",
+"what_it_shows": "Asked witnesses how much new generation the AI race requires and framed losing to China as the bigger threat than climate change."
+},
+{
+"type": "hearing",
+"title": "Legis1: Congress debates who pays for data center water use (Sept 3 hearing coverage)",
+"url": "https://legis1.com/news/data-center-water-use-congress-debates-who-pays",
+"date": "2026-09-09",
+"quote": null,
+"what_it_shows": "Reporter notes Palmer countered critics by citing tech companies' commitments to reduce or replenish water use through closed-loop and liquid cooling."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. He wants the U.S. to develop AI fast to beat China and calls it an arms race, but he has also said AI has 'got to be managed' and, at a 2025 chatbot hearing, suggested platforms that fail to stop chatbots from encouraging violence against kids could face liability or even criminal charges. He has not backed frontier-AI safety mandates.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: House E&C hearing on the risks and benefits of AI chatbots, Palmer questioning",
+"url": "https://www.techpolicy.press/transcript-house-hearing-on-the-risks-and-benefits-of-ai-chatbots/",
+"date": "2025-11",
+"quote": "Well, given that this is widely reported, I would think that every platform would be taking steps immediately to make sure that that didn't happen again. And if they didn't, I mean, I could see criminal charges being brought",
+"what_it_shows": "Pressed witnesses on platform liability after a chatbot allegedly encouraged an autistic child toward violence, and raised whether chatbots record conversations without consent."
+},
+{
+"type": "interview",
+"title": "Fox News Digital (reposted by Palmer): Top Republican talks AI arms race",
+"url": "https://palmer.house.gov/media-center/in-the-news/top-republican-talks-ai-arms-race-youll-have-machines-competing-each-other",
+"date": "2023-12-18",
+"quote": "We've got to develop it. It's got to be managed,",
+"what_it_shows": "Pro-development with a nod to management; also said he would rather think about AI risks before they become reality."
+},
+{
+"type": "interview",
+"title": "Fox News Digital (reposted by Palmer): Palmer on AI, quantum computing and the battlefield",
+"url": "https://palmer.house.gov/media-center/in-the-news/top-republican-talks-ai-arms-race-youll-have-machines-competing-each-other",
+"date": "2023-12-18",
+"quote": "Whoever controls artificial intelligence and quantum computing will control the battlefield.",
+"what_it_shows": "Frames AI mainly as a military competition with China rather than a safety problem."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Favors targeted fixes: as Oversight chair he investigated 23andMe's handling of genetic data and noted the lack of a federal privacy law, chaired a hearing on stopping illegal robocalls, pressed AI chatbot makers on liability for harm to kids, and voted to force TikTok's sale. No sign of support for break-ups or Section 230 repeal.",
+"evidence": [
+{
+"type": "letter",
+"title": "Guthrie, Bilirakis and Palmer letter launching investigation into 23andMe's handling of sensitive genetic data",
+"url": "https://energycommerce.house.gov/posts/chairmen-guthrie-bilirakis-and-palmer-launch-investigation-into-23and-me-and-its-handling-of-americans-sensitive-medical-and-genetic-information",
+"date": "2025-04-17",
+"quote": "With the lack of a federal comprehensive data privacy and security law, we write to express our great concern about the safety of Americans' most sensitive personal information.",
+"what_it_shows": "Uses oversight power on data privacy and flags the missing federal privacy law."
+},
+{
+"type": "hearing",
+"title": "Opening statement: O&I hearing on stopping illegal robocalls and robotexts",
+"url": "https://energycommerce.house.gov/posts/chairman-palmer-delivers-opening-statement-at-subcommittee-on-oversight-and-investigations-hearing-on-stopping-illegal-robocalls-and-robotexts",
+"date": "2025-06-04",
+"quote": "Spam and scam calls make consumers feel threatened, fearful, and distrustful of legitimate callers.",
+"what_it_shows": "Chaired a hearing on enforcement against illegal robocalls, a targeted consumer-protection lane."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: AI chatbots hearing, Palmer on platform liability",
+"url": "https://www.techpolicy.press/transcript-house-hearing-on-the-risks-and-benefits-of-ai-chatbots/",
+"date": "2025-11",
+"quote": null,
+"what_it_shows": "Asked what liability a platform would have if it failed to fix a chatbot that encouraged a child toward violence."
+},
+{
+"type": "other",
+"title": "Alabama Daily News: House votes to compel TikTok divorce from Chinese owners (delegation votes)",
+"url": "https://aldailynews.com/house-votes-to-compel-tiktok-divorce-from-chinese-owners/",
+"date": "2024-03-14",
+"quote": "In the Alabama delegation, Reps. Robert Aderholt, Mike Rogers, Terri Sewell, Gary Palmer, Jerry Carl and Dale Strong voted in favor of the bill.",
+"what_it_shows": "Voted for the TikTok divest-or-ban bill."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on preempting or pausing state AI laws, the December 2025 executive order or the March 2026 White House framework, and he is not on any preemption bill. His 'suicidal' remark was about a data center moratorium, not state AI laws.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Leans hawkish: he cosponsored the AI OVERWATCH Act to give Congress power to block advanced AI chip sales to China and repeatedly calls China the enemy in an AI arms race. He opposed the 2022 CHIPS Act as a subsidy giveaway, and has not spoken on the specific Nvidia H20/H200 sales fights.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor, AI OVERWATCH Act (H.R. 6875), congressional review of AI chip sales to China",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-07-06",
+"quote": null,
+"what_it_shows": "Signed onto the main House bill letting Congress block advanced AI chip exports to adversaries."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: E&C hearing on AI data centers, Palmer on the arms race with China",
+"url": "https://www.techpolicy.press/transcript-americas-ai-moonshot-the-economics-of-ai-data-centers-and-power-consumption/",
+"date": "2025-04-01",
+"quote": "If we lose the arms race and artificial intelligence, quantum computing to China, they will be the superpower, not a superpower.",
+"what_it_shows": "Treats U.S. AI and compute leadership over China as a top national security priority."
+},
+{
+"type": "statement",
+"title": "Press release: Palmer opposes 'bloated and misguided' CHIPS and Science Act",
+"url": "https://palmer.house.gov/media-center/press-releases/palmer-opposes-bloated-and-misguided-chips-and-science-act",
+"date": "2022-07-28",
+"quote": "This $280 billion unpaid-for bill is a wasted opportunity to combat aggression by the Chinese Communist Party (CCP) and ignores the record levels of inflation American families are facing",
+"what_it_shows": "Opposed chip subsidies while framing chip policy as a way to confront China; not an export-control position."
+}
+]
+}
+},
+"search_notes": "Ran 14 news searches (AI, artificial intelligence, data center, preemption/state AI laws, Ratepayer Protection/Water Cost Accountability, chatbot/Big Tech/TikTok, grid/power bills, special election, Nvidia/OVERWATCH/export controls, Politico and The Hill data center pieces, OBBBA moratorium, PAC names) plus site listings of palmer.house.gov and energycommerce.house.gov. Opened: KOTA data center article, Sept 3 2026 opening statement and hearing announcement, Legis1 and Washington Reporter coverage, both Tech Policy Press transcripts (chatbot hearing Nov 2025, AI data center economics Apr 2025), Fox AI arms race interview, E&E Q&A, CHIPS Act release, 23andMe letter, robocall hearing statement, permitting remarks (FIRE Act, no AI), Jan 2026 committee bills release, committees page (no AI caucus), alreporter Case Dixon piece. E&C advanced the Ratepayer Protection Act 52-0 on July 21 2026 while he sits on the committee, but his individual vote was not confirmed so it is not listed as evidence. Blocked: Alabama Reflector and News From The States special-primary profiles, Politico 'safe space' piece, The Hill Microsoft article, Broadband Breakfast grid article. Palmer won the Aug 11 2026 special GOP primary after the Supreme Court let Alabama revert to its 2023 map. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "S001185",
+"name": "Terri A. Sewell",
+"signature": "Cosponsor of the AI Data Center Moratorium Act and public opponent of Lowndes County's Project Red Clay; led a 2024 bipartisan letter on AI interference in elections.",
+"notable_quote": {
+"text": "I am not anti-AI, and I am certainly not anti-innovation. The rate at which these massive data centers are being constructed is simply outpacing our ability to establish meaningful protections for the communities that will host them.",
+"url": "https://sewell.house.gov/2026/7/rep-sewell-cosponsors-legislation-to-pause-ai-data-center-construction-until-federal-guardrails-are-established",
+"date": "2026-07-21"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "high",
+"summary": "Wants a pause. She cosponsored the AI Data Center Moratorium Act in June 2026 and publicly opposes the proposed $1.5 billion Project Red Clay data center in Lowndes County, citing water, environmental justice, property values and unanswered questions about who benefits. She says she is not anti-AI and wants Alabama to compete for AI industries once federal guardrails exist.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor, Artificial Intelligence Data Center Moratorium Act (H.R. 9442)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "Signed onto the Ocasio-Cortez bill pausing new large AI data centers until federal safeguards exist."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Sewell cosponsors legislation to pause AI data center construction until federal guardrails are established",
+"url": "https://sewell.house.gov/2026/7/rep-sewell-cosponsors-legislation-to-pause-ai-data-center-construction-until-federal-guardrails-are-established",
+"date": "2026-07-21",
+"quote": "I am not anti-AI, and I am certainly not anti-innovation. The rate at which these massive data centers are being constructed is simply outpacing our ability to establish meaningful protections for the communities that will host them.",
+"what_it_shows": "Her own framing of the moratorium as a pause, not a ban, driven by constituent concerns about water, energy and local benefit."
+},
+{
+"type": "op_ed",
+"title": "Op-ed (AL.com, reprinted by Lowndes Signal): Why I oppose the proposed data center in Lowndes County",
+"url": "https://www.lowndessignal.com/opinion/why-i-oppose-the-proposed-data-center-in-lowndes-county-d0551cac",
+"date": "2026-07-31",
+"quote": "If developers cannot demonstrate that the county's water infrastructure, public health, environment and property owners will be protected, then this project should not move forward.",
+"what_it_shows": "Opposes a specific project in her district on water, environmental justice and property-value grounds, while saying she supports innovation and economic development."
+},
+{
+"type": "interview",
+"title": "Yellowhammer News: Sewell breaks with Tuberville, Trump on data centers, backs moratorium bill",
+"url": "https://yellowhammernews.com/sewell-breaks-with-tuberville-trump-on-data-centers-backs-moratorium-bill/",
+"date": "2026-07-23",
+"quote": "I am not anti-innovation. But it's clear that these projects are being built faster than we can establish the safeguards our communities deserve.",
+"what_it_shows": "Directly rejects Sen. Tuberville's argument that data centers are inevitable."
+},
+{
+"type": "statement",
+"title": "Alabama Daily News: Sewell wants to stop new data centers until guardrails are implemented",
+"url": "https://aldailynews.com/sewell-wants-to-stop-new-data-centers-until-guardrails-are-implemented/",
+"date": "2026-07-22",
+"quote": "The bill simply says, let's put common sense guardrails in place before this expansion continues,",
+"what_it_shows": "Video remarks stressing the pause is about guardrails first."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, Energy Bills Relief Act (H.R. 7977), Casten bill on household energy costs",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-05-14",
+"quote": null,
+"what_it_shows": "Joined a Democratic energy-affordability bill; cosponsorship confirmed on GovTrack, data center specifics not verified."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Backs targeted guardrails, mostly around elections and public data: she led a 2024 bipartisan letter asking DOJ, DHS and the EAC how they would counter AI used to deceive voters, cosponsored bills banning AI-made voting lies and requiring AI labels on political ads, and signed a Ways and Means letter on the IRS's use of AI on taxpayer data. She repeatedly says she is not anti-AI.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Reps. Sewell, Brown lead bipartisan letter on AI interference in the 2024 election",
+"url": "https://sewell.house.gov/2024/3/reps-sewell-brown-lead-bipartisan-letter-on-artificial-intelligence-interference-in-the-2024-election",
+"date": "2024-03-13",
+"quote": "We cannot allow bad actors to weaponize powerful AI tools to mislead voters, suppress turnout, and sow chaos.",
+"what_it_shows": "Led 31 colleagues asking federal agencies for their plan against AI-driven voter deception, with emphasis on Black and brown communities."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, Deceptive Practices and Voter Intimidation Prevention Act of 2025 (H.R. 4894)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "Supports making it illegal to spread lies about voting, including AI-made content, before federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, AI Transparency in Elections Act of 2026 (H.R. 9922)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9922",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "Supports requiring political ads to disclose when they were made with AI."
+},
+{
+"type": "letter",
+"title": "FedScoop: House Ways and Means Democrats demand answers on IRS's AI use to manage taxpayer data (Sewell a signer)",
+"url": "https://fedscoop.com/irs-using-ai-cobol-doge-house-dems-letter/",
+"date": "2025-12-18",
+"quote": "Nearly a dozen House Ways & Means Committee Democrats are seeking details from the IRS about how the agency is deploying artificial intelligence to deal with legacy code used to manage taxpayer data.",
+"what_it_shows": "Signed an oversight letter pressing Treasury on AI tools touching sensitive taxpayer systems."
+},
+{
+"type": "statement",
+"title": "Press release: Sewell cosponsors AI data center pause (her framing of AI)",
+"url": "https://sewell.house.gov/2026/7/rep-sewell-cosponsors-legislation-to-pause-ai-data-center-construction-until-federal-guardrails-are-established",
+"date": "2026-07-21",
+"quote": "I want America to lead the world in AI innovation, and I want Alabama to compete for the industries of the future. But innovation cannot come at the expense of the communities it is meant to serve.",
+"what_it_shows": "Shows she pairs guardrails with support for U.S. AI leadership rather than treating AI itself as an existential danger."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted privacy and consumer rules: she joined the Taxpayer Data Protection Act to keep DOGE out of Treasury payment data, cosponsored the My Body, My Data Act on reproductive health data and the Safe Vehicle Access for Survivors Act on car data, and voted to force TikTok's sale. No break-up or Section 230 repeal stance found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Sewell, House Democrats introduce Taxpayer Data Protection Act to stop Musk from invading Americans' privacy",
+"url": "https://sewell.house.gov/2025/2/rep-sewell-house-democrats-introduce-new-bill-to-stop-musk-from-invading-americans-privacy",
+"date": "2025-02-07",
+"quote": "Elon Musk's takeover of the federal payment system is a dangerous invasion of the privacy of every American, and House Democrats are taking action to stop it,",
+"what_it_shows": "Frames access to sensitive government data as a privacy issue needing legal limits."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, My Body, My Data Act of 2023 (H.R. 3420)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Backed limits on companies collecting or sharing reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, Safe Vehicle Access for Survivors Act (H.R. 2110)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"date": "2025-03-14",
+"quote": null,
+"what_it_shows": "Supports a specific rule making carmakers cut off abusers' remote access to a car's data."
+},
+{
+"type": "other",
+"title": "Alabama Daily News: House votes to compel TikTok divorce from Chinese owners (delegation votes)",
+"url": "https://aldailynews.com/house-votes-to-compel-tiktok-divorce-from-chinese-owners/",
+"date": "2024-03-14",
+"quote": "In the Alabama delegation, Reps. Robert Aderholt, Mike Rogers, Terri Sewell, Gary Palmer, Jerry Carl and Dale Strong voted in favor of the bill.",
+"what_it_shows": "Voted for the TikTok divest-or-ban bill."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No position found. She is not on the GUARDRAILS Act, did not sign the Dec 3 2025 Clarke letter against an AI moratorium in the NDAA (her name is absent from the 44 signers), and no reaction to the Dec 2025 executive order or Mar 2026 framework was found. The Nov 26 2025 Matsui letter signer list could not be located to check.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position on export controls or Nvidia sales to China. Her chip record is about building at home: she cosponsored the STAR Act and co-introduced the Semiconductor Superiority Act, both tax credits for U.S. chip manufacturing and design, which do not speak to export policy.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor, STAR Act of 2025 (H.R. 802), extends tax credit for U.S. chip factories",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2025-01-28",
+"quote": null,
+"what_it_shows": "Supports domestic chip manufacturing incentives; neutral on export controls."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, Semiconductor Superiority Act (H.R. 8959), tax credits for chip design and space-based manufacturing",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8959",
+"date": "2026-05-21",
+"quote": null,
+"what_it_shows": "Co-introduced with DelBene and Buchanan; about U.S. competitiveness, not export limits."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, STAR Act of 2024 (H.R. 9183, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9183",
+"date": "2024-10-11",
+"quote": null,
+"what_it_shows": "Earlier version of the domestic chip design tax credit."
+}
+]
+}
+},
+"search_notes": "Ran 12 news searches (artificial intelligence, data center Alabama, AI, deepfake/chatbot/Big Tech/230, preemption/Matsui, semiconductor/chips, privacy/DOGE, AI jobs, WISeR, KOSA/TikTok, caucus, AI Civil Rights/Algorithmic Accountability, PAC names) plus sewell.house.gov site listing. Opened: July 21 2026 press release, Lowndes Signal reprint of her AL.com op-ed, Yellowhammer and Alabama Daily News coverage, 2024 AI election letter release, Taxpayer Data Protection Act release, FedScoop IRS AI letter, Quiver copy of the Semiconductor Superiority Act release, GovTrack cosponsor pages for H.R. 7977 (confirms her May 14 2026 cosponsorship) and H.J.Res. 187 (she is not a cosponsor), Clarke Dec 3 2025 letter (she is not among the 44 signers). Could not locate the Nov 26 2025 Matsui letter or its signers. Blocked: Montgomery Advertiser 2024 AI elections story, HealthExec. Her committees page returned 404 so caucus memberships could not be confirmed; none surfaced in searches. No AI super PAC support or attacks found."
+}
+]

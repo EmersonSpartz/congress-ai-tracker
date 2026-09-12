@@ -1,0 +1,243 @@
+[
+{
+"bioguide": "D000618",
+"checks": [
+{
+"url": "https://nbcmontana.com/news/local/full-interview-daines-talks-ai-ice-tariffs-super-bowl",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-09",
+"note": "Quote appears verbatim (preceded by 'Yeah well,') in answer to a question about ramping up energy for large data centers. He goes on to name coal, nuclear, hydro and natural gas as needed baseload power; no call to limit projects."
+},
+{
+"url": "https://nbcmontana.com/news/local/full-interview-daines-talks-ai-ice-tariffs-super-bowl",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-09",
+"note": "Quote verbatim. He says cooling 'wouldn't be done through taking water out of any rivers' and pivots to needing more power generation, Montana coal with carbon sequestration. No conditions on projects proposed."
+},
+{
+"url": "https://washingtonreporter.news/scoop-bernie-moreno-sheehy-lummis-daines-town-hall/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-01",
+"note": "Article: 'Daines wants both judicial and permitting reform to get done, but he called the latter move \"necessary but not sufficient.\"' Event is billed as AI dominance / data center buildout; 'to speed buildout' is a reasonable reading though the article does not state the purpose explicitly."
+},
+{
+"url": "https://washingtonreporter.news/scoop-bernie-moreno-sheehy-lummis-daines-town-hall/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-05-01",
+"note": "Quote is verbatim, but context is different from the claim: the Europe remark immediately follows Daines praising Rubio's Munich speech for taking on the European 'climate cult', and it is framed under the AI action plan's 'international diplomacy' pillar. The article does not say he was speaking about AI regulation; 'Europe's last 25 years of regulation' as an AI-policy cautionary tale is an inference. He did praise the Trump administration's diplomacy component as a 'master class'."
+},
+{
+"url": "https://nbcmontana.com/news/local/full-interview-daines-talks-ai-ice-tariffs-super-bowl",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-09",
+"note": "Quote verbatim. He frames energy as 'one of the key constraining factors'; safety is not raised in the AI answers. Note the claim is about framing, not an explicit regulatory position."
+},
+{
+"url": "https://www.scmp.com/news/china/diplomacy/article/3366009/trump-envoy-daines-visits-chinese-ai-space-firms-lay-groundwork-xi-summit-us",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Article (Sept 1, 2026) says the Trump envoy visited a top Chinese university and several technology firms in Hangzhou and Guangzhou against 'an intensifying tech war'. No position on export controls is attributed to Daines."
+},
+{
+"url": "https://www.daines.senate.gov/2026/05/07/readout-of-daines-congressional-delegation-trip-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-07",
+"note": "Live site returns 403; read via Wayback (2026-06-19 capture). Topics listed: fentanyl precursors, Iran and the Strait of Hormuz, supply chain security, reciprocal agriculture trade, Boeing aircraft purchase. No mention of chips, AI or export controls (supply chain security is the closest but is unspecified)."
+},
+{
+"url": "https://nbcmontana.com/news/local/full-interview-daines-talks-ai-ice-tariffs-super-bowl",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-09",
+"note": "Verbatim in the transcript."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "Evidence for a 'Light touch' position is thin. Item 5 only shows him enthusiastic about AI with energy as the constraint; item 4's 'case study of what not to do' about Europe is, in the source's context, about Rubio's 'climate cult' speech and energy/climate policy, not AI regulation. Neither source records any statement about AI safety rules, guardrails, or opposition to them. Without a source on AI regulation itself, a positioned score is a guess.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "S001232",
+"checks": [
+{
+"url": "https://www.jpost.com/american-politics/article-907521",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "JPost (published 2026-09-03) attributes the quote verbatim to Sheehy on X in response to the data-center moratorium push. The underlying post itself is earlier: Townhall's 2026-08-26 column says he made the timber-mill comparison 'earlier this week', so the post dates to roughly Aug 24-25, 2026; the corrected_date is the article date."
+},
+{
+"url": "https://washingtonreporter.news/exclusive-the-unexpected-data-center-effect-lower-electric-bills/",
+"verdict": "confirmed",
+"corrected_quote": "Every politician calling for the end of data centers is also calling for the destruction of the future jobs they create",
+"corrected_date": "2026-08-31",
+"note": "Article (2026-08-31) explicitly frames Sheehy as pushing back on Sanders' moratorium call and quotes both the timber-mill line and this jobs line. Quote matches verbatim apart from the trailing comma."
+},
+{
+"url": "https://washingtonreporter.news/scoop-bernie-moreno-sheehy-lummis-daines-town-hall/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-01",
+"note": "Page (2026-05-01, Townhall Live event) says both right and left have anti-data-center factions, that he particularly criticized Democrats for 'wanting to protect salamanders' at the expense of defeating China, and that the SPEED Act and GENIUS Act were essential. 'Mocked' is a fair gloss; the beating-China framing attaches to the salamander remark and the Acts are tied to avoiding Europe's fate, so the claim slightly compresses two sentences but is supported."
+},
+{
+"url": "https://townhall.com/news/dmitri-bolt/2026/08/26/if-we-want-an-re-industrialized-america-we-need-more-data-centers-n2681913",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-26",
+"note": "Townhall column (2026-08-26) has Manhattan Institute's Jesse Arm praising Sheehy's timber-mill/factory comparison and calling him 'a really effective communicator on this issue'; the author adopts his framing. 'Conservative commentators' is plural but the page mainly features one pollster plus the Townhall writer; minor overstatement, substance holds."
+},
+{
+"url": "https://washingtonreporter.news/scoop-bernie-moreno-sheehy-lummis-daines-town-hall/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-01",
+"note": "Quote appears verbatim: 'the existential threat is not China; it's our own government.' Page also has him saying he has seen 'Europe [] become an economic backwater' due to anti-competitive regulation. Note the remark is about AI competitiveness (government as obstacle), not a statement about AI safety risk specifically."
+},
+{
+"url": "https://www.sheehy.senate.gov/news/press-releases/sheehy-blunt-rochester-introduce-ai-fraud-accountability-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-04",
+"note": "Live site blocked; Wayback capture (2026-03-14) of the press release dated 2026-03-04 contains the quote verbatim, attributed to Sheehy. Bipartisan bill with Blunt Rochester; the release pairs the fraud crackdown with innovation and First Amendment safeguards as claimed."
+},
+{
+"url": "https://www.tomshardware.com/tech-industry/republican-lawmakers-urge-itc-to-block-imports-of-infringing-tsmc-chips-as-patent-ruling-imminent",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-12",
+"note": "Article (2026-06-12) names Sheehy, Zinke, Marshall and Moreno as signatories of the letter to ITC Chair Karpel arguing strategically important companies should not get special treatment in the TSMC patent case. Nothing in the article concerns China export controls, matching the claim. Weak evidence for any china_chips position; null score is appropriate."
+},
+{
+"url": "https://www.jpost.com/american-politics/article-907521",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Same JPost article as item 1; quote verbatim and attributed to Sheehy on X. Suitable as headline quote."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The -1 rests on a single narrow, bipartisan anti-fraud bill that explicitly safeguards innovation and speech, while his other cited statements ('the existential threat is not China; it's our own government', Europe as a regulatory 'backwater') are strongly anti-regulation. One targeted scam bill against consistent hands-off rhetoric is thin support for a pro-regulation lean; 0 Mixed is more defensible unless more targeted-rule evidence is added.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+},
+{
+"bioguide": "Z000018",
+"checks": [
+{
+"url": "https://zinke.house.gov/media/press-releases/zinke-releases-statement-proposed-merger-northwestern-energy-and-black-hills",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-22",
+"note": "Quote appears verbatim (Aug 22, 2025 release). Statement says 'I support this merger' citing grid, jobs, affordable reliable power and energy security; no mention of data centers, large-load rates, or water, so the claim's caveat is accurate. The 'investors have tied to data center growth' framing is not on the page itself."
+},
+{
+"url": "https://zinke.house.gov/media/press-releases/zinke-votes-protect-montana-data-privacy-chinese-communist-party",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-13",
+"note": "Quote appears verbatim (curly apostrophes). Release dated March 13, 2024 describes his vote for the bill forcing the CCP-controlled parent company to divest TikTok; 'The bill does not shut down TikTok.' Supports the targeted-divestiture claim."
+},
+{
+"url": "https://www.tomshardware.com/tech-industry/republican-lawmakers-urge-itc-to-block-imports-of-infringing-tsmc-chips-as-patent-ruling-imminent",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-12",
+"note": "Article (June 12, 2026) names Rep. Ryan Zinke (R-Mont.) with Sens. Sheehy, Marshall, Moreno as signers of a letter to ITC Chair Amy Karpel arguing strategically important companies should not receive special treatment in the TSMC patent case (337-TA-1443). Nothing about China export controls, matching the claim. Weak evidence for a china_chips position; currently unscored, which is appropriate."
+},
+{
+"url": "https://zinke.house.gov/media/press-releases/zinke-votes-protect-montana-data-privacy-chinese-communist-party",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-13",
+"note": "Headline quote appears verbatim in the March 13, 2024 release."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "D000634",
+"checks": [
+{
+"url": "https://www.montanarightnow.com/helena/candidates-in-montanas-eastern-congressional-race-discuss-data-centers/article_42318dd4-5c1a-463f-9874-ac516ec82c55.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Page loaded directly (published 2026-09-03). Quote appears verbatim in Downing's written statement; preceded by 'Data centers can bring investment and opportunity to Montana, but these decisions should be made by the communities that will live with them,' and followed by 'No data center should ever be allowed to usurp the water rights our communities depend on.' Claim matches."
+},
+{
+"url": "https://dailymontanan.com/2026/03/19/downing-toes-republican-talking-points-during-talk-of-iran-save-america-act-and-ice-protests/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Direct fetch blocked; Wayback copy (2026-07-09) loaded. Quote appears verbatim (including the doubled 'keep keep'). Article says he was asked what Congress is doing to regulate AI, data centers and power, and that he described co-locating power supplies to keep data-center and public power separate, plus 'states have not built out their power grids enough.' Claim matches."
+},
+{
+"url": "https://www.hudson.org/events/next-steps-us-china-great-power-competition-house-republican-policy-committee",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-14",
+"note": "Hudson transcript loaded directly; event was Monday July 14, 2025 (speakers Downing and Joe Wilson, moderator Michael Sobolik). Quote verbatim. He says 'one of the things that scares me most... is we need to figure out how we're going to power it,' calls for 'regulatory reform so it doesn't take you so long' to build, focuses on 'how we're generating and how we're transmitting,' and says China will 'start building coal-powered power plants like crazy' with no regulatory or environmental roadblocks. Claim matches."
+},
+{
+"url": "https://downing.house.gov/media/in-the-news/evening-edition-role-coal-ai-era",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-13",
+"note": "Official 'In the News' page dated Aug 13, 2025 (Fox News Radio Evening Edition). Blurb: Montana Republicans propose removing Biden-era coal mining restrictions, coal needed for 'the growing artificial intelligence industry'; Downing 'joins the podcast to explain how reversing coal restrictions will boost America's economy and national security.' Claim matches; note this is a podcast summary blurb, no transcript on page."
+},
+{
+"url": "https://www.easternprogress.com/the-high-voltage-politics-of-data-centers-in-montana-s-western-congressional-contest/article_74b8724d-34ab-57ee-9e59-31cef0caf0b3.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Page loaded (published 2026-04-30). Text: 'The CEO and general counsel of that company, Quantica Infrastructure, donated a combined $5,000 to incumbent GOP U.S. Rep. Troy Downing.' Describes the 5,100-acre Yellowstone County project. Claim matches exactly. Article is mainly about the western district race; the Downing mention is one paragraph."
+},
+{
+"url": "https://www.hudson.org/events/next-steps-us-china-great-power-competition-house-republican-policy-committee",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-14",
+"note": "Quote appears verbatim in the transcript: '...we are as broad as we can in not regulating it to a point where you can't get anything done and you're incentivizing to do it elsewhere, but figure out what those reasonable sideboards are so you don't have another FTX.' Context is keeping the US the innovator. Claim matches. Event date July 14, 2025."
+},
+{
+"url": "https://dailymontanan.com/2026/03/19/downing-toes-republican-talking-points-during-talk-of-iran-save-america-act-and-ice-protests/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Wayback copy. Quote verbatim, followed by 'Right now, it's the United States versus China, and we need to make sure that we can be competitive and generating the power to do it.' Article frames this as his answer to a question about what Congress is doing to regulate AI/data centers; his answer is about China competition and power, no mention of safety rules. Claim matches."
+},
+{
+"url": "https://downing.house.gov/media/press-releases/downings-ai-wise-act-passes-house",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Press release dated 2026-01-20. Quote verbatim. He cites rural small businesses lacking resources for technology adoption; page reproduces statements of support from OpenAI and Intuit for H.R. 5784 (co-led with Rep. Hillary Scholten). Claim matches."
+},
+{
+"url": "https://www.montanarightnow.com/helena/candidates-in-montanas-eastern-congressional-race-discuss-data-centers/article_42318dd4-5c1a-463f-9874-ac516ec82c55.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Same page as item 1; quote appears verbatim in his statement to the outlet."
+}
+],
+"score_objections": []
+}
+]

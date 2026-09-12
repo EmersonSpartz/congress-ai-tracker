@@ -1,0 +1,293 @@
+[
+{
+"bioguide": "T000250",
+"checks": [
+{
+"url": "https://www.keloland.com/news/local-news/thune-weighs-in-on-beef-iran-data-centers-save-act/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Page blocked the fetch tool and Wayback (403), loaded in Chrome. Quote appears verbatim; article says Thune sees a race with China on AI but that data-center construction is a state/local decision. Article shows no dateline; NOTUS (2026-09-02) says the interview was 'Tuesday', i.e. 2026-09-01. 'First public remarks' is the tracker's framing, not in the article."
+},
+{
+"url": "https://www.notus.org/republicans/thune-trump-data-centers-beef-imports",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-02",
+"note": "URL redirects to washingtonsun.com (NOTUS rebrand). Quote verbatim. Article says Thune pushed back on Trump's 'backwards and poor' line and that companies should not build where residents are resistant."
+},
+{
+"url": "https://southdakotasearchlight.com/2026/08/19/thune-calls-energy-development-permitting-reform-a-rare-opportunity-for-bipartisan-action/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-19",
+"note": "Blocked fetch tool; loaded in Chrome. Quote verbatim ('As soon as they're ready to go, we'll put it on the floor'). Article confirms Northwestern Energy summit, data-center-driven demand, private investment, and praise for small modular reactors ('kind of back in vogue')."
+},
+{
+"url": "https://www.thune.senate.gov/news/press-releases/thune-klobuchar-lead-commerce-committee-colleagues-in-introducing-bipartisan-ai-bill-to-boost-innovation-and-strengthen-accountability",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Blocked fetch tool; loaded in Chrome. Thune quote: 'identify some basic rules of the road that protect consumers, foster an environment in which innovators and entrepreneurs can thrive, and limit government intervention... common-sense safety and security guardrails for the highest-risk AI applications.' Page text shows no date (bill is the AI Research, Innovation, and Accountability Act of 2023, introduced Nov 2023)."
+},
+{
+"url": "https://fedscoop.com/john-thune-ai-bill-generative-ai-self-certification-system/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-10-16",
+"note": "Quote verbatim from a Senate source. Article confirms draft has companies self-certify critical-impact systems to Commerce, with Commerce enforcing via penalties or bans."
+},
+{
+"url": "https://www.thune.senate.gov/public/index.cfm/2024/7/thune-applauds-passage-of-bipartisan-ai-bill-in-senate-commerce-committee",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Blocked fetch tool; loaded in Chrome (redirects to /news/press-releases/ path). Thune: 'I hope Leader Schumer will prioritize AI transparency legislation and bring this important bill to the Senate floor for a vote as soon as possible' and 'common-sense safety and security guardrails for the highest-risk AI applications.' Date not shown in page text (URL indicates July 2024)."
+},
+{
+"url": "https://www.axios.com/2025/06/25/thune-ai-moratorium-big-beautiful-bill",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-06-25",
+"note": "Blocked fetch tool; loaded in Chrome but only the headline and lead paragraph were readable (rest gated). Headline is Axios's 'Thune urges \"light touch\" on AI regulations'; the visible text supports the freeze expectation but does not show Thune's own light-touch wording, so 'he told Axios he wanted a light-touch approach' could not be verified verbatim."
+},
+{
+"url": "https://www.semafor.com/article/09/10/2026/bipartisan-ai-safety-bill-gains-momentum-on-the-hill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Quote verbatim. Cruz posted he is 'working with' Klobuchar and Thune 'on legislation to address catastrophic risks involving biological or nuclear threats.' Note the bill was still unreleased/in-the-works at publication, so 'lead sponsor' is slightly ahead of the facts (no bill introduced yet)."
+},
+{
+"url": "https://www.politico.com/news/2026/09/11/klobuchar-thune-ai-safety-bill-faces-impasse-01073026",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Blocked fetch tool and WebFetch; loaded in Chrome. Article confirms duty to mitigate harms, pre-release disclosure of advanced capabilities to Commerce, Commerce injunction in federal court, no pre-approval regime, and preemption of some state laws. Minor inexactness: article says 'Thune and Cruz did not immediately respond to a request for comment', not 'declined comment'."
+},
+{
+"url": "https://www.thune.senate.gov/public/index.cfm/2021/10/thune-the-time-has-come-to-hold-big-tech-accountable",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Blocked fetch tool; loaded in Chrome. Speech text contains 'Big Tech has operated in the dark for too long', describes the Filter Bubble Transparency Act letting users opt out of algorithm-shaped feeds and the PACT Act requiring sites to explain removals and allow appeals. Date not in page text (URL indicates Oct 2021)."
+},
+{
+"url": "https://www.axios.com/2025/06/25/thune-ai-moratorium-big-beautiful-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-25",
+"note": "Lead paragraph (readable in Chrome): 'Senate Majority Leader John Thune expects some form of freeze on state AI regulations to remain in the \"big, beautiful bill\" — even as his Republicans keep debating the move.' Supports the claim; the moratorium was struck by the Senate days later (July 1, 2025)."
+},
+{
+"url": "https://thehill.com/policy/technology/5630709-ai-preemption-republican-leaders/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-02",
+"note": "Quote verbatim (page prefixes it with 'So, I mean,'). Thune also said 'That's controversial, as you know' and 'both sides are kind of dug in.' Page title now reads 'Republican leaders explore options for AI law measure'."
+},
+{
+"url": "https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-20",
+"note": "Blocked fetch tool and WebFetch; loaded in Chrome. Thune told Politico 'earlier in March' a bill could be melded with a KOSA package to entice Democrats, and that members worry about 'not trampling state's rights in the process.' 'Many Republicans worry' matches 'concerns that a lot of our members have'."
+},
+{
+"url": "https://iapp.org/news/a/a-view-from-dc-the-plan-to-trade-kids-safety-rules-for-ai-preemption",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-12",
+"note": "Quote verbatim. Page says Thune and Schumer 'are bullish on passing a preemptive AI bill this term' and that Thune warned many senators have concerns about 'not trampling state's rights'. IAPP relies on 'recent reporting' rather than its own interview."
+},
+{
+"url": "https://www.politico.com/news/2026/09/11/klobuchar-thune-ai-safety-bill-faces-impasse-01073026",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Article: 'The bill would also preempt some state AI laws'; Cantwell wrote 'the answer is not a weak federal standard that becomes a backdoor for wiping out stronger state protections.' Cruz involved in negotiations. Supports claim."
+},
+{
+"url": "https://www.keloland.com/news/local-news/thune-weighs-in-on-beef-iran-data-centers-save-act/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Same page as item 1; quote verbatim in KELOLAND article (and reproduced verbatim by NOTUS/Washington Sun)."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "R000605",
+"checks": [
+{
+"url": "https://www.kotatv.com/2026/09/05/rapid-city-data-center-backlash-epa-rules-meta-cash-space-tech/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-05",
+"note": "Quote appears verbatim. Article paraphrases Rounds saying data centers must go only where actively welcomed by local populations today, and frames federal lawmakers' view of the AI race with China as national security."
+},
+{
+"url": "https://riponsociety.org/2025/10/rounds-details-urgent-ai-competition-with-china/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-30",
+"note": "Quote verbatim. He says US is not producing enough new power and notes China has moved into nuclear and will surpass the US in nuclear; the 'including nuclear' part of the claim is implied rather than an explicit call, but the pro-buildout energy stance is clear."
+},
+{
+"url": "https://fedscoop.com/ai-workforce-legal-immigration-mike-rounds/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-29",
+"note": "Article says Rounds stated China has roughly four times more power production than the US, a metric crucial for AI data centers, and called for more manufacturing investment and legal immigration."
+},
+{
+"url": "https://www.sdpb.org/2026-09-03/sen-rounds-bengs-battling-over-ai-campaign-finance-as-election-nears",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Bengs quote verbatim. Rounds adviser Rob Skjonsberg's statement says 'Bengs will take away local control and have the federal government tell us what to do.'"
+},
+{
+"url": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-reintroduces-legislation-supporting-ai-innovation-in-financial-services",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-30",
+"note": "Fetched via Wayback (site blocks direct). Quote verbatim; Rounds says the bill fosters innovation and economic growth and that the Trump administration shares the vision in its AI Action Plan."
+},
+{
+"url": "https://riponsociety.org/2025/10/rounds-details-urgent-ai-competition-with-china/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-30",
+"note": "Quote verbatim. He frames AI as a race with China requiring investment: 'We pursue it and we win it – or else we're going to be speaking Chinese.'"
+},
+{
+"url": "https://www.rounds.senate.gov/newsroom/press-releases/following-historic-ai-insight-forums-over-the-past-year-senator-rounds-leader-schumer-senators-heinrich-and-young-reveal-bipartisan-roadmap-for-artificial-intelligence-policy-in-the-united-states-senate",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-05-15",
+"note": "Direct fetch returns 403; loaded via Wayback (2026-08-20 snapshot). Rounds statement references nine AI Insight Forums, harnessing AI's power while mitigating potential long-term risks, and committees addressing issues through regular order."
+},
+{
+"url": "https://fedscoop.com/senate-bill-ai-workforce-commission-act-warner-rounds/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-12",
+"note": "Quote verbatim. Economy of the Future Commission Act with Warner would create a commission to deliver policy recommendations on AI workforce effects."
+},
+{
+"url": "https://thehill.com/policy/technology/5355684-ai-moratorium-sparks-gop-battle-over-states-rights/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-18",
+"note": "Quote verbatim; identified as Senate AI Caucus co-chair; adds 'Then, we've got the hard work of actually doing appropriate legislation to lay out the path forward.' He also suggested tying the provision to BEAD funding for Byrd-rule compliance."
+},
+{
+"url": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-legislation-to-prevent-smuggling-of-american-semiconductors-into-china-unanimously-passes-senate",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "Site intermittently 403s; one fetch succeeded. Stop Stealing our Chips Act press release: Rounds calls chip smuggling into China 'a grave national security concern' as AI accelerates and says he looks forward to working with the House to get it to President Trump's desk."
+},
+{
+"url": "https://www.lawfaremedia.org/article/a-whistleblower-incentive-program-to-enforce-u.s.-export-controls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim. Lawfare piece argues BIS enforcement of AI chip export controls against China has been ineffective and advocates the whistleblower program; it is advocacy analysis, not a neutral evaluation of the bill's effect."
+},
+{
+"url": "https://riponsociety.org/2025/10/rounds-details-urgent-ai-competition-with-china/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-30",
+"note": "Quote verbatim, given in answer to a question on international AI collaboration; he also discusses the quantum computing race with China. The 'consistent with tighter controls' inference is the tracker's, not stated on the page."
+},
+{
+"url": "https://riponsociety.org/2025/10/rounds-details-urgent-ai-competition-with-china/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-30",
+"note": "Headline quote appears verbatim in the article body."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "J000301",
+"checks": [
+{
+"url": "https://www.kotatv.com/2025/10/23/johnson-holds-meeting-spearfish-data-centers-done-right-initiative/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-23",
+"note": "Quote appears verbatim (including the 'hurt our hurt our' stutter). Article states the initiative offers tax rebates/exemptions on electronic equipment provided centers meet 4 criteria: ratepayers, water, substantial taxes, good jobs."
+},
+{
+"url": "https://www.tsln.com/news/dakotas-discuss-datacenters/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-17",
+"note": "Quote verbatim. Article explains the sales-tax exemption on data center electronics and his X post projecting $200M in property taxes to local governments over five years."
+},
+{
+"url": "https://www.newscenter1.tv/news/local/highlights-from-the-final-gop-south-dakota-governor-debate",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-28",
+"note": "Quote verbatim. Article paraphrases him requiring no electric rate increases, water protections, good-paying jobs and property tax revenue, and contrasts with Doeden's strong opposition to data centers entirely."
+},
+{
+"url": "https://www.dakotanewsnow.com/2026/05/21/gubernatorial-candidates-share-their-stances-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-21",
+"note": "Quote verbatim; article's own framing: 'Johnson said there is a state role in filtering out data center proposals,' contrasted with Doeden's local-control stance."
+},
+{
+"url": "https://www.sdpb.org/politics/2026-06-22/rep-johnson-ai-can-be-an-incredible-accelerant-to-the-human-condition-if-the-u-s-embraces-it",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-22",
+"note": "Quote verbatim in transcript, in context of FDA/diabetes/cancer advances. Transcript contains no mention of regulation or safety mandates (grep 'regulat' = 0 hits), consistent with the claim."
+},
+{
+"url": "https://www.sdpb.org/politics/2026-06-22/rep-johnson-ai-can-be-an-incredible-accelerant-to-the-human-condition-if-the-u-s-embraces-it",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-22",
+"note": "Quote verbatim; he follows with Industrial Revolution / computer revolution analogies arguing the disruption is worth it."
+},
+{
+"url": "https://dustyjohnson.house.gov/media/press-releases/johnson-votes-yes-calling-tiktok-divest-chinese-communist-party",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-13",
+"note": "Quote verbatim from his press release on the Protecting Americans from Foreign Adversary Controlled Applications Act vote."
+},
+{
+"url": "https://dustyjohnson.house.gov/media/press-releases/johnson-safeguards-us-infrastructure-chinese-spy-technology",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-30",
+"note": "Quote verbatim. Release says he 're-introduced his legislation to prohibit the Department of Transportation from using foreign adversary digital 3-D mapping technology, LiDAR.'"
+},
+{
+"url": "https://www.sdpb.org/politics/2026-06-22/rep-johnson-ai-can-be-an-incredible-accelerant-to-the-human-condition-if-the-u-s-embraces-it",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-22",
+"note": "Quote verbatim. Preceded by 'Social media is an accelerant to the loudest and most toxic voices' and followed by 'We're not going to limit the access that adults have to ... the First Amendment online.'"
+},
+{
+"url": "https://www.dakotanewsnow.com/2026/05/21/gubernatorial-candidates-share-their-stances-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-21",
+"note": "Quote verbatim; he then lists the four tests (electric rates, water, taxes, good jobs)."
+}
+],
+"score_objections": []
+}
+]

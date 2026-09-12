@@ -1,0 +1,257 @@
+[
+{
+"bioguide": "H001042",
+"checks": [
+{
+"url": "https://news.bgov.com/bloomberg-government-news/senators-press-energy-regulation-panel-on-data-center-oversight",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Paywalled BGov article (published 2026-07-22) loads directly; the visible teaser contains the exact sentence: 'Sen. Mazie Hirono (D-Hawaii) said that potential cost shifting of data centers' high energy use onto consumers has led to states curtailing data center projects'. Reporter paraphrase, as the item already notes. Only one sentence on Hirono is visible before the paywall."
+},
+{
+"url": "https://www.hirono.senate.gov/news/press-releases/hirono-warren-schumer-open-investigation-into-doges-ai-chatbot-plan-to-replace-education-department-call-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-02",
+"note": "hirono.senate.gov returns 403 directly; Wayback capture (2026-03-10) of the release published April 2, 2025 has the quote verbatim, attributed to 'the senators' (Hirono, Warren, Schumer letter to Sec. McMahon). Release explicitly discusses chatbots that 'hallucinate' and data privacy leaks, supporting the claim."
+},
+{
+"url": "https://ipwatchdog.com/2026/05/13/senators-defend-copyright-office-independence-ai-executive-overreach-dominate-oversight-hearing/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "Article states: 'When Senator Hirono asked if Congress should hold off on legislating AI fair use to let the courts develop case law, Perlmutter agreed.' Matches the claim. Note this is a question she posed, not a stated position, and it leans toward not legislating."
+},
+{
+"url": "https://www.hirono.senate.gov/news/press-releases/hirono-colleagues-reintroduce-bipartisan-legislation-to-boost-competition-and-rein-in-big-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-06-22",
+"note": "Direct fetch blocked (403); Wayback capture (2025-10-14) of the June 22, 2023 release has the quote verbatim, attributed to Senator Hirono. Release describes AICOA as stopping dominant platforms from preferencing their own products."
+},
+{
+"url": "https://www.hirono.senate.gov/news/press-releases/video-hirono-presses-big-tech-executives-to-protect-children-online",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-01-31",
+"note": "Wayback capture (2026-04-16) of the Jan 31, 2024 release; quote appears verbatim in the headline, body, and remarks transcript. Release also has her saying companies 'cannot continue to profit off young users' and 'Sex trafficking is a serious problem in my home state of Hawaii' with CSAM references, supporting the claim."
+},
+{
+"url": "https://www.hirono.senate.gov/news/press-releases/video-hirono-presses-big-tech-executives-to-protect-children-online",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-01-31",
+"note": "Same page as item 5; quote verbatim from her opening remarks at the Jan 31, 2024 Senate Judiciary hearing with Meta, X, TikTok, Snap and Discord CEOs."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "S001194",
+"checks": [
+{
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-trump-is-intentionally-raising-the-price-of-electricity",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Floor-speech transcript on Schatz's site (fetch tool got 403 and Wayback was down; page read via real browser). Quote appears verbatim with the ellipsis spanning one sentence. He names AI data center load as one driver of the electron shortage and calls for more solar, transmission, and grid interconnection, not slowing data centers, matching the claim."
+},
+{
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-curtis-warner-introduce-bipartisan-legislation-to-provide-more-transparency-on-ai-generated-content",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-25",
+"note": "Quote is verbatim and the release cites deepfakes (Pentagon explosion, Trump arrest images) and AI voice-clone scam calls. But the release never mentions the FTC or who enforces the AI Labeling Act; the 'enforced by the FTC' element is not on the page."
+},
+{
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-cruz-introduce-new-bill-to-protect-kids-on-ai-chatbot-platforms",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-28",
+"note": "CHATBOT Act release says chatbots 'pose real risks to minors, including exposure to inappropriate content, language, and addictive features' and that some AI companies 'deployed rewards, notifications, and targeted advertising to drive prolonged engagement by adolescent users.' Matches the claim."
+},
+{
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-britt-colleagues-press-ai-companies-to-commit-to-timely-consistent-safety-disclosures-on-models",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-12",
+"note": "Quote verbatim. Letter to OpenAI, Microsoft, Google, Anthropic, Meta, Luka, Character.AI, xAI asks for model/system cards published in a standardized location with a consistent schema, and explicitly asks companies to adhere to Seoul AI Summit / G7 commitments on cybersecurity and biosecurity misuse risks."
+},
+{
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-leads-bipartisan-group-of-10-senators-in-pressing-meta-for-safeguards-around-childrens-engagement-with-ai-chatbots",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-20",
+"note": "Quote verbatim (appears in headline paraphrase and letter body). Schatz led 10 senators (incl. Hawley, Britt) asking how Meta's policies permitting 'romantic or sensual' chatbot conversations with children were developed; requests answers by Sept 1, 2025."
+},
+{
+"url": "https://www.axios.com/2026/02/27/schatz-ai-jobs-bills",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-27",
+"note": "Axios paywalls the body but the full article text is in the page source (read via browser). Quote verbatim, attributed to a Schatz statement to Axios. Article describes a 'progressive non-deductible excise tax' on AI company revenues to fund a worker retraining program with living stipend and health benefits."
+},
+{
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-presses-commerce-secretary-nominee-howard-lutnick-on-census-noaa-protection-pacific-fisheries-consultation-ai-safety",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-29",
+"note": "Quote verbatim. Release says Schatz raised Trump's repeal of the Biden AI EO 'including potential impacts to the AI Safety Institute' and 'would continue to urge the Department of Commerce to ensure greater AI safety.' 'Objected' is a fair reading though the release frames it as a question rather than explicit opposition."
+},
+{
+"url": "https://kauainownews.com/2025/08/20/schatz-several-u-s-senate-colleagues-press-zuckerberg-after-reports-that-meta-ai-bots-spoke-romantically-sensually-with-kids/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-08-20",
+"note": "Fetched directly (200). Quote verbatim. However the letter asks Meta to voluntarily commit to no targeted ads to under-18s; it does not call for outside rules or legislation. 'Reason for outside rules' overstates what the source says (it supports tech_regulation only as a company-accountability letter)."
+},
+{
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-colleagues-introduce-legislation-to-repeal-trumps-ai-moratorium",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-27",
+"note": "GUARDRAILS Act release; quote verbatim. Bill would block the Dec 2025 EO from withholding federal funds from states that regulate AI. Claim matches."
+},
+{
+"url": "https://www.commerce.senate.gov/press/dem/release/cantwell-commerce-committee-democrats-call-for-regular-order-on-dangerous-and-damaging-commerce-title-of-reconciliation-bill-2025-6/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-11",
+"note": "Schatz is listed among the 12 Democratic signers of the June 11, 2025 letter to Cruz. Quote verbatim ('...the AI moratorium proposal tramples states' rights and holds the $42 billion BEAD program hostage'). Letter is primarily about regular order; the moratorium is one of several objections."
+},
+{
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-coons-shaheen-reed-warren-kim-bennet-slotkin-statement-on-president-trumps-decision-to-allow-the-export-of-advanced-nvidia-h200-ai-chips-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-09",
+"note": "Quote verbatim. Joint statement of eight Democratic ranking members/committee members, Schatz listed first; ends 'President Trump must reverse course and recommit to preserving American dominance in AI.'"
+},
+{
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-colleagues-introduce-legislation-to-repeal-trumps-ai-moratorium",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-27",
+"note": "Headline quote appears verbatim as Schatz's opening quote in the GUARDRAILS Act release."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "C001055",
+"checks": [
+{
+"url": "https://www.staradvertiser.com/2026/07/09/election/2026-election-ed-case/",
+"verdict": "confirmed",
+"corrected_quote": "Yet it is also critical that we address consequences such as the huge demands on AI on our resources such as data centers and job displacements.",
+"corrected_date": "2026-07-09",
+"note": "Quote appears verbatim (item drops the leading 'Yet'). Page is Case's own questionnaire answer; he names data-center resource demands as a consequence to address without proposing a specific policy, as claimed."
+},
+{
+"url": "https://www.staradvertiser.com/2026/07/09/election/2026-election-ed-case/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-09",
+"note": "Quote verbatim. Same answer continues: 'fairly regulated on a national basis through Congress and the administration to set common expectations and standards ... without hindering the responsible development of AI,' which supports the middle-of-the-road guardrails characterization."
+},
+{
+"url": "https://www.hawaiipublicradio.org/the-conversation/2026-08-12/congressional-campaign-ad-raises-concern-for-possible-use-of-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-12",
+"note": "Story is about independent candidate Nathan Berning's ad against Case that appears to use AI imagery of the late Haunani-Kay Trask. Story says 'HPR reached out to the Case campaign team' and prints no response from Case, consistent with the context-only claim. Contains no Case position on AI risk; should not affect scoring."
+},
+{
+"url": "https://www.staradvertiser.com/2026/07/09/election/2026-election-ed-case/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-09",
+"note": "Quote verbatim. He calls for regulation 'on a national basis through Congress and the administration'; the page says nothing about state laws or a moratorium, matching the claim's caveat. Letter non-signing is not verifiable from this page but is stated as a negative and does not overstate the source."
+},
+{
+"url": "https://www.staradvertiser.com/2026/07/09/election/2026-election-ed-case/",
+"verdict": "confirmed",
+"corrected_quote": "AI is both critical to our national defense and that it is critical we lead in AI over geopolitical challengers such as the People's Republic of China",
+"corrected_date": "2026-07-09",
+"note": "Quote verbatim (fragment of a longer sentence that also cites his Appropriations Subcommittee on Defense seat). Page says nothing about chips or export controls specifically."
+},
+{
+"url": "https://www.staradvertiser.com/2026/07/09/election/2026-election-ed-case/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-09",
+"note": "Headline quote appears verbatim in his answer on regulating the AI industry."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only source is one sentence saying the US must 'lead in AI over geopolitical challengers such as the People's Republic of China.' It says nothing about semiconductors, export controls, or chip sales; a generic 'win the race' framing is used by both export-control hawks and by those who argue for selling more chips abroad to keep US market share. Evidence is too thin to place him on this scale.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "T000487",
+"checks": [
+{
+"url": "https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-11",
+"note": "Quote appears verbatim, attributed to Rep. Jill Tokuda, D-Hawaii, HASC member, in response to NBC questions. Second sentence 'Human judgment must remain at the center of life-or-death decisions' also verbatim. Article dated 2026-03-11."
+},
+{
+"url": "https://www.staradvertiser.com/2026/07/13/election/2026-election-jill-n-tokuda/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-13",
+"note": "Quote verbatim in her AI-regulation answer. Page also mentions House Select Committee on China work and national security/competitiveness framing, supporting the claim."
+},
+{
+"url": "https://www.staradvertiser.com/2026/07/13/election/2026-election-jill-n-tokuda/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-13",
+"note": "Quote verbatim (curly apostrophe in 'don’t'). Consumers, workers, national security all named."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim from the letter excerpt; 'Jill Tokuda' appears in the 44-member signer list. Letter says a moratorium would 'stomp on state autonomy' and create a 'regulatory vacuum' absent federal legislation, matching the claim. Press release dated 2025-12-03."
+},
+{
+"url": "https://www.staradvertiser.com/2026/07/13/election/2026-election-jill-n-tokuda/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-13",
+"note": "Page supports that she calls for 'commonsense national standards' from Congress. The pairing with the anti-preemption letter is the tracker's inference, not stated on this page; she does not address state laws in the questionnaire."
+},
+{
+"url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/select-committee-democrats-outline-priorities-ahead-trump-xi-meeting-beijing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "Quote verbatim in Tokuda's section of the release, framed around Trump's trade talks with Xi. Note she says 'give away our chips' and 'leadership in advanced semiconductor technology'; she does not literally say 'export limits/controls', so the claim's wording is a reasonable paraphrase but slightly more specific than the text."
+},
+{
+"url": "https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-11",
+"note": "Verbatim, attributed to Tokuda in the same NBC passage."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "The evidence is mixed rather than firmly pro-state: she signed a letter opposing an AI moratorium/preemption 'given the lack of any federal legislation', but her own questionnaire answer calls for Congress to 'establish commonsense national standards'. That reads as opposing preemption-without-federal-law, not as a principled 'let states regulate' stance. -1 fits the sources better than -2.",
+"suggested_score": -1,
+"suggested_label": "Leans states"
+}
+]
+}
+]

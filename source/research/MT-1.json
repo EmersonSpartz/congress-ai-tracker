@@ -1,0 +1,497 @@
+[
+{
+"bioguide": "D000618",
+"name": "Steve Daines",
+"signature": "Trump's informal China envoy who says Montana must 'embrace' AI but needs more coal, nuclear and hydro baseload power to run data centers; two-time Kids Online Safety Act cosponsor; retiring at the end of 2026.",
+"notable_quote": {
+"text": "we're going to need to embrace this next generation of technology artificial intelligence. But one of the key constraining factors will be energy. We need more baseload power.",
+"url": "https://nbcmontana.com/news/local/full-interview-daines-talks-ai-ice-tariffs-super-bowl",
+"date": "2026-02-08"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "medium",
+"summary": "Daines says Montana should embrace AI and that the answer to data center power demand is more coal, nuclear, hydro and gas plus permitting reform. He brushes off water worries and has not weighed in on the Yellowstone County project or the NorthWestern rate case.",
+"evidence": [
+{
+"type": "interview",
+"title": "NBC Montana interview: Daines on AI data centers and energy",
+"url": "https://nbcmontana.com/news/local/full-interview-daines-talks-ai-ice-tariffs-super-bowl",
+"date": "2026-02-08",
+"quote": "we're going to need to embrace this next generation of technology artificial intelligence. But one of the key constraining factors will be energy. We need more baseload power.",
+"what_it_shows": "Asked how Montana can power large data centers, he calls for embracing AI and expanding coal, nuclear, hydro and gas generation rather than limiting projects."
+},
+{
+"type": "interview",
+"title": "NBC Montana interview: Daines on data center water concerns",
+"url": "https://nbcmontana.com/news/local/full-interview-daines-talks-ai-ice-tariffs-super-bowl",
+"date": "2026-02-08",
+"quote": "as we know you start talking about impacting our rivers, those are fighting words as a lifelong fly fisherman in Montana.",
+"what_it_shows": "He acknowledges viewer concerns about water but says cooling will not draw from rivers and pivots to needing more coal and power generation, with no call for conditions on projects."
+},
+{
+"type": "other",
+"title": "Remarks at Townhall Live AI event, reported by Washington Reporter",
+"url": "https://washingtonreporter.news/scoop-bernie-moreno-sheehy-lummis-daines-town-hall/",
+"date": "2026-05-01",
+"quote": "necessary but not sufficient",
+"what_it_shows": "At an event on AI dominance he called for both judicial and permitting reform to speed buildout, calling permitting reform alone necessary but not sufficient."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Daines frames AI as a race to win and points to Europe's regulation as what not to do, so he leans light touch. The one guardrail he has backed is narrow: a bill making airport face scans opt-in.",
+"evidence": [
+{
+"type": "other",
+"title": "Remarks at Townhall Live AI event, reported by Washington Reporter",
+"url": "https://washingtonreporter.news/scoop-bernie-moreno-sheehy-lummis-daines-town-hall/",
+"date": "2026-05-01",
+"quote": "If you want a case study of what not to do",
+"what_it_shows": "Speaking about AI policy he praised the Trump administration's approach and held up Europe's last 25 years of regulation as a cautionary example."
+},
+{
+"type": "interview",
+"title": "NBC Montana interview: Daines on AI",
+"url": "https://nbcmontana.com/news/local/full-interview-daines-talks-ai-ice-tariffs-super-bowl",
+"date": "2026-02-08",
+"quote": "we're going to need to embrace this next generation of technology artificial intelligence.",
+"what_it_shows": "He treats AI as a technology to embrace, with energy supply rather than safety as the main constraint."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Traveler Privacy Protection Act of 2025 (S.1691)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1691",
+"date": "2025-05-08",
+"quote": null,
+"what_it_shows": "Backs a targeted rule requiring airport security to get permission before scanning travelers' faces, a narrow guardrail on one AI use."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Daines has repeatedly cosponsored the Kids Online Safety Act and backed letting news outlets bargain with Google and Facebook. That is a targeted-rules record, not a break-up-Big-Tech one.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (S.1748, 119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Supports requiring social media and gaming apps to build in safety tools for kids under 17."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (S.1409, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409",
+"date": "2023-05-02",
+"quote": null,
+"what_it_shows": "Backed the same kids online safety bill in the prior Congress, showing a sustained position."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Journalism Competition and Preservation Act of 2023 (S.1094)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1094",
+"date": "2023-03-30",
+"quote": null,
+"what_it_shows": "Supported letting news outlets team up to make Google and Facebook pay for their stories, a targeted check on platform power."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Daines voted with 99 senators to strip the 10-year state AI law moratorium from H.R. 1 in July 2025, but we found no statement from him for or against federal preemption, the December 2025 executive order, or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call #363, Blackburn amendment striking the state AI law moratorium",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote to remove the moratorium after the deal collapsed; the vote alone does not show a position on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "Daines is President Trump's informal envoy to China, led a Senate delegation to Beijing in May 2026 and toured Chinese AI firms in Hangzhou in August 2026, but we found no statement from him on chip export controls or Nvidia sales to China.",
+"evidence": [
+{
+"type": "other",
+"title": "South China Morning Post: Trump envoy Daines visits Chinese AI, space firms ahead of Xi summit",
+"url": "https://www.scmp.com/news/china/diplomacy/article/3366009/trump-envoy-daines-visits-chinese-ai-space-firms-lay-groundwork-xi-summit-us",
+"date": "2026-09-01",
+"quote": null,
+"what_it_shows": "He visited Chinese technology companies as an envoy during an intensifying tech war; the report does not record any position on export controls."
+},
+{
+"type": "statement",
+"title": "Press release: Readout of Daines' congressional delegation trip to China",
+"url": "https://www.daines.senate.gov/2026/05/07/readout-of-daines-congressional-delegation-trip-to-china",
+"date": "2026-05-07",
+"quote": null,
+"what_it_shows": "The readout lists fentanyl, Iran and trade topics; chips and AI export controls are not mentioned."
+}
+]
+}
+},
+"search_notes": "Searches: 'Steve Daines artificial intelligence'; 'Daines data center(s)'; Daines Nvidia/export controls/chips; Daines AI moratorium/preemption; Daines Big Tech/Section 230/KOSA; Daines chatbot/deepfake; Daines FERC hydropower; Daines AI Caucus; Daines China envoy chips; two site listings of daines.senate.gov. Read: NBC Montana Feb 2026 transcript (verbatim), Washington Reporter Townhall Live (May 2026), SCMP Sept 2026, CODEL readout, CNBC release, KOTA nuclear piece, Bozeman Chronicle Kazakh hearing. Dead ends: Daily Montanan 'silence is deafening' column, Washington Times AI-race piece, Daily Energy Insider FERC hearing summary and several daines.senate.gov pages returned 403 with the Wayback fallback down. Unconfirmed leads: Senate AI Caucus membership (no URL found) and the FERC sections 4(e)/18 hydro rulemaking letter (not located), so neither is used. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "S001232",
+"name": "Tim Sheehy",
+"signature": "Freshman senator and Montana's loudest pro-data-center voice ('First they killed our timber mills... now data centers'); says the existential AI threat is 'our own government' while sponsoring a bipartisan AI fraud bill and AI literacy bills.",
+"notable_quote": {
+"text": "First they killed our timber mills, then our mines, then our factories - now data centers. Every good-paying, middle-class employment powerhouse has been systematically murdered by globalist and communist lobbying in America",
+"url": "https://www.jpost.com/american-politics/article-907521",
+"date": "2026-08"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "high",
+"summary": "Sheehy is a national voice against the data center backlash. He compares restrictions to the shutdown of timber mills and factories, attacks Bernie Sanders' moratorium push, and backs the SPEED Act permitting overhaul.",
+"evidence": [
+{
+"type": "social_post",
+"title": "Post on X responding to Sanders' data center moratorium, reported by The Jerusalem Post",
+"url": "https://www.jpost.com/american-politics/article-907521",
+"date": "2026-08",
+"quote": "First they killed our timber mills, then our mines, then our factories - now data centers. Every good-paying, middle-class employment powerhouse has been systematically murdered by globalist and communist lobbying in America",
+"what_it_shows": "He casts limits on data centers as the latest attack on working-class industry, the opposite of a pause or ratepayer-first stance."
+},
+{
+"type": "social_post",
+"title": "Sheehy response to Sanders, reported by Washington Reporter",
+"url": "https://washingtonreporter.news/exclusive-the-unexpected-data-center-effect-lower-electric-bills/",
+"date": "2026-08-31",
+"quote": "Every politician calling for the end of data centers is also calling for the destruction of the future jobs they create,",
+"what_it_shows": "Directly pushes back on the moratorium push and ties data centers to future jobs."
+},
+{
+"type": "other",
+"title": "Remarks at Townhall Live AI event, reported by Washington Reporter",
+"url": "https://washingtonreporter.news/scoop-bernie-moreno-sheehy-lummis-daines-town-hall/",
+"date": "2026-05-01",
+"quote": "wanting to protect salamanders",
+"what_it_shows": "He criticized anti-data-center factions in both parties, mocked Democrats for environmental objections, and called the SPEED Act permitting bill essential to beating China."
+},
+{
+"type": "op_ed",
+"title": "Townhall column: America Wants Reindustrialization. That Means Building AI Data Centers.",
+"url": "https://townhall.com/news/dmitri-bolt/2026/08/26/if-we-want-an-re-industrialized-america-we-need-more-data-centers-n2681913",
+"date": "2026-08-26",
+"quote": null,
+"what_it_shows": "Conservative commentators hold up Sheehy's timber-mill comparison as the model for how Republicans should defend data centers."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Mixed but leaning light touch. Sheehy says the real existential threat in AI is the U.S. government, not China, and cites Europe as a cautionary tale, yet he wrote a bipartisan bill to criminalize AI impersonation fraud and cosponsored the TAKE IT DOWN Act on deepfake images.",
+"evidence": [
+{
+"type": "other",
+"title": "Remarks at Townhall Live AI event, reported by Washington Reporter",
+"url": "https://washingtonreporter.news/scoop-bernie-moreno-sheehy-lummis-daines-town-hall/",
+"date": "2026-05-01",
+"quote": "the existential threat is not China; it's our own government",
+"what_it_shows": "He treats government regulation, not AI itself, as the main danger and warns Europe became an economic backwater through anti-competitive rules."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: AI Fraud Accountability Act of 2026 (S.3982)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3982",
+"date": "2026-03-04",
+"quote": null,
+"what_it_shows": "His own bill creates a federal crime for using realistic AI impersonations to defraud people, a targeted guardrail."
+},
+{
+"type": "statement",
+"title": "Press release: Sheehy, Blunt Rochester Introduce AI Fraud Accountability Act",
+"url": "https://www.sheehy.senate.gov/news/press-releases/sheehy-blunt-rochester-introduce-ai-fraud-accountability-act",
+"date": "2026-03-04",
+"quote": "we must ensure it is not a tool for fraud. The AI Fraud Accountability Act modernizes federal law to crack down on AI fraudsters targeting American families, seniors, and businesses while safeguarding technological innovation and First Amendment rights",
+"what_it_shows": "He pairs the fraud crackdown with explicit protection for innovation and speech, showing a narrow rather than sweeping approach."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (S.146)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Backed the now-law crime and takedown duty for AI-faked intimate images."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: K-12 AI Literacy and Readiness Act of 2026 (S.5225)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5225",
+"date": "2026-08-04",
+"quote": null,
+"what_it_shows": "Promotes AI adoption and teaching in schools rather than restricting it."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Artificial Intelligence Physical Systems Coordination Act of 2026 (S.5047)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5047",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "Coordinates federal work on AI-controlled robots and physical systems; neutral on regulation."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Sheehy's tech record is narrow: he cosponsored the Connected Vehicle Security Act to ban Chinese-linked car software and the TAKE IT DOWN Act's platform takedown duty. We found no statements on Section 230, privacy or antitrust.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (S.4429)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and car software from companies tied to China, Russia, Iran or North Korea, a targeted security rule on tech."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (S.146)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Backed a law forcing websites to remove nonconsensual intimate images quickly."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Sheehy voted with 99 senators to strip the state AI law moratorium from H.R. 1, and his broad anti-regulation rhetoric does not address state laws specifically. We found no statement on preemption, the December 2025 executive order, or the March 2026 framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call #363, Blackburn amendment striking the state AI law moratorium",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote to remove the moratorium after the deal collapsed; the vote alone does not show a position on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "We found no statement from Sheehy on chip export controls or Nvidia sales to China. The only chip-related item is a June 2026 letter with Zinke, Marshall and Moreno urging the ITC not to give TSMC special treatment in a patent case, which is not about export controls.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter to ITC on TSMC patent case, reported by Tom's Hardware",
+"url": "https://www.tomshardware.com/tech-industry/republican-lawmakers-urge-itc-to-block-imports-of-infringing-tsmc-chips-as-patent-ruling-imminent",
+"date": "2026-06-12",
+"quote": null,
+"what_it_shows": "Sheehy and Zinke argued strategically important chipmakers should not get special treatment in a patent enforcement case; it says nothing about China export rules."
+}
+]
+}
+},
+"search_notes": "Searches: 'Tim Sheehy artificial intelligence'; 'Sheehy data center(s)'; Sheehy Nvidia/export controls; Sheehy AI moratorium/preemption; Sheehy Big Tech/Section 230/KOSA; Sheehy chatbot/deepfake; Sheehy AI regulation/Genesis Mission; Sheehy Sanders timber mills; Sheehy Commerce hearing AI; Sheehy TikTok/kids; Sheehy Warner/Kim robotics; Sheehy K-12 AI; Sheehy SPEED Act; Sheehy Connected Vehicle; Sheehy GUARD Act; two site listings of sheehy.senate.gov. Read: AI Fraud Accountability Act press release (verbatim), Washington Reporter Townhall Live (May 2026) and Aug 31 2026 data center piece, Jerusalem Post and voz.us reports of his X post, Townhall column, Tom's Hardware TSMC letter, Quiver S.5225 summary. The X post itself could not be fetched; the quote is taken as printed by the Jerusalem Post. Dead ends: Axios Schatz/Sheehy weather AI piece, Politico fire-tech piece, WSJ and NBC News data center backlash pieces were paywalled or blocked. The March 2026 Genesis Mission letter did not include him. No AI super PAC support or attacks found; the landscape lead about Warner's AI agenda only reflects his S.5047 sponsorship."
+},
+{
+"bioguide": "Z000018",
+"name": "Ryan K. Zinke",
+"signature": "No notable public AI activity found; retiring House member whose only tech-adjacent stands are a 2024 statement backing the TikTok divestiture vote and a June 2026 letter on TSMC patent enforcement.",
+"notable_quote": {
+"text": "I don't think the Chinese should own our land or our kids' data.",
+"url": "https://zinke.house.gov/media/press-releases/zinke-votes-protect-montana-data-privacy-chinese-communist-party",
+"date": "2024-03-13"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. We looked for comments on the Bonner, Missoula and Butte proposals, the NorthWestern rate case and federal data center policy. His August 2025 statement backing the NorthWestern-Black Hills merger praises affordable, reliable power but never mentions data centers.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Zinke statement on proposed NorthWestern Energy and Black Hills merger",
+"url": "https://zinke.house.gov/media/press-releases/zinke-releases-statement-proposed-merger-northwestern-energy-and-black-hills",
+"date": "2025-08-22",
+"quote": "The proposed merger between Northwestern Energy and Black Hills Energy can strengthen the grid, support good-paying jobs, and deliver more affordable, reliable power across our state,",
+"what_it_shows": "He supports the utility merger that investors have tied to data center growth, but his statement does not address data centers, rates for large loads, or water."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. We searched for statements on AI safety, chatbots, deepfakes and AI regulation and for AI bills he sponsored or cosponsored in the 118th and 119th Congress, and found none.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Zinke's only tech regulation stand found is his 2024 vote and statement supporting the law forcing TikTok's Chinese parent to divest, a targeted rule aimed at a foreign-owned platform. Nothing found on Section 230, kids online safety, privacy or antitrust.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Zinke Votes to Protect Montana Data Privacy From the Chinese Communist Party",
+"url": "https://zinke.house.gov/media/press-releases/zinke-votes-protect-montana-data-privacy-chinese-communist-party",
+"date": "2024-03-13",
+"quote": "I don't think the Chinese should own our land or our kids' data.",
+"what_it_shows": "He backed a targeted law requiring TikTok to divest from ByteDance on national security and data privacy grounds."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption of state AI laws. He did not sign the Democratic Matsui or Clarke letters and issued no statement we could find on the moratorium, the December 2025 executive order or the March 2026 framework.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on chip export controls or Nvidia sales to China. His one chip-related action is a June 2026 letter with Sheehy, Marshall and Moreno urging the ITC not to give TSMC special treatment in a patent case, which is not about export controls.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter to ITC on TSMC patent case, reported by Tom's Hardware",
+"url": "https://www.tomshardware.com/tech-industry/republican-lawmakers-urge-itc-to-block-imports-of-infringing-tsmc-chips-as-patent-ruling-imminent",
+"date": "2026-06-12",
+"quote": null,
+"what_it_shows": "Zinke argued strategically important chipmakers should not get special treatment in patent enforcement; it does not address China export rules."
+}
+]
+}
+},
+"search_notes": "Searches: 'Zinke artificial intelligence'; 'Zinke data center(s)'; Zinke Big Tech/Section 230/TikTok/KOSA; Zinke Nvidia/export controls/chips; Zinke Bonner/Missoula/Butte data center; Zinke AI energy coal; Zinke AI appropriations Interior; Zinke TikTok 2025; Zinke Flathead/Kalispell data center; 'Ryan Zinke AI'; Zinke SPEED Act/permitting; Zinke OBBB/federal lands AI; site listing of zinke.house.gov (only energy and TikTok items). Read: merger statement, TikTok statement, energy issues page, Montana Free Press Bonner data center piece (Zinke mentioned only as retiring), Eastern Progress data center politics piece (no Zinke position), Tom's Hardware TSMC letter, Wes Siler substack (Boundary Waters mine, not AI). Record file shows zero relevant bills in the 118th or 119th Congress. He announced in March 2026 he will not seek reelection for health reasons. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "D000634",
+"name": "Troy Downing",
+"signature": "Freshman on the House Financial Services AI subcommittee who calls AI a 'modern day arms race' with China, wrote the bipartisan AI-WISE Act on AI literacy for small businesses, and backs data centers with local control and 'nonnegotiable' water rights.",
+"notable_quote": {
+"text": "The federal government should take a light-touch approach and leave these choices to the state and local level. One thing is nonnegotiable: Montana's senior water rights must be protected.",
+"url": "https://www.montanarightnow.com/helena/candidates-in-montanas-eastern-congressional-race-discuss-data-centers/article_42318dd4-5c1a-463f-9874-ac516ec82c55.html",
+"date": "2026-09-03"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Downing supports data centers as investment and wants more generation, transmission and permitting reform to win the AI race with China, but says communities should decide, Montana water rights are nonnegotiable, and data centers should not pull power away from households.",
+"evidence": [
+{
+"type": "statement",
+"title": "Statement to Nonstop Local on Montana's Eastern District data center debate",
+"url": "https://www.montanarightnow.com/helena/candidates-in-montanas-eastern-congressional-race-discuss-data-centers/article_42318dd4-5c1a-463f-9874-ac516ec82c55.html",
+"date": "2026-09-03",
+"quote": "The federal government should take a light-touch approach and leave these choices to the state and local level. One thing is nonnegotiable: Montana's senior water rights must be protected.",
+"what_it_shows": "With the Quantica project in his district under fire, he backs data centers as opportunity but wants local decisions and hard protection for water rights."
+},
+{
+"type": "other",
+"title": "Tele-town hall remarks reported by Daily Montanan",
+"url": "https://dailymontanan.com/2026/03/19/downing-toes-republican-talking-points-during-talk-of-iran-save-america-act-and-ice-protests/",
+"date": "2026-03-19",
+"quote": "That's something that is incredibly important that we keep keep our finger on so that they're not simply taking demand or taking power when there's demand for consumer power,",
+"what_it_shows": "Asked about regulating AI and data centers, he favored co-locating power supplies so data centers do not compete with household electricity, while calling for more grid buildout."
+},
+{
+"type": "other",
+"title": "Remarks at Hudson Institute event on US-China competition",
+"url": "https://www.hudson.org/events/next-steps-us-china-great-power-competition-house-republican-policy-committee",
+"date": "2025-07-14",
+"quote": "It's going to require incredible data centers that have an incredible need for power.",
+"what_it_shows": "He said what scares him most is powering AI, called for building transmission and regulatory reform to speed new power plants, and warned China will build coal plants without restrictions."
+},
+{
+"type": "interview",
+"title": "Fox News Radio Evening Edition: The Role of Coal in the AI Era",
+"url": "https://downing.house.gov/media/in-the-news/evening-edition-role-coal-ai-era",
+"date": "2025-08-13",
+"quote": null,
+"what_it_shows": "He argued for rolling back Biden-era coal restrictions to meet the energy needs of the growing AI industry."
+},
+{
+"type": "other",
+"title": "Quantica Infrastructure executives' donations, reported by Lee newspapers via Eastern Progress",
+"url": "https://www.easternprogress.com/the-high-voltage-politics-of-data-centers-in-montana-s-western-congressional-contest/article_74b8724d-34ab-57ee-9e59-31cef0caf0b3.html",
+"date": "2026-04-30",
+"quote": null,
+"what_it_shows": "The CEO and general counsel of the company behind the 5,100-acre Yellowstone County data center gave a combined $5,000 to his campaign."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Downing calls AI a modern-day arms race with China and says the U.S. should regulate as little as possible while finding reasonable sideboards. His own AI bill is about teaching small businesses to use AI, not restricting it.",
+"evidence": [
+{
+"type": "other",
+"title": "Remarks at Hudson Institute event on US-China competition",
+"url": "https://www.hudson.org/events/next-steps-us-china-great-power-competition-house-republican-policy-committee",
+"date": "2025-07-14",
+"quote": "we are as broad as we can in not regulating it to a point where you can't get anything done and you're incentivizing to do it elsewhere, but figure out what those reasonable sideboards are",
+"what_it_shows": "He wants minimal AI regulation to keep innovation in the U.S., allowing only limited guardrails."
+},
+{
+"type": "other",
+"title": "Tele-town hall remarks reported by Daily Montanan",
+"url": "https://dailymontanan.com/2026/03/19/downing-toes-republican-talking-points-during-talk-of-iran-save-america-act-and-ice-protests/",
+"date": "2026-03-19",
+"quote": "Artificial intelligence is really a modern day arms race and there's going to be winners and losers in this,",
+"what_it_shows": "Asked what Congress is doing to regulate AI, he answered in terms of beating China and generating enough power, not safety rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI-WISE Act (H.R.5784)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5784",
+"date": "2025-10-17",
+"quote": null,
+"what_it_shows": "Co-led a bipartisan bill directing the SBA to create AI literacy lessons for small businesses, including on AI limits and risks; it passed the House in January 2026."
+},
+{
+"type": "statement",
+"title": "Press release: Downing's AI-WISE Act Passes House",
+"url": "https://downing.house.gov/media/press-releases/downings-ai-wise-act-passes-house",
+"date": "2026-01-20",
+"quote": "My AI-WISE Act will help Main Street Montana stay competitive and thrive in the AI era.",
+"what_it_shows": "Frames AI as an opportunity for rural small businesses; the bill drew support from OpenAI and Intuit."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on kids online safety, Section 230, privacy or antitrust. His tech work has focused on crypto market structure and AI literacy, and at Hudson he opposed a central bank digital currency, which does not fit this dimension.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on federal preemption of state AI laws. His September 2026 statement that data center choices belong to state and local governments is about siting, not AI laws, and he issued no statement we could find on the moratorium, the executive order or the March 2026 framework.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on chip export controls or Nvidia sales. At a July 2025 Hudson Institute event on US-China competition he discussed AI as an arms race and China's power buildout but did not mention semiconductors or export rules.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Troy Downing artificial intelligence OR AI'; 'Downing Montana data center(s)'; Downing Big Tech/Section 230/TikTok/KOSA; Downing Nvidia/export controls/chips; Downing AI moratorium/preemption; Downing Financial Services AI hearing; Downing Quantica/Broadview; Downing coal AI Colstrip; 'Rep. Downing AI'; Downing SBA letter; Downing TikTok/kids; site listing of downing.house.gov. Read: Nonstop Local Sept 2026 statement (verbatim), Daily Montanan March 2026 town hall (via Wayback), Hudson Institute July 2025 transcript (speaker confirmed as Downing), AI-WISE press releases, FedScoop Nov 2025, Fox News Radio podcast listing, Eastern Progress and Montana Free Press data center pieces, MTPR Q&A (no AI content), Sidney Herald profile of challenger Brian Miller who attacks him over data centers. Dead end: FedScoop May 2026 piece on House lawmakers seeking SBA AI transparency could not be decoded. He sits on the Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence as a member, not in a leadership role. No AI super PAC support or attacks found; the Quantica executive donations are campaign contributions, not PAC spending."
+}
+]

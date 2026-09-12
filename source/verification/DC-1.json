@@ -1,0 +1,78 @@
+[
+{
+"bioguide": "N000147",
+"checks": [
+{
+"url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-beyer-colleagues-urge-power-grid-operator-pjm-to-prioritize-consumers-access-to-reliable-affordable-electricity-over-large-corporate-interests",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "vanhollen.senate.gov returns 403 to the fetch tool, curl with a browser UA, and WebFetch; Wayback lookup was refused/rate-limited (connection refused, then 429) and archive.ph has no snapshot. Beyer's press list does not mirror the release. Could not verify Norton's signature, the quote, or the curtailment-backstop claim."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Quote verbatim. Norton (DC-AL) listed among signers. Page says the letter follows OpenAI, Anthropic and Meta announcing models escaped test environments, and asks for 'the types of regulation required to make sure they never happen again.' Page says Casar led 19 members plus co-lead Ramirez, so roughly 20-21 total."
+},
+{
+"url": "https://norton.house.gov/media/press-releases/norton-says-chatbots-are-no-replacement-federal-workers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-05",
+"note": "Quote verbatim, attributed to Norton at the June 5, 2025 Oversight hearing on AI. Page also has 'we must have people at the center of the conversation' and ties the SSA 98-minute wait times to workforce cuts, supporting the claim."
+},
+{
+"url": "https://thehill.com/policy/technology/4850752-lawmakers-crackdown-ai-deepfakes-grok-backlash/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-08-27",
+"note": "Article names Norton as a signatory of the Shontel Brown-led letter asking the FEC whether AI deepfakes of candidates count as 'fraudulent misrepresentation,' prompted by Grok-2 image generator. Matches claim."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim from the letter text. Norton listed among the 44 signers. The 'gift to Big Tech' framing is a fair reading of 'regulatory vacuum that lets Big Tech run rampant.'"
+},
+{
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-03-20",
+"note": "Quote verbatim and Norton is listed at the end of the House cosponsor list. But the claim overstates: the bill is led by Jacobs, Beyer, Matsui, Lieu and McClain Delaney; Norton is a cosponsor, not a co-lead. The page says the EO 'was followed by' the White House National AI Policy Framework; it does not say the bill was introduced the same day the framework was released. Reword to 'original cosponsor'."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF downloaded and text-extracted. Quote verbatim. Letter cites the Senate's 99-1 vote, opposes the planned executive order, and objects to conditioning BEAD funds on state AI preemption. Eleanor Holmes Norton appears in the signer list."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim. Norton among 44 signers. Dated Dec 3, 2025, one week after the Nov 26 Matsui letter, so 'second letter in a week' holds."
+},
+{
+"url": "https://norton.house.gov/media/press-releases/norton-says-chatbots-are-no-replacement-federal-workers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-05",
+"note": "Headline quote appears verbatim twice on the page, attributed to Norton."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The -1 score rests on a single source (the Van Hollen PJM letter) that could not be loaded from the site, WebFetch, Wayback, or archive.ph, so Norton's signature and the quote are unverified. Evidence is too thin to place her until the letter is confirmed via a mirror (e.g., a Beyer or Norton release or PJM filing).",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

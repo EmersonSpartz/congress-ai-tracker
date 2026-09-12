@@ -1,0 +1,43 @@
+[
+{
+"bioguide": "R000600",
+"checks": [
+{
+"url": "https://radewagen.house.gov/media-center/press-releases/amata-highlights-energy-security-hearing-permitting-reform",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-12",
+"note": "Quote appears verbatim as her words. Page confirms Chairman Westerman framed the SPEED Act as helping America 'win the AI race' while her own remarks were about island energy imports and China; no data center mention. Minor wording nit: the release says she 'emphasized energy security in her questions' and appreciated the discussion, not that she 'backed' the hearing or endorsed the bill."
+},
+{
+"url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-ai-overwatch-act",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Page accurately matches the bill description (codifies Commerce H200 rule, blocks Chinese military-linked companies such as Alibaba/Tencent from advanced Nvidia chips). But it never names Radewagen or Amata, and it does not establish her cosponsorship or HFAC membership; the 'she later cosponsored' assertion is unverified from this page and needs a congress.gov cosponsor list."
+},
+{
+"url": "https://islandsbusiness.com/news-break/amata-kilili-named-co-chairs-of-bipartisan-task-force-combatting-chinese-government-influence-in-indo-pacific/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-06-09",
+"note": "Quote appears verbatim in her statement as co-chair. Article is about a bipartisan Pacific Islands task force on CCP influence; no mention of chips or export controls, as the claim acknowledges."
+},
+{
+"url": "https://radewagen.house.gov/media-center/press-releases/amata-highlights-energy-security-hearing-permitting-reform",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-12",
+"note": "Verbatim, attributed to Congresswoman Amata, dated September 12, 2025. Note it is an energy-security quote, not an AI-policy quote."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the three sources contains her own statement on chip export controls, and the only chip-specific page (HFAC AI Overwatch release) does not name her; her cosponsorship is asserted but not documented here. The verified evidence is general Pacific China-hawkishness, which supports -1. Keep -2 only if a congress.gov cosponsor record for the AI Overwatch Act (or similar export-control bill) is added as a source.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+}
+]
+}
+]
