@@ -705,7 +705,184 @@
 "1": "Leans toward selling more chips abroad or lighter controls.",
 "2": "Opposes controls; backs chip sales to China and deregulating export rules."
 },
-"bills": []
+"bills": [
+{
+"label": "H.R.6875",
+"title": "AI OVERWATCH Act",
+"sponsor": "Rep. Brian Mast (R-FL-21)",
+"direction": "more_guardrails",
+"what": "Gives Congress an arms-sales-style check on advanced AI chip exports to China and other countries of concern: licenses required (no blanket approvals), Commerce must certify exports will not shortchange US supply or enable remote access, and the most advanced chips stay barred.",
+"status": "Ordered reported by House Foreign Affairs in the nature of a substitute, 42-2, on 2026-01-21. 43 cosponsors.",
+"significance": "major",
+"congress": 119,
+"id": "119-HR6875",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"n_cosponsors": 43
+},
+{
+"label": "H.R.3447",
+"title": "Chip Security Act",
+"sponsor": "Rep. Bill Huizenga (R-MI-4)",
+"direction": "more_guardrails",
+"what": "House version of the Chip Security Act: Commerce must require location-verification on export-controlled advanced chips and exporters must report diversion, so US chips cannot be smuggled to China.",
+"status": "Ordered reported by House Foreign Affairs in the nature of a substitute, 42-0, on 2026-03-26. Awaiting floor action. 41 cosponsors.",
+"significance": "major",
+"congress": 119,
+"id": "119-HR3447",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"n_cosponsors": 41
+},
+{
+"label": "S.1705",
+"title": "Chip Security Act",
+"sponsor": "Sen. Tom Cotton (R-AR)",
+"direction": "more_guardrails",
+"what": "Requires advanced AI chips to carry location-verification and other anti-diversion features before export, and requires exporters to report to Commerce if chips are diverted or tampered with, to stop smuggling to China.",
+"status": "Referred to Senate Banking (2025-05-08); no committee action as of 2026-09-12. 21 bipartisan cosponsors.",
+"significance": "major",
+"congress": 119,
+"id": "119-S1705",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"n_cosponsors": 21
+},
+{
+"label": "H.R.2683",
+"title": "Remote Access Security Act",
+"sponsor": "Rep. Michael Lawler (R-NY-17)",
+"direction": "more_guardrails",
+"what": "Closes the cloud loophole: export controls would apply when a foreign person accesses controlled US chips or technology remotely over the internet or a cloud service, not just when hardware physically ships.",
+"status": "Ordered reported by House Foreign Affairs 51-0 (2025-04-09). Passed House under suspension 369-22 (Roll Call 13) on 2026-01-12. Received in Senate and referred to Banking 2026-01-13.",
+"significance": "major",
+"congress": 119,
+"id": "119-HR2683",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"n_cosponsors": 17
+},
+{
+"label": "S.1053",
+"title": "FIGHT China Act of 2025 (Foreign Investment Guardrails to Help Thwart China Act)",
+"sponsor": "Sen. John Cornyn (R-TX)",
+"direction": "more_guardrails",
+"what": "Outbound investment guardrails: requires US investors to notify Treasury of, and lets Treasury prohibit, investments in Chinese firms in sensitive technologies such as AI and semiconductors, and authorizes sanctions on Chinese defense and surveillance tech firms.",
+"status": "Referred to Senate Banking 2025-03-13. Its outbound-investment provisions were largely enacted through the COINS Act title of the FY2026 NDAA (PL 119-60).",
+"significance": "major",
+"congress": 119,
+"id": "119-S1053",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1053",
+"n_cosponsors": 13
+},
+{
+"label": "S.3374",
+"title": "SAFE Chips Act of 2025 (Secure and Feasible Exports of Chips Act)",
+"sponsor": "Sen. Pete Ricketts (R-NE)",
+"direction": "more_guardrails",
+"what": "Locks in current chip export limits: Commerce must deny licenses for 30 months for any AI chip to China, Russia, Iran or North Korea that is more powerful than chips already allowed, blocking sales like Nvidia's H200.",
+"status": "Referred to Senate Banking 2025-12-04.",
+"significance": "major",
+"congress": 119,
+"id": "119-S3374",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3374",
+"n_cosponsors": 9
+},
+{
+"label": "S.4456",
+"title": "AI OVERWATCH Act",
+"sponsor": "Sen. Jim Banks (R-IN)",
+"direction": "more_guardrails",
+"what": "Senate AI OVERWATCH Act: codifies and extends for 18 months the ban on exporting the most advanced AI chips to countries of concern, requires licenses and congressional certifications for less-advanced chips, and orders an American AI Victory Strategy.",
+"status": "Referred to Senate Banking 2026-04-30. Banks announced (2026-07-14) it was included in the Senate Armed Services-reported FY2027 NDAA (S.4784); cloture on the motion to proceed to S.4784 failed 50-46 on 2026-07-14 (Record Vote 195).",
+"significance": "major",
+"congress": 119,
+"id": "119-S4456",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4456",
+"n_cosponsors": 9
+},
+{
+"label": "S.3150",
+"title": "GAIN AI Act of 2025",
+"sponsor": "Sen. Jim Banks (R-IN)",
+"direction": "more_guardrails",
+"what": "Gives American customers a right of first refusal on advanced AI chips: chipmakers could not get licenses to ship advanced chips to China or other arms-embargoed countries while US buyers' orders go unfilled.",
+"status": "Standalone bill referred to Senate Banking 2025-11-06. The Banks-Warren GAIN AI amendment was carried in the Senate-passed FY2026 NDAA (S.2296, passed 77-20 on 2025-10-09, Record Vote 570) but was dropped from the final NDAA (S.1071, Public Law 119-60, signed 2025-12-18).",
+"significance": "major",
+"congress": 119,
+"id": "119-S3150",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3150",
+"n_cosponsors": 5
+},
+{
+"label": "S.1071",
+"title": "National Defense Authorization Act for Fiscal Year 2026 (Public Law 119-60)",
+"sponsor": "Sen. John Cornyn (R-TX) (vehicle)",
+"direction": "mixed_or_neutral",
+"what": "The annual defense bill that became the vehicle for the outbound-investment COINS Act (Title LXXXV) and a ban on DeepSeek on intelligence community systems (Sec. 6604); the Senate-passed GAIN AI chip provision was stripped before final passage.",
+"status": "Became Public Law 119-60 on 2025-12-18. Senate concurred in House amendment 77-20 (Record Vote 648, 2025-12-17).",
+"significance": "major",
+"congress": 119,
+"id": "119-S1071",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1071",
+"n_cosponsors": 1
+},
+{
+"label": "H.R.8170",
+"title": "MATCH Act (Multilateral Alignment of Technology Controls on Hardware Act)",
+"sponsor": "Rep. Michael Baumgartner (R-WA-5)",
+"direction": "more_guardrails",
+"what": "Closes gaps in controls on chipmaking equipment: the US must first seek matching allied restrictions and then use foreign direct product rules, US-content thresholds or end-use controls to stop China buying chokepoint semiconductor manufacturing tools.",
+"status": "Ordered reported by House Foreign Affairs in the nature of a substitute (amended), 36-8, on 2026-04-22. 29 cosponsors.",
+"significance": "major",
+"congress": 119,
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8170"
+},
+{
+"label": "S.4281",
+"title": "MATCH Act (Multilateral Alignment of Technology Controls on Hardware Act)",
+"sponsor": "Sen. Pete Ricketts (R-NE)",
+"direction": "more_guardrails",
+"what": "Senate MATCH Act: aligns US and allied export controls on semiconductor manufacturing equipment so China cannot buy chokepoint chipmaking tools from allies that the US already restricts.",
+"status": "Referred to Senate Banking 2026-04-13.",
+"significance": "major",
+"congress": 119,
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4281"
+},
+{
+"label": "S.3555",
+"title": "Comprehensive Outbound Investment National Security (COINS) Act of 2025",
+"sponsor": "Sen. John Cornyn (R-TX)",
+"direction": "more_guardrails",
+"what": "Creates a statutory outbound-investment regime requiring notification of, and allowing prohibition of, US investments in Chinese AI, semiconductor, quantum and other national-security technologies.",
+"status": "Standalone bill referred to Senate Banking 2025-12-17; ENACTED as Title LXXXV (Comprehensive Outbound Investment National Security Act of 2025, Secs. 8501-8531) of the FY2026 NDAA, S.1071, Public Law 119-60, signed 2025-12-18.",
+"significance": "major",
+"congress": 119,
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3555"
+},
+{
+"label": "H.R.1121",
+"title": "No DeepSeek on Government Devices Act",
+"sponsor": "Rep. Josh Gottheimer (D-NJ-5)",
+"direction": "more_guardrails",
+"what": "Requires OMB to order DeepSeek (and any successor app from High Flyer) removed from federal government devices.",
+"status": "Referred to House Oversight 2025-02-07. 32 cosponsors. Related: FY2026 NDAA (PL 119-60) Sec. 6604 prohibits use of DeepSeek on intelligence community systems.",
+"significance": "notable",
+"congress": 119,
+"id": "119-HR1121",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"n_cosponsors": 32
+},
+{
+"label": "H.R.8283",
+"title": "Deterring American AI Model Theft Act of 2026",
+"sponsor": "Rep. Bill Huizenga (R-MI-4)",
+"direction": "more_guardrails",
+"what": "Authorizes sanctions on foreign adversaries that steal American AI models, including through industrial-scale 'distillation' of US frontier models by Chinese labs.",
+"status": "Ordered reported (amended) by House Foreign Affairs 43-0 on 2026-04-22.",
+"significance": "notable",
+"congress": 119,
+"id": "119-HR8283",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"n_cosponsors": 21
+}
+]
 }
 },
 "member_pacs": {
@@ -2159,6 +2336,16 @@
 "what": "Ten senators told Meta they were 'alarmed' by its chatbot policies, asked how its minor-safety rules were developed, and demanded Meta ban targeted ads to under-18s, improve disclosures and add mental-health referrals.",
 "type": "letter",
 "n_signers": 10
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-19",
+"title": "Schumer and Warren-led Senate Democrats' letter to Lutnick and Rubio urging reconsideration of Middle East chip deals",
+"url": "https://www.democrats.senate.gov/newsroom/press-releases/trumps-middle-east-chip-deals-are-the-art-of-the-steal-presenting-major-national-security-risk-of-china-stealing-sensitive-american-technology-leader-schumer-and-senator-warren-lead-senate-democrats-in-standing-up-against-the-loss-of-building-the-ai-future-in-america-and-urges-admin-to-reconsider-catastrophic-agreements",
+"what": "Eight Senate Democrats urged the administration to reconsider the Saudi and UAE AI chip deals absent enforceable protections against diversion to China, and raised Trump-family financial conflicts.",
+"type": "letter",
+"n_signers": 8
 }
 ],
 "G000574": [
@@ -2889,6 +3076,16 @@
 "what": "Ten senators told Meta they were 'alarmed' by its chatbot policies, asked how its minor-safety rules were developed, and demanded Meta ban targeted ads to under-18s, improve disclosures and add mental-health referrals.",
 "type": "letter",
 "n_signers": 10
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-12-12",
+"title": "Warren, Schumer and colleagues' letter to Lutnick on the decision to allow Nvidia H200 sales to China",
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-schumer-colleagues-press-lutnick-on-administrations-decision-to-sell-out-us-national-and-economic-security-by-greenlighting-the-sale-of-h200-chips-to-china",
+"what": "Seven Senate Democrats said approving H200 exports disregarded DOJ warnings that these chips are building blocks of AI superiority, and questioned Nvidia lobbying and donations preceding the decision.",
+"type": "letter",
+"n_signers": 7
 }
 ],
 "C001088": [
@@ -2911,6 +3108,66 @@
 "what": "Ten senators told Meta they were 'alarmed' by its chatbot policies, asked how its minor-safety rules were developed, and demanded Meta ban targeted ads to under-18s, improve disclosures and add mental-health referrals.",
 "type": "letter",
 "n_signers": 10
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-16",
+"title": "Joint statement of Senate and House Democrats on Trump's UAE and Saudi AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"what": "Seven Democrats said exporting very large volumes of advanced AI chips to the Gulf without credible security assurances threatens national security, could leak compute to China, and offshores the US AI buildout.",
+"type": "letter",
+"n_signers": 7
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-19",
+"title": "Schumer and Warren-led Senate Democrats' letter to Lutnick and Rubio urging reconsideration of Middle East chip deals",
+"url": "https://www.democrats.senate.gov/newsroom/press-releases/trumps-middle-east-chip-deals-are-the-art-of-the-steal-presenting-major-national-security-risk-of-china-stealing-sensitive-american-technology-leader-schumer-and-senator-warren-lead-senate-democrats-in-standing-up-against-the-loss-of-building-the-ai-future-in-america-and-urges-admin-to-reconsider-catastrophic-agreements",
+"what": "Eight Senate Democrats urged the administration to reconsider the Saudi and UAE AI chip deals absent enforceable protections against diversion to China, and raised Trump-family financial conflicts.",
+"type": "letter",
+"n_signers": 8
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-07-28",
+"title": "Top Senate Democrats' letter to Lutnick on decision to resume H20 (and AMD MI308) sales to China",
+"url": "https://www.coons.senate.gov/news/press-releases/top-senate-democrats-sound-alarm-on-administrations-decision-to-resume-ai-chip-sales-to-china",
+"what": "Five senior Senate Democrats expressed 'grave concern' at reversing the April 2025 H20 ban, said restricting leading-edge chips is the defining barrier to Chinese AI parity, and objected to trading export controls in trade talks without consulting Congress.",
+"type": "letter",
+"n_signers": 5
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-08-15",
+"title": "Top Senate Democrats' letter to President Trump on the 15 percent fee deal for Nvidia and AMD chip sales to China",
+"url": "https://www.warner.senate.gov/newsroom/press-releases/top-senate-democrats-warn-trump-ai-chip-deal-with-china-raises-legal-and-national-security-risks/",
+"what": "Six Senate Democrats urged Trump to reverse the deal letting Nvidia and AMD sell AI chips to China in exchange for a 15 percent cut, arguing it harms national security and that export law bars fees tied to licenses; they demanded answers by Aug. 22.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-11-06",
+"title": "Bipartisan senators' statement introducing the GAIN AI Act",
+"url": "https://www.banking.senate.gov/newsroom/minority/banks-warren-cotton-schumer-mccormick-coons-introduce-landmark-bipartisan-gain-ai-act-to-maintain-us-position-as-worlds-leader-in-critical-artificial-intelligence-chips",
+"what": "Six senators from both parties introduced the standalone GAIN AI Act after the Banks-Warren amendment passed the Senate in the NDAA on Oct. 9, 2025, arguing US customers should not wait behind Chinese tech giants for advanced chips.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-12-04",
+"title": "Bipartisan senators' statement introducing the SAFE Chips Act to lock in AI chip export limits on China",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-coons-introduce-safe-chips-act/",
+"what": "Six senators introduced a bill to codify current chip export limits on China for 30 months, with Ricketts, Coons, Cotton, Shaheen and Kim quoted opposing any loosening for chips like the H200.",
+"type": "letter",
+"n_signers": 6
 }
 ],
 "B001319": [
@@ -2985,6 +3242,16 @@
 "what": "Section 230's co-author said the law rightly makes individuals, not platforms, responsible for what they post and that he still stands by it as more than a dozen repeal or sunset bills circulate.",
 "type": "statement",
 "n_signers": 1
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-12-12",
+"title": "Warren, Schumer and colleagues' letter to Lutnick on the decision to allow Nvidia H200 sales to China",
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-schumer-colleagues-press-lutnick-on-administrations-decision-to-sell-out-us-national-and-economic-security-by-greenlighting-the-sale-of-h200-chips-to-china",
+"what": "Seven Senate Democrats said approving H200 exports disregarded DOJ warnings that these chips are building blocks of AI superiority, and questioned Nvidia lobbying and donations preceding the decision.",
+"type": "letter",
+"n_signers": 7
 }
 ],
 "W000800": [
@@ -3233,6 +3500,56 @@
 "what": "After nine all-senator AI Insight Forums, the four-member working group released a roadmap calling for at least $32 billion a year in non-defense AI spending and listing bipartisan policy topics including safety, accountability and workforce protections, leaving legislation to committees.",
 "type": "letter",
 "n_signers": 4
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-19",
+"title": "Schumer and Warren-led Senate Democrats' letter to Lutnick and Rubio urging reconsideration of Middle East chip deals",
+"url": "https://www.democrats.senate.gov/newsroom/press-releases/trumps-middle-east-chip-deals-are-the-art-of-the-steal-presenting-major-national-security-risk-of-china-stealing-sensitive-american-technology-leader-schumer-and-senator-warren-lead-senate-democrats-in-standing-up-against-the-loss-of-building-the-ai-future-in-america-and-urges-admin-to-reconsider-catastrophic-agreements",
+"what": "Eight Senate Democrats urged the administration to reconsider the Saudi and UAE AI chip deals absent enforceable protections against diversion to China, and raised Trump-family financial conflicts.",
+"type": "letter",
+"n_signers": 8
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-07-28",
+"title": "Top Senate Democrats' letter to Lutnick on decision to resume H20 (and AMD MI308) sales to China",
+"url": "https://www.coons.senate.gov/news/press-releases/top-senate-democrats-sound-alarm-on-administrations-decision-to-resume-ai-chip-sales-to-china",
+"what": "Five senior Senate Democrats expressed 'grave concern' at reversing the April 2025 H20 ban, said restricting leading-edge chips is the defining barrier to Chinese AI parity, and objected to trading export controls in trade talks without consulting Congress.",
+"type": "letter",
+"n_signers": 5
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-08-15",
+"title": "Top Senate Democrats' letter to President Trump on the 15 percent fee deal for Nvidia and AMD chip sales to China",
+"url": "https://www.warner.senate.gov/newsroom/press-releases/top-senate-democrats-warn-trump-ai-chip-deal-with-china-raises-legal-and-national-security-risks/",
+"what": "Six Senate Democrats urged Trump to reverse the deal letting Nvidia and AMD sell AI chips to China in exchange for a 15 percent cut, arguing it harms national security and that export law bars fees tied to licenses; they demanded answers by Aug. 22.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-11-06",
+"title": "Bipartisan senators' statement introducing the GAIN AI Act",
+"url": "https://www.banking.senate.gov/newsroom/minority/banks-warren-cotton-schumer-mccormick-coons-introduce-landmark-bipartisan-gain-ai-act-to-maintain-us-position-as-worlds-leader-in-critical-artificial-intelligence-chips",
+"what": "Six senators from both parties introduced the standalone GAIN AI Act after the Banks-Warren amendment passed the Senate in the NDAA on Oct. 9, 2025, arguing US customers should not wait behind Chinese tech giants for advanced chips.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-12-12",
+"title": "Warren, Schumer and colleagues' letter to Lutnick on the decision to allow Nvidia H200 sales to China",
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-schumer-colleagues-press-lutnick-on-administrations-decision-to-sell-out-us-national-and-economic-security-by-greenlighting-the-sale-of-h200-chips-to-china",
+"what": "Seven Senate Democrats said approving H200 exports disregarded DOJ warnings that these chips are building blocks of AI superiority, and questioned Nvidia lobbying and donations preceding the decision.",
+"type": "letter",
+"n_signers": 7
 }
 ],
 "R000605": [
@@ -3301,6 +3618,16 @@
 "what": "Lawmakers from PJM states told the grid operator that data centers added $16 billion in capacity costs in two years and could add $163 billion by 2033, criticized PJM for dropping a mandatory curtailment 'backstop' for new large loads under pressure from data center interests, and demanded a large-load queue, better load forecasting, priority for projects that bring their own generation, and an extension of the capacity price collar.",
 "type": "letter",
 "n_signers": 12
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-12-12",
+"title": "Warren, Schumer and colleagues' letter to Lutnick on the decision to allow Nvidia H200 sales to China",
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-schumer-colleagues-press-lutnick-on-administrations-decision-to-sell-out-us-national-and-economic-security-by-greenlighting-the-sale-of-h200-chips-to-china",
+"what": "Seven Senate Democrats said approving H200 exports disregarded DOJ warnings that these chips are building blocks of AI superiority, and questioned Nvidia lobbying and donations preceding the decision.",
+"type": "letter",
+"n_signers": 7
 }
 ],
 "B001288": [
@@ -3601,6 +3928,26 @@
 "what": "Twelve Commerce Committee Democrats told Cruz the AI moratorium 'tramples states' rights and holds the $42 billion BEAD program hostage' and asked for regular committee consideration instead of a fast-tracked floor vote.",
 "type": "letter",
 "n_signers": 12
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-12-04",
+"title": "Bipartisan senators' statement introducing the SAFE Chips Act to lock in AI chip export limits on China",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-coons-introduce-safe-chips-act/",
+"what": "Six senators introduced a bill to codify current chip export limits on China for 30 months, with Ricketts, Coons, Cotton, Shaheen and Kim quoted opposing any loosening for chips like the H200.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-12-12",
+"title": "Warren, Schumer and colleagues' letter to Lutnick on the decision to allow Nvidia H200 sales to China",
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-schumer-colleagues-press-lutnick-on-administrations-decision-to-sell-out-us-national-and-economic-security-by-greenlighting-the-sale-of-h200-chips-to-china",
+"what": "Seven Senate Democrats said approving H200 exports disregarded DOJ warnings that these chips are building blocks of AI superiority, and questioned Nvidia lobbying and donations preceding the decision.",
+"type": "letter",
+"n_signers": 7
 }
 ],
 "P000034": [
@@ -3795,6 +4142,96 @@
 "what": "Two senators asked all Senate Democrats to commit to voting against the defense bill if it included a ban on state AI laws: 'Congress should not give Big Tech a multi-year holiday from state oversight.'",
 "type": "letter",
 "n_signers": 2
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-04-14",
+"title": "Warren letter to Lutnick urging Commerce to block Nvidia H20 exports to China",
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-urges-commerce-department-to-block-ai-chip-exports-to-china-amid-reports-of-nvidia-backroom-deal",
+"what": "Warren pressed Commerce to proceed with restricting H20 chip exports after reports it paused the plan following a Nvidia CEO dinner with Trump.",
+"type": "letter",
+"n_signers": 1
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-19",
+"title": "Schumer and Warren-led Senate Democrats' letter to Lutnick and Rubio urging reconsideration of Middle East chip deals",
+"url": "https://www.democrats.senate.gov/newsroom/press-releases/trumps-middle-east-chip-deals-are-the-art-of-the-steal-presenting-major-national-security-risk-of-china-stealing-sensitive-american-technology-leader-schumer-and-senator-warren-lead-senate-democrats-in-standing-up-against-the-loss-of-building-the-ai-future-in-america-and-urges-admin-to-reconsider-catastrophic-agreements",
+"what": "Eight Senate Democrats urged the administration to reconsider the Saudi and UAE AI chip deals absent enforceable protections against diversion to China, and raised Trump-family financial conflicts.",
+"type": "letter",
+"n_signers": 8
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-07-28",
+"title": "Top Senate Democrats' letter to Lutnick on decision to resume H20 (and AMD MI308) sales to China",
+"url": "https://www.coons.senate.gov/news/press-releases/top-senate-democrats-sound-alarm-on-administrations-decision-to-resume-ai-chip-sales-to-china",
+"what": "Five senior Senate Democrats expressed 'grave concern' at reversing the April 2025 H20 ban, said restricting leading-edge chips is the defining barrier to Chinese AI parity, and objected to trading export controls in trade talks without consulting Congress.",
+"type": "letter",
+"n_signers": 5
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-08-15",
+"title": "Top Senate Democrats' letter to President Trump on the 15 percent fee deal for Nvidia and AMD chip sales to China",
+"url": "https://www.warner.senate.gov/newsroom/press-releases/top-senate-democrats-warn-trump-ai-chip-deal-with-china-raises-legal-and-national-security-risks/",
+"what": "Six Senate Democrats urged Trump to reverse the deal letting Nvidia and AMD sell AI chips to China in exchange for a 15 percent cut, arguing it harms national security and that export law bars fees tied to licenses; they demanded answers by Aug. 22.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-11-06",
+"title": "Bipartisan senators' statement introducing the GAIN AI Act",
+"url": "https://www.banking.senate.gov/newsroom/minority/banks-warren-cotton-schumer-mccormick-coons-introduce-landmark-bipartisan-gain-ai-act-to-maintain-us-position-as-worlds-leader-in-critical-artificial-intelligence-chips",
+"what": "Six senators from both parties introduced the standalone GAIN AI Act after the Banks-Warren amendment passed the Senate in the NDAA on Oct. 9, 2025, arguing US customers should not wait behind Chinese tech giants for advanced chips.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-12-12",
+"title": "Warren, Schumer and colleagues' letter to Lutnick on the decision to allow Nvidia H200 sales to China",
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-schumer-colleagues-press-lutnick-on-administrations-decision-to-sell-out-us-national-and-economic-security-by-greenlighting-the-sale-of-h200-chips-to-china",
+"what": "Seven Senate Democrats said approving H200 exports disregarded DOJ warnings that these chips are building blocks of AI superiority, and questioned Nvidia lobbying and donations preceding the decision.",
+"type": "letter",
+"n_signers": 7
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-05-04",
+"title": "Banks and Warren joint statement introducing the AI OVERWATCH Act",
+"url": "https://www.banking.senate.gov/newsroom/minority/banks-warren-introduce-ai-overwatch-act",
+"what": "A bipartisan group introduced the Senate AI OVERWATCH Act to codify the ban on exporting the most advanced AI chips to China; Warren said selling advanced chips to China is 'bad in the short run and worse in the long run.'",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-07-10",
+"title": "Warren statement on Commerce easing export controls on AI chips to the UAE (G42/MGX)",
+"url": "https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-trump-administrations-removing-export-controls-on-ai-chips-to-uae",
+"what": "Warren called the license-free access for G42 a 'corrupt deal' tied to the UAE royal's stake in the Trump family crypto firm and demanded Lutnick and Kessler testify.",
+"type": "statement",
+"n_signers": 1
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-07-23",
+"title": "Warren letter to BIS Under Secretary Kessler invoking ECRA to compel documents on the Foundry Due Diligence loophole",
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-invokes-power-under-statute-to-require-the-trump-administration-to-turn-over-information-on-its-failure-to-enforce-export-controls-for-ai-chips-to-china-exposing-national-security-risks",
+"what": "Warren used her statutory authority under the Export Control Reform Act to demand records on gaps created by the AI Diffusion Rule rescission, especially whether BIS is enforcing the worldwide licensing requirement that stopped Huawei from ordering millions of TSMC chips via a shell company.",
+"type": "letter",
+"n_signers": 1
 }
 ],
 "S001150": [
@@ -3861,6 +4298,56 @@
 "what": "Senators asked the New England grid operator how it will keep tech companies, not families, paying for data center load, citing a 13% rise in residential prices in 2025 and PJM's capacity price spike as a warning.",
 "type": "letter",
 "n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-16",
+"title": "Joint statement of Senate and House Democrats on Trump's UAE and Saudi AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"what": "Seven Democrats said exporting very large volumes of advanced AI chips to the Gulf without credible security assurances threatens national security, could leak compute to China, and offshores the US AI buildout.",
+"type": "letter",
+"n_signers": 7
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-19",
+"title": "Schumer and Warren-led Senate Democrats' letter to Lutnick and Rubio urging reconsideration of Middle East chip deals",
+"url": "https://www.democrats.senate.gov/newsroom/press-releases/trumps-middle-east-chip-deals-are-the-art-of-the-steal-presenting-major-national-security-risk-of-china-stealing-sensitive-american-technology-leader-schumer-and-senator-warren-lead-senate-democrats-in-standing-up-against-the-loss-of-building-the-ai-future-in-america-and-urges-admin-to-reconsider-catastrophic-agreements",
+"what": "Eight Senate Democrats urged the administration to reconsider the Saudi and UAE AI chip deals absent enforceable protections against diversion to China, and raised Trump-family financial conflicts.",
+"type": "letter",
+"n_signers": 8
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-07-28",
+"title": "Top Senate Democrats' letter to Lutnick on decision to resume H20 (and AMD MI308) sales to China",
+"url": "https://www.coons.senate.gov/news/press-releases/top-senate-democrats-sound-alarm-on-administrations-decision-to-resume-ai-chip-sales-to-china",
+"what": "Five senior Senate Democrats expressed 'grave concern' at reversing the April 2025 H20 ban, said restricting leading-edge chips is the defining barrier to Chinese AI parity, and objected to trading export controls in trade talks without consulting Congress.",
+"type": "letter",
+"n_signers": 5
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-08-15",
+"title": "Top Senate Democrats' letter to President Trump on the 15 percent fee deal for Nvidia and AMD chip sales to China",
+"url": "https://www.warner.senate.gov/newsroom/press-releases/top-senate-democrats-warn-trump-ai-chip-deal-with-china-raises-legal-and-national-security-risks/",
+"what": "Six Senate Democrats urged Trump to reverse the deal letting Nvidia and AMD sell AI chips to China in exchange for a 15 percent cut, arguing it harms national security and that export law bars fees tied to licenses; they demanded answers by Aug. 22.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2024-02-06",
+"title": "Brown, Reed, Menendez and Warner letter to President Biden urging a significant BIS funding increase in the FY2025 budget",
+"url": "https://www.banking.senate.gov/newsroom/majority/brown-colleagues-press-president-to-boost-funding-for-export-controls-national-security",
+"what": "Senate Banking Chairman Brown and three senior Democrats asked the White House to seek a large increase for BIS export-control administration and enforcement.",
+"type": "letter",
+"n_signers": 4
 }
 ],
 "W000802": [
@@ -3883,6 +4370,46 @@
 "title": "Six New England senators' letter to ISO New England CEO Vamsi Chadalavada on protecting ratepayers from data center growth",
 "url": "https://www.reed.senate.gov/news/releases/reed-and-whitehouse-seek-answers-about-how-new-regional-data-centers-could-drive-up-energy-health_environmental-costs-for-consumers",
 "what": "Senators asked the New England grid operator how it will keep tech companies, not families, paying for data center load, citing a 13% rise in residential prices in 2025 and PJM's capacity price spike as a warning.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-16",
+"title": "Joint statement of Senate and House Democrats on Trump's UAE and Saudi AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"what": "Seven Democrats said exporting very large volumes of advanced AI chips to the Gulf without credible security assurances threatens national security, could leak compute to China, and offshores the US AI buildout.",
+"type": "letter",
+"n_signers": 7
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-08-15",
+"title": "Top Senate Democrats' letter to President Trump on the 15 percent fee deal for Nvidia and AMD chip sales to China",
+"url": "https://www.warner.senate.gov/newsroom/press-releases/top-senate-democrats-warn-trump-ai-chip-deal-with-china-raises-legal-and-national-security-risks/",
+"what": "Six Senate Democrats urged Trump to reverse the deal letting Nvidia and AMD sell AI chips to China in exchange for a 15 percent cut, arguing it harms national security and that export law bars fees tied to licenses; they demanded answers by Aug. 22.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-12-04",
+"title": "Bipartisan senators' statement introducing the SAFE Chips Act to lock in AI chip export limits on China",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-coons-introduce-safe-chips-act/",
+"what": "Six senators introduced a bill to codify current chip export limits on China for 30 months, with Ricketts, Coons, Cotton, Shaheen and Kim quoted opposing any loosening for chips like the H200.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-05-04",
+"title": "Banks and Warren joint statement introducing the AI OVERWATCH Act",
+"url": "https://www.banking.senate.gov/newsroom/minority/banks-warren-introduce-ai-overwatch-act",
+"what": "A bipartisan group introduced the Senate AI OVERWATCH Act to codify the ban on exporting the most advanced AI chips to China; Warren said selling advanced chips to China is 'bad in the short run and worse in the long run.'",
 "type": "letter",
 "n_signers": 6
 }
@@ -3953,6 +4480,16 @@
 "what": "81 House Democrats told congressional leaders not to revive the state AI-law moratorium in the defense bill and not to use an executive order or BEAD broadband money to override state AI laws, noting the Senate had already rejected the idea 99-1.",
 "type": "letter",
 "n_signers": 81
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-02-09",
+"title": "Moolenaar and Mast bipartisan letter to Rubio and Lutnick supporting stronger allied export controls on chipmaking tools",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+"what": "Eight House members from both parties urged countrywide (not entity-specific) controls on chokepoint semiconductor manufacturing equipment and closer work with the Netherlands and other allies, citing doubling Dutch lithography sales to China.",
+"type": "letter",
+"n_signers": 8
 }
 ],
 "M001232": [
@@ -4263,6 +4800,16 @@
 "what": "81 House Democrats told congressional leaders not to revive the state AI-law moratorium in the defense bill and not to use an executive order or BEAD broadband money to override state AI laws, noting the Senate had already rejected the idea 99-1.",
 "type": "letter",
 "n_signers": 81
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2024-02-06",
+"title": "Brown, Reed, Menendez and Warner letter to President Biden urging a significant BIS funding increase in the FY2025 budget",
+"url": "https://www.banking.senate.gov/newsroom/majority/brown-colleagues-press-president-to-boost-funding-for-export-controls-national-security",
+"what": "Senate Banking Chairman Brown and three senior Democrats asked the White House to seek a large increase for BIS export-control administration and enforcement.",
+"type": "letter",
+"n_signers": 4
 }
 ],
 "M001234": [
@@ -4839,6 +5386,26 @@
 "what": "McCormick convened energy and AI executives at Carnegie Mellon with President Trump and touted more than $90 billion in announced investments in data centers, gas plants, nuclear uprates, hydropower and grid upgrades, positioning Pennsylvania to 'power the AI and energy revolution.'",
 "type": "statement",
 "n_signers": 1
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-11-06",
+"title": "Bipartisan senators' statement introducing the GAIN AI Act",
+"url": "https://www.banking.senate.gov/newsroom/minority/banks-warren-cotton-schumer-mccormick-coons-introduce-landmark-bipartisan-gain-ai-act-to-maintain-us-position-as-worlds-leader-in-critical-artificial-intelligence-chips",
+"what": "Six senators from both parties introduced the standalone GAIN AI Act after the Banks-Warren amendment passed the Senate in the NDAA on Oct. 9, 2025, arguing US customers should not wait behind Chinese tech giants for advanced chips.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-12-04",
+"title": "Bipartisan senators' statement introducing the SAFE Chips Act to lock in AI chip export limits on China",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-coons-introduce-safe-chips-act/",
+"what": "Six senators introduced a bill to codify current chip export limits on China for 30 months, with Ricketts, Coons, Cotton, Shaheen and Kim quoted opposing any loosening for chips like the H200.",
+"type": "letter",
+"n_signers": 6
 }
 ],
 "H001104": [
@@ -4981,6 +5548,16 @@
 "what": "81 House Democrats told congressional leaders not to revive the state AI-law moratorium in the defense bill and not to use an executive order or BEAD broadband money to override state AI laws, noting the Senate had already rejected the idea 99-1.",
 "type": "letter",
 "n_signers": 81
+},
+{
+"dim": "china_chips",
+"direction": "fewer_rules",
+"date": "2026-02-11",
+"title": "Ro Khanna (new Select Committee ranking member) signals openness to Nvidia H200 sales to China",
+"url": "https://www.reuters.com/world/us/top-democrat-us-house-china-committee-open-nvidia-h200-sales-2026-02-11/",
+"what": "Khanna told reporters he is open to sales of older-generation (Hopper) Nvidia chips to China, a shift from predecessor Krishnamoorthi, who cosponsored legislation to block them.",
+"type": "statement",
+"n_signers": 1
 }
 ],
 "B001313": [
@@ -4993,6 +5570,16 @@
 "what": "81 House Democrats told congressional leaders not to revive the state AI-law moratorium in the defense bill and not to use an executive order or BEAD broadband money to override state AI laws, noting the Senate had already rejected the idea 99-1.",
 "type": "letter",
 "n_signers": 81
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2024-02-06",
+"title": "Brown, Reed, Menendez and Warner letter to President Biden urging a significant BIS funding increase in the FY2025 budget",
+"url": "https://www.banking.senate.gov/newsroom/majority/brown-colleagues-press-president-to-boost-funding-for-export-controls-national-security",
+"what": "Senate Banking Chairman Brown and three senior Democrats asked the White House to seek a large increase for BIS export-control administration and enforcement.",
+"type": "letter",
+"n_signers": 4
 }
 ],
 "K000400": [
@@ -5005,6 +5592,26 @@
 "what": "81 House Democrats told congressional leaders not to revive the state AI-law moratorium in the defense bill and not to use an executive order or BEAD broadband money to override state AI laws, noting the Senate had already rejected the idea 99-1.",
 "type": "letter",
 "n_signers": 81
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-02-09",
+"title": "Moolenaar and Mast bipartisan letter to Rubio and Lutnick supporting stronger allied export controls on chipmaking tools",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+"what": "Eight House members from both parties urged countrywide (not entity-specific) controls on chokepoint semiconductor manufacturing equipment and closer work with the Netherlands and other allies, citing doubling Dutch lithography sales to China.",
+"type": "letter",
+"n_signers": 8
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-08-19",
+"title": "Kamlager-Dove and Meeks letter to Lutnick on financial conflicts behind loosening UAE export controls",
+"url": "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-meeks-demand-answers-lutnick-trumps-financial-interests-surrounding-uae-export-control-decisions",
+"what": "Two senior Foreign Affairs Democrats demanded answers on BIS's July 10, 2026 upgrade of the UAE to trusted-partner export status, citing G42 diversion risks to China and the Abu Dhabi royal's 49 percent stake in the Trump family's World Liberty Financial.",
+"type": "letter",
+"n_signers": 2
 }
 ],
 "B001296": [
@@ -6071,6 +6678,16 @@
 "what": "As the Senate rewrote the budget bill, Sen. Ron Johnson said 'let the states experiment,' Sen. Hawley said he would offer an amendment to strip the moratorium, Sen. Rick Scott said he 'likes states' rights,' Sen. Cornyn wrote 'doubtful it survives,' Sen. Rounds said 'I support getting the moratorium in place,' Cruz defended it under the Commerce Clause, and Blackburn said 'until we pass something that is federally preemptive, we can't call for a moratorium.'",
 "type": "letter",
 "n_signers": 7
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2023-07-25",
+"title": "Cornyn and Casey statement on Senate passage (91-6) of their outbound investment amendment to the FY2024 NDAA",
+"url": "https://www.cornyn.senate.gov/news/cornyn-casey-outbound-investment-amendment-passes-senate/",
+"what": "The sponsors hailed the Senate's 91-6 adoption of the Outbound Investment Transparency Act amendment requiring notification of US investments in Chinese semiconductor, AI and other sensitive technologies.",
+"type": "statement",
+"n_signers": 2
 }
 ],
 "B001243": [
@@ -6165,6 +6782,16 @@
 "what": "Baumgartner said America 'will lose that edge if we let California or Brussels write the rules for us' and framed his 5-year moratorium as codifying Trump's AI executive order.",
 "type": "statement",
 "n_signers": 1
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-02-09",
+"title": "Moolenaar and Mast bipartisan letter to Rubio and Lutnick supporting stronger allied export controls on chipmaking tools",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+"what": "Eight House members from both parties urged countrywide (not entity-specific) controls on chokepoint semiconductor manufacturing equipment and closer work with the Netherlands and other allies, citing doubling Dutch lithography sales to China.",
+"type": "letter",
+"n_signers": 8
 }
 ],
 "S001176": [
@@ -6497,6 +7124,16 @@
 "what": "Eight Democratic senators demanded the platforms explain their policies for AI 'undressing' deepfakes, including of minors, preserve related documents, and describe how they remove images and notify victims.",
 "type": "letter",
 "n_signers": 8
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-19",
+"title": "Schumer and Warren-led Senate Democrats' letter to Lutnick and Rubio urging reconsideration of Middle East chip deals",
+"url": "https://www.democrats.senate.gov/newsroom/press-releases/trumps-middle-east-chip-deals-are-the-art-of-the-steal-presenting-major-national-security-risk-of-china-stealing-sensitive-american-technology-leader-schumer-and-senator-warren-lead-senate-democrats-in-standing-up-against-the-loss-of-building-the-ai-future-in-america-and-urges-admin-to-reconsider-catastrophic-agreements",
+"what": "Eight Senate Democrats urged the administration to reconsider the Saudi and UAE AI chip deals absent enforceable protections against diversion to China, and raised Trump-family financial conflicts.",
+"type": "letter",
+"n_signers": 8
 }
 ],
 "K000377": [
@@ -6509,6 +7146,16 @@
 "what": "Eight Democratic senators demanded the platforms explain their policies for AI 'undressing' deepfakes, including of minors, preserve related documents, and describe how they remove images and notify victims.",
 "type": "letter",
 "n_signers": 8
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-16",
+"title": "Joint statement of Senate and House Democrats on Trump's UAE and Saudi AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"what": "Seven Democrats said exporting very large volumes of advanced AI chips to the Gulf without credible security assurances threatens national security, could leak compute to China, and offshores the US AI buildout.",
+"type": "letter",
+"n_signers": 7
 }
 ],
 "D000563": [
@@ -6522,17 +7169,586 @@
 "type": "letter",
 "n_signers": 2
 }
+],
+"R000618": [
+{
+"dim": "china_chips",
+"direction": "fewer_rules",
+"date": "2025-04-11",
+"title": "Ricketts-led Republican senators' letter to Commerce Secretary Lutnick urging withdrawal of the Biden AI Diffusion Rule",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-leads-letter-to-commerce-secretary-lutnick-calling-for-i",
+"what": "Seven GOP senators asked Commerce to scrap the Biden-era AI Diffusion export rule before its May 15, 2025 compliance date and replace it with a lighter alternative, arguing it hurt US companies' global sales.",
+"type": "letter",
+"n_signers": 7
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-12-04",
+"title": "Bipartisan senators' statement introducing the SAFE Chips Act to lock in AI chip export limits on China",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-coons-introduce-safe-chips-act/",
+"what": "Six senators introduced a bill to codify current chip export limits on China for 30 months, with Ricketts, Coons, Cotton, Shaheen and Kim quoted opposing any loosening for chips like the H200.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-05-04",
+"title": "Banks and Warren joint statement introducing the AI OVERWATCH Act",
+"url": "https://www.banking.senate.gov/newsroom/minority/banks-warren-introduce-ai-overwatch-act",
+"what": "A bipartisan group introduced the Senate AI OVERWATCH Act to codify the ban on exporting the most advanced AI chips to China; Warren said selling advanced chips to China is 'bad in the short run and worse in the long run.'",
+"type": "letter",
+"n_signers": 6
+}
+],
+"T000476": [
+{
+"dim": "china_chips",
+"direction": "fewer_rules",
+"date": "2025-04-11",
+"title": "Ricketts-led Republican senators' letter to Commerce Secretary Lutnick urging withdrawal of the Biden AI Diffusion Rule",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-leads-letter-to-commerce-secretary-lutnick-calling-for-i",
+"what": "Seven GOP senators asked Commerce to scrap the Biden-era AI Diffusion export rule before its May 15, 2025 compliance date and replace it with a lighter alternative, arguing it hurt US companies' global sales.",
+"type": "letter",
+"n_signers": 7
+}
+],
+"B001305": [
+{
+"dim": "china_chips",
+"direction": "fewer_rules",
+"date": "2025-04-11",
+"title": "Ricketts-led Republican senators' letter to Commerce Secretary Lutnick urging withdrawal of the Biden AI Diffusion Rule",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-leads-letter-to-commerce-secretary-lutnick-calling-for-i",
+"what": "Seven GOP senators asked Commerce to scrap the Biden-era AI Diffusion export rule before its May 15, 2025 compliance date and replace it with a lighter alternative, arguing it hurt US companies' global sales.",
+"type": "letter",
+"n_signers": 7
+}
+],
+"W000437": [
+{
+"dim": "china_chips",
+"direction": "fewer_rules",
+"date": "2025-04-11",
+"title": "Ricketts-led Republican senators' letter to Commerce Secretary Lutnick urging withdrawal of the Biden AI Diffusion Rule",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-leads-letter-to-commerce-secretary-lutnick-calling-for-i",
+"what": "Seven GOP senators asked Commerce to scrap the Biden-era AI Diffusion export rule before its May 15, 2025 compliance date and replace it with a lighter alternative, arguing it hurt US companies' global sales.",
+"type": "letter",
+"n_signers": 7
+}
+],
+"S001227": [
+{
+"dim": "china_chips",
+"direction": "fewer_rules",
+"date": "2025-04-11",
+"title": "Ricketts-led Republican senators' letter to Commerce Secretary Lutnick urging withdrawal of the Biden AI Diffusion Rule",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-leads-letter-to-commerce-secretary-lutnick-calling-for-i",
+"what": "Seven GOP senators asked Commerce to scrap the Biden-era AI Diffusion export rule before its May 15, 2025 compliance date and replace it with a lighter alternative, arguing it hurt US companies' global sales.",
+"type": "letter",
+"n_signers": 7
+}
+],
+"T000278": [
+{
+"dim": "china_chips",
+"direction": "fewer_rules",
+"date": "2025-04-11",
+"title": "Ricketts-led Republican senators' letter to Commerce Secretary Lutnick urging withdrawal of the Biden AI Diffusion Rule",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-leads-letter-to-commerce-secretary-lutnick-calling-for-i",
+"what": "Seven GOP senators asked Commerce to scrap the Biden-era AI Diffusion export rule before its May 15, 2025 compliance date and replace it with a lighter alternative, arguing it hurt US companies' global sales.",
+"type": "letter",
+"n_signers": 7
+}
+],
+"M001194": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-04-16",
+"title": "House Select Committee on the CCP report 'DeepSeek Unmasked' and letter to Nvidia CEO Jensen Huang",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-krishnamoorthi-unveil-explosive-report-chinese-ai-firm-deepseek",
+"what": "Bipartisan committee report found DeepSeek funnels US data to China, censors output, and was built on tens of thousands of Nvidia chips possibly obtained around export controls; leaders sent Nvidia a letter demanding sales data for China and Southeast Asia.",
+"type": "letter",
+"n_signers": 2
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-07-18",
+"title": "Moolenaar letter to Lutnick objecting to resumption of Nvidia H20 sales to China",
+"url": "https://chinaselectcommittee.house.gov/media/letters/moolenaar-warns-against-undermining-us-ai-advantage-in-nvidia-china-review-calls-on-commerce-to-maintain-strong-guardrails-amid-national-security-concerns",
+"what": "The Select Committee chairman said Commerce 'must hold the line' on the H20 ban, cited use of H20s by DeepSeek and Tencent, requested a briefing, and proposed a floating technical benchmark pegged just above China's domestic chip capability.",
+"type": "letter",
+"n_signers": 1
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-11-20",
+"title": "Moolenaar statement: DOJ chip-smuggling indictment shows urgent need for the Chip Security Act",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-smuggling-case-shows-urgent-need-for-bipartisan-chip-security-act",
+"what": "After DOJ indicted three Chinese nationals for routing chips through Thailand and Malaysia to China, Moolenaar called for passing the Chip Security Act's location-verification mandate, noting 30 bipartisan cosponsors.",
+"type": "statement",
+"n_signers": 1
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-12-16",
+"title": "Moolenaar letter to Lutnick on Nvidia H200 chips: US is winning the AI race against a weak Chinese chip sector",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-us-winning-the-ai-race-against-weak-chinese-chip-sector",
+"what": "Moolenaar argued China lags far behind in aggregate compute, that Huawei's flagship chip was made abroad via a TSMC shell company, and that approving cutting-edge chip sales to Chinese companies risks undercutting the US lead; requested a Commerce briefing.",
+"type": "letter",
+"n_signers": 1
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-02-09",
+"title": "Moolenaar and Mast bipartisan letter to Rubio and Lutnick supporting stronger allied export controls on chipmaking tools",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+"what": "Eight House members from both parties urged countrywide (not entity-specific) controls on chokepoint semiconductor manufacturing equipment and closer work with the Netherlands and other allies, citing doubling Dutch lithography sales to China.",
+"type": "letter",
+"n_signers": 8
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-04-16",
+"title": "House Select Committee report 'Buy What It Can, Steal What It Must: China's Campaign to Acquire Frontier AI Capabilities'",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/select-committee-investigation-reveals-china-s-history-of-ai-chip-smuggling-and-model-distillation",
+"what": "Committee investigation found China remains the largest buyer of chipmaking equipment, lawfully buys large volumes of AI chips, runs sophisticated smuggling networks, and distills US frontier models at industrial scale; it recommends passing the MATCH Act (H.R.8170) and AI OVERWATCH Act (H.R.6875).",
+"type": "statement",
+"n_signers": 1
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-04-22",
+"title": "Moolenaar statement backing House Foreign Affairs passage of export-control bills (MATCH Act, Stop Stealing Our Chips Act, Deterring American AI Model Theft Act)",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-backs-house-committee-s-passage-of-export-control-legislation-to-counter-ccp-threats",
+"what": "Moolenaar praised the committee's bipartisan approval of bills restricting chipmaking-equipment sales, rewarding chip-smuggling whistleblowers, and sanctioning AI model theft.",
+"type": "statement",
+"n_signers": 1
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-04-29",
+"title": "Moolenaar and Garbarino letters to Airbnb and Anysphere launching investigation into use of Chinese AI models",
+"url": "https://homeland.house.gov/2026/04/29/chairmen-garbarino-moolenaar-announce-joint-investigation-into-national-security-risks-posed-by-prc-ai-models/",
+"what": "The chairs of the China Select Committee and Homeland Security opened a joint probe into US companies' use of PRC-developed models (DeepSeek, Alibaba, Moonshot, MiniMax), citing distillation of US frontier models and cybersecurity risk.",
+"type": "letter",
+"n_signers": 2
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-07-16",
+"title": "Moolenaar and Whitesides letter to Lutnick urging Commerce not to allow US purchases of Chinese memory chips",
+"url": "https://chinaselectcommittee.house.gov/media/letters/moolenaar-whitesides-to-secretary-lutnick-hold-firm-on-chinese-memory-chips-ban",
+"what": "A bipartisan pair urged Commerce to hold firm against letting Apple and other US firms buy DRAM from Chinese, military-linked memory makers despite the AI-driven memory shortage, and to expand export controls on Chinese memory producers.",
+"type": "letter",
+"n_signers": 2
+}
+],
+"K000391": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-04-16",
+"title": "House Select Committee on the CCP report 'DeepSeek Unmasked' and letter to Nvidia CEO Jensen Huang",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-krishnamoorthi-unveil-explosive-report-chinese-ai-firm-deepseek",
+"what": "Bipartisan committee report found DeepSeek funnels US data to China, censors output, and was built on tens of thousands of Nvidia chips possibly obtained around export controls; leaders sent Nvidia a letter demanding sales data for China and Southeast Asia.",
+"type": "letter",
+"n_signers": 2
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-16",
+"title": "Joint statement of Senate and House Democrats on Trump's UAE and Saudi AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"what": "Seven Democrats said exporting very large volumes of advanced AI chips to the Gulf without credible security assurances threatens national security, could leak compute to China, and offshores the US AI buildout.",
+"type": "letter",
+"n_signers": 7
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-07-28",
+"title": "Meeks and Krishnamoorthi letter to Lutnick: export controls should not be bargaining chips in China trade talks",
+"url": "https://democrats-foreignaffairs.house.gov/2025/7/meeks-and-krishnamoorthi-to-trump-administration-export-controls-should-not-be-bargaining-chips-in-china-trade-talks",
+"what": "The ranking members of Foreign Affairs and the China Select Committee condemned using H20 export controls as a 'negotiating chip', said it contradicted Under Secretary Kessler's testimony, and noted the reversal followed Jensen Huang's White House meeting.",
+"type": "letter",
+"n_signers": 2
+}
+],
+"W000805": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-16",
+"title": "Joint statement of Senate and House Democrats on Trump's UAE and Saudi AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"what": "Seven Democrats said exporting very large volumes of advanced AI chips to the Gulf without credible security assurances threatens national security, could leak compute to China, and offshores the US AI buildout.",
+"type": "letter",
+"n_signers": 7
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-19",
+"title": "Schumer and Warren-led Senate Democrats' letter to Lutnick and Rubio urging reconsideration of Middle East chip deals",
+"url": "https://www.democrats.senate.gov/newsroom/press-releases/trumps-middle-east-chip-deals-are-the-art-of-the-steal-presenting-major-national-security-risk-of-china-stealing-sensitive-american-technology-leader-schumer-and-senator-warren-lead-senate-democrats-in-standing-up-against-the-loss-of-building-the-ai-future-in-america-and-urges-admin-to-reconsider-catastrophic-agreements",
+"what": "Eight Senate Democrats urged the administration to reconsider the Saudi and UAE AI chip deals absent enforceable protections against diversion to China, and raised Trump-family financial conflicts.",
+"type": "letter",
+"n_signers": 8
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-07-28",
+"title": "Top Senate Democrats' letter to Lutnick on decision to resume H20 (and AMD MI308) sales to China",
+"url": "https://www.coons.senate.gov/news/press-releases/top-senate-democrats-sound-alarm-on-administrations-decision-to-resume-ai-chip-sales-to-china",
+"what": "Five senior Senate Democrats expressed 'grave concern' at reversing the April 2025 H20 ban, said restricting leading-edge chips is the defining barrier to Chinese AI parity, and objected to trading export controls in trade talks without consulting Congress.",
+"type": "letter",
+"n_signers": 5
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-08-15",
+"title": "Top Senate Democrats' letter to President Trump on the 15 percent fee deal for Nvidia and AMD chip sales to China",
+"url": "https://www.warner.senate.gov/newsroom/press-releases/top-senate-democrats-warn-trump-ai-chip-deal-with-china-raises-legal-and-national-security-risks/",
+"what": "Six Senate Democrats urged Trump to reverse the deal letting Nvidia and AMD sell AI chips to China in exchange for a 15 percent cut, arguing it harms national security and that export law bars fees tied to licenses; they demanded answers by Aug. 22.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2024-02-06",
+"title": "Brown, Reed, Menendez and Warner letter to President Biden urging a significant BIS funding increase in the FY2025 budget",
+"url": "https://www.banking.senate.gov/newsroom/majority/brown-colleagues-press-president-to-boost-funding-for-export-controls-national-security",
+"what": "Senate Banking Chairman Brown and three senior Democrats asked the White House to seek a large increase for BIS export-control administration and enforcement.",
+"type": "letter",
+"n_signers": 4
+}
+],
+"H001047": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-16",
+"title": "Joint statement of Senate and House Democrats on Trump's UAE and Saudi AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"what": "Seven Democrats said exporting very large volumes of advanced AI chips to the Gulf without credible security assurances threatens national security, could leak compute to China, and offshores the US AI buildout.",
+"type": "letter",
+"n_signers": 7
+}
+],
+"S001208": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-19",
+"title": "Schumer and Warren-led Senate Democrats' letter to Lutnick and Rubio urging reconsideration of Middle East chip deals",
+"url": "https://www.democrats.senate.gov/newsroom/press-releases/trumps-middle-east-chip-deals-are-the-art-of-the-steal-presenting-major-national-security-risk-of-china-stealing-sensitive-american-technology-leader-schumer-and-senator-warren-lead-senate-democrats-in-standing-up-against-the-loss-of-building-the-ai-future-in-america-and-urges-admin-to-reconsider-catastrophic-agreements",
+"what": "Eight Senate Democrats urged the administration to reconsider the Saudi and UAE AI chip deals absent enforceable protections against diversion to China, and raised Trump-family financial conflicts.",
+"type": "letter",
+"n_signers": 8
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-12-12",
+"title": "Warren, Schumer and colleagues' letter to Lutnick on the decision to allow Nvidia H200 sales to China",
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-schumer-colleagues-press-lutnick-on-administrations-decision-to-sell-out-us-national-and-economic-security-by-greenlighting-the-sale-of-h200-chips-to-china",
+"what": "Seven Senate Democrats said approving H200 exports disregarded DOJ warnings that these chips are building blocks of AI superiority, and questioned Nvidia lobbying and donations preceding the decision.",
+"type": "letter",
+"n_signers": 7
+}
+],
+"M001137": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-28",
+"title": "Meeks and Lofgren letter to Lutnick on multilateral export controls on chips and chipmaking equipment",
+"url": "https://democrats-foreignaffairs.house.gov/2025/5/meeks-lofgren-send-letter-to-secretary-lutnick-on-multilateral-export-controls",
+"what": "The top Democrats on Foreign Affairs and Science warned Commerce not to pull back from allied coordination on semiconductor and SME export controls after the AI Diffusion Rule rescission.",
+"type": "letter",
+"n_signers": 2
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-07-28",
+"title": "Meeks and Krishnamoorthi letter to Lutnick: export controls should not be bargaining chips in China trade talks",
+"url": "https://democrats-foreignaffairs.house.gov/2025/7/meeks-and-krishnamoorthi-to-trump-administration-export-controls-should-not-be-bargaining-chips-in-china-trade-talks",
+"what": "The ranking members of Foreign Affairs and the China Select Committee condemned using H20 export controls as a 'negotiating chip', said it contradicted Under Secretary Kessler's testimony, and noted the reversal followed Jensen Huang's White House meeting.",
+"type": "letter",
+"n_signers": 2
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-02-09",
+"title": "Moolenaar and Mast bipartisan letter to Rubio and Lutnick supporting stronger allied export controls on chipmaking tools",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+"what": "Eight House members from both parties urged countrywide (not entity-specific) controls on chokepoint semiconductor manufacturing equipment and closer work with the Netherlands and other allies, citing doubling Dutch lithography sales to China.",
+"type": "letter",
+"n_signers": 8
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-08-19",
+"title": "Kamlager-Dove and Meeks letter to Lutnick on financial conflicts behind loosening UAE export controls",
+"url": "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-meeks-demand-answers-lutnick-trumps-financial-interests-surrounding-uae-export-control-decisions",
+"what": "Two senior Foreign Affairs Democrats demanded answers on BIS's July 10, 2026 upgrade of the UAE to trusted-partner export status, citing G42 diversion risks to China and the Abu Dhabi royal's 49 percent stake in the Trump family's World Liberty Financial.",
+"type": "letter",
+"n_signers": 2
+}
+],
+"L000397": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-05-28",
+"title": "Meeks and Lofgren letter to Lutnick on multilateral export controls on chips and chipmaking equipment",
+"url": "https://democrats-foreignaffairs.house.gov/2025/5/meeks-lofgren-send-letter-to-secretary-lutnick-on-multilateral-export-controls",
+"what": "The top Democrats on Foreign Affairs and Science warned Commerce not to pull back from allied coordination on semiconductor and SME export controls after the AI Diffusion Rule rescission.",
+"type": "letter",
+"n_signers": 2
+}
+],
+"C001095": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-10-30",
+"title": "Cotton letter to Lutnick on smuggling of export-controlled US chips through Malaysia",
+"url": "https://www.cotton.senate.gov/wp-content/uploads/media/doc/103025lutnickletter.pdf",
+"what": "Cotton asked Commerce to address and investigate large-scale diversion of controlled US AI chips through Malaysia to China.",
+"type": "letter",
+"n_signers": 1
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-11-06",
+"title": "Bipartisan senators' statement introducing the GAIN AI Act",
+"url": "https://www.banking.senate.gov/newsroom/minority/banks-warren-cotton-schumer-mccormick-coons-introduce-landmark-bipartisan-gain-ai-act-to-maintain-us-position-as-worlds-leader-in-critical-artificial-intelligence-chips",
+"what": "Six senators from both parties introduced the standalone GAIN AI Act after the Banks-Warren amendment passed the Senate in the NDAA on Oct. 9, 2025, arguing US customers should not wait behind Chinese tech giants for advanced chips.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-12-04",
+"title": "Bipartisan senators' statement introducing the SAFE Chips Act to lock in AI chip export limits on China",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-coons-introduce-safe-chips-act/",
+"what": "Six senators introduced a bill to codify current chip export limits on China for 30 months, with Ricketts, Coons, Cotton, Shaheen and Kim quoted opposing any loosening for chips like the H200.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-03-20",
+"title": "Cotton and Huizenga letter to Lutnick urging implementation of Chip Security Act anti-diversion measures after Super Micro smuggling indictments",
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-huizenga-to-lutnick-stronger-export-controls-of-ai-chips-is-needed/",
+"what": "The lead sponsors of the Chip Security Act asked Commerce to begin requiring location verification and other anti-diversion tools administratively, citing Operation Gatekeeper and other smuggling cases.",
+"type": "letter",
+"n_signers": 2
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-05-04",
+"title": "Banks and Warren joint statement introducing the AI OVERWATCH Act",
+"url": "https://www.banking.senate.gov/newsroom/minority/banks-warren-introduce-ai-overwatch-act",
+"what": "A bipartisan group introduced the Senate AI OVERWATCH Act to codify the ban on exporting the most advanced AI chips to China; Warren said selling advanced chips to China is 'bad in the short run and worse in the long run.'",
+"type": "letter",
+"n_signers": 6
+}
+],
+"B001299": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2025-11-06",
+"title": "Bipartisan senators' statement introducing the GAIN AI Act",
+"url": "https://www.banking.senate.gov/newsroom/minority/banks-warren-cotton-schumer-mccormick-coons-introduce-landmark-bipartisan-gain-ai-act-to-maintain-us-position-as-worlds-leader-in-critical-artificial-intelligence-chips",
+"what": "Six senators from both parties introduced the standalone GAIN AI Act after the Banks-Warren amendment passed the Senate in the NDAA on Oct. 9, 2025, arguing US customers should not wait behind Chinese tech giants for advanced chips.",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-05-04",
+"title": "Banks and Warren joint statement introducing the AI OVERWATCH Act",
+"url": "https://www.banking.senate.gov/newsroom/minority/banks-warren-introduce-ai-overwatch-act",
+"what": "A bipartisan group introduced the Senate AI OVERWATCH Act to codify the ban on exporting the most advanced AI chips to China; Warren said selling advanced chips to China is 'bad in the short run and worse in the long run.'",
+"type": "letter",
+"n_signers": 6
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-07-14",
+"title": "Banks statement securing the AI OVERWATCH Act in the Senate FY2027 NDAA",
+"url": "https://www.banks.senate.gov/news/press-releases/banks-secures-ai-overwatch-act-in-senate-ndaa/",
+"what": "Banks announced his bill codifying Trump's restrictions on the most advanced AI chip exports to adversaries was included in the Senate Armed Services NDAA, and said GAIN AI's principles had been incorporated in Commerce's January 2026 H200 rule.",
+"type": "statement",
+"n_signers": 1
+}
+],
+"M001199": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-01-14",
+"title": "House Foreign Affairs Chairman Mast opening statement at hearing on the H200 export rule",
+"url": "https://www.nextgov.com/emerging-tech/2026/01/lawmakers-worry-over-new-rule-will-allow-sales-nvidias-h200-chips-china/",
+"what": "At a hearing the day after BIS formally allowed H200 sales to China (with a 25 percent revenue cut), Mast warned that if Nvidia chips were sold freely the CCP would likely overtake the US in the AI arms race.",
+"type": "statement",
+"n_signers": 1
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-02-09",
+"title": "Moolenaar and Mast bipartisan letter to Rubio and Lutnick supporting stronger allied export controls on chipmaking tools",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+"what": "Eight House members from both parties urged countrywide (not entity-specific) controls on chokepoint semiconductor manufacturing equipment and closer work with the Netherlands and other allies, citing doubling Dutch lithography sales to China.",
+"type": "letter",
+"n_signers": 8
+}
+],
+"H001058": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-02-09",
+"title": "Moolenaar and Mast bipartisan letter to Rubio and Lutnick supporting stronger allied export controls on chipmaking tools",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+"what": "Eight House members from both parties urged countrywide (not entity-specific) controls on chokepoint semiconductor manufacturing equipment and closer work with the Netherlands and other allies, citing doubling Dutch lithography sales to China.",
+"type": "letter",
+"n_signers": 8
+},
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-03-20",
+"title": "Cotton and Huizenga letter to Lutnick urging implementation of Chip Security Act anti-diversion measures after Super Micro smuggling indictments",
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-huizenga-to-lutnick-stronger-export-controls-of-ai-chips-is-needed/",
+"what": "The lead sponsors of the Chip Security Act asked Commerce to begin requiring location verification and other anti-diversion tools administratively, citing Operation Gatekeeper and other smuggling cases.",
+"type": "letter",
+"n_signers": 2
+}
+],
+"S001211": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-02-09",
+"title": "Moolenaar and Mast bipartisan letter to Rubio and Lutnick supporting stronger allied export controls on chipmaking tools",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+"what": "Eight House members from both parties urged countrywide (not entity-specific) controls on chokepoint semiconductor manufacturing equipment and closer work with the Netherlands and other allies, citing doubling Dutch lithography sales to China.",
+"type": "letter",
+"n_signers": 8
+}
+],
+"G000597": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-04-29",
+"title": "Moolenaar and Garbarino letters to Airbnb and Anysphere launching investigation into use of Chinese AI models",
+"url": "https://homeland.house.gov/2026/04/29/chairmen-garbarino-moolenaar-announce-joint-investigation-into-national-security-risks-posed-by-prc-ai-models/",
+"what": "The chairs of the China Select Committee and Homeland Security opened a joint probe into US companies' use of PRC-developed models (DeepSeek, Alibaba, Moonshot, MiniMax), citing distillation of US frontier models and cybersecurity risk.",
+"type": "letter",
+"n_signers": 2
+}
+],
+"C001113": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-05-04",
+"title": "Banks and Warren joint statement introducing the AI OVERWATCH Act",
+"url": "https://www.banking.senate.gov/newsroom/minority/banks-warren-introduce-ai-overwatch-act",
+"what": "A bipartisan group introduced the Senate AI OVERWATCH Act to codify the ban on exporting the most advanced AI chips to China; Warren said selling advanced chips to China is 'bad in the short run and worse in the long run.'",
+"type": "letter",
+"n_signers": 6
+}
+],
+"W000830": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2026-07-16",
+"title": "Moolenaar and Whitesides letter to Lutnick urging Commerce not to allow US purchases of Chinese memory chips",
+"url": "https://chinaselectcommittee.house.gov/media/letters/moolenaar-whitesides-to-secretary-lutnick-hold-firm-on-chinese-memory-chips-ban",
+"what": "A bipartisan pair urged Commerce to hold firm against letting Apple and other US firms buy DRAM from Chinese, military-linked memory makers despite the AI-driven memory shortage, and to expand export controls on Chinese memory producers.",
+"type": "letter",
+"n_signers": 2
+}
+],
+"M001157": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2023-08-18",
+"title": "Gallagher, McCaul, Hagerty and Young Kim letter to Commerce Secretary Raimondo: export controls are non-negotiable, abandon US-China working group",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/gallagher-lawmakers-urge-commerce-secretary-raimondo-to-abandon-chinese-working-group-implement-tougher-export-controls",
+"what": "Four Republicans told Raimondo before her China trip not to create a working group with Beijing on chip export controls and that China should expect more, not fewer, controls.",
+"type": "letter",
+"n_signers": 4
+}
+],
+"H000601": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2023-08-18",
+"title": "Gallagher, McCaul, Hagerty and Young Kim letter to Commerce Secretary Raimondo: export controls are non-negotiable, abandon US-China working group",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/gallagher-lawmakers-urge-commerce-secretary-raimondo-to-abandon-chinese-working-group-implement-tougher-export-controls",
+"what": "Four Republicans told Raimondo before her China trip not to create a working group with Beijing on chip export controls and that China should expect more, not fewer, controls.",
+"type": "letter",
+"n_signers": 4
+}
+],
+"K000397": [
+{
+"dim": "china_chips",
+"direction": "more_guardrails",
+"date": "2023-08-18",
+"title": "Gallagher, McCaul, Hagerty and Young Kim letter to Commerce Secretary Raimondo: export controls are non-negotiable, abandon US-China working group",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/gallagher-lawmakers-urge-commerce-secretary-raimondo-to-abandon-chinese-working-group-implement-tougher-export-controls",
+"what": "Four Republicans told Raimondo before her China trip not to create a working group with Beijing on chip export controls and that China should expect more, not fewer, controls.",
+"type": "letter",
+"n_signers": 4
+}
 ]
 },
 "stats": {
 "pac_members": 70,
 "group_members": 157,
-"letter_members": 193,
+"letter_members": 217,
 "key_bills": {
 "ai_risk": 14,
 "data_centers": 14,
 "preemption": 8,
-"tech_regulation": 14
+"tech_regulation": 14,
+"china_chips": 14
 }
 }
 }

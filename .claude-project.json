@@ -3,17 +3,23 @@
     "verify_command": "./verify.sh",
     "deep_verify_command": "./deep-verify.sh",
     "test_after_edit": "",
-    "deploy_url": "",
+    "deploy_url": "https://emersonspartz.github.io/congress-ai-tracker/",
     "browser_qa_command": "",
-    "critical_files": [],
+    "critical_files": [
+        "build.py",
+        "docs/app.js",
+        "docs/data.json"
+    ],
     "review_checklist": [
-        "Run the main user flow end-to-end — does it complete without errors?",
-        "Read the actual output — would Emerson immediately see something wrong?",
-        "Trace one UI→backend data path: does the parameter arrive in server logs?",
+        "Run the main user flow end-to-end \u2014 does it complete without errors?",
+        "Read the actual output \u2014 would Emerson immediately see something wrong?",
+        "Trace one UI\u2192backend data path: does the parameter arrive in server logs?",
         "Check for JS/frontend runtime errors (not just syntax)",
         "Test at realistic scale (not toy inputs)",
         "Verify output actually exists (files on disk, DB records written)",
         "MANDATORY for web apps: Open deployed URL in Chrome MCP and verify page renders correctly"
     ],
-    "notes": []
+    "notes": [
+        "Static site on GitHub Pages served from docs/ on main. Local preview: cd docs && python3 -m http.server 8812. Data pipeline: build.py -> docs/data.json."
+    ]
 }
