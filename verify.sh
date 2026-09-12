@@ -39,7 +39,8 @@ if n_em: errs.append(f'{n_em} em dashes in data.json')
 if not d['votes']: errs.append('no key votes')
 for v in d['votes']:
     n = sum(1 for m in ms if v['id'] in m['votes'])
-    if n < 90: errs.append(f"key vote {v['id']} only {n} member votes")
+    need = 60 if v['id'][1:5] == '2024' else 90   # 118th-Congress votes only cover members still serving
+    if n < need: errs.append(f"key vote {v['id']} only {n} member votes")
 # researched share
 researched = sum(1 for m in ms if any(p['basis']=='research' for p in m['positions'].values()))
 print(f"  info  researched members: {researched}/{len(ms)}; bills: {len(d['bills'])}; votes: {len(d['votes'])}")

@@ -98,7 +98,7 @@ def main():
     for bid, c in rel.items():
         b = bills_idx[bid]
         bills_out[bid] = {
-            'id': bid, 'label': bill_label(b), 'congress': b['congress'], 'title': b['title'],
+            'id': bid, 'label': bill_label(b), 'congress': b['congress'], 'title': clean(b['title']),
             'lane': c['dimension'], 'dim': LANE_TO_DIM.get(c['dimension']), 'direction': c['direction'],
             'significance': c['significance'], 'what': clean(c['plain_english']), 'url': bill_url(b),
             'introduced': b['introduced'], 'sponsor': b['sponsor'][0][1] if b['sponsor'] else None,
