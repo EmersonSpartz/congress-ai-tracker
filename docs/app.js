@@ -8,7 +8,7 @@
   let byId = {};
   const DIMS = () => D.dimensions;
   const PARTY_NAME = { D: 'Democrat', R: 'Republican', I: 'Independent' };
-  const ACT_DESC = { Leader: 'Leads on AI: sponsors major AI bills or chairs a relevant group', Active: 'Active: several AI bills or public statements', Some: 'Some activity: at least one relevant bill or statement', Quiet: 'Quiet: no AI-related bills or statements found' };
+  const ACT_DESC = { Leader: 'Leads on AI: has written four or more AI or tech bills this Congress, or chairs a relevant committee, caucus or working group and speaks on AI often, or has an unusually deep record of public statements', Active: 'Active: several AI bills, or one they wrote, or roughly ten or more public statements found', Some: 'Some activity: at least one relevant bill or statement', Quiet: 'Quiet: no AI-related bills or statements found' };
   const ETYPE = { vote: 'Vote', sponsor: 'Sponsored bill', cosponsor: 'Cosponsored bill', letter: 'Letter', statement: 'Statement', hearing: 'Hearing', interview: 'Interview', op_ed: 'Op-ed', social_post: 'Post', pac: 'Campaign money', other: 'Source' };
   const VER = { confirmed: 'Source checked', partially_supported: 'Source partly supports', record: 'Official record', landscape: 'From signed letter or statement', unchecked: 'Not yet re-checked', unreachable: 'Source unreachable' };
 
@@ -473,7 +473,7 @@
   }
 
   // ---------- boot
-  const DATA_URL = 'data.json?v=6d826de014';
+  const DATA_URL = 'data.json?v=b80b9c692b';
   fetch(DATA_URL).then(r => r.json()).then(data => {
     D = data;
     D.members.forEach(m => { byId[m.id] = m; });

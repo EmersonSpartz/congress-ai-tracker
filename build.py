@@ -426,9 +426,9 @@ def main():
         nspon = sum(1 for it in mbills if it['role']=='sponsor' and it['id'].startswith('119'))
         n_ai = sum(1 for it in mbills if bills_out[it['id']]['lane'] in ('ai_risk_control','data_centers_energy','preemption_state_laws','deepfakes_likeness_copyright','ai_government_research','workers_jobs','chips_china_export'))
         leader_role = any(re.search(r'\b(chair(man|woman|person)?|ranking member|co-chair|vice-chair|lead sponsor|author|negotiators?|founder|leader|convener)\b', g, re.I) for g in groups)
-        if nspon >= 3 or (leader_role and (nspon >= 1 or n_statements >= 4)) or n_statements >= 12:
+        if nspon >= 4 or (leader_role and (nspon >= 2 or n_statements >= 15)) or n_statements >= 30:
             level = 'Leader'
-        elif n119 >= 8 or n_statements >= 4 or nspon >= 1:
+        elif n119 >= 8 or n_statements >= 10 or nspon >= 1:
             level = 'Active'
         elif n119 >= 1 or n_statements >= 1:
             level = 'Some'
