@@ -68,14 +68,17 @@
   });
   document.addEventListener('keydown', e => {
     if (e.key === 'Escape') hidePop();
-    if (e.key === 'Enter' && e.target.classList && e.target.classList.contains('chip') && e.target.dataset.m) showPop(e.target, byId[e.target.dataset.m], e.target.dataset.d);
+    if ((e.key === 'Enter' || e.key === ' ') && e.target.classList && e.target.classList.contains('chip') && e.target.dataset.m) { e.preventDefault(); showPop(e.target, byId[e.target.dataset.m], e.target.dataset.d); }
   });
 
   // ---------- routing
   function route() {
     hidePop();
     const h = location.hash.replace(/^#\/?/, '');
-    const parts = h.split('/').filter(Boolean);
+    const qi = h.indexOf('?');
+    const pathPart = qi >= 0 ? h.slice(0, qi) : h;
+    const queryPart = qi >= 0 ? h.slice(qi + 1) : '';
+    const parts = pathPart.split('/').filter(Boolean);
     const page = parts[0] || '';
     document.querySelectorAll('.nav a').forEach(a => a.classList.toggle('active', a.getAttribute('href') === '#/' + page));
     document.title = ({ members: 'Every member: Where Congress Stands on AI', fights: 'The five fights: Where Congress Stands on AI', votes: 'Key votes: Where Congress Stands on AI', bills: 'The bills: Where Congress Stands on AI', about: 'How this works: Where Congress Stands on AI' })[page] || 'Where Congress Stands on AI';
@@ -83,7 +86,7 @@
     top();
     requestAnimationFrame(() => { if (!location.hash.includes('#', 2)) { top(); setTimeout(top, 30); } });
     if (page === 'member' && parts[1]) return renderMember(parts[1]);
-    if (page === 'members') return renderMembers(parseQuery(parts.slice(1).join('/')));
+    if (page === 'members') return renderMembers(parseQuery(queryPart));
     if (page === 'state' && parts[1]) return renderMembers({ state: parts[1].toUpperCase() });
     if (page === 'fights') return renderFights();
     if (page === 'votes') return renderVotes();
@@ -94,7 +97,8 @@
   function parseQuery(q) {
     const o = {};
     if (!q) return o;
-    q.replace(/^\?/, '').split('&').forEach(kv => { const [k, v] = kv.split('='); if (k) o[decodeURIComponent(k)] = decodeURIComponent(v || ''); });
+    const dec = x => { try { return decodeURIComponent(x); } catch (e) { return ''; } };
+    q.replace(/^\?/, '').split('&').forEach(kv => { const [k, v] = kv.split('='); if (k) o[dec(k)] = dec(v || ''); });
     return o;
   }
 
@@ -214,13 +218,15 @@
           ${e.recent ? `<div class="notice"><strong>Where it stands (Sept 2026):</strong> ${esc(e.recent)}</div>` : ''}
           ${partyBars(dim)}<div class="legend" style="margin:8px 0 14px">${legend()}</div>
           <div class="cols">${[-2, -1, 0, 1, 2].map(s => `<div><div class="chip" data-s="${s}">${esc(dim.scale[String(s)])}</div><p class="small muted" style="margin:6px 0">${esc((e.labels || {})[String(s)] || '')}</p><ul class="small">${side(s).slice(0, 8).map(m => `<li><a href="#/member/${m.id}">${esc(m.name)}</a> <span class="muted">(${m.party}-${m.state})</span></li>`).join('') || '<li class="muted">Nobody yet on the record here</li>'}${side(s).length > 8 ? `<li><a href="#/members?${dim.key}=${s}">All ${side(s).length} →</a></li>` : ''}</ul></div>`).join('')}</div>
-          ${(e.bills || []).length ? `<details><summary>Key bills in this fight</summary>${e.bills.map(b => `<div class="billrow"><div class="lbl">${esc(b.label || '')}</div><div>${esc(b.title || '')}${b.direction ? `<span class="dir ${b.direction}">${dirLabel(b.direction)}</span>` : ''}<div class="small muted">${esc(b.what || '')}${b.url ? ` <a href="${esc(b.url)}" target="_blank" rel="noopener">congress.gov</a>` : ''}</div></div></div>`).join('')}</details>` : ''}
+          ${(e.bills || []).length ? `<details><summary>Key bills in this fight</summary>${e.bills.map(b => `<div class="billrow"><div class="lbl">${esc(b.label || '')}</div><div>${esc(b.title || '')}${b.direction ? `<span class="dir ${dirClass(b.direction)}">${dirLabel(b.direction)}</span>` : ''}<div class="small muted">${esc(b.what || '')}${b.url ? ` <a href="${esc(b.url)}" target="_blank" rel="noopener">congress.gov</a>` : ''}</div></div></div>`).join('')}</details>` : ''}
         </article>`;
       }).join('')}`;
     if (location.hash.includes('#', 2)) { const id = location.hash.split('#').pop(); const el = document.getElementById(id); if (el) el.scrollIntoView(); }
   }
   const actRank = m => ({ Leader: 3, Active: 2, Some: 1, Quiet: 0 })[m.activity.level] + (m.activity.n_statements || 0) / 100;
-  const dirLabel = d => ({ more_guardrails: 'more guardrails', fewer_rules: 'fewer rules', mixed_or_neutral: 'neutral' }[d] || d);
+  const dirLabel = d => ({ more_guardrails: 'more guardrails', fewer_rules: 'fewer rules', mixed_or_neutral: 'neutral' }[d] || esc(d));
+  const dirClass = d => (['more_guardrails', 'fewer_rules', 'mixed_or_neutral'].includes(d) ? d : 'mixed_or_neutral');
+  const verClass = v => (['confirmed', 'partially_supported', 'record', 'landscape', 'unchecked', 'unreachable'].includes(v) ? v : 'unchecked');
 
   // ---------- members table
   const TSTATE = { q: '', chamber: '', party: '', state: '', activity: '', has: '', sort: 'name', dir: 1, stance: {} };
@@ -246,7 +252,7 @@
     host.querySelectorAll('.seg button').forEach(b => b.onclick = () => { TSTATE[b.dataset.k] = b.dataset.v; b.parentElement.querySelectorAll('button').forEach(x => x.classList.toggle('on', x === b)); draw(); });
     $('#t-state', host).onchange = e => { TSTATE.state = e.target.value; draw(); };
     $('#t-act', host).onchange = e => { TSTATE.activity = e.target.value; draw(); };
-    $('#t-reset', host).onclick = () => { location.hash = '#/members'; if (host.id === 'table-host') mountTable(host, {}, opts); };
+    $('#t-reset', host).onclick = () => { if (location.hash.startsWith('#/members') && location.hash.includes('?')) location.hash = '#/members'; else mountTable(host, {}, opts); };
     $('#t-csv', host).onclick = () => downloadCsv(filtered());
     drawFilters(host);
     draw();
@@ -258,12 +264,18 @@
         const on = TSTATE.stance[d.key] && TSTATE.stance[d.key].has(key);
         return `<span class="chip clickable ${on ? 'on' : ''}" data-fd="${d.key}" data-fs="${key}" data-s="${key}" role="button" tabindex="0" title="Show only members whose ${esc(d.label)} position is: ${esc(scaleLabel(d, s))}">${s == null ? 'No position' : esc(d.scale[key])}</span>`;
       }).join('') + '</div>').join('');
-      f.querySelectorAll('.chip[data-fd]').forEach(c => c.onclick = () => {
-        const set = TSTATE.stance[c.dataset.fd] || (TSTATE.stance[c.dataset.fd] = new Set());
-        if (set.has(c.dataset.fs)) set.delete(c.dataset.fs); else set.add(c.dataset.fs);
-        if (!set.size) delete TSTATE.stance[c.dataset.fd];
-        c.classList.toggle('on');
-        draw();
+      f.querySelectorAll('.chip[data-fd]').forEach(c => {
+        const toggle = () => {
+          const set = TSTATE.stance[c.dataset.fd] || (TSTATE.stance[c.dataset.fd] = new Set());
+          if (set.has(c.dataset.fs)) set.delete(c.dataset.fs); else set.add(c.dataset.fs);
+          if (!set.size) delete TSTATE.stance[c.dataset.fd];
+          c.classList.toggle('on');
+          c.setAttribute('aria-pressed', c.classList.contains('on') ? 'true' : 'false');
+          draw();
+        };
+        c.setAttribute('aria-pressed', c.classList.contains('on') ? 'true' : 'false');
+        c.onclick = toggle;
+        c.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); } };
       });
     }
     function filtered() {
@@ -287,17 +299,26 @@
         if (k === 'seat') return m.state + (m.chamber === 'Senate' ? '-0' : '-' + String(m.district).padStart(2, '0'));
         if (k === 'activity') return -({ Leader: 3, Active: 2, Some: 1, Quiet: 0 })[m.activity.level] * 1000 - m.activity.n_bills_119;
         if (k === 'vote') return m.votes['s2025-363'] || 'zz';
-        const p = m.positions[k]; return p && p.score != null ? p.score : 99;
+        const p = m.positions[k]; return p && p.score != null ? p.score : null;
       };
-      rows.sort((a, b) => { const x = val(a), y = val(b); return (x < y ? -1 : x > y ? 1 : 0) * dir || a.last.localeCompare(b.last); });
+      rows.sort((a, b) => {
+        const x = val(a), y = val(b);
+        if (x == null && y == null) return a.last.localeCompare(b.last);
+        if (x == null) return 1; if (y == null) return -1;
+        return (x < y ? -1 : x > y ? 1 : 0) * dir || a.last.localeCompare(b.last);
+      });
       return rows;
     }
     function draw() {
       const rows = filtered();
       $('#t-count', host).textContent = `${rows.length} of ${D.members.length} members` + (rows.length && TSTATE.sort !== 'name' ? ` · sorted by ${TSTATE.sort === 'activity' ? 'activity' : TSTATE.sort === 'seat' ? 'state' : (DIMS().find(d => d.key === TSTATE.sort) || {}).label || TSTATE.sort}` : '');
       const cols = [['name', 'Member'], ['seat', 'State'], ...DIMS().map(d => [d.key, d.short]), ['activity', 'Activity']];
-      $('thead', host).innerHTML = `<tr>${cols.map(([k, l]) => `<th data-k="${k}" class="${TSTATE.sort === k ? 'sorted' : ''}" title="Sort by ${esc(l)}">${esc(l)}<span class="arrow">${TSTATE.sort === k ? (TSTATE.dir === 1 ? '▲' : '▼') : '↕'}</span></th>`).join('')}</tr>`;
-      host.querySelectorAll('th').forEach(th => th.onclick = () => { if (TSTATE.sort === th.dataset.k) TSTATE.dir = -TSTATE.dir; else { TSTATE.sort = th.dataset.k; TSTATE.dir = 1; } draw(); });
+      $('thead', host).innerHTML = `<tr>${cols.map(([k, l]) => `<th data-k="${k}" tabindex="0" role="button" aria-sort="${TSTATE.sort === k ? (TSTATE.dir === 1 ? 'ascending' : 'descending') : 'none'}" class="${TSTATE.sort === k ? 'sorted' : ''}" title="Sort by ${esc(l)}">${esc(l)}<span class="arrow">${TSTATE.sort === k ? (TSTATE.dir === 1 ? '▲' : '▼') : '↕'}</span></th>`).join('')}</tr>`;
+      host.querySelectorAll('th').forEach(th => {
+        const sortBy = () => { if (TSTATE.sort === th.dataset.k) TSTATE.dir = -TSTATE.dir; else { TSTATE.sort = th.dataset.k; TSTATE.dir = 1; } draw(); };
+        th.onclick = sortBy;
+        th.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); sortBy(); } };
+      });
       $('tbody', host).innerHTML = rows.map(m => `<tr>
         <td class="member"><div class="mcell">${photo(m)}<div><div class="nm"><a href="#/member/${m.id}">${esc(m.name)}</a> ${partyChip(m)}${m.pacs && m.pacs.length ? ` <span class="pacmark" title="AI super PAC money in this member's race: ${esc(m.pacs.map(p => (p.kind === 'supported' ? 'backed by ' : 'targeted by ') + p.pac).join('; '))}">$</span>` : ''}</div><div class="sub">${esc(title(m))} · ${m.chamber} · since ${m.first_term}</div></div></div></td>
         <td class="nowrap">${esc(seatShort(m))}</td>
@@ -310,7 +331,8 @@
   }
   function downloadCsv(rows) {
     const cols = ['Name', 'Party', 'Chamber', 'State', 'District', 'Activity', ...DIMS().flatMap(d => [d.label + ' (label)', d.label + ' (score -2..2)', d.label + ' (summary)']), 'Senate vote #363 (state AI laws)', 'Profile URL'];
-    const line = a => a.map(v => '"' + String(v == null ? '' : v).replace(/"/g, '""') + '"').join(',');
+    const cell = v => { let t = String(v == null ? '' : v); if (/^[=+\-@\t\r]/.test(t)) t = "'" + t; return '"' + t.replace(/"/g, '""') + '"'; };
+    const line = a => a.map(cell).join(',');
     const body = rows.map(m => line([m.name, m.party, m.chamber, m.state, m.chamber === 'Senate' ? '' : m.district, m.activity.level, ...DIMS().flatMap(d => { const p = m.positions[d.key]; return [p.label, p.score == null ? '' : p.score, p.summary]; }), m.votes['s2025-363'] || '', location.origin + location.pathname + '#/member/' + m.id]));
     const blob = new Blob(['﻿' + line(cols) + '\n' + body.join('\n')], { type: 'text/csv;charset=utf-8' });
     const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'congress-ai-positions.csv'; document.body.appendChild(a); a.click(); a.remove();
@@ -339,7 +361,7 @@
           <div class="meta">${partyChip(m)} <span>${esc(PARTY_NAME[m.party] || '')}</span> · <span>${esc(seat(m))}</span> · <span>In office since ${m.first_term}</span> · <span class="act ${m.activity.level}" title="${esc(ACT_DESC[m.activity.level])}">${m.activity.level} on AI</span></div>
           <div class="meta small" style="margin-top:6px">${m.url ? `<a href="${esc(m.url)}" target="_blank" rel="noopener">Official site</a>` : ''}<a href="https://www.congress.gov/member/${encodeURIComponent(m.name.toLowerCase().replace(/[^a-z ]/g, '').replace(/\s+/g, '-'))}/${m.id}" target="_blank" rel="noopener">congress.gov</a>${m.wikipedia ? `<a href="https://en.wikipedia.org/wiki/${encodeURIComponent(m.wikipedia.replace(/ /g, '_'))}" target="_blank" rel="noopener">Wikipedia</a>` : ''}</div>
           ${m.signature ? `<p class="sig">${esc(m.signature)}</p>` : '<p class="sig muted">No notable public AI activity found beyond the record below.</p>'}
-          ${m.quote ? `<blockquote>${esc(m.quote.text)}<cite>${m.quote.date ? fmtDate(m.quote.date) + ' · ' : ''}<a href="${esc(m.quote.url)}" target="_blank" rel="noopener">source</a></cite></blockquote>` : ''}
+          ${m.quote && m.quote.text && m.quote.url ? `<blockquote>${esc(m.quote.text)}<cite>${m.quote.date ? fmtDate(m.quote.date) + ' · ' : ''}<a href="${esc(m.quote.url)}" target="_blank" rel="noopener">source</a>${m.quote.verified ? ` · <span class="ver ${verClass(m.quote.verified)}">${esc(VER[m.quote.verified] || '')}</span>` : ''}</cite></blockquote>` : ''}
           ${m.groups && m.groups.length ? `<div class="pill-row small">${m.groups.map(g => `<span class="act">${esc(g)}</span>`).join('')}</div>` : ''}
           ${m.pacs && m.pacs.length ? `<div class="pacbox"><strong>AI money in their race:</strong><ul class="small">${m.pacs.map(p => `<li><span class="pk ${p.kind}">${p.kind === 'supported' ? 'Backed by' : 'Targeted by'}</span> <strong>${esc(p.pac)}</strong>${p.agenda ? ` <span class="muted">(${esc(p.agenda)})</span>` : ''}: ${esc(p.detail)} ${p.url ? `<a href="${esc(p.url)}" target="_blank" rel="noopener">source</a>` : ''}</li>`).join('')}</ul></div>` : ''}
           ${m.committees.length ? `<details><summary>Committees (${m.committees.length})</summary><ul class="small">${m.committees.map(c => `<li>${esc(c)}</li>`).join('')}</ul></details>` : ''}
@@ -349,7 +371,7 @@
       <div class="pos-grid">${DIMS().map(d => posCard(m, d)).join('')}</div></section>
       ${Object.keys(m.votes).length ? `<section class="section"><h2>Key votes</h2>${D.votes.filter(v => m.votes[v.id]).map(v => `<div class="votecard"><h3>${esc(v.title)}</h3><p class="muted small">${v.chamber} roll call, ${fmtDate(v.date)}. ${esc(v.plain)}</p><p><strong>${esc(m.last)} voted:</strong> <span class="vote ${voteClass(m.votes[v.id])}">${esc(m.votes[v.id])}</span> <span class="muted">(${esc(m.votes[v.id] === 'Yea' || m.votes[v.id] === 'Aye' || m.votes[v.id] === 'Yes' ? v.yea_means : m.votes[v.id] === 'Nay' || m.votes[v.id] === 'No' ? v.nay_means : 'did not vote')})</span> · <a href="${esc(v.govtrack)}" target="_blank" rel="noopener">full roll call</a></p></div>`).join('')}</section>` : ''}
       <section class="section"><div class="section-head"><h2>Related bills (${relBills.length})</h2><p>Every AI or tech bill this member sponsored or cosponsored in the 118th and 119th Congress, from official congress.gov data.</p></div>
-        ${relBills.length ? Object.keys(byLane).map(l => `<h3 style="margin-top:16px">${esc(LANE[l] || l)}</h3>${byLane[l].map(b => `<div class="billrow"><div><div class="lbl"><a href="${esc(b.bill.url)}" target="_blank" rel="noopener">${esc(b.bill.label)}</a></div><div class="lane">${b.bill.congress}th · ${b.role === 'sponsor' ? 'Sponsor' : 'Cosponsor'}</div></div><div><strong>${esc(b.bill.title)}</strong><span class="dir ${b.bill.direction}">${dirLabel(b.bill.direction)}</span><div class="small muted">${esc(b.bill.what)} ${b.bill.n_cosponsors ? `· ${b.bill.n_cosponsors} cosponsors` : ''}${b.bill.enacted ? ' · <strong>became law</strong>' : ''}</div></div></div>`).join('')}`).join('') : '<p class="muted">None found.</p>'}
+        ${relBills.length ? Object.keys(byLane).map(l => `<h3 style="margin-top:16px">${esc(LANE[l] || l)}</h3>${byLane[l].map(b => `<div class="billrow"><div><div class="lbl"><a href="${esc(b.bill.url)}" target="_blank" rel="noopener">${esc(b.bill.label)}</a></div><div class="lane">${b.bill.congress}th · ${b.role === 'sponsor' ? 'Sponsor' : 'Cosponsor'}</div></div><div><strong>${esc(b.bill.title)}</strong><span class="dir ${dirClass(b.bill.direction)}">${dirLabel(b.bill.direction)}</span><div class="small muted">${esc(b.bill.what)} ${b.bill.n_cosponsors ? `· ${b.bill.n_cosponsors} cosponsors` : ''}${b.bill.enacted ? ' · <strong>became law</strong>' : ''}</div></div></div>`).join('')}`).join('') : '<p class="muted">None found.</p>'}
       </section>
       <section class="section"><h2>Others from ${esc(m.state_name)}</h2><div class="cards">${others.slice(0, 6).map(memberCard).join('')}</div>${others.length > 6 ? `<p><a href="#/state/${m.state}">All ${others.length + 1} members from ${esc(m.state_name)} →</a></p>` : ''}</section>`;
   }
@@ -361,7 +383,7 @@
     return `<div class="pos"><h3><span>${esc(d.label)}</span>${chip(m, d, { lg: true })}</h3>
       <div class="conf">${esc(conf)}</div>
       <p class="summary">${esc(p.summary)}</p>
-      ${ev.length ? `<ul class="evidence">${ev.map(e => `<li><span class="et">${esc(ETYPE[e.type] || e.type)}</span>${e.date ? `<span class="muted small">${fmtDate(e.date)}</span>` : ''}<span class="ver ${e.verified}">${esc(VER[e.verified] || '')}</span><div><a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a></div>${e.quote ? `<q>${esc(e.quote)}</q>` : ''}${e.what_it_shows ? `<div class="why small">${esc(e.what_it_shows)}</div>` : ''}</li>`).join('')}</ul>` : ''}
+      ${ev.length ? `<ul class="evidence">${ev.map(e => `<li><span class="et">${esc(ETYPE[e.type] || e.type)}</span>${e.date ? `<span class="muted small">${fmtDate(e.date)}</span>` : ''}<span class="ver ${verClass(e.verified)}">${esc(VER[e.verified] || '')}</span><div><a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a></div>${e.quote ? `<q>${esc(e.quote)}</q>` : ''}${e.what_it_shows ? `<div class="why small">${esc(e.what_it_shows)}</div>` : ''}</li>`).join('')}</ul>` : ''}
     </div>`;
   }
 
@@ -392,7 +414,7 @@
       const q = $('#b-q').value.trim().toLowerCase();
       const rows = bills.filter(b => (!lane || b.lane === lane) && (!q || (b.title + ' ' + b.what + ' ' + b.label).toLowerCase().includes(q)));
       $('#b-count').textContent = `${rows.length} bills`;
-      $('#b-list').innerHTML = rows.slice(0, 300).map(b => `<div class="billrow"><div><div class="lbl"><a href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.label)}</a></div><div class="lane">${esc(LANE[b.lane] || b.lane)}</div></div><div><strong>${esc(b.title)}</strong><span class="dir ${b.direction}">${dirLabel(b.direction)}</span><div class="small muted">${esc(b.what)} · ${b.sponsor ? esc(b.sponsor.replace(/^(Rep|Sen)\. /, '$1. ')) + ' · ' : ''}${b.n_cosponsors} cosponsors${b.enacted ? ' · <strong>became law</strong>' : ''}</div></div></div>`).join('');
+      $('#b-list').innerHTML = rows.slice(0, 300).map(b => `<div class="billrow"><div><div class="lbl"><a href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.label)}</a></div><div class="lane">${esc(LANE[b.lane] || b.lane)}</div></div><div><strong>${esc(b.title)}</strong><span class="dir ${dirClass(b.direction)}">${dirLabel(b.direction)}</span><div class="small muted">${esc(b.what)} · ${b.sponsor ? esc(b.sponsor.replace(/^(Rep|Sen)\. /, '$1. ')) + ' · ' : ''}${b.n_cosponsors} cosponsors${b.enacted ? ' · <strong>became law</strong>' : ''}</div></div></div>`).join('');
     };
     $('#b-lane').onchange = e => { lane = e.target.value; draw(); };
     $('#b-q').oninput = draw;
@@ -439,12 +461,12 @@
   }
 
   // ---------- boot
-  const DATA_URL = 'data.json?v=21ad678454';
+  const DATA_URL = 'data.json?v=5f001a84a3';
   fetch(DATA_URL).then(r => r.json()).then(data => {
     D = data;
     D.members.forEach(m => { byId[m.id] = m; });
     $('#foot-updated').textContent = `Data updated ${fmtDate(D.generated)} · ${D.members.length} members · ${Object.keys(D.bills).length} bills · ${D.votes.length} key votes`;
-    window.addEventListener('hashchange', route);
+    window.addEventListener('hashchange', route); window.__route = route;
     route();
   }).catch(err => { app.innerHTML = `<p class="loading">Could not load data.json (${esc(err.message)}).</p>`; });
 })();

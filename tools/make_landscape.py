@@ -14,7 +14,7 @@ members = json.load(open(os.path.join(ROOT, 'source', 'members.json')))
 bills_idx = json.load(open(os.path.join(ROOT, 'source', 'bills_tech_candidates.json')))
 cls = json.load(open(os.path.join(ROOT, 'source', 'bill_classifications.json')))
 
-NICK = {'don': 'donald', 'rich': 'richard', 'dick': 'richard', 'mike': 'michael', 'dan': 'daniel', 'ted': 'edward', 'ed': 'edward', 'bill': 'william', 'tom': 'thomas', 'jim': 'james', 'jimmy': 'james', 'bob': 'robert', 'rob': 'robert', 'joe': 'joseph', 'steve': 'steven', 'chris': 'christopher', 'greg': 'gregory', 'andy': 'andrew', 'tony': 'anthony', 'bernie': 'bernard', 'ben': 'benjamin', 'josh': 'joshua', 'pat': 'patrick', 'jack': 'john', 'jon': 'jonathan', 'matt': 'matthew', 'dave': 'david', 'nick': 'nicholas', 'ron': 'ronald', 'ken': 'kenneth', 'sam': 'samuel', 'debbie': 'deborah', 'liz': 'elizabeth', 'kat': 'katherine', 'katie': 'katherine', 'chuck': 'charles', 'tim': 'timothy', 'ralph': 'ralph', 'raja': 'raja', 'tammy': 'tammy', 'val': 'valerie', 'ro': 'rohit', 'gabe': 'gabriel', 'jay': 'jay', 'jeff': 'jeffrey', 'ritchie': 'ritchie', 'gus': 'gus', 'lou': 'louis', 'max': 'maxwell', 'sean': 'sean', 'zach': 'zachary', 'nate': 'nathaniel', 'alex': 'alexander', 'rick': 'richard', 'rand': 'randal', 'jerry': 'gerald', 'ronny': 'ronald', 'marc': 'marc', 'russ': 'russell', 'ann': 'ann', 'beth': 'elizabeth', 'susie': 'susan', 'jodey': 'jodey', 'french': 'james', 'tedd': 'edward'}
+NICK = {'herb': 'herbert', 'abe': 'abraham', 'don': 'donald', 'rich': 'richard', 'dick': 'richard', 'mike': 'michael', 'dan': 'daniel', 'ted': 'edward', 'ed': 'edward', 'bill': 'william', 'tom': 'thomas', 'jim': 'james', 'jimmy': 'james', 'bob': 'robert', 'rob': 'robert', 'joe': 'joseph', 'steve': 'steven', 'chris': 'christopher', 'greg': 'gregory', 'andy': 'andrew', 'tony': 'anthony', 'bernie': 'bernard', 'ben': 'benjamin', 'josh': 'joshua', 'pat': 'patrick', 'jack': 'john', 'jon': 'jonathan', 'matt': 'matthew', 'dave': 'david', 'nick': 'nicholas', 'ron': 'ronald', 'ken': 'kenneth', 'sam': 'samuel', 'debbie': 'deborah', 'liz': 'elizabeth', 'kat': 'katherine', 'katie': 'katherine', 'chuck': 'charles', 'tim': 'timothy', 'ralph': 'ralph', 'raja': 'raja', 'tammy': 'tammy', 'val': 'valerie', 'ro': 'rohit', 'gabe': 'gabriel', 'jay': 'jay', 'jeff': 'jeffrey', 'ritchie': 'ritchie', 'gus': 'gus', 'lou': 'louis', 'max': 'maxwell', 'sean': 'sean', 'zach': 'zachary', 'nate': 'nathaniel', 'alex': 'alexander', 'rick': 'richard', 'rand': 'randal', 'jerry': 'gerald', 'ronny': 'ronald', 'marc': 'marc', 'russ': 'russell', 'ann': 'ann', 'beth': 'elizabeth', 'susie': 'susan', 'jodey': 'jodey', 'french': 'james', 'tedd': 'edward'}
 
 def norm(s):
     s = unicodedata.normalize('NFKD', s or '')
@@ -31,40 +31,54 @@ for m in members:
     # compound last names: also index the final token
     toks = norm(m['last']).split()
     if len(toks) > 1:
-        by_last[toks[-1]].append(m)
+        for t in toks:
+            if m not in by_last[t]: by_last[t].append(m)
 
 def canon_first(t):
     return NICK.get(t, t)
+
+def first_tokens(m):
+    """All given-name tokens we accept for a roster member: first name, nickname, and the given-name part of the official full name."""
+    toks = set()
+    for src in (m.get('first') or '', m.get('nickname') or '', m.get('name') or ''):
+        for t in norm(src).split():
+            if t and t not in norm(m['last']).split(): toks.add(t)
+    return toks
+
+def first_match(given, roster_toks):
+    """A given-name token matches if equal after nickname canonicalisation, or if one is a 3+ letter prefix of the other (greg/gregorio)."""
+    for g in given:
+        cg = canon_first(g)
+        for t in roster_toks:
+            ct = canon_first(t)
+            if cg == ct or (len(g) >= 3 and len(t) >= 3 and (ct.startswith(g) or cg.startswith(t))): return True
+    return False
 
 def match_member(name, state_hint=None, party_hint=None):
     n = norm(name)
     if not n: return None
     toks = n.split()
-    cands = []
-    for i in range(len(toks) - 1, -1, -1):
+    last_i = len(toks) - 1
+    for i in range(last_i, -1, -1):
         last = toks[i]
-        if last in by_last:
-            pool = by_last[last]
-            firsts = set(canon_first(t) for t in toks[:i])
-            good = []
-            for m in pool:
-                mf = set(canon_first(t) for t in norm(m['first']).split()) | ({canon_first(norm(m['nickname']))} if m.get('nickname') else set())
-                if firsts & mf or not firsts:
-                    good.append(m)
-            if not good and len(pool) == 1 and (state_hint is None or pool[0]['state'] == state_hint):
-                good = pool
-            if state_hint:
-                good = [m for m in good if m['state'] == state_hint] or good
-            if len(good) == 1:
-                return good[0]
-            if len(good) > 1:
-                cands = good
-            if good: break
-    # try state hint from string like "(D-CA-6)" or "R-TN"
-    m2 = re.search(r'\b([DRI])-([A-Z]{2})\b', name)
-    if cands and m2:
-        c2 = [m for m in cands if m['state'] == m2.group(2)]
-        if len(c2) == 1: return c2[0]
+        if last not in by_last: continue
+        pool = by_last[last]
+        firsts = [t for t in toks[:i] if len(t) > 1]
+        good = [m for m in pool if not firsts or first_match(firsts, first_tokens(m))]
+        # a first name that matches nobody with this surname means a different (often departed) person: no match
+        if firsts and not good:
+            return None
+        if state_hint:
+            filtered = [m for m in good if m['state'] == state_hint]
+            if good and not filtered: return None
+            good = filtered
+        if len(good) == 1: return good[0]
+        if len(good) > 1:
+            m2 = re.search(r'\b([DRI])-([A-Z]{2})\b', name)
+            if m2:
+                c2 = [m for m in good if m['state'] == m2.group(2)]
+                if len(c2) == 1: return c2[0]
+            return None
     return None
 
 def parse_hint(name):
@@ -90,7 +104,8 @@ for g in (L.get('caucuses') or {}).get('groups', []):
     for mm in g.get('members', []):
         m = match_member(mm['name'], parse_hint(mm.get('name', '') + ' ' + (mm.get('state') or '')) or (mm.get('state') if mm.get('state') and len(mm.get('state')) == 2 else None))
         if not m: continue
-        role = re.split(r'[;(]', (mm.get('role') or '').strip())[0].strip()[:40]
+        role = re.split(r'[;(]', (mm.get('role') or '').strip())[0].strip()
+        if len(role) > 70: role = role[:70].rsplit(' ', 1)[0] + '...'
         if re.match(r'^(member|members?)$', role, re.I): role = ''
         if is_committee:
             if not re.search(r'chair|ranking', role, re.I): continue
