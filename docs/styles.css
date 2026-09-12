@@ -194,8 +194,13 @@ td.member { min-width: 230px; }
   .mrow { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px; box-shadow: var(--shadow); }
   .mrow .stances { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; margin-top: 10px; }
   .mrow .stances .k { font-size: .7rem; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-3); display: block; margin-bottom: 2px; }
-  .nav a { padding: 6px 8px; font-size: .88rem; }
+  .top-inner { min-height: 52px; }
+  .nav { gap: 0; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+  .nav::-webkit-scrollbar { display: none; }
+  .nav a { padding: 6px 8px; font-size: .86rem; white-space: nowrap; }
   .brand-text { display: none; }
+  .hero { padding-top: 28px; }
+  .tile .big { font-size: 2rem; }
 }
 
 /* member page */

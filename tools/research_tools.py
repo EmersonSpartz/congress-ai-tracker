@@ -10,7 +10,8 @@ Usage:
   research_tools.py decode <news.google.com/rss/articles/... url>
 Output: one JSON object per line (news/site/web/decode). fetch prints a JSON header line, then the text.
 """
-import sys, os, re, json, time, hashlib, random, html, urllib.request, urllib.parse, urllib.error, subprocess, gzip, zlib
+import sys, os, re, json, time, hashlib, random, html, urllib.request, urllib.parse, urllib.error, subprocess, gzip, zlib, warnings, fcntl
+warnings.filterwarnings('ignore')
 
 UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36'
 CACHE = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'cache')
@@ -33,9 +34,27 @@ def _cache_put(key, val):
     except Exception:
         pass
 
+def _throttle(host, min_gap):
+    """Cross-process rate limit: at most one request per min_gap seconds per host, shared by all agents."""
+    p = os.path.join(CACHE, 'rl_' + re.sub(r'[^a-z0-9]', '_', host) + '.lock')
+    with open(p, 'a+') as f:
+        fcntl.flock(f, fcntl.LOCK_EX)
+        try:
+            f.seek(0); last = float((f.read() or '0').strip() or 0)
+            wait = last + min_gap - time.time()
+            if wait > 0: time.sleep(wait)
+            f.seek(0); f.truncate(); f.write(str(time.time())); f.flush()
+        finally:
+            fcntl.flock(f, fcntl.LOCK_UN)
+
+HOST_GAP = {'news.google.com': 1.2, 'web.archive.org': 0.7, 'archive.org': 0.7}
+
 def _get(url, timeout=30, tries=3, accept=None):
     """Return (status, final_url, content_type, bytes). Raises on total failure."""
     last = None
+    host = urllib.parse.urlparse(url).netloc.lower()
+    for h, gap in HOST_GAP.items():
+        if host.endswith(h): _throttle(h, gap); break
     for a in range(tries):
         try:
             req = urllib.request.Request(url, headers={'User-Agent': UA, 'Accept': accept or 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'Accept-Language': 'en-US,en;q=0.9', 'Accept-Encoding': 'identity'})
@@ -52,7 +71,7 @@ def _get(url, timeout=30, tries=3, accept=None):
             last = e
             if e.code in (403, 404, 410, 451):
                 return e.code, url, '', b''
-            time.sleep(4 * (a + 1) + random.random() * 2)
+            time.sleep((15 if e.code == 429 else 4) * (a + 1) + random.random() * 3)
         except Exception as e:
             last = e
             time.sleep(3 * (a + 1))
