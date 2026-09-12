@@ -258,3 +258,10 @@ summary { cursor: pointer; color: var(--link); font-weight: 600; font-size: .9re
 .statebar a:hover { text-decoration: none; background: var(--surface-2); color: var(--ink); }
 .pill-row { display: flex; gap: 8px; flex-wrap: wrap; }
 kbd { font-family: var(--sans); font-size: .8rem; border: 1px solid var(--line-2); border-radius: 4px; padding: 0 5px; background: var(--surface-2); }
+
+.pacmark { display: inline-grid; place-items: center; width: 18px; height: 18px; border-radius: 50%; background: #f5e6a3; color: #5b4300; font-size: .72rem; font-weight: 800; vertical-align: middle; cursor: help; }
+.pacbox { margin-top: 10px; padding: 10px 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
+.pacbox ul { margin: 6px 0 0; padding-left: 1.1em; }
+.pk { font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; padding: 1px 6px; border-radius: 5px; }
+.pk.supported { background: #e8f3d9; color: #2f5d0c; } .pk.opposed { background: #fde2e1; color: #8a1c1c; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .pacmark { background: #6b5a1b; color: #ffe9a8; } :root:not([data-theme="light"]) .pk.supported { background: #2b4a1a; color: #c9eaa8; } :root:not([data-theme="light"]) .pk.opposed { background: #5a2323; color: #ffc9c7; } }

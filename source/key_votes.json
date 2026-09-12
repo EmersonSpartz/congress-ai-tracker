@@ -1,1 +1,93 @@
-[{"id":"s2025-363","title":"Should states keep the right to regulate AI?","plain":"In July 2025 the Senate voted on Sen. Marsha Blackburn's amendment to strip a 10-year ban on state AI laws out of the big Republican tax-and-spending bill (H.R. 1). Yes meant states keep their power to regulate AI.","yea_means":"Strip the ban: let states regulate AI","nay_means":"Keep the ban on state AI laws","dim":"preemption","official":"https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00363.htm"}]
+[
+ {
+  "id": "s2025-363",
+  "title": "Should states keep the right to regulate AI?",
+  "dim": "preemption",
+  "centrality": "direct",
+  "plain": "The House version of the 2025 Republican tax-and-spending law (H.R. 1) contained a 10-year ban on states enforcing their own AI laws. On July 1, 2025 the Senate voted on Sen. Marsha Blackburn's amendment to strip that ban out. It passed 99 to 1 after a compromise between Blackburn and Sen. Ted Cruz collapsed overnight. Because almost everyone voted yes, including Cruz, this vote alone does not tell you who supports a national rule; the positions on this site come from what members said and sponsored.",
+  "yea_means": "Strip the ban: states keep their power to regulate AI",
+  "nay_means": "Keep the 10-year ban on state AI laws",
+  "official": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00363.htm"
+ },
+ {
+  "id": "h2025-145",
+  "title": "House passes the budget bill that carried the 10-year ban on state AI laws",
+  "dim": "preemption",
+  "centrality": "omnibus",
+  "plain": "On May 22, 2025 the House passed H.R. 1, the One Big Beautiful Bill Act, 215 to 214. Buried inside was a 10-year moratorium on state and local AI laws. This was a vote on a giant bill, so it says little about any one member's AI views. Several Republicans, including Rep. Marjorie Taylor Greene, later said they did not know the AI provision was in it and would have opposed it. The Senate removed the provision before the bill became law.",
+  "yea_means": "Pass the budget bill (with the state AI law ban inside)",
+  "nay_means": "Reject the budget bill"
+ },
+ {
+  "id": "h2025-104",
+  "title": "TAKE IT DOWN Act: a federal crime to post AI sexual deepfakes without consent",
+  "dim": "ai_risk",
+  "centrality": "direct",
+  "plain": "The TAKE IT DOWN Act makes it a federal crime to publish real or AI-generated sexual images of a person without consent and forces platforms to remove them within 48 hours of a request. The House passed it 409 to 2 on April 28, 2025 and President Trump signed it in May 2025. The two no votes were Reps. Thomas Massie and Eric Burlison, who cited free speech and government overreach concerns.",
+  "yea_means": "Pass the deepfake takedown law",
+  "nay_means": "Oppose the law"
+ },
+ {
+  "id": "h2026-228",
+  "title": "KIDS Act: the Republican kids-online-safety package, with AI chatbot rules",
+  "dim": "tech_regulation",
+  "centrality": "direct",
+  "plain": "On June 29, 2026 the House passed the KIDS Act 267 to 117. The Republican-led package bundled kids' online safety rules, app store age checks and new rules for AI chatbots that talk to minors. Most Democrats voted no, arguing it was a weaker substitute for the Senate's Kids Online Safety Act and gave tech companies too much cover; a yes vote here reads as support for the GOP approach, not necessarily as pro or anti regulation.",
+  "yea_means": "Pass the House GOP kids-safety and chatbot package",
+  "nay_means": "Reject it (most Democrats wanted the stronger Senate KOSA)"
+ },
+ {
+  "id": "h2026-13",
+  "title": "Remote Access Security Act: close the cloud loophole in AI chip export controls",
+  "dim": "china_chips",
+  "centrality": "direct",
+  "plain": "Export controls stop China from buying America's most advanced AI chips, but Chinese firms could still rent the same chips remotely through the cloud. This bill lets the Commerce Department control that remote access too. The House passed it 369 to 22 on January 12, 2026.",
+  "yea_means": "Tighten controls on Chinese access to U.S. AI chips",
+  "nay_means": "Oppose the new controls"
+ },
+ {
+  "id": "s2025-106",
+  "title": "Repeal the consumer watchdog's oversight of Big Tech payment apps",
+  "dim": "tech_regulation",
+  "centrality": "direct",
+  "plain": "In late 2024 the Consumer Financial Protection Bureau finalized a rule letting it supervise large digital payment apps (Apple Pay, Google Pay, Venmo, Cash App) the way it supervises banks. On March 5, 2025 the Senate voted 51 to 47, along party lines, to repeal that rule; the House agreed 219 to 211 in April and the repeal became law. A yes vote was a vote for lighter oversight of Big Tech's financial products.",
+  "yea_means": "Repeal the oversight rule (lighter touch on Big Tech)",
+  "nay_means": "Keep the watchdog's oversight of payment apps"
+ },
+ {
+  "id": "h2025-95",
+  "title": "House vote to repeal the consumer watchdog's oversight of Big Tech payment apps",
+  "dim": "tech_regulation",
+  "centrality": "direct",
+  "plain": "The House companion vote on April 9, 2025 (219 to 211) to the Senate repeal of the Consumer Financial Protection Bureau's rule supervising large digital payment apps. See the Senate vote above for the background.",
+  "yea_means": "Repeal the oversight rule (lighter touch on Big Tech)",
+  "nay_means": "Keep the watchdog's oversight of payment apps"
+ },
+ {
+  "id": "s2024-221",
+  "title": "Kids Online Safety Act passes the Senate (2024)",
+  "dim": "tech_regulation",
+  "centrality": "direct",
+  "plain": "The Kids Online Safety Act would give social media companies a legal duty of care to protect children from bullying, sexual exploitation and content that promotes self-harm, and let parents turn off addictive features. The Senate passed it 91 to 3 on July 30, 2024 (Sens. Wyden, Paul and Lee voted no, citing free-speech and censorship concerns). The House never took it up that year, and the fight over a House version continued into 2026.",
+  "yea_means": "Pass kids' online safety rules for social media",
+  "nay_means": "Oppose the bill"
+ },
+ {
+  "id": "h2024-86",
+  "title": "Force TikTok's Chinese owner to sell or face a U.S. ban",
+  "dim": "tech_regulation",
+  "centrality": "direct",
+  "plain": "On March 13, 2024 the House voted 352 to 65 to require ByteDance to sell TikTok or see the app banned in the United States. A version of the measure became law the following month. The no votes came from both parties: progressives worried about free speech and some Republicans who opposed the precedent of banning an app.",
+  "yea_means": "Force a sale or ban of TikTok",
+  "nay_means": "Oppose the forced sale or ban"
+ },
+ {
+  "id": "h2024-136",
+  "title": "Stop the government from buying Americans' data from brokers",
+  "dim": "tech_regulation",
+  "centrality": "direct",
+  "plain": "The Fourth Amendment Is Not For Sale Act would stop law enforcement and intelligence agencies from buying Americans' location and browsing data from data brokers without a warrant. The House passed it 219 to 199 on April 17, 2024 with an unusual coalition of privacy-minded Republicans and Democrats; the Senate never voted on it.",
+  "yea_means": "Ban warrantless government purchases of personal data",
+  "nay_means": "Oppose the ban"
+ }
+]

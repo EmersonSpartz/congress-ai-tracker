@@ -77,6 +77,10 @@ def main():
     votes_idx = load('votes_index.json', {})
     key_votes = load('key_votes.json', [])
     landscape = load('landscape.json', {})
+    ls_pacs = landscape.get('member_pacs', {})
+    ls_groups = landscape.get('member_groups', {})
+    ls_letters = landscape.get('member_letters', {})
+    LETTER_SCORE = {('preemption','more_guardrails'): -2, ('preemption','fewer_rules'): 2, ('preemption','mixed_or_neutral'): 0}
     research = {}
     for p in glob.glob(os.path.join(SRC, 'research', '*.json')):
         with open(p) as f:
@@ -167,6 +171,7 @@ def main():
                     summary = 'The sources we found for this could not be verified, so no position is shown.'
                 elif score is not None and not statements and conf == 'high':
                     conf = 'medium'
+            n_statements += len([l for l in ls_letters.get(m['bioguide'], []) if l['dim'] == key])
             sig = by_dim_signal.get(key)
             if score is None and sig and sig['n'] > 0:
                 net = sig['guard'] - sig['hands']
@@ -181,6 +186,23 @@ def main():
                     bo = bills_out[i]
                     role = next((it['role'] for it in mbills if it['id']==i), 'cosponsor')
                     evidence.append({'type': role, 'date': None, 'title': f"{'Sponsored' if role=='sponsor' else 'Cosponsored'} {bo['label']}: {bo['title']}", 'url': bo['url'], 'quote': None, 'what_it_shows': bo['what'], 'verified': 'record'})
+            # signed letters and public statements collected in the landscape pass
+            my_letters = [l for l in ls_letters.get(m['bioguide'], []) if l['dim'] == key]
+            seen_urls = {e.get('url') for e in evidence}
+            for l in my_letters:
+                if l['url'] in seen_urls: continue
+                evidence.append({'type': l['type'], 'date': l.get('date'), 'title': clean(l['title']), 'url': l['url'], 'quote': None, 'what_it_shows': clean(l['what']), 'verified': 'landscape'})
+                seen_urls.add(l['url'])
+            if my_letters and (score is None or basis == 'record'):
+                dirs = collections.Counter(l['direction'] for l in my_letters)
+                d0 = dirs.most_common(1)[0][0]
+                if len(dirs) == 1 or dirs[d0] >= 2 * sum(v for k2, v in dirs.items() if k2 != d0):
+                    ls = LETTER_SCORE.get((key, d0))
+                    if ls is None:
+                        ls = {'more_guardrails': -1, 'fewer_rules': 1, 'mixed_or_neutral': 0}[d0]
+                    score = ls; conf = 'medium'; basis = 'letter'
+                    lt = my_letters[0]
+                    summary = f"No detailed statements collected yet, but {'signed' if lt['type']=='letter' else 'made'} {'a letter' if lt['type']=='letter' else 'a public statement'}: {clean(lt['title'])[:140]}." + (f" Plus {len(my_letters)-1} more." if len(my_letters) > 1 else '')
             if score is None and summary is None:
                 summary = 'No public position found.'
             positions[key] = {'score': score, 'label': d['scale'][score] if score is not None else 'No public position found', 'confidence': conf, 'basis': basis, 'summary': summary, 'evidence': evidence}
@@ -194,10 +216,16 @@ def main():
         nspon = sum(1 for it in mbills if it['role']=='sponsor' and it['id'].startswith('119'))
         n_ai = sum(1 for it in mbills if bills_out[it['id']]['lane'] in ('ai_risk_control','data_centers_energy','preemption_state_laws','deepfakes_likeness_copyright','ai_government_research','workers_jobs','chips_china_export'))
         groups = list((r or {}).get('groups', []))
-        leader_role = any(re.search(r'chair|ranking|co-chair|task force|caucus|working group', g, re.I) for g in groups)
-        if nspon >= 3 or (leader_role and (nspon >= 1 or n_statements >= 3)):
+        for g in ls_groups.get(m['bioguide'], []):
+            if not any(g.lower()[:30] in x.lower() or x.lower()[:30] in g.lower() for x in groups):
+                groups.append(g)
+        pacs = ls_pacs.get(m['bioguide'], [])
+        for p_ in pacs:
+            for key_ in ('detail','agenda'): p_[key_] = clean(p_.get(key_))
+        leader_role = any(re.search(r'\b(chair|ranking member|co-chair|vice-chair|lead sponsor|author|negotiator)\b', g, re.I) for g in groups)
+        if nspon >= 3 or (leader_role and (nspon >= 1 or n_statements >= 4)) or n_statements >= 8:
             level = 'Leader'
-        elif n119 >= 8 or n_statements >= 4 or nspon >= 1:
+        elif n119 >= 8 or n_statements >= 3 or nspon >= 1:
             level = 'Active'
         elif n119 >= 1 or n_statements >= 1:
             level = 'Some'
@@ -212,7 +240,7 @@ def main():
             'committees': [c['name'] for c in m['committees']],
             'groups': groups,
             'activity': {'level': level, 'n_bills_119': n119, 'n_sponsored_119': nspon, 'n_ai_bills': n_ai, 'n_statements': n_statements},
-            'positions': positions, 'votes': mv, 'bills': mbills,
+            'positions': positions, 'votes': mv, 'bills': mbills, 'pacs': pacs,
             'signature': clean((r or {}).get('signature')) or None,
             'quote': (r or {}).get('notable_quote'),
         })
@@ -236,6 +264,8 @@ def main():
             c[str(x['positions'][d['key']]['score'])] += 1
         stats[d['key']] = dict(c)
     stats['activity'] = dict(collections.Counter(x['activity']['level'] for x in out_members))
+    stats['basis'] = dict(collections.Counter(p['basis'] for x in out_members for p in x['positions'].values()))
+    stats['pac_members'] = sum(1 for x in out_members if x['pacs'])
 
     os.makedirs(SITE, exist_ok=True)
     os.makedirs(os.path.join(SITE, 'photos'), exist_ok=True)
@@ -247,7 +277,7 @@ def main():
         'generated': datetime.date.today().isoformat(), 'congress': 119,
         'dimensions': [{k: v for k, v in d.items() if k != 'lanes'} | {'scale': {str(k): v for k, v in d['scale'].items()}} for d in DIMENSIONS],
         'votes': votes_out, 'bills': bills_out, 'members': out_members, 'stats': stats,
-        'landscape': landscape,
+        'landscape': {'explainers': landscape.get('explainers', {})},
     }
     with open(os.path.join(SITE, 'data.json'), 'w') as f:
         json.dump(data, f, ensure_ascii=False, separators=(',', ':'))

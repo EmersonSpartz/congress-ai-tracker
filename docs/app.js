@@ -9,7 +9,7 @@
   const PARTY_NAME = { D: 'Democrat', R: 'Republican', I: 'Independent' };
   const ACT_DESC = { Leader: 'Leads on AI: sponsors major AI bills or chairs a relevant group', Active: 'Active: several AI bills or public statements', Some: 'Some activity: at least one relevant bill or statement', Quiet: 'Quiet: no AI-related bills or statements found' };
   const ETYPE = { vote: 'Vote', sponsor: 'Sponsored bill', cosponsor: 'Cosponsored bill', letter: 'Letter', statement: 'Statement', hearing: 'Hearing', interview: 'Interview', op_ed: 'Op-ed', social_post: 'Post', pac: 'Campaign money', other: 'Source' };
-  const VER = { confirmed: 'Source checked', partially_supported: 'Source partly supports', record: 'Official record', unchecked: 'Not yet re-checked', unreachable: 'Source unreachable' };
+  const VER = { confirmed: 'Source checked', partially_supported: 'Source partly supports', record: 'Official record', landscape: 'From signed letter or statement', unchecked: 'Not yet re-checked', unreachable: 'Source unreachable' };
 
   const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const fmtDate = d => {
@@ -45,7 +45,7 @@
     const ev = (p.evidence || []).slice(0, 3);
     pop.innerHTML = `<button class="close" aria-label="Close">×</button>
       <h4>${esc(m.name)} <span class="muted">on</span> ${esc(dim.label)}</h4>
-      <div>${chip(m, dim)} <span class="conf">${p.basis === 'record' ? 'from voting and bill record' : p.confidence === 'none' ? '' : 'confidence: ' + esc(p.confidence)}</span></div>
+      <div>${chip(m, dim)} <span class="conf">${p.basis === 'record' ? 'from bill record only' : p.basis === 'letter' ? 'from a signed letter or statement' : p.confidence === 'none' ? '' : 'confidence: ' + esc(p.confidence)}</span></div>
       <p>${esc(p.summary)}</p>
       ${ev.length ? `<div class="src">${ev.map(e => `<div>• <a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>${e.date ? ` <span class="muted">(${fmtDate(e.date)})</span>` : ''}</div>`).join('')}</div>` : ''}
       <p class="small"><a href="#/member/${m.id}">Full profile and all sources</a></p>`;
@@ -296,7 +296,7 @@
       $('thead', host).innerHTML = `<tr>${cols.map(([k, l]) => `<th data-k="${k}" class="${TSTATE.sort === k ? 'sorted' : ''}" title="Sort by ${esc(l)}">${esc(l)}<span class="arrow">${TSTATE.sort === k ? (TSTATE.dir === 1 ? '▲' : '▼') : '↕'}</span></th>`).join('')}</tr>`;
       host.querySelectorAll('th').forEach(th => th.onclick = () => { if (TSTATE.sort === th.dataset.k) TSTATE.dir = -TSTATE.dir; else { TSTATE.sort = th.dataset.k; TSTATE.dir = 1; } draw(); });
       $('tbody', host).innerHTML = rows.map(m => `<tr>
-        <td class="member"><div class="mcell">${photo(m)}<div><div class="nm"><a href="#/member/${m.id}">${esc(m.name)}</a> ${partyChip(m)}</div><div class="sub">${esc(title(m))} · ${m.chamber} · since ${m.first_term}</div></div></div></td>
+        <td class="member"><div class="mcell">${photo(m)}<div><div class="nm"><a href="#/member/${m.id}">${esc(m.name)}</a> ${partyChip(m)}${m.pacs && m.pacs.length ? ` <span class="pacmark" title="AI super PAC money in this member's race: ${esc(m.pacs.map(p => (p.kind === 'supported' ? 'backed by ' : 'targeted by ') + p.pac).join('; '))}">$</span>` : ''}</div><div class="sub">${esc(title(m))} · ${m.chamber} · since ${m.first_term}</div></div></div></td>
         <td class="nowrap">${esc(seatShort(m))}</td>
         ${DIMS().map(d => `<td>${chip(m, d, { short: true })}</td>`).join('')}
         <td><span class="act ${m.activity.level}" title="${esc(ACT_DESC[m.activity.level])}: ${m.activity.n_bills_119} related bills this Congress, ${m.activity.n_sponsored_119} sponsored">${m.activity.level}</span></td>
@@ -338,6 +338,7 @@
           ${m.signature ? `<p class="sig">${esc(m.signature)}</p>` : '<p class="sig muted">No notable public AI activity found beyond the record below.</p>'}
           ${m.quote ? `<blockquote>${esc(m.quote.text)}<cite>${m.quote.date ? fmtDate(m.quote.date) + ' · ' : ''}<a href="${esc(m.quote.url)}" target="_blank" rel="noopener">source</a></cite></blockquote>` : ''}
           ${m.groups && m.groups.length ? `<div class="pill-row small">${m.groups.map(g => `<span class="act">${esc(g)}</span>`).join('')}</div>` : ''}
+          ${m.pacs && m.pacs.length ? `<div class="pacbox"><strong>AI money in their race:</strong><ul class="small">${m.pacs.map(p => `<li><span class="pk ${p.kind}">${p.kind === 'supported' ? 'Backed by' : 'Targeted by'}</span> <strong>${esc(p.pac)}</strong>${p.agenda ? ` <span class="muted">(${esc(p.agenda)})</span>` : ''}: ${esc(p.detail)} ${p.url ? `<a href="${esc(p.url)}" target="_blank" rel="noopener">source</a>` : ''}</li>`).join('')}</ul></div>` : ''}
           ${m.committees.length ? `<details><summary>Committees (${m.committees.length})</summary><ul class="small">${m.committees.map(c => `<li>${esc(c)}</li>`).join('')}</ul></details>` : ''}
         </div>
       </section>
@@ -353,7 +354,7 @@
   function posCard(m, d) {
     const p = m.positions[d.key];
     const ev = p.evidence || [];
-    const conf = p.score == null ? '' : p.basis === 'record' ? 'Based on bill record only, no statements found' : `Confidence: ${p.confidence}`;
+    const conf = p.score == null ? '' : p.basis === 'record' ? 'Based on bill record only, no statements found' : p.basis === 'letter' ? 'Based on a signed letter or public statement' : `Confidence: ${p.confidence}`;
     return `<div class="pos"><h3><span>${esc(d.label)}</span>${chip(m, d, { lg: true })}</h3>
       <div class="conf">${esc(conf)}</div>
       <p class="summary">${esc(p.summary)}</p>
@@ -408,6 +409,8 @@
       <table><thead><tr><th>Question</th><th>Teal end</th><th>Orange end</th></tr></thead><tbody>${DIMS().map(d => `<tr><td><strong>${esc(d.label)}</strong><br><span class="small muted">${esc(d.question)}</span></td><td>${esc(d.scale['-2'])}</td><td>${esc(d.scale['2'])}</td></tr>`).join('')}</tbody></table>
       <h2>Two kinds of labels</h2>
       <p>A solid chip means we found the member's own words or a signed letter, and a fact-checker opened the source to confirm it. A dashed chip marked <span class="chip record" data-s="-1">record <span class="basis-tag">record</span></span> means we found no statements, so the label rests only on which bills they sponsored or cosponsored. Bill records come straight from congress.gov, but signing a bill is a weaker signal than a speech, so treat those labels as a lean, not a conviction.</p>
+      <h2>AI money</h2>
+      <p>A <span class="pacmark">$</span> next to a name means an AI-industry or AI-safety super PAC has spent money for or against that member, according to Federal Election Commission filings and press reports. The biggest players are Leading the Future (funded by Andreessen Horowitz, OpenAI's Greg Brockman and Joe Lonsdale, which opposes state AI laws) and Public First Action (funded largely by Anthropic, which backs safeguards). Money is context, not a position: members do not control who spends on their behalf.</p>
       <h2>Activity levels</h2>
       <ul>${Object.entries(ACT_DESC).map(([k, v]) => `<li><span class="act ${k}">${k}</span> ${esc(v)}.</li>`).join('')}</ul>
       <h2>Sources</h2>
@@ -423,7 +426,7 @@
         <li>Members change their minds, and Congress moves fast. Data was gathered up to ${fmtDate(D.generated)}.</li>
         <li>A member with no statements is not necessarily uninterested. Rank-and-file members often vote and cosponsor without giving speeches. That is why the record-only labels exist.</li>
         <li>Summaries compress nuance. Always read the linked source before quoting a member.</li>
-        <li>Two House seats were vacant when this was built, so ${D.members.length} members are listed rather than 541.</li>
+        <li>Two House seats (Florida's 20th and Texas's 23rd) were vacant when this was built, so ${D.members.length} members are listed rather than 541.</li>
       </ul>
       <h2>Report an error</h2>
       <p>If a position is wrong, missing, or out of date, open an issue on the project's GitHub page with a link to the source. Corrections with a primary source get fixed first.</p>
