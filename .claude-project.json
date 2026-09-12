@@ -1,0 +1,19 @@
+{
+    "type": "python",
+    "verify_command": "./verify.sh",
+    "deep_verify_command": "./deep-verify.sh",
+    "test_after_edit": "",
+    "deploy_url": "",
+    "browser_qa_command": "",
+    "critical_files": [],
+    "review_checklist": [
+        "Run the main user flow end-to-end — does it complete without errors?",
+        "Read the actual output — would Emerson immediately see something wrong?",
+        "Trace one UI→backend data path: does the parameter arrive in server logs?",
+        "Check for JS/frontend runtime errors (not just syntax)",
+        "Test at realistic scale (not toy inputs)",
+        "Verify output actually exists (files on disk, DB records written)",
+        "MANDATORY for web apps: Open deployed URL in Chrome MCP and verify page renders correctly"
+    ],
+    "notes": []
+}
