@@ -1,0 +1,602 @@
+[
+{
+"bioguide": "B001236",
+"name": "John Boozman",
+"signature": "Low-profile on AI: the Senate Agriculture chairman treats AI mainly as a farm productivity tool, backs kids' online safety and anti-Big-Tech-bias bills, and wants more power generation to win the AI race.",
+"notable_quote": {
+"text": "However, while AI holds great potential, we should ask tough questions about the potential risks. New regulations may be needed to ensure that consumers are kept safe, especially when it comes to the use of applications that handle sensitive data.",
+"url": "https://www.boozman.senate.gov/public/index.cfm/2023/11/boozman-opening-statement-at-hearing-on-leveraging-technology-and-ai-in-agriculture",
+"date": "2023-11-14"
+},
+"groups": [
+"Chairman, Senate Committee on Agriculture, Nutrition, and Forestry (119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "No statement on Arkansas data centers was found. As a senior Environment and Public Works member he led a letter asking EPA to repeal Biden-era power plant rules so the country has cheaper, more reliable electricity to win the AI race. That points toward building more power for AI, but he has not spoken to the data centers themselves or to ratepayer impacts.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Boozman, Capito lead EPW Republicans' letter backing EPA repeal of Clean Power Plan 2.0",
+"url": "https://www.boozman.senate.gov/public/index.cfm/2025/9/boozman-capito-support-efforts-to-promote-energy-reliability-and-security",
+"date": "2025-09-24",
+"quote": "Our nation currently needs more reliable and affordable electricity to power our economy, maintain our economic competitiveness, and win the Artificial Intelligence race.",
+"what_it_shows": "He ties power plant deregulation to the AI race, a pro-supply stance, without addressing data centers or who pays for new generation."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "low",
+"summary": "His only extended remarks on AI came at a 2023 Agriculture hearing he led. He praised AI's promise for farming, said tough questions about risks are needed and new consumer protection rules may be warranted, but also asked whether America's traditional light-touch approach should continue. He has not taken a side since.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement: Senate Agriculture hearing on leveraging technology and AI in agriculture",
+"url": "https://www.boozman.senate.gov/public/index.cfm/2023/11/boozman-opening-statement-at-hearing-on-leveraging-technology-and-ai-in-agriculture",
+"date": "2023-11-14",
+"quote": "However, while AI holds great potential, we should ask tough questions about the potential risks. New regulations may be needed to ensure that consumers are kept safe, especially when it comes to the use of applications that handle sensitive data.",
+"what_it_shows": "He is open to new AI rules for consumer safety and data, an undecided rather than hands-off stance."
+},
+{
+"type": "hearing",
+"title": "Opening statement: same hearing, on the light-touch tradition",
+"url": "https://www.boozman.senate.gov/public/index.cfm/2023/11/boozman-opening-statement-at-hearing-on-leveraging-technology-and-ai-in-agriculture",
+"date": "2023-11-14",
+"quote": "Since the beginning of the technological revolution, America exercised a light-touch approach toward regulating this budding industry while others like Europe took a different approach. We must determine if that approach is appropriate when it comes to regulating AI",
+"what_it_shows": "He frames the light-touch model as an open question for AI, which is why the stance reads as mixed."
+},
+{
+"type": "other",
+"title": "KATV: Boozman visits Little Rock Real-Time Crime Center, secured $5.5 million for AI-powered Arkansas Criminal Intelligence Network",
+"url": "https://katv.com/news/local/ai-powered-arkansas-criminal-intelligence-network-set-to-change-game-for-law-enforcement-john-boozman-heath-helton-lrpd-casey-clark-pulaski-county-chief-investigations-little-rock-police-real-time-crime-center",
+"date": "2026-05-07",
+"quote": null,
+"what_it_shows": "He champions government adoption of AI tools for police data sharing, a sign he sees AI as useful rather than dangerous, though it says nothing about regulating AI developers."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "He backs targeted rules on tech companies: he cosponsors the Kids Online Safety Act, cosponsored the RESTRICT Act aimed at Chinese apps like TikTok, and co-led a 2022 Republican bill to stop Big Tech email filters from burying political campaign messages. He has not called for break-ups or repealing Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (S.1748), joined 2025-12-15",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-12-15",
+"quote": null,
+"what_it_shows": "Supports a major bill making platforms build safety tools for kids under 17."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: RESTRICT Act (118th Congress, S.686)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-29",
+"quote": null,
+"what_it_shows": "Backed giving the government power to review and block apps and tech from rival countries such as China."
+},
+{
+"type": "statement",
+"title": "Press release: Boozman, Senate Republican leaders introduce Political BIAS Emails Act",
+"url": "https://www.boozman.senate.gov/public/index.cfm/2022/6/boozman-senate-republican-leaders-introduce-bill-targeting-political-bias-at-big-tech-companies",
+"date": "2022-06-15",
+"quote": "Americans don't need or want technology companies to censor political perspectives they might disagree with, so it's disturbing to see another indication of them doing just that.",
+"what_it_shows": "He wants accountability and transparency rules for large platforms over alleged political bias in their algorithms."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. He voted with 98 other senators to strip the 10-year state AI law moratorium from the 2025 budget bill, but that near-unanimous vote is not a statement of principle. Searches for his reaction to the moratorium, the December 2025 executive order and the March 2026 White House framework turned up nothing.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the state AI law moratorium from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote to remove the moratorium; because almost every senator voted the same way, it does not show a considered view on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of September 2026. He has cosponsored no chip bills and no statements, letters or interviews on the topic surfaced in searches of his site and news coverage.",
+"evidence": []
+}
+},
+"search_notes": "About 12 Google News queries (AI, data centers, electricity/ratepayers, chatbots/KOSA, Big Tech/Section 230, chips/export controls, preemption, TikTok, Google West Memphis, AI agriculture, Political BIAS Act) plus a Wayback listing of boozman.senate.gov and fetches of the 2023 AI hearing statement, the 2025 EPA letter release, the 2022 Political BIAS Emails Act release and the 2024 Washington Times infrastructure op-ed (no AI content). Direct fetches of senate.gov return 403 so pages were read via Wayback copies; Wayback was intermittently unreachable during the session. Google News URL decoding failed mid-session, so some local headlines (e.g. Congressional Youth Cabinet, farm bill coverage) were not opened; none looked AI-relevant. A June 2026 Finbold report of a Palantir stock purchase was read but is not a policy position and was excluded. No statements found on data centers, chips or preemption."
+},
+{
+"bioguide": "C001095",
+"name": "Tom Cotton",
+"signature": "Senate Intelligence chairman and China hawk who wrote the Chip Security Act and backs every major chip export control bill, wants data centers to build their own off-grid power so ratepayers do not pay, and treats AI as a race to win rather than a risk to slow.",
+"notable_quote": {
+"text": "Americans certainly have valid concerns about potential rising energy costs and strains on natural resources related to data centers, and we should implement common sense regulations and legislation to protect communities from adverse effects.",
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-to-doj-investigate-communist-china-influence-on-data-center-development",
+"date": "2026-06-10"
+},
+"groups": [
+"Chairman, Senate Select Committee on Intelligence (119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "He wants data centers built, calling AI infrastructure vital to national security, but on terms that keep them from raising Arkansans' electric bills. His DATA Act would let data centers build fully off-grid power plants exempt from federal utility rules, and he has pushed permitting reform and a ban on state renewable mandates. He asked DOJ to investigate whether China is behind local opposition to data centers, while conceding residents have valid concerns about costs and resources.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: DATA Act of 2026 (S.3585), exempting fully isolated consumer-regulated electric utilities serving new large loads from Federal Power Act regulation",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3585",
+"date": "2026-01-07",
+"quote": null,
+"what_it_shows": "His main data center bill: let data centers and factories build their own off-grid power free of FERC and DOE rules so they do not draw on the grid that serves homes."
+},
+{
+"type": "statement",
+"title": "Press release: Cotton introduces bill to lower energy costs for Arkansans (DATA Act of 2026)",
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-introduces-bill-to-lower-energy-costs-for-arkansans",
+"date": "2026-01-08",
+"quote": "American dominance in artificial intelligence and other crucial emerging industries should not come at the expense of Arkansans paying higher energy costs. My bill will ensure that America can continue to lead in these spaces by eliminating outdated regulations",
+"what_it_shows": "He pairs support for AI growth with a promise that ratepayers should not foot the bill, and his tool is deregulation rather than new limits."
+},
+{
+"type": "interview",
+"title": "KATV: Cotton introduces bill to shield Arkansans from data center-driven electric rate hikes",
+"url": "https://katv.com/news/local/cotton-introduces-bill-to-shield-arkansans-from-data-center-driven-electric-rate-hi-artificial-intelligence-ai-entergy-senator-tom-cotton-trump-electric-bill-power-plant-google-avaio-little-rock-meta-aws-public-service-commission-danni-hoefer-data-act",
+"date": "2026-01-15",
+"quote": "Data centers suck up a huge amount of electricity, in some cases as much as small towns.",
+"what_it_shows": "He acknowledges grid-connected data centers cause price spikes and says Trump agrees the AI race must not raise electricity prices; the Electric Cooperatives of Arkansas praised the bill."
+},
+{
+"type": "letter",
+"title": "Press release and letter: Cotton to DOJ, investigate Communist China influence on data center development",
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-to-doj-investigate-communist-china-influence-on-data-center-development",
+"date": "2026-06-10",
+"quote": "Americans certainly have valid concerns about potential rising energy costs and strains on natural resources related to data centers, and we should implement common sense regulations and legislation to protect communities from adverse effects.",
+"what_it_shows": "He calls the data center buildout vital to America's AI advantage and asks DOJ to probe China-linked funding of anti-data-center groups, while accepting that some community protections are warranted."
+},
+{
+"type": "interview",
+"title": "Fox News: Sen. Tom Cotton urges DOJ to probe Chinese bid to 'kneecap' American AI",
+"url": "https://www.foxnews.com/politics/sen-tom-cotton-urges-doj-probe-chinese-bid-kneecap-american-ai",
+"date": "2026-06-10",
+"quote": "Recent reports show that Communist China is attempting to influence our policy and public opinion on data centers. The reason is obvious: they want to kneecap our processing power to win the AI race",
+"what_it_shows": "He casts opposition to data centers as something foreign adversaries exploit, a strongly pro-buildout framing."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Ratepayer Affordability and Transparency in Energy (RATE) Act of 2026 (S.3839), preempting state renewable portfolio standards",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3839",
+"date": "2026-02-11",
+"quote": null,
+"what_it_shows": "Frames grid reliability and lower bills as reasons to override state clean energy mandates as demand grows; the bill text on govinfo confirms its purpose is preempting state climate mandates."
+},
+{
+"type": "statement",
+"title": "Press release: Cotton introduces bill to lower Arkansas energy prices (RATE Act)",
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-introduces-bill-to-lower-arkansas-energy-prices",
+"date": "2026-02-11",
+"quote": "State requirements for less reliable, renewable energy sources, shouldn't lead to higher energy costs for Arkansans. My bill would ensure those mandates don't impact energy prices",
+"what_it_shows": "His answer to rising power bills is more fossil generation and fewer state mandates, not limits on large new loads."
+},
+{
+"type": "statement",
+"title": "Press release: Cotton, Cortez Masto introduce FREEDOM Act to limit lawsuits against fully permitted energy projects",
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-cortez-masto-introduce-bill-to-accelerate-energy-projects-stalled-by-red-tape",
+"date": "2026-06-16",
+"quote": "Endless lawsuits delay vital energy projects, resulting in higher energy prices for Arkansans. My bill will eliminate bureaucratic red tape to streamline energy projects",
+"what_it_shows": "Permitting and litigation reform to speed energy projects, the supply side of the data center boom."
+},
+{
+"type": "other",
+"title": "Arkansas Times: Shoffner blasts Cotton over his DATA Act to deregulate energy for data centers",
+"url": "https://arktimes.com/arkansas-blog/2026/01/13/shoffner-blasts-cotton-over-his-data-act-to-deregulate-energy-for-data-centers",
+"date": "2026-01-13",
+"quote": "It's mere speculation whether Tom's DATA Act will lower energy costs for Arkansas families and businesses",
+"what_it_shows": "His Democratic challenger Hallie Shoffner attacked the bill as deregulation for special interests, saying the state PSC already has the tools to protect ratepayers; the data center fight is a live campaign issue."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. He treats AI as a race America must win and attacked Bernie Sanders' 'existential threat of AI' panel as a Chinese influence vector, urging Commerce to keep building the most advanced frontier models. At the same time he cosponsors the GUARD Act to keep kids away from AI companion bots, cosponsors KOSA, and his Intelligence Committee bill creates pre-deployment security testing of AI models. The AI safety group Public First Action features him in its ads as a conservative leader on AI safeguards.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release and letter: Cotton to Lutnick, combat Communist China's AI diffusion strategy",
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-to-lutnick-combat-communist-chinas-ai-diffusion-strategy",
+"date": "2026-07-30",
+"quote": "To stay ahead in the AI race, the U.S. must fully capture AI's economic and geopolitical returns, while continuing to create the most advanced frontier models.",
+"what_it_shows": "His AI agenda is winning the race and spreading American models worldwide; he warns of backdoors in Chinese open-weight models and wants a government-wide contractor ban on them, but proposes no safety rules for U.S. developers."
+},
+{
+"type": "letter",
+"title": "Letter to Acting AG Blanche on foreign influence against data centers, citing Sanders' AI risk panel",
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-to-doj-investigate-communist-china-influence-on-data-center-development",
+"date": "2026-06-10",
+"quote": "Just one month ago, Senator Bernie Sanders hosted a 75-minute panel on 'the existential threat of AI' where two of the four panelists were Chinese government affiliates.",
+"what_it_shows": "He treats the existential-risk framing of AI as something China promotes to slow the United States, a skeptical view of strict AI rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: GUARD Act (S.3062), age verification and a ban on AI companions for minors",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"date": "2025-11-20",
+"quote": null,
+"what_it_shows": "Supports binding rules on AI chatbot companies to protect children, a targeted guardrail."
+},
+{
+"type": "statement",
+"title": "Hawley press release: GUARD Act gains new cosponsors, with Cotton quote",
+"url": "https://www.hawley.senate.gov/hawley-bill-to-protect-children-from-ai-chatbots-gains-new-cosponsors/",
+"date": "2025-12-10",
+"quote": "It's too easy for our children to gain access to AI bots that produce horrific content. Our bill will require companies to use proper age verification to ensure minors don't have access to AI-generated explicit content.",
+"what_it_shows": "In his own words, he wants mandatory age checks on AI chatbots."
+},
+{
+"type": "statement",
+"title": "Press release: Senate Intelligence Committee passes FY2027 Intelligence Authorization Act (Cotton chairs the committee)",
+"url": "https://www.cotton.senate.gov/news/press-releases/senate-intelligence-committee-passes-the-intelligence-authorization-act-for-fiscal-year-2027",
+"date": "2026-05-21",
+"quote": "Establish opportunities for pre-deployment testing of AI models, helping U.S. firms protect against potential misuse of their models for foreign hacking or weapons proliferation activity",
+"what_it_shows": "His bill sets up government-backed security testing of frontier AI models before release and adds oversight of the intelligence community's use of AI, including in lethal targeting; the testing is an opportunity for firms, not a mandate."
+},
+{
+"type": "other",
+"title": "PYMNTS/CPI: Senate committee adds AI pre-testing provision to intelligence authorization bill",
+"url": "https://www.pymnts.com/cpi-posts/senate-committee-adds-ai-pre-testing-provision-to-intelligence-authorization-bill/",
+"date": "2026-05-27",
+"quote": null,
+"what_it_shows": "Reports the NSA AI Security Center would run a subsidized test-bed for outside researchers to probe how adversaries could misuse advanced models; Cotton framed the bill as returning agencies to their core mission."
+},
+{
+"type": "pac",
+"title": "Public First Action launches $15 million Conservative AI Consensus Project featuring Cotton",
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"date": "2026-07-17",
+"quote": "featuring four Republican members of Congress who have led the fight to keep America's most advanced technology out of the hands of our adversaries and to hold AI companies accountable to the people they serve",
+"what_it_shows": "The Anthropic-backed AI safety group is spending on ads promoting Cotton alongside Hawley, Moody and Donalds; the Washington Examiner described the effort as supporting Republicans who backed AI guardrails."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (S.1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "Backs a duty of care for platforms toward minors, consistent with his kids-first approach to tech and AI rules."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "He backs targeted rules aimed at kids' safety and Chinese-linked technology: he cosponsors KOSA, the STOP CSAM Act, the GUARD Act and the Connected Vehicle Security Act, cosponsored the Protecting Kids on Social Media Act in the last Congress, and personally blocked Senate attempts to extend TikTok's divest-or-ban deadline, calling TikTok a Chinese spy app that harms kids. He has not pushed break-ups or Section 230 repeal.",
+"evidence": [
+{
+"type": "statement",
+"title": "Floor speech: Cotton again blocks Democrats' attempt to extend TikTok ban deadline",
+"url": "https://www.cotton.senate.gov/news/speeches/icymicotton-again-blocks-democrats-attempt-to-extend-tiktok-ban-deadline",
+"date": "2025-04-09",
+"quote": "TikTok addicts our kids, harvests their data, exposes them to pedophiles, and promotes harmful and manipulative content, including vile antisemitic videos.",
+"what_it_shows": "He objected on the floor to changing the TikTok law and warned investors Congress would not protect any deal that leaves China with influence over the algorithm."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (S.1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "Supports the leading kids' online safety bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: STOP CSAM Act of 2025 (S.1829)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2026-06-15",
+"quote": null,
+"what_it_shows": "Would let victims sue platforms that fail to remove child sexual abuse material, a carve-out from platform immunity."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (S.4429)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-05-14",
+"quote": null,
+"what_it_shows": "Would ban connected car technology from China, Russia, Iran and North Korea, part of his China-focused tech restrictions."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Kids on Social Media Act (118th Congress, S.1291)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1291",
+"date": "2023-04-26",
+"quote": null,
+"what_it_shows": "Earlier support for age verification and limits on algorithmic feeds for teens."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting state AI laws. He voted with 98 colleagues to strip the moratorium from the 2025 budget bill, and no statement was found on the moratorium, the December 2025 executive order or the March 2026 White House framework. His RATE Act would preempt state renewable energy mandates, but that is energy law, not AI law.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the state AI law moratorium from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote after the deal collapsed; the vote alone does not reveal his view on preemption."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "He is among the Senate's leading chip hawks. He wrote the Chip Security Act requiring location verification on exported AI chips, cosponsors the GAIN AI Act, the SAFE Chips Act to lock in limits on chips like the H200, and the AI OVERWATCH Act, and has written Commerce repeatedly demanding tougher enforcement against smuggling through Malaysia and strict controls on advanced compute and chipmaking tools.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: Chip Security Act (S.1705)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2025-05-08",
+"quote": null,
+"what_it_shows": "His bill would require export-controlled advanced chips to carry location verification so they cannot be diverted to China."
+},
+{
+"type": "statement",
+"title": "Press release: Cotton introduces Chip Security Act to prevent diversion of advanced chips to adversaries",
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-introduces-bill-to-prevent-diversion-of-advanced-chips-to-americas-adversaries-and-protect-us-product-integrity",
+"date": "2025-05-08",
+"quote": "We must do better at maintaining and expanding our position in the global market, while safeguarding America's technological edge. With these enhanced security measures, we can continue to expand access to U.S. technology without compromising our national security",
+"what_it_shows": "He wants tighter security on exported chips, while saying better tracking could allow more sales to trusted countries."
+},
+{
+"type": "letter",
+"title": "Press release and letter: Cotton to Lutnick, combat Communist China's AI diffusion strategy",
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-to-lutnick-combat-communist-chinas-ai-diffusion-strategy",
+"date": "2026-07-30",
+"quote": "First, we should continue to deny Communist China the frontier and limit its ability to serve customers on a global scale by enacting and enforcing strict export controls on advanced compute and semiconductor manufacturing equipment.",
+"what_it_shows": "Calls for strict controls on both AI chips and chipmaking equipment, plus a ban on federal contractors using Chinese AI models."
+},
+{
+"type": "letter",
+"title": "Press release and letter: Cotton to Lutnick, now is the time to preserve American AI dominance (chip smuggling through Malaysia)",
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-to-lutnick-now-is-the-time-to-preserve-american-ai-dominance",
+"date": "2025-10-30",
+"quote": "Chip diversion undermines American AI leadership and propels the growth of China's domestic AI industry.",
+"what_it_shows": "Asked Commerce to help Malaysia screen data center owners for Chinese ties and to deploy anti-diversion technology on chips shipped there."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: GAIN AI Act of 2025 (S.3150)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3150",
+"date": "2025-11-06",
+"quote": null,
+"what_it_shows": "Would make chipmakers offer advanced AI chips to American buyers before shipping them to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: SAFE Chips Act of 2025 (S.3374)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3374",
+"date": "2025-12-04",
+"quote": null,
+"what_it_shows": "Would lock in current limits on advanced chip sales to China for 30 months so the White House cannot loosen them alone."
+},
+{
+"type": "other",
+"title": "Al Jazeera/Reuters: US senators unveil bill to keep Trump from allowing AI chip sales to China",
+"url": "https://www.aljazeera.com/economy/2025/12/4/us-senators-unveil-bill-to-keep-trump-from-allowing-ai-chip-sales-to-china",
+"date": "2025-12-04",
+"quote": null,
+"what_it_shows": "Coverage names Cotton, described as a prominent Republican China hawk, among the sponsors of the bill to block loosening of Nvidia chip export rules, introduced days before Trump approved H200 sales."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI OVERWATCH Act (S.4456)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4456",
+"date": "2026-04-30",
+"quote": null,
+"what_it_shows": "Would give Congress a say before advanced AI chips can be sold to China and other risky countries."
+},
+{
+"type": "letter",
+"title": "Quiver Quantitative summary of press release: Cotton and Huizenga urge Lutnick to implement Chip Security Act anti-diversion measures after smuggling indictments",
+"url": "https://www.quiverquant.com/news/Press+Release%3A+Cotton+and+Huizenga+Urge+Secretary+Lutnick+for+Enhanced+Export+Controls+on+AI+Chips",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "The lead sponsors asked Commerce to start requiring location verification administratively; only a third-party summary of the release could be opened, so no quote is given."
+}
+]
+}
+},
+"search_notes": "About 16 Google News queries (AI, data centers, Nvidia/H20/H200/export controls, chatbots/GUARD Act, preemption/state AI laws, Big Tech/Section 230/antitrust, Anthropic/AI safety, deepfakes, Shoffner/DATA Act, Intelligence Authorization AI, Lutnick letters, RATE Act, TikTok, Google antitrust) plus a Wayback listing of cotton.senate.gov (199 matching URLs). Opened and read: his DATA Act, RATE Act, FREEDOM Act, natural gas permitting, Chip Security Act, DOJ letter, two Lutnick letters, SSCI FY2027 IAA and TikTok floor speech pages (via Wayback since senate.gov blocks direct fetches and Wayback was intermittently down); govinfo texts of S.3585 and S.3839; KATV, Utility Dive, MeriTalk, Reason, AEI, Fox News, Broadband Breakfast, Arkansas Times (two), Arkansas Democrat-Gazette (Feb 19 and Feb 27, 2026), PYMNTS, Al Jazeera, Public First Action, Washington Examiner, Hawley GUARD Act release, Banking Committee GAIN AI release. Could not open: the Ricketts SAFE Chips release (his quote there is unverified), the Cotton-Huizenga letter itself (only a Quiver AI summary), the KARK and Washington Times DOJ-letter stories, and his 2020 Google antitrust statement. No statement found on preemption of state AI laws; the Public First Action release's reference to keeping preemption out of the NDAA applies to 12 House members, not Cotton."
+},
+{
+"bioguide": "C001087",
+"name": "Eric A. \"Rick\" Crawford",
+"signature": "House Intelligence chairman who frames AI purely as a race with China: wants the U.S. to reach self-improving AI first, cosponsors every major chip export control bill, and attacked Bernie Sanders' anti-AI push as a national security threat.",
+"notable_quote": {
+"text": "Frontier labs may soon achieve self-improving AI, and the U.S. must reach this threshold first to secure economic and national security dominance and potentially enjoy an enduring advantage over our adversaries.",
+"url": "https://intelligence.house.gov/2025/07/29/crawford-the-global-ai-race-is-moving-much-faster-than-many-think/",
+"date": "2025-07-29"
+},
+"groups": [
+"Chairman, House Permanent Select Committee on Intelligence (119th Congress)",
+"Chairman, HPSCI Subcommittee on the CIA (118th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "He supports the AI infrastructure buildout as a national security need, saying the U.S. must out-compute China, and he attacked Bernie Sanders, who wants a data center moratorium, as a threat to national security. But he also says state and local governments must weigh a project's energy and water use, grid integration, investors and proximity to critical infrastructure before approving it.",
+"evidence": [
+{
+"type": "interview",
+"title": "Arkansas Democrat-Gazette: Arkansas politicians weigh in on data center development",
+"url": "https://www.arkansasonline.com/news/2026/feb/27/arkansas-politicians-weight-in-on-data-center/",
+"date": "2026-02-27",
+"quote": "how much energy and water the center uses, how integrated it is with our energy grid, who is investing in it and how close it is to other critical infrastructure are all important national security questions",
+"what_it_shows": "He describes a global arms race for data but wants state and local governments to vet each project's energy, water, grid and security questions, a build-with-conditions stance."
+},
+{
+"type": "statement",
+"title": "HPSCI press release: Crawford, the global AI race is moving much faster than many think",
+"url": "https://intelligence.house.gov/2025/07/29/crawford-the-global-ai-race-is-moving-much-faster-than-many-think/",
+"date": "2025-07-29",
+"quote": "the U.S. must win this AI race, and the fundamental pillar for success is out-computing our adversary",
+"what_it_shows": "He ties national security to building more computing capacity, the demand driver behind data centers."
+},
+{
+"type": "interview",
+"title": "New York Post: House Intel chief blasts Bernie Sanders as 'a threat to national security' over anti-AI crusade",
+"url": "https://nypost.com/2026/04/29/us-news/house-intel-chief-blasts-bernie-sanders-as-a-threat-to-national-security-over-anti-ai-crusade/",
+"date": "2026-04-29",
+"quote": null,
+"what_it_shows": "On Fox Business he called Sanders a threat to national security for his anti-AI campaign; the article notes Sanders has pushed a moratorium on AI data centers, so Crawford is positioned against pausing construction."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "high",
+"summary": "He sees AI as a race the U.S. must win, not a danger to slow down. He wants American frontier labs to reach self-improving AI before China, moved his committee's bill to expand the intelligence community's use of frontier AI models, and ridiculed Sanders' panel on the existential threat of AI with Chinese scientists. His concern about AI risk is limited to adversaries using it and to securing U.S. systems, through the NSA AI Security Center and the AI Security and Innovation Act.",
+"evidence": [
+{
+"type": "statement",
+"title": "HPSCI press release: Crawford, the global AI race is moving much faster than many think",
+"url": "https://intelligence.house.gov/2025/07/29/crawford-the-global-ai-race-is-moving-much-faster-than-many-think/",
+"date": "2025-07-29",
+"quote": "Frontier labs may soon achieve self-improving AI, and the U.S. must reach this threshold first to secure economic and national security dominance and potentially enjoy an enduring advantage over our adversaries.",
+"what_it_shows": "He treats self-improving AI as a prize to reach first rather than a risk to manage, after a closed briefing with industry experts."
+},
+{
+"type": "interview",
+"title": "Talk Business & Politics: U.S. Rep. Crawford on budget bills, tariffs and AI",
+"url": "https://talkbusiness.net/2025/08/u-s-rep-crawford-on-budget-bills-tariffs-and-ai/",
+"date": "2025-08-03",
+"quote": "Artificial intelligence can certainly be a game changer and we need to be on the leading edge to be competitive with countries like China who are quickly adopting AI technology",
+"what_it_shows": "Innovation-and-China-first framing; he raised no call for new rules on AI developers."
+},
+{
+"type": "interview",
+"title": "New York Post: House Intel chief blasts Bernie Sanders as 'a threat to national security' over anti-AI crusade",
+"url": "https://nypost.com/2026/04/29/us-news/house-intel-chief-blasts-bernie-sanders-as-a-threat-to-national-security-over-anti-ai-crusade/",
+"date": "2026-04-29",
+"quote": "America-last Senator Sanders is a guy that has a history of embracing communism visiting the Soviet Union",
+"what_it_shows": "He attacked Sanders' AI-risk panel featuring Chinese government-linked scientists as undermining U.S. security, casting the existential-risk debate as pro-China."
+},
+{
+"type": "statement",
+"title": "HPSCI press release: House Intelligence Committee passes FY2027 Intelligence Authorization Act",
+"url": "https://intelligence.house.gov/2026/07/20/house-intelligence-committee-passes-fy2027-intelligence-authorization-act-out-of-committee/",
+"date": "2026-07-20",
+"quote": "This year's IAA balances strong transparency and accountability measures while equipping the IC with the resources needed to combat the ever-evolving threats from our adversaries around the world, with a particularly strong focus on the global AI race",
+"what_it_shows": "His bill sharply increases funding for frontier AI models in intelligence and cyber missions, creates an IC Chief AI Officer, codifies the NSA AI Security Center and requires more sharing on AI threats and safety; the safety work is about securing U.S. systems, not regulating developers."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI Security and Innovation Act (H.R.9363)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9363",
+"date": "2026-07-14",
+"quote": null,
+"what_it_shows": "Supports federal work on making AI systems secure while keeping American AI innovation moving, a security-first rather than regulatory approach."
+},
+{
+"type": "hearing",
+"title": "Opening statement: HPSCI hearing on persistent competition and legacy national security architecture",
+"url": "https://intelligence.house.gov/2026/09/02/chairman-crawford-opens-full-committee-hearing-examining-persistent-competition-legacy-national-security-architecture/",
+"date": "2026-09-02",
+"quote": "Foreign intelligence services increasingly collude with cartels, criminals, and hackers to destabilize the West, and AI is accelerating their reach",
+"what_it_shows": "When he talks about AI danger it is about adversaries using AI against the U.S., which he answers with more intelligence capability."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His only clear tech rule position is on Chinese-controlled apps: he voted for and praised the 2024 law forcing TikTok's sale, saying Congress has a duty to protect Americans' data from the Chinese Communist Party. No positions found on kids' online safety bills, Section 230, privacy law or antitrust.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Chairman of CIA Subcommittee Rep. Crawford comments on passage of TikTok bill (H.R. 7521)",
+"url": "https://crawford.house.gov/posts/chairman-of-cia-subcommittee-rep-crawford-comments-on-passage-of-tiktok-bill",
+"date": "2024-03-13",
+"quote": "It is the duty of Congress to ensure that Americans are protected by the appropriate regulatory laws against foreign adversaries, like the CCP.",
+"what_it_shows": "He backs a targeted rule forcing divestiture of a foreign-adversary-controlled app over biometric and location data concerns."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. He did not sign the November 2025 Matsui letter or the December 2025 Clarke letter, is not part of the House GOP leadership statement of March 2026, and no statement on the state AI law moratorium, the December 2025 executive order or the March 2026 framework surfaced in searches.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "He wants tight chip export controls. He cosponsors the Chip Security Act, the GAIN AI Act, the AI OVERWATCH Act, the Stop Stealing our Chips Act and the Deterring American AI Model Theft Act, and says vigorous export controls are critical to stymie China and DeepSeek.",
+"evidence": [
+{
+"type": "statement",
+"title": "HPSCI press release: Crawford, the global AI race is moving much faster than many think",
+"url": "https://intelligence.house.gov/2025/07/29/crawford-the-global-ai-race-is-moving-much-faster-than-many-think/",
+"date": "2025-07-29",
+"quote": "vigorous export controls that maintain the U.S. infrastructure lead are critical for stymying China's advance while slowing DeepSeek's ability to use U.S. hardware to compete against us",
+"what_it_shows": "In his own words, export controls are central to winning the AI race."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Chip Security Act (H.R.3447)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "Would require location tracking on advanced AI chips to catch smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: GAIN AI Act of 2025 (H.R.5885)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5885",
+"date": "2025-11-18",
+"quote": null,
+"what_it_shows": "Would make chipmakers offer advanced AI chips to American buyers before selling to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI OVERWATCH Act (H.R.6875)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Would give Congress power to block advanced AI chip sales to China and other risky countries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Stop Stealing our Chips Act (H.R.6322)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6322",
+"date": "2026-04-21",
+"quote": null,
+"what_it_shows": "Would pay and protect whistleblowers who report export control violations."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Deterring American AI Model Theft Act of 2026 (H.R.8283)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"date": "2026-04-21",
+"quote": null,
+"what_it_shows": "Would punish foreign companies, especially in China, that steal or copy American AI models."
+}
+]
+}
+},
+"search_notes": "About 12 Google News queries (AI, data centers, chips/Nvidia/export controls, Sanders/AI, deepfakes/chatbots/KOSA, TikTok/Big Tech/Section 230, preemption/moratorium, AI Security and Innovation Act/autonomous weapons, Chairman Crawford AI, Google West Memphis) plus site searches of intelligence.house.gov and crawford.house.gov. Opened and read: HPSCI releases of July 29 2025 (AI race), Sept 10 and Dec 10 2025 (FY26 IAA, no AI content), July 20 2026 (FY27 IAA), hearing statements of March 19, July 21, Aug 31 and Sept 2, 2026; the Arkansas Democrat-Gazette Feb 27 2026 article (fetched with a crawler user agent because the normal fetch returned only navigation); New York Post April 29 2026; Talk Business Aug 3 2025; Federal News Network and CyberScoop July 2026 IAA coverage; his March 2024 TikTok statement via Wayback. Could not open: Fox News video segments from May 24 and Sept 8 2026 on autonomous weapons and AI threats, the HuffPost version of the Sanders story, and a 2022 post applauding an FCC call to block TikTok. Note the New York Post's line about the 'real threat to AI safety' is Treasury Secretary Bessent's, not Crawford's, and was not attributed to him. No preemption or kids-online-safety positions found."
+}
+]

@@ -1,0 +1,526 @@
+[
+{
+"bioguide": "L000577",
+"checks": [
+{
+"url": "https://www.eenews.net/articles/data-center-energy-bill-hits-speed-bump/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-25",
+"note": "Page quotes ENR Chair Lee verbatim: 'I don't currently have that identified as a priority,' and that he is 'happy to look at' the Ratepayer Protection Act."
+},
+{
+"url": "https://www.eenews.net/articles/data-center-lobby-grumbles-about-reworked-ratepayer-protection-act-2/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Verbatim: Lee said he had not been following the Ratepayer Protection Act but data center energy concerns were 'coming up in some of our conversations about permitting reform.' The 'build faster rather than new limits' framing is the tracker's inference, not the article's."
+},
+{
+"url": "https://www.eenews.net/articles/ferc-focus-on-affordability-at-center-of-hearing/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Quote appears verbatim, attributed to ENR Chair Lee, in an article about FERC's order to grid operators on data center rates. URL redirects to a '-2' slug."
+},
+{
+"url": "https://www.energy.senate.gov/2025/11/lee-heinrich-back-doe-proposal-requiring-ferc-action-on-large-load-grid-connections",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-18",
+"note": "Reached via Wayback (May 2026 capture). Release confirms Lee and Heinrich issued a bipartisan letter supporting FERC taking up DOE's Section 403 proposal on large-load and new-generation interconnection; Lee's statement stresses keeping affordability at the forefront and respecting state authority. The item's 'page was blocked' caveat can be dropped."
+},
+{
+"url": "https://www.eenews.net/articles/senate-lawmakers-debate-ideas-for-grid-upgrades/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-26",
+"note": "Article says Lee 'urged caution against \"overbuilding\" such infrastructure' in the context of a Democratic transmission proposal tied to data center demand. Only the single word 'overbuilding' is quoted; the paywalled text is short."
+},
+{
+"url": "https://www.eenews.net/articles/mike-lee-issues-declaration-on-permitting-reform/",
+"verdict": "confirmed",
+"corrected_quote": "It's time for NEPA reform. And permitting reform more broadly.",
+"corrected_date": "2025-10-07",
+"note": "Quote verbatim from Lee's X post as reported by E&E. Article does not mention data centers itself; the link to data centers is the tracker's inference."
+},
+{
+"url": "https://www.hawley.senate.gov/hawley-bill-to-protect-children-from-ai-chatbots-gains-new-cosponsors/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-10",
+"note": "Reached via Wayback. Lee listed as new cosponsor; quote appears verbatim attributed to Senator Lee. Bill bans AI companions for minors and creates new crimes for companies, as described."
+},
+{
+"url": "https://www.lee.senate.gov/2024/6/lee-lummis-introduce-bill-to-counter-fcc-on-ai-ad-disclosures",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-06-18",
+"note": "Reached via Wayback. Quote verbatim from Lee's statement on the Ending FCC Meddling in Our Elections Act."
+},
+{
+"url": "https://www.lee.senate.gov/2025/12/pinterest-endorses-mike-lee-s-app-store-accountability-act-to-protect-kids-online",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "lee.senate.gov returns Akamai 403 on every attempt (direct and with browser UA); Wayback fallback refused connections / rate-limited (429) across five retries. Quote could not be verified. Lee's sponsorship of the App Store Accountability Act is well established elsewhere, but this specific page and quote remain unverified."
+},
+{
+"url": "https://www.hawley.senate.gov/hawley-bill-to-protect-children-from-ai-chatbots-gains-new-cosponsors/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-10",
+"note": "Quote verbatim, attributed to Senator Lee, in the same Hawley release (via Wayback)."
+},
+{
+"url": "https://www.hawley.senate.gov/hawley-bill-to-protect-children-from-ai-chatbots-gains-new-cosponsors/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-10",
+"note": "Notable quote appears verbatim as the opening of Lee's statement in the release."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "C001114",
+"checks": [
+{
+"url": "https://rollcall.com/2026/06/11/data-center-uproar-utah-congress-watching-waiting/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-11",
+"note": "Quote appears verbatim; article says Curtis called the Box Elder County data center 'a local issue' and lacked water-use data. Both Roll Call data_centers items (this and 'Most of these decisions are local' plus the LEED-style certification line 'because right now they don't trust what the AI developers are saying') are verbatim on the page, as is the notable quote (page reads 'I do think there's a potential role for Congress in certifying certain classes of AI. So, if we do a LEED gold or elite platinum building, I think a system like that would really help both the AI builders and the communities')."
+},
+{
+"url": "https://www.curtis.senate.gov/press-releases/curtis-pushes-utah-as-future-home-of-more-advanced-technologies/",
+"verdict": "confirmed",
+"corrected_quote": "U.S. Senator John Curtis (R-UT) underscored Utah's readiness to lead the next generation of artificial intelligence infrastructure while advocating for balanced energy policy and AI accessibility for small businesses.",
+"corrected_date": "2025-05-08",
+"note": "Loaded via Wayback (site 403s direct). Quote is the office's summary, nearly verbatim ('U.S. Senator John Curtis (R-UT)' rather than 'Senator Curtis'). Transcript also shows Curtis asking Altman how to protect ratepayers and 'put a little bit of a firewall between them' amid energy demand."
+},
+{
+"url": "https://www.curtis.senate.gov/press-releases/curtis-colleagues-introduce-bill-giving-parents-control-over-kids-ai-chatbot-use",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-29",
+"note": "Direct fetch 403; loaded via Wayback after retries. Quote verbatim, attributed to Curtis. Bill (CHATBOT Act, with Cruz, Schatz, Schiff) requires family accounts, limits manipulative design, requires parental consent/controls, bans targeted ads to children. Page date 2026-04-29."
+},
+{
+"url": "https://www.washingtonexaminer.com/policy/technology/4621426/senators-bipartisan-bill-safeguard-kids-ai-chatbots-self-harm-concerns/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-23",
+"note": "Article names Curtis and Schiff as authors; describes federal framework requiring child-safety-by-design, parental controls, no child-targeted advertising, and no sale/sharing of children's personal information. Article does not name the bill 'SAFE KIDS Act' in the accessible portion (paywalled beyond lede)."
+},
+{
+"url": "https://www.curtis.senate.gov/newsletters/highs-and-lows-cracking-down-on-ai-robocalls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Loaded via Wayback. Quote verbatim; newsletter names the QUIET Act as an AI-disclosure bill for robocalls. The archived text is short and does not itself mention higher fines, so that detail rests on outside knowledge of the bill."
+},
+{
+"url": "https://www.curtis.senate.gov/press-releases/curtis-kelly-introduce-algorithm-accountability-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-19",
+"note": "Loaded via Wayback. Quote verbatim, attributed to Curtis. Page describes a duty of care for recommendation algorithms to prevent foreseeable bodily injury or death and a civil right of action in federal court."
+},
+{
+"url": "https://www.curtis.senate.gov/press-releases/curtis-presses-tech-giants-on-algorithms",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-29",
+"note": "Loaded via Wayback. Quote verbatim from Curtis's question to the panel about Section 230 and algorithmic amplification."
+},
+{
+"url": "https://www.curtis.senate.gov/press-releases/curtis-calls-for-lowering-political-temperature-reforming-social-media-algorithms-at-uvu-townhall",
+"verdict": "confirmed",
+"corrected_quote": "Anybody can still post what they want—but when a company chooses to amplify or suppress content, they should own the consequences.",
+"corrected_date": null,
+"note": "Direct fetch 403; loaded via Wayback. Quote is verbatim as a fragment of the full sentence. Page confirms CNN town hall at UVU with Mark Kelly and legislation to hold companies liable when algorithms cause harm while preserving free speech. No publication date in archived text (event followed the Charlie Kirk shooting, i.e., Sept 2025)."
+},
+{
+"url": "https://www.curtis.senate.gov/press-releases/curtis-chinas-deepseek-ai-model-is-tiktok-on-steroids",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-29",
+"note": "Both items at this URL check out via Wayback. Tech_regulation contrary note: Curtis relays Silicon Slopes companies saying 'It's killing us. It's regulation and it's taxation' and asks 'how we kind of stay out of their way and let them be successful' (verbatim). China_chips: 'can we acknowledge this is TikTok on steroids, right? If we're worried about the influence of the CCP on America with TikTok, this is on steroids' is verbatim, and 'Color me skeptical' appears. Note the DeepSeek exchange is about CCP influence/accountability, not explicitly about chip export controls."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only china_chips source is the DeepSeek/TikTok exchange, which concerns CCP influence and IP theft accountability, not chip export controls. Hawkish tone supports -1 directionally, but there is no statement about export controls or chip sales; evidence is thin for this specific dimension.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+}
+]
+},
+{
+"bioguide": "M001213",
+"checks": [
+{
+"url": "https://blakemoore.house.gov/media/press-releases/representatives-moore-costa-introduce-legislation-to-study-impact-of-artificial-intelligence-in-rural-america",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-16",
+"note": "Quote verbatim in Moore's statement; release also mentions identifying rural areas, streamlining permitting, co-locating data centers with energy facilities, and 'without passing costs' language."
+},
+{
+"url": "https://www.deseret.com/politics/2026/05/07/utah-candidates-on-data-center-proposal/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-07",
+"note": "Quote verbatim. Article confirms Moore defended county commissioners against threats, did not outright endorse the project, and cited natural resources and national security."
+},
+{
+"url": "https://www.semafor.com/article/06/23/2026/how-a-data-center-backlash-is-twisting-utahs-primary",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-23",
+"note": "Quote verbatim, attributed to Moore statement about tech companies; article frames it within primary attack over Stratos."
+},
+{
+"url": "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-introduces-bipartisan-bill-protecting-children-from-ai-companion-chatbots",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Quote verbatim. Release confirms bans on AI companions for minors, non-human disclosure requirement, criminal penalties, and Hawley Senate companion."
+},
+{
+"url": "https://www.nbcnews.com/politics/congress/momentum-builds-congress-ban-ai-chatbots-kids-rcna342584",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Quote verbatim, attributed to Moore; article notes House companion introduced by Moore and Foushee the same day Senate action occurred."
+},
+{
+"url": "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-introduces-bill-to-ban-artificial-intelligence-chatbots-in-childrens-toys",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-20",
+"note": "Quote verbatim (continues '...and restrain these tools where they will negatively impact human activity...'). Release cites data privacy, addictive engagement, and explicit content exposure."
+},
+{
+"url": "https://www.notus.org/technology/republicans-trump-ai-agenda",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Redirects to washingtonsun.com. Quote verbatim, attributed to Rep. Blake Moore told NOTUS; includes the parents/phones-in-schools remark."
+},
+{
+"url": "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-reintroduces-legislation-to-bolster-american-semiconductor-randd",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-28",
+"note": "Quote verbatim. Page is about domestic R&D tax incentives (STAR Act) with bipartisan co-sponsors; the 25 percent / 10-year detail was not surfaced by grep but the quote and bill framing check out. Note: nothing on export controls."
+},
+{
+"url": "https://blakemoore.house.gov/media/press-releases/congressman-blake-moores-statement-chips-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-07-28",
+"note": "Quote verbatim; Moore opposed CHIPS+ on spending grounds ($250B package, $60B mandatory spending)."
+},
+{
+"url": "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-introduces-bipartisan-bill-protecting-children-from-ai-companion-chatbots",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Notable quote verbatim in Moore's GUARD Act statement."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "Both sources concern domestic semiconductor industrial policy (R&D tax credits, a no vote on CHIPS+ over spending). Neither addresses export controls or selling chips abroad, so there is no evidence for a 'leans hawkish' lean in either direction.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+},
+{
+"bioguide": "H001089",
+"checks": [
+{
+"url": "https://www.hawley.senate.gov/hawley-blumenthal-introduce-bill-to-prevent-data-centers-from-increasing-electricity-costs-for-americans/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-11",
+"note": "Quote verbatim (via Wayback). Release describes requiring data centers to use off-grid power sources and report electricity use; dated Feb 11, 2026."
+},
+{
+"url": "https://www.stlpr.org/government-politics-issues/2025-10-30/as-more-data-centers-come-to-missouri-hawley-says-ratepayers-shouldnt-foot-the-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-30",
+"note": "Quote verbatim. Article also quotes Gov. Kehoe and Rep. Jason Smith welcoming data centers and Hawley responding, supporting the contrast claim."
+},
+{
+"url": "https://www.hawley.senate.gov/hawley-sends-letter-to-ameren-demanding-answers-on-utility-bill-increases-data-center-deals-and-power-shut-offs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-15",
+"note": "Quote verbatim in both the release summary and the letter text to Ameren CEO Martin Lyons; letter asks about rate increases, shut-offs, data-center expansion and cost allocation."
+},
+{
+"url": "https://www.warren.senate.gov/newsroom/press-releases/warren-hawley-lead-bipartisan-push-for-mandatory-energy-use-reporting-requirements-for-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-26",
+"note": "Quote verbatim (via Wayback, direct fetch 403). Letter to EIA seeks mandatory annual reporting for data centers and other large loads."
+},
+{
+"url": "https://www.missourinet.com/2026/02/27/missouris-josh-hawley-says-major-tech-companies-should-pay-for-energy-and-water-usage-generated-by-their-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-27",
+"note": "Quote verbatim. He calls Trump's ratepayer protection pledge 'terrific' but says it should be written into law covering electricity and water."
+},
+{
+"url": "https://www.hawley.senate.gov/hawley-op-ed-ai-will-control-us-if-we-do-not-control-it/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-09",
+"note": "Quote verbatim in the op-ed's data center section; op-ed opens with the Festus, Mo. data center meeting. Free Press op-ed reposted on Senate site June 9, 2026."
+},
+{
+"url": "https://www.hawley.senate.gov/hawley-blumenthal-introduce-bipartisan-ai-evaluation-legislation-to-put-americans-first/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-29",
+"note": "Quote verbatim. Release describes a DOE risk evaluation program with mandatory participation and a prohibition on deployment until developers comply. Note: page misidentifies Blumenthal as D-Ill."
+},
+{
+"url": "https://www.hawley.senate.gov/chairman-hawley-launches-investigation-into-openai-for-hacking-existential-risk-of-ai-products/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Quote verbatim in letter to Sam Altman; Hawley writes as Chairman of the Homeland Security Subcommittee on Disaster Management investigating the July 2026 Hugging Face hack."
+},
+{
+"url": "https://rollcall.com/2026/06/02/executive-order-sets-voluntary-cyber-reviews-for-advanced-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Quote verbatim; article says Hawley expressed support for the order as a safety measure while calling for his mandatory-review bill."
+},
+{
+"url": "https://www.axios.com/2026/03/25/hawley-ai-chatbots-congress-guard-act",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-03-25",
+"note": "Quote verbatim (via Wayback). Article confirms GUARD Act push, but it does not mention the 22-0 Judiciary Committee vote, ban on AI companions for minors, or criminal penalties; those details in what_it_shows are not on this page."
+},
+{
+"url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-hawley-announce-bipartisan-framework-on-artificial-intelligence-legislation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-09-08",
+"note": "Quote verbatim. Framework calls for a licensing regime administered by an independent oversight body for sophisticated general-purpose models, plus liability and transparency."
+},
+{
+"url": "https://www.hawley.senate.gov/icymi-senator-hawley-warns-ai-threatens-the-working-man-at-natcon5",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-08",
+"note": "Quote verbatim; page also contains 'when it comes to guardrails, protecting our children should be our lodestar.'"
+},
+{
+"url": "https://www.washingtonexaminer.com/policy/technology/4652838/ai-safety-group-launches-15-million-campaign-republicans/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Article confirms Public First Action's $15M project featuring Hawley, Cotton, Moody and Donalds as Republicans who backed AI guardrails. Rest of article paywalled."
+},
+{
+"url": "https://www.hawley.senate.gov/hawley-urges-supreme-court-to-hear-section-230-case-and-clarify-scope-of-big-techs-liability/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-13",
+"note": "Quote verbatim (it is the release's paraphrase, not Hawley's direct words). Amicus brief in Doe v. X Corp. seeks civil liability for platforms knowingly hosting CSAM."
+},
+{
+"url": "https://thehill.com/policy/technology/5355684-ai-moratorium-sparks-gop-battle-over-states-rights/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-18",
+"note": "Quote verbatim; article says he was willing to introduce an amendment during vote-a-rama to eliminate the moratorium if not removed earlier."
+},
+{
+"url": "https://thehill.com/homenews/senate/5631558-hawley-ai-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "X post quoted verbatim; article notes Trump led the push for a state-preemption moratorium, supporting the break-with-Trump framing."
+},
+{
+"url": "https://www.cnbc.com/2025/12/09/trump-nvidia-china-ai-chips-gop-congress.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-09",
+"note": "Quote verbatim (preceded by 'But'). Article confirms he did not directly criticize Trump and said the president 'deserves some deference here.'"
+},
+{
+"url": "https://www.hawley.senate.gov/hawley-op-ed-ai-will-control-us-if-we-do-not-control-it/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-09",
+"note": "Notable quote appears verbatim in the op-ed's closing section."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "Only one source, and in it Hawley explicitly deferred to Trump on the H200 deal ('he deserves some deference here') rather than calling for tightened controls or any legislation. Evidence supports a hawkish lean but is thin for the strongest score.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+}
+]
+},
+{
+"bioguide": "S001227",
+"checks": [
+{
+"url": "https://startlandnews.com/2025/10/eric-schmitt-ai-tech/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-16",
+"note": "data_centers item: quote verbatim; article (Oct 16, 2025, Taylor Wilmore) has Schmitt saying energy needs will be 'astronomically higher' and pointing to small modular nuclear reactors. No mention of ratepayers."
+},
+{
+"url": "https://startlandnews.com/2025/10/eric-schmitt-ai-tech/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-16",
+"note": "ai_risk item: quote verbatim; preceded by his point that big tech companies should not block out 'little tech' innovators. Framing is innovation/competition vs China."
+},
+{
+"url": "https://www.schmitt.senate.gov/media/press-releases/senator-schmitt-introduces-amendment-to-limit-the-ntias-ability-to-fund-orwellian-algorithmic-justice-bureaucracy-hidden-in-governmen",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-08",
+"note": "Quote verbatim via Wayback (site blocks direct fetch). Release dated March 8, 2024."
+},
+{
+"url": "https://www.schmitt.senate.gov/news/in-the-news/senate-republicans-accuse-fcc-of-being-de-facto-arm-of-biden-campaign-for-advancing-election-year-ai-advertising-regulations",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2024-06-06",
+"note": "Page exists on his site (In the News, June 6, 2024) but the body is only the headline plus a 'Read on Breitbart' link; it does not itself name Schmitt or say he signed the letter. It shows he chose to highlight the story, nothing more."
+},
+{
+"url": "https://www.schmitt.senate.gov/media/press-releases/senator-schmitt-questions-witnesses-about-the-dangers-posed-by-excessive-screentime-social-media-algorithms-to-americas-youth",
+"verdict": "confirmed",
+"corrected_quote": "when social media companies become publishers, not platforms, they should lose that Section 230 protection. There's not really been a hammer behind that.",
+"corrected_date": "2026-01-15",
+"note": "Fetched via Wayback after direct 403. Quote is verbatim (fragment of a longer sentence); he also said he hopes for 'broad bipartisan agreement' on the kids aspect. Release dated January 15, 2026. Note his 230 framing is the publisher-vs-platform (censorship) angle."
+},
+{
+"url": "https://www.schmitt.senate.gov/media/press-releases/senator-schmitt-renews-bipartisan-push-to-support-ai-cloud-computing-innovation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-16",
+"note": "Fetched via Wayback. Quote verbatim, attributed to Schmitt; bill introduced with Sen. Warren; release says it targets a small group of companies dominating DoD AI/cloud awards. Dated May 16, 2025."
+},
+{
+"url": "https://techpolicy.press/transcript-senate-commerce-hearing-on-30-years-of-section-230",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Quote verbatim, spoken by Sen. Eric Schmitt (R-Mo.) to Daphne Keller; his line of questioning is about government censorship outsourced to platforms and Stanford Internet Observatory. Transcript published March 19, 2026."
+},
+{
+"url": "https://rollcall.com/2026/06/18/ai-deepfakes-bill-advanced-by-senate-judiciary-committee/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-18",
+"note": "Article names Schmitt among Padilla, Cruz and Lee as senators who 'noted their concerns' about free speech on the NO FAKES Act, which advanced by voice vote. No direct Schmitt quote in the piece; only Lee is quoted."
+},
+{
+"url": "https://startlandnews.com/2025/10/eric-schmitt-ai-tech/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-16",
+"note": "preemption item: quote verbatim; article says 'Schmitt agreed that consistent federal oversight is key' and he adds the Kansas/Missouri line."
+},
+{
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-leads-letter-to-commerce-secretary-lutnick-calling-for-imminent-reform-to-biden-ai-diffusion-rule/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-14",
+"note": "Fetched via Wayback. Quote verbatim from the letter; Eric Schmitt (R-MO) listed among signers. Release dated April 14, 2025."
+},
+{
+"url": "https://startlandnews.com/2025/10/eric-schmitt-ai-tech/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-16",
+"note": "notable quote verbatim (curly apostrophe in source: That’s)."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only source is a letter he signed urging withdrawal of the AI Diffusion Rule because it causes 'stalled investments' and lost 'global partnerships'; that is a lean toward loosening export limits, with only a generic nod to keeping China out. 'Mixed' undersells the direction of the one piece of evidence.",
+"suggested_score": 1,
+"suggested_label": "Leans sell more"
+},
+{
+"dimension": "data_centers",
+"objection": "Single-source dimension. The interview shows him calling for domestic compute and much more (nuclear) energy with no conditions or ratepayer language at all, which reads closer to 'Build faster' than 'Build with conditions'; either way the evidence is thin.",
+"suggested_score": 2,
+"suggested_label": "Build faster"
+}
+]
+},
+{
+"bioguide": "O000177",
+"checks": [
+{
+"url": "https://www.realclearenergy.org/articles/2025/10/07/why_missouris_3rd_district_should_lead_americas_data_center_revolution_1139490.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-07",
+"note": "Item 1 (data_centers). Live site returns 403; Wayback capture 2025-10-08 loaded. Byline 'By Congressman Bob Onder', signed 'Congressman Bob Onder, Republican, MO-03.' Quote appears verbatim: 'America is in a race for the future. Artificial intelligence will define... America cannot win that race without building the data centers that power AI.' Race-with-China framing confirmed ('whether the United States, not China, sets the standards'). Could not re-grep the nuclear-plant / I-70 / cheap-power details because Wayback intermittently refused connections, so those secondary details in what_it_shows remain unverified against the fetch output."
+},
+{
+"url": "https://www.realclearenergy.org/articles/2025/10/07/why_missouris_3rd_district_should_lead_americas_data_center_revolution_1139490.html",
+"verdict": "confirmed",
+"corrected_quote": "Of course, large projects must be pursued responsibly. Our local leaders and residents should always examine environmental impacts, water and power usage, and the fairness of tax incentives. But blanket opposition is short-sighted and risks sacrificing long-term prosperity.",
+"corrected_date": "2025-10-07",
+"note": "Item 2 (data_centers). Quote is verbatim, just truncated mid-sentence; full sentence supplied in corrected_quote. Followed by: 'Saying \"no, always no\" only ensures that jobs and investment will go elsewhere, or worse, that China will gain an ad[vantage]'. The what_it_shows claim that he says Missouri law already keeps data center costs off family bills was NOT verifiable: Wayback refused connections on the grep for 'Missouri law'/'bills'. Treat that sub-claim as unverified."
+},
+{
+"url": "https://www.realclearenergy.org/articles/2025/10/07/why_missouris_3rd_district_should_lead_americas_data_center_revolution_1139490.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-07",
+"note": "Item 3 (ai_risk). Quote appears verbatim as the second sentence of the op-ed. As what_it_shows says, the piece is about infrastructure and US-vs-China leadership and takes no position on AI model guardrails, so it supports leaving ai_risk unscored (null)."
+},
+{
+"url": "https://www.realclearenergy.org/articles/2025/10/07/why_missouris_3rd_district_should_lead_americas_data_center_revolution_1139490.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-07",
+"note": "Item 4 (notable_quote). Same verbatim sentence as item 1; author is Onder."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The file assigns tech_regulation = -1 (Targeted rules) but contains zero items for that dimension. The only source is a pro-data-center op-ed that says nothing about regulating tech companies, platforms, or AI firms. With no supporting evidence the score should be null until a source is added.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "data_centers",
+"objection": "Score 1 (Build with conditions) is defensible and I do not strongly contest it: the op-ed does say projects 'must be pursued responsibly' with review of water, power and tax-incentive fairness. But the dominant thrust (title 'Data Center Revolution', 'open for business', Trump executive orders to 'accelerate', 'blanket opposition is short-sighted') is closer to Build faster; the 'conditions' are a one-paragraph caveat, not proposed requirements. Flagging as borderline; a 2 would also be supportable.",
+"suggested_score": 2,
+"suggested_label": "Build faster"
+}
+]
+}
+]

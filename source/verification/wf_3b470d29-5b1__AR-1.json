@@ -1,0 +1,293 @@
+[
+{
+"bioguide": "B001236",
+"checks": [
+{
+"url": "https://www.boozman.senate.gov/public/index.cfm/2025/9/boozman-capito-support-efforts-to-promote-energy-reliability-and-security",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Live site returns 403; verified via Wayback snapshot 2025-12-05. Quote appears verbatim, attributed to 'the senators wrote' in the EPW Republicans' letter led by Boozman and Capito. Page never mentions data centers; it does complain of 'spiking energy costs borne by American families,' so the claim's caveat is accurate."
+},
+{
+"url": "https://www.boozman.senate.gov/public/index.cfm/2023/11/boozman-opening-statement-at-hearing-on-leveraging-technology-and-ai-in-agriculture",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Verified via Wayback snapshot 2025-04-14 (live site 403). Quote appears verbatim in Boozman's opening statement."
+},
+{
+"url": "https://www.boozman.senate.gov/public/index.cfm/2023/11/boozman-opening-statement-at-hearing-on-leveraging-technology-and-ai-in-agriculture",
+"verdict": "confirmed",
+"corrected_quote": "Since the beginning of the technological revolution, America exercised a light-touch approach toward regulating this budding industry while others like Europe took a different approach. We must determine if that approach is appropriate when it comes to regulating AI and it's uses in agriculture.",
+"corrected_date": null,
+"note": "Verbatim except the item truncates the sentence; the full sentence ends 'regulating AI and it's uses in agriculture.' The scope is explicitly AI in agriculture, not AI generally, but the mixed framing holds."
+},
+{
+"url": "https://katv.com/news/local/ai-powered-arkansas-criminal-intelligence-network-set-to-change-game-for-law-enforcement-john-boozman-heath-helton-lrpd-casey-clark-pulaski-county-chief-investigations-little-rock-police-real-time-crime-center",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-07",
+"note": "KATV article dated May 7, 2026: Boozman visited the LRPD Real-Time Crime Center and 'helped secure a one-time $5.5 million federal appropriation' for the AI-powered Arkansas Criminal Intelligence Network. Supports the claim; says nothing about regulating AI developers, as the item notes."
+},
+{
+"url": "https://www.boozman.senate.gov/public/index.cfm/2022/6/boozman-senate-republican-leaders-introduce-bill-targeting-political-bias-at-big-tech-companies",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Live site 403; verified via Wayback snapshot 2022-08-23. Quote appears verbatim, attributed to Boozman. Bill would prohibit biased email filtering of federal campaign emails and require quarterly transparency reports from large email services; Boozman says it ensures 'more accountability and transparency among Big Tech companies.' Supports the claim."
+},
+{
+"url": "https://www.boozman.senate.gov/public/index.cfm/2023/11/boozman-opening-statement-at-hearing-on-leveraging-technology-and-ai-in-agriculture",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Same page as item 2; headline quote appears verbatim (Wayback snapshot 2025-04-14)."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only source is a letter on repealing EPA power plant rules that never mentions data centers, ratepayer protections, siting, or any conditions on buildout. It is a generic pro-supply, pro-deregulation statement with an AI-race justification, which does not evidence a 'Build with conditions' position on data centers specifically. Evidence is too thin to score the dimension; if scored at all, the unconditional pro-supply tone points to 2 rather than 1.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "C001095",
+"checks": [
+{
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-introduces-bill-to-lower-energy-costs-for-arkansans",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-08",
+"note": "Direct fetch 403s and Wayback refused connection; page loaded in the browser pane. Quote verbatim. DATA Act exempts physically isolated off-grid systems for data centers from federal rules 'without impacting existing grids or ratepayers'."
+},
+{
+"url": "https://katv.com/news/local/cotton-introduces-bill-to-shield-arkansans-from-data-center-driven-electric-rate-hi-artificial-intelligence-ai-entergy-senator-tom-cotton-trump-electric-bill-power-plant-google-avaio-little-rock-meta-aws-public-service-commission-danni-hoefer-data-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Quote verbatim; he goes on to say grid-fed data centers cause 'a price spike'. Trump endorsement quote and Electric Cooperatives of Arkansas statement both present."
+},
+{
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-to-doj-investigate-communist-china-influence-on-data-center-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-10",
+"note": "Loaded via browser pane (site 403s scripted fetch). Quote verbatim in letter to Acting AG Blanche; 'AI infrastructure is vital to maintaining America's AI advantage' and Singham-network FARA probe request both present."
+},
+{
+"url": "https://www.foxnews.com/politics/sen-tom-cotton-urges-doj-probe-chinese-bid-kneecap-american-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-10",
+"note": "Quote verbatim, attributed to Cotton speaking to Fox News Digital."
+},
+{
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-introduces-bill-to-lower-arkansas-energy-prices",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-02-11",
+"note": "Quote verbatim (RATE Act with Sheehy, preempts state renewable portfolio standards). Page says nothing about fossil generation or large loads; the 'more fossil generation' part of the claim is inference, not on the page."
+},
+{
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-cortez-masto-introduce-bill-to-accelerate-energy-projects-stalled-by-red-tape",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-16",
+"note": "Quote verbatim. FREEDOM Act limits litigation and permit revocations on fully permitted energy projects; page does not itself mention data centers, so the supply-side link is the tracker's framing."
+},
+{
+"url": "https://arktimes.com/arkansas-blog/2026/01/13/shoffner-blasts-cotton-over-his-data-act-to-deregulate-energy-for-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-13",
+"note": "Quote verbatim from Shoffner statement; she asks whether he is 'working for special interest groups' and says the Arkansas PSC is best equipped to protect ratepayers."
+},
+{
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-to-lutnick-combat-communist-chinas-ai-diffusion-strategy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-30",
+"note": "Loaded via browser pane. Quote verbatim. Letter (dated July 29) warns 'Backdoors may be embedded into open weight Chinese models', proposes government-wide contractor ban, and contains no safety rules for U.S. developers."
+},
+{
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-to-doj-investigate-communist-china-influence-on-data-center-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-10",
+"note": "Quote verbatim. Sanders panel is cited as an example of Chinese-affiliated influence in the anti-data-center campaign; the letter itself also concedes 'common sense regulations' for communities are warranted, so the skepticism is of the x-risk framing's provenance rather than of all AI rules."
+},
+{
+"url": "https://www.hawley.senate.gov/hawley-bill-to-protect-children-from-ai-chatbots-gains-new-cosponsors/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-10",
+"note": "Retrieved via Wayback (2026-04-11 snapshot). Quote verbatim, attributed to Senator Cotton as a new GUARD Act cosponsor; bill bans AI companions for minors and mandates age verification."
+},
+{
+"url": "https://www.cotton.senate.gov/news/press-releases/senate-intelligence-committee-passes-the-intelligence-authorization-act-for-fiscal-year-2027",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-21",
+"note": "Loaded via browser pane. Quote verbatim from bill summary bullets; also 'Enhance oversight and governance of use of artificial intelligence by the IC, including ... use of AI in lethal targeting'. Wording is 'opportunities', consistent with non-mandatory framing."
+},
+{
+"url": "https://www.pymnts.com/cpi-posts/senate-committee-adds-ai-pre-testing-provision-to-intelligence-authorization-bill/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-27",
+"note": "Page describes NSA AI Security Center subsidized research 'test-bed' for private-sector and academic researchers and quotes Cotton on returning agencies 'back to their core mission'."
+},
+{
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Quote verbatim and Cotton named alongside Hawley, Donalds and Moody; $7M+ ad buy. Page does not mention Anthropic funding or the Washington Examiner; those parts of the claim rest on other sources not listed here."
+},
+{
+"url": "https://www.cotton.senate.gov/news/speeches/icymicotton-again-blocks-democrats-attempt-to-extend-tiktok-ban-deadline",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-09",
+"note": "Loaded via browser pane. Quote verbatim from floor speech; he objects to changing the law and warns investors Congress 'will never protect you' in a deal leaving China influence over the algorithm."
+},
+{
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-introduces-bill-to-prevent-diversion-of-advanced-chips-to-americas-adversaries-and-protect-us-product-integrity",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-08",
+"note": "Loaded via browser pane. Quote verbatim. Chip Security Act requires location verification on export-controlled chips and annual recommendations on making export controls 'more flexible, thus streamlining shipments to more countries'."
+},
+{
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-to-lutnick-combat-communist-chinas-ai-diffusion-strategy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-30",
+"note": "Quote verbatim; letter also proposes extending DeepSeek bans to additional Chinese models and a government-wide contractor ban."
+},
+{
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-to-lutnick-now-is-the-time-to-preserve-american-ai-dominance",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-31",
+"note": "Loaded via browser pane. Quote verbatim; letter (dated Oct 30, 2025) asks Commerce to help Malaysia build FDI/beneficial-ownership screening of data center entities for CCP involvement and to deploy software/firmware anti-diversion techniques on chips shipped there."
+},
+{
+"url": "https://www.aljazeera.com/economy/2025/12/4/us-senators-unveil-bill-to-keep-trump-from-allowing-ai-chip-sales-to-china",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-12-04",
+"note": "Reuters copy names Cotton as a 'prominent Republican China hawk' in the bipartisan group behind the SAFE CHIPS Act (Ricketts/Coons) blocking loosened chip rules for 2.5 years. Page says the administration 'mulls greenlighting' H200 sales; the subsequent approval is not on the page."
+},
+{
+"url": "https://www.quiverquant.com/news/Press+Release%3A+Cotton+and+Huizenga+Urge+Secretary+Lutnick+for+Enhanced+Export+Controls+on+AI+Chips",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-21",
+"note": "AI-generated summary of the release: Cotton and Huizenga, after new smuggling indictments, urge Lutnick to implement Chip Security Act provisions including location verification for advanced chips. Third-party summary, as the item acknowledges."
+},
+{
+"url": "https://www.cotton.senate.gov/news/press-releases/cotton-to-doj-investigate-communist-china-influence-on-data-center-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-10",
+"note": "Quote verbatim from the June 10, 2026 letter to Acting AG Blanche."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "C001087",
+"checks": [
+{
+"url": "https://www.arkansasonline.com/news/2026/feb/27/arkansas-politicians-weight-in-on-data-center/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-02-27",
+"note": "Direct fetch returned HTTP 200 but only the site navigation shell (3,971 chars, paywall/JS-rendered body); Wayback and archive.ph unreachable (connection refused). WebFetch second opinion reports the article quotes Crawford verbatim: the item's quote is the tail of a longer sentence beginning 'What data is being collected, how much energy and water...', plus 'There is a global arms race for data...' and 'State and local governments must consider these factors carefully, and federal experts must continue studying them.' Claim matches that reading, but the verbatim check could not be done from the raw fetch, so not marked confirmed."
+},
+{
+"url": "https://intelligence.house.gov/2025/07/29/crawford-the-global-ai-race-is-moving-much-faster-than-many-think/",
+"verdict": "confirmed",
+"corrected_quote": "the U.S. must win this AI race, and the fundamental pillar for success is out-computing our adversary",
+"corrected_date": "2025-07-29",
+"note": "Quote appears verbatim (preceded by 'The message coming out of this briefing was clear—'). Release also calls for 'building out adequate compute to scale AI across the IC's missions.' Compute/national-security link is explicit; data centers per se are not named."
+},
+{
+"url": "https://nypost.com/2026/04/29/us-news/house-intel-chief-blasts-bernie-sanders-as-a-threat-to-national-security-over-anti-ai-crusade/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-04-29",
+"note": "Article confirms Crawford called Sanders a 'threat to national security' on Fox Business 'Mornings With Maria Bartiromo' and separately notes Sanders 'pushed for a moratorium on AI data centers.' But Crawford's quoted remarks are about Sanders' communist sympathies and the Beijing-linked panel; he says nothing about data centers or construction. The anti-pause positioning is the item's inference, not something he states."
+},
+{
+"url": "https://intelligence.house.gov/2025/07/29/crawford-the-global-ai-race-is-moving-much-faster-than-many-think/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-29",
+"note": "Quote verbatim. Page says 'At this HPSCI briefing, Members heard directly from industry experts'; it does not use the word 'closed', though HPSCI briefings are typically closed. Framing as a threshold to reach first, not a risk to manage, is accurate."
+},
+{
+"url": "https://talkbusiness.net/2025/08/u-s-rep-crawford-on-budget-bills-tariffs-and-ai/",
+"verdict": "confirmed",
+"corrected_quote": "Artificial intelligence can certainly be a game changer and we need to be on the leading edge to be competitive with countries like China who are quickly adopting AI technology to try to do everything they can to supplant the American economy to become the preeminent economic superpower in the world.",
+"corrected_date": "2025-08-03",
+"note": "Quote verbatim as an excerpt of a longer sentence. No occurrence of 'regulat' or 'guardrail' anywhere in the article, consistent with the claim that he raised no call for new rules."
+},
+{
+"url": "https://nypost.com/2026/04/29/us-news/house-intel-chief-blasts-bernie-sanders-as-a-threat-to-national-security-over-anti-ai-crusade/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-29",
+"note": "Quote verbatim. Article says he contended Sanders' 'anti-AI crusade undermines US geopolitical and security interests' and describes the panel's CCP-aligned Chinese participants (Xue Lan, Zeng Yi). His own quoted words focus on Sanders' communist sympathies ('He embraces Chinese communism'); the pro-China framing of the risk debate is partly the article's/critics' gloss."
+},
+{
+"url": "https://intelligence.house.gov/2026/07/20/house-intelligence-committee-passes-fy2027-intelligence-authorization-act-out-of-committee/",
+"verdict": "confirmed",
+"corrected_quote": "This year’s IAA balances strong transparency and accountability measures while equipping the IC with the resources needed to combat the ever-evolving threats from our adversaries around the world, with a particularly strong focus on the global AI race",
+"corrected_date": "2026-07-20",
+"note": "Quote verbatim (curly apostrophe in 'year’s'). Bill summary bullets confirm: significantly increased funding for frontier AI models for intelligence and cyber missions, IC Chief AI Officer, codify/expand NSA AI Security Center, stronger information sharing on AI threats and safety. All IC-internal; no developer regulation."
+},
+{
+"url": "https://intelligence.house.gov/2026/09/02/chairman-crawford-opens-full-committee-hearing-examining-persistent-competition-legacy-national-security-architecture/",
+"verdict": "confirmed",
+"corrected_quote": "Foreign intelligence services increasingly collude with cartels, criminals, and hackers to destabilize the West, and AI is accelerating their reach in ways that remind me of the 9/11 Commission’s warning about the danger of us having a “failure of imagination.”",
+"corrected_date": "2026-09-02",
+"note": "Quote verbatim as a truncation of the full sentence. Context is adversary use of AI and the need to adapt counterintelligence architecture."
+},
+{
+"url": "https://crawford.house.gov/posts/chairman-of-cia-subcommittee-rep-crawford-comments-on-passage-of-tiktok-bill",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "HTTP 404 on direct fetch and via WebFetch; Wayback and archive.ph connection refused; crawford.house.gov press-release listing and site search show no TikTok item; alternate documentsingle.aspx URL also 404. Could not verify the quote or the biometric/location-data rationale."
+},
+{
+"url": "https://intelligence.house.gov/2025/07/29/crawford-the-global-ai-race-is-moving-much-faster-than-many-think/",
+"verdict": "confirmed",
+"corrected_quote": "vigorous export controls that maintain the U.S. infrastructure lead are critical for stymying China’s advance while slowing DeepSeek’s ability to use U.S. hardware to compete against us",
+"corrected_date": "2025-07-29",
+"note": "Quote verbatim (curly apostrophes). Directly supports a tighten-export-controls stance."
+},
+{
+"url": "https://intelligence.house.gov/2025/07/29/crawford-the-global-ai-race-is-moving-much-faster-than-many-think/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-29",
+"note": "Headline quote appears verbatim in the release."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The -1 score rests entirely on the TikTok press release, which is a dead link (404, no archive available) and whose quote could not be verified. None of the reachable sources show him supporting rules on tech companies; the only regulatory-flavored material is the Arkansas data-center vetting comment, which is about state/local siting review, not tech regulation. Evidence is too thin for a position until a working source for the TikTok statement (or his H.R. 7521 vote) is supplied.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]
