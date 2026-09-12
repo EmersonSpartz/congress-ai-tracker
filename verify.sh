@@ -61,9 +61,12 @@ grep -q 'Where Congress Stands on AI' /tmp/cat-index.html && ok "title present" 
 dcode=$(curl -s -o /tmp/cat-data.json -w "%{http_code}" "${URL%/}/data.json")
 [ "$dcode" = "200" ] && ok "data.json 200" || bad "data.json HTTP $dcode"
 python3 -c "import json;d=json.load(open('/tmp/cat-data.json'));print('  info  deployed generated', d['generated'], len(d['members']), 'members')" 2>/dev/null || bad "deployed data.json unparsable"
-local_gen=$(python3 -c "import json;print(json.load(open('docs/data.json'))['generated'])")
-remote_gen=$(python3 -c "import json;print(json.load(open('/tmp/cat-data.json'))['generated'])" 2>/dev/null)
-[ "$local_gen" = "$remote_gen" ] && ok "deployed data matches local build ($local_gen)" || echo "  WARN  deployed data ($remote_gen) differs from local ($local_gen): deploy pending?"
+sig() { python3 -c "
+import json,hashlib,sys;d=json.load(open(sys.argv[1]))
+h=hashlib.sha1(json.dumps([[m['id'],[p['label'] for p in m['positions'].values()]] for m in d['members']]).encode()).hexdigest()[:10]
+print(d['generated'], len(d['votes']), 'votes', sum(1 for m in d['members'] if any(p['basis']=='research' for p in m['positions'].values())), 'researched', h)" "$1" 2>/dev/null; }
+local_sig=$(sig docs/data.json); remote_sig=$(sig /tmp/cat-data.json)
+[ "$local_sig" = "$remote_sig" ] && ok "deployed data matches local build ($local_sig)" || bad "deployed data ($remote_sig) differs from local ($local_sig): push and wait for GitHub Pages"
 pcode=$(curl -s -o /dev/null -w "%{http_code}" "${URL%/}/photos/H001089.jpg")
 [ "$pcode" = "200" ] && ok "photo served" || bad "photo HTTP $pcode"
 
