@@ -77,8 +77,10 @@
     const parts = h.split('/').filter(Boolean);
     const page = parts[0] || '';
     document.querySelectorAll('.nav a').forEach(a => a.classList.toggle('active', a.getAttribute('href') === '#/' + page));
-    window.scrollTo(0, 0);
-    requestAnimationFrame(() => { if (!location.hash.includes('#', 2)) window.scrollTo(0, 0); });
+    document.title = ({ members: 'Every member: Where Congress Stands on AI', fights: 'The five fights: Where Congress Stands on AI', votes: 'Key votes: Where Congress Stands on AI', bills: 'The bills: Where Congress Stands on AI', about: 'How this works: Where Congress Stands on AI' })[page] || 'Where Congress Stands on AI';
+    const top = () => window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+    top();
+    requestAnimationFrame(() => { if (!location.hash.includes('#', 2)) { top(); setTimeout(top, 30); } });
     if (page === 'member' && parts[1]) return renderMember(parts[1]);
     if (page === 'members') return renderMembers(parseQuery(parts.slice(1).join('/')));
     if (page === 'state' && parts[1]) return renderMembers({ state: parts[1].toUpperCase() });
