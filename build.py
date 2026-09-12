@@ -71,10 +71,19 @@ def bill_url(b):
 def bill_label(b):
     return f"{BILL_TYPE_LABEL[b['type']]}{b['number']}"
 
+# Factual corrections applied to agent-written prose (fact-checked 2026-09-12): the House KIDS Act vote split Democrats 104-85.
+CORRECTIONS = [
+    ('most Democrats opposed it, though', 'Democrats split 104 to 85 on it, though'),
+    ('most Democrats voting no objected', 'the Democrats who voted no objected'),
+    ('which most Democrats opposed', 'on which Democrats split 104 to 85'),
+]
+
 def clean(s):
     """Public copy has no em dashes. Between words an em dash becomes a hyphen (America-Israel); otherwise a comma."""
     if s is None: return s
     if not isinstance(s, str): s = str(s)
+    for a, b in CORRECTIONS:
+        if a in s: s = s.replace(a, b)
     s = re.sub(r'(?<=\w)—(?=\w)', '-', s)
     s = s.replace(' — ', ', ').replace('—', ', ').replace(' , ', ', ').replace('--', ', ')
     return s
