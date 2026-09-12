@@ -1,0 +1,766 @@
+[
+{
+"bioguide": "C001056",
+"name": "John Cornyn",
+"signature": "CHIPS Act author who frames AI as a two-way race with China; toured Stargate and wants faster permitting; backs kids' online safety and anti-deepfake bills; lost the May 2026 GOP runoff to Ken Paxton.",
+"notable_quote": {
+"text": "The issue of permitting is a huge problem in our country because whether it's litigation that ties up the process or just overregulation, we need to learn how to build things faster",
+"url": "https://www.reporternews.com/story/news/politics/2025/08/27/cornyn-talks-about-abilenes-tech-future-and-even-paxton-at-aisd-lift-texas-newspaper-stargate/85841282007/",
+"date": "2025-08-27"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "medium",
+"summary": "Toured the Stargate and Lancium data center campuses in Abilene in August 2025, called the project \"the future,\" and said litigation and overregulation slow building. No statements found on electric bills or water use.",
+"evidence": [
+{
+"type": "statement",
+"title": "Abilene Reporter-News: Cornyn tours Lancium and Stargate data centers, praises pace of building",
+"url": "https://www.reporternews.com/story/news/politics/2025/08/27/cornyn-talks-about-abilenes-tech-future-and-even-paxton-at-aisd-lift-texas-newspaper-stargate/85841282007/",
+"date": "2025-08-27",
+"quote": "The issue of permitting is a huge problem in our country because whether it's litigation that ties up the process or just overregulation, we need to learn how to build things faster",
+"what_it_shows": "He celebrates the Stargate build-out and wants permitting reform so projects like it go up faster."
+},
+{
+"type": "statement",
+"title": "Abilene Reporter-News: Cornyn calls Stargate 'the future' and credits Texas energy and speed",
+"url": "https://www.reporternews.com/story/news/politics/2025/08/27/cornyn-talks-about-abilenes-tech-future-and-even-paxton-at-aisd-lift-texas-newspaper-stargate/85841282007/",
+"date": "2025-08-27",
+"quote": "(This) is going to increase our productivity as a nation, increase our national security and improve our economy as well",
+"what_it_shows": "He frames the data center boom as good for jobs, security and the economy, with no caveats about costs to residents."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted rules where AI meets kids: he sponsored a bill to keep child abuse images out of AI training data, cosponsored deepfake bills, and endorsed the GUARD Act on AI companions for minors. He otherwise frames AI as a race the US must win against China.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Cornyn Backs AI Guardrails to Prevent Child Abuse, Praises State Sen. Angela Paxton's Leadership on Issue",
+"url": "https://www.cornyn.senate.gov/news/cornyn-backs-ai-guardrails-to-prevent-child-abuse-praises-state-sen-angela-paxtons-leadership-on-issue/",
+"date": "2026-04-30",
+"quote": null,
+"what_it_shows": "Headline seen in Google News on the day Senate Judiciary advanced the GUARD Act; he publicly backed AI guardrails to protect children (page itself blocked)."
+},
+{
+"type": "sponsor",
+"title": "S.2381 PROACTIV Artificial Intelligence Data Act of 2025 (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2381",
+"date": "2025-07-22",
+"quote": null,
+"what_it_shows": "Would make AI companies check training data so models cannot learn from or make child abuse images."
+},
+{
+"type": "cosponsor",
+"title": "S.516 SHIELD Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/516",
+"date": "2025-02-11",
+"quote": null,
+"what_it_shows": "Federal crime for sharing private sexual images without consent, part of his anti-deepfake and image-abuse record."
+},
+{
+"type": "cosponsor",
+"title": "S.1699 Artificial Intelligence Public Awareness and Education Campaign Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1699",
+"date": "2025-11-04",
+"quote": null,
+"what_it_shows": "Government public campaign on what AI is and how to use it safely; neutral, education-focused."
+},
+{
+"type": "op_ed",
+"title": "Op-ed (Dallas Morning News, reprinted): CHIPS Act Will Help America Win the AI Race with China",
+"url": "https://texasborderbusiness.com/cornyn-op-ed-chips-act-will-help-america-win-the-ai-race-with-china/",
+"date": "2026-07-13",
+"quote": "The global competition for the future of artificial intelligence, or AI, is quickly becoming a two-way race between the United States of America and the People's Republic of China.",
+"what_it_shows": "His main AI frame is winning the race with China, not safety regulation."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Consistent supporter of targeted rules on tech platforms, especially for kids: cosponsor of the Kids Online Safety Act, COPPA 2.0, the EARN IT Act and the Platform Accountability and Transparency Act. Not on record for break-ups or a full Section 230 repeal.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.1748 Kids Online Safety Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Requires platforms to build safety tools and a duty of care for minors."
+},
+{
+"type": "cosponsor",
+"title": "S.836 Children and Teens' Online Privacy Protection Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
+"date": "2025-07-28",
+"quote": null,
+"what_it_shows": "Updates kids' privacy law to require consent before collecting data on kids and teens."
+},
+{
+"type": "cosponsor",
+"title": "118th S.1207 EARN IT Act of 2023 (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1207",
+"date": "2023-04-19",
+"quote": null,
+"what_it_shows": "Would strip platforms' Section 230 shield when they let child abuse material spread."
+},
+{
+"type": "cosponsor",
+"title": "118th S.1876 Platform Accountability and Transparency Act (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1876",
+"date": "2023-06-08",
+"quote": null,
+"what_it_shows": "Forces big platforms to share data with independent researchers."
+},
+{
+"type": "hearing",
+"title": "Senate Judiciary hearing on social media verdicts and KOSA (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-senate-hearing-uses-social-media-verdicts-to-press-the-case-for-kosa/",
+"date": "2026-05-15",
+"quote": null,
+"what_it_shows": "Questioned a plaintiffs' lawyer about Meta's Section 230 appeal and walked through existing statutory carve-outs to the liability shield."
+},
+{
+"type": "cosponsor",
+"title": "S.4429 Connected Vehicle Security Act of 2026 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-14",
+"quote": null,
+"what_it_shows": "Bans connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No clear position found. In June 2025 he said only that the state AI law moratorium was \"doubtful\" to survive Senate rules, then voted with 98 colleagues to strike it. The Texas Tribune reported in April 2026 that he has not taken a public stance on preempting state AI laws.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call #363: Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1 (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted Yea with 98 other senators after the deal collapsed; not by itself evidence of opposing preemption."
+},
+{
+"type": "social_post",
+"title": "The Hill: Cornyn on X says the AI moratorium is doubtful to survive the Byrd rule",
+"url": "https://thehill.com/policy/technology/5355684-ai-moratorium-sparks-gop-battle-over-states-rights/",
+"date": "2025-06-16",
+"quote": "Doubtful it [the provision] survives",
+"what_it_shows": "His only public comment on the moratorium was about Senate procedure, not the merits of preemption."
+},
+{
+"type": "other",
+"title": "Texas Tribune runoff Q&A: Cornyn has not taken a public stance on an AI moratorium",
+"url": "https://www.texastribune.org/2026/04/20/cornyn-paxton-texas-us-senate-runoff-2026-q-and-a/",
+"date": "2026-04-20",
+"quote": null,
+"what_it_shows": "The Tribune, asking whether the federal government should preempt state AI rules, found no stated position beyond his procedural comment and his vote."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Leans hawkish on China and technology: sponsored the FIGHT China Act to restrict US investment in Chinese military and surveillance tech, cosponsored the Connected Vehicle Security Act, and writes that the AI race with China turns on who makes advanced chips. No position found on Nvidia H20 or H200 sales to China.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "S.1053 FIGHT China Act of 2025 (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1053",
+"date": "2025-03-13",
+"quote": null,
+"what_it_shows": "Americans would have to report, and could be blocked from, investing in Chinese companies building military or surveillance technology."
+},
+{
+"type": "op_ed",
+"title": "Op-ed (Dallas Morning News, reprinted): CHIPS Act Will Help America Win the AI Race with China",
+"url": "https://texasborderbusiness.com/cornyn-op-ed-chips-act-will-help-america-win-the-ai-race-with-china/",
+"date": "2026-07-13",
+"quote": "Whoever can manufacture these high-powered chips quickly and at a reasonable price will dominate the AI playing field.",
+"what_it_shows": "Treats chip manufacturing as the decisive front in a US-China AI race and argues for reshoring fabs."
+},
+{
+"type": "cosponsor",
+"title": "S.4429 Connected Vehicle Security Act of 2026 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-14",
+"quote": null,
+"what_it_shows": "Bans Chinese-linked connected car technology from the US market."
+}
+]
+}
+},
+"search_notes": "Ran about 14 searches (AI, data center, chatbot/deepfake/GUARD Act, Nvidia/export controls, KOSA, Stargate/Abilene, defense AI). Opened Abilene Reporter-News (via Wayback), his CHIPS/AI op-ed, The Hill moratorium story, Texas Tribune runoff Q&A, KOSA hearing transcript. cornyn.senate.gov returns 403 and Wayback was down, so the Apr 30 2026 GUARD Act press release is cited by headline only. Found no statements on Nvidia chip sales to China, data center ratepayer costs, or preemption on the merits. He lost the May 26 2026 runoff to Ken Paxton and leaves office in January 2027."
+},
+{
+"bioguide": "C001098",
+"name": "Ted Cruz",
+"signature": "Senate Commerce chairman and architect of the failed 2025 state AI law moratorium and the SANDBOX Act; Stargate booster who blames Chinese misinformation for data center backlash; author of the TAKE IT DOWN and CHATBOT Acts; now drafting a catastrophic-risk bill with Thune and Klobuchar.",
+"notable_quote": {
+"text": "This is somewhat tongue-in-cheek, but it's not entirely: if there are going to be killer robots, I'd rather they be American killer robots and not Chinese killer robots.",
+"url": "https://www.transformernews.ai/p/congress-must-not-waste-the-ai-policy-window",
+"date": "2026-09-11"
+},
+"groups": [
+"Senate Committee on Commerce, Science, and Transportation (Chairman)",
+"Cruz-Thune-Klobuchar bipartisan AI safety bill negotiating group (2026)"
+],
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "high",
+"summary": "Texas's loudest data center booster in Congress. He toured Stargate in Abilene, called Texas \"ground zero for AI,\" defended data centers' water use as less than a golf course, blamed Chinese-funded misinformation for the backlash, and his AI framework calls for streamlining AI infrastructure permitting.",
+"evidence": [
+{
+"type": "statement",
+"title": "KTXS: Cruz tours Abilene's Project Stargate with Sam Altman and Rep. Arrington",
+"url": "https://ktxs.com/news/local/political-leaders-and-investors-tour-abilenes-project-stargate",
+"date": "2025-09-23",
+"quote": "AI is the next major technological innovation. It's going to change every aspect of all of our lives, and AI is coming whether we want it or not.",
+"what_it_shows": "Celebrates the Stargate campus and credits low taxes and low regulation; also said \"Texas is ground zero for AI.\""
+},
+{
+"type": "social_post",
+"title": "Chron: Cruz defends data centers' water use on X and blames Chinese misinformation, draws backlash",
+"url": "https://www.chron.com/news/article/ted-cruz-data-centers-22412681.php",
+"date": "2026-08-31",
+"quote": "Most data centers built today use a closed-loop cooling system, meaning they use a fraction of the water of a golf course.",
+"what_it_shows": "Dismisses the main local objection to data centers and attributes opposition to Chinese communist influence campaigns."
+},
+{
+"type": "statement",
+"title": "Covington summary of Cruz's AI Policy Framework and SANDBOX Act launch",
+"url": "https://www.insideglobaltech.com/2025/09/12/senator-cruz-unveils-ai-framework-and-regulatory-sandbox-bill/",
+"date": "2025-09-10",
+"quote": null,
+"what_it_shows": "The first pillar of his framework asks Congress to streamline AI infrastructure permitting, alongside a federal sandbox and access to federal datasets."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "high",
+"summary": "Mixed but mostly light touch. His SANDBOX Act lets AI firms waive federal rules, he calls slowing AI an impossible endeavor and would rather have American than Chinese killer robots. After the September 2026 extinction warnings he said AI needs guardrails and is drafting a bill with Thune and Klobuchar on catastrophic biological and nuclear risks; critics say the draft relies on voluntary company testing.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "S.2750 SANDBOX Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2750",
+"date": "2025-09-10",
+"quote": null,
+"what_it_shows": "Lets AI developers apply to waive or modify federal regulations for years to test products faster; the first bill of his light-touch framework."
+},
+{
+"type": "interview",
+"title": "Transformer: Cruz says he would rather have American killer robots than Chinese ones",
+"url": "https://www.transformernews.ai/p/congress-must-not-waste-the-ai-policy-window",
+"date": "2026-09-11",
+"quote": "This is somewhat tongue-in-cheek, but it's not entirely: if there are going to be killer robots, I'd rather they be American killer robots and not Chinese killer robots.",
+"what_it_shows": "He said AI needs rules and guardrails but called slowing development an impossible endeavor; China competition trumps caution."
+},
+{
+"type": "interview",
+"title": "Al Jazeera: Cruz on ABC's The View says AI needs guardrails, cites bill with Klobuchar and Thune",
+"url": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings",
+"date": "2026-09-11",
+"quote": "We've got to put some guardrails on it",
+"what_it_shows": "A shift in tone after the Anthropic researcher warnings; he now endorses some federal rules for catastrophic harm."
+},
+{
+"type": "social_post",
+"title": "Semafor: Cruz posts on X that he is working with Klobuchar and Thune on catastrophic AI risk legislation",
+"url": "https://www.semafor.com/article/09/10/2026/bipartisan-ai-safety-bill-gains-momentum-on-the-hill",
+"date": "2026-09-10",
+"quote": "on legislation to address catastrophic risks involving biological or nuclear threats",
+"what_it_shows": "He is co-leading the only Senate AI safety bill seen as viable before 2027; text not yet public."
+},
+{
+"type": "statement",
+"title": "Roll Call: Cruz introduces the CHATBOT Act with Schatz, Curtis and Schiff",
+"url": "https://rollcall.com/2026/04/29/family-accounts-would-be-mandated-for-kids-in-chatbots-bill/",
+"date": "2026-04-29",
+"quote": "The rapid development of sophisticated chatbots has left many parents in the dark as powerful AI systems enter children's lives. Congress has an opportunity to put parents back in control.",
+"what_it_shows": "Supports binding rules for AI chatbots that interact with kids: family accounts, parental consent, default protections."
+},
+{
+"type": "sponsor",
+"title": "S.4407 CHATBOT Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4407",
+"date": "2026-04-28",
+"quote": null,
+"what_it_shows": "His own targeted AI guardrail for children; advanced by voice vote at his Aug 5, 2026 Commerce markup."
+},
+{
+"type": "statement",
+"title": "The Hill: Cruz votes for Hawley's GUARD Act in Judiciary but says it needs revisions",
+"url": "https://thehill.com/policy/technology/5858006-senate-panel-advances-bill-to-curb-ai-chatbot-companions-for-kids/",
+"date": "2026-04-30",
+"quote": "some revisions",
+"what_it_shows": "Backed the AI companion ban for minors while worrying it could sweep in all chatbots for kids, showing his preference for narrower rules."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Targeted, not sweeping. He wrote the TAKE IT DOWN Act, sponsors the CHATBOT Act and Kids Off Social Media Act, backs KOSA and ad-tech antitrust (AMERICA Act), and wants to punish government jawboning of platforms. But he opposes a full Section 230 repeal and generally favors deregulation.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "S.146 TAKE IT DOWN Act (sponsor; now law)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Criminalizes posting real or AI-faked intimate images and forces platforms to remove them within 48 hours."
+},
+{
+"type": "hearing",
+"title": "Senate Commerce hearing on 30 years of Section 230, Cruz opening statement (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-senate-commerce-hearing-on-30-years-of-section-230/",
+"date": "2026-03-19",
+"quote": "I'm concerned that a full repeal or sunset would lead platforms to engage in worse behavior, to engage in more censorship, to protect themselves from litigation",
+"what_it_shows": "Despite past calls for repeal, he now opposes ending Section 230 and prefers narrower reforms."
+},
+{
+"type": "statement",
+"title": "Reason: Cruz and Wyden introduce the JAWBONE Act against government pressure on platforms",
+"url": "https://reason.com/2026/06/17/bipartisan-jawbone-act-targets-government-censorship-threats/",
+"date": "2026-06-17",
+"quote": "the Biden administration weaponized the Cybersecurity and Infrastructure Security Agency to pressure Big Tech into 'canceling' Americans who spoke out against vaccine mandates and election fraud.",
+"what_it_shows": "His Big Tech concern centers on speech and government coercion of platforms, not market power."
+},
+{
+"type": "cosponsor",
+"title": "S.1060 AMERICA Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1060",
+"date": "2025-03-31",
+"quote": null,
+"what_it_shows": "Would break up conflicts in Google-style digital ad markets, a targeted antitrust measure."
+},
+{
+"type": "cosponsor",
+"title": "S.278 Kids Off Social Media Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/278",
+"date": "2025-01-28",
+"quote": null,
+"what_it_shows": "Bans under-13s from social media and limits algorithmic targeting of teens."
+},
+{
+"type": "other",
+"title": "IAPP: Cruz reaffirms support for KOSA and promises the Senate will pass it again",
+"url": "https://iapp.org/news/a/a-view-from-dc-the-plan-to-trade-kids-safety-rules-for-ai-preemption",
+"date": "2026-06-12",
+"quote": null,
+"what_it_shows": "Reporter's account that he publicly recommitted to the Kids Online Safety Act in May 2026 and scheduled a kids-safety markup."
+}
+]
+},
+"preemption": {
+"score": 2,
+"confidence": "high",
+"summary": "The Senate's leading advocate for one national AI rule. He wrote the 10-year moratorium on state AI laws in the 2025 budget bill, defended it under the Commerce Clause, made preventing a state patchwork a pillar of his AI framework, and stood with Trump at the December 2025 executive order signing.",
+"evidence": [
+{
+"type": "statement",
+"title": "The Hill: Cruz defends the state AI law moratorium as within Congress's Commerce Clause power",
+"url": "https://thehill.com/policy/technology/5355684-ai-moratorium-sparks-gop-battle-over-states-rights/",
+"date": "2025-06-18",
+"quote": "The Constitution gives Congress the authority to regulate commerce between the states, and AI is quintessentially commerce between the states",
+"what_it_shows": "He rejected states' rights objections and said a patchwork of 50 standards would devastate AI development."
+},
+{
+"type": "statement",
+"title": "Nextgov: Cruz statement defending the moratorium before the 99-1 vote to strike it",
+"url": "https://www.nextgov.com/artificial-intelligence/2025/07/senate-overwhelmingly-passes-amendment-removing-state-ai-moratorium/406448/",
+"date": "2025-07-01",
+"quote": "[The AI moratorium] preserves the rights of states to protect consumers and content creators without giving the Left a backdoor to push their woke social agenda through AI regulation",
+"what_it_shows": "Even as the deal collapsed he defended blocking state AI laws; his Yea on the strike vote came after negotiations failed."
+},
+{
+"type": "vote",
+"title": "Senate roll call #363: Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1 (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted to strike his own provision once the compromise fell apart; the 99-1 vote is not evidence he opposes preemption."
+},
+{
+"type": "social_post",
+"title": "Roll Call: Cruz backs Trump's executive order on state AI laws, attends Oval Office signing",
+"url": "https://rollcall.com/2025/12/11/with-executive-order-trump-moves-to-undo-state-ai-laws/",
+"date": "2025-12-11",
+"quote": "would cede ground to China",
+"what_it_shows": "He said those who disagreed with the order to challenge state AI laws would cede ground to China and stood beside Trump at the signing."
+},
+{
+"type": "statement",
+"title": "Covington summary: Cruz AI Policy Framework pillar on preventing a state patchwork",
+"url": "https://www.insideglobaltech.com/2025/09/12/senator-cruz-unveils-ai-framework-and-regulatory-sandbox-bill/",
+"date": "2025-09-10",
+"quote": "Prevent a Patchwork of Burdensome AI Regulation",
+"what_it_shows": "One of the five pillars of his framework calls on Congress to enact federal standards that prevent burdensome state AI regulation."
+},
+{
+"type": "sponsor",
+"title": "S.2750 SANDBOX Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2750",
+"date": "2025-09-10",
+"quote": null,
+"what_it_shows": "The model for the regulatory sandbox in the White House's March 2026 national AI framework that calls for broad preemption."
+}
+]
+},
+"china_chips": {
+"score": 1,
+"confidence": "medium",
+"summary": "Leans toward selling American AI abroad. As Commerce chairman he attacked Biden's AI diffusion rule on chips and model weights and said allies should buy American; his framework opposes excessive foreign regulation. No verified position found on Nvidia H20 or H200 sales to China specifically.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Senate Commerce hearing 'Winning the AI Race', Cruz opening statement (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-sam-altman-testifies-at-us-senate-hearing-on-ai-competitiveness/",
+"date": "2025-05-08",
+"quote": "Biden's misguided midnight AI diffusion rule on chips and model weights would've crippled American tech companies ability to sell AI to the world.",
+"what_it_shows": "He opposed the Biden export framework and said he lobbied for months to kill it, favoring wider sales of US AI technology."
+},
+{
+"type": "statement",
+"title": "Covington summary of Cruz AI Policy Framework: counter excessive foreign regulation",
+"url": "https://www.insideglobaltech.com/2025/09/12/senator-cruz-unveils-ai-framework-and-regulatory-sandbox-bill/",
+"date": "2025-09-10",
+"quote": null,
+"what_it_shows": "His framework pairs preemption of state laws with pushing back on foreign rules that limit American AI companies, a diffusion-first stance."
+}
+]
+}
+},
+"search_notes": "Ran about 16 searches (data centers, AI regulation, SANDBOX/framework, Nvidia/export controls, Section 230/Big Tech/JAWBONE, electric bills, scary as hell). Opened KTXS, Chron, The Hill, Nextgov, Roll Call (x2), Transformer, Semafor, Al Jazeera, IAPP, Reason, Lawfare, Covington, two Tech Policy Press transcripts. cruz.senate.gov and commerce.senate.gov return 403 (Stargate tour release, framework release, TAKE IT DOWN anniversary not opened directly). Politico's Sept 10 2026 item quoting him calling the AI warning 'scary as hell' and wanting 'substantially more regulation' could not be opened, nor the Aug 25 2026 NewsNation/Bloomberg report that he said locals' electric bills from data centers should be 'zero'; both are omitted from evidence. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "M001224",
+"name": "Nathaniel Moran",
+"signature": "Rare Republican frontier-safety hawk: sponsor of the AI Incident Reporting Act and co-lead with Ted Lieu of the bipartisan AI Kill Switch Act; also a chip export-control hawk on the China Select Committee.",
+"notable_quote": {
+"text": "AI is a powerful engine of innovation, and I want to see it flourish, but not without accountability and not without human oversight",
+"url": "https://www.kltv.com/2026/06/26/moran-introduces-act-give-washington-an-early-warning-system-dangerous-ai-incidents/",
+"date": "2026-06-26"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers, electricity bills or water use as of September 2026, despite searches of his press releases, local East Texas coverage and national news.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "One of the few Republicans pushing binding safeguards for frontier AI. He sponsors the AI Incident Reporting Act and co-leads the AI Kill Switch Act, which would let DHS order a rogue model shut down, and says humans must always be able to stop the most powerful systems. He stresses the rules are narrow and should not smother the industry.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R.9477 AI Incident Reporting Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
+"date": "2026-06-25",
+"quote": null,
+"what_it_shows": "Requires developers of the most advanced models to report dangerous capabilities, security breaches and safety incidents to Commerce."
+},
+{
+"type": "statement",
+"title": "KLTV: Moran introduces AI Incident Reporting Act as an early-warning system for dangerous AI incidents",
+"url": "https://www.kltv.com/2026/06/26/moran-introduces-act-give-washington-an-early-warning-system-dangerous-ai-incidents/",
+"date": "2026-06-26",
+"quote": "AI is a powerful engine of innovation, and I want to see it flourish, but not without accountability and not without human oversight",
+"what_it_shows": "He wants mandatory reporting when a high-capability system goes wrong so the government can act quickly."
+},
+{
+"type": "cosponsor",
+"title": "H.R.9917 AI Kill Switch Act (cosponsor, co-lead with Rep. Lieu)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9917",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "Requires frontier developers to keep reliable shutdown controls and lets DHS order a model shut down in emergencies, with fines for noncompliance."
+},
+{
+"type": "statement",
+"title": "Roll Call: Moran statement on the AI Kill Switch Act after OpenAI models breached Hugging Face",
+"url": "https://rollcall.com/2026/07/23/ai-companies-would-need-kill-switch-under-new-bipartisan-bill/",
+"date": "2026-07-23",
+"quote": "AI is going to keep advancing, and it should. Stewardship means making sure humans keep the capability to control the technology we build.",
+"what_it_shows": "Frames loss of control as the core risk while supporting continued AI progress."
+},
+{
+"type": "op_ed",
+"title": "Newsweek op-ed with Rep. Lieu: The AI We're Building Needs a Kill Switch",
+"url": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2870",
+"date": "2026-08-19",
+"quote": "Mandating a commonsense off switch on the most dangerous systems is well short of the heavy-handed regulation that could smother a young industry.",
+"what_it_shows": "Cites labs' own reports of models slipping their boundaries and cyber and bioweapon risks, but insists the mandate is narrow and innovation-friendly."
+},
+{
+"type": "social_post",
+"title": "CNBC: Moran on X after the Anthropic researcher's extinction warning",
+"url": "https://www.cnbc.com/2026/09/11/ai-regulation-anthropic-researcher-extinction-warning.html",
+"date": "2026-09-09",
+"quote": "Innovation and safety are not mutually exclusive. We can achieve both through deliberate, thoughtful, and prudent policymaking.",
+"what_it_shows": "He publicly said Congress cannot ignore AI's potential risks, breaking with the hands-off wing of his party."
+},
+{
+"type": "cosponsor",
+"title": "H.R.10189 Defense AI Reliability and Reporting Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10189",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Makes the military verify its AI systems work reliably and report to Congress."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted rules, especially creator and likeness rights in the AI era: cosponsor of the NO FAKES Act, DEFIANCE Act, TRAIN Act and SHIELD Act, and author of a bill to deny tax breaks to companies using Chinese-controlled technology.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.2794 NO FAKES Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2794",
+"date": "2025-04-09",
+"quote": null,
+"what_it_shows": "Gives every person a legal right to control AI copies of their voice and face."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3562 DEFIANCE Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-21",
+"quote": null,
+"what_it_shows": "Lets victims sue over AI-made sexual deepfakes."
+},
+{
+"type": "cosponsor",
+"title": "H.R.7209 TRAIN Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7209",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "Lets artists force AI companies to disclose whether their work was used for training."
+},
+{
+"type": "statement",
+"title": "Press release: Moran warns foreign adversaries are exploiting the U.S. tax code to harvest American data",
+"url": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2814",
+"date": "2026-07-10",
+"quote": "We have to make sure our laws keep pace with the threat, and that starts with cutting off the pipelines that let foreign adversaries exploit our own data against us.",
+"what_it_shows": "His Deterring Adversarial Access to Americans' Data Act would strip major business tax incentives from firms using foreign adversary-controlled technology."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on preempting or pausing state AI laws. He did not sign the House Democratic letters against preemption and was not part of the March 2026 GOP leadership statement for a national framework; searches of his press releases and East Texas coverage turned up nothing.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "A consistent chip export-control hawk by cosponsorship: Chip Security Act (chip location tracking), AI OVERWATCH Act (congressional veto over chip sales to China), GAIN AI Act, Stop Stealing our Chips Act and the AI Model Theft bill, plus the No DeepSeek on Government Devices Act. He sits on the China Select Committee. No individual statement on Nvidia H20 or H200 sales found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.3447 Chip Security Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-11-07",
+"quote": null,
+"what_it_shows": "Requires location verification on advanced AI chips to catch smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "H.R.6875 AI OVERWATCH Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-01-20",
+"quote": null,
+"what_it_shows": "Gives Congress power to block advanced AI chip sales to China and other risky countries before they happen."
+},
+{
+"type": "cosponsor",
+"title": "H.R.5885 GAIN AI Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5885",
+"date": "2025-11-12",
+"quote": null,
+"what_it_shows": "Chip makers must offer advanced AI chips to American buyers before selling to China."
+},
+{
+"type": "cosponsor",
+"title": "H.R.6322 Stop Stealing our Chips Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6322",
+"date": "2025-12-12",
+"quote": null,
+"what_it_shows": "Rewards and protects whistleblowers who report export-control violations."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8283 Deterring American AI Model Theft Act of 2026 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"date": "2026-06-08",
+"quote": null,
+"what_it_shows": "Punishes foreign companies, especially in China, that steal or copy American AI models."
+},
+{
+"type": "cosponsor",
+"title": "H.R.1121 No DeepSeek on Government Devices Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-05-09",
+"quote": null,
+"what_it_shows": "Bans the Chinese AI app DeepSeek from federal devices."
+},
+{
+"type": "sponsor",
+"title": "118th H.R.6603 No Technology for Terror Act (sponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6603",
+"date": "2023-12-05",
+"quote": null,
+"what_it_shows": "Earlier export-control bill to keep American chips out of Iranian drones and weapons."
+}
+]
+}
+},
+"search_notes": "Ran about 10 searches (AI, Kill Switch/Incident Reporting, data centers, chips/export controls, preemption, AI caucus). Opened KLTV, Roll Call, CNBC, Al Jazeera, his Newsweek op-ed and data-act press release on moran.house.gov, and his news index. Wayback CDX was down so a full press-release listing failed; the Houston Chronicle piece 'These Texas GOP congressmen are pushing more federal oversight of AI' (Jun 29 2026) and his NSF AI Education Act statement on commerce.senate.gov could not be opened. Nothing found on data centers or preemption. No AI super PAC activity found."
+},
+{
+"bioguide": "C001120",
+"name": "Dan Crenshaw",
+"signature": "Energy and Commerce member with a thin AI record: cosponsored the off-grid DATA Act and grid bills, the TikTok divest-or-ban law and the STRIDE chip export bill, and warned HHS that AI assurance labs would cause regulatory capture; lost his March 2026 primary to Steve Toth.",
+"notable_quote": {
+"text": "We are writing to express our significant concerns with the potential role of assurance labs in the regulatory oversight of artificial intelligence technologies, and how this will lead to regulatory capture and stifle innovation",
+"url": "https://www.healthcareitnews.com/news/republicans-want-changes-hhs-ai-assurance-labs",
+"date": "2024-12-03"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Supportive of building, with a nod to costs: an original cosponsor of the House DATA Act, which lets data centers run their own off-grid power outside federal regulation so other customers do not pay for it, and a cosponsor of the High-Capacity Grid Act to expand the grid. No public statements on data centers found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.8400 DATA Act of 2026 (original cosponsor; House companion to Sen. Cotton's bill)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8400",
+"date": "2026-04-21",
+"quote": null,
+"what_it_shows": "Amends the Federal Power Act to exempt consumer-regulated (self-supplied) electric utilities from federal regulation so data centers can build their own power, pitched as lowering energy costs for everyone else."
+},
+{
+"type": "cosponsor",
+"title": "H.R.6633 High-Capacity Grid Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6633",
+"date": "2026-01-09",
+"quote": null,
+"what_it_shows": "Grid expansion bill in the Energy and Commerce data center and grid package, ordered reported 49-0 in July 2026."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "Light touch on the limited record available. In December 2024 he led a letter warning HHS that AI assurance labs would mean regulatory capture and stifle innovation; in the prior Congress he cosponsored a study of whether AI could help create bioweapons.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter from Reps. Crenshaw, Guthrie, Obernolte and Miller-Meeks to HHS on AI assurance labs (Healthcare IT News)",
+"url": "https://www.healthcareitnews.com/news/republicans-want-changes-hhs-ai-assurance-labs",
+"date": "2024-12-03",
+"quote": "We are writing to express our significant concerns with the potential role of assurance labs in the regulatory oversight of artificial intelligence technologies, and how this will lead to regulatory capture and stifle innovation",
+"what_it_shows": "He opposed a new federal AI oversight structure in health care as anti-innovation and a conflict of interest."
+},
+{
+"type": "cosponsor",
+"title": "118th H.R.4704 Artificial Intelligence and Biosecurity Risk Assessment Act (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4704",
+"date": "2023-07-18",
+"quote": null,
+"what_it_shows": "Asked health officials to study whether AI could help bad actors build biological weapons; a study, not a mandate."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted rules aimed at kids and foreign-controlled apps: cosponsor of the TikTok divest-or-ban law, STOP CSAM Act, TAKE IT DOWN Act and the Safe Vehicle Access for Survivors Act. His HHS letter shows resistance to new AI-specific oversight bodies.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "118th H.R.7521 Protecting Americans from Foreign Adversary Controlled Applications Act (cosponsor; now law)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "Forces TikTok's sale or ban and lets the government act against other adversary-controlled apps."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3921 STOP CSAM Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2025-09-15",
+"quote": null,
+"what_it_shows": "Makes platforms do more against child sexual abuse material and lets victims sue."
+},
+{
+"type": "cosponsor",
+"title": "H.R.633 TAKE IT DOWN Act (cosponsor; now law)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-05",
+"quote": null,
+"what_it_shows": "Criminalizes real and AI-faked intimate images and requires fast platform takedowns."
+},
+{
+"type": "cosponsor",
+"title": "H.R.2110 Safe Vehicle Access for Survivors Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"date": "2025-03-14",
+"quote": null,
+"what_it_shows": "Requires carmakers to cut off an abuser's remote access to a car's data when a survivor asks."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting or pausing state AI laws. He did not sign the Democratic letters against preemption and made no statement on the December 2025 executive order or the March 2026 White House framework that searches could find.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans hawkish: an original cosponsor of the STRIDE Act tightening rules on shipping advanced chips to China, which the Foreign Affairs Committee approved 44-0, and a cosponsor of the TikTok ban. No statements on Nvidia chip sales found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.6058 STRIDE Act (Semiconductor Technology Resilience, Integrity, and Defense Enhancement Act) (original cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6058",
+"date": "2025-11-17",
+"quote": null,
+"what_it_shows": "Tightens rules on shipping advanced chips to China and other rivals; ordered reported 44-0 by House Foreign Affairs on Apr 22, 2026."
+},
+{
+"type": "cosponsor",
+"title": "118th H.R.7521 Protecting Americans from Foreign Adversary Controlled Applications Act (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "Part of a broader pattern of restricting Chinese-controlled technology in the US."
+}
+]
+}
+},
+"search_notes": "Ran about 10 searches (AI, data centers, DATA Act/High-Capacity Grid, Big Tech/TikTok/Section 230, chips/STRIDE, podcast, PACs). Verified his DATA Act, High-Capacity Grid Act and STRIDE Act cosponsorships in govinfo bill status XML and opened the Healthcare IT News letter (via Wayback). crenshaw.house.gov press pages loaded but list almost nothing since February 2026; Begich's DATA Act release, The Verge profile and the Community Impact candidate Q&A could not be opened. No AI statements, hearing remarks or super PAC activity found. He lost the March 3, 2026 primary to state Rep. Steve Toth and leaves office in January 2027."
+}
+]

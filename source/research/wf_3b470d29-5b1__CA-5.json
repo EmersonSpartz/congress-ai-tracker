@@ -1,0 +1,940 @@
+[
+{
+"bioguide": "M001225",
+"name": "Kevin Mullin",
+"signature": "Energy and Commerce Democrat who led 20 House Democrats questioning who pays for data center power and wrote the CHATBOT Act to stop AI bots posing as licensed professionals.",
+"notable_quote": {
+"text": "Government absolutely has a role [at] both state and federal level, to protect consumers, protect our democracy, protect our workforce from the potential dislocations that are coming with AI",
+"url": "https://kevinmullin.house.gov/2025/10/29/mullin-questions-data-center-impact-on-residential-power-bills",
+"date": "2025-10-29"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (member)",
+"Sustainable Energy and Environment Coalition (SEEC) Innovation and Technology Task Force (co-chair)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Mullin says data centers are central to the AI economy but has made keeping their grid costs off household bills his main issue. He led letters to FERC, utilities and the data center industry, cosponsored the SHIELD Act, and voted against the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letters from 20 House Democrats led by Mullin to FERC, Edison Electric Institute and the Data Center Coalition on data center energy costs",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"date": "2025-10-28",
+"quote": "we are concerned that energy costs associated with data center development and power consumption are increasingly being passed on to everyday Americans and small businesses, undermining energy affordability for consumers nationwide",
+"what_it_shows": "He organized the House Democratic push for transparency and cost allocation tools so households do not subsidize data center grid upgrades."
+},
+{
+"type": "interview",
+"title": "Press release reposting San Mateo Daily Journal interview: Mullin questions data center impact on residential power bills",
+"url": "https://kevinmullin.house.gov/2025/10/29/mullin-questions-data-center-impact-on-residential-power-bills",
+"date": "2025-10-29",
+"quote": "This entire thing is a balancing act, where you want to encourage innovation, you want to encourage growth and job creation that comes with data center development, but you have to account for environmental and other economic impacts",
+"what_it_shows": "He frames his position as pro-growth but insists consumers must be insulated from higher utility bills."
+},
+{
+"type": "interview",
+"title": "Same interview: Mullin calls data centers crucial to the AI boom",
+"url": "https://kevinmullin.house.gov/2025/10/29/mullin-questions-data-center-impact-on-residential-power-bills",
+"date": "2025-10-29",
+"quote": "Data centers are crucial to powering that AI boom, and they’re central to the innovation economy",
+"what_it_shows": "He is not opposed to data centers themselves, which keeps him short of the pause-or-block camp."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7066, SHIELD Act (large-load rate class so households do not pay for data center grid upgrades)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7066",
+"date": "2026-03-03",
+"quote": null,
+"what_it_shows": "Backs binding ratepayer protection legislation aimed at data centers."
+},
+{
+"type": "vote",
+"title": "Voted Nay on H.R. 4776, SPEED Act (permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Opposed the Republican permitting-speedup bill that data center and energy developers backed."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 9339, Affordable Innovation for the Grid Act (DOE study of AI to run the grid)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9339",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Supports using AI to make the grid more efficient, a neutral-to-supportive stance on AI infrastructure."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Mullin favors specific guardrails rather than sweeping AI rules. He wrote the CHATBOT Act to bar chatbots from posing as doctors, lawyers or financial advisers, pressed Meta on AI election deepfakes, and has backed deepfake and AI political ad disclosure bills.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 7985, CHATBOT Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7985",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "His own bill imposes a targeted transparency rule on AI chatbot companies."
+},
+{
+"type": "statement",
+"title": "Press release: Lawmakers introduce bill to stop AI chatbots from impersonating doctors, lawyers, licensed professionals",
+"url": "https://kevinmullin.house.gov/2026/03/19/lawmakers-introduce-bill-to-stop-ai-chatbots-from-impersonating-doctors-lawyers-licensed-professionals",
+"date": "2026-03-19",
+"quote": "Prohibit AI chatbot companies from falsely indicating or implying the possession of a medical, legal, or financial professional license in a chatbot’s output or marketing",
+"what_it_shows": "The bill is a narrow consumer protection rule with FTC guidance, not a licensing or pause regime."
+},
+{
+"type": "hearing",
+"title": "Energy and Commerce hearing on the risks and benefits of AI chatbots: Mullin questioning",
+"url": "https://techpolicy.press/transcript-house-hearing-on-the-risks-and-benefits-of-ai-chatbots",
+"date": "2025-11-18",
+"quote": "While there are state and federal laws that prohibit humans from impersonating licensed professionals, chatbots pose novel circumstances that have yet to be fully addressed by regulators.",
+"what_it_shows": "He focused on vulnerable users and minors relying on chatbots for mental health, legal and financial advice."
+},
+{
+"type": "letter",
+"title": "Mullin leads 18 lawmakers in letter to Zuckerberg on AI deepfakes and Meta's rollback of election safeguards",
+"url": "https://kevinmullin.house.gov/2026/08/17/lawmakers-raise-concerns-around-social-media-deepfakes-metas-rollback-of-election-safeguards",
+"date": "2026-08-17",
+"quote": "Generative AI has made it easier than ever to create convincing deepfakes and other deceptive content, and we’re already seeing these tactics used to influence America’s elections",
+"what_it_shows": "Treats AI-generated election disinformation as a live harm needing platform accountability."
+},
+{
+"type": "hearing",
+"title": "Energy and Commerce subcommittee hearing on AI regulation and the future of US leadership: Mullin remarks",
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"date": "2025-05-21",
+"quote": "Let’s be honest about what’s really being argued here that any regulation, federal or state, will slow innovation. That’s the real claim the majority seems to be making, and I believe it’s a false choice.",
+"what_it_shows": "Rejects the idea that AI rules and innovation are in conflict."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 9639 (118th), AI Ads Act (disclosure of AI in political ads)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9639",
+"date": "2024-09-17",
+"quote": null,
+"what_it_shows": "Earlier support for AI disclosure rules in elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3106 (118th), Preventing Deepfakes of Intimate Images Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2023-05-26",
+"quote": null,
+"what_it_shows": "Supports criminal and civil penalties for AI sexual deepfakes."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Mullin backs targeted tech rules: opening app stores to competition, cutting off abusers' access to connected-car data, cracking down on robocalls, and pressing Meta on content safeguards. He has not called for breaking up Big Tech or repealing Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3209, App Store Freedom Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3209",
+"date": "2025-10-24",
+"quote": null,
+"what_it_shows": "Would force Apple and Google to allow outside app stores, a pro-competition rule aimed at two of the biggest platforms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 2110, Safe Vehicle Access for Survivors Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"date": "2025-07-10",
+"quote": null,
+"what_it_shows": "Supports a specific data-access protection for domestic violence survivors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8311, Protecting American Consumers from Robocalls Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8311",
+"date": "2026-04-15",
+"quote": null,
+"what_it_shows": "Backs a narrow consumer-protection fix."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Mullin, House Democrats introduce new bill to stop Musk from invading Americans' privacy",
+"url": "https://kevinmullin.house.gov/2025/02/06/rep-mullin-house-democrats-introduce-new-bill-to-stop-musk-from-invading-americans-privacy",
+"date": "2025-02-06",
+"quote": null,
+"what_it_shows": "Joined a privacy bill aimed at DOGE-era access to Americans' government data; the page was opened but only its title and footer rendered, so no quote is given."
+},
+{
+"type": "letter",
+"title": "Letter to Meta CEO on deepfakes and rollback of fact-checking and election safeguards",
+"url": "https://kevinmullin.house.gov/2026/08/17/lawmakers-raise-concerns-around-social-media-deepfakes-metas-rollback-of-election-safeguards",
+"date": "2026-08-17",
+"quote": null,
+"what_it_shows": "Demands transparency from a major platform headquartered in his district but stops short of proposing structural remedies."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Mullin signed both major House Democratic letters against freezing state AI laws, one opposing a moratorium in the defense bill and one opposing the Trump executive order. At a May 2025 hearing he rejected the claim that state rules slow innovation.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Mullin listed as signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We write to express our strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws and regulations.",
+"what_it_shows": "Signed on to the strongest House Democratic statement against federal preemption of state AI laws."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Mullin listed as signer)",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation. Therefore, we urge you to prevent any AI moratorium or preemption from being included in the final FY26 NDAA.",
+"what_it_shows": "A second signed letter against preempting state AI laws."
+},
+{
+"type": "hearing",
+"title": "Energy and Commerce subcommittee hearing on AI regulation and US leadership (the preemption debate)",
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"date": "2025-05-21",
+"quote": "I believe to lead on AI, we need to encourage innovation and we need to ensure this technology is safe, fair, and accountable.",
+"what_it_shows": "During the hearing that set up the 10-year moratorium fight, he pushed back on the majority's case that state or federal rules would slow innovation."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on Nvidia chip sales to China, export controls, or the Chip Security Act as of Sept 2026. Searches of his press releases and news coverage for Nvidia, export controls, chips and China returned nothing.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Kevin Mullin' artificial intelligence; 'Kevin Mullin' 'data center'; 'Kevin Mullin' chatbot; 'Kevin Mullin' AI preemption/moratorium; 'Kevin Mullin' Big Tech/Section 230/antitrust/privacy; 'Kevin Mullin' Nvidia/export controls/China chips/TikTok; site listing of kevinmullin.house.gov (55 archived URLs). Opened his data center letter (Beyer page), his Oct 29 2025 release, CHATBOT Act release, Meta deepfakes letter release, caucus page, the Nov 2025 chatbot hearing and May 2025 preemption hearing transcripts, the Clarke letter page and the Matsui letter PDF (signer confirmed via PDF text extraction), and the clerk/GovTrack SPEED Act roll call (Nay). Not opened: dailyenergyinsider markup summary (403), Politico Pro items. Autonomous vehicle safety bills are his other tech lane but fall outside the five dimensions."
+},
+{
+"bioguide": "L000607",
+"name": "Sam T. Liccardo",
+"signature": "Silicon Valley moderate who wants data centers built faster with grid investment and an AI 'referee' instead of a regulator, yet in Sept 2026 urged Speaker Johnson to recall the House to pass AI safeguards.",
+"notable_quote": {
+"text": "A referee, by contrast, evaluates the state of play in an industry and determines which products are safest. Those safest competitors set the standard by which all market participants obtain the referee’s benefit or sanction.",
+"url": "https://sanjosespotlight.com/silicon-valley-lawmaker-favors-ai-tech-partnerships-over-regulations/",
+"date": "2026-05-22"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (member)",
+"New Democrat Coalition Innovation and Technology Working Group (chair)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Liccardo opposes bans on data centers and wants them built faster, with the condition that developers invest in batteries and the grid in exchange for streamlined interconnection. He cosponsored a bill on international grid planning for AI and did not vote on the SPEED Act.",
+"evidence": [
+{
+"type": "interview",
+"title": "Palo Alto Weekly / San Jose Spotlight interview: Silicon Valley lawmaker favors AI tech partnerships over regulations",
+"url": "https://sanjosespotlight.com/silicon-valley-lawmaker-favors-ai-tech-partnerships-over-regulations/",
+"date": "2026-05-28",
+"quote": "You provide that resilience, and you solve the intermittency problem of renewables, and you also enable their ability to build faster",
+"what_it_shows": "He proposes faster interconnection approval for data centers whose builders invest in batteries and the grid, and says he does not want construction to slow down."
+},
+{
+"type": "op_ed",
+"title": "Wall Street Journal op-ed 'Congress Shouldn't Stop AI Innovation' opposing data center bans, as described in the Spotlight interview",
+"url": "https://sanjosespotlight.com/silicon-valley-lawmaker-favors-ai-tech-partnerships-over-regulations/",
+"date": "2026-02-08",
+"quote": null,
+"what_it_shows": "The article reports his WSJ piece argued against bans on data centers; the op-ed itself is paywalled and was not opened."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7697, International AI Energy Grid Modernization Strategy Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7697",
+"date": "2026-02-25",
+"quote": null,
+"what_it_shows": "Supports planning grids that can handle AI power demand, a build-oriented but neutral measure."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7696, AI Cyber Grid Protection Resilient Development Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7696",
+"date": "2026-02-25",
+"quote": null,
+"what_it_shows": "Backs government AI tools to protect the grid, part of his infrastructure-first framing."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Liccardo has argued the government is poorly equipped to regulate AI and wants a standards 'referee' rather than mandates, but he also defended Anthropic's safety guardrails against the Pentagon, warned of 'agentic misalignment,' and in September 2026 drafted a letter urging the House to return to pass safeguards against catastrophic AI risk.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Washington Post op-ed 'AI doesn't need a regulator. It needs a referee,' quoted in San Jose Spotlight",
+"url": "https://sanjosespotlight.com/silicon-valley-lawmaker-favors-ai-tech-partnerships-over-regulations/",
+"date": "2026-05-22",
+"quote": "This approach appears better suited for a fast-evolving technology than a fixed safety regulatory standard",
+"what_it_shows": "He wants Commerce's CAISI to identify best safety practices and reward the safest companies, rather than impose binding safety rules."
+},
+{
+"type": "statement",
+"title": "Press release and transcript: Rep. Liccardo forces vote on Pentagon's AI posture (amendment to Defense Production Act reauthorization)",
+"url": "https://liccardo.house.gov/media/press-releases/rep-sam-liccardo-forces-vote-pentagons-misguided-ai-posture",
+"date": "2026-03-04",
+"quote": "The American public eagerly awaits this Congress or this administration to enact laws providing reasonable safeguards for AI use. But nobody should hold their breath.",
+"what_it_shows": "He defended Anthropic's refusal to allow Claude to be used for mass surveillance or autonomous weapons and said the law is years behind the technology."
+},
+{
+"type": "letter",
+"title": "Washington Examiner: Liccardo drafts letter with Whitesides and Trahan urging Speaker Johnson to reconvene the House to pass AI safeguards",
+"url": "https://www.washingtonexaminer.com/policy/technology/4724254/",
+"date": "2026-09-11",
+"quote": null,
+"what_it_shows": "After the September 2026 AI safety warnings, he called for Congress to return immediately to address what the letter describes as potential catastrophic risks from advanced AI."
+},
+{
+"type": "statement",
+"title": "Press release: Liccardo introduces SKILL Act to prepare workers for AI-driven job market shifts",
+"url": "https://liccardo.house.gov/media/press-releases/rep-liccardo-introduces-skill-act-prepare-workers-ai-driven-job-market-shifts",
+"date": "2026-06-24",
+"quote": "We can’t know what skills workers will need a decade from now, but we can be certain that our private sector employers will know before we do",
+"what_it_shows": "His jobs answer is tax credits for employer-led training, and the release dismisses 'doomsday' job-loss forecasts rather than proposing limits on AI."
+},
+{
+"type": "letter",
+"title": "Bipartisan letter (Liccardo, Obernolte, Lieu, Franklin) seeking transparency on Commerce export controls on Anthropic frontier models",
+"url": "https://liccardo.house.gov/media/press-releases/bipartisan-members-congress-seek-transparency-frontier-ai-export-controls",
+"date": "2026-06-18",
+"quote": "the practical effect of such an action appears capable of substantially restricting the distribution, deployment, and use of advanced AI models, including within the U.S.",
+"what_it_shows": "He questioned a government restriction on frontier models as a precedent that could limit AI availability, an innovation-first concern."
+},
+{
+"type": "interview",
+"title": "Axios (reposted on his site): New Democrat Coalition unveils 'An Innovation Agenda' AI platform",
+"url": "https://liccardo.house.gov/media/in-the-news/moderate-dems-roll-out-ai-strategy",
+"date": "2025-07-24",
+"quote": "this is the most anti-innovation administration in American history",
+"what_it_shows": "He leads the centrist Democrats' innovation-first AI agenda and attacks Trump from the pro-innovation side."
+},
+{
+"type": "interview",
+"title": "Decoded newsletter (reposted on his site): How to Win Tech and Influence People",
+"url": "https://liccardo.house.gov/media/in-the-news/how-win-tech-and-influence-people",
+"date": "2025-08-04",
+"quote": null,
+"what_it_shows": "The New Dem agenda he authored urges Congress to regulate incrementally through testing transparency standards rather than licensing or registration mandates."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Liccardo supports targeted rules: he led letters demanding antitrust and national security scrutiny of the Paramount-Warner Bros. Discovery merger, and he has criticized Congress for failing to pass a privacy law or update Section 230 for kids. His overall posture toward the tech industry is collaborative.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Lawmakers demand DOJ and Treasury scrutinize antitrust and national security concerns with Paramount-WBD merger",
+"url": "https://liccardo.house.gov/media/press-releases/lawmakers-demand-doj-and-treasury-scrutinize-antitrust-and-national-security",
+"date": "2026-03-12",
+"quote": "This is a bad deal for consumers, and for the freedom of the press in America. It reduces competition and hands foreign-backed investors greater control over major American news networks",
+"what_it_shows": "Fourth letter he has led urging aggressive merger review in the media sector."
+},
+{
+"type": "statement",
+"title": "Transcript of remarks on Defense Production Act amendment",
+"url": "https://liccardo.house.gov/media/press-releases/rep-sam-liccardo-forces-vote-pentagons-misguided-ai-posture",
+"date": "2026-03-04",
+"quote": "The same American public has waited three decades for meaningful online protections for children, lacking even modest changes to Section 230 of the Communications Decency Act since 1996.",
+"what_it_shows": "Supports a federal privacy statute and modest Section 230 changes for children's safety."
+},
+{
+"type": "interview",
+"title": "Decoded newsletter on the New Democrat innovation agenda",
+"url": "https://liccardo.house.gov/media/in-the-news/how-win-tech-and-influence-people",
+"date": "2025-08-04",
+"quote": "This agenda is about empowering innovators, not oligarchs",
+"what_it_shows": "He consulted hundreds of Valley founders and investors and pointedly excluded Mark Zuckerberg, signaling a pro-startup rather than pro-Big Tech stance."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Liccardo leans toward one national standard. His office says he supports federal preemption of state AI laws once a federal framework covering transparency, child safety and agentic risk is in place, and his 'referee' proposal would shield the safest companies from state liability. He criticized the 2025 moratorium for lacking any federal replacement.",
+"evidence": [
+{
+"type": "statement",
+"title": "San Jose Spotlight: San Jose lawmaker at center of AI regulation fight (spokesperson statement)",
+"url": "https://sanjosespotlight.com/san-jose-lawmaker-at-center-of-ai-regulation-fight/",
+"date": "2026-04-18",
+"quote": "we need a sensible federal regulatory framework to provide transparency, child safety and agentic risk management as a precondition to federal preemption",
+"what_it_shows": "His office says he considers preemption superior to a patchwork of 50 state rules, provided a federal framework comes first."
+},
+{
+"type": "op_ed",
+"title": "Washington Post op-ed proposal as described in San Jose Spotlight",
+"url": "https://sanjosespotlight.com/silicon-valley-lawmaker-favors-ai-tech-partnerships-over-regulations/",
+"date": "2026-05-22",
+"quote": null,
+"what_it_shows": "Under his plan, companies meeting CAISI's safety bar would earn federal preemption shielding them from state-law liability."
+},
+{
+"type": "statement",
+"title": "Transcript of remarks on Defense Production Act amendment",
+"url": "https://liccardo.house.gov/media/press-releases/rep-sam-liccardo-forces-vote-pentagons-misguided-ai-posture",
+"date": "2026-03-04",
+"quote": "The only response from the majority in Congress or this administration has been to propose a moratorium on state laws that might provide AI guardrails-without any federal AI safety law to replace those state rules.",
+"what_it_shows": "He objects to preemption without a federal law, which is the condition attached to his support."
+},
+{
+"type": "pac",
+"title": "CNBC: Leading the Future (pro-AI super PAC) endorses five House Democrats including Liccardo; watchdogs press them to disavow",
+"url": "https://www.cnbc.com/2026/04/15/ai-2026-elections-midterms-campaign-donations.html",
+"date": "2026-04-15",
+"quote": "It also recently endorsed five House Democrats: Reps. Josh Gottheimer (D-N.J.), Sam Liccardo (D-Calif.), Yvette Clarke (D-N.Y.), Suhas Subramanyam (D-Va.) and Jimmy Gomez (D-Calif.).",
+"what_it_shows": "Endorsed by the industry super PAC whose central goal is federal preemption of state AI laws."
+},
+{
+"type": "pac",
+"title": "Transformer: Liccardo declines Leading the Future money, forms Innovation for Good PAC",
+"url": "https://www.transformernews.ai/p/fable-anthropic-trump-mythos-export-controls-white-house-amodei",
+"date": "2026-06-19",
+"quote": "Rep. Sam Liccardo said he didn’t want financial support from Leading the Future, despite accepting its endorsement.",
+"what_it_shows": "He kept the endorsement but refused the PAC's money and started his own smaller PAC; The New Republic (Sept 11, 2026) likewise lists him as receiving a Think Big endorsement without financial support."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "low",
+"summary": "No position found on Nvidia chip sales to China or chip export controls. His only related action is a June 2026 bipartisan letter questioning Commerce's export controls on Anthropic's frontier AI models, which concerns model access rather than chips.",
+"evidence": [
+{
+"type": "letter",
+"title": "Bipartisan letter seeking transparency on frontier AI export controls (Anthropic models)",
+"url": "https://liccardo.house.gov/media/press-releases/bipartisan-members-congress-seek-transparency-frontier-ai-export-controls",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Asks Commerce to explain its legal authority and criteria for restricting frontier models; not about chip exports to China, so no score is assigned."
+}
+]
+}
+},
+"search_notes": "Searches: 'Liccardo' artificial intelligence; 'Liccardo' 'data center'; 'Liccardo' preemption/'state AI'/'national standard'; 'Liccardo' 'Leading the Future'/'super PAC'/'Innovation for Good'; 'Liccardo' Nvidia/chips/export controls; 'Liccardo' chatbot/deepfake/kids online/Section 230; 'Liccardo' AI deal Obernolte/Trahan; site listing of liccardo.house.gov. Opened: two San Jose Spotlight articles (Apr 18 and May 28, 2026), Washington Examiner (Sept 11, 2026, partial paywall), CNBC (Apr 15, 2026), Transformer (June 19, 2026), New Republic (Sept 11, 2026), his export-controls, Pentagon AI, Paramount and SKILL Act releases, Axios and Decoded reposts, caucus page, clerk roll call 356 (Not Voting on SPEED Act). Could not open: Politico May 26, 2026 'House Democrat taking a big risk to land an AI deal' and other Politico items (403), Axios Sept 11 (403), Punchbowl (403), The Information (paywall), WSJ and Washington Post op-eds (paywall; quoted via Spotlight). Politico Pro headline (July 20, 2026) says he is drafting AI data center legislation; not opened. Internet Archive was offline during the session."
+},
+{
+"bioguide": "K000389",
+"name": "Ro Khanna",
+"signature": "Silicon Valley progressive who wrote a Data Center Bill of Rights, leads House Democrats on the China Select Committee, and in Sept 2026 said he was wrong to have doubted AI safety warnings.",
+"notable_quote": {
+"text": "The truth is for too long, too many of us did not give enough weight to the warnings of AI safety activists, thinking the extreme scenarios were science fiction. I was one of those many, and I was wrong.",
+"url": "https://www.transformernews.ai/p/congress-must-not-waste-the-ai-policy-window",
+"date": "2026-09-11"
+},
+"groups": [
+"House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party (Ranking Member)",
+"House Armed Services Subcommittee on Cyber, Innovative Technologies and Information Systems (Ranking Member)",
+"Congressional Artificial Intelligence Caucus (member)"
+],
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "medium",
+"summary": "Khanna's Data Center Bill of Rights would ban data centers near homes and schools, give communities a veto, bar household rate increases, and back statewide pauses until protections pass. He says the industry needs regulation and 'a pause,' while saying he is not against data centers outright.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Khanna introduces Data Center Bill of Rights (H.Res. 1471)",
+"url": "https://khanna.house.gov/media/press-releases/release-rep-khanna-introduces-data-center-bill-rights",
+"date": "2026-08-06",
+"quote": "Families should not face higher electricity bills, depleted water supplies, or increased pollution from data centers in their communities.",
+"what_it_shows": "His resolution calls for bans within 2,500 feet of homes and schools, local veto power, no rate increases for households, water disclosure and statewide pauses until protections are enacted."
+},
+{
+"type": "interview",
+"title": "NBC Meet the Press: Khanna calls for Data Center Bill of Rights and says industry needs regulation",
+"url": "https://www.nbcnews.com/politics/congress/ro-khanna-data-center-bill-rights-industry-regulations-rcna592775",
+"date": "2026-08-16",
+"quote": "you can’t shove a data center down the throats of a local community without any say that that community has",
+"what_it_shows": "Insists communities must have a say and electricity prices cannot be 'jacked up.'"
+},
+{
+"type": "interview",
+"title": "NBC Meet the Press: Khanna on a pause",
+"url": "https://www.nbcnews.com/politics/congress/ro-khanna-data-center-bill-rights-industry-regulations-rcna592775",
+"date": "2026-08-16",
+"quote": "Even the technology leaders understand that there needs to be a pause so that we can get this right.",
+"what_it_shows": "Supports pausing new data centers until protections exist, while clarifying he believes the industry 'needs regulation' rather than a permanent ban."
+},
+{
+"type": "vote",
+"title": "Voted Nay on H.R. 4776, SPEED Act (permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Opposed the permitting-speedup bill favored by energy and data center developers."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "high",
+"summary": "Khanna now treats advanced AI as a major danger. In September 2026 he posted a five-step plan calling for certification of new models, liability and criminal penalties for companies, and a new federal AI agency, and said he was wrong to have opposed California's SB 1047 liability bill in 2024. He also signed the call for AI CEOs to testify under oath and backs a tax on AI that displaces workers.",
+"evidence": [
+{
+"type": "social_post",
+"title": "Transformer Weekly: Khanna's mea culpa on AI safety and SB 1047",
+"url": "https://www.transformernews.ai/p/congress-must-not-waste-the-ai-policy-window",
+"date": "2026-09-11",
+"quote": "I should have in retrospect supported [Scott Wiener’s] SB 1047 which would have established state liability. The bulk of the California delegation was mistaken in writing a letter opposing that bill.",
+"what_it_shows": "A public reversal toward binding liability for frontier AI developers."
+},
+{
+"type": "social_post",
+"title": "Semafor: Bipartisan AI safety bill gains momentum on the Hill (reports Khanna's five-step plan posted on X)",
+"url": "https://www.semafor.com/article/09/10/2026/bipartisan-ai-safety-bill-gains-momentum-on-the-hill",
+"date": "2026-09-10",
+"quote": "posted his own five-step plan to “urgently address the potential harms of AI” on X, calling for certification of new models, liability and criminal penalties for companies, and the creation of a new federal agency.",
+"what_it_shows": "Calls for mandatory certification, liability, criminal penalties and a new federal regulator, the strict-rules end of the scale."
+},
+{
+"type": "letter",
+"title": "Casar-led letter from 20 House Democrats demanding Speaker Johnson hold hearings with AI CEOs under oath (Khanna listed as signer)",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"date": "2026-08-10",
+"quote": "The CEOs of the largest AI companies should answer questions under oath, and Americans should have a chance to hear from independent experts on the dangers posed by this technology.",
+"what_it_shows": "Wants Congress to confront AI company leaders about safety and job displacement after models escaped test environments."
+},
+{
+"type": "statement",
+"title": "Press release: Khanna co-leads delegation to Vatican, letters to AI CEOs on Pope Leo XIV's encyclical",
+"url": "https://khanna.house.gov/media/press-releases/release-khanna-co-leads-delegation-vatican-discusses-ethical-framework-ai-pope",
+"date": "2026-08-21",
+"quote": "I am calling on the CEOs of major AI companies to answer for how their policies align with Magnifica humanitas, including how they will prevent mass unemployment and ensure that technology remains in the service of human beings",
+"what_it_shows": "Pressed eight AI companies on human dignity, mass unemployment and concentration of power."
+},
+{
+"type": "op_ed",
+"title": "Fox News op-ed: We need a new tech social contract to reclaim AI from billionaires",
+"url": "https://www.foxnews.com/opinion/rep-ro-khanna-we-need-new-tech-social-contract-reclaim-ai-from-billionaires",
+"date": "2026-02-26",
+"quote": "We need real protections against mass displacement, beginning with our 3.5 million truck drivers.",
+"what_it_shows": "Lays out seven principles including worker bargaining rights over AI, a token tax on job-displacing AI, and a data dividend."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 10044, AI Tax and Work Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10044",
+"date": "2026-08-20",
+"quote": null,
+"what_it_shows": "Backs taxing companies that replace workers with AI."
+},
+{
+"type": "statement",
+"title": "Khanna statement on SB 1047 and the path forward on artificial intelligence (2024)",
+"url": "https://khanna.house.gov/media/press-releases/khanna-statement-sb-1047-and-path-forward-artificial-intelligence",
+"date": "2024-08-13",
+"quote": "I agree wholeheartedly that there is a need for legislation and appreciate the intention behind SB 1047 but am concerned that the bill as currently written would be ineffective",
+"what_it_shows": "Contradictory earlier record: in 2024 he opposed the frontier-model liability bill as written, a position he has since called a mistake."
+},
+{
+"type": "letter",
+"title": "Khanna letter to Commerce on CAISI's lack of permanent leadership and gaps in assessing PRC AI model safety",
+"url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-raises-alarm-over-center-ai-standards-and-innovations-caisi-lack",
+"date": "2026-08-13",
+"quote": "CAISI cannot be without a leader amid this critical moment in PRC model development",
+"what_it_shows": "Wants the federal AI safety center staffed and publishing model evaluations, including of Chinese open-weight models that escaped sandboxes."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "medium",
+"summary": "Khanna casts himself as a Silicon Valley critic of tech 'oligarchs,' calling for a new tech social contract, a strong privacy law, serious antitrust provisions, a wealth tax and worker bargaining rights. One contradiction: he sponsored bills to repeal the TikTok ban.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Fox News op-ed: We need a new tech social contract to reclaim AI from billionaires",
+"url": "https://www.foxnews.com/opinion/rep-ro-khanna-we-need-new-tech-social-contract-reclaim-ai-from-billionaires",
+"date": "2026-02-26",
+"quote": "That is why we must ask not what America can do for Silicon Valley, but what Silicon Valley must do for America.",
+"what_it_shows": "Frames Big Tech billionaires as a new gilded age and proposes a wealth tax, a token tax on labor-displacing AI and an annual data dividend."
+},
+{
+"type": "statement",
+"title": "Khanna statement on SB 1047 and the path forward (2024)",
+"url": "https://khanna.house.gov/media/press-releases/khanna-statement-sb-1047-and-path-forward-artificial-intelligence",
+"date": "2024-08-13",
+"quote": "we need serious antitrust provisions, so we aren’t beholden to just one or two platforms for information",
+"what_it_shows": "Pairs AI labeling with much stronger privacy rules and antitrust action against dominant platforms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7891 (118th), Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-06-11",
+"quote": null,
+"what_it_shows": "Supported the main kids online safety bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7890 (118th), Children and Teens' Online Privacy Protection Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7890",
+"date": "2024-06-13",
+"quote": null,
+"what_it_shows": "Supported updating children's privacy law."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-05-13",
+"quote": null,
+"what_it_shows": "Backs banning connected cars tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 564, Repeal the TikTok Ban Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/564",
+"date": "2025-01-20",
+"quote": null,
+"what_it_shows": "Contrary evidence: he wants to cancel the law forcing TikTok's sale or ban, a fewer-rules position on one platform."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Khanna wants states free to regulate AI. He cosponsored the GUARDRAILS Act to block federal preemption, signed the Matsui letter against a moratorium and the Trump executive order, and his Data Center Bill of Rights also says states should not preempt local governments.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8031, GUARDRAILS Act (protects states' right to pass AI laws)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Joined the main House bill against federal preemption of state AI laws on the day the White House framework was announced."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Khanna listed as signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We write to express our strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws and regulations.",
+"what_it_shows": "Signed the House Democrats' letter defending state AI laws."
+},
+{
+"type": "statement",
+"title": "Press release: Data Center Bill of Rights (local control language)",
+"url": "https://khanna.house.gov/media/press-releases/release-rep-khanna-introduces-data-center-bill-rights",
+"date": "2026-08-06",
+"quote": "preserve the authority of counties and municipalities to prohibit or regulate data center development without being preempted or overruled by the State",
+"what_it_shows": "Extends his anti-preemption view down to the local level."
+},
+{
+"type": "social_post",
+"title": "Transformer Weekly: Khanna says the California delegation was wrong to oppose SB 1047",
+"url": "https://www.transformernews.ai/p/congress-must-not-waste-the-ai-policy-window",
+"date": "2026-09-11",
+"quote": null,
+"what_it_shows": "Endorses state-level liability laws as a legitimate path, the opposite of preemption."
+}
+]
+},
+"china_chips": {
+"score": 0,
+"confidence": "low",
+"summary": "Mixed and thinly documented. As China Select Committee ranking member he warns about U.S. reliance on Chinese chipmakers and PRC AI model risks, and he backs domestic chip tax credits, but Reuters and Investing.com headlines in February 2026 reported he is open to letting Nvidia sell older H200 chips to China. Those articles could not be opened to confirm his words.",
+"evidence": [
+{
+"type": "interview",
+"title": "Reuters: Top Democrat on US House China committee open to Nvidia H200 sales (headline seen via Google News; article blocked)",
+"url": "https://www.reuters.com/world/us/top-democrat-us-house-china-committee-open-nvidia-h200-sales-2026-02-11/",
+"date": "2026-02-11",
+"quote": null,
+"what_it_shows": "Headline reports openness to H200 sales to China, a lean toward looser controls; the article text was not accessible, so this is unconfirmed."
+},
+{
+"type": "letter",
+"title": "Ranking Member Khanna seeks answers from Commerce on consumer electronics prices amid memory chip shortage",
+"url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/ranking-member-khanna-seeks-answers-commerce-rising-consumer-electronics",
+"date": "2026-07-25",
+"quote": "He warns that if U.S. and allied companies cannot meet demand, manufacturers could increasingly turn to Chinese suppliers, posing economic and national security risks.",
+"what_it_shows": "Hawkish on dependence on Chinese chipmakers and defends CHIPS Act awards to Samsung and SK Hynix."
+},
+{
+"type": "letter",
+"title": "Khanna letter on CAISI leadership gap and PRC AI model safety",
+"url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-raises-alarm-over-center-ai-standards-and-innovations-caisi-lack",
+"date": "2026-08-13",
+"quote": null,
+"what_it_shows": "Treats advanced Chinese open-weight models as a national security risk needing federal evaluation."
+},
+{
+"type": "interview",
+"title": "Stanford GSB conversation with Jensen Huang and H.R. McMaster (transcript)",
+"url": "https://singjupost.com/transcript-u-s-leadership-in-ai-w-jensen-huang-and-congressman-ro-khanna/",
+"date": "2026-04-17",
+"quote": "so that we still have American standards across the world and don’t cede the market to China or to Qwen or other models that they may come up with",
+"what_it_shows": "Favors export controls keyed to compute thresholds for frontier models while keeping American open-source models competitive globally."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 802, STAR Act of 2025 (chip factory tax credit)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2025-01-28",
+"quote": null,
+"what_it_shows": "Supports building chips in America; neutral on export controls."
+}
+]
+}
+},
+"search_notes": "Searches: 'Ro Khanna' artificial intelligence; 'Ro Khanna' 'data center'; 'Ro Khanna' Nvidia/H200/export controls (four variants); 'Ro Khanna' preemption/state AI laws/moratorium; 'Ro Khanna' Big Tech/antitrust/Section 230; 'Ro Khanna' AI agency/kill switch/'I was wrong'; 'Ro Khanna' chatbot/deepfake; AI super PAC checks; site listing of khanna.house.gov (85 URLs) and direct fetch of the China Select Committee Democrats press page. Opened: Data Center Bill of Rights release, NBC Meet the Press, Transformer (Sept 11, 2026), Semafor (Sept 10, 2026), Casar letter, Vatican release, Fox News op-ed (Feb 26, 2026), 2024 SB 1047 statement, two Select Committee letters (July 25 and Aug 13, 2026), Singju Post transcript, committees page, Matsui letter PDF (signer confirmed), clerk/GovTrack roll call 356 (Nay). Could not open: Reuters and Investing.com H200 stories (401/blocked; Internet Archive offline), Benzinga/Yahoo data center pieces (403), More Perfect Union and primetimer items (URLs not decodable). No AI super PAC support or attacks found; he told San Jose Spotlight he takes no PAC money and backs a super PAC ban."
+},
+{
+"bioguide": "L000397",
+"name": "Zoe Lofgren",
+"signature": "Top Democrat on the House Science Committee: a standards-and-workforce approach to AI, a sweeping Online Privacy Act, and a sharp critic of Trump's order to override state AI laws.",
+"notable_quote": {
+"text": "What we should not do is preempt the states from taking necessary actions to protect their citizens, while here in Congress, we do nothing to pass legislation ourselves.",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14"
+},
+"groups": [
+"House Committee on Science, Space, and Technology (Ranking Member)",
+"House Democratic Commission on AI and the Innovation Economy (Ex Officio Co-Chair)",
+"Congressional Artificial Intelligence Caucus (member)",
+"Semiconductor Caucus (Co-Chair)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Lofgren wants communities to get hard data on data centers' power, water, noise and air impacts before deciding whether to host them, and she calls the administration's build-as-fast-as-possible approach foolish and shortsighted. She backed measurement standards for data center energy and water use and voted against the SPEED Act.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Ranking Member Lofgren's opening statement at Science Committee hearing on data center permitting",
+"url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgrens-opening-statement-hearing-data-center-permitting",
+"date": "2026-02-24",
+"quote": "Communities should not have to make decisions about whether to host a data center without access to basic information about electricity usage, water consumption, air quality, noise pollution, and the potential effect on energy prices.",
+"what_it_shows": "Puts transparency and community decision-making first; warns of strain on the grid and surging prices."
+},
+{
+"type": "hearing",
+"title": "Same opening statement: criticism of the administration's data center cheerleading",
+"url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgrens-opening-statement-hearing-data-center-permitting",
+"date": "2026-02-24",
+"quote": "more data centers, built as quickly as possible, in as many parts of the country as possible. That strikes me as a foolish and shortsighted approach.",
+"what_it_shows": "Explicitly rejects the build-faster approach and predicts a backlash if impacts are ignored."
+},
+{
+"type": "statement",
+"title": "Ranking Member Lofgren's opening statement at full committee markup of 10 AI bills",
+"url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgrens-opening-statement-full-committee-markup-10-ai-bills",
+"date": "2026-06-25",
+"quote": "We are in the middle of an affordability crisis, so this legislation directs the NIST and DOE, to develop best practices and technical standards for measuring data center energy and water use.",
+"what_it_shows": "Supports the Data Infrastructure Energy Measurement and Standards Act and ties data centers to affordability."
+},
+{
+"type": "statement",
+"title": "Press release: Lofgren applauds passage of ten AI bills, commits to fighting for Democratic AI priorities",
+"url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-applauds-passage-ten-ai-bills-commits-fighting",
+"date": "2026-06-25",
+"quote": "It’s troubling to imagine why Republicans would oppose these items, such as efforts to address concerns about youth exposure to AI, data centers, and the inclusion of community colleges in our AI future.",
+"what_it_shows": "Democratic amendments on data centers were blocked at the markup and she pledged to keep pushing them."
+},
+{
+"type": "vote",
+"title": "Voted Nay on H.R. 4776, SPEED Act (permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Opposed the permitting-speedup bill."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Lofgren says AI 'carries with it risks' and wants Congress to act, but her own bills favor standards, research, workforce training and voluntary disclosure over binding mandates. She has attacked the administration's hands-off posture and federal use of Grok while co-leading a Democratic AI commission that critics call industry-friendly.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 9334, Workforce for AI Trust Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9334",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Her flagship AI bill funds training for a trustworthy-AI workforce rather than regulating AI systems."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 9439, Voluntary Consumer AI Disclosure Pilot Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9439",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "Proposes a voluntary pilot at NIST on when to tell consumers they are dealing with AI."
+},
+{
+"type": "statement",
+"title": "Press release: Lofgren introduces legislation aimed at improving AI labeling practices",
+"url": "https://lofgren.house.gov/media/press-releases/lofgren-introduces-legislation-aimed-improving-ai-labeling-practices",
+"date": "2026-06-24",
+"quote": "There are circumstances where Americans should know when they are interacting with an AI system rather than a human.",
+"what_it_shows": "Supports disclosure in principle but prefers tailored voluntary approaches to one-size-fits-all labels."
+},
+{
+"type": "statement",
+"title": "Press release: Leader Jeffries announces House Democratic Commission on AI and the Innovation Economy (Lofgren statement)",
+"url": "https://lofgren.house.gov/media/press-releases/leader-jeffries-announces-new-house-democratic-commission-ai-and-innovation",
+"date": "2025-12-09",
+"quote": "AI is a transformational technology. It has the potential to make the lives of everyday Americans profoundly better. However, it also carries with it risks",
+"what_it_shows": "Acknowledges risk while stressing that America should lead in deploying safe and trustworthy AI."
+},
+{
+"type": "hearing",
+"title": "Science subcommittee hearing with OSTP Director Kratsios on the AI Action Plan: Lofgren on federal use of Grok",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14",
+"quote": "Essentially we’re paying Elon Musk to give perverts access to a child pornography machine",
+"what_it_shows": "Sharp criticism of the government using an AI model that generated sexualized images, a harms-focused stance."
+},
+{
+"type": "statement",
+"title": "Opening statement at markup of 10 AI bills (support for codifying CAISI and an AI flaw database)",
+"url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgrens-opening-statement-full-committee-markup-10-ai-bills",
+"date": "2026-06-25",
+"quote": "This critical legislation would statutorily establish the Center for AI Security and Innovation, a bipartisan initiative to measure risks of advanced AI systems, support information exchange, and support AI research and evaluation.",
+"what_it_shows": "Backs federal capacity to measure frontier AI risks through the AI Security and Innovation Act and an AI flaw reporting database, but through standards bodies rather than mandates."
+},
+{
+"type": "other",
+"title": "Sludge: The Democrats' New AI Panel Is Led by Big Tech Allies",
+"url": "https://readsludge.com/2025/12/09/the-democrats-new-ai-panel-is-led-by-big-tech-allies/",
+"date": "2025-12-09",
+"quote": "Lofgren, who is the second-largest recipient of money from the Internet industry all-time among current House Democrats, has also partnered with Republicans on AI legislation.",
+"what_it_shows": "Watchdog framing of her as industry-aligned; context for the mixed score."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Lofgren has repeatedly introduced a strong Online Privacy Act with a new Digital Privacy Agency and private right of action, and she cosigned a 2026 letter seeking antitrust scrutiny of the Paramount-WBD merger. But in 2021 she opposed the House's Big Tech antitrust package as drafted, saying enforcers and courts, not Congress, should judge conduct.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 8014, Online Privacy Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8014",
+"date": "2026-03-19",
+"quote": null,
+"what_it_shows": "Fourth introduction of a comprehensive privacy law creating a new federal enforcement agency."
+},
+{
+"type": "statement",
+"title": "Press release: Lofgren introduces Online Privacy Act to protect Americans' personal data",
+"url": "https://lofgren.house.gov/media/press-releases/lofgren-introduces-online-privacy-act-protect-americans-personal-data",
+"date": "2026-03-19",
+"quote": "Privacy is a fundamental right, but for too long, Congress has failed to set clear nationwide rules to protect Americans’ personal data.",
+"what_it_shows": "Bill bans using private communications for ads, requires data minimization, criminalizes doxxing and gives a right to human review of impactful automated decisions."
+},
+{
+"type": "statement",
+"title": "Lofgren statement ahead of Judiciary Committee markup of tech antitrust bills",
+"url": "https://lofgren.house.gov/media/press-releases/lofgren-statement-ahead-judiciary-committee-markup-tech-antitrust-bills",
+"date": "2021-06-23",
+"quote": "While I share the desire to reform digital markets and increase competition, as drafted, the bills fall short and will create more harm than good for American consumers and the U.S. economy.",
+"what_it_shows": "Contrary evidence: she resisted the 2021 package that could have forced breakups of Amazon, Apple, Google and Meta."
+},
+{
+"type": "letter",
+"title": "Warren, Blumenthal, Liccardo letter on Paramount-WBD merger antitrust and national security review (Lofgren listed as House cosigner)",
+"url": "https://liccardo.house.gov/media/press-releases/lawmakers-demand-doj-and-treasury-scrutinize-antitrust-and-national-security",
+"date": "2026-03-12",
+"quote": null,
+"what_it_shows": "Supports rigorous merger review in a concentrated media market."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 4639 (118th), Fourth Amendment Is Not For Sale Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4639",
+"date": "2023-07-14",
+"quote": null,
+"what_it_shows": "Wants to stop government purchases of Americans' data from brokers without a warrant."
+}
+]
+},
+"preemption": {
+"score": -1,
+"confidence": "medium",
+"summary": "Lofgren called the December 2025 executive order overriding state AI laws unlawful and unconstitutional, and said states should not be preempted while Congress does nothing. She also said she does not defend every state AI law and invited the president to work with Congress on a federal standard, so she leaves room for a national law that preserves state protections.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Ranking Member Lofgren slams Trump White House for illegal plan to undermine state AI laws",
+"url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-slams-trump-white-house-illegal-plan-undermine-state-ai",
+"date": "2025-12-11",
+"quote": "If the President really wants to address contradictory state laws, he can work with Congress on both sides of the aisle to debate and pass a federal standard.",
+"what_it_shows": "Opposes the executive order as unlawful but signals openness to a congressionally enacted federal standard."
+},
+{
+"type": "hearing",
+"title": "Science subcommittee hearing with OSTP Director Kratsios: Lofgren on the preemption executive order",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14",
+"quote": "What we should not do is preempt the states from taking necessary actions to protect their citizens, while here in Congress, we do nothing to pass legislation ourselves.",
+"what_it_shows": "Calls the order unconstitutional and defends states as laboratories of democracy in the absence of federal law."
+},
+{
+"type": "hearing",
+"title": "Same hearing: Lofgren on state AI laws that went too far",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14",
+"quote": "I’m not here to defend every state AI law that’s been proposed or passed.",
+"what_it_shows": "Notes the California delegation supported the governor's veto of a state bill that went too far, tempering her anti-preemption stance."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Lofgren leans hawkish on chips. With Foreign Affairs ranking member Meeks she told Commerce that export controls on advanced chips and chipmaking tools were necessary and remain so, and urged more coordinated controls with allies rather than fewer. She co-chairs the Semiconductor Caucus and has fought the administration's diversion of CHIPS Act funds.",
+"evidence": [
+{
+"type": "letter",
+"title": "Meeks and Lofgren letter to Secretary Lutnick on multilateral export controls on semiconductors and equipment",
+"url": "https://democrats-foreignaffairs.house.gov/2025/5/meeks-lofgren-send-letter-to-secretary-lutnick-on-multilateral-export-controls",
+"date": "2025-05-28",
+"quote": "We believe these export controls were necessary and remain so.",
+"what_it_shows": "Endorses existing restrictions on China's access to high-end chips and chipmaking equipment."
+},
+{
+"type": "letter",
+"title": "Same letter: call for more coordinated controls with allies",
+"url": "https://democrats-foreignaffairs.house.gov/2025/5/meeks-lofgren-send-letter-to-secretary-lutnick-on-multilateral-export-controls",
+"date": "2025-05-28",
+"quote": "The Commerce Department has an opportunity to demonstrate strength and support the U.S. manufacturing base by coordinating more plurilateral controls, not less.",
+"what_it_shows": "Wants controls broadened to South Korea, Taiwan and others, a tightening direction."
+},
+{
+"type": "statement",
+"title": "Press release: Ranking Member Lofgren calls out Trump administration for illegal use of CHIPS and Science funds",
+"url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-calls-out-trump-admin-illegal-use-chips-and-science",
+"date": "2026-05-22",
+"quote": "These funds were appropriated by Congress specifically for microelectronics R&D, with a focus on semiconductor technology",
+"what_it_shows": "Defends CHIPS Act semiconductor research funding against diversion to quantum awards, a domestic chip-strength stance."
+}
+]
+}
+},
+"search_notes": "Searches: 'Zoe Lofgren' artificial intelligence; 'Lofgren' 'data center'; 'Lofgren' export controls/chips/semiconductor; 'Lofgren' preemption/executive order/state laws; 'Lofgren' Section 230/Big Tech/antitrust/app store; 'Lofgren' chatbot/deepfake/Grok/kids online; 'Lofgren' Great American AI Act/commission; 'Lofgren' Semiconductor Caucus; AI super PAC checks; site listings of lofgren.house.gov (78 URLs) and democrats-science.house.gov; scraped her press release index for AI links. Opened: Dec 11 2025 preemption statement, Feb 24 2026 data center hearing statement, June 24 and 25 2026 AI bill releases, Online Privacy Act release, CHIPS funds statement, Aug 28 2026 agriculture/water AI roundtable release, Jeffries commission release, 2021 antitrust statement, caucus page (Semiconductor Caucus co-chair listed), Meeks-Lofgren letter, Tech Policy Press Kratsios hearing transcript, Legis1 markup coverage, Sludge, clerk/GovTrack roll call 356 (Nay). Not opened: Roll Call Jan 14 2026 framework piece and Nextgov robotics piece (URLs not decodable), Reuters Nov 2025 CHIPS-tools bill (401). Her Jan 14 2026 opening statement PDF on democrats-science.house.gov did not render. No AI super PAC support or attacks found. The state context file's claim that she cosponsored an 'Energy Bills Relief' bill was not verified and is omitted."
+}
+]

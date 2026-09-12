@@ -1,0 +1,731 @@
+[
+{
+"bioguide": "G000574",
+"name": "Ruben Gallego",
+"groups": [
+"Senate Committee on Energy and Natural Resources, Ranking Member of the Energy Subcommittee"
+],
+"signature": "Calls Arizona data centers a 'necessary evil' that must hold ratepayers harmless, backs ending their state tax breaks, and asked Senate leaders for a bipartisan select committee on AI after extinction-risk warnings.",
+"notable_quote": {
+"text": "Your local resident should be held harmless. We shouldn't be paying more in electricity bills because data centers are here",
+"url": "https://www.phoenixnewtimes.com/news/arizona-sen-gallego-supports-nixing-tax-breaks-data-centers-40665119/",
+"date": "2026-05-07"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Gallego says he is not against data centers and has called them a necessary evil for the AI race with China, but he wants ratepayers held harmless, wants developers to bring their own power or pay, worries Arizona lacks the water and generation for the volume coming in, and supports ending the state's data center tax exemption.",
+"evidence": [
+{
+"type": "interview",
+"title": "Phoenix New Times: Gallego strikes middle ground on 'necessary evil' Arizona data centers",
+"url": "https://www.phoenixnewtimes.com/news/arizona-sen-gallego-supports-nixing-tax-breaks-data-centers-40665119/",
+"date": "2026-05-07",
+"quote": "Your local resident should be held harmless. We shouldn't be paying more in electricity bills because data centers are here",
+"what_it_shows": "He puts protecting residents' electric bills first and says data centers should bring their own energy or compensate ratepayers."
+},
+{
+"type": "interview",
+"title": "Phoenix New Times: Gallego on the volume of data centers coming to Arizona",
+"url": "https://www.phoenixnewtimes.com/news/arizona-sen-gallego-supports-nixing-tax-breaks-data-centers-40665119/",
+"date": "2026-05-07",
+"quote": "I fear that we may not have enough water and we may not have enough power generation to be able to hold harmless everyone else.",
+"what_it_shows": "He called the number of incoming data centers a problem, called some Valley projects abusive, and backed repealing the 2013 state tax exemption, while saying he still believes AI will drive the economy."
+},
+{
+"type": "statement",
+"title": "Press release: Senator Gallego announces his plan to lower energy costs and spur innovation",
+"url": "https://www.gallego.senate.gov/press-releases/senator-gallego-announces-his-plan-to-lower-energy-costs-and-spur-innovation",
+"date": "2025-12-03",
+"quote": "By building out inexpensive solar and wind, investing in emerging technologies like advanced nuclear and geothermal, and modernizing our grid, we can make energy affordable and reliable for Americans",
+"what_it_shows": "His energy plan, released as Energy Subcommittee ranking member, centers on affordability and new generation, the frame he applies to data center growth."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Gallego backs specific guardrails: age checks and a ban on AI companions for kids, a Meta chatbot inquiry, rolling back an AI Medicare denial pilot, and safeguards on autonomous weapons. In September 2026 he asked Senate leaders for a bipartisan select committee on AI with an urgent and comprehensive response to both the upside and downside of the technology.",
+"evidence": [
+{
+"type": "letter",
+"title": "The Hill: Gallego letter to Thune and Schumer urging a bipartisan Senate Select Committee on AI",
+"url": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
+"date": "2026-09-09",
+"quote": "Congress does not need to resolve every disagreement among experts about timelines or probabilities to recognize that both the upside and the downside of this technology warrant an urgent and comprehensive response",
+"what_it_shows": "After an Anthropic researcher's extinction warning, he asked for a dedicated Senate committee on AI starting next Congress, treating advanced AI as a serious risk needing a full response."
+},
+{
+"type": "letter",
+"title": "DefenseScoop: Gallego letter to Hegseth questioning the Pentagon's rushed rewrite of autonomous weapons policy",
+"url": "https://defensescoop.com/2026/06/15/lawmaker-questions-pentagons-plan-to-revise-autonomous-weapons-policy/",
+"date": "2026-06-12",
+"quote": "Any update that significantly reduces safeguards and disrupts rigorous reviews risks friendly fire and civilian harm incidents affecting U.S. servicemembers, partner or allied militaries, or host nation civilians.",
+"what_it_shows": "He wants existing safety reviews on autonomous and AI-enabled weapons kept, not loosened on a 90-day timeline."
+},
+{
+"type": "statement",
+"title": "Press release: Gallego backs bipartisan bill protecting children from AI chatbots (GUARD Act)",
+"url": "https://www.gallego.senate.gov/press-releases/gallego-backs-bipartisan-bill-protecting-children-from-ai-chatbots",
+"date": "2025-10-31",
+"quote": "It's absurd that AI companies are letting their chatbots run unchecked, exposing kids and teens to sexual abuse and encouraging self-harm.",
+"what_it_shows": "He supports banning AI companions for minors and requiring chatbots to disclose they are not human."
+},
+{
+"type": "cosponsor",
+"title": "S.3062 GUARD Act (cosponsored 2025-10-29)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"date": "2025-10-29",
+"quote": null,
+"what_it_shows": "Formal support for age verification and keeping kids away from AI companion bots."
+},
+{
+"type": "letter",
+"title": "Bennet release: ten senators including Gallego press Meta on AI chatbots and children",
+"url": "https://www.bennet.senate.gov/2025/08/20/bennet-schatz-colleagues-press-meta-for-safeguards-around-childrens-engagement-with-ai-chatbots/",
+"date": "2025-08-20",
+"quote": "While AIs have many uses, the wellbeing of children should not be sacrificed in the race for AI development.",
+"what_it_shows": "He signed a bipartisan letter demanding Meta explain chatbot safety rules for minors and stop targeted ads to kids."
+},
+{
+"type": "other",
+"title": "Healthcare Dive: Senate Democrats' resolution to end the WISeR Medicare AI prior authorization pilot lists Gallego as a signer",
+"url": "https://www.healthcaredive.com/news/senate-democrats-roll-back-medicare-ai-prior-authorization-pilot-wiser/820728/",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "He backed using the Congressional Review Act to stop an AI-driven program Democrats say delays or denies seniors' care."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Gallego favors targeted rules, mostly to protect kids online: he cosponsors the Kids Online Safety Act, STOP CSAM and the ECCHO Act, wrote a bill requiring parental approval for kids' social media accounts, and wants humans available on customer service lines. He is more cautious on the TikTok ban, urging a balance with free speech, and voted against the House divestiture bill in 2024.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.1748 Kids Online Safety Act (cosponsored 2025-12-01)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-12-01",
+"quote": null,
+"what_it_shows": "Supports a duty of care and safety tools for minors on social platforms."
+},
+{
+"type": "sponsor",
+"title": "S.5226 Parental Approval for Youth Social Media Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5226",
+"date": "2026-08-04",
+"quote": null,
+"what_it_shows": "His own bill would make platforms get a parent's permission before a child can open an account."
+},
+{
+"type": "statement",
+"title": "Press release: Gallego on the GUARD Act and holding Big Tech accountable",
+"url": "https://www.gallego.senate.gov/press-releases/gallego-backs-bipartisan-bill-protecting-children-from-ai-chatbots",
+"date": "2025-10-31",
+"quote": "I'm proud to work with my colleagues across the aisle to hold Big Tech accountable and put real safeguards in place to protect our children",
+"what_it_shows": "He frames kids' safety rules as accountability for large tech companies."
+},
+{
+"type": "cosponsor",
+"title": "S.1829 STOP CSAM Act of 2025 (cosponsored 2025-09-29)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2025-09-29",
+"quote": null,
+"what_it_shows": "Supports letting victims sue platforms that fail to remove child sexual abuse material."
+},
+{
+"type": "sponsor",
+"title": "S.2495 Keep Call Centers in America Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2495",
+"date": "2025-07-29",
+"quote": null,
+"what_it_shows": "Would require companies to offer a real US-based human on customer service lines and disclose when a customer is talking to AI."
+},
+{
+"type": "statement",
+"title": "Press release: Gallego statement on impending TikTok ban",
+"url": "https://www.gallego.senate.gov/news/press-releases/gallego-statement-on-impending-tiktok-ban",
+"date": "2025-01-16",
+"quote": "it is key we continue toward finding a solution that balances our national security interests with Arizonans' First Amendment right to freedom of speech",
+"what_it_shows": "He wanted the TikTok ban deadline extended, a more cautious line than most of the Senate on that tech restriction."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (2024): Nay on H.R. 7521, the TikTok divestiture bill",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "As a House member he voted against forcing TikTok's sale, consistent with his later call for balance with free speech."
+},
+{
+"type": "cosponsor",
+"title": "S.4429 Connected Vehicle Security Act of 2026 (cosponsored 2026-07-15)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-15",
+"quote": null,
+"what_it_shows": "Supports banning connected-car tech from companies tied to China, Russia, Iran or North Korea."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on whether federal law should preempt or pause state AI laws. He voted with 98 other senators to strip the 10-year moratorium from H.R. 1, which by itself is not evidence of a position. I searched for reactions to the December 2025 executive order and the March 2026 White House framework and found none.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363 (2025-07-01): Yea on Blackburn amendment striking the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote to remove the moratorium after the compromise collapsed; nearly every senator did the same."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searches for Gallego with Nvidia, export controls, Chip Security Act and H20/H200 turned up nothing beyond his Taiwan economic trip and a 2023 bill speeding environmental review for chip factories, which is about building fabs at home, not exports.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.4549 Building Chips in America Act of 2023 (118th Congress, cosponsored 2023-08-04)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4549",
+"date": "2023-08-04",
+"quote": null,
+"what_it_shows": "Supported faster permitting for domestic chip factories; this is about US manufacturing, not export controls."
+}
+]
+}
+},
+"search_notes": "Searches: 'Ruben Gallego artificial intelligence'; 'Gallego data center Arizona senator'; Gallego preemption/state AI laws/moratorium; Gallego Nvidia/export controls/chips; Gallego senators letter AI moratorium NDAA; Gallego select committee AI; Gallego Delta AI pricing letter; Gallego WISeR Medicare AI; plus a full gallego.senate.gov archive listing (73 URLs). Opened and read: Phoenix New Times (May 7 2026), GUARD Act release, energy plan release, TikTok statement (all via Wayback), DefenseScoop autonomous weapons letter, The Hill Sept 9 2026 (select committee letter), Bennet release for the Meta letter, Healthcare Dive on WISeR, govtrack roll calls. Could not open: gallego.senate.gov pages served 403 directly and the Wayback Machine refused connections for much of the session (the select committee letter release, the Delta AI pricing letter release, the Meta letter release on his own site, the Gallego-Risch nuclear bill release, and the AI supercomputing celebration release). Politico's energy plan story was blocked. The 'necessary evil' phrase is the reporter's account of an earlier Gallego comment, not a fresh quote. No AI super PAC support or attack found."
+},
+{
+"bioguide": "K000377",
+"name": "Mark Kelly",
+"groups": [
+"Senate Artificial Intelligence Caucus (member)"
+],
+"signature": "Senate AI Caucus member with an 'AI for America' roadmap: build AI and its data centers to beat China, but tax frontier AI firms to protect workers and ratepayers, and keep humans responsible for lethal military AI.",
+"notable_quote": {
+"text": "America cannot lead in AI if our policy is determined by whichever billionaire gets the President on the phone last",
+"url": "https://www.yahoo.com/news/politics/articles/mark-kelly-slams-trump-over-220029724.html",
+"date": "2026-05-22"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Kelly wants the AI buildout to continue and warned that local rejections like Chandler and Tucson could cost the US the race with China, but he says companies must work with communities up front, homeowners must not pay for the grid upgrades, and he is drafting a bill to pool money from data center companies for grid and community costs.",
+"evidence": [
+{
+"type": "interview",
+"title": "Quartz interview: Kelly on data center revolts in Chandler and Tucson",
+"url": "https://qz.com/mark-kelly-tech-fund-ai-chandler",
+"date": "2025-12-21",
+"quote": "I think what happened in Chandler and in Tucson shows that companies need to work with these communities upfront",
+"what_it_shows": "He accepts that communities get a say but wants developers to engage early rather than stop building."
+},
+{
+"type": "interview",
+"title": "Quartz interview: Kelly on local data center rejections and the China race",
+"url": "https://qz.com/mark-kelly-tech-fund-ai-chandler",
+"date": "2025-12-21",
+"quote": "If we see that become a trend across the country, it's going to be hard to win against China in this race to develop intelligent models",
+"what_it_shows": "He is pro-buildout and frames data centers as needed for national competitiveness, while saying locals should not pay more for electricity."
+},
+{
+"type": "interview",
+"title": "Broadband Breakfast: Kelly outlines his vision for AI regulation at Brookings",
+"url": "https://broadbandbreakfast.com/kelly-outlines-his-vision-for-ai-regulation/",
+"date": "2026-03-11",
+"quote": "If we can get this legislation passed...we can be part of the solution here to building the grid, so costs don't go up for homeowners",
+"what_it_shows": "His AI Horizon Fund would pool money from data center companies to pay for grid upgrades so ratepayers are not stuck with the bill; he also said tech firms arrive too late asking for the power of 50,000 homes and called Trump's ratepayer pledge a handshake deal."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Kelly wants AI to succeed and his roadmap leans on taxing AI firms rather than regulating models, but he backs a long list of specific guardrails: human responsibility for lethal military AI, congressional oversight of AI in intelligence, chatbot protections for kids and seniors, worker involvement, and pre-release risk testing. He attacked Trump for dropping even a voluntary testing order.",
+"evidence": [
+{
+"type": "social_post",
+"title": "Yahoo/Benzinga: Kelly's May 22 2026 X post on Trump abandoning his AI executive order",
+"url": "https://www.yahoo.com/news/politics/articles/mark-kelly-slams-trump-over-220029724.html",
+"date": "2026-05-22",
+"quote": "America cannot lead in AI if our policy is determined by whichever billionaire gets the President on the phone last",
+"what_it_shows": "He called it a failure when Trump dropped an order that would have set up voluntary pre-release risk assessments of frontier AI after pushback from tech executives."
+},
+{
+"type": "letter",
+"title": "The Hill: Gillibrand, Schiff, Warner, Coons and Kelly letter on access to advanced AI models",
+"url": "https://thehill.com/homenews/senate/6008642-democrats-demand-transparency-ai-policy/",
+"date": "2026-08-04",
+"quote": "develop a public, durable, and technically grounded framework that allows U.S. companies and their customers to understand the rules of the road",
+"what_it_shows": "He wants a clear federal framework for frontier AI instead of ad hoc decisions, after OpenAI agents breached Hugging Face and Anthropic pulled models."
+},
+{
+"type": "statement",
+"title": "Press release: Kelly secures AI oversight provisions in the FY2027 Intelligence Authorization Act",
+"url": "https://www.kelly.senate.gov/newsroom/press-releases/kelly-secures-ai-oversight-provisions-in-annual-intelligence-bill-passed-out-of-committee",
+"date": "2026-05-27",
+"quote": "As AI takes a bigger role in our intelligence and military operations, Congress has a responsibility to understand how it's being used and build in safeguards for the American people before problems arise",
+"what_it_shows": "His amendments require reports on new AI uses, a review of AI in targeting, labeling of AI outputs, and research on AI-on-AI attacks and inadvertent escalation."
+},
+{
+"type": "sponsor",
+"title": "S.4682 Ultimate Human Responsibility in Defense Systems Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4682",
+"date": "2026-06-04",
+"quote": null,
+"what_it_shows": "His bill sets requirements for human judgment in the use of force by autonomous weapon systems; verified on govtrack."
+},
+{
+"type": "sponsor",
+"title": "S.5117 Senior Chatbot Protection Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5117",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "Requires chatbots to disclose they are AI, bans posing as licensed professionals, limits data use and bans manipulative design aimed at seniors."
+},
+{
+"type": "statement",
+"title": "Gila Herald: Kelly and Justice introduce the Senior Chatbot Protection Act",
+"url": "https://gilaherald.com/kelly-justice-introduce-bipartisan-senior-chatbot-protection-act-to-safeguard-older-americans-from-ai-scams/",
+"date": "2026-07-24",
+"quote": "seniors need to know when they're talking to a machine, what its limits are, and how their information is being used to make sure they aren't being scammed or put at risk",
+"what_it_shows": "He pairs praise for AI's benefits with binding disclosure and design rules."
+},
+{
+"type": "cosponsor",
+"title": "S.3062 GUARD Act (cosponsored 2025-10-28)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"date": "2025-10-28",
+"quote": null,
+"what_it_shows": "Supports age verification and a ban on AI companions for minors."
+},
+{
+"type": "letter",
+"title": "FedScoop: Kelly and Fitzpatrick letter urging the White House to follow AFL-CIO AI principles",
+"url": "https://fedscoop.com/federal-ai-policy-labor-workforce-afl-cio-white-house-letter/",
+"date": "2026-04-08",
+"quote": "That promise will only be realized if AI is developed and deployed with meaningful worker involvement and input",
+"what_it_shows": "He wants worker-centered guardrails, collective bargaining and retraining built into federal AI policy."
+},
+{
+"type": "interview",
+"title": "Quartz interview: Kelly on wanting AI to succeed",
+"url": "https://qz.com/mark-kelly-tech-fund-ai-chandler",
+"date": "2025-12-21",
+"quote": "I want to see AI be successful. I think this is a real opportunity for the American people if we get it right",
+"what_it_shows": "He is not an AI skeptic; his concern is job displacement, and his roadmap would tax frontier AI firms that cut jobs to fund retraining and the grid."
+},
+{
+"type": "other",
+"title": "Reason Foundation commentary: Democrats pivot on AI: less regulation, more redistribution",
+"url": "https://reason.org/commentary/democrats-pivot-on-ai-less-regulation-more-redistribution/",
+"date": "2025-10-14",
+"quote": null,
+"what_it_shows": "A libertarian think tank read his AI for America roadmap as departing from Democratic proposals for strong regulation of model development, relying instead on an AI Horizon Fund paid for by taxes on large AI companies."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Kelly is a steady backer of targeted tech rules, especially for kids: the Kids Online Safety Act, COPPA 2.0, Kids Off Social Media, STOP CSAM, EARN IT and an algorithm accountability bill with Sen. Curtis. He says he wants to avoid repeating Congress's failure to act on social media.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.1748 Kids Online Safety Act (cosponsored 2025-06-11)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Supports a duty of care and safety tools for minors on social platforms."
+},
+{
+"type": "cosponsor",
+"title": "S.836 Children and Teens' Online Privacy Protection Act (cosponsored 2025-03-04)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "Supports requiring permission before collecting data on kids and teens and banning targeted ads to them."
+},
+{
+"type": "cosponsor",
+"title": "S.3193 Algorithm Accountability Act (cosponsored 2025-11-18)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3193",
+"date": "2025-11-18",
+"quote": null,
+"what_it_shows": "Would make social media companies more responsible for harm caused by recommendation algorithms."
+},
+{
+"type": "interview",
+"title": "Quartz interview: Kelly on working with Sen. Curtis on a social media algorithm bill",
+"url": "https://qz.com/mark-kelly-tech-fund-ai-chandler",
+"date": "2025-12-21",
+"quote": "These are real issues people are concerned about.",
+"what_it_shows": "He described the Curtis algorithm bill and Hawley's chatbot bill as bipartisan openings for new rules."
+},
+{
+"type": "interview",
+"title": "Broadband Breakfast: Kelly says he wants to avoid Congress's social media regret",
+"url": "https://broadbandbreakfast.com/kelly-outlines-his-vision-for-ai-regulation/",
+"date": "2026-03-11",
+"quote": null,
+"what_it_shows": "The report says he wants Congress involved in AI now so it does not feel the same regret it feels about failing to oversee social media."
+},
+{
+"type": "cosponsor",
+"title": "S.1207 EARN IT Act of 2023 (118th Congress, cosponsored 2024-03-07)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1207",
+"date": "2024-03-07",
+"quote": null,
+"what_it_shows": "Supported removing platforms' liability shield when they let child abuse material spread."
+},
+{
+"type": "cosponsor",
+"title": "S.686 RESTRICT Act (118th Congress, cosponsored 2023-03-27)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-27",
+"quote": null,
+"what_it_shows": "Backed giving the government power to review and block apps from rival countries like China."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on preempting or pausing state AI laws. He voted with the 99-1 majority to strip the moratorium from H.R. 1, which alone is not a position, and his criticism of Trump's May 2026 AI order was about dropping federal testing, not about states. I looked for reactions to the December 2025 executive order and the March 2026 framework and found none.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363 (2025-07-01): Yea on Blackburn amendment striking the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the near-unanimous vote to remove the moratorium; nearly every senator did the same."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Kelly cosponsors the Chip Security Act and an export enforcement bill and joined a statement condemning Trump's large AI chip deals with the UAE and Saudi Arabia as a national security threat. One nuance: in August 2026 he co-signed a letter calling the administration's restrictions on access to advanced US models unpredictable and asking for clear, durable rules, warning that Chinese models are closing the gap.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.1705 Chip Security Act (cosponsored 2026-06-02)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2026-06-02",
+"quote": null,
+"what_it_shows": "Supports requiring location verification on advanced chips so they cannot be smuggled to China."
+},
+{
+"type": "cosponsor",
+"title": "S.4840 Export Control Enforcement and Enhancement Act (cosponsored 2026-06-18)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4840",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Supports faster blacklisting of risky foreign companies."
+},
+{
+"type": "statement",
+"title": "Joint statement of Coons, Shaheen, Reed, Warner, Kelly, Himes and Krishnamoorthi on Trump's Middle East AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"date": "2025-05-16",
+"quote": "President Trump announced deals to export very large volumes of advanced AI chips to the UAE and Saudi Arabia without credible security assurances to prevent U.S. adversaries from accessing those chips.",
+"what_it_shows": "He opposed large Gulf chip exports without safeguards against diversion to China."
+},
+{
+"type": "letter",
+"title": "The Hill: Kelly co-signed letter pressing the administration on its policy for limiting access to advanced AI models",
+"url": "https://thehill.com/homenews/senate/6008642-democrats-demand-transparency-ai-policy/",
+"date": "2026-08-04",
+"quote": "Chinese AI models are rapidly narrowing the performance gap with leading U.S. models, and many Chinese systems are inexpensive, widely available, and easy to deploy",
+"what_it_shows": "He criticized ad hoc restrictions that forced Anthropic to pull models worldwide, arguing unclear rules push customers toward Chinese alternatives; a call for predictable rules rather than looser controls on chips."
+}
+]
+}
+},
+"search_notes": "Searches: 'Mark Kelly artificial intelligence senator'; 'Mark Kelly data center'; Kelly AI Horizon Fund / AI for America; Kelly Anthropic Pentagon; Kelly preemption / state AI laws / AI moratorium; Kelly Nvidia / export controls / Chip Security Act; Kelly Big Tech AI Trump; Kelly American AI Festival; Kelly Senior Chatbot Protection Act; Kelly AI executive order reversal; Kelly ratepayer pledge; plus a kelly.senate.gov archive listing (151 URLs from 2026). Opened and read: Quartz (Dec 21 2025), Broadband Breakfast (Mar 11 2026), Yahoo/Benzinga on his May 22 2026 X post, The Hill and Fortune on the Aug 4 2026 letter, Kelly's IAA AI oversight release (via Wayback), Gila Herald on the Senior Chatbot Protection Act, FedScoop on the AFL-CIO letter, the House Intelligence Democrats' Gulf chips statement, Reason Foundation commentary, govtrack for S.4682 and roll call 363. Could not open (kelly.senate.gov 403 and Wayback refusing connections): the Mar 27 2026 American AI Festival release previewing his community benefits bill, the 'Trump folding to Big Tech on AI' piece, the Mar 5 2026 SASC drone hearing release and the May 20 2026 SASC Anthropic hearing release, the AFL-CIO letter release, and the AI for America roadmap releases; Axios, Politico and web.archive.org were blocked. The lead quote from the AI festival release therefore is not used. Quartz confirms he is one of 15 members of the Senate AI Caucus. No AI super PAC support or attack found."
+},
+{
+"bioguide": "S001183",
+"name": "David Schweikert",
+"groups": [
+"Joint Economic Committee (Chairman)"
+],
+"signature": "Joint Economic Committee chairman and AI enthusiast who wants AI to shrink government and health costs, says regulation lags the technology, and proposed letting FDA-cleared AI prescribe drugs.",
+"notable_quote": {
+"text": "Design policy that allows the disruption, allows the creativity, and maybe move away from everything we thought we knew from a previous decade",
+"url": "https://schweikert.house.gov/2025/03/27/were-in-trouble-congressman-david-schweikert-on-ai-adoption-societal-resistance-on-regulating-ai/",
+"date": "2025-03-27"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "No direct statement on data centers found, even during his 2026 run for governor when the issue dominated the race. He voted for the SPEED Act permitting reform, which the build-faster camp backs. Debate coverage records his rival Biggs pledging to end data center tax breaks, with Schweikert not quoted on the issue.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356 (2025-12-18): Yea on H.R. 4776, the SPEED Act permitting reform",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for faster federal permitting of energy and infrastructure projects; it is general permitting reform, not a data center statement."
+},
+{
+"type": "other",
+"title": "Arizona Capitol Times: Biggs, Schweikert skip the fireworks in tame GOP governor debate",
+"url": "https://azcapitoltimes.com/news/2026/06/18/biggs-schweikert-skip-the-fireworks-in-tame-gop-governor-debate/",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Coverage notes Biggs pledged to eliminate data center tax incentives; Schweikert is not quoted taking any position on data centers."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Schweikert is a booster of AI adoption in government, defense and health care, and says policy should allow disruption and stay flexible so rules do not stifle innovation. He does flag deepfakes and manipulated media as a coming source of chaos, but his answer is a more skeptical public and international cooperation, not new domestic mandates.",
+"evidence": [
+{
+"type": "interview",
+"title": "Regulating AI podcast, reposted by his office: 'We're in trouble': Schweikert on AI adoption and societal resistance",
+"url": "https://schweikert.house.gov/2025/03/27/were-in-trouble-congressman-david-schweikert-on-ai-adoption-societal-resistance-on-regulating-ai/",
+"date": "2025-03-27",
+"quote": "Design policy that allows the disruption, allows the creativity, and maybe move away from everything we thought we knew from a previous decade",
+"what_it_shows": "He wants regulation flexible enough not to stifle innovation and says market economies will adapt to AI job displacement."
+},
+{
+"type": "interview",
+"title": "Regulating AI podcast, reposted by his office: Schweikert on deepfakes and manipulated media",
+"url": "https://schweikert.house.gov/2025/03/27/were-in-trouble-congressman-david-schweikert-on-ai-adoption-societal-resistance-on-regulating-ai/",
+"date": "2025-03-27",
+"quote": "I don't think society is completely ready for a natural language voicemail you get that sounds like your grandma or a video like this where someone has taken our language and changed us, and I see chaos coming in society",
+"what_it_shows": "He does see real risk from deepfakes and misinformation, but called for a more educated and questioning public rather than new rules."
+},
+{
+"type": "statement",
+"title": "Innovation & AI issue page on schweikert.house.gov",
+"url": "https://schweikert.house.gov/issues/innovation-ai/",
+"date": null,
+"quote": "It's here, we now just have to build the infrastructure around it; the technology is starting to move much faster than our regulatory rules.",
+"what_it_shows": "He frames AI as a tool to make government better, faster and cheaper and treats regulatory lag as something to work around, not a reason to slow down."
+},
+{
+"type": "statement",
+"title": "Press release: Congress votes 'Yay' on Schweikert's NDAA amendments to expand AI in the Department of Defense",
+"url": "https://schweikert.house.gov/2025/09/26/congress-votes-yay-on-rep-schweikerts-ndaa-amendments-2025/",
+"date": "2025-09-26",
+"quote": "Artificial intelligence can already track, list, and locate Department of Defense assets. It is time we put that technology to work.",
+"what_it_shows": "His amendments direct the Pentagon to use AI in its audit and weapons inventory systems."
+},
+{
+"type": "statement",
+"title": "Article reposted by his office: Healthy Technology Act of 2025 would let FDA-cleared AI prescribe drugs",
+"url": "https://schweikert.house.gov/2025/02/05/healthy-technology-act-of-2025-ai-prescribing-bill-introduced-in-congress/",
+"date": "2025-02-05",
+"quote": null,
+"what_it_shows": "His H.R. 238 would let AI systems qualify as prescribers if approved by the FDA and authorized by the state, an aggressive pro-adoption stance."
+},
+{
+"type": "sponsor",
+"title": "H.R.7972 Taxpayer Workforce Modernization Act (IRS data scientists using AI)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7972",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "One of several bills he sponsors to push AI into IRS, border and health operations."
+}
+]
+},
+"tech_regulation": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed record. He voted against the 2024 TikTok divestiture bill, but he wrote a strict consumer privacy bill treating personal data as the user's property with a private right of action, and he cosponsors the STOP CSAM Act.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 86 (2024-03-13): Nay on H.R. 7521, the TikTok divestiture bill",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "He was one of 15 Republicans to vote against forcing TikTok's sale, a hands-off vote on a major tech restriction."
+},
+{
+"type": "statement",
+"title": "Innovation & AI issue page describing his User Data Protection Act (H.R. 8929, 118th Congress)",
+"url": "https://schweikert.house.gov/issues/innovation-ai/",
+"date": null,
+"quote": "a website may not (1) use cookies or otherwise collect information about a user without the user's consent",
+"what_it_shows": "His privacy bill would ban tracking without consent, make personal data a property right, and allow enforcement by the FTC, state attorneys general and private lawsuits."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3921 STOP CSAM Act of 2025 (cosponsored 2026-06-04)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-06-04",
+"quote": null,
+"what_it_shows": "Supports making platforms report and remove child sexual abuse material and letting victims sue."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on preempting or pausing state AI laws. He did not vote on the May 22, 2025 House passage of H.R. 1 that carried the 10-year moratorium, and he was not among the signers of the March 2026 leadership statement backing a national standard.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145 (2025-05-22): H.R. 1 passage with the state AI law moratorium; Schweikert recorded as not voting",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He missed the House vote on the version of H.R. 1 that included the moratorium, so it gives no signal on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searches for Schweikert with TSMC, semiconductors, Nvidia and export controls returned only general CHIPS Act coverage.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Schweikert artificial intelligence'; 'Schweikert data center'; Schweikert AI regulation; Schweikert governor debate data centers; Schweikert Healthy Technology Act; Schweikert TSMC/semiconductor/chips; Schweikert state AI/preemption/Big Tech; Joint Economic Committee Schweikert AI hearing; Schweikert data centers water electricity governor; plus his site's WordPress API (searches for AI, NDAA, data center, 'in trouble'). Opened and read: the Regulating AI podcast writeup on his site (Mar 27 2025), the Innovation & AI issue page, the Sept 26 2025 NDAA amendments release, the Healthy Technology Act article on his site, the May 1 2024 AI and debt floor speech release, Arizona Capitol Times debate coverage (Jun 18 and Jun 24 2026), govtrack roll calls 86, 145 and 356, and Wikipedia (confirms he has chaired the Joint Economic Committee since Jan 3 2025). Note: the state context file said he voted Yea on H.R. 1 on May 22 2025; govtrack shows him as not voting on that roll call. The JEC held an AI hearing on Nov 18 2025 (C-SPAN listing) but jec.senate.gov was blocked so I could not read his remarks. Arizona Mirror and Politico were blocked. No AI super PAC support or attack found; the Leading the Future spending in Arizona reported in June 2026 was in the open AZ-5 primary, not his race."
+},
+{
+"bioguide": "C001132",
+"name": "Elijah Crane",
+"groups": [],
+"signature": "Freedom Caucus conservative with a thin AI record: questioned witnesses about Chinese and Russian AI bots at a 2025 Oversight hearing and cosponsors a bill to let Congress block AI chip sales to China.",
+"notable_quote": {
+"text": "What advice for this committee and for Congress do you have in regards to any regulations that you think are responsible regarding AI in the future?",
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"date": "2025-09-18"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "No public statement on data centers found as of Sept 2026; his rural northern Arizona district has not been a center of the fights. His only related action is a vote for the SPEED Act permitting reform, which the build-faster camp supports.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356 (2025-12-18): Yea on H.R. 4776, the SPEED Act permitting reform",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for faster federal permitting of energy and infrastructure projects; it is general permitting reform, not a data center statement."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No clear position found. At a September 2025 Oversight subcommittee hearing he asked about Chinese and Russian AI bots spreading inflammatory content, about balancing AI use with preparing young people for work, and what responsible AI regulation should look like, but he did not state his own view. His no vote on the FY27 NDAA was reported as tied to the Iran war, not its AI provisions.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Oversight Committee hearing wrap-up: 'The U.S. Must Develop and Advance Artificial Intelligence to Dominate the Tech Race' (Crane questions)",
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"date": "2025-09-18",
+"quote": "What advice for this committee and for Congress do you have in regards to any regulations that you think are responsible regarding AI in the future?",
+"what_it_shows": "He asked witnesses for recommendations on responsible AI regulation and on preparing young Americans for an AI workforce, without taking a position himself."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Crane backs targeted online rules: he cosponsors the SCREEN Act requiring age checks on adult sites, voted for the 2024 TikTok divestiture bill, cosponsored a bill to stop data brokers selling servicemembers' data to hostile countries, and pressed witnesses on foreign bots spreading misinformation. He also cosponsored a bill barring officials from pressuring platforms to remove posts.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.1623 SCREEN Act (cosponsored 2025-02-26)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-02-26",
+"quote": null,
+"what_it_shows": "Supports requiring adult websites to verify users' ages to keep kids out; he also cosponsored the 118th Congress version."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (2024-03-13): Yea on H.R. 7521, the TikTok divestiture bill",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "He voted to force TikTok's sale or ban over China-related security concerns."
+},
+{
+"type": "hearing",
+"title": "Oversight Committee hearing wrap-up: Crane asks what agencies should do about foreign AI bots",
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"date": "2025-09-18",
+"quote": "What do you think federal agencies should be doing to prevent the spreading of misinformation by these bots to sow discourse in our communities, in our country?",
+"what_it_shows": "He sees Chinese and Russian AI-driven bots on social media as a problem for the government to address."
+},
+{
+"type": "cosponsor",
+"title": "H.R.6573 Protecting Military Servicemembers' Data Act of 2023 (118th Congress, cosponsored 2023-12-04)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2023-12-04",
+"quote": null,
+"what_it_shows": "Supports stopping data brokers from selling US military members' personal information to hostile countries."
+},
+{
+"type": "cosponsor",
+"title": "H.R.4791 Free Speech Protection Act (118th Congress, cosponsored 2023-11-17)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4791",
+"date": "2023-11-17",
+"quote": null,
+"what_it_shows": "Would bar government officials from pressuring platforms to take down posts, a limit on government rather than on companies."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "No statement found on state AI laws. His only recorded action is a Yea vote on the May 2025 House version of H.R. 1, which carried the 10-year moratorium on state AI laws inside a giant budget bill, so this is weak evidence of leaning toward a national rule.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145 (2025-05-22): Yea on H.R. 1 passage, which included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House budget bill while it contained the state AI law moratorium; the moratorium was later stripped in the Senate and he has not spoken on it."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Crane cosponsors the AI OVERWATCH Act, which would give Congress power to block advanced AI chip sales to China and other risky countries, and he pressed an Oversight witness about Chinese and Russian AI misuse. He has not made his own statement on Nvidia H20 or H200 sales.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.6875 AI OVERWATCH Act (cosponsored 2026-06-11)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "Supports letting Congress review and block exports of advanced AI chips to China and other adversaries before they happen."
+},
+{
+"type": "hearing",
+"title": "Oversight Committee hearing wrap-up: Crane asks about Chinese and Russian bots; witness cites H20 chip exports",
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"date": "2025-09-18",
+"quote": "How should the American people be wary of the increase of inflammatory speech following the assassination of Charlie [Kirk] and other mass violent events from Chinese and Russian bots?",
+"what_it_shows": "His concern was foreign AI misuse; the witness answered that the US should stop selling China the H20 chips that power those systems, but Crane did not state a view on chip sales."
+}
+]
+}
+},
+"search_notes": "Searches: 'Eli Crane artificial intelligence'; 'Eli Crane data center'; Crane AI/chips/Nvidia/export controls; Crane Big Tech/censorship/Section 230/TikTok; Crane data center Flagstaff/Prescott/Yavapai; Crane Flock/surveillance/facial recognition; Crane AI jobs/chatbot/town hall; Oversight hearing wrap-up; plus a scan of crane.house.gov media pages 1-4 and its WordPress API for 'artificial intelligence', 'AI', 'China chips', 'TikTok' and 'censorship' (no AI-related releases; his releases cover water, wildfire, veterans, H-1B visas and drones). Opened and read: the Sept 18 2025 Oversight hearing wrap-up with his questions, govtrack roll calls 86, 145 and 356. Could not open: Politico's June 13 2026 piece on data centers in battleground House districts (blocked), the Newsweek list of Republicans on Flock cameras, and congress.gov cosponsor pages (blocked), so the AI OVERWATCH cosponsorship rests on the verified record file. His Freedom Caucus membership is not AI-related so it is left out of groups. No AI super PAC support or attack found."
+}
+]

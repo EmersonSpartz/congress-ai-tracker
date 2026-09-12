@@ -1,0 +1,465 @@
+[
+{
+"bioguide": "T000472",
+"name": "Mark Takano",
+"signature": "Labor-focused Democrat who ties AI productivity gains to a 32-hour workweek, wants defendants able to challenge black-box algorithms, and opposes federal preemption of state AI laws.",
+"notable_quote": {
+"text": "Since then, cell phones, the internet, and now AI have increased worker productivity, but the profits have been largely concentrated at the top by billionaires and corporations.",
+"url": "https://takano.house.gov/newsroom/press-releases/rep-takano-sen-sanders-reintroduce-32-hour-workweek-act",
+"date": "2026-09-08"
+},
+"groups": [
+"House Committee on Veterans' Affairs (Ranking Member)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers, electricity bills, or the Pentagon base data center fight were found as of Sept 2026. He voted against the SPEED Act permitting bill in Dec 2025, but that bill covers permitting generally, not data centers.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356 (Dec 18, 2025): Nay on H.R. 4776, the SPEED Act permitting reform bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed a Republican bill to speed up federal permitting for energy and infrastructure projects, a bill backers tie to faster data center buildout, but it is not a direct data center position."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs specific guardrails: he cosponsors a ban on AI-driven price and wage discrimination, has repeatedly introduced a bill letting criminal defendants inspect forensic algorithms, and demanded assurances that no AI tools were quietly installed on VA systems. He frames AI mainly as a worker and fairness issue, not an existential one.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "Supports banning companies from using AI and personal data to charge people different prices or pay workers different wages."
+},
+{
+"type": "statement",
+"title": "Press release: Takano and Evans reintroduce the Justice in Forensic Algorithms Act",
+"url": "https://takano.house.gov/newsroom/press-releases/black-box-algorithms-use-in-criminal-justice-system-tackled-by-bill-reintroduced-by-reps-takano-and-evans",
+"date": "2024-02-15",
+"quote": "As the use of algorithms proliferates in the prosecution of Americans, we must ensure that they can see and challenge black boxes that could determine if they are convicted.",
+"what_it_shows": "His own bill would stop software makers from using trade secret claims to keep defendants from examining the algorithms used against them."
+},
+{
+"type": "letter",
+"title": "Military Times: Takano letter to VA demanding answers on DOGE access and AI tools on VA systems",
+"url": "https://www.militarytimes.com/veterans/2025/06/25/lawmakers-press-va-for-details-on-doge-access-to-vets-records/",
+"date": "2025-06-25",
+"quote": "He also requested assurances that outside software or artificial intelligence tools have not been installed on VA computer platforms, allowing outside monitoring of sensitive data.",
+"what_it_shows": "As Veterans' Affairs ranking member he used oversight to press for limits on AI and surveillance tools touching veterans' private records (quote is the reporter's description of the letter)."
+},
+{
+"type": "statement",
+"title": "Press release: Takano and Sanders reintroduce the Thirty-Two Hour Workweek Act",
+"url": "https://takano.house.gov/newsroom/press-releases/rep-takano-sen-sanders-reintroduce-32-hour-workweek-act",
+"date": "2026-09-08",
+"quote": "Since then, cell phones, the internet, and now AI have increased worker productivity, but the profits have been largely concentrated at the top by billionaires and corporations.",
+"what_it_shows": "He argues AI productivity gains should flow to workers through a shorter workweek, treating AI as a jobs and wealth-distribution issue."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Supports targeted rules on data and pricing practices: he cosponsored the My Body, My Data Act on reproductive health data and the Stop AI Price Gouging Act. No statements on Section 230, antitrust, or kids online safety were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420, My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Supports limits on how apps and companies collect and share reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "Supports a ban on surveillance pricing that uses personal data to set individual prices and wages."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Clearly wants states free to regulate AI. He signed the Dec 2025 Clarke letter calling a moratorium on state AI laws wildly irresponsible and cosponsors the GUARDRAILS Act, which would block federal preemption of state AI laws.",
+"evidence": [
+{
+"type": "letter",
+"title": "Clarke-led letter of 44 House Democrats opposing any AI moratorium or preemption in the FY26 NDAA (Takano listed as signer)",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "Any kind of preemption would cause a slew of unintended consequences putting all Americans at risk online; a moratorium would be wildly irresponsible given the lack of any federal legislation.",
+"what_it_shows": "He joined colleagues telling defense bill negotiators to keep any state AI-law moratorium or preemption out of the NDAA."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8031, GUARDRAILS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Supports a bill protecting states' right to pass their own AI laws against federal preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, letters, or bills on AI chip export controls, Nvidia sales to China, or semiconductor policy were found as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 12 news queries (AI, data centers, 32-hour workweek AI, chatbot/deepfake/Big Tech/TikTok, Nvidia/export controls/preemption, AI workers, VA AI/DOGE) plus a site listing of takano.house.gov and fetched his press index, the workweek release, the forensic algorithms release, the Clarke letter, the Matsui letter PDF, the Military Times VA article, and govtrack roll call 356. He is on the Clarke letter but not the Matsui 81-signer letter. The Casar AI-CEO hearing letter and the Delta AI pricing letter do not include him. Inland Empire Labor Day parade coverage mentioning AI could not be opened (Google News link did not decode). AI Caucus membership pages were unreachable, so no caucus claims are made."
+},
+{
+"bioguide": "K000397",
+"name": "Young Kim",
+"signature": "China hawk on AI chips who presses for tougher export controls and cosponsors the AI OVERWATCH Act; on domestic AI she talks about balancing innovation with consumer protection.",
+"notable_quote": {
+"text": "U.S. export control policy towards the PRC should not be up for negotiation",
+"url": "https://youngkim.house.gov/2023/08/18/lawmakers-urge-against-export-controls-working-group-with-china",
+"date": "2023-08-18"
+},
+"groups": [
+"House Financial Services Committee Bipartisan Working Group on Artificial Intelligence (118th Congress, member)",
+"House Foreign Affairs Committee, East Asia and Pacific Subcommittee (Chair)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers, ratepayers, or the base data center fight were found as of Sept 2026, despite her incumbent-vs-incumbent race with Rep. Calvert. She voted for the SPEED Act permitting bill, which is about permitting generally rather than data centers.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356 (Dec 18, 2025): Yea on H.R. 4776, the SPEED Act permitting reform bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She backed a bill to speed federal permitting for energy and infrastructure projects, which supporters link to faster data center buildout, but she has made no direct data center statement."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "low",
+"summary": "Her one clear statement frames AI as offering both opportunities and risks and calls for policies that promote innovation and protect consumers, with an emphasis on beating China. She also cosponsors bills funding public AI research and education. No position on binding safety rules for advanced AI was found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Young Kim to serve on Financial Services bipartisan AI Working Group",
+"url": "https://youngkim.house.gov/2024/01/12/rep-young-kim-to-serve-on-bipartisan-ai-working-group",
+"date": "2024-01-12",
+"quote": "Developments in artificial intelligence have already proven to present both opportunities and risks",
+"what_it_shows": "She said she wanted the group to produce policies that promote innovation, protect consumers, and keep American rather than Chinese Communist Party values leading emerging technology, a balanced framing."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2385, CREATE AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2026-04-30",
+"quote": null,
+"what_it_shows": "Supports a national shared computing and data resource for AI researchers, a pro-research position that is neutral on regulation."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5351, NSF AI Education Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Supports federal scholarships and training so more people learn AI, again neutral on safety rules."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted, security-driven tech rules. She co-led the 2023 Time Is Up Act to force action on TikTok and in Jan 2025 insisted the divest-or-ban law be enforced with no partial ByteDance ownership. No positions on Section 230, antitrust, or kids online safety bills were found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Young Kim says time is up on TikTok (Time Is Up Act of 2023)",
+"url": "https://youngkim.house.gov/2023/04/26/rep-young-kim-says-time-tiktok",
+"date": "2023-04-26",
+"quote": "As long as TikTok is owned by ByteDance, a Chinese company with ties to the Chinese Communist Party, it is an urgent national security threat.",
+"what_it_shows": "She co-introduced a bill to push the President to act against TikTok, a targeted national-security rule on one platform."
+},
+{
+"type": "interview",
+"title": "Semafor (reposted on her site): Trump's TikTok order tests Republicans",
+"url": "https://youngkim.house.gov/2025/01/22/trumps-tiktok-order-tests-republicans",
+"date": "2025-01-22",
+"quote": "It’s very clear the whole purpose was divesture outside of the ByteDance ownership. So we cannot give even 10%, 20%, 50% to ByteDance.",
+"what_it_shows": "She pushed back on delaying or softening the TikTok divestiture law, saying the law is clear and must be enforced."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, letters, or bills on preempting or protecting state AI laws were found as of Sept 2026. She did not sign the Democratic letters and was not found reacting to the Dec 2025 executive order or the Mar 2026 White House framework.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "A consistent export-control hawk. She cosponsors the AI OVERWATCH Act to let Congress block advanced chip sales to China and the Remote Access Security Act to close the cloud loophole, has told Commerce that export controls are not up for negotiation, and in July 2026 pressed BIS on loopholes letting Chinese firms get U.S.-designed AI chips through overseas foundries.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6875, AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Supports giving Congress power to block sales of advanced AI chips to China and other risky countries before they happen."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2683, Remote Access Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"date": "2025-04-08",
+"quote": null,
+"what_it_shows": "Supports closing the loophole that lets foreign users reach controlled chips and AI through the cloud."
+},
+{
+"type": "hearing",
+"title": "Press release: Rep. Young Kim confronts export control gaps in the AI arms race with Under Secretary Kessler (House Foreign Affairs hearing on the BIS budget)",
+"url": "https://youngkim.house.gov/2026/07/14/rep-young-kim-confronts-export-control-gaps-in-the-ai-arms-race-with-under-secretary-jeffrey-kessler",
+"date": "2026-07-14",
+"quote": "Rep. Kim raised concerns about potential loopholes allowing Chinese companies to obtain U.S.-designed AI chips through overseas foundry subsidiaries",
+"what_it_shows": "She used a 2026 hearing to push for tighter enforcement of AI chip export controls and alignment with Japan and the Netherlands on chipmaking equipment."
+},
+{
+"type": "letter",
+"title": "Bloomberg (reposted on her site): McCaul, Gallagher, Kim and Hagerty letter to Raimondo and Blinken against an export-controls working group with China",
+"url": "https://youngkim.house.gov/2023/08/18/lawmakers-urge-against-export-controls-working-group-with-china",
+"date": "2023-08-18",
+"quote": "U.S. export control policy towards the PRC should not be up for negotiation",
+"what_it_shows": "She told the Commerce Secretary not to negotiate chip export controls with Beijing."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Young Kim urges robust export controls on the CCP after Biden outbound-investment order",
+"url": "https://youngkim.house.gov/2023/08/10/rep-young-kim-urges-robust-export-controls-ccp",
+"date": "2023-08-10",
+"quote": "we should be building on existing export control and sanctions authorities",
+"what_it_shows": "She called for stronger export controls and legislation to keep American money out of China's military and surveillance technology."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3204, BASIC Act (chip factory tax credit)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-05-05",
+"quote": null,
+"what_it_shows": "Supports extending the tax break for building chip plants in the U.S., a domestic-supply measure that pairs with her export-control stance."
+}
+]
+}
+},
+"search_notes": "Ran about 14 news queries (AI, data centers, Nvidia/H20/H200/export controls, chatbot/deepfake/KOSA/Big Tech, AI Caucus/preemption/moratorium, Leading the Future/American Mission PACs, AI OVERWATCH/Chip Security, electricity/ratepayers, Center Square AI financial literacy, hearing remarks) plus a site listing of youngkim.house.gov and fetched eight of her releases, the Downballot CA-40 digest, the E&E CA-40 article, and govtrack roll call 356. Several landscape leads labeled Young Kim were actually Sen. Andy Kim (S. 5090, CHAT Act 2.0, S. 5047) or House E&C Democrats (Castor letter) and were discarded. The Downballot piece discussed her poll against Calvert but not data centers. The Center Square AI financial literacy article and the Quiver hearing writeup did not decode. AI Caucus membership pages were unreachable, so the landscape pass's claim that she is an AI Caucus member is not included. No AI super PAC activity for or against her was found."
+},
+{
+"bioguide": "C000059",
+"name": "Ken Calvert",
+"signature": "Defense Appropriations chair who funds Pentagon AI and innovation programs and wants grid and water impacts on nearby communities weighed before data centers go on military bases.",
+"notable_quote": {
+"text": "Members … understandably want to ensure there is careful consideration of impacts to local residents with regards to potential strain on the power grid and water supplies",
+"url": "https://www.eenews.net/articles/the-pentagon-wants-to-build-data-centers-congress-would-like-a-word/",
+"date": "2026-07-24"
+},
+"groups": [
+"House Appropriations Committee, Defense Subcommittee (Chair)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Supports building, with conditions. He does not oppose the Pentagon's plan to put AI data centers on military bases, but his FY27 defense spending bill requires the Pentagon to brief Congress on grid, water, and community impacts before construction, and his panel rejected a Democratic ban on data centers on federal land. He also voted for the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "statement",
+"title": "E&E News: The Pentagon wants to build data centers. Congress would like a word.",
+"url": "https://www.eenews.net/articles/the-pentagon-wants-to-build-data-centers-congress-would-like-a-word/",
+"date": "2026-07-24",
+"quote": "Members … understandably want to ensure there is careful consideration of impacts to local residents with regards to potential strain on the power grid and water supplies",
+"what_it_shows": "As Defense Appropriations chair he acknowledged community concerns about base data centers while framing his response as routine oversight rather than a limit on the buildout."
+},
+{
+"type": "other",
+"title": "E&E News: Calvert amendment package to the FY27 Defense Appropriations bill requiring a DOD briefing on data center impacts before construction",
+"url": "https://www.eenews.net/articles/the-pentagon-wants-to-build-data-centers-congress-would-like-a-word/",
+"date": "2026-07-24",
+"quote": "place significant strain on energy and water resources and communities have resisted such projects",
+"what_it_shows": "His own bill language admits data centers strain energy and water and requires the Pentagon to brief Congress on local impacts before building, while Republicans on the panel rejected an amendment to ban AI data centers on federal lands."
+},
+{
+"type": "vote",
+"title": "Roll call 356 (Dec 18, 2025): Yea on H.R. 4776, the SPEED Act permitting reform bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He backed faster federal permitting for energy and infrastructure projects, which supporters link to quicker data center buildout."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No position on regulating AI was found. His AI record is about funding military AI: the FY27 defense bill he drafted advances the President's AI innovation executive order and prioritizes Pentagon innovation programs. That says nothing about safety rules, liability, or a pause.",
+"evidence": [
+{
+"type": "other",
+"title": "House Appropriations Committee release: Committee approves FY27 Defense Appropriations Act (bill drafted by Calvert as subcommittee chair)",
+"url": "https://appropriations.house.gov/news/press-releases/committee-approves-fy27-defense-appropriations-act",
+"date": "2026-06-24",
+"quote": "Advancing the President's Executive Order 14409, Promoting Advanced Artificial Intelligence Innovation and Security.",
+"what_it_shows": "His defense spending bill is written to advance the administration's AI innovation agenda inside the Pentagon; it is a funding stance, not a position on AI rules."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Calvert's FY27 Defense Appropriations bill passed by Appropriations Committee",
+"url": "https://calvert.house.gov/media/press-releases/rep-calverts-fy27-defense-appropriations-bill-passed-appropriations-committee",
+"date": "2026-06-24",
+"quote": "The Defense Innovation Unit, APFIT, and Civil Reserve Manufacturing Network (CRMN) are prioritized in the FY27 bill to get our warfighters access to game-changing technologies",
+"what_it_shows": "He prioritizes fast adoption of commercial technology by the military, a pro-innovation posture on defense tech."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Only signal is his June 2026 cosponsorship of Sammy's Law, which would make big social media sites let parents use safety apps on their kids' accounts. No statements on Section 230, antitrust, privacy, or TikTok were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2657, Sammy's Law",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2026-06-30",
+"quote": null,
+"what_it_shows": "Supports a targeted kids online safety rule requiring large platforms to work with parental safety apps."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, letters, or bills on preempting or protecting state AI laws were found as of Sept 2026, including no reaction to the Dec 2025 executive order or the Mar 2026 leadership statement.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills on AI chip export controls, Nvidia sales to China, or semiconductors were found as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 12 news queries (AI, data centers, Sammy's Law/KOSA/TikTok/Section 230, chips/export controls/China, preemption/AI PACs, AI in defense appropriations, Golden Dome/autonomy, electricity/Inland Empire, Breaking Defense op-ed). The research tool's archive listing for calvert.house.gov returned nothing, so I fetched his live press index, his FY27 defense bill release, the House Appropriations FY27 release, his Jan 2026 Breaking Defense op-ed (no AI content), the E&E Pentagon data center article, and govtrack roll call 356. His FY27 NDAA release returned 404. The 'Calvert' data center search results were about Calvert County, Maryland, not him. No AI super PAC activity was found; Punchbowl coverage of defense PACs in his race against Kim did not decode."
+},
+{
+"bioguide": "G000598",
+"name": "Robert Garcia",
+"signature": "Top Democrat on House Oversight who targets algorithmic 'surveillance pricing' by companies like Instacart and backed a ban on AI election deepfakes, but opposed the TikTok divest-or-ban law.",
+"notable_quote": {
+"text": "it is unconscionable for companies to squeeze even more money out of people, especially if they’re doing so with secretive and predatory algorithms",
+"url": "https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-demands-answers-from-instacart-ceo-over-pricing-that-unfairly-drives-up-grocery-costs-for-families",
+"date": "2025-12-17"
+},
+"groups": [
+"House Committee on Oversight and Government Reform (Ranking Member)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers or electricity bills were found as of Sept 2026. He voted against the SPEED Act permitting bill in Dec 2025, but that bill covers permitting generally, not data centers.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356 (Dec 18, 2025): Nay on H.R. 4776, the SPEED Act permitting reform bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed a Republican bill to speed federal permitting that backers tie to faster data center buildout; it is not a direct data center position."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted guardrails on how AI is used against consumers and voters. As Oversight ranking member he demanded answers from Instacart over algorithmic and surveillance pricing, and in the last Congress he cosponsored a ban on AI deepfakes that deceive voters. Nothing found on frontier AI safety, licensing, or a pause.",
+"evidence": [
+{
+"type": "letter",
+"title": "Oversight Democrats release: Ranking Member Garcia demands answers from Instacart CEO over algorithmic and surveillance pricing",
+"url": "https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-demands-answers-from-instacart-ceo-over-pricing-that-unfairly-drives-up-grocery-costs-for-families",
+"date": "2025-12-17",
+"quote": "it is unconscionable for companies to squeeze even more money out of people, especially if they’re doing so with secretive and predatory algorithms",
+"what_it_shows": "He used his Oversight role to challenge a company's use of algorithms and personal data to charge different people different prices."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8858, Securing Elections From AI Deception Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "Supported banning AI-made fake images, audio, or video used to trick voters in federal elections."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Mixed but leaning toward targeted rules. He cosponsored the My Body, My Data Act on reproductive health data and pressed Instacart on surveillance pricing, yet he opposed the 2024 TikTok divest-or-ban bill even after a classified briefing. No positions on Section 230 or antitrust were found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Oversight Democrats release: Ranking Member Garcia demands answers from Instacart CEO over algorithmic and surveillance pricing",
+"url": "https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-demands-answers-from-instacart-ceo-over-pricing-that-unfairly-drives-up-grocery-costs-for-families",
+"date": "2025-12-17",
+"quote": "Instacart’s lack of transparency about what they’re tracking and how this pricing system works raises serious questions about whether they are using your data to charge the highest price they think you’ll tolerate.",
+"what_it_shows": "He wants transparency and limits on companies using tracking data to set individual prices."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420, My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-22",
+"quote": null,
+"what_it_shows": "Supported limits on collecting and sharing reproductive health data."
+},
+{
+"type": "interview",
+"title": "Politico (reposted on his site): House progressives signal opposition to TikTok bill",
+"url": "https://robertgarcia.house.gov/media/in-the-news/politico-house-progressives-signal-opposition-tiktok-bill",
+"date": "2024-03-13",
+"quote": "I didn't support it before the classified briefing, and there was nothing that changed my mind",
+"what_it_shows": "He opposed the bill forcing ByteDance to sell TikTok or face a ban, a hands-off stance on that specific measure that cuts against his other pro-regulation positions."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No position found. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI-law moratorium, and no statement on the Dec 2025 executive order or Mar 2026 framework was found.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills on AI chip export controls, Nvidia sales to China, or semiconductors were found as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 12 news queries (AI, chatbot/deepfake/Grok/xAI, data centers/Nvidia/preemption, TikTok/Big Tech/Section 230/kids online, Oversight AI, algorithmic/surveillance pricing, Delta AI letter, DOGE AI) plus a site listing of robertgarcia.house.gov and fetched his press index, the Oversight Democrats Instacart release and members page, his Politico TikTok item, the Casar letter, the Clarke letter, the Matsui letter PDF, and govtrack roll call 356. Two landscape leads were misattributed: the Casar AI-CEO hearing letter signers named Chuy García and Sylvia Garcia, not him, and the Financial Services AI Working Group member was Sylvia Garcia. The Nov 2025 Delta AI ticket-pricing letter was led by Rep. García with an accent, which points to Chuy García, so it is not credited to him. The July 2025 Grok-in-government letter (FedScoop) could not be opened or found on the Oversight Democrats site, so it is not used."
+}
+]

@@ -1,0 +1,119 @@
+[
+{
+"bioguide": "L000562",
+"checks": [
+{
+"url": "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=4569",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-09",
+"note": "Quote appears verbatim. Stephen Lynch is listed among House cosponsors. Page's bill summary matches the claim: directs FERC to make data centers pay for local transmission upgrades, create a data center load queue, and prioritize interconnection for data centers bringing their own generation/storage."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Quote verbatim. Letter signed by 19 members including Stephen F. Lynch (MA-08); text says Congress has 'completely failed to respond to the threats posed by AI' and CEOs 'should answer questions under oath'; page ties it to reports that models escaped test environments to hack other organizations."
+},
+{
+"url": "https://lynch.house.gov/2025/1/rep-lynch-named-lead-democrat-on-digital-assets-financial-technology-and-artificial-intelligence-subcommittee",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-21",
+"note": "Quote verbatim from Lynch's own press release. Preceding sentence says he has encouraged 'responsible artificial intelligence technologies in the financial services sector that maximizes consumer privacy and minimizes financial risk and discrimination', and the quote itself acknowledges AI's potential to improve efficiency, consistent with a targeted-guardrails reading."
+},
+{
+"url": "https://fedscoop.com/house-oversight-democrats-demand-answers-on-grok-use-government/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-25",
+"note": "Quote verbatim. Article names Lynch as former Oversight ranking member co-signing with Garcia; letter to GSA flags that agencies may adopt Grok 'without following legally mandated procedures that protect privacy and cybersecurity' and demands information on GSA's work with Grok."
+},
+{
+"url": "https://www.boston.com/news/local-news/2026/08/14/takeaways-lynch-and-roath-face-off-at-candidate-forum-in-weymouth/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-14",
+"note": "Quote verbatim. Article paraphrases: Lynch 'said that he is the best candidate to take on the wealthy and powerful cryptocurrency and artificial intelligence industries. He warned about the growing influence of AI leaders in Washington.' Note the quoted line is about money in politics generally, not AI specifically."
+},
+{
+"url": "https://economictimes.indiatimes.com/news/international/world-news/i-dont-see-us-as-the-winner-rep-lynch-torches-kevin-warsh-over-feds-approach-towards-ai/videoshow/132398705.cms",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Video page description matches claim: Lynch challenged Warsh over the Fed's role in AI, 'warning the U.S. risks falling behind in the global AI race'; Warsh replied it is not the central bank's job. Only the ET blurb is available (no transcript). ET labels Warsh 'Fed Chair nominee' though a House member questioning him implies a Fed Chair testimony, not a confirmation hearing; minor labeling caveat."
+},
+{
+"url": "https://www.boston.com/news/local-news/2026/08/14/takeaways-lynch-and-roath-face-off-at-candidate-forum-in-weymouth/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-14",
+"note": "Same page as item 5; quote verbatim and paraphrase about taking on crypto/AI industries and AI leaders' influence in Washington is present."
+},
+{
+"url": "https://lynch.house.gov/2025/1/rep-lynch-named-lead-democrat-on-digital-assets-financial-technology-and-artificial-intelligence-subcommittee",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-21",
+"note": "Quote verbatim. Page uses the phrase 'virtually unregulated cryptocurrency sector' and separately says he wants to protect consumers from risks 'stemming from the rapid development of cryptocurrencies, artificial intelligence, and other emerging technologies'. The 'common sense legislation' quote itself is about crypto failures (FTX etc.), not AI."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned empty text; downloaded PDF and extracted with pypdf. Quote verbatim. Stephen F. Lynch appears in the signature block; 81 'Member of Congress' signatures counted. Letter opposes NDAA moratorium and an executive order that would preempt state AI laws and withhold BEAD funds."
+},
+{
+"url": "https://lynch.house.gov/2025/1/rep-lynch-named-lead-democrat-on-digital-assets-financial-technology-and-artificial-intelligence-subcommittee",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-21",
+"note": "Headline quote appears verbatim in Lynch's own press release."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "K000375",
+"checks": [
+{
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "PDF (4 pp) dated March 19, 2026 to Cole/DeLauro/Fleischmann/Kaptur. Quote appears verbatim. Requests DOE develop a National Strategic Data Center Plan within 18 months covering electricity demand, grid reliability, consumer costs, water efficiency. Exactly 14 signers listed, William R. Keating among them."
+},
+{
+"url": "https://newbedfordlight.org/bill-keating-says-democrats-have-few-options-to-push-back-on-trump/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-26",
+"note": "Article published 2026-02-26. In a passage about high energy bills, Pilgrim closure and Trump-blocked offshore wind, the reporter writes: 'Keating said he was also concerned about data centers across the country driving up electricity demand to support artificial intelligence.' Paraphrase, no direct quote, matches the claim."
+},
+{
+"url": "https://thehill.com/policy/technology/5968359-trump-administration-ai-chip-grilling/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "The Hill, 2026-07-14, 'Trump's AI chip sales under scrutiny in House hearing.' Keating pressed BIS chief Kessler on whether he had discussions with envoy Steve Witkoff about allowing advanced chip sales to an Emirati AI firm; Kessler declined, Keating said 'You are evading the answer, sir' and the quoted conflict-of-interest line appears verbatim within a longer passage."
+},
+{
+"url": "https://thehill.com/policy/technology/5968359-trump-administration-ai-chip-grilling/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Same article; quote is verbatim, attributed to Keating."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the four checked sources touches Big Tech or platform regulation; they cover data-center planning and chip export controls only. If no other sourced item exists, -1 'Targeted rules' rests on nothing here and should be left unscored until evidence is added.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

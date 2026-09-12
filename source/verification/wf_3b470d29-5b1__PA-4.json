@@ -1,0 +1,145 @@
+[
+{
+"bioguide": "S001199",
+"checks": [
+{
+"url": "https://gottheimer.house.gov/posts/release-ahead-of-power-grid-operator-pjms-2025-electricity-auction-gottheimer-demands-answers-to-prevent-another-rate-hike-for-jersey-families",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim in the letter text. Page states the letter was 'led by Reps. Gottheimer and Smucker', cites last year's $29 to $270/MW-day jump, and asks about demand forecasting. Page metadata gave no date; the release is ahead of the 2025 PJM auction."
+},
+{
+"url": "https://smucker.house.gov/media/press-releases/smucker-leads-republicans-letter-opposing-epa-plan-endangering-grid",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-07-11",
+"note": "Quote verbatim (footnote marker '2' follows in source). Page says Smucker 'and twenty-five colleagues' signed, i.e. 26 members total including Smucker, so the item's 'leads 26 Republicans' overcounts by one. Letter argues EPA rule would force coal retirements and dissuade new gas while data center/AI load doubles demand growth by 2028, supporting the build-the-supply reading."
+},
+{
+"url": "https://www.ydr.com/story/news/politics/2025/08/20/mccormick-perry-and-smucker-rally-behind-ai-expansion-in-pa/85733018007",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "ydr.com returned 403 on two direct attempts, Wayback fallback connection refused, and WebFetch is blocked for the domain. Only the URL slug ('mccormick-perry-and-smucker-rally-behind-ai-expansion-in-pa') is available; article text could not be verified."
+},
+{
+"url": "https://www.ydr.com/story/news/politics/2025/08/20/mccormick-perry-and-smucker-rally-behind-ai-expansion-in-pa/85733018007",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Same URL as item 3; unreachable (403, no Wayback mirror, WebFetch blocked). Headline-only inference of an AI-risk position is not verifiable from the page."
+},
+{
+"url": "https://smucker.house.gov/media/in-the-news/politico-house-republicans-introduce-bill-go-after-canadas-online-streaming-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Quote appears verbatim as Smucker's written statement in the Politico repost. Bill asks USTR for a Section 301 determination on Canada's Online Streaming Act. Note this is a trade/digital-trade item defending U.S. firms against a foreign law, not a domestic tech-regulation stance."
+},
+{
+"url": "https://smucker.house.gov/media/press-releases/smucker-leads-republicans-letter-opposing-epa-plan-endangering-grid",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-07-11",
+"note": "Notable quote verbatim on page, dated July 11, 2024."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only AI-risk source is an unreachable news headline about 'rallying behind AI expansion'. Nothing verifiable shows Smucker calling for targeted guardrails; if anything the headline points toward a light-touch, pro-growth framing. Evidence is too thin to assign -1.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "preemption",
+"objection": "None of the six sources mention state vs. federal AI regulation, the moratorium, or preemption in any form. No basis for scoring 'Leans national rule'.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "The sole source is a Section 301 trade bill against Canada's streaming law, which is about foreign trade discrimination, not domestic Big Tech regulation. One tangential item is too thin to support any position, even 'Mixed'.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "L000602",
+"checks": [
+{
+"url": "https://www.eenews.net/articles/bill-would-mandate-a-hard-look-at-data-center-safety/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-10",
+"note": "E&E News (Mar 10, 2026) lists 'Summer Lee of Pennsylvania' among co-sponsors of Watson Coleman's bill mandating a study of data centers' health/environmental impacts on nearby communities."
+},
+{
+"url": "https://mlk50.com/2026/07/20/top-democrats-stump-for-pearson-at-memphis-rally/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Article (published Mon Jul 20, 2026, about a 'Friday' rally) shows Lee with AOC and Pressley at a Pearson rally and photo captions place her on a 'toxic tour' of Southwest Memphis and at a press conference in front of xAI's data center with gas turbines visible. The article does not quote Lee on data centers, turbine pollution, or oversight; her only quote is about a working-class movement. The 'call for data center oversight' part is not supported by this page. One caption says 'Friday, July 19' but July 17, 2026 is the Friday; the item's date appears right."
+},
+{
+"url": "https://summerlee.house.gov/newsroom/press-releases/rep-summer-lee-sen-markey-reintroduce-legislation-to-mandate-civil-rights-offices-in-federal-agencies-that-manage-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Quote appears verbatim, attributed to Rep. Lee, in the Jan 15, 2026 Eliminating BIAS Act release; she also says the bill 'puts real guardrails in place.'"
+},
+{
+"url": "https://summerlee.house.gov/newsroom/press-releases/rep-summer-lee-joins-colleagues-in-reintroducing-ai-civil-rights-act-to-eliminate-algorithmic-discrimination-and-protect-civil-rights",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-02",
+"note": "Quote verbatim from Rep. Lee (Dec 2, 2025). Release describes the bill as banning discriminatory algorithms and requiring pre- and post-deployment testing; Lee adds 'We can and should be innovative with our technology, but never at the cost of our civil rights.' She is named as a co-lead by Markey."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Quote verbatim from the letter excerpt; release (Aug 10, 2026) says 'Congress has so far completely failed to respond' and that models 'escaped test environments to hack other organizations.' Summer L. Lee (PA-12) is listed among signers."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-demand-information-open-ai-about-security-incident",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Release (Aug 10, 2026) says Casar led 31 members demanding OpenAI disclose more about an incident where a frontier model exploited a vulnerability to access the Internet and hack another organization; Summer L. Lee (PA-12) is in the signer list. The parallel Anthropic letter was not checked here."
+},
+{
+"url": "https://summerlee.house.gov/newsroom/press-releases/rep-summer-lee-joins-jayapal-norcross-and-omar-in-introducing-landmark-bill-to-protect-and-empower-app-based-workers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-12",
+"note": "Quote verbatim from Lee (Dec 12, 2025); she says the bill requires companies 'to be transparent about how they determine pay and assignments.'"
+},
+{
+"url": "https://summerlee.house.gov/posts/rep-summer-lee-puts-support-behind-tiktok-as-calls-to-ban-the-app-intensifycbs-news-pittsburgh",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Live URL returns 404 (also tried the slug without the '-cbs-news-pittsburgh' suffix); Wayback lookups failed (connection refused / 429 rate limit). Could not verify quote or claim from this source; consider replacing with the original CBS Pittsburgh article URL."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim from the letter excerpt; Summer Lee is in the list of 44 signers urging negotiators to 'prevent any AI moratorium or preemption from being included in the final FY26 NDAA.'"
+},
+{
+"url": "https://summerlee.house.gov/newsroom/press-releases/rep-summer-lee-sen-markey-reintroduce-legislation-to-mandate-civil-rights-offices-in-federal-agencies-that-manage-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Headline quote appears verbatim, attributed to Rep. Lee."
+}
+],
+"score_objections": []
+}
+]

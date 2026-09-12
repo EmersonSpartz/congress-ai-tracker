@@ -1,0 +1,635 @@
+[
+{
+"bioguide": "W000808",
+"name": "Frederica S. Wilson",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Wilson is an original cosponsor of the House Democrats' Energy Bills Relief Act, which includes making data centers pay for the power they use, and she voted against the SPEED Act permitting bill. No statement of her own on data centers was found as of Sept 2026.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7977 Energy Bills Relief Act (original cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Verified on GovTrack's cosponsor list; the Casten-Levin bill pairs clean energy measures with provisions making data centers pay for their own energy."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted against the Republican permitting overhaul that backers tied to faster energy and data center buildout; a weak, party-line signal."
+},
+{
+"type": "other",
+"title": "News: E&E News on Democratic data center bills, including the Energy Bills Relief Act",
+"url": "https://www.eenews.net/articles/trump-ai-directive-could-spur-congressional-action-on-data-centers/",
+"date": "2026-03-23",
+"quote": "includes provisions to make sure data centers pay for their energy",
+"what_it_shows": "Explains what the bill she cosponsored does on data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Wilson has repeatedly cosponsored bills that would make companies test AI systems for bias and discrimination and would ban AI-driven price and wage discrimination. This is a targeted-guardrails record built from cosponsorships; no speeches or statements of her own on AI were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5511 Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-19",
+"quote": null,
+"what_it_shows": "Would require companies to test automated decision systems for bias and harm and report results to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6356 Artificial Intelligence Civil Rights Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "Would ban discriminatory AI and require testing before and after deployment."
+},
+{
+"type": "statement",
+"title": "Press release (Rep. Pressley): AI Civil Rights Act reintroduced, Wilson listed among cosponsors",
+"url": "https://pressley.house.gov/2025/12/03/pressley-clarke-markey-reintroduce-ai-civil-rights-act-to-eliminate-ai-discrimination/",
+"date": "2025-12-03",
+"quote": null,
+"what_it_shows": "Confirms Wilson joined at reintroduction; the release frames the bill as guardrails against biased algorithms in housing, jobs and other decisions."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7110 Eliminating Bias in Algorithmic Systems Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7110",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "Would create civil rights teams in federal agencies to catch discriminatory algorithms; she joined this month."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640 Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2026-05-12",
+"quote": null,
+"what_it_shows": "Would ban using AI and personal data to charge different prices or pay different wages to different people."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4894 Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "Targets AI-made false voting information in the two months before federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8858 Securing Elections From AI Deception Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "Earlier support for banning AI deepfakes that trick voters."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Wilson backed a reproductive health data privacy bill in the last Congress and voted for the 2024 TikTok divestiture law. She missed the June 2026 House vote on the KIDS Act kids online safety package while recovering from eye surgery. Thin record, no statements.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Would stop apps and companies from collecting or sharing reproductive health data without need."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7521 Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divestiture), House roll call 86",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "Voted to force TikTok's Chinese owner to divest, a targeted platform rule on national security grounds."
+},
+{
+"type": "vote",
+"title": "Vote: did not vote on H.R. 7757 KIDS Act (House roll call 228)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Absent for the 267-117 passage of the kids online safety package that includes AI chatbot rules; she was out for weeks after eye surgery, so this is not a position."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Wilson did not sign the Nov 26, 2025 Matsui letter (81 House Democrats) or the Dec 3, 2025 Clarke letter (44 signers) opposing a moratorium on state AI laws, and no statement on the Dec 2025 executive order or the March 2026 White House framework was found.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No bills, votes, or statements on AI chip export controls or Nvidia sales to China were found. Her 2024 vote for the TikTok divestiture law concerns apps, not chips.",
+"evidence": []
+}
+},
+"signature": "Retiring Miami Democrat whose AI record is a stack of cosponsorships on algorithmic bias and AI civil rights bills, with no public speeches on AI.",
+"notable_quote": null,
+"groups": [],
+"search_notes": "Google News searches: 'Frederica Wilson' with artificial intelligence; AI; data center(s); chatbot/deepfake/Big Tech/Section 230; electricity/energy bills/ratepayers; preemption/state AI laws/AI Civil Rights/algorithm; TikTok/Nvidia/chips/DeepSeek; AI schools/workers/HBCU; retiring. Site listing of wilson.house.gov returned 15 archived URLs, all pre-2025 content (the site stamps migrated old items with a 2022-11-28 date). Live press release index checked (Aug-Sept 2026 items, none on AI). Opened: Pressley AI Civil Rights Act release (confirms cosponsorship); Matsui letter PDF text (not a signer); Clarke NDAA letter (not a signer); Casar AI CEO hearings letter (not a signer); GovTrack roll calls h356 (SPEED Act, Nay), h86 (TikTok, Yea), h228 (KIDS Act, no vote); GovTrack H.R. 7977 cosponsor list (original cosponsor); E&E News on H.R. 7977. Context: announced retirement May 29, 2026; missed about a month of votes in May 2026 for eye surgery; Oliver Gilbert won the Aug 18, 2026 primary to succeed her. Not found: any speech, interview, or press release by Wilson on AI or data centers. Florida Politics delegation roundups (Sept 11, 2026 on data centers; July 31, 2026 on AI scams) returned 403 and the Wayback Machine was refusing connections, so they could not be checked. No AI PAC activity found."
+},
+{
+"bioguide": "W000797",
+"name": "Debbie Wasserman Schultz",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Wasserman Schultz cosponsored the Energy Bills Relief Act, which includes making data centers pay for their own power, and voted against the SPEED Act. At her own June 2026 utility-cost event she blamed utility profits and slow clean energy, not data centers, so her data center stance rests on the bill rather than her words.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7977 Energy Bills Relief Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-06-22",
+"quote": null,
+"what_it_shows": "Joined June 22, 2026 per GovTrack; the bill includes provisions making data centers pay for their energy alongside clean energy measures."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against the Republican permitting overhaul tied to faster energy and data center buildout; a weak, party-line signal."
+},
+{
+"type": "statement",
+"title": "Press release: Wasserman Schultz shares Broward residents' high utility costs, offers legislative solutions",
+"url": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3503",
+"date": "2026-06-01",
+"quote": "Congress can lower utility bills by passing legislation that caps excessive corporate profits and overcharges, and speeds up the deployment of low-cost clean energy",
+"what_it_shows": "Her own framing of rising electric bills targets utility profits and clean energy; the release does not mention data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Her AI concerns run through child safety and elections: she cosponsored bills against AI election deception and AI-made intimate deepfakes, and has pointed to AI-generated abuse material straining child exploitation task forces. Targeted guardrails, not broad AI rules.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Wasserman Schultz delivers $500,000 to Broward Sheriff's Office to fight online child predators",
+"url": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3472",
+"date": "2026-03-10",
+"quote": "grueling demands on the Task Forces are, tragically, only growing with AI simulations",
+"what_it_shows": "She ties AI-generated abuse imagery to a growing law enforcement burden and wants police to keep pace with the technology."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8858 Securing Elections From AI Deception Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "Would ban AI deepfakes used to trick voters or lie about how to vote."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3106 Preventing Deepfakes of Intimate Images Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2024-07-09",
+"quote": null,
+"what_it_shows": "Would criminalize sharing AI-made sexual images of real people and let victims sue."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6998 Renewed Hope Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6998",
+"date": "2026-01-09",
+"quote": null,
+"what_it_shows": "Would let investigators use face-matching technology to identify child abuse victims; she favors law enforcement use of AI, a mixed signal."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "A kids online safety legislator: lead sponsor of Sammy's Law, which would force big social media platforms to let parents plug in monitoring apps, cofounder of the bipartisan Children's Safety Caucus, and a yes vote on the 2026 KIDS Act package and the 2024 TikTok divestiture law.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 2657 Sammy's Law",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2025-04-03",
+"quote": null,
+"what_it_shows": "Requires large social media platforms to let parents delegate account oversight to third-party safety software; sponsorship confirmed on GovTrack."
+},
+{
+"type": "other",
+"title": "News: Broadband Breakfast on the House kids online safety deal",
+"url": "https://broadbandbreakfast.com/house-leaders-reach-deal-on-kids-online-safety-package/",
+"date": "2026-06-23",
+"quote": null,
+"what_it_shows": "Sammy's Law, which she leads with Rep. Buddy Carter, was marked up by Energy and Commerce in March 2026 but left out of the final KIDS Act package."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7757 KIDS Act (House roll call 228)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Voted for the bipartisan kids online safety package that includes AI chatbot rules and child data privacy protections."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7521 TikTok divestiture bill (House roll call 86)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "Voted to force TikTok's Chinese owner to divest."
+},
+{
+"type": "statement",
+"title": "Press release: Wasserman Schultz, Carter, Krishnamoorthi, Bacon announce Children's Safety Caucus",
+"url": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3332",
+"date": "2025-05-06",
+"quote": "Kids can't always protect themselves, so looking out for their best interests and creating a safer world is critical",
+"what_it_shows": "Launched a bipartisan caucus with her Sammy's Law co-lead; it covers child safety broadly, including online."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 5778 Sammy's Law of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5778",
+"date": "2023-09-28",
+"quote": null,
+"what_it_shows": "First version of her parental safety-software bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5182 Child Online Safety Modernization Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2024-01-25",
+"quote": null,
+"what_it_shows": "Would make online companies report child abuse material more fully and keep evidence longer."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "She did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against preempting state AI laws, and no statement on the issue was found. Her yes vote on the June 2026 KIDS Act, which carries a narrow kids-safety preemption clause, is not a position on AI preemption generally.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "She cosponsored the No DeepSeek on Government Devices Act and voted to force TikTok's Chinese owner to divest, a China-tech hawk lean. Nothing was found on AI chip export controls or Nvidia sales specifically.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1121 No DeepSeek on Government Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-07",
+"quote": null,
+"what_it_shows": "Would remove the Chinese AI app DeepSeek from all federal devices."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7521 TikTok divestiture bill (House roll call 86)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "Supports restricting Chinese-controlled technology in the United States; not about chips."
+}
+]
+}
+},
+"signature": "Kids online safety Democrat: lead sponsor of Sammy's Law and cofounder of the Children's Safety Caucus, with little on frontier AI or chips.",
+"notable_quote": {
+"text": "grueling demands on the Task Forces are, tragically, only growing with AI simulations",
+"url": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3472",
+"date": "2026-03-10"
+},
+"groups": [
+"Children's Safety Caucus (co-founder, with Reps. Buddy Carter, Raja Krishnamoorthi and Don Bacon, May 2025)"
+],
+"search_notes": "Google News searches: 'Wasserman Schultz' with artificial intelligence; data center(s); chatbot/deepfake/Sammy's Law; Big Tech/Section 230/antitrust/TikTok; Energy Bills Relief/electric bills/FPL; preemption/state AI laws/KOSA; Nvidia/chips/export controls/DeepSeek; Middle Class Summit AI. Wayback site listing was nearly empty, so the live press release index was read page by page (pages 1-13, March 2025 to August 2026); no press release on the April 2025 Sammy's Law reintroduction was found on her own site. Opened: June 1, 2026 utility-cost release; March 10, 2026 online child predators release; May 6, 2025 Children's Safety Caucus release; Dec 10, 2025 PROTECT Our Children Act release (ICAC reauthorization, no AI content); Broadband Breakfast on the KIDS Act deal; GovTrack H.R. 2657 (sponsor) and H.R. 7977 cosponsor list; GovTrack roll calls h356, h86, h228; Matsui, Clarke and Casar letters (not a signer of any). Could not open: Washington Times (Mar 23, 2026) and Washington Post (Aug 26, 2025) Sammy's Law articles, Florida Politics Sept 4, 2026 Middle Class Summit piece on AI (URLs would not decode). Context: after the 2026 redistricting she ran in the redrawn 20th District and won the Aug 18, 2026 Democratic primary. No AI PAC activity found."
+},
+{
+"bioguide": "D000600",
+"name": "Mario Diaz-Balart",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No statement, bill, or letter on data centers or electricity bills found as of Sept 2026. His only related record is a yes vote on the SPEED Act permitting bill, which is not a data center position.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 4776 SPEED Act (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Backed the Republican permitting overhaul; a party-line vote that does not speak to data centers directly."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No AI bills sponsored or cosponsored in the 118th or 119th Congress, and no statements on AI safety, chatbots, or deepfakes found in his press releases, appropriations statements, or interviews.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His tech votes are national security and kids safety flavored: he voted to force TikTok's Chinese owner to divest, calling ByteDance in essence a subsidiary of the Communist Party, and for the 2026 KIDS Act. No broader Big Tech, privacy law, or Section 230 position found beyond a 2016 vote for the Email Privacy Act.",
+"evidence": [
+{
+"type": "interview",
+"title": "Interview: VOA Q&A on TikTok divestiture bill and China",
+"url": "https://www.voanews.com/a/tiktok-owner-is-essentially-subsidiary-of-china-s-communist-party-us-lawmaker-says-/7533311.html",
+"date": "2024-03-19",
+"quote": "People say that it's to ban TikTok. No, it's basically saying you have to divest from, in essence, being controlled by the Communist Party of China.",
+"what_it_shows": "He defends the TikTok law as a forced divestiture from Chinese Communist Party control, not a ban."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7521 TikTok divestiture bill (House roll call 86)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "Voted to force TikTok's Chinese owner to divest."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7757 KIDS Act (House roll call 228)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Voted for the kids online safety package with AI chatbot and child data privacy rules."
+},
+{
+"type": "statement",
+"title": "Press release: Diaz-Balart votes for the Email Privacy Act",
+"url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-votes-protect-americans-privacy-and-electronic",
+"date": "2016-04-27",
+"quote": "The federal government should not have access to the private messages of millions of Americans across the country without a court order.",
+"what_it_shows": "Older record of backing warrant requirements for government access to email; about government surveillance rather than Big Tech."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on preempting state AI laws, the Dec 2025 executive order, or the March 2026 White House framework, and no related bills cosponsored.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "A vocal China hawk who co-chairs the Congressional Taiwan Caucus and chairs the appropriations panel funding the State Department, but no bills, votes, or statements on AI chip export controls or Nvidia sales to China were found.",
+"evidence": [
+{
+"type": "interview",
+"title": "Interview: VOA Q&A on China, Taiwan and TikTok",
+"url": "https://www.voanews.com/a/tiktok-owner-is-essentially-subsidiary-of-china-s-communist-party-us-lawmaker-says-/7533311.html",
+"date": "2024-03-19",
+"quote": "We have to be a little bit more serious about understanding that China is a very dangerous player in the world.",
+"what_it_shows": "General hawkishness on China and Taiwan; he did not address chips or export controls."
+}
+]
+}
+},
+"signature": "Appropriations vice chair and China hawk with no AI legislative record; his only tech votes are the TikTok divestiture and the KIDS Act.",
+"notable_quote": {
+"text": "People say that it's to ban TikTok. No, it's basically saying you have to divest from, in essence, being controlled by the Communist Party of China.",
+"url": "https://www.voanews.com/a/tiktok-owner-is-essentially-subsidiary-of-china-s-communist-party-us-lawmaker-says-/7533311.html",
+"date": "2024-03-19"
+},
+"groups": [
+"Vice Chair, House Appropriations Committee; Chairman, Appropriations Subcommittee on National Security, Department of State, and Related Programs",
+"Co-Chairman, Congressional Taiwan Caucus"
+],
+"search_notes": "Google News searches: 'Diaz-Balart' with artificial intelligence; data center(s); Nvidia/export controls/chips/semiconductors; Big Tech/TikTok/Section 230/deepfake; TikTok ByteDance; Spanish 'inteligencia artificial'; appropriations AI/State Department; preemption/state AI laws/chatbot/kids online; Huawei/Chinese technology/5G/cybersecurity. Site listing of mariodiazbalart.house.gov returned 10 archived URLs, all 2016-2018 content. Live press release index checked (Sept 2026 items on appropriations and Cuba, none on AI). Opened: House Appropriations Committee release on the FY27 National Security, Department of State bill he chairs (no AI mention); his 2016 Email Privacy Act and 2017 CHIP releases; VOA March 2024 Q&A; committees and caucuses page; GovTrack roll calls h356, h86, h228. Not found: any AI statement, bill, or letter; no data center or chip export statement. Context: the 2026 map moved part of Broward County into his district. No AI PAC activity found."
+},
+{
+"bioguide": "S000168",
+"name": "Maria Elvira Salazar",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No statement, bill, or letter on data centers or electricity bills found as of Sept 2026. Her only related record is a yes vote on the SPEED Act permitting bill, which is not a data center position.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 4776 SPEED Act (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Backed the Republican permitting overhaul; a party-line vote that does not speak to data centers directly."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Salazar is one of the House's most active members on AI deepfakes and digital replicas: she led the TAKE IT DOWN Act into law, sponsors the NO FAKES Act, and presses the FTC to enforce takedowns. She pairs this with pro-innovation language, so it is targeted guardrails, not sweeping AI rules.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 633 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-01-22",
+"quote": null,
+"what_it_shows": "House sponsor of the law criminalizing real and AI-faked intimate images and requiring fast takedowns; the Senate version became law in May 2025."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 8915 NO FAKES Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8915",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "Would give every person a federal right to control AI copies of their voice and face."
+},
+{
+"type": "statement",
+"title": "Press release: Salazar, Dean, Blackburn, Coons reintroduce NO FAKES Act",
+"url": "https://salazar.house.gov/media/press-releases/salazar-dean-blackburn-coons-bipartisan-colleagues-reintroduce-no-fakes-act",
+"date": "2026-05-21",
+"quote": "In this new era of AI, bad actors are quickly and easily profiting from the creativity of others. Our laws must catch up",
+"what_it_shows": "She frames AI voice and likeness cloning as a harm the law has not caught up with and wants a federal right over one's digital replica."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Salazar's NO FAKES Act advances out of Senate Judiciary Committee",
+"url": "https://salazar.house.gov/media/press-releases/rep-salazars-no-fakes-act-advances-out-senate-judiciary-committee-unanimous",
+"date": "2026-06-22",
+"quote": "AI is moving fast, and that is exciting. But no one should have to worry that their face or voice can be copied, manipulated, or used to deceive others.",
+"what_it_shows": "Balances enthusiasm for AI with a demand for protections against impersonation."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3562 DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-08-03",
+"quote": null,
+"what_it_shows": "Would let victims sue over AI-made sexual images of them."
+},
+{
+"type": "statement",
+"title": "Press release: Hundreds of artists, actors and creators back Salazar's No AI FRAUD Act",
+"url": "https://salazar.house.gov/media/press-releases/hundreds-artists-actors-and-creators-back-salazars-no-ai-fraud-act",
+"date": "2024-02-02",
+"quote": "You don't have to be a musical artist to see the threat AI abuse poses to the American people.",
+"what_it_shows": "Her earlier likeness-rights bill drew backing from nearly 300 creators; she casts AI cloning as a threat to ordinary people, not just artists."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 6943 No AI FRAUD Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6943",
+"date": "2024-01-10",
+"quote": null,
+"what_it_shows": "First version of her bill letting people sue over AI fakes of their voice or likeness."
+},
+{
+"type": "other",
+"title": "News: The Hill on Grammys on the Hill honoring Coons and Salazar for protecting artists from AI",
+"url": "https://thehill.com/blogs/in-the-know/5843379-lawmakers-honor-music-protections/",
+"date": "2026-04-22",
+"quote": null,
+"what_it_shows": "The music industry honored her for the TAKE IT DOWN and NO FAKES Acts; she told the audience protecting artists against AI is part of her job."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "She writes duties for platforms into law: TAKE IT DOWN requires websites to remove intimate images quickly, and she has asked the FTC to punish tech companies that do not comply. She also voted for the KIDS Act and the TikTok divestiture. Targeted rules aimed at platforms, Big Tech and scammers, not a broad antitrust agenda.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Salazar, Klobuchar, Cruz and Dean ask the FTC about TAKE IT DOWN Act enforcement",
+"url": "https://salazar.house.gov/media/press-releases/salazar-klobuchar-cruz-dean-request-information-implementation-take-it-down",
+"date": "2026-05-19",
+"quote": null,
+"what_it_shows": "The law's lead authors urged the FTC to hold tech companies accountable if they fail to remove non-consensual intimate images as required, as the platform takedown provisions took effect."
+},
+{
+"type": "statement",
+"title": "Press release: U.S. Senate passes Salazar's bill to protect deepfake revenge porn victims",
+"url": "https://salazar.house.gov/media/press-releases/us-senate-passes-salazars-bill-protect-deepfake-revenge-porn-victims",
+"date": "2024-12-05",
+"quote": "By voting for the TAKE IT DOWN Act, the Senate took a stand to protect women and girls victimized by bad actors stealing their likenesses to create fake revenge porn",
+"what_it_shows": "Pushed the House to pass a bill that criminalizes the images and requires websites to remove them quickly."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7757 KIDS Act (House roll call 228)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Voted for the kids online safety package with AI chatbot and child data privacy rules."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7521 TikTok divestiture bill (House roll call 86)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "Voted to force TikTok's Chinese owner to divest."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1218 SHIELD Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1218",
+"date": "2025-02-11",
+"quote": null,
+"what_it_shows": "Would make sharing private nude images without consent a federal crime."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5182 Child Online Safety Modernization Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2023-08-08",
+"quote": null,
+"what_it_shows": "Would make online companies report child abuse material more fully and keep evidence longer."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws, the Dec 2025 executive order, or the March 2026 White House framework. Her NO FAKES Act would create one national digital replica right, but she has not spoken to the broader fight over state AI laws.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Salazar has lined up behind the House Foreign Affairs effort to restrict AI chip sales to China: she is an original cosponsor of the AI OVERWATCH Act, which would let Congress block advanced chip exports, and backs bills punishing Chinese theft of American AI models and tightening export controls. No speeches of her own on Nvidia or the H20/H200 sales were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6875 AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-02-02",
+"quote": null,
+"what_it_shows": "Gives Congress arms-sale-style power to block advanced AI chip sales to China and other risky countries; GovTrack lists her as a Foreign Affairs Committee cosponsor."
+},
+{
+"type": "other",
+"title": "GovTrack cosponsor list for H.R. 6875 AI OVERWATCH Act",
+"url": "https://www.govtrack.us/congress/bills/119/hr6875/cosponsors",
+"date": "2026-02-02",
+"quote": null,
+"what_it_shows": "Opened to confirm her cosponsorship, dated Feb. 2, 2026."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8283 Deterring American AI Model Theft Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"date": "2026-05-12",
+"quote": null,
+"what_it_shows": "Would punish foreign companies, especially in China, that steal or copy American AI models."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8689 Strategic Export Controls and Border Security Enhancement Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8689",
+"date": "2026-07-16",
+"quote": null,
+"what_it_shows": "Would tighten rules on shipping sensitive technology out of the country; a minor bill with two cosponsors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7058 Foreign Adversary AI Risk Assessment and Diplomacy Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7058",
+"date": "2026-01-14",
+"quote": null,
+"what_it_shows": "Has the State Department assess dangers from AI built by rivals like China and coordinate with allies."
+}
+]
+}
+},
+"signature": "House lead on the TAKE IT DOWN Act (now law) and the NO FAKES Act; a deepfake and digital-likeness hawk who also backs curbs on AI chip sales to China.",
+"notable_quote": {
+"text": "AI is moving fast, and that is exciting. But no one should have to worry that their face or voice can be copied, manipulated, or used to deceive others.",
+"url": "https://salazar.house.gov/media/press-releases/rep-salazars-no-fakes-act-advances-out-senate-judiciary-committee-unanimous",
+"date": "2026-06-22"
+},
+"groups": [
+"Chairwoman, House Foreign Affairs Subcommittee on the Western Hemisphere (Foreign Affairs is the committee that advanced the AI OVERWATCH and Chip Security Acts)"
+],
+"search_notes": "Google News searches: 'Salazar' with NO FAKES; 'Maria Elvira Salazar' artificial intelligence; TAKE IT DOWN conviction; preemption/state AI laws/moratorium/chatbot; Palantir Miami; TikTok/Section 230/Big Tech; Nvidia/export controls/AI chips China; data center(s)/electricity; AI Overwatch/Chip Security Act/H200. Site listing of salazar.house.gov returned 10 archived URLs (NO AI FRAUD, TAKE IT DOWN, deepfake releases). Opened: her May 21, 2026 and June 22, 2026 NO FAKES releases, May 19, 2026 FTC letter release, Feb 2, 2024 No AI FRAUD release, Dec 5, 2024 TAKE IT DOWN release, The Hill on Grammys on the Hill, GovTrack cosponsor list for H.R. 6875, GovTrack roll calls h356, h86, h228, her committees page (no AI caucus listed). Could not open: Florida Politics Feb 17, 2026 story on her cheering Palantir's move to Miami (URL would not decode and the site blocks fetches); her Apr 8, 2026 release on the first DOJ conviction under TAKE IT DOWN (guessed URL returned 404). Not found: any statement on data centers, preemption, or Nvidia chip sales; her chip position rests on cosponsorships. NO FAKES has backing from RIAA, YouTube and other industry groups. Context: won the Aug 18, 2026 primary and faces Democrat Eliott Rodriguez in November. No AI PAC activity found."
+}
+]

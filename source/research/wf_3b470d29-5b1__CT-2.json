@@ -1,0 +1,341 @@
+[
+{
+"bioguide": "D000216",
+"name": "Rosa L. DeLauro",
+"signature": "Top Democrat on House Appropriations; treats AI mainly as a threat to workers' jobs and wages, with little other public AI activity found.",
+"groups": [
+"Ranking Member, House Committee on Appropriations"
+],
+"notable_quote": {
+"text": "I don't know that there's enough of real knowledge",
+"url": "https://www.newhavenindependent.org/2026/06/02/a-i-is-the-new-nafta/",
+"date": "2026-06-02"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement or bill on data centers found as of Sept 2026. She voted against the SPEED Act permitting bill in Dec 2025, but that fight was about environmental review in general, not data centers, and an April 2026 plea from conservation groups to strip AI data center provisions from spending bills was addressed to her committee rather than made by her.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act (permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She opposed a Republican bill to speed federal permitting that backers tied to faster energy and data center buildout, but the vote was a general environmental-review fight and is only a weak signal on data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Her AI concern is about workers. She co-sponsors a bill to ban companies from using AI and personal data to set individual prices or wages, and at a June 2026 labor roundtable she hosted she said the House lacks real knowledge of what AI will cost working people. No statements found on frontier AI safety, licensing or a pause.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640 Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-12-04",
+"quote": null,
+"what_it_shows": "Backs a binding ban on companies using AI and people's personal data to charge different prices or pay different wages, a targeted guardrail on how AI is used on workers and consumers."
+},
+{
+"type": "statement",
+"title": "Remarks at New Haven trade and labor roundtable reported by New Haven Independent: 'A.I. Is The New NAFTA'",
+"url": "https://www.newhavenindependent.org/2026/06/02/a-i-is-the-new-nafta/",
+"date": "2026-06-02",
+"quote": "I don't know that there's enough of real knowledge",
+"what_it_shows": "At an event she hosted where labor leaders called for worker protections against AI displacement, she said legislators may not be prepared to regulate AI and that the House lacks real knowledge of AI's costs to working people."
+},
+{
+"type": "other",
+"title": "Yankee Institute account of the DeLauro roundtable: 'CT AFL-CIO President Warns AI Could be the Nail in the Coffin for Democrats'",
+"url": "https://www.yankeeinstitute.org/2026/06/03/ct-afl-cio-president-warns-ai-could-be-the-nail-in-the-coffin-for-democrats/",
+"date": "2026-06-03",
+"quote": "At a June 1 trade roundtable hosted by U.S. Rep. Rosa DeLauro in New Haven, Connecticut labor leaders warned that AI threatens workers and demands new government “guardrails.”",
+"what_it_shows": "A conservative think tank's account confirms she convened a discussion where unions demanded AI guardrails for workers; the guardrail demand came from labor leaders, not from her directly."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Her only tech-rules item found is co-sponsoring a ban on companies using personal data and AI to charge people different prices. No statements found on Section 230, kids online safety, or Big Tech antitrust as of Sept 2026.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640 Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-12-04",
+"quote": null,
+"what_it_shows": "Supports a specific new rule on how companies may use personal data, a targeted consumer-protection measure rather than a broad Big Tech crackdown."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws, the Dec 2025 executive order, or the March 2026 White House framework as of Sept 2026. She is not a GUARDRAILS Act cosponsor, and her name did not appear in the public releases for the Nov 2025 Matsui letter or the Dec 2025 Clarke letter.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on AI chip export controls or Nvidia sales to China as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "WebSearch unavailable; used the Google News helper, site listings and page fetches. Ran about 14 queries: DeLauro + artificial intelligence, AI, data center(s), electricity/Eversource/ratepayers, chatbot/deepfake/Big Tech/Section 230, AI moratorium/state AI laws/preemption, Nvidia/chips/export controls, AI workers/wage fixing/price gouging, AI + appropriations/NIH/Genesis Mission, Kids Online Safety/Meta/TikTok, antitrust/Big Tech, Medicare AI prior authorization, AI + Department of Labor/automation. Listed delauro.house.gov archived press releases (only old energy items) and fetched the live press release index (no AI items through Sept 2026). Opened: New Haven Independent roundtable story (source of her only AI quote), Yankee Institute account of the same event, govtrack roll call 356 (SPEED Act, she voted Nay), New Democrat Coalition FY27 data center letter (addressed to her as Appropriations ranking member, not her position), Matsui and Clarke anti-moratorium letter releases (neither page lists signers; her name not present), govtrack GUARDRAILS Act cosponsor page (not listed). Unverified leads not used: a paywalled Capitol Forum item (Aug 20 2026) saying she backs federal funding of state antitrust enforcement; an April 2026 conservation-group letter urging appropriators to reject AI data center funding provisions (addressed to the committee). congress.gov returned 403; bill URLs come from the verified record. Committee leadership confirmed at the New Haven Independent story and the New Dem letter salutation."
+},
+{
+"bioguide": "H001047",
+"name": "James A. Himes",
+"signature": "House Intelligence ranking member who wants spy agencies to adopt AI fast and opposes shipping advanced chips to the Gulf without security guarantees.",
+"groups": [
+"Ranking Member, House Permanent Select Committee on Intelligence"
+],
+"notable_quote": {
+"text": "AI chips must only be exported to trusted companies, in reasonable numbers, and in concert with credible security standards and assurances.",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"date": "2025-05-16"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No statement or bill on data centers found as of Sept 2026. He voted against the SPEED Act permitting bill in Dec 2025, but that was a general environmental-review fight, not a data center position.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act (permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed a Republican permitting bill that backers tied to faster energy and data center buildout; a weak signal only, since the vote was not about data centers."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on rules for AI companies such as safety testing, licensing or liability. His public AI work is about national security: he negotiated a 2025 intelligence bill that pushes spy agencies to adopt AI, co-released a Sept 2026 committee report that names the rise of AI as a new threat while urging agencies to use AI tools, and co-sponsored a study of how criminals use AI in financial crime.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Himes Votes to Pass Intelligence and Defense Priorities (FY2026 Intelligence Authorization Act)",
+"url": "https://himes.house.gov/2025/12/himes-votes-to-pass-intelligence-and-defense-priorities",
+"date": "2025-12-11",
+"quote": "The resulting bill will help the US intelligence community remain competitive with our adversaries by encouraging the development and implementation of artificial intelligence, biotechnology, and other emerging technologies.",
+"what_it_shows": "He frames AI as a capability the intelligence community must adopt to keep up with adversaries, not as something to restrain; says nothing about rules for AI developers."
+},
+{
+"type": "other",
+"title": "Gottheimer release: House Intelligence 9/11 Review Task Force report co-released with Ranking Member Himes",
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-co-chair-of-the-bipartisan-intelligence-committee-9-11-review-task-force-releases-report-marking-25th-anniversary-of-september-11th-attacks",
+"date": "2026-09",
+"quote": "adopting new tools like artificial intelligence and open-source intelligence to keep pace with modern threats",
+"what_it_shows": "The bipartisan report he helped release lists the rise of AI among new threats but its recommendations are about agencies using AI, again a national-security lens rather than a regulatory one."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2152 AI PLAN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2152",
+"date": "2025-03-14",
+"quote": null,
+"what_it_shows": "Supports a government report on how criminals use AI for financial crimes; a study bill with no regulatory direction."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on Big Tech rules, Section 230, or kids online safety as of Sept 2026. His big 2026 tech fight was over renewing FISA Section 702 surveillance powers, which is about government spying rather than rules for tech companies.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws, the Dec 2025 executive order, or the March 2026 White House framework. He is not a GUARDRAILS Act cosponsor, and his name did not appear in the public releases for the Nov 2025 Matsui letter or the Dec 2025 Clarke letter.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "He joined a May 2025 statement with Senate and House Democrats attacking Trump's deals to send large volumes of advanced AI chips to the UAE and Saudi Arabia without security assurances, praising restrictions on Nvidia chip sales to China, and saying chips should go only to trusted companies in limited numbers. He has not cosponsored the main export-control bills.",
+"evidence": [
+{
+"type": "statement",
+"title": "Joint statement: Coons, Shaheen, Reed, Warner, Kelly, Himes, Krishnamoorthi on Trump's Middle East AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"date": "2025-05-16",
+"quote": "President Trump announced deals to export very large volumes of advanced AI chips to the UAE and Saudi Arabia without credible security assurances to prevent U.S. adversaries from accessing those chips.",
+"what_it_shows": "He opposes large chip exports to Gulf states without safeguards, warning they could leak compute to China and offshore the US AI buildout."
+},
+{
+"type": "statement",
+"title": "Joint statement on Trump's Middle East AI chip deals: praise for Nvidia chip restrictions on China",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"date": "2025-05-16",
+"quote": "We applaud the administration's efforts to limit exports of advanced AI chips to China, including recent actions to further restrict exports of Nvidia chips.",
+"what_it_shows": "He explicitly supports tightening limits on Nvidia chip exports to China and wants the US to double down on that leverage."
+}
+]
+}
+},
+"search_notes": "About 16 Google News queries: Himes + artificial intelligence, AI chips/export controls/Nvidia, UAE/Saudi chips, chatbot/deepfake/Big Tech/Section 230/data center, Anthropic/OpenAI/frontier AI, Hegseth Anthropic liability, AI letter/bill/hearing 2026, AI Caucus, AI task force, Financial Services AI/SEC trading agents, Face the Nation AI, early access AI models, 9/11 task force AI. Listed himes.house.gov archived URLs and fetched his live press-release index (no AI items). Opened: the May 2025 joint statement on Gulf chip deals (House Intel Democrats site), his Dec 2025 Intelligence Authorization Act release, CyberScoop on the FY2027 intel bill (his amendments were on election security; the AI provisions were committee-wide), the CBS Face the Nation June 7 2026 transcript (his segment was on the Pulte DNI appointment and FISA, no AI remarks), the House Intel Democrats press list (no AI-specific releases in 2026), the Gottheimer 9/11 report release, govtrack roll call 356 (Nay on SPEED Act), the GUARDRAILS Act cosponsor page (not listed), and the Matsui and Clarke letter releases (no signer lists). Could not open (Google News redirect would not decode and direct URL unknown): Nextgov May 12 2026 'It would be insane for spy agencies to not have AI model early access, lawmaker says' (surfaced in a Himes search but the lawmaker is not confirmed as Himes); Politico May 12 2026 'Himes: Hegseth feud with Anthropic could pose massive liability for national security'; CoinMarketCap Aug 27 2026 'Democrats Press SEC Over AI Trading Agent Oversight' (Himes signing unconfirmed). These headlines suggest he defends Pentagon and spy-agency access to frontier models but were not used as evidence. The landscape file lists him as a Congressional AI Caucus member; his site's caucus page returned 404 and no other source confirmed it, so it is omitted from groups. congress.gov returned 403; bill URL comes from the verified record."
+},
+{
+"bioguide": "H001081",
+"name": "Jahana Hayes",
+"signature": "Co-sponsors bills to shield families from data center power costs and to police AI bias; signed the New Democrats' call for a national data center plan.",
+"groups": [
+"New Democrat Coalition"
+],
+"notable_quote": {
+"text": "Rapidly increasing demand for data centers, driven by cloud computing and AI, is vital for America's economy and competitiveness. However, this expansion strains electricity grids, land, water, and community infrastructure",
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"date": "2026-03-19"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Hayes co-sponsors a bill to keep families' electric bills from rising to pay for the power lines and plants AI data centers need, and signed a New Democrat letter calling data centers vital but asking the Energy Department for a national plan to manage their strain on grids, water and consumer costs. Ratepayers first, but not opposed to building.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6529 Protecting Families from AI Data Center Energy Costs Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2026-01-08",
+"quote": null,
+"what_it_shows": "Backs a bill to stop household electric bills from rising to cover grid upgrades and generation built for giant AI data centers."
+},
+{
+"type": "letter",
+"title": "New Democrat Coalition letter to House appropriators requesting a DOE National Strategic Data Center Plan (signed by Hayes)",
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"date": "2026-03-19",
+"quote": "Rapidly increasing demand for data centers, driven by cloud computing and AI, is vital for America's economy and competitiveness. However, this expansion strains electricity grids, land, water, and community infrastructure",
+"what_it_shows": "A balanced stance: she calls data center growth vital but wants a federal plan on electricity demand, consumer costs, grid reliability, water use and geographic spread before growth runs ahead of communities."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act (permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She opposed a Republican permitting bill that backers tied to faster energy and data center buildout; a weak signal since the vote was about environmental review generally."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "She backs targeted rules: requiring companies to test automated systems for bias, banning AI discrimination, labeling AI-made media, and banning AI deepfakes that trick voters. No statements found on frontier AI dangers, licensing or a pause.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5511 Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2026-06-25",
+"quote": null,
+"what_it_shows": "Supports making companies test automated decision systems for bias and harm and report results to the FTC, a binding transparency and testing rule."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6356 Artificial Intelligence Civil Rights Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2026-01-08",
+"quote": null,
+"what_it_shows": "Supports banning discriminatory AI and requiring pre- and post-deployment checks for unfair treatment."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7110 Eliminating Bias in Algorithmic Systems Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7110",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "Supports civil rights offices inside agencies to catch biased algorithms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 8858 Securing Elections From AI Deception Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "Backed a ban on AI deepfakes used to deceive voters in federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 7766 Protecting Consumers from Deceptive AI Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7766",
+"date": "2024-09-25",
+"quote": null,
+"what_it_shows": "Backed required labels and hidden markers on AI-generated images, video and audio."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "In the last Congress she co-sponsored the Kids Online Safety Act, an update to the children's online privacy law, a kids' data privacy bill, and a reproductive-data privacy bill, plus a ban on landlords using shared algorithms to fix rents. No 119th Congress kids-online or Section 230 bills found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 7891 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-05-22",
+"quote": null,
+"what_it_shows": "Backed the House KOSA requiring platforms to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 7890 Children and Teens' Online Privacy Protection Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7890",
+"date": "2024-05-28",
+"quote": null,
+"what_it_shows": "Backed requiring consent before collecting kids' and teens' data and banning targeted ads to them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 2801 Kids PRIVACY Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2801",
+"date": "2023-07-27",
+"quote": null,
+"what_it_shows": "Backed limits on how apps and websites collect and use data from kids and teens."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 3420 My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Backed a targeted privacy law restricting collection and sharing of reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 8622 Preventing the Algorithmic Facilitation of Rental Housing Cartels Act of 2024",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8622",
+"date": "2024-09-25",
+"quote": null,
+"what_it_shows": "Backed making it illegal for landlords to coordinate rents through shared pricing software."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws, the Dec 2025 executive order, or the March 2026 White House framework. She is not a GUARDRAILS Act cosponsor, and her name did not appear in the public releases for the Nov 2025 Matsui letter or the Dec 2025 Clarke letter.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on AI chip export controls or Nvidia sales to China as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "About 14 Google News queries: Hayes + artificial intelligence, data center(s), AI hearing/workforce/education/students, Kids Online Safety/chatbot/deepfake/Big Tech, preemption/moratorium/state AI laws/executive order, electricity/Eversource/ratepayers/energy bills, AI schools/AI literacy/teachers, Algorithmic Accountability/AI Civil Rights, New Democrat/Energy Bills Relief/utility bills, Education and Workforce AI hearing, Trump AI statement/letter, Congressional Black Caucus AI/facial recognition, Ranking Member role. Listed hayes.house.gov archived URLs and fetched her live press-release index (pages 1 to 3: no AI or data center releases through Aug 2026) and her committees-and-caucuses page (no AI caucus; Ranking Member of the Agriculture Subcommittee on Nutrition and Foreign Agriculture, not AI-relevant). Opened: the New Democrat Coalition FY27 data center letter PDF (she is a signer), govtrack roll call 356 (Nay on SPEED Act), govtrack H.R. 7977 Energy Bills Relief Act cosponsor page (she joined Apr 20 2026, but govtrack has no summary and the bill's link to data centers could not be verified, so it was not used), the GUARDRAILS Act cosponsor page (not listed), and the Matsui and Clarke letter releases (no signer lists). A Legis1 item on a Jan 29 2026 Education and Workforce hearing on workplace AI adoption surfaced but its URL could not be resolved, so whether she spoke is unknown. congress.gov returned 403; bill URLs come from the verified record. New Democrat Coalition membership confirmed by the letter's text ('as Members of the New Democrat Coalition')."
+}
+]

@@ -1,0 +1,634 @@
+[
+{
+"bioguide": "W000806",
+"name": "Daniel Webster",
+"groups": [],
+"signature": "No notable public AI activity found; retiring Science Committee member with no located statements on AI, data centers, or chips.",
+"notable_quote": null,
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. The only related action located is his Yea vote on the SPEED Act, a general permitting reform bill that does not mention data centers, so it is listed as context rather than a position.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: Yea on H.R. 4776, the SPEED Act (NEPA permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted with most House Republicans for a permitting reform bill that backers say speeds energy and infrastructure projects, but it is not a data center position and he made no statement on it."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searches of his press releases, Google News, Science Committee coverage, and his website turned up no statements on AI safety, chatbots, deepfakes, or AI regulation as of Sept 2026.",
+"evidence": []
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. His website hosts constituent surveys asking whether Big Tech should face more regulation and whether platform censorship is necessary, but the pages state no position of his own. No press releases or news coverage on Section 230, privacy, or kids online safety were located.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on the AI moratorium, state AI laws, or federal preemption as of Sept 2026. He did not sign the Matsui or Clarke letters (checked) and no statement on the Dec 2025 executive order or Mar 2026 framework was located.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China. He is not a cosponsor of the Chip Security Act or AI OVERWATCH Act and no statements were located.",
+"evidence": []
+}
+},
+"search_notes": "Retiring; announced Apr 28, 2026 he will not seek reelection. Nine Google News queries run: 'Daniel Webster congressman artificial intelligence'; 'Rep. Daniel Webster AI'; Big Tech/Section 230/censorship/TikTok; data center/electricity/ratepayers; chatbot/deepfake/Take It Down/Kids Online Safety; Rep Webster AI/Nvidia/export controls/TikTok; FL-11 AI Science Committee hearing; social media/online safety/privacy; Huawei/TikTok/Chinese tech vote. Also opened his press release index (2025 to Jul 2026: NDAA, appropriations, Florida Safe Seas Act, no tech items), his govtrack member page, and Wayback listing of webster.house.gov (only constituent surveys on Big Tech, tech censorship, Chinese tech tariffs). Verified his Yea on SPEED Act roll 356 on govtrack. Florida Politics delegation columns (12.9.25 online safety, 7.31.26 AI scam) returned 403 and could not be read. Record lists 1 relevant minor bill in 118th/119th with no title given; nothing notable."
+},
+{
+"bioguide": "B001257",
+"name": "Gus M. Bilirakis",
+"groups": [
+"House Energy and Commerce Committee: Chairman, Subcommittee on Commerce, Manufacturing, and Trade (119th Congress)",
+"House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party (member, 119th Congress)"
+],
+"signature": "House sponsor of the Kids Online Safety Act and chair of the E&C consumer subcommittee; light touch on AI rules broadly, tough on kids online safety, hawkish on AI chips to China.",
+"notable_quote": {
+"text": "Heavy-handed regulations may ensure that the next great American company never makes it. If we fail in this task, we risk ceding American leadership in AI to China, which is close on our heels.",
+"url": "https://www.meritalk.com/articles/ai-regulation-debate-heats-up-as-house-oks-state-preemption-bill/",
+"date": "2025-05-22"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Leans build with ratepayer conditions. He sits on the committee that approved the bipartisan Ratepayer Protection Act 52-0 in July 2026, and a first-pass researcher found a Facebook post where he said he supported it, which could not be opened here. His own hearing statements treat AI data centers as a critical growth use case to protect. He voted for the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "statement",
+"title": "E&E News: Energy and Commerce approves Ratepayer Protection Act 52-0 (Bilirakis is a committee member)",
+"url": "https://www.eenews.net/articles/data-center-lobby-grumbles-about-reworked-ratepayer-protection-act-2/",
+"date": "2026-07-22",
+"quote": null,
+"what_it_shows": "The committee he sits on unanimously approved a bill requiring data centers to pay the full cost of new generation and grid upgrades; the article does not name him and his reported Facebook post backing it could not be verified."
+},
+{
+"type": "hearing",
+"title": "Opening statement at CMT hearing on the semiconductor ecosystem and supply chain",
+"url": "https://energycommerce.house.gov/posts/chairman-bilirakis-delivers-opening-statement-at-subcommittee-on-commerce-manufacturing-and-trade-hearing-on-the-semiconductor-ecosystem-and-supply-chain",
+"date": "2026-04-15",
+"quote": "AI applications, such as use in data centers, are among the most critical use cases of semiconductors in today’s society.",
+"what_it_shows": "He frames AI data centers as a key economic driver the U.S. must lead in, not as a problem to slow down."
+},
+{
+"type": "vote",
+"title": "Roll call 356: Yea on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for a permitting reform bill that supporters say speeds energy and infrastructure buildout."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Chairing a May 2025 hearing, he said AI is already covered by existing consumer laws and warned that heavy-handed rules could kill the next great American company and cede leadership to China. At the same time he sponsors targeted bills on AI-made child sexual images and deceptive AI web crawlers.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement as chair, CMT hearing 'AI Regulation and the Future of US Leadership' (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"date": "2025-05-21",
+"quote": "Because of the great potential of these technologies, Congress must be careful when we impose additional obligations on AI developers and deployers.",
+"what_it_shows": "He argues for caution before adding new AI mandates and says existing laws already regulate AI."
+},
+{
+"type": "statement",
+"title": "MeriTalk: Bilirakis remarks as House passes reconciliation bill with 10-year state AI moratorium",
+"url": "https://www.meritalk.com/articles/ai-regulation-debate-heats-up-as-house-oks-state-preemption-bill/",
+"date": "2025-05-22",
+"quote": "Heavy-handed regulations may ensure that the next great American company never makes it. If we fail in this task, we risk ceding American leadership in AI to China, which is close on our heels.",
+"what_it_shows": "He puts innovation and beating China first and is skeptical of strong AI rules."
+},
+{
+"type": "sponsor",
+"title": "H.R. 1283, Protecting Our Children in an AI World Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1283",
+"date": "2025-02-13",
+"quote": null,
+"what_it_shows": "He wrote a bill making it a crime to use AI to create fake sexual images of children, a targeted guardrail."
+},
+{
+"type": "statement",
+"title": "Press release: Reps. Foushee, Lee, Bilirakis introduce Stealth Bot Prohibition Act on deceptive AI web crawlers",
+"url": "https://foushee.house.gov/media/press-releases/reps-foushee-lee-bilirakis-introduce-bipartisan-stealth-bot-prohibition-act-to-increase-transparency-and-combat-deceptive-ai-web-crawlers",
+"date": "2026-07-23",
+"quote": "It is simply wrong for AI bots to scrape that content, repurpose it, and profit from it without permission or compensation",
+"what_it_shows": "He backs transparency rules for AI crawlers to protect news publishers and creators, describing them as commonsense guardrails that encourage innovation."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Supports targeted rules, especially for kids. He is the House sponsor of the Kids Online Safety Act, cosponsors the App Store Accountability Act and RESET Act, and says Big Tech has failed to protect children. He removed the duty of care from his KOSA version citing First Amendment court losses, and Democrats call his versions weaker.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 6484, Kids Online Safety Act (House version)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6484",
+"date": "2025-12-05",
+"quote": null,
+"what_it_shows": "He leads the House kids online safety bill requiring platforms to build in safeguards and parental tools."
+},
+{
+"type": "statement",
+"title": "Press release: Bilirakis announces Kids Online Safety Act",
+"url": "https://bilirakis.house.gov/media/press-releases/bilirakis-announces-kids-online-safety-act-protect-children-and-teens-online",
+"date": "2025-12-05",
+"quote": "there is widespread, bipartisan consensus that Big Tech is failing to mitigate risks, empower parents, and safeguard its youngest users. Our legislation will require them to do so.",
+"what_it_shows": "He frames Big Tech as failing kids and says Congress must mandate protections."
+},
+{
+"type": "hearing",
+"title": "Roll Call: House panel advances kids online safety bills; Bilirakis defends dropping duty of care",
+"url": "https://rollcall.com/2025/12/11/house-panel-advances-kids-online-safety-bills/",
+"date": "2025-12-11",
+"quote": "Laws with good intentions have been struck down for violating the First Amendment",
+"what_it_shows": "He narrowed his KOSA to survive court challenges, which Democrats say weakens it."
+},
+{
+"type": "statement",
+"title": "E&C leaders celebrate House passage of the KIDS Act (H.R. 7757), 267-117",
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/ec-leaders-celebrate-house-passage-kids-act",
+"date": "2026-06-29",
+"quote": "One troubling post should not turn into a constant stream of depression, suicide, or eating disorder content.",
+"what_it_shows": "His kids online safety package, including KOSA, passed the House with his statement backing parental controls and limits on compulsive use."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 3149, App Store Accountability Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3149",
+"date": "2025-05-01",
+"quote": null,
+"what_it_shows": "He backs age checks and parental consent at the app store level."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6488, RESET Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6488",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He supports rules to keep teens from being exploited or hooked on social media."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Leans toward one national standard. He chaired the May 2025 hearing defending the House bill that carried the 10-year state AI moratorium and warned against EU-style rules, and in June 2026 he pushed a national privacy law to replace what he called a confusing patchwork of state mandates. His KOSA and COPPA bills also preempt some state laws. He did not clearly endorse the AI moratorium in his own words in the sources found.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement at CMT legislative hearing on the SECURE Data Act, a federal privacy law preempting state laws",
+"url": "https://energycommerce.house.gov/posts/chairman-bilirakis-delivers-opening-statement-at-subcommittee-on-commerce-manufacturing-and-trade-legislative-hearing-on-establishing-a-federal-comprehensive-privacy-and-data-security-law",
+"date": "2026-06-03",
+"quote": "But today, when Americans ask if their personal data is protected, the answer depends entirely on which state they’re in.",
+"what_it_shows": "He argues for a uniform national standard on data privacy instead of a patchwork of state laws."
+},
+{
+"type": "hearing",
+"title": "Chaired hearing 'AI Regulation and the Future of US Leadership' held a week after E&C approved the 10-year state AI moratorium (transcript)",
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"date": "2025-05-21",
+"quote": null,
+"what_it_shows": "As chair he framed the hearing around avoiding EU-style AI rules and protecting U.S. leadership while Democrats attacked the moratorium; witnesses he called backed a national framework over state laws."
+},
+{
+"type": "hearing",
+"title": "Roll Call: Democrats object to state preemption in Bilirakis-led House KOSA and COPPA 2.0 markup",
+"url": "https://rollcall.com/2025/12/11/house-panel-advances-kids-online-safety-bills/",
+"date": "2025-12-11",
+"quote": null,
+"what_it_shows": "The kids bills he sponsored and advanced include preemption of related state laws, which Democrats opposed."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Wants tighter controls on AI chips to China. He cosponsors both the Chip Security Act (location tracking on exported chips) and the AI OVERWATCH Act (congressional veto over chip sales to China), sits on the China Select Committee, and says China's push on semiconductors threatens U.S. AI leadership.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 3447, Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-09-30",
+"quote": null,
+"what_it_shows": "He backs requiring location verification on advanced AI chips so they cannot be smuggled to China."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6875, AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-07-16",
+"quote": null,
+"what_it_shows": "He backs giving Congress power to block advanced AI chip sales to China and other risky countries."
+},
+{
+"type": "hearing",
+"title": "Opening statement at CMT hearing on the semiconductor ecosystem and supply chain",
+"url": "https://energycommerce.house.gov/posts/chairman-bilirakis-delivers-opening-statement-at-subcommittee-on-commerce-manufacturing-and-trade-hearing-on-the-semiconductor-ecosystem-and-supply-chain",
+"date": "2026-04-15",
+"quote": "ceding global leadership or leaving our semiconductor supply chains vulnerable to disruption at the hands of China could be catastrophic for U.S. leadership in AI.",
+"what_it_shows": "He treats China as the central threat in chips and AI and calls for action to keep U.S. leadership."
+}
+]
+}
+},
+"search_notes": "Queries: 'Bilirakis artificial intelligence'; 'Bilirakis data center'; preemption/moratorium/state AI laws/patchwork; chatbot/deepfake; 'Ratepayer Protection Act'/data centers electric; Nvidia/export controls/Chip Security Act; opening statement AI/privacy/semiconductor; 'Gus Bilirakis Ratepayer Protection'; electric bills. Opened: bilirakis.house.gov KOSA release and 2021 Big Tech blog, Wayback listing of his site, his press index pages 1-3 (no KIDS Act or data center release on his own site), Foushee Stealth Bot release, Tech Policy Press transcript of the May 21 2025 hearing he chaired, MeriTalk, E&C statements on SECURE Data Act and semiconductor hearing, Roll Call Dec 11 2025, E&C Dems KIDS Act passage release, Broadband Breakfast Apr 16 2026, E&E Jul 22 2026, The Hill Jul 23 2026, govtrack h356. Unverified lead: Facebook post (facebook.com/RepGusBilirakis) saying he 'proudly supported the Ratepayer Protection Act' at the July 2026 markup; Facebook and Floridian Press returned errors so the quote is not used. Florida Politics pieces (KIDS Act, deepfake porn coalition) returned 403. Note: Foushee release lists him as FL-09 in error; he represents FL-12."
+},
+{
+"bioguide": "L000596",
+"name": "Anna Paulina Luna",
+"groups": [],
+"signature": "Populist Republican who sponsors the House Kids Off Social Media Act and, after the Sept 2026 Anthropic researcher warnings, called for a special session of Congress on AI.",
+"notable_quote": {
+"text": "We MUST be ready. This is happening whether or not we want it to.",
+"url": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
+"date": "2026-09-09"
+},
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Balanced and noncommittal. Asked on Aug 31, 2026 about Trump calling data center critics backwards and poor, she would not endorse the remark, attacked her opponent's data center investments, and said each state's people should decide. She voted for the SPEED Act permitting bill. No bills or detailed statements on data center costs found.",
+"evidence": [
+{
+"type": "interview",
+"title": "Where Is The Buzz: Luna on Trump calling data center critics 'backwards and poor'",
+"url": "https://whereisthebuzz.com/rep-anna-paulina-luna-on-trump-calling-data-center-critics-backwards-and-poor-leave-it-for-the-people-to-decide/",
+"date": "2026-09-01",
+"quote": "My opponent heavily invested in data centers, and I think really the issue right now is what are the people of each state going to decide on what’s best for them?",
+"what_it_shows": "She declines to back or oppose data centers and says the decision belongs to states and local people, adding 'Leave it for the people to decide.'"
+},
+{
+"type": "vote",
+"title": "Roll call 356: Yea on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted for a permitting reform bill that backers say speeds energy and infrastructure buildout."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Open to rules but not specific. After Anthropic researchers warned in Sept 2026 that AI could end humanity, she called for a special session of Congress on AI and said protecting all Americans comes first. She cosponsors the DEFIANCE Act on sexual deepfakes and a bill to codify Trump's anti-woke AI procurement order. No detailed AI safety proposal of her own was found.",
+"evidence": [
+{
+"type": "social_post",
+"title": "The Hill: Lawmakers sound alarm on AI dangers after Anthropic researchers' warning (Luna calls for special session)",
+"url": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
+"date": "2026-09-09",
+"quote": "We MUST be ready. This is happening whether or not we want it to.",
+"what_it_shows": "She treated the extinction warnings as serious, asked Congress to convene a special session on AI, and said the first priority is protecting all Americans while noting AI's potential in health care and food."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 3562, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-20",
+"quote": null,
+"what_it_shows": "She backs letting victims sue over AI-made sexual deepfakes, a targeted guardrail."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 4873, bill to codify Executive Order 14319 on preventing 'woke AI' in the federal government",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4873",
+"date": "2026-04-28",
+"quote": null,
+"what_it_shows": "She wants the government to buy only AI it considers politically neutral, a culture-war rule rather than a safety rule."
+},
+{
+"type": "other",
+"title": "Gizmodo: Luna denies using AI to write bill after 'Claude responded' appears in NDAA summary",
+"url": "https://gizmodo.com/maga-congresswoman-denies-using-ai-to-write-bill-love-claude-but-grok-is-way-more-savage-2000777136",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "Context only: she defended her staff after an AI assistant's text appeared in a bill summary, showing comfort with AI tools rather than a policy stance."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Backs targeted rules on Big Tech, mainly for kids and foreign influence. She is House lead of the Kids Off Social Media Act (bans under-13 accounts, limits algorithms for teens), cosponsors the DEFIANCE Act, supported a TikTok ban in 2023, and introduced a bill making paid foreign-government influencers register. She also cosponsored a bill barring officials from pressuring platforms to remove posts.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 7399, Kids Off Social Media Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7399",
+"date": "2026-02-05",
+"quote": null,
+"what_it_shows": "She leads the House companion to the Cruz-Schatz bill banning social media accounts for kids under 13 and algorithmic targeting of teens."
+},
+{
+"type": "statement",
+"title": "Press release: Congress introduces landmark bipartisan bill to protect children online (Kids Off Social Media Act)",
+"url": "https://luna.house.gov/posts/congress-introduces-landmark-bipartisan-bill-to-protect-children-online",
+"date": "2026-02-10",
+"quote": "The Kids Off Social Media Act is about putting children’s safety first and holding Big Tech accountable.",
+"what_it_shows": "In her own words she frames the bill as holding Big Tech accountable and answering parents' alarm about social media harms."
+},
+{
+"type": "sponsor",
+"title": "H.R. 7433, Kids Off Social Media Act (second version)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7433",
+"date": "2026-02-09",
+"quote": null,
+"what_it_shows": "She reintroduced the bill with a cosponsor days later."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 140, Protecting Speech from Government Interference Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/140",
+"date": "2023-02-27",
+"quote": null,
+"what_it_shows": "Her Big Tech concerns also run to censorship; this bill bars federal workers from pressuring platforms to take down posts."
+},
+{
+"type": "interview",
+"title": "Fox News, Your World with Neil Cavuto: 'We Must Come Together and Ban TikTok' (posted on luna.house.gov)",
+"url": "https://luna.house.gov/posts/rep-luna-goes-off-on-tiktok-during-neil-cavuto-interview",
+"date": "2023-03-23",
+"quote": null,
+"what_it_shows": "She called for banning TikTok, a China-focused platform restriction."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on the state AI law moratorium, federal preemption, the Dec 2025 executive order, or the Mar 2026 White House framework. She did not sign the Matsui or Clarke letters and no statement was located in news searches.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China. She is not a cosponsor of the Chip Security Act or AI OVERWATCH Act. Her China comments found were about a bot farm targeting the U.S. AI debate, not chips.",
+"evidence": []
+}
+},
+"search_notes": "Queries: 'Anna Paulina Luna artificial intelligence'; Luna data center Florida congresswoman; 'Luna data center OR data centers'; 'Leave It For The People To Decide'; chatbot/deepfake/Kids Off Social Media; Nvidia/export controls/chips; preemption/state AI/moratorium/Section 230/Big Tech; 'Kids Off Social Media Act'; special session/Anthropic/superintelligence; kill switch; Meta/Zuckerberg/Section 230/censorship 2026. Opened: The Hill Sept 9 2026, Where Is The Buzz Sept 1 2026 (MeidasTouch hallway video transcript), luna.house.gov Kids Off Social Media release and 2023 TikTok and Big Tech censorship posts, Quiver H.R. 7399 summary, Gizmodo Jun 24 2026, govtrack h356, Wayback listing of luna.house.gov. Reuters Sept 10 2026 and Forbes Jun 24 2026 blocked; Florida Politics 403; luna.house.gov/news and /posts index pages 404. Lead not verified: she voted no on the FY27 NDAA (H.R. 8800) on Jul 22 2026; clerk page not opened and no AI-related reason found, so omitted. No AI caucus membership or AI super PAC support or attacks found."
+},
+{
+"bioguide": "C001066",
+"name": "Kathy Castor",
+"groups": [
+"House Energy and Commerce Committee: Ranking Member, Subcommittee on Energy (119th Congress)",
+"House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party (member, 119th Congress)"
+],
+"signature": "Democratic lead of the bipartisan Ratepayer Protection Act on data center power costs; E&C Energy Subcommittee ranking member and longtime kids online privacy advocate who opposed the state AI law moratorium.",
+"notable_quote": {
+"text": "Ratepayers should not have to subsidize wealthy corporations’ growing energy demands, especially from AI data centers",
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405231",
+"date": "2026-06-19"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Protect ratepayers first. She co-leads the Ratepayer Protection Act making 100 MW-plus data centers pay full grid costs, wrote FERC demanding families be held harmless, and in Sept 2026 told Hillsborough County commissioners she strongly opposes siting data centers there over power and water bills. She says she does not support a national data center moratorium.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 9340, Ratepayer Protection Act (Democratic co-lead with Rep. Gabe Evans)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "She co-leads the bipartisan bill that passed E&C 52-0 requiring large data centers to pay for the power and grid upgrades they need."
+},
+{
+"type": "statement",
+"title": "Press release: Castor introduces bipartisan bill protecting Americans from paying for data center development",
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405231",
+"date": "2026-06-19",
+"quote": "Ratepayers should not have to subsidize wealthy corporations’ growing energy demands, especially from AI data centers",
+"what_it_shows": "In her own words, data centers must cover their own energy costs so families and small businesses do not pay more."
+},
+{
+"type": "letter",
+"title": "Press release: Castor opposes data centers in Hillsborough County (letter to county commissioners)",
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405285",
+"date": "2026-09-10",
+"quote": "I would like to relay my strong opposition to the siting of data centers in Hillsborough County. The potential impacts on the cost of living for our residents and on our community’s essential resources are too significant to ignore.",
+"what_it_shows": "She opposes new data centers in her home county, citing electric bills up 40 percent in five years, water use, and secret NDAs under a new state law."
+},
+{
+"type": "interview",
+"title": "E&E News: Pallone plots data center crackdown; Castor not supportive of a moratorium",
+"url": "https://www.eenews.net/articles/pallone-plots-data-center-crackdown/",
+"date": "2026-07-29",
+"quote": "But I don’t think you can say, ‘We’re going to just stop everything now.’",
+"what_it_shows": "She rejects a national moratorium even while backing strong ratepayer protections, which keeps her at protect-ratepayers rather than pause-or-block."
+},
+{
+"type": "letter",
+"title": "Pallone and Castor letter to FERC on data center large-load rulemaking",
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/ec-democratic-leaders-demand-ferc-protect-families-skyrocketing-energy-bills",
+"date": "2025-12-05",
+"quote": "Data centers and the artificial intelligence tools they power may prove to be incredible economic assets, but they must pay their fair share.",
+"what_it_shows": "She asked FERC to make data centers pay fully for grid upgrades and to hold families harmless."
+},
+{
+"type": "interview",
+"title": "Roll Call: GOP consensus elusive on timing of data centers bill; Castor criticizes leadership",
+"url": "https://rollcall.com/2026/09/04/gop-consensus-elusive-on-timing-scope-of-data-centers-bill/",
+"date": "2026-09-04",
+"quote": "It’s a unanimous bill on something that is the front burner for everybody across the country right now, and they bury it",
+"what_it_shows": "She pressed House GOP leaders to bring the Ratepayer Protection Act to the floor."
+},
+{
+"type": "interview",
+"title": "The Hill: Ratepayer bill gains momentum in House amid data center backlash",
+"url": "https://thehill.com/policy/technology/5983931-house-advances-ratepayer-protection-act/",
+"date": "2026-07-23",
+"quote": "I believe that the majority should be doing more at this time to lower household electric bills",
+"what_it_shows": "She called the bipartisan package a good first step that still falls short on electric bills."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 7066, SHIELD Act (Stopping Hikes In Electricity from Large Load Demands)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7066",
+"date": "2026-01-14",
+"quote": null,
+"what_it_shows": "She co-introduced an earlier bill to stop data center costs from raising family electric bills."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6179, Clean Cloud Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6179",
+"date": "2025-11-20",
+"quote": null,
+"what_it_shows": "She backs pollution limits and fees on the electricity used by big data centers and crypto mines."
+},
+{
+"type": "vote",
+"title": "Roll call 356: Nay on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted against the GOP permitting reform bill."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Supports targeted guardrails. She led a letter telling Meta to stop AI companion bots for minors, cosponsors the Algorithmic Accountability Act (bias and harm testing), the Stop AI Price Gouging and Wage Fixing Act, and a resolution blocking AI-driven Medicare prior authorization. No statements on existential risk or licensing were found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Castor leads colleagues urging Meta to halt companion bots for children",
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404939",
+"date": "2025-05-29",
+"quote": "These inappropriate AI systems pose significant safety risks to children and teenagers who use Meta's platforms.",
+"what_it_shows": "She led six E&C Democrats demanding Meta stop deploying AI companion bots to minors after a Wall Street Journal investigation."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 5511, Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2026-09-01",
+"quote": null,
+"what_it_shows": "She backs requiring companies to test automated decision systems for bias and harm and report to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2026-08-20",
+"quote": null,
+"what_it_shows": "She backs banning AI-driven personalized pricing and wage setting."
+},
+{
+"type": "cosponsor",
+"title": "H.J.Res. 187, disapproving the Medicare WISeR model using AI for prior authorization",
+"url": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/187",
+"date": "2026-06-23",
+"quote": null,
+"what_it_shows": "She wants to block a Medicare experiment letting contractors use AI to approve or deny treatments."
+},
+{
+"type": "hearing",
+"title": "Remarks at CMT hearing 'AI Regulation and the Future of US Leadership' (transcript)",
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"date": "2025-05-21",
+"quote": null,
+"what_it_shows": "She raised chatbot harms to kids and argued Congress had no AI framework in place while Republicans moved to freeze state AI laws."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Wants targeted rules on Big Tech, centered on kids' privacy and safety. She sponsored the Kids PRIVACY Act, co-led KOSA and COPPA 2.0 last Congress, blasted House Republicans' weaker versions as loophole-ridden, and backed the KIDS Act that passed the House in June 2026 while saying the work is not done.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Castor blasts House GOP's loophole-ridden child safety bills",
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405095",
+"date": "2025-12-02",
+"quote": "Unfortunately, House Republicans are offering weak, ineffectual versions of COPPA 2.0 and KOSA that would diminish protections for children online.",
+"what_it_shows": "She wants stronger KOSA and COPPA 2.0 bills and accuses Republicans of siding with Big Tech."
+},
+{
+"type": "statement",
+"title": "Press release: Castor leads long-overdue bipartisan action to protect kids online (KIDS Act passes House 267-117)",
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405234",
+"date": "2026-06-29",
+"quote": "Today’s adoption of the bipartisan KIDS Act is a long-overdue and meaningful step toward protecting America’s children in the digital age",
+"what_it_shows": "She backed the final House kids package that bans targeted ads to minors and extends privacy protections to teens, calling it a step, not the end."
+},
+{
+"type": "sponsor",
+"title": "H.R. 2801, Kids PRIVACY Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2801",
+"date": "2023-04-24",
+"quote": null,
+"what_it_shows": "She wrote a bill limiting how apps and websites collect and use kids' and teens' data."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 2889, Online Consumer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2889",
+"date": "2025-04-10",
+"quote": null,
+"what_it_shows": "She backs requiring platforms to publish clear rules on content, users, and harassment."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 906, Foreign Adversary Communications Transparency Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/906",
+"date": "2025-01-31",
+"quote": null,
+"what_it_shows": "She supports publishing a list of telecom companies tied to China and other adversaries."
+}
+]
+},
+"preemption": {
+"score": -1,
+"confidence": "medium",
+"summary": "Leans against preemption and wants a federal law first with states preserved. At a May 2025 hearing she called the 10-year state AI moratorium putting the cart before the horse with no federal framework in place. In Dec 2025 she objected that the House COPPA 2.0 would preempt state kids' privacy laws, and her KIDS Act release praises a federal floor that lets states go further. She did not sign the Matsui or Clarke letters.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Remarks at CMT hearing 'AI Regulation and the Future of US Leadership' (transcript)",
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"date": "2025-05-21",
+"quote": "The problem is that you're putting the cart before the horse. You've now passed out of this committee a 10-year moratorium on all AI regulation at the state level before you even have that framework.",
+"what_it_shows": "She opposed freezing state AI laws before Congress has written its own rules."
+},
+{
+"type": "hearing",
+"title": "Roll Call: House panel advances kids online safety bills; Castor objects to COPPA 2.0 state preemption",
+"url": "https://rollcall.com/2025/12/11/house-panel-advances-kids-online-safety-bills/",
+"date": "2025-12-11",
+"quote": null,
+"what_it_shows": "She said the House COPPA 2.0 went against prior bipartisan work and state efforts and warned it would preempt children's privacy laws and possibly more."
+},
+{
+"type": "statement",
+"title": "Press release: Castor leads long-overdue bipartisan action to protect kids online",
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405234",
+"date": "2026-06-29",
+"quote": "Establish a federal safety floor for parents and children while allowing states to enact even stronger protections.",
+"what_it_shows": "Her release highlights that the KIDS Act sets a federal floor and preserves states' ability to go further, her preferred model."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China. At an April 2026 hearing she criticized cuts to the CHIPS Act manufacturing program as self-sabotage, which is about domestic chip production rather than export rules. She sits on the China Select Committee but no chip-control statement was located.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Broadband Breakfast: Industry leaders urge Congress to boost chip policy; Castor criticizes CHIPS program layoffs",
+"url": "https://broadbandbreakfast.com/industry-leaders-urge-congress-to-boost-chip-policy-to-win-ai-race-against-china/",
+"date": "2026-04-16",
+"quote": "It just seems like this is self-sabotage at a time when we all really need to be working together",
+"what_it_shows": "Context only: she defended CHIPS Act domestic manufacturing support and criticized the administration's cuts; this is not a position on export controls."
+}
+]
+}
+},
+"search_notes": "Queries: 'Kathy Castor artificial intelligence'; 'Kathy Castor data center'; preemption/moratorium/state AI laws/KOSA; chips/Nvidia/export controls/China AI; 'Ratepayer Protection Act'; Blasts House GOP/Loophole-Ridden/Protect Kids Online; SNAP AI/Medicare prior authorization; companion bots/chatbots/Meta 2026; AI and the Grid opening statement. Opened: castor.house.gov releases 405285 (Hillsborough letter), 405231 (Ratepayer Protection Act intro), 405234 (KIDS Act), 405095 (GOP loophole bills), 404939 (Meta letter), and her press index pages 1, 2, 5, 6; Roll Call Sept 4 2026 and Dec 11 2025; CNBC Jun 24 2026; E&E Jul 29 and Jul 22 2026; The Hill Jul 23 2026; Broadband Breakfast Jul 22 and Apr 16 2026; E&C Dems FERC letter release and KIDS Act passage release and AI and the Grid hearing page; Tech Policy Press transcript; govtrack h356. Extracted the Matsui Nov 26 2025 letter PDF text: Castor is not a signer (Darren Soto is the only Florida name); Clarke Dec 3 2025 letter page also does not list her. WLRN Aug 4 2026 SNAP AI article returned 404 so not used. Florida Politics pieces 403. First-pass lead that she signed the Oct 28 2025 Mullin letters (beyer.house.gov) was not opened and is not used. No AI super PAC support or attacks found."
+}
+]

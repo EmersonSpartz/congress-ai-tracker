@@ -1,0 +1,708 @@
+[
+{
+"bioguide": "P000048",
+"name": "August Pfluger",
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "medium",
+"summary": "Pfluger is a booster of building energy and AI infrastructure fast. He says the AI race means the country must move at the speed of commerce, not the speed of government, and he presses regulators on pipelines and nuclear fuel to serve data center load growth. No statement was found on ratepayer protections or on Gov. Abbott's 2026 pause on new data center grid connections.",
+"evidence": [
+{
+"type": "statement",
+"title": "E&E News: Pfluger reacts to EPA Administrator Zeldin's briefing to House Republicans on data centers and permitting",
+"url": "https://www.eenews.net/articles/zeldin-talks-data-centers-permitting-with-house-gop/",
+"date": "2026-01-14",
+"quote": "When you talk about AI, just as one example, we need to move at the speed of commerce, not at the speed of government",
+"what_it_shows": "As Republican Study Committee chairman he framed AI infrastructure as a deregulation and speed problem, praising the EPA for getting projects approved."
+},
+{
+"type": "hearing",
+"title": "Press release: Rep. Pfluger Urges Action to Beat China in the AI and Nuclear Race (E&C nuclear hearing remarks)",
+"url": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2733",
+"date": "2026-01-12",
+"quote": "there's a race, and that race is not just for AI, although that is extremely important, but the race is for an assortment of energy needs that demand is going to continue to increase at an exponential rate",
+"what_it_shows": "He asked a utility executive how much regulatory certainty is needed to commit nuclear power to data center load at scale, and pushed the government to finish its part of the Abilene reactor project."
+},
+{
+"type": "hearing",
+"title": "E&C Energy Subcommittee FERC oversight hearing: Pfluger questions FERC Chairman Swett",
+"url": "https://energycommerce.house.gov/posts/subcommittee-on-energy-holds-hearing-on-the-oversight-of-ferc",
+"date": "2026-02-03",
+"quote": "How is FERC working with states that block pipelines? And how are you balancing the affordability mission when you have states like New York that actually kill pipeline projects?",
+"what_it_shows": "At a hearing framed around winning the AI race and data center costs, he pressed FERC on states blocking gas pipelines and tied pipeline capacity to lower prices."
+},
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC names Pfluger a first-round 'House GOP Champion'",
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"date": "2026-04-16",
+"quote": "these House members will be critical to advancing a national framework in Congress that sets basic safety standards, protects children and families, and ensures America leads with confidence",
+"what_it_shows": "The AI industry-aligned super PAC endorsed him as a pro-innovation ally; the quote is the PAC's description of its slate, not Pfluger's own words."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Pfluger's AI agenda is innovation-first and national-security focused. As RSC chairman he launched an Emerging Technologies Task Force to harness innovation and outpace competitors, and his AI bill and GAO request target terrorists' use of AI rather than rules on AI developers. He did cosponsor and vote for the TAKE IT DOWN deepfake law, a narrow guardrail.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Chairman Pfluger Announces New Republican Study Committee Task Force on Emerging Technologies",
+"url": "https://rsc-pfluger.house.gov/media/press-releases/chairman-pfluger-announces-new-republican-study-committee-task-force-emerging",
+"date": "2025-04-07",
+"quote": "championing bold proposals that harness American innovation and outpace our competitors",
+"what_it_shows": "He created the RSC task force on AI, blockchain and biotech with a mandate to lead the tech revolution, not to restrain it."
+},
+{
+"type": "statement",
+"title": "Press release: Pfluger's Generative AI Terrorism Risk Assessment Act passes the House",
+"url": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2676",
+"date": "2025-11-19",
+"quote": "To confront this emerging threat and stop terrorist organizations from weaponizing AI to recruit, train, and inspire attacks on U.S. soil, I am proud that the House passed my Generative AI Terrorism Risk Assessment Act today.",
+"what_it_shows": "His flagship AI bill orders DHS to assess terrorists' use of generative AI each year; it tracks misuse rather than regulating AI companies."
+},
+{
+"type": "letter",
+"title": "MeriTalk: Rep. Pfluger Warns of AI Threat, Seeks GAO Probe (letter to GAO dated March 17, 2026)",
+"url": "https://www.meritalk.com/articles/rep-pfluger-warns-of-ai-threat-seeks-gao-probe/",
+"date": "2026-03-17",
+"quote": "As artificial intelligence (AI) increasingly becomes a part of the everyday lives of Americans, so too do malicious actors seek to exploit emerging AI technologies and applications to pursue harmful, even deadly, agendas",
+"what_it_shows": "He asked GAO to study how violent extremists use generative and agentic AI, showing he treats AI mainly as a security threat to monitor."
+},
+{
+"type": "statement",
+"title": "E&E News: Pfluger says AI must move at the speed of commerce",
+"url": "https://www.eenews.net/articles/zeldin-talks-data-centers-permitting-with-house-gop/",
+"date": "2026-01-14",
+"quote": "When you talk about AI, just as one example, we need to move at the speed of commerce, not at the speed of government",
+"what_it_shows": "He casts government process as the obstacle to AI, the classic light-touch framing."
+},
+{
+"type": "sponsor",
+"title": "H.R. 1736, Generative AI Terrorism Risk Assessment Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1736",
+"date": "2025-02-27",
+"quote": null,
+"what_it_shows": "Requires DHS to report to Congress on how terrorists could use generative AI; a government study bill, not a mandate on AI developers."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 633, TAKE IT DOWN Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-01-22",
+"quote": null,
+"what_it_shows": "He backed the law criminalizing AI-faked intimate images and forcing fast takedowns, a targeted deepfake guardrail."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Pfluger backs targeted rules on tech. He cosponsored and voted for the TAKE IT DOWN Act, voted for the House KIDS Act kids-online-safety package, and cosponsors bills on foreign scam robocalls and Chinese-linked connected cars; last Congress he cosponsored the Kids Online Safety Act and the TikTok divestment law. He has not called for breaking up Big Tech or repealing Section 230.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 104 (2025): Yea on S. 146, TAKE IT DOWN Act (passed 409-2)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h104",
+"date": "2025-04-28",
+"quote": null,
+"what_it_shows": "He voted for the deepfake and nonconsensual image takedown law."
+},
+{
+"type": "vote",
+"title": "House roll call 228 (2026): Yea on H.R. 7757, KIDS Act (passed 267-117)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He voted for the House kids online safety package with new rules on design features, default settings and kids' privacy, while 32 Republicans voted no."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 633, TAKE IT DOWN Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-01-22",
+"quote": null,
+"what_it_shows": "Early cosponsor of the bipartisan deepfake takedown law."
+},
+{
+"type": "statement",
+"title": "Press release: Pfluger, Colleagues Reintroduce TAKE IT DOWN Act",
+"url": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2244",
+"date": "2025-01-22",
+"quote": null,
+"what_it_shows": "He joined the bipartisan House reintroduction of the deepfake takedown bill on the first day it was filed."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6152, Foreign Robocall Elimination Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2025-12-05",
+"quote": null,
+"what_it_shows": "Supports a crackdown on scam robocalls entering from abroad."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8730, Connected Vehicle Security Act of 2026 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-09-03",
+"quote": null,
+"what_it_shows": "Backs banning connected-car software and parts from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 7891 (118th), Kids Online Safety Act (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-06-11",
+"quote": null,
+"what_it_shows": "Cosponsored the House KOSA in the last Congress, along with COPPA 2.0 and Sammy's Law."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Searches for Pfluger with moratorium, preemption, state AI laws, the December 2025 executive order and the March 2026 White House framework turned up nothing in his own words. The Leading the Future PAC, which wants a national AI framework, endorsed him, but that is the PAC's agenda, not a statement by him.",
+"evidence": [
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC endorses Pfluger on its 'House GOP Champions' list",
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"date": "2026-04-16",
+"quote": "these House members will be critical to advancing a national framework in Congress that sets basic safety standards, protects children and families, and ensures America leads with confidence",
+"what_it_shows": "A pro-preemption super PAC expects him to help pass a national framework; this is the PAC's expectation, not his stated position."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Pfluger leans hawkish on China technology but has not taken a public stand on Nvidia chip sales or the Chip Security Act. He cosponsors a bill ordering an intelligence report on the danger of China's AI progress and a ban on Chinese-linked connected-car technology, and last Congress he backed tighter rules on chips reaching Iran.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 6909, China AI Threat Assessment Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6909",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Wants spy agencies to report on how dangerous China's AI progress is; a hawkish framing without a chip export position."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8730, Connected Vehicle Security Act of 2026 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-09-03",
+"quote": null,
+"what_it_shows": "Supports blocking adversary-linked connected-vehicle technology from the U.S. market."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6603 (118th), No Technology for Terror Act (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6603",
+"date": "2024-02-05",
+"quote": null,
+"what_it_shows": "Backed tighter export rules so American chips and parts cannot reach Iran's drone and weapons programs."
+}
+]
+}
+},
+"signature": "RSC chairman and Homeland Security counterterrorism subcommittee chair who treats AI as a race to win fast and a terrorist tool to track; a Leading the Future 'House GOP Champion.'",
+"notable_quote": {
+"text": "When you talk about AI, just as one example, we need to move at the speed of commerce, not at the speed of government",
+"url": "https://www.eenews.net/articles/zeldin-talks-data-centers-permitting-with-house-gop/",
+"date": "2026-01-14"
+},
+"groups": [
+"Republican Study Committee (Chairman); launched the RSC Emerging Technologies Task Force in April 2025",
+"House Homeland Security Committee, Subcommittee on Counterterrorism and Intelligence (Chairman)",
+"House Energy and Commerce Committee (member; Energy, Environment, and Communications and Technology subcommittees)"
+],
+"search_notes": "News searches: 'August Pfluger artificial intelligence'; 'Pfluger data center'; Pfluger + Stargate/Abilene/Concho Valley; Pfluger + state AI/moratorium/preemption/national framework; Pfluger + Nvidia/export controls/chips; Pfluger + Kids Online Safety/App Store/Section 230/Big Tech; Pfluger + Generative AI Terrorism Risk Assessment Act; Pfluger + AI framework/executive order; RSC + Emerging Technologies Task Force; Pfluger + Presidential AI Challenge. Opened and read: pfluger.house.gov releases 2733, 2676, 2244; E&E News Zeldin piece; E&C FERC hearing post; MeriTalk GAO story; Newsweek bill story; RSC task force release; Breitbart LTF lists (Apr 16 and May 22, 2026); govtrack votes h104 (2025) and h228 (2026); E&C 17-bill markup recap (Pfluger quoted only on critical materials). Wayback CDX had almost nothing archived for pfluger.house.gov. Not opened: his Sept 11, 2026 San Angelo LIVE op-ed on AI-enabled terrorism (URL could not be resolved; Google News decoder rate-limited), Ripon Society RSC priorities piece (404). No Pfluger statement found on Abbott's data center pause, ratepayer bills, preemption or chip export sales."
+},
+{
+"bioguide": "G000601",
+"name": "Craig A. Goldman",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Goldman's approach is to build more power and grid capacity for the demand that data centers create. He sponsored the Advanced Transmission Technology to Reduce Rates Act, part of the Energy and Commerce data center and grid package that also carried the Ratepayer Protection Act, and told Fort Worth energy producers that Texas needs more gas, nuclear and an all-of-the-above grid to keep up. No statement found on limiting data centers or on Gov. Abbott's pause.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 9335, Advanced Transmission Technology to Reduce Rates Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9335",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "His bill pushes advanced transmission technology to lower rates as load grows; E&C ordered it reported 39-10 on July 21, 2026 as part of its data center package."
+},
+{
+"type": "other",
+"title": "E&C notice: Chairman Guthrie Announces Full Committee Markup of 29 Bills (lists Goldman's H.R. 9335 with the Ratepayer Protection Act)",
+"url": "https://energycommerce.house.gov/posts/chairman-guthrie-announces-full-committee-markup-of-29-bills",
+"date": "2026-07-16",
+"quote": null,
+"what_it_shows": "His grid bill was marked up alongside the Ratepayer Protection Act and the Protecting Families from AI Data Center Energy Costs Act, the committee's answer to data center cost fears."
+},
+{
+"type": "statement",
+"title": "Fort Worth Report: North Texas leaders talk oil, gas, growing nuclear industry at Texas Alliance of Energy Producers conference",
+"url": "https://fortworthreport.org/2025/11/17/energy-for-the-world-north-texas-leaders-talk-oil-gas-growing-nuclear-industry-at-conference/",
+"date": "2025-11-11",
+"quote": "No offense to wind and solar, because obviously on our grid in Texas, we need wind and solar",
+"what_it_shows": "At an event where officials warned the grid cannot keep up with industrial growth, he backed an all-of-the-above grid, criticized Biden-era renewables policy and called small nuclear reactors the future of energy."
+},
+{
+"type": "statement",
+"title": "Dallas Express: North Texas leaders push oil, gas and nuclear expansion to meet rising energy demands",
+"url": "https://dallasexpress.com/metroplex/north-texas-leaders-push-oil-gas-and-nuclear-expansion-to-meet-rising-energy-demands/",
+"date": "2025-11-18",
+"quote": null,
+"what_it_shows": "The report ties the region's surge in data centers to Goldman's push for more generation, especially small nuclear reactors like the Abilene Christian University project."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Goldman has taken small steps toward guardrails but has said little about AI risk itself. He cosponsors the AWARE Act, which would have the government publish warnings about AI risks, and the TAKE IT DOWN Act on AI-made intimate images, and he voted for both TAKE IT DOWN and the KIDS Act. No statements on frontier AI safety, chatbots or liability were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 5360, AWARE Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5360",
+"date": "2025-11-21",
+"quote": null,
+"what_it_shows": "Supports government public warnings and learning resources about the risks of AI tools, a soft transparency measure."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 633, TAKE IT DOWN Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "Backed the deepfake intimate-image takedown law."
+},
+{
+"type": "vote",
+"title": "House roll call 104 (2025): Yea on S. 146, TAKE IT DOWN Act",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h104",
+"date": "2025-04-28",
+"quote": null,
+"what_it_shows": "Voted for the AI deepfake takedown law."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Goldman favors specific rules rather than sweeping ones. He sits on the Energy and Commerce Republican privacy working group and helped write the SECURE Data Act, a national privacy and data security law modeled on Texas, and he cosponsors bills on romance scams, fentanyl sales on social media and kids' online safety. He voted for TAKE IT DOWN and the KIDS Act.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Goldman on the Introduction of Data Privacy Bill (SECURE Data Act)",
+"url": "https://craiggoldman.house.gov/media/press-releases/rep-goldman-introduction-data-privacy-bill",
+"date": "2026-04-22",
+"quote": "This bill applies proven privacy and data security standards, first established by states like Texas, to the entire nation. These are common sense policies that will better protect the personal data of all Americans.",
+"what_it_shows": "He co-authored the House GOP comprehensive privacy bill with protections for children and teens, a targeted federal rule on data."
+},
+{
+"type": "other",
+"title": "IAPP: A view from DC: US House Republicans organize a privacy working group",
+"url": "https://iapp.org/news/a/a-view-from-dc-us-house-republicans-organize-a-privacy-working-group",
+"date": "2025-02-14",
+"quote": null,
+"what_it_shows": "Names Goldman, then a freshman, as a member of the E&C Republican working group formed to write a comprehensive consumer privacy bill."
+},
+{
+"type": "vote",
+"title": "House roll call 228 (2026): Yea on H.R. 7757, KIDS Act (passed 267-117)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Voted for the kids online safety package with design, default-setting and privacy rules."
+},
+{
+"type": "vote",
+"title": "House roll call 104 (2025): Yea on S. 146, TAKE IT DOWN Act",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h104",
+"date": "2025-04-28",
+"quote": null,
+"what_it_shows": "Voted for the deepfake and nonconsensual image takedown law."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 2481, Romance Scam Prevention Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2481",
+"date": "2025-03-31",
+"quote": null,
+"what_it_shows": "Would make dating apps warn users about banned scammers."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6259, No Fentanyl on Social Media Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6259",
+"date": "2025-12-11",
+"quote": null,
+"what_it_shows": "Would require platforms to report and crack down on drug sales."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6437, Kids Internet Safety Partnership Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6437",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "Supports a government and industry partnership on kids' online safety."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "No statement found on preempting state AI laws specifically. The closest signal is privacy: Goldman co-wrote the SECURE Data Act, which sets one national privacy standard and preempts state comprehensive privacy laws, and he praised taking standards first set by states like Texas to the entire nation. That suggests a lean toward national rules over a state patchwork, but it is not an AI position.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Goldman on the Introduction of Data Privacy Bill (SECURE Data Act)",
+"url": "https://craiggoldman.house.gov/media/press-releases/rep-goldman-introduction-data-privacy-bill",
+"date": "2026-04-22",
+"quote": "This bill applies proven privacy and data security standards, first established by states like Texas, to the entire nation.",
+"what_it_shows": "He champions a single national privacy standard in place of state-by-state rules; the bill's federal and state enforcement is preserved but state comprehensive privacy laws are preempted."
+},
+{
+"type": "other",
+"title": "IAPP: Taking stock of US House Republicans' proposed SECURE Data Act",
+"url": "https://iapp.org/news/a/taking-stock-of-us-house-republicans-proposed-secure-data-act",
+"date": "2026-05-28",
+"quote": null,
+"what_it_shows": "Privacy experts describe the bill as having strong preemption language over state privacy laws such as California's, which California's privacy agency calls a nonstarter."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Searches for Goldman with chips, Nvidia, export controls and China AI returned nothing, and he has no relevant bills in this Congress.",
+"evidence": []
+}
+},
+"signature": "Freshman E&C Republican on the privacy working group behind the SECURE Data Act; sponsor of a transmission-technology bill in the committee's data center package.",
+"notable_quote": {
+"text": "This bill applies proven privacy and data security standards, first established by states like Texas, to the entire nation. These are common sense policies that will better protect the personal data of all Americans.",
+"url": "https://craiggoldman.house.gov/media/press-releases/rep-goldman-introduction-data-privacy-bill",
+"date": "2026-04-22"
+},
+"groups": [
+"House Energy and Commerce Republican Data Privacy Working Group (Member)"
+],
+"search_notes": "News searches: 'Craig Goldman artificial intelligence'; Goldman + data center/transmission; Goldman + chatbot/deepfake/Kids Online/privacy/Section 230; Goldman + China/chips/Nvidia/preemption/state AI; SECURE Data Act + Goldman; Goldman + Advanced Transmission Technology to Reduce Rates Act; Goldman + Protect USA Act; Goldman + energy demand/data centers/Fort Worth. Opened: craiggoldman.house.gov press list and SECURE Data Act statement; govinfo BILLSTATUS for H.R. 9335 (introduced 6/18/26, ordered reported 39-10 on 7/21/26, cosponsors Evans and Vindman); E&C markup notices (June 24 subcommittee, July 20 full committee); IAPP working group and SECURE Data Act articles; Fort Worth Report and Dallas Express conference coverage; Washington Reporter Protect USA Act story (EU regulation, not tech; not used); govtrack votes h104 and h228. No Goldman press release on H.R. 9335 exists on his site, and E&C hearing posts did not quote him. Nothing found on chips, preemption of AI laws, chatbots or AI risk beyond the record."
+},
+{
+"bioguide": "J000304",
+"name": "Ronny Jackson",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026, even though his Panhandle district is the site of Fermi America's planned 11 GW 'HyperGrid' AI campus near Amarillo and Wichita Falls held contentious data center forums in August 2026. Searches for Jackson with data center, Fermi, HyperGrid and Wichita Falls found no statement by him.",
+"evidence": []
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI safety rules. His only AI bill, the GUARD Act, funds university AI research for the military, and he has made no statements on chatbots, frontier AI or liability that we could find. His vote for the TAKE IT DOWN Act on AI-made intimate images is counted under tech regulation.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 5466, GUARD Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5466",
+"date": "2025-09-18",
+"quote": null,
+"what_it_shows": "Gives universities money for military AI research; it shows interest in building AI capability, not in regulating it."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Jackson supports targeted tech rules aimed at kids, foreign adversaries and servicemembers' data. He voted for the TAKE IT DOWN Act and the KIDS Act, cosponsored bills last Congress to ban TikTok on campuses and stop data brokers from selling troops' data to hostile countries, and wrote in July 2026 that everyday devices expose troops to surveillance. He has not pushed broad antitrust or Section 230 changes.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 228 (2026): Yea on H.R. 7757, KIDS Act (passed 267-117)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Voted for the kids online safety package while 32 Republicans voted no."
+},
+{
+"type": "vote",
+"title": "House roll call 104 (2025): Yea on S. 146, TAKE IT DOWN Act (passed 409-2)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h104",
+"date": "2025-04-28",
+"quote": null,
+"what_it_shows": "Voted for the deepfake and nonconsensual image takedown law."
+},
+{
+"type": "op_ed",
+"title": "Breaking Defense op-ed: Protecting America's troops on the digital battlefield",
+"url": "https://breakingdefense.com/2026/07/protecting-americas-troops-on-the-digital-battlefield-rep-jackson/",
+"date": "2026-07-29",
+"quote": "Every smartphone, every app, every connected device, and every camera can become another sensor to be exploited by our adversaries.",
+"what_it_shows": "As HASC intelligence subcommittee chairman he argued commercially available data exposes military movements and urged Congress to keep a counter-surveillance program in the FY27 NDAA."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 231 (118th), Terminate TikTok on Campus Act of 2023 (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/231",
+"date": "2023-01-10",
+"quote": null,
+"what_it_shows": "Backed forcing federally funded colleges to ban TikTok on their networks."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6573 (118th), Protecting Military Servicemembers' Data Act of 2023 (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2023-12-04",
+"quote": null,
+"what_it_shows": "Supports stopping data brokers from selling U.S. troops' personal data to hostile countries."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Searches for Jackson with preemption, moratorium and state AI laws found nothing, and he signed none of the letters on the 2025 moratorium or the executive order that we could identify.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Jackson works on export controls from the national security side. His bill requiring the export-control office to report each year on the technology licenses it approved and denied became law in August 2025, and in 2026 he introduced a bill to build a State Department office to stop dual-use technology from reaching hostile actors. He has not taken a public stand on Nvidia chip sales to China or the Chip Security Act.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 1316, Maintaining American Superiority by Improving Export Control Transparency Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1316",
+"date": "2025-02-13",
+"quote": null,
+"what_it_shows": "Requires annual reports to Congress on export licenses approved and denied; a transparency measure aimed at oversight of technology exports."
+},
+{
+"type": "other",
+"title": "govinfo bill status: H.R. 1316 signed by the President and became Public Law 119-34",
+"url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1316.xml",
+"date": "2025-08-19",
+"quote": null,
+"what_it_shows": "The Senate passed his export-control transparency bill by unanimous consent on July 22, 2025 and it became law on Aug. 19, 2025."
+},
+{
+"type": "sponsor",
+"title": "H.R. 8689, Strategic Export Controls and Border Security Enhancement Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8689",
+"date": "2026-05-07",
+"quote": null,
+"what_it_shows": "Would authorize a State Department Office of Export Controls and Border Security to tighten controls on sensitive technology leaving the country."
+},
+{
+"type": "statement",
+"title": "Press release (via jackson.house.gov press list): Jackson introduces Strategic Export Control and Border Security Enhancement Act",
+"url": "https://jackson.house.gov/news/documentquery.aspx?DocumentTypeID=27&Page=2",
+"date": "2026-05-14",
+"quote": "legislation to strengthen America's strategic trade controls, improve border enforcement capabilities, and prevent the diversion of weapons of mass destruction, advanced conventional weapons, and dual-use technologies to malign foreign actors",
+"what_it_shows": "His office frames the bill as keeping dual-use technology away from malign foreign actors; the quote is the press release description, not a direct quote from him."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Ronny Jackson Joins Secretary Rubio on Advancing America First Foreign Policy and Strengthening Export Controls",
+"url": "https://jackson.house.gov/news/documentquery.aspx?DocumentTypeID=27&Page=2",
+"date": "2026-06-02",
+"quote": null,
+"what_it_shows": "At a Foreign Affairs hearing with Secretary Rubio he promoted his export-control bill, showing sustained attention to tightening controls."
+}
+]
+}
+},
+"signature": "HASC intelligence subcommittee chair whose export-control transparency bill became law in 2025; publicly silent on AI safety and on the giant AI data center campus planned in his district.",
+"notable_quote": {
+"text": "Every smartphone, every app, every connected device, and every camera can become another sensor to be exploited by our adversaries.",
+"url": "https://breakingdefense.com/2026/07/protecting-americas-troops-on-the-digital-battlefield-rep-jackson/",
+"date": "2026-07-29"
+},
+"groups": [
+"House Armed Services Committee, Subcommittee on Intelligence and Special Operations (Chairman)"
+],
+"search_notes": "News searches: 'Ronny Jackson artificial intelligence'; Jackson + data center/export controls; Jackson + Fermi/Amarillo/Wichita Falls data center; Jackson + Nvidia/chips/export control China AI; Jackson + Export Control Transparency/GUARD Act/DEMAND Act; Jackson + preemption/state AI/moratorium/chatbot/deepfake; Jackson + HyperGrid/Fermi America; Wichita Falls forum data centers. Opened: govinfo BILLSTATUS for H.R. 1316 (Public Law 119-34), H.R. 8689 and H.R. 10126; jackson.house.gov press list pages 1-3; Breaking Defense op-ed; govtrack votes h104 and h228; Times Record News Aug 24, 2026 forum story via Wayback (no Jackson mention). Could not open: Times Record News Aug 20 forum story and July 10 special-session reaction story (403, Wayback connection refused), Steptoe export-law note (403). Jackson's individual press release URLs are not exposed as text, so two items cite the press-list page. The DEMAND Act (H.R. 10126, arms transfers) was judged not relevant to AI chips. Nothing found on data centers, AI risk or preemption."
+},
+{
+"bioguide": "W000814",
+"name": "Randy K. Weber, Sr.",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Weber wants to build the power for AI while shielding household electric bills. As chairman of the Science Committee's Energy Subcommittee he says energy demand is skyrocketing partly because of the AI race with China, and he held a September 2026 hearing on advanced nuclear reactors as AI data centers compete for power. He also cosponsors the Ratepayer Protection Act, which pushes data centers to pay their own grid costs.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement of Chairman Randy Weber at Science Committee hearing on subsurface science and American energy and mineral dominance",
+"url": "https://science.house.gov/2026/4/opening-statement-of-chairman-randy-weber-at-subsurface-science-and-technology-american-energy-and-mineral-dominance",
+"date": "2026-04-16",
+"quote": "Energy demand is skyrocketing as we are not only onshoring manufacturing, but also electrifying our lives and working to stay ahead of the Chinese Communist Party in the artificial intelligence race.",
+"what_it_shows": "He treats AI-driven demand as a reason to speed up new baseload energy like geothermal, a build-more framing."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 9340, Ratepayer Protection Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "He joined the bipartisan E&C bill (cleared committee 52-0) that has state regulators consider making data centers pay their own way instead of shifting costs to families."
+},
+{
+"type": "hearing",
+"title": "Science Committee Energy Subcommittee hearing: Powering the Nuclear Renaissance: Accelerating U.S. Leadership in Advanced Nuclear Reactors (Weber opening statement listed)",
+"url": "https://science.house.gov/2026/9/energy-subcommittee-hearing-nuclear-renaissance",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "As subcommittee chairman he convened the hearing on accelerating advanced reactors that Legis1 says was prompted by AI data centers competing for power and China's reactor push."
+},
+{
+"type": "other",
+"title": "Legis1 preview: House Panel Examines U.S. Leadership in Advanced Nuclear Reactors",
+"url": "https://legis1.com/news/advanced-nuclear-reactors-house-panel-will",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Identifies Weber as chairman of the Energy Subcommittee holding the hearing and notes surging AI and data center electricity demand is drawing billions into advanced nuclear."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Weber shows concern about AI chatbots and kids but has not called for specific new AI rules. At a November 2025 hearing he pressed experts on whether anyone monitors chatbot replies to children or suicidal users and whether chatbots should be catalogued, and he called AI grading AI a fox guarding the henhouse. At the same time he frames energy policy around beating China in the AI race.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: House E&C Oversight hearing on the risks and benefits of AI chatbots (Weber questioning)",
+"url": "https://www.techpolicy.press/transcript-house-hearing-on-the-risks-and-benefits-of-ai-chatbots/",
+"date": "2025-11-18",
+"quote": "I'm focusing on kids, of course, first and foremost, or somebody who's suicidal, anybody that would need help. There's really nobody watching those kinds of replies to see, to categorize them, catalog them, or to act on them",
+"what_it_shows": "He questioned whether anyone oversees chatbot responses to vulnerable users, asked if someone should be tasked with cataloguing all chatbots, and called using an LLM to judge LLM outputs a fox guarding the henhouse."
+},
+{
+"type": "vote",
+"title": "House roll call 104 (2025): Yea on S. 146, TAKE IT DOWN Act",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h104",
+"date": "2025-04-28",
+"quote": null,
+"what_it_shows": "Voted for the AI deepfake takedown law."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8989 (118th), TAKE IT DOWN Act (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8989",
+"date": "2024-09-09",
+"quote": null,
+"what_it_shows": "Cosponsored the House deepfake intimate-image bill in the last Congress."
+},
+{
+"type": "hearing",
+"title": "Opening statement of Chairman Randy Weber on American energy and mineral dominance",
+"url": "https://science.house.gov/2026/4/opening-statement-of-chairman-randy-weber-at-subsurface-science-and-technology-american-energy-and-mineral-dominance",
+"date": "2026-04-16",
+"quote": "working to stay ahead of the Chinese Communist Party in the artificial intelligence race",
+"what_it_shows": "Shows the beat-China framing that sits alongside his kids-and-chatbots concerns."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Weber consistently backs targeted rules for kids and consumers online. He cosponsors the SCREEN Act requiring age checks on adult sites, the Foreign Robocall Elimination Act and the Connected Vehicle Security Act; he cosponsored the Kids Online Safety Act, Sammy's Law and TAKE IT DOWN in the last Congress; and he voted for TAKE IT DOWN and the KIDS Act.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 1623, SCREEN Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-07-16",
+"quote": null,
+"what_it_shows": "Would require adult websites to verify users' ages to keep kids out."
+},
+{
+"type": "vote",
+"title": "House roll call 228 (2026): Yea on H.R. 7757, KIDS Act (passed 267-117)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Voted for the kids online safety package while 32 Republicans voted no."
+},
+{
+"type": "vote",
+"title": "House roll call 104 (2025): Yea on S. 146, TAKE IT DOWN Act (passed 409-2)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h104",
+"date": "2025-04-28",
+"quote": null,
+"what_it_shows": "Voted for the deepfake and nonconsensual image takedown law."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6152, Foreign Robocall Elimination Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "Supports a crackdown on scam robocalls from abroad."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8730, Connected Vehicle Security Act of 2026 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-08-17",
+"quote": null,
+"what_it_shows": "Backs banning connected-car technology from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 7891 (118th), Kids Online Safety Act (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-06-13",
+"quote": null,
+"what_it_shows": "Cosponsored the House KOSA, along with Sammy's Law, in the last Congress."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Searches for Weber with preemption, moratorium, state AI laws and national standard turned up nothing about AI, and he is not on the House bills for or against preemption.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "low",
+"summary": "Weber cosponsors the AI OVERWATCH Act, which would give Congress the power to block sales of advanced AI chips to China and other risky countries before they happen. That is a clear tighten-controls position, but it rests on one cosponsorship; no statements by him on Nvidia or export policy were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 6875, AI OVERWATCH Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "Supports congressional review power to stop advanced AI chip sales to China, the core of the hawkish export-control lane."
+}
+]
+}
+},
+"signature": "Science Committee energy subcommittee chair who ties nuclear and grid build-out to the AI race with China, and a cosponsor of both the Ratepayer Protection Act and the AI OVERWATCH Act.",
+"notable_quote": {
+"text": "Energy demand is skyrocketing as we are not only onshoring manufacturing, but also electrifying our lives and working to stay ahead of the Chinese Communist Party in the artificial intelligence race.",
+"url": "https://science.house.gov/2026/4/opening-statement-of-chairman-randy-weber-at-subsurface-science-and-technology-american-energy-and-mineral-dominance",
+"date": "2026-04-16"
+},
+"groups": [
+"House Science, Space, and Technology Committee, Subcommittee on Energy (Chairman)"
+],
+"search_notes": "News searches: 'Randy Weber artificial intelligence'; Weber + data center/ratepayer; Weber + chatbot/deepfake/Kids Online/Big Tech/Section 230; Weber + nuclear/AI/grid; Weber + Ratepayer Protection Act/AI OVERWATCH; Weber + preemption/state AI laws/moratorium; Weber + data centers hearing; Weber + Nuclear Renaissance hearing. Opened: full Tech Policy Press transcript of the Nov. 18, 2025 chatbot hearing (Weber's five minutes extracted); science.house.gov April 16, 2026 opening statement and Sept. 2, 2026 hearing page; Legis1 hearing preview; E&C markup notices (his H.R. 9338 pipeline safety bill listed); The Hill ratepayer story (mentions a different Weber); weber.house.gov press list (PACK Act, packaging labels, not AI); govtrack votes h104 and h228. Could not open: Washington Examiner 'Daily on Energy' June 30, 2026 item (Google decoder rate-limited; headline suggests Jones Act, not data centers), Weber's Sept. 2 nuclear hearing opening statement text (not yet posted or archived). No statements found on preemption, Nvidia sales or Abbott's data center pause."
+}
+]

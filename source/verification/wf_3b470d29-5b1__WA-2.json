@@ -1,0 +1,271 @@
+[
+{
+"bioguide": "G000600",
+"checks": [
+{
+"url": "https://gluesenkampperez.house.gov/posts/gluesenkamp-perez-introduces-legislation-to-give-americans-the-right-to-repair-their-own-electronics",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim in her own press release introducing the Fair Repair Act with Morelle and Lujan; release describes requiring manufacturers to make diagnostic information, parts and tools available to individuals and small businesses, matching the claim. Page shows no publication date."
+},
+{
+"url": "https://gluesenkampperez.house.gov/posts/gluesenkamp-perez-morelle-lujan-introduce-the-fair-repair-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim, attributed to Gluesenkamp Perez, and names Apple Store repairs. A second, separately titled Fair Repair Act introduction release exists alongside the first, supporting the multi-year push claim; the page itself does not display a date, so the 2024 label could not be verified from the page."
+},
+{
+"url": "https://gluesenkampperez.house.gov/posts/rep-marie-gluesenkamp-perez-statement-on-the-ndaa",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Statement dated Jul 23, 2026 contains the quote verbatim and continues 'the issue that inspired me to run for congress in the first place', supporting the claim. Note the page calls it the NDAA without specifying FY27."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Downloaded PDF and extracted text: 81 'Member of Congress' signature lines, zero occurrences of Gluesenkamp; Schrier and Jayapal are present and no other Washington members matched. The letter opposes the NDAA AI moratorium and the proposed preemption executive order. Absence confirmed; it carries no positional weight."
+},
+{
+"url": "https://gluesenkampperez.house.gov/posts/gluesenkamp-perez-introduces-legislation-to-give-americans-the-right-to-repair-their-own-electronics",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Headline quote is verbatim on the page, attributed to Rep. Gluesenkamp Perez."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "N000189",
+"checks": [
+{
+"url": "https://www.yahoo.com/news/politics/articles/op-ed-powering-ai-bpa-200000372.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Bylined 'Rep. Dan Newhouse', Yahoo, updated July 16, 2026. Quote appears verbatim. Op-ed explicitly says 'We must build and expand transmission capacity, upgrade aging infrastructure, and add new sources of power generation', supporting the claim."
+},
+{
+"url": "https://www.yahoo.com/news/politics/articles/op-ed-powering-ai-bpa-200000372.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Quote verbatim. Next sentence names Amazon, Atlas Agro, and Trammell Crow investments in the Tri-Cities 'underscoring the Pacific Northwest's growing role in the AI economy', exactly as claimed."
+},
+{
+"url": "https://newhouse.house.gov/media-center/press-releases/newhouse-hosts-central-washington-energy-summit-featuring-state",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-05-11",
+"note": "Quote verbatim (May 11, 2026 release). The release only says his keynote stressed the district's 'energy potential' and that 'the nation must meet this moment regarding artificial intelligence'; the nuclear and hydropower content comes from the summit's panels, not from his quoted keynote. The 'not to slow' framing is inferred rather than stated."
+},
+{
+"url": "https://newhouse.house.gov/media-center/press-releases/newhouse-statement-new-bonneville-power-administration-administrator",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-22",
+"note": "Quote verbatim, attributed to Rep. Newhouse in a June 22, 2026 statement on Travis Kavulla's appointment as BPA Administrator. Also says 'meet the moment' on growing demand."
+},
+{
+"url": "https://www.yahoo.com/news/politics/articles/op-ed-powering-ai-bpa-200000372.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Quote verbatim. Opening line frames the US against 'China, Russia, Iran, or North Korea'; the op-ed never discusses AI regulation or safety, so the 'no position' claim is accurate."
+},
+{
+"url": "https://newhouse.house.gov/media-center/press-releases/newhouse-calls-congressional-oversight-tiktok-deal",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-23",
+"note": "Quote verbatim from Jan 23, 2026 statement on the TikTok US joint-venture deal. He calls for congressional oversight over data/privacy protection and algorithm influence. Note the framing is national-security/CCP-focused rather than general Big Tech regulation."
+},
+{
+"url": "https://newhouse.house.gov/media-center/press-releases/newhouse-calls-congressional-oversight-tiktok-deal",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-23",
+"note": "Quote verbatim; statement says he will work 'closely with Chairman Moolenaar and my colleagues on the Select Committee on the Chinese Communist Party'. Supports China-hawk framing, but says nothing about semiconductors or export controls."
+},
+{
+"url": "https://www.yahoo.com/news/politics/articles/op-ed-powering-ai-bpa-200000372.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Headline quote appears verbatim in the op-ed authored by Rep. Dan Newhouse."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only china_chips source is the TikTok oversight statement, which concerns app ownership, data privacy, and algorithm influence. None of the sources mention semiconductors, chip exports, or export controls at all, so -2 'Tighten export controls' is not supported by the evidence; at most the CCP-hawk framing and Select Committee work justify a lean.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+}
+]
+},
+{
+"bioguide": "B001322",
+"checks": [
+{
+"url": "https://baumgartner.house.gov/2026/06/25/baumgartner-introduces-power-and-water-for-families-act-h-r-9419/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-25",
+"note": "Quote verbatim. Page lists recovery of full incremental cost of generation/transmission/distribution upgrades, deposits/guarantees/financial assurances, and incentives for large loads to bring new generation; ratepayer/water-reuse framing present."
+},
+{
+"url": "https://baumgartner.house.gov/2026/06/25/baumgartner-introduces-power-and-water-for-families-act-h-r-9419/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-25",
+"note": "Quote verbatim (opening line of his statement). Pairs 'win the AI race' with families not subsidizing it."
+},
+{
+"url": "https://www.spokesman.com/stories/2026/sep/12/baumgartner-vs-conroy-congressional-candidates-deb/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-12",
+"note": "Quote verbatim. Article says both candidates agreed data center concern is warranted; he added the industry 'needs to step forward and explain' and 'we are in a race with China... there are some benefits from this technology.' Debate was Wednesday (Sept 9); article dated Sept 12."
+},
+{
+"url": "https://www.spokesman.com/stories/2026/sep/12/baumgartner-vs-conroy-congressional-candidates-deb/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-12",
+"note": "Conroy quote verbatim; Baumgartner reply quoted as his bill would 'make sure no community has a data center forced into it.'"
+},
+{
+"url": "https://www.eenews.net/articles/house-judiciary-sets-vote-on-data-center-lawsuit-bill/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-26",
+"note": "Quote verbatim. Names him as sponsor of H.R. 8037 Protect American AI Act; describes it as easing the legal landscape and limiting federal legal challenges to data center permits."
+},
+{
+"url": "https://earthjustice.org/article/how-we-rallied-a-big-coalition-to-stop-a-shady-data-center-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-10",
+"note": "Quote verbatim. Names Baumgartner and the Protect American AI Act; says committee pulled the bill hours after the opposition letter. Article itself does not say 'March' but E&E confirms the markup was set for late March 2026."
+},
+{
+"url": "https://baumgartner.house.gov/2025/09/19/baumgartner-introduces-bill-codify-trump-executive-order-preventing-patchwork/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-19",
+"note": "Quote verbatim. Page says bill reverses 'the Biden Administration's heavy-handed approach that treated AI like a government-run monopoly.'"
+},
+{
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "Quote verbatim (Zac Moffatt, LTF co-strategist). Baumgartner listed in second slate of 'House GOP champions.' PAC's own wording is 'national framework... that builds on the Trump Administration's bold vision'; 'light-touch' is the tracker's gloss, not the PAC's word."
+},
+{
+"url": "https://baumgartner.house.gov/2026/07/23/baumgartner-introduces-bill-to-hold-foreign-officials-accountable-for-economic-discrimination-against-american-companies/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Quote verbatim. Page cites EU DMA fines on Google over $1 billion and South Korean actions against Coupang as the targets of the No Racketeers on Our Shores Act (H.R. 9834)."
+},
+{
+"url": "https://baumgartner.house.gov/2025/09/19/baumgartner-introduces-bill-codify-trump-executive-order-preventing-patchwork/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-19",
+"note": "Quote verbatim. Bill creates a five-year moratorium on new state/local AI mandates; he cites Spokane data centers, WSU AgAID and UW AI research as the Washington edge to protect."
+},
+{
+"url": "https://broadbandbreakfast.com/democratic-and-republican-lawmakers-introduce-two-opposing-ai-bills/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-23",
+"note": "Quote verbatim. Article states bill 'allows exceptions for criminal law enforcement and state procurement policies but otherwise bars states from restricting AI systems in interstate commerce during the five-year moratorium.'"
+},
+{
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "PAC statement: 'These House members will be instrumental in advancing a national framework in Congress.' Baumgartner named in the slate."
+},
+{
+"url": "https://baumgartner.house.gov/2026/04/02/baumgartner-introduces-bipartisan-bill-to-tighten-controls-on-sensitive-chipmaking-equipment/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-02",
+"note": "Quote verbatim. Page describes MATCH Act closing gaps from allies not matching U.S. SME controls and moving 'in lockstep' with allies."
+},
+{
+"url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-match-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "Page: MATCH Act 'introduced by Rep. Baumgartner' advanced among 15 bills; 'the largest significant export control markup in the history of Congress.'"
+},
+{
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-02-10",
+"note": "Quote verbatim and Baumgartner is listed as a cosigner; letter urges countrywide controls and allied engagement (Netherlands cited). Count is slightly off: eight signers total (Moolenaar, Mast, Meeks, Huizenga, Kamlager-Dove, Stanton, Baumgartner, Olszewski), so he joined seven others, not eight."
+},
+{
+"url": "https://www.nbcnews.com/tech/tech-news/senate-bill-ban-sale-key-ai-chipmaking-machines-china-rcna265186",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-02",
+"note": "Article (headline now reads 'Senate bill...' but body covers the House bill) says MATCH Act 'Led by Rep. Michael Baumgartner' and 'co-sponsored by the chairman of the House Select Committee on China, Rep. John Moolenaar.'"
+},
+{
+"url": "https://baumgartner.house.gov/2025/09/19/baumgartner-introduces-bill-codify-trump-executive-order-preventing-patchwork/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-19",
+"note": "Headline quote appears verbatim, attributed to Baumgartner."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "R000621",
+"checks": [
+{
+"url": "https://washingtonstatestandard.com/2025/09/25/ai-reviews-rolling-out-for-medicare-in-wa-for-some-procedures/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Site returns 403 / Cloudflare 'Performing security verification' challenge to fetch tool, curl, WebFetch and the browser pane; Wayback Machine connection refused / rate-limited from this network after multiple retries. Could not verify the quote verbatim. The underlying claim (Randall signed the Aug. 7 DelBene letter to CMS Administrator Oz about the WISeR AI prior-auth model) is independently corroborated by the KUOW article in item 2, which states DelBene 'and other lawmakers — including Randall and Strickland' sent the joint letter on Aug. 7."
+},
+{
+"url": "https://www.kuow.org/health-care/2025-12-01/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-01",
+"note": "Quote appears verbatim. Page names Emily Randall among the 29 Democratic co-sponsors of the Seniors Deserve SMARTER Care Act of 2025 and states that DelBene 'and other lawmakers — including Randall and Strickland — received no response to a joint letter they sent on Aug. 7 to Oz' urging cancellation of the WISeR model."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF downloaded and text-extracted: dated Nov. 26, 2025, 81 'Member of Congress' signature lines. 'Randall' does not appear anywhere in the text; Washington signers present are Kim Schrier, M.D. and Pramila Jayapal. Confirms the absence as stated; correctly framed as absence, not a position."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the three sources addresses Big Tech or general technology regulation; all concern a Medicare AI prior-authorization pilot (a health-care/CMS oversight matter). The evidence for a -1 tech_regulation score is too thin from these items alone.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

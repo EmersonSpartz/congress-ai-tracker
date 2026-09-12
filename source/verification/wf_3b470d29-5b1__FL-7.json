@@ -1,0 +1,185 @@
+[
+{
+"bioguide": "W000808",
+"checks": [
+{
+"url": "https://www.eenews.net/articles/trump-ai-directive-could-spur-congressional-action-on-data-centers/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-03-23",
+"note": "Quote appears verbatim (E&E News, Amelia Davidson, 03/23/2026): the Casten/Levin 'Energy Bills Relief Act,' H.R. 7977, 'includes provisions to make sure data centers pay for their energy.' However the article never mentions Wilson; it does not itself establish that she cosponsored the bill. Her cosponsorship is confirmed separately: GovTrack's H.R. 7977 cosponsor list shows 'Wilson, Frederica [D-FL24]' as an Original Cosponsor (161 Democratic cosponsors, introduced March 18, 2026). Treat as context for the bill, with the cosponsorship citation needing its own source (GovTrack/congress.gov)."
+},
+{
+"url": "https://pressley.house.gov/2025/12/03/pressley-clarke-markey-reintroduce-ai-civil-rights-act-to-eliminate-ai-discrimination/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Release dated Dec 3, 2025 lists 'Frederica Wilson (FL-24)' among House cosponsors of the reintroduced AI Civil Rights Act; the release frames the bill as eliminating AI discrimination and protecting Black, brown and marginalized communities from biased algorithms. No quote from Wilson herself on the page."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "W000797",
+"checks": [
+{
+"url": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3503",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-01",
+"note": "Quote appears verbatim in the June 1, 2026 release. Page text contains no mention of data centers, matching the claim; it frames bills around utility profits/overcharges and clean energy."
+},
+{
+"url": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3472",
+"verdict": "confirmed",
+"corrected_quote": "And the-already grueling demands on the Task Forces are, tragically, only growing with AI simulations",
+"corrected_date": "2026-03-10",
+"note": "Quote is verbatim (release has a typo 'the-already'). Context: 157% rise in CyberTips; she says law enforcement must 'stay ahead of the curve' as predators get more technologically advanced. It is enforcement funding, not an AI regulation position."
+},
+{
+"url": "https://broadbandbreakfast.com/house-leaders-reach-deal-on-kids-online-safety-package/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-23",
+"note": "Article confirms Sammy's Law (Wasserman Schultz/Carter) was omitted from the final KIDS Act package and lists it among 'measures that were considered by the committee in March', but adds it 'was considered separately', so 'marked up by Energy and Commerce in March 2026' is slightly stronger than the source states."
+},
+{
+"url": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3332",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-05-06",
+"note": "Quote verbatim; bipartisan Children's Safety Caucus with Carter, Krishnamoorthi, Bacon confirmed. The release centers on drowning prevention and preventable injuries; the fetched text did not show explicit online-safety framing, so 'including online' is not clearly supported by this page."
+},
+{
+"url": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3472",
+"verdict": "confirmed",
+"corrected_quote": "And the-already grueling demands on the Task Forces are, tragically, only growing with AI simulations",
+"corrected_date": "2026-03-10",
+"note": "Same release as item 2; quote verbatim."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only source is a utility-bill release that never mentions data centers; a ratepayer-protection stance on generic utility costs is not evidence of a position on data center buildout. Evidence too thin for -1.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "Sole evidence is a grant announcement noting AI-generated child abuse imagery increases ICAC workload and that police must keep pace. That is law-enforcement funding, not a stance on AI guardrails or regulation. Too thin for -1.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "china_chips",
+"objection": "None of the five items touch export controls, chips, or China; no sourced basis for -1.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "D000600",
+"checks": [
+{
+"url": "https://www.voanews.com/a/tiktok-owner-is-essentially-subsidiary-of-china-s-communist-party-us-lawmaker-says-/7533311.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-18",
+"note": "VOA Q&A (published March 18, 2024) names Rep. Mario Diaz-Balart; quote appears verbatim in his answer on the House-passed ByteDance divestiture bill. Claim matches."
+},
+{
+"url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-votes-protect-americans-privacy-and-electronic",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2016-04-27",
+"note": "Press release dated April 27, 2016 on the Email Privacy Act; quote appears verbatim. Page is about warrant requirements for government access to email, as the claim says; not about Big Tech regulation."
+},
+{
+"url": "https://www.voanews.com/a/tiktok-owner-is-essentially-subsidiary-of-china-s-communist-party-us-lawmaker-says-/7533311.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-18",
+"note": "Quote appears verbatim in the same VOA Q&A. Page has no mention of chips, semiconductors or export controls, consistent with the claim that he did not address them; supports no china_chips score."
+},
+{
+"url": "https://www.voanews.com/a/tiktok-owner-is-essentially-subsidiary-of-china-s-communist-party-us-lawmaker-says-/7533311.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-18",
+"note": "Headline quote appears verbatim in the VOA interview."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "S000168",
+"checks": [
+{
+"url": "https://salazar.house.gov/media/press-releases/salazar-dean-blackburn-coons-bipartisan-colleagues-reintroduce-no-fakes-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-21",
+"note": "Quote appears verbatim, attributed to Rep. Salazar. Page describes NO FAKES Act as creating federal guardrails against digital replicas and voice cloning; she adds 'you own your identity—not Big Tech, not scammers, not algorithms.' Published May 21, 2026."
+},
+{
+"url": "https://salazar.house.gov/media/press-releases/rep-salazars-no-fakes-act-advances-out-senate-judiciary-committee-unanimous",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-22",
+"note": "Quote appears verbatim in Salazar's statement on the unanimous Senate Judiciary vote. Published June 22, 2026."
+},
+{
+"url": "https://salazar.house.gov/media/press-releases/hundreds-artists-actors-and-creators-back-salazars-no-ai-fraud-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-02-02",
+"note": "Quote verbatim; page says nearly 300 artists, songwriters, actors and creators signed a Human Artistry Campaign ad backing the No AI FRAUD Act. Published Feb 2, 2024."
+},
+{
+"url": "https://thehill.com/blogs/in-the-know/5843379-lawmakers-honor-music-protections/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "The Hill (Apr 22, 2026) reports Coons and Salazar honored at Grammys on the Hill; notes her sponsorship of NO FAKES and TAKE IT DOWN; paraphrases her saying her job includes protecting artists against AI. Note the article frames the award as for protecting musical artists broadly, with the two bills mentioned as context rather than as the explicit citation."
+},
+{
+"url": "https://salazar.house.gov/media/press-releases/salazar-klobuchar-cruz-dean-request-information-implementation-take-it-down",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-19",
+"note": "Page (May 19, 2026) says the four lawmakers who led the TAKE IT DOWN Act urge the FTC to hold tech companies accountable if they fail to remove NCII as the takedown provisions take effect that day; letter to Chairman Ferguson included."
+},
+{
+"url": "https://salazar.house.gov/media/press-releases/us-senate-passes-salazars-bill-protect-deepfake-revenge-porn-victims",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12-05",
+"note": "Quote verbatim; she follows with a call for the House to pass the bill. Page states the Act criminalizes publication and requires websites to quickly remove the images. Published Dec 5, 2024."
+},
+{
+"url": "https://www.govtrack.us/congress/bills/119/hr6875/cosponsors",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-02",
+"note": "GovTrack lists 'Salazar, Maria [R-FL27]' as a cosponsor of H.R. 6875 AI OVERWATCH Act joined Feb. 2, 2026. Page is a cosponsor list only; no statement from her on chip export policy."
+},
+{
+"url": "https://salazar.house.gov/media/press-releases/rep-salazars-no-fakes-act-advances-out-senate-judiciary-committee-unanimous",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-22",
+"note": "Headline quote appears verbatim on the page."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only china_chips evidence is a single cosponsorship (joined Feb 2, 2026, not original) of the AI OVERWATCH Act, with no statement from her on chip exports or export controls. That supports a hawkish lean but is too thin for the strongest 'Tighten export controls' position.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+}
+]
+}
+]

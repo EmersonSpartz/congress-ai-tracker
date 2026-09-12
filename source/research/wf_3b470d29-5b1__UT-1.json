@@ -1,0 +1,584 @@
+[
+{
+"bioguide": "L000577",
+"name": "Mike Lee",
+"signature": "Senate Energy chair who has not made data center ratepayer bills a priority; long-time Big Tech antitrust critic who sponsors kids' age-verification bills (App Store Accountability Act, SCREEN Act) and cosponsors the GUARD Act on AI chatbots.",
+"notable_quote": {
+"text": "AI chatbots can act like online predators, luring our kids into mental health issues and exploitation",
+"url": "https://www.hawley.senate.gov/hawley-bill-to-protect-children-from-ai-chatbots-gains-new-cosponsors/",
+"date": "2025-12-10"
+},
+"groups": [
+"Chairman, Senate Committee on Energy and Natural Resources (119th Congress)",
+"Chairman, Senate Judiciary Subcommittee on Antitrust, Competition Policy, and Consumer Rights (119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Lee chairs the Senate committee where the main data center energy bills sit, and he has said data center legislation is not a priority for him while pushing permitting reform that would speed building. He has backed a federal process for connecting big power users to the grid and says questions about affordable energy and data centers now run through FERC, so he acknowledges costs but has not pushed limits.",
+"evidence": [
+{
+"type": "interview",
+"title": "E&E News: Data center energy bill hits speed bump (Lee on the Ratepayer Protection Act)",
+"url": "https://www.eenews.net/articles/data-center-energy-bill-hits-speed-bump/",
+"quote": "I don't currently have that identified as a priority.",
+"what_it_shows": "As Energy and Natural Resources chair, Lee said data center legislation was not a priority for his panel, though he was 'happy to look at' the House Ratepayer Protection Act.",
+"date": "2026-06-25"
+},
+{
+"type": "interview",
+"title": "E&E News: Data center lobby grumbles about reworked Ratepayer Protection Act",
+"url": "https://www.eenews.net/articles/data-center-lobby-grumbles-about-reworked-ratepayer-protection-act-2/",
+"quote": "coming up in some of our conversations about permitting reform",
+"what_it_shows": "Lee said he had not been following the Ratepayer Protection Act but that data center energy concerns were surfacing in permitting reform talks, which frames the issue as one of building faster rather than new limits.",
+"date": "2026-07-22"
+},
+{
+"type": "hearing",
+"title": "E&E News: FERC focus on affordability at center of Senate Energy hearing",
+"url": "https://www.eenews.net/articles/ferc-focus-on-affordability-at-center-of-hearing/",
+"quote": "FERC now sits at the center of some of the most important questions facing our country: reliable electricity, affordable energy, data centers, manufacturing, national security",
+"what_it_shows": "At a FERC oversight hearing after the commission ordered grid operators to justify data center rates, Lee tied data centers to affordability and reliability without calling for new legislation.",
+"date": "2026-07-23"
+},
+{
+"type": "letter",
+"title": "Senate ENR release: Lee, Heinrich back DOE proposal requiring FERC action on large-load grid connections",
+"url": "https://www.energy.senate.gov/2025/11/lee-heinrich-back-doe-proposal-requiring-ferc-action-on-large-load-grid-connections",
+"quote": null,
+"what_it_shows": "Lee and Ranking Member Heinrich jointly backed the Energy Department's proposal for FERC to write rules on connecting large loads such as data centers to the grid; the page itself was blocked, so only the committee's title could be confirmed.",
+"date": "2025-11-19"
+},
+{
+"type": "hearing",
+"title": "E&E News: Senate lawmakers debate ideas for grid upgrades (Lee-led transmission hearing)",
+"url": "https://www.eenews.net/articles/senate-lawmakers-debate-ideas-for-grid-upgrades/",
+"quote": null,
+"what_it_shows": "At a hearing held as Democrats pushed transmission expansion to meet data center demand, Lee urged caution against 'overbuilding' grid infrastructure, showing skepticism of large federal build-outs.",
+"date": "2026-03-26"
+},
+{
+"type": "social_post",
+"title": "E&E News: Mike Lee issues declaration on permitting reform (post on X)",
+"url": "https://www.eenews.net/articles/mike-lee-issues-declaration-on-permitting-reform/",
+"quote": "It's time for NEPA reform",
+"what_it_shows": "Lee publicly called for NEPA and broader permitting reform, the main policy lever the data center and energy industries want to build faster.",
+"date": "2025-10-07"
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Lee backs targeted AI rules focused on children and deepfakes, cosponsoring the GUARD Act to ban AI companions for minors and the DEFIANCE Act on AI sexual deepfakes. He has also opposed a federal agency writing AI disclosure rules for political ads, so he is not a broad AI regulator.",
+"evidence": [
+{
+"type": "statement",
+"title": "Hawley release: GUARD Act gains new cosponsors, including Lee",
+"url": "https://www.hawley.senate.gov/hawley-bill-to-protect-children-from-ai-chatbots-gains-new-cosponsors/",
+"quote": "Parents want better tools and fewer threats to their families, and kids deserve protection from AI-perpetrated harm.",
+"what_it_shows": "Lee joined the GUARD Act and described AI chatbots as predators, backing a ban on AI companions for minors and criminal penalties for companies.",
+"date": "2025-12-10"
+},
+{
+"type": "cosponsor",
+"title": "S.3062 GUARD Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"quote": null,
+"what_it_shows": "Cosponsored the bill requiring AI chatbot companies to verify ages and keep kids away from AI companion bots.",
+"date": "2025-11-19"
+},
+{
+"type": "cosponsor",
+"title": "S.1837 DEFIANCE Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1837",
+"quote": null,
+"what_it_shows": "Cosponsored a bill letting victims sue people who make or share AI sexual deepfakes of them.",
+"date": "2025-05-21"
+},
+{
+"type": "statement",
+"title": "Press release: Lee, Lummis introduce bill to counter FCC on AI ad disclosures",
+"url": "https://www.lee.senate.gov/2024/6/lee-lummis-introduce-bill-to-counter-fcc-on-ai-ad-disclosures",
+"quote": "While I support transparency in the use of AI in campaign ads, I strongly oppose the idea of a Democrat-run federal agency single-handedly changing the rules of political engagement under the guise of regulation",
+"what_it_shows": "Lee moved to block the FCC from requiring AI disclosures in political ads, showing he resists agency-driven AI rules even while saying he supports transparency.",
+"date": "2024-06-18"
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Lee is a longtime Big Tech critic who chairs the Senate antitrust subcommittee, sponsors a bill to break up Google's control of online advertising, and pushes age-verification mandates for app stores and adult sites. His approach is targeted rules and antitrust enforcement rather than sweeping regulation.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Pinterest endorses Lee's App Store Accountability Act",
+"url": "https://www.lee.senate.gov/2025/12/pinterest-endorses-mike-lee-s-app-store-accountability-act-to-protect-kids-online",
+"quote": "App stores need reliable age verification, parental controls, and safeguards against exploitation demanded by concerned parents across America.",
+"what_it_shows": "Lee is pushing a federal mandate that app stores verify ages and get parental consent, a targeted rule on Apple and Google.",
+"date": "2025-12-01"
+},
+{
+"type": "sponsor",
+"title": "S.1586 App Store Accountability Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1586",
+"quote": null,
+"what_it_shows": "Lee's bill makes app stores check users' ages and get parents' permission before kids download apps.",
+"date": "2025-05-01"
+},
+{
+"type": "sponsor",
+"title": "S.1060 AMERICA Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1060",
+"quote": null,
+"what_it_shows": "Lee's bill would stop giant online ad companies like Google from controlling every side of the ad market at once, an aggressive antitrust remedy aimed at Big Tech.",
+"date": "2025-03-13"
+},
+{
+"type": "sponsor",
+"title": "S.737 SCREEN Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/737",
+"quote": null,
+"what_it_shows": "Lee's bill requires adult websites to verify users' ages to keep children out.",
+"date": "2025-02-26"
+},
+{
+"type": "statement",
+"title": "Hawley release: GUARD Act gains new cosponsors (Lee on Big Tech)",
+"url": "https://www.hawley.senate.gov/hawley-bill-to-protect-children-from-ai-chatbots-gains-new-cosponsors/",
+"quote": "The GUARD Act would criminalize targeting minors with fake AI companions and hold big tech accountable for lying to our children.",
+"what_it_shows": "Lee frames tech policy around holding Big Tech accountable for harms to children.",
+"date": "2025-12-10"
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement by Lee for or against preempting state AI laws was found. He voted with 98 other senators to strip the 10-year state AI law moratorium from H.R. 1 in July 2025, but that near-unanimous vote came after the deal collapsed and does not show a position on its own. Searches for his reaction to the December 2025 AI executive order and the March 2026 White House framework found nothing.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the state AI law moratorium from H.R. 1 (Lee voted Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"quote": null,
+"what_it_shows": "Lee voted Yea with 98 other senators to remove the 10-year moratorium on state AI laws; nearly the whole Senate did the same after the compromise fell apart, so this alone is not evidence of a preemption stance.",
+"date": "2025-07-01"
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements by Lee on AI chip export controls, Nvidia sales to China, or the Chip Security Act were found as of September 2026. Searches on Nvidia, export controls, and chips to China returned nothing tied to him.",
+" evidence": [],
+"evidence": []
+}
+},
+"search_notes": "Ran about 16 Google News queries (AI, data center, chatbot/deepfake/App Store, Big Tech/Section 230/antitrust, Nvidia/export controls, preemption/moratorium, AI regulation, GUARD Act, permitting/data centers, FERC/Heinrich, AI executive order) plus two Wayback listings of lee.senate.gov. Verified quotes from E&E News (June 25, July 22, July 23 and Mar 26 2026; Oct 7 2025), Hawley's Dec 10 2025 GUARD Act release, Lee's Dec 1 2025 Pinterest release and his June 18 2024 FCC AI-ad release (via Wayback). The Lee-Heinrich FERC large-load letter page (energy.senate.gov, Nov 19 2025) returned 403 and its archive would not load, so only the title is cited. Salt Lake Tribune articles on Utah reactions to the AI moratorium (June 27 and July 2 2025) and the Dec 2025 AI executive order were paywalled or undecodable, so no Lee statement on preemption could be confirmed. The Google News link decoder and archive.org availability API were rate-limited (429) for much of the session. State-context leads listing Lee on the House AI Task Force, the Casar letter and the BIAS Act appear to be confusions with Reps. Laurel Lee and Summer Lee and were not used. No AI super PAC spending for or against Lee was found (he is not up in 2026)."
+},
+{
+"bioguide": "C001114",
+"name": "John R. Curtis",
+"signature": "Bipartisan kids-and-AI dealmaker on Senate Commerce (CHATBOT Act, SAFE KIDS Act, QUIET Act, Algorithm Accountability Act) who wants Section 230 reformed and pitches Utah as a home for AI infrastructure with better transparency for communities.",
+"notable_quote": {
+"text": "there's a potential role for Congress in certifying certain classes of AI. So, if we do a LEED gold or elite platinum building, I think a system like that would really help both the AI builders and the communities",
+"url": "https://rollcall.com/2026/06/11/data-center-uproar-utah-congress-watching-waiting/",
+"date": "2026-06-11"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Curtis wants Utah to host next-generation AI infrastructure and has pitched the state at a Senate Commerce hearing, but after the Stratos backlash he called the project a local issue, said he lacked data on its water use, and floated a federal certification system because communities do not trust developers. Supportive of building, with conditions.",
+"evidence": [
+{
+"type": "interview",
+"title": "Roll Call: A data center caused an uproar in Utah. Congress is watching (and waiting)",
+"url": "https://rollcall.com/2026/06/11/data-center-uproar-utah-congress-watching-waiting/",
+"quote": "I have almost no data on the water usage. I've heard it's closed-loop, but I don't know that. I don't know anything about the water rights. I just don't have enough information",
+"what_it_shows": "Curtis called the Box Elder County Stratos data center 'a local issue' and declined to take a side, saying he lacked information on its water use.",
+"date": "2026-06-11"
+},
+{
+"type": "interview",
+"title": "Roll Call: Curtis on a federal role in certifying data centers",
+"url": "https://rollcall.com/2026/06/11/data-center-uproar-utah-congress-watching-waiting/",
+"quote": "Most of these decisions are local",
+"what_it_shows": "Curtis said most data center decisions belong to local governments but suggested Congress could create a LEED-style certification for classes of AI facilities because 'right now they don't trust what the AI developers are saying.'",
+"date": "2026-06-11"
+},
+{
+"type": "hearing",
+"title": "Press release: Curtis pushes Utah as future home of more advanced technologies (Senate Commerce AI supply chain hearing)",
+"url": "https://www.curtis.senate.gov/press-releases/curtis-pushes-utah-as-future-home-of-more-advanced-technologies/",
+"quote": "Senator Curtis underscored Utah's readiness to lead the next generation of artificial intelligence infrastructure while advocating for balanced energy policy and AI accessibility for small businesses.",
+"what_it_shows": "At the hearing with Sam Altman and other executives on removing regulatory barriers in the AI supply chain, Curtis's office says he pitched Utah as a site for AI infrastructure; the quoted line is the office's own summary of his remarks.",
+"date": "2025-05"
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Curtis is one of the most active Republicans on targeted AI guardrails: he cosponsored the CHATBOT Act, wrote the SAFE KIDS Act with Sen. Schiff on child-safe AI design, sponsors the QUIET Act requiring AI robocalls to identify themselves, and cosponsors AI labeling, AI toy safety, and copyright disclosure bills. He does not call for broad licensing or a pause.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Curtis, colleagues introduce bill giving parents control over kids' AI chatbot use (CHATBOT Act)",
+"url": "https://www.curtis.senate.gov/press-releases/curtis-colleagues-introduce-bill-giving-parents-control-over-kids-ai-chatbot-use",
+"quote": "Parents deserve both clarity and control over how their children interact with AI chatbots, which are becoming more integrated into their education and everyday lives",
+"what_it_shows": "Curtis co-led a bipartisan bill requiring AI companies to create family accounts, limit manipulative design, and bar targeted ads to children.",
+"date": "2026-04-29"
+},
+{
+"type": "sponsor",
+"title": "S.4855 SAFE KIDS Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4855",
+"quote": null,
+"what_it_shows": "Curtis's bill with Sen. Schiff would make companies build AI features in a way that keeps kids safe and tells parents what is happening.",
+"date": "2026-06-23"
+},
+{
+"type": "statement",
+"title": "Washington Examiner: Senators unveil bipartisan bill to safeguard children from AI chatbots (SAFE KIDS Act)",
+"url": "https://www.washingtonexaminer.com/policy/technology/4621426/senators-bipartisan-bill-safeguard-kids-ai-chatbots-self-harm-concerns/",
+"quote": null,
+"what_it_shows": "The Curtis-Schiff bill would create a federal framework requiring child-safety-by-design, parental controls, no child-targeted advertising, and no sale of children's data.",
+"date": "2026-06-23"
+},
+{
+"type": "statement",
+"title": "Curtis newsletter: Highs and Lows, Cracking Down on AI Robocalls (QUIET Act)",
+"url": "https://www.curtis.senate.gov/newsletters/highs-and-lows-cracking-down-on-ai-robocalls",
+"quote": "we're working on a bill to make sure that if you get a robocall, you actually know if you are talking to a real person or AI",
+"what_it_shows": "Curtis sponsors the QUIET Act, an AI disclosure mandate for robocalls with higher fines.",
+"date": "2025-12-05"
+},
+{
+"type": "cosponsor",
+"title": "S.4915 AI Labeling Act of 2026 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4915",
+"quote": null,
+"what_it_shows": "Cosponsored a bill requiring AI-made pictures, videos, and text to carry a clear label.",
+"date": "2026-06-24"
+},
+{
+"type": "cosponsor",
+"title": "S.3813 CLEAR Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3813",
+"quote": null,
+"what_it_shows": "Cosponsored a bill making AI companies disclose which copyrighted works they used to train models.",
+"date": "2026-02-10"
+},
+{
+"type": "cosponsor",
+"title": "S.5171 Children's Artificial Intelligence Toy Safety Act of 2026 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5171",
+"quote": null,
+"what_it_shows": "Cosponsored safety rules for toys that talk to kids using AI.",
+"date": "2026-07-30"
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Curtis wants to narrow Section 230 by imposing a duty of care on companies whose recommendation algorithms cause harm, and he cosponsors the Kids Online Safety Act, Kids Off Social Media Act, and the TAKE IT DOWN Act. He pairs this with calls to stay out of the way of Utah's tech startups, so his approach is targeted rules rather than break-ups.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Curtis, Kelly introduce Algorithm Accountability Act",
+"url": "https://www.curtis.senate.gov/press-releases/curtis-kelly-introduce-algorithm-accountability-act",
+"quote": "What began as a commonsense protection for a fledgling industry has grown into a blanket immunity shield for some of the most powerful companies on the planet",
+"what_it_shows": "Curtis's bill amends Section 230 to impose a duty of care on companies using recommendation algorithms and gives injured people a right to sue in federal court.",
+"date": "2025-11-19"
+},
+{
+"type": "sponsor",
+"title": "S.3193 Algorithm Accountability Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3193",
+"quote": null,
+"what_it_shows": "Curtis's bill makes social media companies more responsible for harm their recommendation algorithms cause.",
+"date": "2025-11-18"
+},
+{
+"type": "hearing",
+"title": "Press release: Curtis presses tech giants on algorithms (Senate Commerce hearing with Google and Meta)",
+"url": "https://www.curtis.senate.gov/press-releases/curtis-presses-tech-giants-on-algorithms",
+"quote": "But when an algorithm downranks speech or drives users towards extremism because it's good for engagement, is that really good faith moderation?",
+"what_it_shows": "Curtis challenged Google and Meta on whether Section 230 should shield algorithmic amplification, signaling support for narrowing the law.",
+"date": "2025-10-29"
+},
+{
+"type": "statement",
+"title": "Press release: Curtis calls for reforming social media algorithms at UVU town hall",
+"url": "https://www.curtis.senate.gov/press-releases/curtis-calls-for-lowering-political-temperature-reforming-social-media-algorithms-at-uvu-townhall",
+"quote": "when a company chooses to amplify or suppress content, they should own the consequences",
+"what_it_shows": "At a CNN town hall Curtis said platforms should be liable when their algorithms cause harm while preserving free speech.",
+"date": "2025-11-14"
+},
+{
+"type": "cosponsor",
+"title": "S.1748 Kids Online Safety Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"quote": null,
+"what_it_shows": "Cosponsored the leading kids' online safety bill requiring platforms to build in safety tools for minors.",
+"date": "2025-07-31"
+},
+{
+"type": "hearing",
+"title": "Press release: Curtis on Silicon Slopes at Lutnick confirmation hearing",
+"url": "https://www.curtis.senate.gov/press-releases/curtis-chinas-deepseek-ai-model-is-tiktok-on-steroids",
+"quote": "how we not only support them with government problems, but how we kind of stay out of their way and let them be successful",
+"what_it_shows": "Contrary note: Curtis said Utah tech companies feel regulation and taxation are 'killing us' and asked how government can stay out of their way, showing a light-touch instinct toward startups.",
+"date": "2025-01-29"
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement by Curtis for or against preempting state AI laws was found. He voted with 98 other senators to strip the state AI law moratorium from H.R. 1 in July 2025, which does not show a position on its own. His Algorithm Accountability Act release quotes Gov. Cox calling for a national standard on algorithms, but that is Cox's view, and Curtis has not spoken on the December 2025 executive order or the March 2026 framework in anything found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the state AI law moratorium from H.R. 1 (Curtis voted Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"quote": null,
+"what_it_shows": "Curtis voted Yea with 98 other senators to remove the 10-year moratorium on state AI laws; the vote was nearly unanimous after the deal collapsed and is not evidence of a stance by itself.",
+"date": "2025-07-01"
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Curtis has not spoken on AI chip export controls or Nvidia sales specifically. He is hawkish on Chinese AI more broadly, calling DeepSeek 'TikTok on steroids' and questioning claims it was built cheaply, and he cosponsors a ban on Chinese-linked connected car technology, so he leans toward tighter controls.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Press release: Curtis: China's DeepSeek AI model is 'TikTok on steroids' (Lutnick confirmation hearing)",
+"url": "https://www.curtis.senate.gov/press-releases/curtis-chinas-deepseek-ai-model-is-tiktok-on-steroids",
+"quote": "can we acknowledge this is TikTok on steroids, right? If we're worried about the influence of the CCP on America with TikTok, this is on steroids.",
+"what_it_shows": "Curtis treated China's DeepSeek model as a national security threat and said 'Color me skeptical' about claims China built it cheaper and better on its own merits.",
+"date": "2025-01-29"
+},
+{
+"type": "cosponsor",
+"title": "S.4429 Connected Vehicle Security Act of 2026 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"quote": null,
+"what_it_shows": "Cosponsored a ban on selling connected cars and car software made by companies tied to China, Russia, Iran, or North Korea, a China-tech restriction adjacent to the chips debate.",
+"date": "2026-06-09"
+}
+]
+}
+},
+"search_notes": "Ran about 12 Google News queries (AI, data center, chatbot/Big Tech/Section 230, Nvidia/export controls, preemption/moratorium, AI regulation, SAFE KIDS/CLEAR/AI Labeling, ratepayers, Silicon Slopes) plus a Wayback listing of curtis.senate.gov. Verified quotes from Roll Call (June 11 2026), the Cruz-Schatz-Curtis-Schiff CHATBOT Act release (Apr 29 2026), the Algorithm Accountability Act release (Nov 19 2025), the Oct 29 2025 algorithms hearing release, the Nov 14 2025 UVU town hall release, the Dec 5 2025 QUIET Act newsletter, the Jan 29 2025 DeepSeek release, and the Washington Examiner SAFE KIDS story (June 23 2026); senate.gov pages were read through direct Wayback snapshots because the site returns 403. The Stargate hearing release could only be read in its archived embed summary, so the quote there is the office's description, not Curtis's own words. The Utah News Dispatch July 7 2026 story on Curtis calling for federal transparency standards (quote in state context: 'The information, many people don't trust') returned 403 with no archive copy, so it is not cited; Roll Call covers the same stance. Salt Lake Tribune coverage of the QUIET Act and of Utah reactions to the AI moratorium was paywalled. No AI super PAC spending for or against Curtis was found (he is not up in 2026)."
+},
+{
+"bioguide": "M001213",
+"name": "Blake D. Moore",
+"signature": "House sponsor of the GUARD Act and an AI-toy ban who defended Box Elder County's approval process for the Stratos data center while calling for local input and lower, not higher, energy prices.",
+"notable_quote": {
+"text": "While our AI development agenda should seek to innovate and break barriers, it must also protect children from addictive and manipulative technology",
+"url": "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-introduces-bipartisan-bill-protecting-children-from-ai-companion-chatbots",
+"date": "2026-04-30"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Moore says Utah is a prime location for data centers, backs faster permitting and siting them next to power plants, and voted for the SPEED Act permitting bill. On the Stratos project in his district he defended county officials, did not endorse or oppose the project, and said tech companies must answer to residents and lower, not raise, energy prices. Build, with conditions.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Representatives Moore, Costa introduce legislation to study impact of AI in rural America (Unleashing Low-Cost Rural AI Act)",
+"url": "https://blakemoore.house.gov/media/press-releases/representatives-moore-costa-introduce-legislation-to-study-impact-of-artificial-intelligence-in-rural-america",
+"quote": "As a leader in both tech and energy innovation, Utah is a prime location for data centers and AI infrastructure.",
+"what_it_shows": "Moore wants to identify rural areas ready for data centers, streamline permitting for new energy projects, and co-locate data centers with power plants, saying this will meet demand 'without passing costs on to families.'",
+"date": "2025-09-16"
+},
+{
+"type": "cosponsor",
+"title": "H.R.5227 Unleashing Low-Cost Rural AI Act (original cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5227",
+"quote": null,
+"what_it_shows": "Cosponsored a study of how AI data center growth in rural areas affects energy supply, reliability, and consumer costs.",
+"date": "2025-09-09"
+},
+{
+"type": "statement",
+"title": "Deseret News: Blake Moore, Karianne Lisonbee respond to massive data center project",
+"url": "https://www.deseret.com/politics/2026/05/07/utah-candidates-on-data-center-proposal/",
+"quote": "I am hopeful that with local collaboration this project will be able to balance responsible stewardship of natural resources and water, while continuing Northern Utah's long legacy of being a critical component of our nation's security.",
+"what_it_shows": "Moore broke his silence on the Stratos data center by defending the county commissioners who approved it and voicing hope the project can protect water while serving national security, without endorsing or opposing it.",
+"date": "2026-05-07"
+},
+{
+"type": "statement",
+"title": "Semafor: How a data center backlash is twisting Utah's primary",
+"url": "https://www.semafor.com/article/06/23/2026/how-a-data-center-backlash-is-twisting-utahs-primary",
+"quote": "need to respond to citizens' feedback, show how they're going to invest in natural resources, and help lower, not increase, energy prices for impacted areas. We should empower the local areas making these decisions, not attempt to avoid tough conversations.",
+"what_it_shows": "Under primary attack over Stratos, Moore set conditions on tech companies (respond to residents, invest in resources, lower energy prices) while keeping decisions local.",
+"date": "2026-06-23"
+},
+{
+"type": "vote",
+"title": "House roll call 356: passage of the SPEED Act permitting reform bill (Moore voted Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"what_it_shows": "Moore voted for the SPEED Act, which speeds federal environmental permitting for energy and infrastructure projects that data centers depend on; the vote was confirmed in the House Clerk's roll call record.",
+"date": "2025-12-18"
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Moore sponsors the House GUARD Act to ban AI companion chatbots for minors and a bill to ban AI chatbots in children's toys, and he cosponsors the DEFIANCE Act on AI sexual deepfakes. He frames this as restraining AI where it harms children while still wanting America to lead in AI development.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Congressman Blake Moore introduces bipartisan bill protecting children from AI companion chatbots (GUARD Act)",
+"url": "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-introduces-bipartisan-bill-protecting-children-from-ai-companion-chatbots",
+"quote": "The GUARD Act is a critical step to draw lines in the sand with Big Tech",
+"what_it_shows": "Moore introduced the House companion to Hawley's GUARD Act, which bans AI companions for minors, requires chatbots to disclose they are not human, and creates criminal penalties.",
+"date": "2026-04-30"
+},
+{
+"type": "statement",
+"title": "NBC News: Momentum builds in Congress to ban AI chatbots for kids",
+"url": "https://www.nbcnews.com/politics/congress/momentum-builds-congress-ban-ai-chatbots-kids-rcna342584",
+"quote": "Parents and policymakers alike need to ground our children's development in real-world interactions rather than push them further into the unaccountable black hole of frontier technology",
+"what_it_shows": "National coverage of Moore's House GUARD Act introduction the same day the Senate Judiciary Committee advanced the Senate version.",
+"date": "2026-04-30"
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Blake Moore introduces bill to ban AI chatbots in children's toys",
+"url": "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-introduces-bill-to-ban-artificial-intelligence-chatbots-in-childrens-toys",
+"quote": "Every aspect of how we adopt artificial intelligence must be human-centric. America will continue to compete, innovate, and strive to break barriers in AI development, but we must prioritize basic ethics",
+"what_it_shows": "Moore's AI Children's Toy Safety Act would ban making or selling any children's toy with a built-in AI chatbot, citing privacy, addiction, and exposure to explicit content.",
+"date": "2026-04-20"
+},
+{
+"type": "sponsor",
+"title": "H.R.8382 AI Children's Toy Safety Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8382",
+"quote": null,
+"what_it_shows": "Moore's bill bans selling toys and other kids' products with an AI chatbot built in.",
+"date": "2026-04-20"
+},
+{
+"type": "cosponsor",
+"title": "H.R.3562 DEFIANCE Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"quote": null,
+"what_it_shows": "Cosponsored a bill letting people sue anyone who makes or shares AI sexual deepfakes of them.",
+"date": "2026-07-20"
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Moore says Congress has paid too much deference to tech and social media companies and wants lines drawn with Big Tech on children's safety. His record is targeted kids' bills: the SCREEN Act age-verification bill and, in the last Congress, the Kids Online Safety Act and the children's privacy update.",
+"evidence": [
+{
+"type": "interview",
+"title": "NOTUS (via Washington Sun): Will Trump's AI Agenda Backfire?",
+"url": "https://www.notus.org/technology/republicans-trump-ai-agenda",
+"quote": "We pay too much deference to the tech world and social media firms on letting them run rampant",
+"what_it_shows": "In a story on Republican unease with the Trump AI agenda, Moore said Congress defers too much to tech and social media companies and pointed to parent movements against phones in schools.",
+"date": "2025-12-18"
+},
+{
+"type": "cosponsor",
+"title": "H.R.1623 SCREEN Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"quote": null,
+"what_it_shows": "Cosponsored a bill requiring adult websites to check users' ages.",
+"date": "2025-09-18"
+},
+{
+"type": "cosponsor",
+"title": "H.R.7891 Kids Online Safety Act, 118th Congress (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"quote": null,
+"what_it_shows": "Cosponsored the House version of KOSA requiring apps to protect kids from harmful content and addictive design.",
+"date": "2024-07-26"
+},
+{
+"type": "cosponsor",
+"title": "H.R.7890 Children and Teens' Online Privacy Protection Act, 118th Congress (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7890",
+"quote": null,
+"what_it_shows": "Cosponsored the update to the children's online privacy law limiting data collection and targeted ads to kids and teens.",
+"date": "2024-07-25"
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement by Moore for or against preempting state AI laws was found. He voted for the House version of H.R. 1 in May 2025 while it still contained the 10-year moratorium on state AI laws, but that was a party-line vote on the whole tax and spending package and does not show a position on preemption. Nothing was found on the December 2025 executive order or the March 2026 framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: passage of H.R. 1 with the state AI law moratorium still included (Moore voted Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"quote": null,
+"what_it_shows": "Moore voted for the House-passed megabill that at the time included the 10-year moratorium on state AI laws; it was a party-line vote on a huge package, so it is weak evidence at most. Confirmed in the House Clerk's roll call record.",
+"date": "2025-05-22"
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Moore has not spoken on AI chip export controls or Nvidia sales to China. He cosponsors the No DeepSeek on Government Devices Act and sponsors the STAR Act to bring chip design and manufacturing home, citing national security and competition with China, so he leans hawkish on China and AI but the chip-specific record is thin.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.1121 No DeepSeek on Government Devices Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"quote": null,
+"what_it_shows": "Cosponsored a bill to remove the Chinese AI app DeepSeek from all federal devices.",
+"date": "2025-02-07"
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Blake Moore reintroduces legislation to bolster American semiconductor R&D (STAR Act)",
+"url": "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-reintroduces-legislation-to-bolster-american-semiconductor-randd",
+"quote": "Semiconductors are the linchpin to the technologies of the future in countless sectors, from health care to defense to energy, and they are critical to U.S. national security and global competitiveness",
+"what_it_shows": "Moore's STAR Act would add a 25 percent tax credit for chip design R&D and extend the chip manufacturing credit for 10 years to keep chip intellectual property in the United States.",
+"date": "2025-01-28"
+},
+{
+"type": "sponsor",
+"title": "H.R.802 STAR Act of 2025 (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"quote": null,
+"what_it_shows": "Moore's bill extends and expands the tax break for companies that build and design computer chips in America.",
+"date": "2025-01-28"
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Blake Moore's statement on the CHIPS+ Act (2022 vote)",
+"url": "https://blakemoore.house.gov/media/press-releases/congressman-blake-moores-statement-chips-act",
+"quote": "Today I voted no on the Chips and Science bill, or the CHIPS+ Act.",
+"what_it_shows": "Context: Moore opposed the 2022 CHIPS Act on spending grounds even while backing chip tax credits, so his chips stance is about industrial policy and cost rather than export controls.",
+"date": "2022-07-28"
+}
+]
+}
+},
+"search_notes": "Ran about 11 Google News queries (AI, data center, chatbot/deepfake/KOSA, semiconductor/chips/China, preemption/AI regulation/executive order, AI super PACs, DeepSeek/export controls, AI caucus) plus a Wayback listing of blakemoore.house.gov and his committees-and-caucuses page (no AI caucus listed; co-chairs Future Caucus, DOGE Caucus, AUKUS Working Group; House Republican Conference Vice Chair). Verified quotes from Deseret News (May 7 2026), Semafor (June 23 2026), NBC News (Apr 30 2026), NOTUS/Washington Sun (Dec 18 2025), and his own releases on the GUARD Act, AI toy ban, Rural AI Act, STAR Act and 2022 CHIPS vote. Votes confirmed in House Clerk roll calls 356 (SPEED Act) and 145 (H.R. 1), cited with govtrack URLs. Could not open the Cache Valley Daily May 5 2026 story 'Rep. Moore raises AI concerns as Box Elder data center debate continues' (Google News link undecodable, site rate-limited), the Deseret June 1 2026 debate story, the KUER/Utah News Dispatch Moore-Lisonbee pieces (403), or the fedscoop story on his LASER Act. The Deseret June 9 2026 story on $1.3 million in AI super PAC spending in Utah primaries does not mention Moore, so no AI PAC support or attack on him was found; the Utah Political Watch 'mystery PAC' attack ads were not AI-related."
+}
+]

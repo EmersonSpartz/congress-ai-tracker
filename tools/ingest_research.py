@@ -38,8 +38,9 @@ for path in sys.argv[1:]:
                     members += r['members']
                 elif isinstance(r, dict) and r.get('bioguide') and 'checks' in r:
                     ver.append(r)
+        wf_tag = os.path.basename(os.path.dirname(os.path.abspath(path)))  # workflow run id keeps tags unique across runs
         by_group = collections.defaultdict(list)
-        for m in members: by_group[m.pop('_group', 'journal')].append(m)
+        for m in members: by_group[wf_tag + '__' + m.pop('_group', 'journal')].append(m)
         vmap = {v['bioguide']: v for v in ver}
         for g, ms in by_group.items():
             a, b = write_group(g, ms, [vmap[m['bioguide']] for m in ms if m.get('bioguide') in vmap])

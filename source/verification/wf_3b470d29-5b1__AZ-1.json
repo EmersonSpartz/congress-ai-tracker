@@ -1,0 +1,325 @@
+[
+{
+"bioguide": "G000574",
+"checks": [
+{
+"url": "https://www.phoenixnewtimes.com/news/arizona-sen-gallego-supports-nixing-tax-breaks-data-centers-40665119/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-07",
+"note": "Item 1. Quote appears verbatim; article also has him saying data centers 'should be bringing their own energy or compensating the individual rate payer for that.' Article dated May 7, 2026."
+},
+{
+"url": "https://www.phoenixnewtimes.com/news/arizona-sen-gallego-supports-nixing-tax-breaks-data-centers-40665119/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-07",
+"note": "Item 2. Quote verbatim; article confirms 'The amount (of data centers) that are coming in is a problem to me,' calls some Valley data centers 'abusive', supports rolling back the 2013 state tax exemption, and notes he believes the economy's future will be driven by AI."
+},
+{
+"url": "https://www.gallego.senate.gov/press-releases/senator-gallego-announces-his-plan-to-lower-energy-costs-and-spur-innovation",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Item 3. Reached via Wayback (Dec 2025 capture); quote appears verbatim and plan's five pillars lead with 'Emphasize Affordability'. Could not verify the 'Energy Subcommittee ranking member' framing on the page (Wayback dropped before a second grep), and the page does not mention data centers; the link to data-center growth is the tracker's inference."
+},
+{
+"url": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-09",
+"note": "Item 4. Quote verbatim; article says Gallego sent a letter to Thune and Schumer urging a bipartisan Senate Select Committee on AI at the start of the next Congress, in the wake of the Anthropic researcher's warning."
+},
+{
+"url": "https://defensescoop.com/2026/06/15/lawmaker-questions-pentagons-plan-to-revise-autonomous-weapons-policy/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-15",
+"note": "Item 5. Quote verbatim from the letter to Hegseth; article describes the NSPM-11 90-day mandate to rewrite Directive 3000.09 and Gallego pressing on risks of swift revisions."
+},
+{
+"url": "https://www.gallego.senate.gov/press-releases/gallego-backs-bipartisan-bill-protecting-children-from-ai-chatbots",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-31",
+"note": "Item 6. Reached via Wayback (site 403s directly). Quote verbatim; release says the GUARD Act 'would ban AI companions for minors, mandate AI chatbots disclose its non-human status'."
+},
+{
+"url": "https://www.bennet.senate.gov/2025/08/20/bennet-schatz-colleagues-press-meta-for-safeguards-around-childrens-engagement-with-ai-chatbots/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-08-20",
+"note": "Item 7. Site 403s and Wayback was intermittently refused; one successful fetch confirmed Gallego is listed among the ten signers of the bipartisan letter to Zuckerberg on AI chatbots and children. Could not retrieve the exact 'wellbeing of children' sentence or the targeted-ads demand in the fetch output, so the quote is unverified."
+},
+{
+"url": "https://www.healthcaredive.com/news/senate-democrats-roll-back-medicare-ai-prior-authorization-pilot-wiser/820728/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-20",
+"note": "Item 8. Article confirms the CRA resolution to end the WISeR AI prior-authorization model and lists Gallego among 20 senators signed on; Democrats argue the model delays or denies care."
+},
+{
+"url": "https://www.gallego.senate.gov/press-releases/gallego-backs-bipartisan-bill-protecting-children-from-ai-chatbots",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-31",
+"note": "Item 9. Quote verbatim (same release as item 6, via Wayback)."
+},
+{
+"url": "https://www.gallego.senate.gov/news/press-releases/gallego-statement-on-impending-tiktok-ban",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-16",
+"note": "Item 10. Reached via Wayback. Quote verbatim; statement continues 'That is why I believe we must extend the deadline to find this balanced approach.' The 'more cautious than most of the Senate' comparison is the tracker's characterization, not on the page."
+},
+{
+"url": "https://www.phoenixnewtimes.com/news/arizona-sen-gallego-supports-nixing-tax-breaks-data-centers-40665119/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-07",
+"note": "Item 11 (notable quote). Verbatim in the article."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "K000377",
+"checks": [
+{
+"url": "https://qz.com/mark-kelly-tech-fund-ai-chandler",
+"verdict": "confirmed",
+"corrected_quote": "And I think what happened in Chandler and in Tucson shows that companies need to work with these communities upfront.",
+"corrected_date": null,
+"note": "Fetch tool and WebFetch got 403 and Wayback refused connections; loaded via Chrome. Quote appears verbatim (preceded by 'And'). Preceding sentence: 'I think the community does get a say and they showed that in Chandler, that they get to decide.' Claim matches. Article undated on page; internal cues (Chandler rejection 'earlier this month', OpenAI bailout floated 'in November', roadmap 'in September') point to roughly Dec 2025."
+},
+{
+"url": "https://qz.com/mark-kelly-tech-fund-ai-chandler",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim (continues '...where we can reap some significant benefits in scientific discovery...'). Article also says Kelly believes AI can be developed 'while ensuring locals aren't on the hook and paying more for electricity.' Claim supported."
+},
+{
+"url": "https://broadbandbreakfast.com/kelly-outlines-his-vision-for-ai-regulation/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-11",
+"note": "Quote verbatim including ellipsis. Page confirms AI Horizon Fund pools funds from data center companies for grid upgrades so ratepayers don't bear costs, the '50,000 homes' remark, and the 'handshake deal' characterization of Trump's Rate Payer Protection Pledge (via an X post)."
+},
+{
+"url": "https://www.yahoo.com/news/politics/articles/mark-kelly-slams-trump-over-220029724.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "Quote verbatim. Article (published Mon May 25, 2026) attributes it to 'Kelly's Friday post on X' = May 22. Confirms he called the reversal a 'failure', that the order would have set up a voluntary pre-release risk assessment process, and that it was abandoned after pushback from tech executives."
+},
+{
+"url": "https://thehill.com/homenews/senate/6008642-democrats-demand-transparency-ai-policy/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-03",
+"note": "Kelly named as a signer. Quote verbatim. Article (Aug 4, 2026) says letter sent Monday (Aug 3); mentions Anthropic removing two models under a directive, OpenAI models hacking Hugging Face, and the call for a durable framework."
+},
+{
+"url": "https://www.kelly.senate.gov/newsroom/press-releases/kelly-secures-ai-oversight-provisions-in-annual-intelligence-bill-passed-out-of-committee",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-27",
+"note": "Fetch tool got 403; loaded via Chrome. Quote verbatim. Page lists Kelly amendments: report on newly considered AI uses, DNI review of AI in targeting workflows, marking of AI outputs, IARPA studies on AI-on-AI attacks and inadvertent escalation."
+},
+{
+"url": "https://gilaherald.com/kelly-justice-introduce-bipartisan-senior-chatbot-protection-act-to-safeguard-older-americans-from-ai-scams/",
+"verdict": "confirmed",
+"corrected_quote": "But seniors need to know when they're talking to a machine, what its limits are, and how their information is being used to make sure they aren't being scammed or put at risk.",
+"corrected_date": "2026-07-24",
+"note": "Quote verbatim (preceded by 'But'). Kelly's preceding sentence praises AI helping seniors live independently; bill requires explicit disclosures, prohibits portraying chatbots as human, bans predatory design. Claim supported."
+},
+{
+"url": "https://fedscoop.com/federal-ai-policy-labor-workforce-afl-cio-white-house-letter/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-08",
+"note": "Quote verbatim, attributed to Kelly and Fitzpatrick letter. Article confirms collective bargaining 'must be a central avenue' and AFL-CIO blueprint including retraining and worker role in AI decisions."
+},
+{
+"url": "https://qz.com/mark-kelly-tech-fund-ai-chandler",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim. Article describes his roadmap's AI Horizon Fund: tax frontier AI companies if they kill jobs, fund retraining and grid upgrades; his stated concern is job displacement (cites McKinsey 12M estimate)."
+},
+{
+"url": "https://reason.org/commentary/democrats-pivot-on-ai-less-regulation-more-redistribution/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-14",
+"note": "Reason Foundation commentary says Kelly's AI for America plan 'departs from other federal AI policy proposals introduced by Democrats, which emphasized strong regulation of AI model development and deployment' and instead calls for an AI Horizon Fund funded by taxes on large AI companies. Matches claim."
+},
+{
+"url": "https://qz.com/mark-kelly-tech-fund-ai-chandler",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim, closing the article after mentions of Hawley's chatbot-companion bill (which he was considering co-sponsoring) and working with Sen. Curtis on a bill to regulate social media algorithms, framed under bipartisan cooperation on AI."
+},
+{
+"url": "https://broadbandbreakfast.com/kelly-outlines-his-vision-for-ai-regulation/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-11",
+"note": "Subhead: 'wants to prevent a repeat of Congress's failures on social media oversight'; body: wants Congress involved now and 'doesn't feel the same regret it feels on social media.'"
+},
+{
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-16",
+"note": "Kelly is a named signer of the joint statement. Quote verbatim. Statement says deals lack 'credible security assurances to prevent U.S. adversaries from accessing those chips' and references restricting chips from China or those granting remote access to China."
+},
+{
+"url": "https://thehill.com/homenews/senate/6008642-democrats-demand-transparency-ai-policy/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-03",
+"note": "Quote verbatim; Kelly is a signer. Note the letter concerns access restrictions on advanced AI MODELS (Anthropic/OpenAI), not chip export controls; it argues uncertain rules create an opening for China. Claim's framing is accurate but it is weak evidence for a chips score."
+},
+{
+"url": "https://www.yahoo.com/news/politics/articles/mark-kelly-slams-trump-over-220029724.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "Verbatim; from Kelly's May 22, 2026 X post as reported by Benzinga/Yahoo."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only chip-specific source is a May 2025 joint statement (with six other members) objecting to Gulf chip exports lacking security assurances; the other source is about access to AI models, not chips, and warns that ad hoc restrictions push customers toward Chinese models. That supports a hawkish lean, not the strongest 'Tighten export controls' position, which would need Kelly-led legislation or statements calling for broader/tighter controls.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+}
+]
+},
+{
+"bioguide": "S001183",
+"checks": [
+{
+"url": "https://azcapitoltimes.com/news/2026/06/18/biggs-schweikert-skip-the-fireworks-in-tame-gop-governor-debate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-18",
+"note": "Article (June 18, 2026) says Biggs 'pledged to eliminate tax incentives for data centers' and notes Hobbs' three-year moratorium; Schweikert appears throughout but is never quoted on data centers, exactly as the claim states. Note the page therefore contains no Schweikert data-center position."
+},
+{
+"url": "https://schweikert.house.gov/2025/03/27/were-in-trouble-congressman-david-schweikert-on-ai-adoption-societal-resistance-on-regulating-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-03-27",
+"note": "Quote appears verbatim (attributed with typo 'Schweirkert'). Page says he 'remained optimistic, asserting that market economies will adapt' on job displacement and that regulations should be 'flexible enough' and 'not stifle innovation'. It is a reposted Regulating AI podcast summary, not direct transcript."
+},
+{
+"url": "https://schweikert.house.gov/2025/03/27/were-in-trouble-congressman-david-schweikert-on-ai-adoption-societal-resistance-on-regulating-ai/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-03-27",
+"note": "Quote appears verbatim. Page says on deepfakes he 'called for increased public skepticism' and 'We need a more educated and questioning public to combat the dangers of manipulated media.' But the page does not say he rejected new rules; it also says he 'underscored the importance of international cooperation in AI regulation' to curb malicious use. The 'rather than new rules' framing is an inference not stated on the page."
+},
+{
+"url": "https://schweikert.house.gov/issues/innovation-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim in the health-AI passage. Page repeatedly says 'The broader adoption of AI can make government better, faster, and cheaper.' Framing of regulatory lag as something to build around matches the text."
+},
+{
+"url": "https://schweikert.house.gov/2025/09/26/congress-votes-yay-on-rep-schweikerts-ndaa-amendments-2025/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-26",
+"note": "Quote appears verbatim. Amendment 620 directs DoD to use AI in auditing financial statements; Amendment 621 requires DoD to leverage AI in managing weapons inventory systems. Adopted into FY2026 NDAA."
+},
+{
+"url": "https://schweikert.house.gov/2025/02/05/healthy-technology-act-of-2025-ai-prescribing-bill-introduced-in-congress/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-05",
+"note": "Reposted article (dated Feb 5, 2025) describes H.R. 238, introduced Jan 7, 2025, allowing AI to qualify as a prescriber if (1) FDA approved/cleared/authorized and (2) the state authorizes its use. 'Aggressive pro-adoption stance' is the tracker's characterization but consistent with the page."
+},
+{
+"url": "https://schweikert.house.gov/issues/innovation-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim. Page describes H.R. 8929 User Data Protection Act: no cookies/collection without consent, data treated as 'an exclusive property right owned by the user', enforcement by FTC, state attorneys general, and private right of action."
+},
+{
+"url": "https://schweikert.house.gov/2025/03/27/were-in-trouble-congressman-david-schweikert-on-ai-adoption-societal-resistance-on-regulating-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-03-27",
+"note": "Headline quote appears verbatim on the page (attribution misspelled 'Schweirkert')."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only data_centers source is the gubernatorial debate article, which explicitly notes Schweikert took no position on data centers (only Biggs pledged to end tax incentives). There is no evidence on this page or any other cited item for a 'Build with conditions' stance; the score should be null until a Schweikert-specific source is found.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "C001132",
+"checks": [
+{
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-18",
+"note": "Quote appears verbatim as Rep. Crane's question to Mr. Hammond; page also confirms he asked about balancing AI use with preparing young Americans for the workforce. He states no position of his own."
+},
+{
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-18",
+"note": "Quote appears verbatim. Crane frames Chinese/Russian bot misinformation as something federal agencies should act on; that is a question, not a stated policy position, so the claim is a fair but soft inference."
+},
+{
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-18",
+"note": "Quote appears verbatim. Witness Hammond, not Crane, says the US should stop selling China and Russia the H20 chips. Crane offers no view on chip exports, exactly as the claim states."
+},
+{
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-18",
+"note": "Headline quote appears verbatim on the page, attributed to Rep. Crane."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only chip-export content in the sources is witness Hammond's answer about H20 chips; Crane himself expresses no view on export controls. A -1 score is attributed to a witness's opinion, not the member's. Evidence too thin for any position.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "data_centers",
+"objection": "None of the sourced items mention data centers, energy, or ratepayers. No evidence supports a +1 'Build with conditions' score.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "preemption",
+"objection": "None of the sourced items touch state vs. federal AI regulation or preemption. No evidence supports a +1 'Leans national rule' score.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

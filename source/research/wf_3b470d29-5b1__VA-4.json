@@ -1,0 +1,153 @@
+[
+{
+"bioguide": "W000831",
+"name": "James R. Walkinshaw",
+"signature": "Freshman government-IT and federal-workforce Democrat (Gerry Connolly's former chief of staff) who pushes safe but faster AI adoption inside government and stronger CISA cyber defenses, and cosponsors modest AI guardrail bills; no public stance found on data centers, state-law preemption or chip exports.",
+"notable_quote": {
+"text": "We can achieve that if we can deploy the most advanced AI models across our government and across our economy faster than the attackers can deploy theirs",
+"date": "2026-05-21",
+"url": "https://www.meritalk.com/articles/bacon-walkinshaw-push-congress-to-strengthen-cisa-amid-rising-ai-cyber-threats/"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (member, 119th Congress)",
+"Congressional Cybersecurity Caucus (member)",
+"Cloud Computing Caucus (member)",
+"Congressional Digital Trade Caucus (member)",
+"New Democrat Coalition (member)",
+"Congressional Federal Workforce Caucus (co-chair and founder)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement on data centers found as of Sept 2026, even though he represents part of Northern Virginia's data center region. The record shows only indirect leans: he is an original cosponsor of the Democrats' Energy Bills Relief Act and voted against the SPEED Act permitting bill, but he did not join the Ratepayer Protection Act, the Protecting Families from AI Data Center Energy Costs Act, the AI Environmental Impacts Act, or the New Democrat and Mullin data center letters.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor of H.R. 7977, the Energy Bills Relief Act (Casten)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "He signed on at introduction to a 421-page House Democratic package aimed at lowering household energy bills; its sponsors describe it as addressing costs from large new electricity users, but this researcher could not confirm data-center-specific language in the text, so it is only a weak affordability lean."
+},
+{
+"type": "vote",
+"title": "Voted Nay on H.R. 4776, the SPEED Act (NEPA permitting reform), Roll Call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted with most Democrats against a permitting-reform bill that backers promoted as speeding energy and AI infrastructure; the bill is not data-center-specific, so this is a party-line signal rather than a stated position."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Mixed but leaning toward targeted guardrails. He cosponsors small bills that would have agencies write AI rules for the sectors they already oversee and make companies report AI-driven layoffs, while also backing pro-innovation bills like the CREATE AI Act. In his own words he mostly talks about deploying advanced AI in government safely and quickly, and about AI making cyberattacks easier; he has not spoken about frontier-AI dangers, licensing or a pause.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 9125, the Sectoral AI Governance Act of 2026 (Jacobs)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9125",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "Joined a three-cosponsor bill letting each federal agency issue rules on algorithmic decision systems that could break laws it already enforces, a sector-by-sector approach to AI oversight."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 9352, the AI-Related Job Impacts Clarity Act (Horsford)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9352",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "Supports requiring companies to report layoffs caused by AI so the government can track job losses, a transparency-style guardrail on AI's labor effects."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 2385, the CREATE AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2026-06-03",
+"quote": null,
+"what_it_shows": "Backs a national shared computing and data resource for AI researchers and students, a pro-research, pro-innovation measure rather than a restriction."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7576, the AI Workforce Training Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7576",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "Supports a tax break for businesses that train workers to use AI, signaling he wants AI adoption paired with worker upskilling."
+},
+{
+"type": "statement",
+"title": "MeriTalk: Bacon, Walkinshaw push Congress to strengthen CISA amid rising AI cyber threats (National Cyber Innovation Forum remarks)",
+"url": "https://www.meritalk.com/articles/bacon-walkinshaw-push-congress-to-strengthen-cisa-amid-rising-ai-cyber-threats/",
+"date": "2026-05-21",
+"quote": "We can achieve that if we can deploy the most advanced AI models across our government and across our economy faster than the attackers can deploy theirs",
+"what_it_shows": "He frames frontier models like Anthropic's Mythos as widening the cyberattack surface for soft targets, and his answer is faster government deployment of advanced AI plus a rebuilt CISA, not new limits on the models."
+},
+{
+"type": "interview",
+"title": "GovCIO Media: Virginia congressman highlights IT, cybersecurity shutdown challenges (PSC Defense Conference roundtable)",
+"url": "https://govciomedia.com/virginia-congressman-highlights-it-cybersecurity-shutdown-challenges/",
+"date": "2025-10-31",
+"quote": "I’m working on a modernized modernization scorecard for federal IT that drives AI adoption in a safe and responsible way",
+"what_it_shows": "His main AI project is a FITARA-style scorecard pushing agencies to adopt AI, with safety and responsibility as conditions rather than as reasons to slow down."
+},
+{
+"type": "interview",
+"title": "FedScoop interview: James Walkinshaw dishes on DOGE, data and continuing Gerry Connolly's IT legacy",
+"url": "https://fedscoop.com/james-walkinshaw-technology-policy-agenda-doge/",
+"date": "2025-07-22",
+"quote": "just kind of slapping an AI label on something and hoping that it will work is not an effective approach",
+"what_it_shows": "As a candidate he supported using AI in government but warned that agencies need talent and training to deploy it responsibly, criticizing DOGE's reliance on automation to replace laid-off workers."
+},
+{
+"type": "interview",
+"title": "Nextgov/FCW interview reprinted on his House site: Connolly's successor looks to carry on his IT and workforce legacy",
+"url": "https://walkinshaw.house.gov/news/documentsingle.aspx?DocumentID=78",
+"date": "2025-09-26",
+"quote": "One of the things I'm going to be looking at is a modernized modernization scorecard that could build on the FITARA scorecard and incorporate other elements, like AI adoption and cybersecurity.",
+"what_it_shows": "Shows his AI focus is measuring and encouraging federal AI adoption, and he noted there is little data on where agencies actually stand."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward targeted rules on one narrow point: he says Congress must update the Privacy Act and federal privacy standards, which have not been modernized in decades. No statements found on Section 230, antitrust, app stores, or kids' online safety, and he has not cosponsored the major bills in those lanes.",
+"evidence": [
+{
+"type": "statement",
+"title": "MeriTalk: Rep. James Walkinshaw urges federal innovation, technology reforms (Punchbowl News event remarks)",
+"url": "https://www.meritalk.com/articles/rep-james-walkinshaw-urges-federal-innovation-technology-reforms/",
+"date": "2026-03-18",
+"quote": "Congress needs to act to update the Privacy Act and our federal standards and statutes around privacy.",
+"what_it_shows": "He wants Congress to modernize federal privacy law, a targeted-rules stance, though his focus is the government-facing Privacy Act and agency data sharing more than rules for Big Tech."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on preempting or pausing state AI laws as of Sept 2026. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a moratorium, has not cosponsored the GUARDRAILS Act, and when asked about the state privacy-law patchwork he did not argue for a national standard or against state laws.",
+"evidence": [
+{
+"type": "statement",
+"title": "MeriTalk: Walkinshaw on the patchwork of state privacy laws (Punchbowl News event)",
+"url": "https://www.meritalk.com/articles/rep-james-walkinshaw-urges-federal-innovation-technology-reforms/",
+"date": "2026-03-18",
+"quote": "I think the reason you see a lot of action in the states is because [congress] hasn’t modernized in decades when it comes to the Privacy Act",
+"what_it_shows": "He blames state activity on federal inaction and calls for Congress to act, but the reporter noted he did not argue for a national standard or against state laws, so this is not a preemption position."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searches for his name with Nvidia, export controls, chips and China turned up only an unrelated letter with Sen. Kaine on North Korean refugees, and he has not cosponsored the Chip Security Act, AI OVERWATCH Act or similar bills.",
+"evidence": []
+}
+},
+"search_notes": "About 20 Google News queries (AI, data centers, electricity/ratepayers, chatbot/deepfake, Big Tech/Section 230/privacy, Nvidia/export controls/China, preemption/moratorium, AI Caucus/super PACs, OpenAI/Anthropic/Mythos, Fairfax data center zoning, campaign forums, OpenSecrets/donors, New Dem letters). Scanned all ~160 press releases on walkinshaw.house.gov (Sept 2025 to Sept 4, 2026) plus the In the News list: none mention data centers, AI regulation, chips or preemption; tech items are all federal IT modernization, TMF, CISA and cybersecurity. Confirmed AI Caucus membership on his committees-and-caucuses page. Verified via govtrack: original cosponsor of H.R. 7977; Nay on SPEED Act roll call 356; NOT a cosponsor of H.R. 9183 (AI Environmental Impacts Act; the state-context lead was wrong, Beyer's June 10, 2026 release lists only Barragan as House cosponsor), H.R. 9340, H.R. 6529 or H.R. 8031. Checked signer lists: not on the Matsui Nov 26, 2025 letter (PDF text extracted), Clarke Dec 3, 2025 letter, Casar Aug 10, 2026 AI-CEO hearing letter, New Democrat FY27 data center letter (PDF), or Mullin/Beyer Oct 28, 2025 FERC letters. Could not open (blocked or Google News decode rate-limited): OpenSecrets July 29, 2026 'NoVa lawmakers take AI cash' (403; reportedly notes tech-linked contributions to him, unverified), Nextgov June 30, 2026 'fetishization of Silicon Valley startups' (likely his remarks, unverified), Washington Post Apr 16, 2026 AI gathering piece, CNBC Aug 3, 2026 AI spending piece, SC Media June 30, 2026, Politico Pro May 14, 2026 Homeland Mythos demo, Van Hollen PJM letter page (403), Markey EPA letter page (403), WAMU Politics Hour. His 2024 Fairfax County Board votes on data center zoning as Braddock supervisor were not verifiable through opened pages. No AI super PAC support or attacks found (not listed on aimoneywatch.org)."
+}
+]

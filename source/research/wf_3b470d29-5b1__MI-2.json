@@ -1,0 +1,778 @@
+[
+{
+"bioguide": "S001221",
+"name": "Hillary J. Scholten",
+"signature": "West Michigan Democrat pushing data center transparency (energy and water reporting) and AI literacy for small businesses; opposes federal preemption of state AI laws.",
+"notable_quote": {
+"text": "Accountability starts with transparency. As data centers continue to come online across Michigan and the country, people deserve to know how these facilities are affecting the water and power they rely on",
+"url": "https://scholten.house.gov/media/press-releases/congresswoman-scholten-introduces-two-data-center-accountability-bills",
+"date": "2026-07-31"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Scholten accepts that data centers are coming and says the country needs domestic capacity, but she wants them built with public reporting of their power and water use, siting rules, and protection for household electric bills. Her own bills focus on transparency and efficiency rather than a pause.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Scholten introduces two data center accountability bills (Data Center Resource Disclosure Act and Defending Our Energy and Water Act)",
+"url": "https://scholten.house.gov/media/press-releases/congresswoman-scholten-introduces-two-data-center-accountability-bills",
+"date": "2026-07-31",
+"quote": "Accountability starts with transparency. As data centers continue to come online across Michigan and the country, people deserve to know how these facilities are affecting the water and power they rely on",
+"what_it_shows": "She wants federal regulators and the public to see how data centers affect local water and power, framing it as preventing exploitation of communities."
+},
+{
+"type": "statement",
+"title": "Press release: Scholten on domestic data capacity (same release)",
+"url": "https://scholten.house.gov/media/press-releases/congresswoman-scholten-introduces-two-data-center-accountability-bills",
+"date": "2026-07-31",
+"quote": "As our data demands grow, we must ensure we have domestic capacity to store it and process it in a way that doesn't harm our local communities.",
+"what_it_shows": "She is not against building data centers; she wants them built without harming communities, which points to protections rather than a block."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 10005 Data Center Resource Disclosure Act (NTIA annual survey of data center energy and water use, public dashboard)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10005",
+"date": "2026-07-30",
+"quote": null,
+"what_it_shows": "Her lead bill makes data centers report electricity and water use."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 10321 Responsible Data Center Siting Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10321",
+"date": "2026-09-08",
+"quote": null,
+"what_it_shows": "She backs rules on where large AI data centers can be built so they do not overload local power and water."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7977 (Casten bill to keep data center grid costs off household electric bills; original cosponsor, confirmed in govinfo bill status)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "She signed on to a bill making data centers pay their own energy costs instead of ratepayers."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9183 Artificial Intelligence Environmental Impacts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-09-03",
+"quote": null,
+"what_it_shows": "Supports a government study of AI's electricity, water and pollution footprint with voluntary company reporting."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Scholten's AI work is mostly about helping small businesses use AI safely, plus disclosure rules for AI in ads and elections. She has backed targeted deepfake and disclosure measures but has not spoken publicly about frontier AI dangers, safety testing or licensing.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Scholten's bipartisan AI bills for small businesses (AI-WISE Act, AI for Main Street Act) pass the House",
+"url": "https://scholten.house.gov/media/press-releases/rep-scholtens-bipartisan-ai-bills-supporting-small-businesses-pass-house",
+"date": "2026-01-20",
+"quote": "The bills will give our small businesses much-needed tools to evaluate new technologies, protect their data, and use AI in ways that actually make sense for their operations.",
+"what_it_shows": "Her main AI agenda is adoption and literacy for small firms, not new safety mandates on AI developers."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 5784 AI-WISE Act (SBA online AI-literacy lessons for small businesses)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5784",
+"date": "2025-10-17",
+"quote": null,
+"what_it_shows": "Neutral, education-focused AI bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 10146 AI Advertising Disclosure Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10146",
+"date": "2026-09-04",
+"quote": null,
+"what_it_shows": "Supports a targeted rule requiring advertisers to disclose AI-made ads."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6461 READ AI Models Act (voluntary NIST model label)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6461",
+"date": "2026-06-02",
+"quote": null,
+"what_it_shows": "Backs a voluntary transparency label for AI models, a light form of guardrail."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th Congress): H.R. 8858 Securing Elections From AI Deception Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-07-02",
+"quote": null,
+"what_it_shows": "Supported banning AI deepfakes that trick voters in federal elections."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Scholten has cosponsored targeted tech rules: the Kids Online Safety Act, a reproductive health data privacy bill, the TikTok divest-or-ban law, and a ban on Chinese-linked connected cars. No calls for breaking up Big Tech or repealing Section 230 were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th Congress): H.R. 7891 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-09-23",
+"quote": null,
+"what_it_shows": "Backed the main kids online safety bill in the last Congress."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3218 Reproductive Data Privacy and Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-05-06",
+"quote": null,
+"what_it_shows": "Supports limits on companies collecting or selling reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-06-25",
+"quote": null,
+"what_it_shows": "Supports banning connected-car tech from China, Russia, Iran and North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th Congress): H.R. 7521 Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "Backed forcing TikTok's sale or ban."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Scholten is firmly on the side of letting states regulate AI. She cosponsored the GUARDRAILS Act to protect state AI laws and signed the November 2025 letter from 81 House Democrats opposing a state AI-law moratorium in the NDAA and the planned executive order.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8031 GUARDRAILS Act (protects states' right to pass their own AI laws)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Joined the main House bill against federal preemption of state AI laws on the day it was introduced."
+},
+{
+"type": "statement",
+"title": "Press release: Jacobs, Beyer, Matsui, Lieu, McClain Delaney introduce GUARDRAILS Act to repeal White House AI moratorium (lists Scholten as cosponsor)",
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Confirms she was an original cosponsor of the bill pushing back on the December 2025 executive order."
+},
+{
+"type": "letter",
+"title": "Letter: Matsui-led letter from 81 House Democrats to Johnson, Thune, Jeffries and Schumer opposing an AI moratorium in the NDAA and a preemption executive order (Scholten is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We write to express our strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws",
+"what_it_shows": "She signed a letter directly opposing federal preemption of state AI laws by statute, executive order or by conditioning BEAD broadband money."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 1 (One Big Beautiful Bill), House passage, which at the time contained the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A vote against the whole package, so weak on its own, but consistent with her later stand against preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls. Searches for Scholten with Nvidia, export controls, H20 or H200 chips and China turned up nothing as of Sept 2026; her China-related bills concern TikTok and connected cars, not chips.",
+"evidence": []
+}
+},
+"search_notes": "Searches (Google News index): Scholten + artificial intelligence; + data center; + chatbot/deepfake/Big Tech/Section 230; + preemption/state AI laws/moratorium; + Nvidia/export controls/chips; + electricity/utility bills/ratepayers; + Kids Online Safety/social media/privacy; + AI Caucus; + Pentagon data centers/NDAA amendment; + Defending Our Energy and Water Act. Site listing of scholten.house.gov (10 archived AI/energy URLs) and read the data center bills release, the AI small business bills release, the Lowering Costs Caucus energy-price letter, and her committees page. Confirmed her signature on the Matsui letter by downloading and parsing the PDF; confirmed H.R. 7977 cosponsorship in govinfo bill status; confirmed Nay on H.R. 1 at govtrack. Blocked or unreadable: Politico story on Pentagon data centers (403, Wayback down), so her NDAA amendment could not be read directly. The landscape lead that she is a Congressional AI Caucus member could not be confirmed on her committees page or in news, so it is not listed in groups."
+},
+{
+"bioguide": "H001058",
+"name": "Bill Huizenga",
+"signature": "Lead House sponsor of the Chip Security Act and a top export-control hawk on AI chips to China; chairs the Foreign Affairs South and Central Asia subcommittee.",
+"notable_quote": {
+"text": "China's AI chips cannot compete with ours, so Beijing is resorting to theft instead.",
+"url": "https://foreignaffairs.house.gov/news/press-releases/south-and-central-asia-subcommittee-chairman-bill-huizenga-delivers-opening-remarks-at-hearing-on-strengthening-export-control-enforcement",
+"date": "2026-02-24"
+},
+"groups": [
+"House Foreign Affairs Committee: Chairman, Subcommittee on South and Central Asia (chaired the Feb. 2026 export-control enforcement hearing)",
+"House Financial Services Committee: member, Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Huizenga cosponsored the Ratepayer Protection Act in September 2026, which aims to keep data center power costs off household electric bills. No speech, press release or interview from him about data centers was found, so this rests on one cosponsorship.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9340 Ratepayer Protection Act (confirmed in govinfo bill status, added Sept. 10, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "Signed on to the main bipartisan House bill to shield regular customers from paying for power that data centers need."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "Huizenga talks about AI as an arms race with China and backs the Trump AI Action Plan. He wants to protect American AI models from theft, but no support for domestic safety testing, licensing or liability rules for AI developers was found. Anthropic's corporate PAC donated to his campaign in 2026.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Hearing: Huizenga opening remarks at House Foreign Affairs subcommittee hearing on strengthening export control enforcement",
+"url": "https://foreignaffairs.house.gov/news/press-releases/south-and-central-asia-subcommittee-chairman-bill-huizenga-delivers-opening-remarks-at-hearing-on-strengthening-export-control-enforcement",
+"date": "2026-02-24",
+"quote": "We are here today to discuss the AI Arms Race against the Chinese Communist Party and our law enforcement efforts to protect America's crown jewel technologies.",
+"what_it_shows": "He frames AI policy as winning a race against China, the classic beat-China-first framing, rather than as a safety problem."
+},
+{
+"type": "statement",
+"title": "Press release: Huizenga introduces the Deterring American AI Model Theft Act (H.R. 8283)",
+"url": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=404341",
+"date": "2026-04-20",
+"quote": "American AI models are demonstrating transformative cyber capabilities, and it is critical we prevent China from stealing these technological advancements.",
+"what_it_shows": "He treats advanced AI capability as a national asset to protect and ties his bill to the administration's AI Action Plan."
+},
+{
+"type": "pac",
+"title": "FEC record: AnthroPAC (Anthropic's corporate PAC, C00946111) gave $2,500 to Huizenga for Congress on June 29, 2026",
+"url": "https://api.open.fec.gov/v1/schedules/schedule_b/?committee_id=C00946111&api_key=DEMO_KEY&per_page=100&sort=-disbursement_date",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "An AI company PAC supported his campaign; this is financial support, not a stated position."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Huizenga's tech votes and bills center on China security: banning TikTok on campuses and blocking Chinese-linked connected cars. No broader position on Big Tech antitrust, privacy or Section 230 was found in this pass beyond a 2021 headline about a GOP task force on online censorship, which was not opened.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Supports banning connected-car hardware and software from China and other adversaries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th Congress): H.R. 231 Terminate TikTok on Campus Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/231",
+"date": "2023-01-13",
+"quote": null,
+"what_it_shows": "Backed a targeted restriction on a Chinese-owned app at federally funded colleges."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "No statement from Huizenga on preempting state AI laws was found. The only signal is his Yea vote on H.R. 1 in May 2025, when the bill still carried the 10-year moratorium on state AI laws; that was a vote on the whole package, not on preemption itself.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 1 (One Big Beautiful Bill), House passage, which at the time contained the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the package that included the state AI-law moratorium, but this is a party-line vote on a huge bill and not a stand-alone position."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Huizenga is one of the House's leading chip export hawks. He wrote the Chip Security Act (location tracking for exported AI chips), cosponsored the AI OVERWATCH Act giving Congress a veto over chip sales to China, and pressed Commerce over smuggled Blackwell chips. One nuance: he said he appreciated the administration's H200-to-China rule, while insisting it is only as good as its enforcement.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 3447 Chip Security Act (location verification for exported advanced AI chips)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "He is the lead House author of the main anti-smuggling chip bill."
+},
+{
+"type": "hearing",
+"title": "Hearing: Huizenga opening remarks at export control enforcement hearing (DeepSeek trained on smuggled Blackwell chips)",
+"url": "https://foreignaffairs.house.gov/news/press-releases/south-and-central-asia-subcommittee-chairman-bill-huizenga-delivers-opening-remarks-at-hearing-on-strengthening-export-control-enforcement",
+"date": "2026-02-24",
+"quote": "China's AI chips cannot compete with ours, so Beijing is resorting to theft instead.",
+"what_it_shows": "He argues China depends on stolen or smuggled American chips and wants a bigger BIS enforcement budget."
+},
+{
+"type": "statement",
+"title": "Press release: House Foreign Affairs advances the Chip Security Act (Huizenga statement)",
+"url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-chip-security-act",
+"date": "2026-03-26",
+"quote": "The Chip Security Act enhances protections on AI chip exports by scaling up best security practices and encouraging innovative technologies",
+"what_it_shows": "His bill cleared committee unanimously and he ties it to the Trump AI Action Plan."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6875 AI OVERWATCH Act (congressional review of advanced AI chip sales to China and other risky countries)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Backs giving Congress an arms-sale-style veto over chip exports to China, which would apply to H200-type sales."
+},
+{
+"type": "statement",
+"title": "Press release: House Foreign Affairs advances the AI Overwatch Act 42-2-1 (Huizenga listed as original cosponsor)",
+"url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-ai-overwatch-act",
+"date": "2026-01-21",
+"quote": null,
+"what_it_shows": "Confirms he was an original cosponsor of the bill to let Congress block chip sales before they happen."
+},
+{
+"type": "hearing",
+"title": "Hearing: Nextgov report on House Foreign Affairs hearing on the Commerce rule allowing Nvidia H200 sales to China",
+"url": "https://www.nextgov.com/emerging-tech/2026/01/lawmakers-worry-over-new-rule-will-allow-sales-nvidias-h200-chips-china/410696/",
+"date": "2026-01-14",
+"quote": "one: the devil's in the details; and two: rules and regulations are only as good as your willingness to enforce them",
+"what_it_shows": "He said he appreciated the H200 rule but stressed enforcement, a more accepting note than a flat opposition to H200 sales."
+},
+{
+"type": "hearing",
+"title": "Hearing: Legis1 report on House Foreign Affairs BIS budget hearing (Huizenga presses Kessler on Blackwell loophole)",
+"url": "https://legis1.com/news/china-export-controls-face-enforcement-scrutiny",
+"date": "2026-07",
+"quote": null,
+"what_it_shows": "He pressed Commerce on guidance that appeared to let Chinese firms keep smuggled Blackwell chips, pushing from the hawkish side."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 8283 Deterring American AI Model Theft Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"date": "2026-04-15",
+"quote": null,
+"what_it_shows": "Wants sanctions on Chinese firms that copy American AI models through distillation attacks."
+},
+{
+"type": "statement",
+"title": "Press release: Huizenga introduces the Deterring American AI Model Theft Act",
+"url": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=404341",
+"date": "2026-04-20",
+"quote": "We must be more proactive in stopping the circumvention of US export controls by foreign adversaries.",
+"what_it_shows": "He links model theft to export-control evasion and wants tougher enforcement."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 6058 STRIDE Act (tighter rules on advanced chip shipments to China)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6058",
+"date": "2025-11-17",
+"quote": null,
+"what_it_shows": "Another Huizenga bill to close chip export loopholes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2683 Remote Access Security Act (closes cloud loophole for chip access)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"date": "2025-04-07",
+"quote": null,
+"what_it_shows": "Supports stopping foreign users from reaching restricted chips through the cloud."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6996 Full AI Stack Export Promotion Act (help U.S. firms sell chips-to-cloud packages to friendly countries)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6996",
+"date": "2026-04-20",
+"quote": null,
+"what_it_shows": "He pairs tight controls on China with promoting AI exports to allies, so he is not against chip exports in general."
+}
+]
+}
+},
+"search_notes": "Searches: Huizenga + artificial intelligence/chips; + data center/ratepayer; + AI regulation/financial services/fintech; + preemption/state AI laws/Big Tech/Section 230; + Chip Security Act committee passage; + STRIDE/AI Model Theft/Full AI Stack; + Michigan data centers 2026 candidate; + Holland Sentinel voter Q&A; + Newsweek chip-loophole op-ed. Read: HFAC opening remarks (Feb 2026), HFAC Chip Security Act and AI Overwatch advance releases, Nextgov H200 hearing story, Legis1 BIS hearing story, his own AI Model Theft press release (via his RSS feed), govinfo cosponsor lists for H.R. 9340, govtrack H.R. 1 vote, FEC API for AnthroPAC disbursements. Blocked: Cotton-Huizenga letter to Lutnick on cotton.senate.gov (403, Wayback down); Holland Sentinel Q&A and RealClearEnergy MI-4 energy piece (Google News links would not decode); his site's press listing is JavaScript-rendered and the site-listing tool found only a privacy page, so the Chip Security Act introduction and committee-passage releases on huizenga.house.gov were not opened (the HFAC versions were)."
+},
+{
+"bioguide": "W000798",
+"name": "Tim Walberg",
+"signature": "Education and Workforce Committee chairman running the 'Building an AI-Ready America' hearings and the AWARE Act on AI and jobs; sponsor of COPPA 2.0 kids privacy law; local control on data centers.",
+"notable_quote": {
+"text": "The goal should not be to rush into sweeping new rules and regulations, but to ensure schools, employers, and training providers can keep pace with innovation while maintaining trust and prioritizing safety and privacy.",
+"url": "https://walberg.house.gov/media/in-the-news/moody-market-walberg-committee-holding-series-hearings-ai-workforce-and-education",
+"date": "2026-01-14"
+},
+"groups": [
+"House Committee on Education and Workforce: Chairman (led the 'Building an AI-Ready America' hearing series on AI in schools and the workforce, 2026)"
+],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Walberg says data centers should be decided by local communities: some in his district want them, others do not. He has not backed a moratorium, ratepayer bills or federal permitting help. His one federal action was asking Commerce to investigate a Dowagiac data center's partnership with a Chinese robotics maker.",
+"evidence": [
+{
+"type": "statement",
+"title": "Town hall (Monroe News coverage reposted on walberg.house.gov): Walberg addresses data centers, tariffs, AI at Frenchtown Township town hall",
+"url": "https://walberg.house.gov/media/in-the-news/monroe-news-rep-walberg-addresses-data-centers-tariffs-ai-frenchtown-town-hall",
+"date": "2026-01-05",
+"quote": "supportive of local communities deciding",
+"what_it_shows": "Asked about Cloverleaf Infrastructure's proposed data centers in Frenchtown Township and Dundee, he took a local-control stance rather than for or against."
+},
+{
+"type": "letter",
+"title": "Press release: Walberg sends letter to Commerce Secretary Lutnick on risks of foreign humanoid robot technology at Hyperscale Data's Dowagiac data center campus",
+"url": "https://walberg.house.gov/media/press-releases/walberg-sends-letter-sec-lutnick-regarding-risks-foreign-humanoid-robot",
+"date": "2026-07-29",
+"quote": "These intelligent robots made with components from AGIBOT could pose an unacceptable risk to U.S. companies, infrastructure, and national security",
+"what_it_shows": "His scrutiny of a Michigan data center is about Chinese ties and national security, not electricity or water."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Walberg wants the U.S. to lead in AI and warns against rushing into sweeping new rules. He acknowledges risks like job displacement and weakened academic standards, but his answer is better data (his AWARE Act), training and education, not binding safety rules on AI developers.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Hearing: Walberg opens Education and Workforce Committee 'Building an AI-Ready America' hearing series (Moody on the Market report reposted on his site)",
+"url": "https://walberg.house.gov/media/in-the-news/moody-market-walberg-committee-holding-series-hearings-ai-workforce-and-education",
+"date": "2026-01-14",
+"quote": "The goal should not be to rush into sweeping new rules and regulations, but to ensure schools, employers, and training providers can keep pace with innovation while maintaining trust and prioritizing safety and privacy.",
+"what_it_shows": "Clear light-touch framing: keep pace with innovation, avoid sweeping regulation, with safety and privacy as secondary aims."
+},
+{
+"type": "op_ed",
+"title": "Op-ed (Washington Times, reposted on walberg.house.gov): Teaching, training, transforming: AI's role in America's future",
+"url": "https://walberg.house.gov/media/opinion-editorial/washington-times-teaching-training-transforming-ais-role-americas-future",
+"date": "2026-07-27",
+"quote": "We must ensure that students are prepared, workers can adapt and employers have the talent they need, all while addressing potential risks like job displacement and weakened academic standards.",
+"what_it_shows": "He names AI risks in terms of jobs and education, and his remedy is preparation and training rather than regulation."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 9381 AWARE Act (BLS statistics on AI use in the workforce)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9381",
+"date": "2026-06-22",
+"quote": null,
+"what_it_shows": "His signature AI bill is a data-collection measure, neutral on regulation."
+},
+{
+"type": "statement",
+"title": "Press release: Chairman Walberg leads bill to modernize workforce data for age of AI (AWARE Act)",
+"url": "https://walberg.house.gov/media/press-releases/chairman-walberg-leads-bill-modernize-workforce-data-age-ai",
+"date": "2026-06-22",
+"quote": "Artificial intelligence is transforming workplaces across the country faster than any technology in a generation.",
+"what_it_shows": "He sees AI's labor impact as fast and large, and wants the government to measure it."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Walberg is a leading Republican on kids' online privacy. He wrote COPPA 2.0, which passed the House in June 2026 inside the KIDS Act, banning targeted ads to children and teens. He also cosponsored the Kids Online Safety Act and the TikTok divest-or-ban law. These are targeted rules, not a broad Big Tech crackdown.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 6291 Children and Teens' Online Privacy Protection Act (COPPA 2.0)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6291",
+"date": "2025-11-25",
+"quote": null,
+"what_it_shows": "Lead House sponsor of the kids and teens privacy update."
+},
+{
+"type": "statement",
+"title": "Press release: Walberg and Lee lead effort to protect children's online privacy (COPPA 2.0 introduction)",
+"url": "https://walberg.house.gov/media/press-releases/walberg-and-lee-lead-effort-protect-childrens-online-privacy",
+"date": "2025-11-25",
+"quote": "Now more than ever, it is essential that we strengthen and modernize COPPA to provide parents with the tools they need to protect their children online.",
+"what_it_shows": "He blames platforms' data harvesting and targeted ads for harm to kids and wants binding limits."
+},
+{
+"type": "statement",
+"title": "Press release: House passes Walberg and Lee's COPPA 2.0 as part of the Kids Internet and Digital Safety (KIDS) Act",
+"url": "https://walberg.house.gov/media/press-releases/house-passes-walberg-and-lees-legislation-protect-childrens-online-privacy",
+"date": "2026-06-29",
+"quote": "COPPA 2.0 will help provide families with the tools necessary to navigate the modern digital landscape by banning targeted advertising and strengthening protections for children and teenagers.",
+"what_it_shows": "His bill passed the House with a ban on targeted ads to minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th Congress): H.R. 7891 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-04-10",
+"quote": null,
+"what_it_shows": "Backed the main kids online safety bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th Congress): H.R. 7521 Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "Supported the TikTok divest-or-ban law."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "No statement from Walberg on preempting state AI laws was found. He voted Yea on H.R. 1 in May 2025 when it carried the 10-year moratorium on state AI laws, but that was a vote on the whole package, not on preemption itself.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 1 (One Big Beautiful Bill), House passage, which at the time contained the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the package that included the state AI-law moratorium; a party-line vote on a huge bill, not a stand-alone position."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Walberg is hawkish on Chinese technology, asking Commerce to investigate Chinese robotics components at a Michigan data center and backing a ban on Chinese-linked connected cars. But no statement on AI chip export controls, Nvidia or H200 sales was found, so this is a lean, not a chips position.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter to Commerce Secretary Lutnick urging investigation of Hyperscale Data's partnership with Shanghai-based AGIBOT (press release)",
+"url": "https://walberg.house.gov/media/press-releases/walberg-sends-letter-sec-lutnick-regarding-risks-foreign-humanoid-robot",
+"date": "2026-07-28",
+"quote": "Foreign adversaries, especially the People's Republic of China, remain a threat to America",
+"what_it_shows": "He wants Commerce to use its authority against Chinese tech components, citing China's military-civil fusion strategy; the release also notes he cosponsors the GUARD Act on foreign robotics parts."
+},
+{
+"type": "statement",
+"title": "Spectrum News: Michigan congressman seeks federal investigation into Dowagiac robotics project",
+"url": "https://spectrumlocalnews.com/mi/michigan/news/2026/07/29/humaoid-robots-dowagiac-hyperscale",
+"date": "2026-07-29",
+"quote": null,
+"what_it_shows": "Independent coverage confirming the letter and its national-security framing."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-06-25",
+"quote": null,
+"what_it_shows": "Supports banning connected-car tech from China and other adversaries."
+}
+]
+}
+},
+"search_notes": "Searches: Walberg + artificial intelligence/AI; + data center(s); + Frenchtown/Cloverleaf/Dundee; + Lutnick/humanoid robot/Dowagiac; + AWARE Act; + Children and Teens privacy/COPPA; + Washington Times op-ed; + preemption/state AI laws/AI moratorium (no results); + Education and Workforce chairman AI hearing; + App Store Accountability/KOSA; + China/DeepSeek/TikTok/export; + KIDS Act preempt states (no results); + K-12 Dive AI hearings. Read on walberg.house.gov: press-release and in-the-news listings, Lutnick letter release, AWARE Act release, both COPPA 2.0 releases, the Washington Times op-ed repost, the Moody on the Market hearing repost, and the Monroe News town hall repost; also Spectrum News on the Lutnick letter and govtrack for the H.R. 1 vote. Blocked: the original Monroe News town hall article (403, Wayback down), so the longer first-pass quote about local control and his reported opposition to incentives could not be verified word for word; the K-12 Dive and Legis1 hearing stories would not decode or 404'd. The site-listing tool failed for walberg.house.gov (connection refused), so raw HTML href scraping of listing pages was used instead."
+},
+{
+"bioguide": "D000624",
+"name": "Debbie Dingell",
+"signature": "Energy and Commerce Democrat leading the fight for transparency and ratepayer protection on the Saline Township and Ypsilanti Township data centers; backs deepfake, chatbot and kids-safety guardrails and opposes preempting state AI laws.",
+"notable_quote": {
+"text": "You cannot claim to value community input and then ignore the community when you do not like what it has to say.",
+"url": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=7199",
+"date": "2026-08-12"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Dingell has fought for a transparent process and ratepayer protection on the Saline Township Stargate project and the University of Michigan and Los Alamos data center in Ypsilanti Township. She says the Saline project could be an economic boon if approved, but only with no rate increases and real public hearings, and she has called U-M's handling of Ypsilanti Township unacceptable.",
+"evidence": [
+{
+"type": "statement",
+"title": "WEMU: Lawmakers push back against DTE's request to fast-track Saline Township data center (Dingell joined letter to Michigan PSC)",
+"url": "https://www.wemu.org/wemu-news/2025-11-10/lawmakers-push-back-against-dtes-request-to-fast-track-saline-township-data-center",
+"date": "2025-11-10",
+"quote": "The community deserves and must have a seat at the table, so you need a transparent process.",
+"what_it_shows": "She opposed DTE skipping public hearings and, per the report, said approval should require that ratepayers see no increases; she also called the project an economic boon if approved."
+},
+{
+"type": "statement",
+"title": "Press release: Dingell statement on Los Alamos project site selection (U-M picks Ypsilanti Township)",
+"url": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=7199",
+"date": "2026-08-12",
+"quote": "It is deeply disturbing that the University of Michigan has chosen this site for the Los Alamos data center project despite the clear opposition of Ypsilanti Township residents and local leaders",
+"what_it_shows": "She sided with residents against siting the $1.2 billion computing center over local opposition and noted the township would see little tax benefit."
+},
+{
+"type": "letter",
+"title": "Letter to U-M President Grasso demanding a real two-way town hall on the Ypsilanti Township data center (press release with letter text)",
+"url": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=7232",
+"date": "2026-08-13",
+"quote": "Key concerns include water use, such as how much water the facility will require, where it would come from, and what safeguards are in place to protect long-term regional supply.",
+"what_it_shows": "Her concerns are water, grid strain, who pays, emissions and local services; she wants open scrutiny before the project proceeds."
+},
+{
+"type": "letter",
+"title": "Letters from 20 House Democrats led by Rep. Kevin Mullin to FERC, Edison Electric Institute and the Data Center Coalition on data center energy costs (Dingell co-signed)",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"date": "2025-10-28",
+"quote": "These staggering figures underscore the urgent need to protect ratepayers, both in the region served by PJM and nationwide.",
+"what_it_shows": "She joined a push to keep grid upgrade costs for data centers off household bills and to make utility contracts transparent."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7977 (Casten bill to keep data center grid costs off household electric bills; original cosponsor, confirmed in govinfo bill status)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Backs making data centers pay their own energy costs."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Dingell supports targeted AI guardrails: transparency rules for chatbots, a halt to Meta's AI companion bots for minors, bans on AI price discrimination and wage fixing, and laws against sexual deepfakes. She has described AI's risks in terms of privacy, bias, deepfakes and foreign adversaries, not existential danger, and has not called for licensing or a pause.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Hearing: Dingell remarks at House Energy and Commerce full committee hearing on AI and American global competitiveness (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"date": "2025-04-09",
+"quote": "we cannot afford to let America's data and personal information be weaponized by China or other adversaries or allow AI to spread unchecked through deep fakes, robocalls and deceptive ads",
+"what_it_shows": "She lists data privacy, bias, deepfakes and adversary exploitation as the AI dangers she wants addressed, pointing to her TAKE IT DOWN Act work."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7985 CHATBOT Act (transparency rules for AI chatbot companies)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7985",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Supports rules to keep people from being harmed by AI chatbots."
+},
+{
+"type": "letter",
+"title": "Castor-led letter from six Energy and Commerce Democrats to Mark Zuckerberg urging Meta to halt AI companion bots for users under 18 (Dingell signed)",
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404939",
+"date": "2025-05-29",
+"quote": "These inappropriate AI systems pose significant safety risks to children and teenagers who use Meta's platforms.",
+"what_it_shows": "She pressed a major AI deployer to pull a product from minors over safety concerns."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640 Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-12-11",
+"quote": null,
+"what_it_shows": "Backs banning companies from using AI and personal data to set different prices or wages for different people."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3562 DEFIANCE Act of 2025 (civil suits over AI sexual deepfakes)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2025-05-21",
+"quote": null,
+"what_it_shows": "Supports liability for makers and sharers of nonconsensual AI sexual images."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-01-22",
+"quote": null,
+"what_it_shows": "Backed the now-law crackdown on AI-faked intimate images."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Dingell has a long list of targeted tech rules: she sponsored a bill making carmakers cut off abusers' remote access to a survivor's car, and cosponsored the TAKE IT DOWN Act, a bill making social media companies fight fentanyl sales, and a ban on Chinese-linked connected cars. She also pressed Meta on AI companion bots for kids. No calls for break-ups or Section 230 repeal were found in this pass.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 2110 Safe Vehicle Access for Survivors Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"date": "2025-03-14",
+"quote": null,
+"what_it_shows": "Her own bill puts a duty on carmakers to protect domestic violence survivors from connected-car tracking."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6259 No Fentanyl on Social Media Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6259",
+"date": "2025-11-21",
+"quote": null,
+"what_it_shows": "Supports new duties on platforms to report and remove drug sales."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-05-11",
+"quote": null,
+"what_it_shows": "Supports banning connected-car tech from China and other adversaries."
+},
+{
+"type": "letter",
+"title": "Castor-led letter to Meta urging a halt to AI companion bots for minors (Dingell signed)",
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404939",
+"date": "2025-05-29",
+"quote": null,
+"what_it_shows": "Direct pressure on a Big Tech platform over child safety."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Dingell signed the November 2025 letter from 81 House Democrats opposing any state AI-law moratorium in the NDAA and the planned executive order to preempt state AI laws. She also voted against H.R. 1 when it carried the 10-year moratorium.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Matsui-led letter from 81 House Democrats to Johnson, Thune, Jeffries and Schumer opposing an AI moratorium in the NDAA and a preemption executive order (Dingell is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We write to express our strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws",
+"what_it_shows": "She joined a direct statement against federal preemption of state AI laws, whether by law, executive order or by conditioning BEAD funds."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 1 (One Big Beautiful Bill), House passage, which at the time contained the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A vote against the whole package, weak on its own, but consistent with her letter."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Dingell leans hawkish on Chinese AI: she cosponsored the bill to remove DeepSeek from government devices and has warned about China weaponizing Americans' data. No statement on Nvidia chip export controls or H20/H200 sales was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1121 No DeepSeek on Government Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-13",
+"quote": null,
+"what_it_shows": "Supports banning the Chinese AI app from federal devices."
+},
+{
+"type": "hearing",
+"title": "Hearing: Dingell remarks at Energy and Commerce AI hearing on foreign adversaries and U.S. data (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"date": "2025-04-09",
+"quote": "the growing threat of foreign adversaries exploiting our vulnerabilities",
+"what_it_shows": "She frames China as a threat in the AI context, though her focus is data security rather than chip exports."
+}
+]
+}
+},
+"search_notes": "Searches: Dingell + artificial intelligence/AI; + data center(s); + preemption/state AI laws/AI moratorium; + chatbot/deepfake/Kids Online Safety; + Energy and Commerce AI hearing/framework; + Nvidia/export controls/DeepSeek/Section 230; + App Store/KIDS Act; + Ypsilanti town hall September; + Los Alamos town hall; + Obernolte/FRONTIER Act/Trahan; + Meta/social media kids; + executive order AI states; + Section 230/Big Tech/antitrust. Read: her Aug. 12 and Aug. 13, 2026 press releases and press-release listings (pages 1 and 2), WEMU story on the DTE fast-track letter, Beyer/Mullin letter page (signer list and letter text), Castor letter to Meta (signer list), Tech Policy Press transcript of the April 2025 E&C hearing, govinfo cosponsor list for H.R. 7977, govtrack H.R. 1 vote, and the Matsui letter PDF (parsed locally to confirm her signature). Blocked or unavailable: Detroit Free Press and WXYZ stories on the DTE letter and the January 2026 Ypsilanti open house (Google News links would not decode); Politico on the Trahan AI framework (403). Her site's committees-and-caucuses page 404s (only a 2017 archive exists), so the landscape lead that she is a Congressional AI Caucus member could not be confirmed and is not listed in groups. No statement from her after the Sept. 9, 2026 U-M town hall had been posted as of Sept. 12."
+}
+]

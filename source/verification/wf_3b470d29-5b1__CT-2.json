@@ -1,0 +1,122 @@
+[
+{
+"bioguide": "D000216",
+"checks": [
+{
+"url": "https://www.newhavenindependent.org/2026/06/02/a-i-is-the-new-nafta/",
+"verdict": "confirmed",
+"corrected_quote": "I don't know that there's enough of real knowledge",
+"corrected_date": "2026-06-02",
+"note": "Page loaded directly (status 200). Article by Mona Mahadevan, June 2, 2026, covers a June 1 trade roundtable at MATCH hosted by DeLauro with Rep. Pocan. Verbatim: 'DeLauro noted that legislators may not be prepared to regulate A.I. \"I don't know that there's enough of real knowledge\" in the House about the potential costs of A.I. on working people, she said.' Labor leaders (Ed Hawthorne, AFL-CIO) supplied the 'A.I. is the new NAFTA' framing; DeLauro's own AI remark is limited to the knowledge-gap line. Claim matches."
+},
+{
+"url": "https://www.yankeeinstitute.org/2026/06/03/ct-afl-cio-president-warns-ai-could-be-the-nail-in-the-coffin-for-democrats/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-03",
+"note": "Page loaded directly (status 200). Article by Meghan Portfolio dated June 3, 2026. Quote appears verbatim. The page attributes the 'guardrails' demand to Connecticut labor leaders (Hawthorne, McCarthy), not to DeLauro; she is described only as host and as having 'the ear' of labor. Claim accurately states this. Metadata 'published' field shows 2026-09-07 but the byline date is June 3, 2026."
+},
+{
+"url": "https://www.newhavenindependent.org/2026/06/02/a-i-is-the-new-nafta/",
+"verdict": "confirmed",
+"corrected_quote": "I don't know that there's enough of real knowledge",
+"corrected_date": "2026-06-02",
+"note": "Same page as item 1; quote is verbatim and attributed to DeLauro. Fine as a headline quote, though it is a remark about congressional knowledge gaps rather than a policy stance."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the listed sources contain any DeLauro statement about regulating Big Tech or tech platforms. Both articles are about trade policy and AI's effect on workers, and the guardrail demands are attributed to labor leaders, not her. Unless other evidence exists outside these items, the -1 score has no support here.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "Evidence is thin. Her only quoted AI remark is that the House lacks 'real knowledge' about AI's costs to workers and 'may not be prepared to regulate' it; she did not herself call for guardrails or any specific rule. -1 'Targeted guardrails' is a plausible inference from hosting a labor roundtable where guardrails were demanded, but it rests on association rather than her own stated position. Keep -1 only if flagged as low-confidence, otherwise 0.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+},
+{
+"bioguide": "H001047",
+"checks": [
+{
+"url": "https://himes.house.gov/2025/12/himes-votes-to-pass-intelligence-and-defense-priorities",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Quote appears verbatim as Himes's own words about the FY2026 IAA (folded into the NDAA). Page redirects to a dated URL (2025-12-11). Claim is fair: AI framed as a competitiveness tool for the IC; no mention of developer rules. Note this is thin evidence for an ai_risk position either way."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-co-chair-of-the-bipartisan-intelligence-committee-9-11-review-task-force-releases-report-marking-25th-anniversary-of-september-11th-attacks",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim. Page names Himes as Ranking Member who joined in releasing the HPSCI 9/11 Review Task Force report. It lists 'the rise of artificial intelligence' among modern threats and the recommendations urge agencies to adopt AI/OSINT. Claim accurate, but this is a Gottheimer release describing a committee report, not a Himes statement; weak as evidence of a Himes personal ai_risk stance. No publication date in page metadata."
+},
+{
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-16",
+"note": "Joint statement dated May 16, 2025, Himes named as a signatory. Quote verbatim. Statement also says the deals would 'slow the U.S. AI buildout' and move data centers to the Middle East, and that G42 has ties to the PRC, so the claim's leakage-to-China and offshoring points are supported."
+},
+{
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-16",
+"note": "Quote verbatim. Statement also says 'we should double down on this success rather than squander the leverage we have won,' supporting the 'double down' claim."
+},
+{
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-16",
+"note": "Quote verbatim from the joint statement's closing paragraph. It is a joint statement of seven Democrats, not Himes speaking alone."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "H001081",
+"checks": [
+{
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "PDF fetched directly (research_tools returned 0 chars; pypdf extraction worked). Quote appears verbatim on page 1. Letter dated March 19, 2026, addressed to Cole, DeLauro, Fleischmann, Kaptur, requesting FY27 E&W report language directing DOE to develop a National Strategic Data Center Plan covering projected electricity demand, grid reliability and consumer electricity costs, water-efficient operations, and geographic diversification. 'Jahana Hayes' appears in the signatory list. It is a New Democrat Coalition group letter, not a Hayes-authored statement."
+},
+{
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Same document; quote verbatim. Note the words are the coalition's, signed by Hayes among many members, so labeling it a Hayes 'notable quote' slightly overstates personal authorship."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only source is a coalition letter that calls data center growth 'vital,' complains that grid capacity and community opposition 'hinder growth and drive up costs,' and asks for a plan to guide 'responsible growth.' Ratepayer cost is one of several study items, not the organizing frame. The item's own claim calls it 'a balanced stance.' -1 'Protect ratepayers first' reads more guardrail-heavy than the text supports; 0 Mixed (or +1 Build with conditions) fits better.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "ai_risk",
+"objection": "None of the items provided touches AI safety rules or guardrails; the data center letter is silent on AI risk. Evidence supplied is too thin to place her at -1.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No provided source addresses Big Tech regulation, antitrust, or platform rules. The -1 score is unsupported by the items checked.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

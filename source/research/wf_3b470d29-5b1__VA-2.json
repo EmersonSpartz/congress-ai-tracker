@@ -1,0 +1,631 @@
+[
+{
+"bioguide": "S000185",
+"name": "Robert C. \"Bobby\" Scott",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "No speeches or press releases on data centers were found, but he was an original cosponsor of the Energy Bills Relief Act, which includes making data centers pay their own grid costs, and he voted against the SPEED Act permitting bill that backers promoted as speeding AI infrastructure.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R. 7977, Energy Bills Relief Act (Casten/Levin)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"quote": null,
+"date": "2026-03-18",
+"what_it_shows": "Verified on GovTrack's cosponsor list; the bill includes provisions aimed at making data centers cover their own energy costs rather than households.",
+"dimension_note": null
+},
+{
+"type": "vote",
+"title": "Voted Nay on H.R. 4776, the SPEED Act (NEPA permitting reform), Roll Call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"date": "2025-12-18",
+"what_it_shows": "He opposed a permitting bill that supporters framed as accelerating AI and data center buildout; the bill is not data-center specific."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "As top Democrat on the Education and Workforce Committee he has said Congress must write thoughtful AI rules to protect students, workers and families, pointing to biased hiring tools, worker surveillance, chatbots and child safety. He frames it as careful, targeted regulation rather than a pause.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement at full committee hearing 'Building an AI-Ready America' (press release titled 'Importance of Congress Putting Guardrails on Artificial Intelligence')",
+"url": "https://democrats-edworkforce.house.gov/media/press-releases/ranking-member-scott-delivers-opening-statement-on-the-importance-of-congress-putting-guardrails-on-artificial-intelligence",
+"quote": "This is why Congress must take an active role in shaping how AI is integrated into our lives and develop thoughtful regulations that balance protecting students, workers, and families, and fostering economic growth.",
+"date": "2026-01-14",
+"what_it_shows": "His own words calling for federal AI regulation, citing biased hiring algorithms, chatbot harms to children and AI-generated abuse material."
+},
+{
+"type": "hearing",
+"title": "Same Jan. 14, 2026 statement on AI surveillance of workers",
+"url": "https://democrats-edworkforce.house.gov/media/press-releases/ranking-member-scott-delivers-opening-statement-on-the-importance-of-congress-putting-guardrails-on-artificial-intelligence",
+"quote": "As AI proliferates, we've begun to see employers use sophisticated automated technology to monitor and evaluate workers.",
+"date": "2026-01-14",
+"what_it_shows": "He treats workplace AI monitoring and AI hiring bias as harms that need guardrails, a worker-focused version of targeted regulation."
+},
+{
+"type": "hearing",
+"title": "Opening statement at subcommittee hearing 'Building an AI Ready America: Strengthening Employer-Led Training'",
+"url": "https://democrats-edworkforce.house.gov/media/press-releases/ranking-member-scott-raises-concerns-about-future-of-bipartisan-workforce-innovation-and-opportunity-act-reauthorization",
+"quote": null,
+"date": "2026-03-04",
+"what_it_shows": "At an AI-themed hearing he focused on funding job training so workers can adapt, showing his AI lens is mainly about workers and skills."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "He has criticized the Trump administration for giving big technology companies broad access to Americans' data and raised chatbot and child-safety concerns, but no Big Tech, privacy or Section 230 bills were found in his 118th or 119th Congress record.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Jan. 14, 2026 opening statement on Big Tech and data access",
+"url": "https://democrats-edworkforce.house.gov/media/press-releases/ranking-member-scott-delivers-opening-statement-on-the-importance-of-congress-putting-guardrails-on-artificial-intelligence",
+"quote": "it has become alarmingly clear that the Trump Administration is eager to grant large technology companies unprecedented access to Americans' data.",
+"date": "2026-01-14",
+"what_it_shows": "He casts large tech companies as needing limits on data access and cites Meta litigation over harms to children, a targeted-rules posture without a specific bill."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "He told a January 2026 hearing that the Trump executive order trying to block state AI laws was wrong and that Congress should not stand by while states are prevented from protecting people from AI. He was not found among signers of the Matsui letter.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Jan. 14, 2026 opening statement criticizing the Dec. 2025 executive order and Republican preemption plans",
+"url": "https://democrats-edworkforce.house.gov/media/press-releases/ranking-member-scott-delivers-opening-statement-on-the-importance-of-congress-putting-guardrails-on-artificial-intelligence",
+"quote": "Congress should not, however, stand idly by while the Trump Administration may be ingratiating itself with big tech CEOs and preventing states from protecting Americans against the dangers posed by AI.",
+"date": "2026-01-14",
+"what_it_shows": "His own words opposing federal moves to override state AI laws, in the same passage noting Republicans considered doing it by legislation."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searched his press releases, committee statements and news coverage for chips, export controls and Nvidia.",
+"evidence": []
+}
+},
+"signature": "Top Democrat on Education and Workforce who wants Congress to put guardrails on AI in schools and workplaces and opposes federal moves to block state AI laws.",
+"notable_quote": {
+"text": "This is why Congress must take an active role in shaping how AI is integrated into our lives and develop thoughtful regulations that balance protecting students, workers, and families, and fostering economic growth.",
+"url": "https://democrats-edworkforce.house.gov/media/press-releases/ranking-member-scott-delivers-opening-statement-on-the-importance-of-congress-putting-guardrails-on-artificial-intelligence",
+"date": "2026-01-14"
+},
+"groups": [
+"Ranking Member, House Committee on Education and Workforce (119th Congress)"
+],
+"search_notes": "Ran about nine Google News queries (AI, data centers, workforce AI, Big Tech/Section 230/TikTok, AI in schools hearing, Jefferson Lab) plus direct reads of bobbyscott.house.gov press pages 1-3, his caucus page, and the Education and Workforce Democrats press archive (pages 1-9), which yielded his Jan. 14 and Mar. 4, 2026 AI hearing statements. Verified H.R. 7977 original cosponsorship and the SPEED Act Nay vote on GovTrack. The Matsui Nov. 26, 2025 letter PDF was extracted and his name was not among the signers. The state-context leads listing 'Scott' as a Great American AI Act supporter, Senate Banking chair or Aging chair refer to other members (Rep. Scott Franklin, Sen. Tim Scott, Sen. Rick Scott), not Bobby Scott. K-12 Dive coverage of the Jan. 2026 hearing and Jefferson Lab data-center groundbreaking articles could not be opened; no AI caucus membership found on his caucus page. Wayback CDX was down, so the site-listing helper failed for his domain."
+},
+{
+"bioguide": "M001227",
+"name": "Jennifer L. McClellan",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "She cosponsors the Ratepayer Protection Act, the Power for the People Act and the Energy Bills Relief Act, all aimed at keeping data center costs off household electric bills, and voted against the SPEED Act. She calls data centers vital for the economy but says their growth strains grids, water and communities and must be managed.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9340, Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"quote": null,
+"date": "2026-08-03",
+"what_it_shows": "Backs the main bipartisan bill to stop household bills from rising to pay for power that data centers need."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R. 8241, Power for the People Act of 2026 (Tonko)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8241",
+"quote": null,
+"date": "2026-04-09",
+"what_it_shows": "Verified on GovTrack; the bill creates data center rate classes and FERC rules so large loads pay their own transmission costs."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R. 7977, Energy Bills Relief Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"quote": null,
+"date": "2026-03-18",
+"what_it_shows": "Verified on GovTrack; another Democratic affordability bill with provisions making data centers pay their own costs."
+},
+{
+"type": "hearing",
+"title": "Remarks at a House Energy and Commerce hearing on data centers and energy affordability, reported by Stateline",
+"url": "https://www.kotatv.com/2026/05/26/data-center-battles-started-states-now-its-congress-under-siege/",
+"quote": "that we focused a hearing specifically addressing the alarming impact that data centers could have on energy affordability going forward",
+"date": "2026-05-26",
+"what_it_shows": "She frames data center demand as an alarming threat to electric bills and faulted Republicans for waiting until the Iran war raised energy prices to hold a hearing."
+},
+{
+"type": "letter",
+"title": "Signed New Democrat Coalition letter to House appropriators requesting a DOE National Strategic Data Center Plan",
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"quote": "Rapidly increasing demand for data centers, driven by cloud computing and AI, is vital for America's economy and competitiveness. However, this expansion strains electricity grids, land, water, and community infrastructure",
+"date": "2026-03-19",
+"what_it_shows": "She signed a letter calling data centers vital but asking for a federal plan on grid reliability, consumer costs and water use, a managed-growth stance."
+},
+{
+"type": "vote",
+"title": "Voted Nay on H.R. 4776, the SPEED Act, Roll Call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"date": "2025-12-18",
+"what_it_shows": "Opposed the permitting bill promoted as accelerating AI and data center infrastructure."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "She sponsors a bill against AI-made election lies and cosponsors the CHATBOT Act, Algorithmic Accountability Act and AI Civil Rights Act, signed a letter demanding AI CEOs testify under oath about AI dangers, and says every policy must be rewritten for a world with AI. She pairs this with study-first, pro-innovation bills on AI in telecom networks and robotics.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 4894, Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"quote": null,
+"date": "2025-08-05",
+"what_it_shows": "Her own bill makes it illegal to spread lies about voting, including AI-made fake content, before federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7985, CHATBOT Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7985",
+"quote": null,
+"date": "2026-03-18",
+"what_it_shows": "Supports transparency rules for AI chatbots so users are not harmed."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5511, Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"quote": null,
+"date": "2026-04-29",
+"what_it_shows": "Supports requiring companies to test automated decision systems for bias and report to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6356, Artificial Intelligence Civil Rights Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"quote": null,
+"date": "2026-04-29",
+"what_it_shows": "Supports banning discriminatory AI and mandatory bias audits."
+},
+{
+"type": "letter",
+"title": "Signed Casar-led letter to Speaker Johnson demanding hearings with AI CEOs under oath",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"quote": "The CEOs of the largest AI companies should answer questions under oath, and Americans should have a chance to hear from independent experts on the dangers posed by this technology.",
+"date": "2026-08-10",
+"what_it_shows": "She joined 19 Democrats saying Congress has failed to respond to AI threats, after reports of models escaping test environments."
+},
+{
+"type": "interview",
+"title": "Remarks at Public Knowledge event on the Telecom Act at 30, reported by Broadband Breakfast",
+"url": "https://broadbandbreakfast.com/rep-mcclellan-hopes-to-modernize-1996-telecom-act-despite-lack-of-congressional-support/",
+"quote": "No, we need to modernize every single policy we have to reflect a world in which AI exists, and just getting [Congress] to understand that basic principle is the most frustrating part of my job",
+"date": "2026-02-26",
+"what_it_shows": "She wants broad updates to law for the AI era and criticized colleagues for focusing only on advancing AI."
+},
+{
+"type": "statement",
+"title": "Press release: McClellan, Obernolte introduce AI-Ready Networks Act (H.R. 7783)",
+"url": "https://mcclellan.house.gov/2026/03/04/mcclellan-obernolte-introduce-ai-ready-networks-act-assess-ai-usage-american/",
+"quote": "AI's impacts on our workforce and technological landscape cannot be overstated, and we must act now to ensure these changes both strengthen our telecommunications ecosystem and benefit the American people",
+"date": "2026-03-04",
+"what_it_shows": "A bipartisan study bill on AI in telecom networks that her release says imposes no new regulatory mandates, showing a pragmatic, information-first side."
+},
+{
+"type": "statement",
+"title": "Press release: McClellan introduces National Commission on Robotics Act with Obernolte and Latta",
+"url": "https://mcclellan.house.gov/2026/02/03/mcclellan-introduces-bipartisan-legislation-strengthen-us-leadership-robotics/",
+"quote": "The National Commission on Robotics Act helps ensure that the U.S. remains competitive on the global stage and a leader in technological development and innovation.",
+"date": "2026-02-03",
+"what_it_shows": "She also pushes competitiveness and innovation bills, so her guardrails stance is targeted rather than anti-technology."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "In the last Congress she cosponsored the Kids Online Safety Act, the children's privacy update (COPPA 2.0) and the My Body, My Data Act, and she says broadband should be treated as a utility. She favors specific consumer and kids protections rather than breaking up Big Tech.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 7891, Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"quote": null,
+"date": "2024-08-06",
+"what_it_shows": "Backed the House kids online safety bill requiring platforms to protect minors from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 7890, Children and Teens' Online Privacy Protection Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7890",
+"quote": null,
+"date": "2024-08-09",
+"what_it_shows": "Backed stronger limits on collecting kids' and teens' data and targeted ads."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 3420, My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"quote": null,
+"date": "2023-05-17",
+"what_it_shows": "Backed a privacy law limiting collection and sharing of reproductive health data by apps and companies."
+},
+{
+"type": "interview",
+"title": "Broadband Breakfast report on her Telecom Act remarks",
+"url": "https://broadbandbreakfast.com/rep-mcclellan-hopes-to-modernize-1996-telecom-act-despite-lack-of-congressional-support/",
+"quote": null,
+"date": "2026-02-26",
+"what_it_shows": "She said government should treat broadband access as a utility and that Congress has failed to update tech policy, a pro-regulation posture on telecom."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "She signed both House Democratic letters against a moratorium on state AI laws: the Nov. 2025 Matsui letter (81 signers) opposing the NDAA moratorium and the planned executive order, and the Dec. 2025 Clarke letter (44 signers) calling a moratorium wildly irresponsible without a federal law.",
+"evidence": [
+{
+"type": "letter",
+"title": "Signed Matsui-led letter to Johnson, Thune, Jeffries and Schumer opposing an AI moratorium in the NDAA and the preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"quote": "That vote sent a clear, bipartisan message: Congress should not freeze state and local AI safeguards",
+"date": "2025-11-26",
+"what_it_shows": "Her name appears among the signers in the letter PDF; the letter cites the Senate's 99-1 vote and opposes using an executive order to override state AI laws."
+},
+{
+"type": "letter",
+"title": "Signed Clarke-led letter to Armed Services leaders urging no AI moratorium or preemption in the FY26 NDAA",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"date": "2025-12-03",
+"what_it_shows": "Listed among the 44 signers; the letter says any preemption would put Americans at risk online."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China as of Sept 2026. Her AI for Secure Networks Act cosponsorship concerns network cybersecurity, not chips.",
+"evidence": []
+}
+},
+"signature": "Energy and Commerce Democrat who sponsors AI election-deepfake and chatbot bills, cosponsors the Ratepayer Protection and Power for the People Acts, and signed both House letters against preempting state AI laws.",
+"notable_quote": {
+"text": "No, we need to modernize every single policy we have to reflect a world in which AI exists, and just getting [Congress] to understand that basic principle is the most frustrating part of my job",
+"url": "https://broadbandbreakfast.com/rep-mcclellan-hopes-to-modernize-1996-telecom-act-despite-lack-of-congressional-support/",
+"date": "2026-02-26"
+},
+"groups": [],
+"search_notes": "Ran about nine Google News queries (AI, data centers, Ratepayer/Power for the People, chatbot/deepfake, preemption, E&C markup, Big Tech/KOSA, Markey EPA letter) plus the Wayback site listing for mcclellan.house.gov and direct reads of her AI-Ready Networks, robotics and communications-technology pages. Verified H.R. 8241 and H.R. 7977 original cosponsorship and the SPEED Act Nay on GovTrack; confirmed her signature on the Casar, Clarke, Matsui (PDF extracted) and New Democrat (PDF extracted) letters. Not confirmed: the Markey-McClellan EPA letter on data center air permits (markey.senate.gov returned 403 and Wayback was down), her Style Weekly town hall and WAVY candidate profile (URLs could not be decoded), and E&E News coverage of the data center energy bill. No AI caucus membership could be checked because her committees page returned 404."
+},
+{
+"bioguide": "M001239",
+"name": "John J. McGuire III",
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Mixed. He cosponsors the Ratepayer Protection Act, introduced his own utility-rate bill for rural households, and wrote the governor opposing the Valley Link transmission line, but he voted for the SPEED Act permitting bill, told a hearing the U.S. should invest in fossil fuels and nuclear to power AI, and has declined to answer local reporters' energy questions.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9340, Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"quote": null,
+"date": "2026-07-20",
+"what_it_shows": "One of the Virginia Republicans backing the bipartisan bill to keep data center power costs off household bills."
+},
+{
+"type": "hearing",
+"title": "Questions at House Oversight hearing on AI and the tech race with China (committee wrap-up)",
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"quote": "It's 500,000 acres. That's half the size of Delaware. We should be investing in fossil fuels and nuclear.",
+"date": "2025-09-18",
+"what_it_shows": "He wants more fossil and nuclear generation to meet AI's power demand and frames it as a race with China, a build-the-power stance."
+},
+{
+"type": "statement",
+"title": "Press release: McGuire introduces the FAIR Act (Fair, Affordable, and Inclusive Rates Act), as listed on his energy issue page",
+"url": "https://mcguire.house.gov/issues/energy",
+"quote": "legislation to ensure electric utility rates remain focused on delivering safe and affordable energy to all Americans, especially working families and rural households disproportionately impacted by rising utility costs",
+"date": "2025-08-20",
+"what_it_shows": "His own affordability bill on utility rates; it is not specific to data centers."
+},
+{
+"type": "other",
+"title": "Cardinal News column: 5th District is now Virginia's energy capital",
+"url": "https://cardinalnews.org/2026/08/31/the-5th-congressional-district-is-now-virginias-energy-capital-will-mcguire-and-perriello-talk-about-what-that-means/",
+"quote": "McGuire sent a letter to the governor urging her to oppose the project, but he declined to answer questions from Cardinal News about the project.",
+"date": "2026-08-31",
+"what_it_shows": "He opposed the Valley Link transmission line through his district in a letter to the governor but has avoided public discussion of data center and energy issues."
+},
+{
+"type": "other",
+"title": "Cardinal News: Perriello opposes Valley Link; McGuire mum except for letter",
+"url": "https://cardinalnews.org/2026/08/11/perriello-opposes-valley-link-open-to-more-nuclear-at-north-anna-silent-on-joshua-falls-mcguire-mum-except-for-letter-on-valley-link/",
+"quote": null,
+"date": "2026-08-11",
+"what_it_shows": "His campaign did not respond to interview requests about the transmission line or energy production in the district."
+},
+{
+"type": "vote",
+"title": "Voted Yea on H.R. 4776, the SPEED Act, Roll Call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"date": "2025-12-18",
+"what_it_shows": "Supported the NEPA permitting bill promoted as accelerating AI and data center infrastructure."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "He describes AI as a tool rather than a threat and says society will adapt, while allowing that some guardrails are needed. At a hearing he asked how AI superintelligence could help solve the energy problem, an optimistic framing.",
+"evidence": [
+{
+"type": "interview",
+"title": "Washington Reporter interview with eight GOP lawmakers on AI, KOSA and energy costs",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"quote": "AI is not a threat, it's a tool, he told us. You're buying intelligence, but you need guardrails. AI is here and it's getting better and better. But human civilization adapts.",
+"date": "2026-01-20",
+"what_it_shows": "Relaying Jensen Huang's view after a breakfast with him, he adopts a light-touch, adapt-to-it stance with a nod to guardrails."
+},
+{
+"type": "hearing",
+"title": "Questions at House Oversight hearing on AI and the tech race with China",
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"quote": "Mr. Hammond and Ms. Fabrizio, what are some of the ways AI superintelligence might actually help us solve the energy problem?",
+"date": "2025-09-18",
+"what_it_shows": "He treats advanced AI as a problem-solving asset in the race with China rather than a danger to control."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His only relevant bill is cosponsoring the Connected Vehicle Security Act, which bans Chinese and other adversary-linked connected-car technology. No statements on Big Tech, Section 230, privacy or kids online safety were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"quote": null,
+"date": "2026-09-02",
+"what_it_shows": "A national-security tech restriction on cars and software tied to China, Russia, Iran or North Korea."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No position found. Asked directly by the Washington Reporter whether he would back a bill preempting state AI laws if it included kids protections like KOSA, he talked about AI being a tool and did not answer the preemption question.",
+"evidence": [
+{
+"type": "interview",
+"title": "Washington Reporter interview, question on preempting state AI regulation with KOSA protections",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"quote": null,
+"date": "2026-01-20",
+"what_it_shows": "He was asked the preemption question point blank and gave a general answer about AI without taking a side."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on chip export controls or Nvidia sales to China. He mentioned a breakfast with Nvidia CEO Jensen Huang where chips came up, and press reports note he bought Nvidia stock in 2026, but neither states a policy view.",
+"evidence": []
+}
+},
+"signature": "Freshman Republican who calls AI a tool rather than a threat, wants fossil and nuclear power to run it, and cosponsors the Ratepayer Protection Act while avoiding questions on his district's transmission fights.",
+"notable_quote": {
+"text": "AI is not a threat, it's a tool, he told us. You're buying intelligence, but you need guardrails. AI is here and it's getting better and better. But human civilization adapts.",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20"
+},
+"groups": [],
+"search_notes": "Ran about ten Google News queries (AI, data centers, Perriello energy race, China/Nvidia/TikTok, Oversight AI hearing, Valley Link, Ratepayer/electric bills, FAIR Act) plus direct reads of mcguire.house.gov press pages 1-5, in-the-news, energy issue and committees pages. Opened the Oversight hearing wrap-up, the Washington Reporter interview and two Cardinal News pieces; verified the SPEED Act Yea on GovTrack. Could not open: WRIC's Sept. 3, 2026 one-on-one interview (403), Charlottesville Tomorrow's June 2026 primary Q&A (404 on guessed URL, search page rate-limited), and the FAIR Act press release itself (all URL variants 404; text taken from his energy issue page). His caucus page lists DOGE Caucus, Republican Study Committee and Defense Modernization Caucus, none AI-specific; his Armed Services CITI and Oversight cyber subcommittee seats are memberships, not leadership. Wayback CDX was down, so the site-listing helper failed. Nvidia stock purchase coverage (Sept. 2026) noted but not treated as a policy position; a Blue Virginia video of Perriello attacking him over AI chatbots in health care is an opponent's characterization and was not used."
+},
+{
+"bioguide": "C001118",
+"name": "Ben Cline",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "He says rural Virginia, including the Google project in his home county, is the wrong place for water- and power-hungry data centers, shares constituents' worries about water and electric bills, backs federal transparency requirements and cosponsors the Ratepayer Protection Act. He still sees a place for data centers in Northern Virginia and voted for the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "interview",
+"title": "WDBJ: 6th District candidates weigh in on Google data center",
+"url": "https://www.wdbj7.com/2026/07/31/6th-district-weigh-candidates-google-data-center/",
+"quote": "I share those concerns about the water usage, about the impact on electricity bills. And I've voted in Congress for transparency measures that would give voters, give local residents all of the information",
+"date": "2026-07-31",
+"what_it_shows": "His own words on the Botetourt County Google project, siding with residents on water and electric bill concerns and backing disclosure before data centers move in."
+},
+{
+"type": "interview",
+"title": "WDBJ: Rep. Ben Cline speaks on future of 6th District",
+"url": "https://www.wdbj7.com/2026/05/01/rep-ben-cline-future-6th-district/",
+"quote": "Rural parts of the country, where you have a lot of concerns about water and about electric rates, might not be the best place for data centers. Northern Virginia may be a better location for that.",
+"date": "2026-05-01",
+"what_it_shows": "He opposes data centers in his rural district while accepting them elsewhere, a conditional rather than anti-growth position."
+},
+{
+"type": "interview",
+"title": "WDBJ July 31, 2026 on who should decide data center siting",
+"url": "https://www.wdbj7.com/2026/07/31/6th-district-weigh-candidates-google-data-center/",
+"quote": "Congress shouldn't be making those decisions. Local governments and state governments, in consultation with residents, should be making those decisions.",
+"date": "2026-07-31",
+"what_it_shows": "He limits the federal role to transparency and wants siting decided locally; his Democratic opponent Beth Macy backs a national pause."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9340, Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"quote": null,
+"date": "2026-08-27",
+"what_it_shows": "Joined the bipartisan bill to keep data center power costs off household bills ahead of the House vote."
+},
+{
+"type": "vote",
+"title": "Voted Yea on H.R. 4776, the SPEED Act, Roll Call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"date": "2025-12-18",
+"what_it_shows": "Supported the permitting bill promoted as accelerating AI and data center infrastructure, a pro-build vote that cuts against his local skepticism."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "He served on the House Bipartisan Task Force on AI and said after a September 2026 event that there should be guardrails on AI. In the last Congress he cosponsored a bill letting people sue over AI copies of their face or voice. No detailed AI safety statements were found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Cardinal News: Labor Day politicking previews the Cline-Macy debate (data centers and AI section)",
+"url": "https://cardinalnews.org/2026/09/08/buena-vistas-labor-day-politicking-produces-the-cline-macy-debate-we-may-not-see/",
+"quote": "Cline: Did not address in his remarks but after the event said there should be \"guardrails\" on artificial intelligence.",
+"date": "2026-09-08",
+"what_it_shows": "A brief but direct endorsement of some AI guardrails, reported by the paper; his opponent attacked him over Google, Meta and Dominion donations and AI job losses."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 10550, Preventing Abuse of Digital Replicas Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/10550",
+"quote": null,
+"date": "2024-12-20",
+"what_it_shows": "Backed a right to sue over unauthorized AI copies of a person's face or voice, a targeted deepfake guardrail."
+},
+{
+"type": "other",
+"title": "Named to the House Bipartisan Task Force on Artificial Intelligence (Lieu press release listing members)",
+"url": "https://lieu.house.gov/media-center/press-releases/house-launches-bipartisan-task-force-artificial-intelligence",
+"quote": null,
+"date": "2024-02-20",
+"what_it_shows": "One of 24 members who produced the December 2024 task force report; membership shows engagement but not a personal position."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "He backs specific fixes: the Foreign Robocall Elimination Act this Congress, and last Congress a child online safety reporting bill, the SHOP SAFE counterfeit bill and a TikTok campus ban, plus a bill barring officials from pressuring platforms to remove posts. No support found for break-ups or repealing Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6152, Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"quote": null,
+"date": "2025-12-05",
+"what_it_shows": "Targeted crackdown on scam robocalls from abroad."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 5182, Child Online Safety Modernization Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"quote": null,
+"date": "2024-03-05",
+"what_it_shows": "Backed stronger platform reporting of child abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 8684, SHOP SAFE Act of 2024",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8684",
+"quote": null,
+"date": "2024-06-11",
+"what_it_shows": "Would make online marketplaces liable for counterfeits unless they screen sellers."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 231, Terminate TikTok on Campus Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/231",
+"quote": null,
+"date": "2023-09-12",
+"what_it_shows": "Backed a TikTok ban on federally funded campus networks."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 4791, Free Speech Protection Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4791",
+"quote": null,
+"date": "2023-07-20",
+"what_it_shows": "Would bar officials from pressuring platforms to remove posts, a conservative anti-censorship angle on platform rules."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on preempting or pausing state AI laws. He has said Congress should not decide where data centers go and should leave that to states and localities, but that concerns siting, not AI rules, and the AI task force report he helped write took no position on a moratorium.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "He cosponsors the Chip Security Act (location tracking for advanced chips), the AI OVERWATCH Act (congressional veto over AI chip sales to China) and a bill punishing Chinese theft of American AI models, and works with the China Select Committee chair on other China-restriction measures.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3447, Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"quote": null,
+"date": "2025-12-16",
+"what_it_shows": "Supports built-in location verification so advanced AI chips cannot be smuggled to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6875, AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"quote": null,
+"date": "2026-03-26",
+"what_it_shows": "Supports giving Congress power to block advanced AI chip sales to China and other risky countries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8283, Deterring American AI Model Theft Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"quote": null,
+"date": "2026-04-29",
+"what_it_shows": "Supports penalties on foreign, especially Chinese, companies that steal or copy U.S. AI models."
+},
+{
+"type": "letter",
+"title": "Moolenaar-Cline letter to FDA on Chinese clinical trial data (China Select Committee press page)",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases",
+"quote": "calling on the agency to stop the use of drug trial data from China for new clinical trial or drug applications unless the FDA has inspected the trial site in the past 12 months",
+"date": "2026-08-21",
+"what_it_shows": "Not about chips, but shows a consistent China-hawk pattern alongside his chip export control cosponsorships."
+}
+]
+}
+},
+"signature": "Freedom Caucus Republican and former AI Task Force member who cosponsors the Chip Security and AI OVERWATCH Acts and says rural Virginia is the wrong place for water-hungry data centers.",
+"notable_quote": {
+"text": "Rural parts of the country, where you have a lot of concerns about water and about electric rates, might not be the best place for data centers. Northern Virginia may be a better location for that.",
+"url": "https://www.wdbj7.com/2026/05/01/rep-ben-cline-future-6th-district/",
+"date": "2026-05-01"
+},
+"groups": [
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress), member"
+],
+"search_notes": "Ran about eleven Google News queries (AI, data centers, Botetourt Google project, China chips/Chip Security/Moolenaar, Judiciary AI hearings, preemption/KOSA, Ratepayer Protection, local AI guardrails) plus direct reads of cline.house.gov news pages 1-3, energy issue page and committees page, and the China Select Committee press page. Opened two WDBJ interviews, the Cardinal News Labor Day piece and the Lieu task force roster; verified the SPEED Act Yea on GovTrack. Not confirmed: the Jan. 13, 2026 letter to Energy and Commerce with Reps. Nunn and Moylan on data centers (no coverage found, congress.gov PDF not located), the Feb. 12, 2026 video saying there must be full public consideration of data centers, and Roanoke Times issue pieces (search rate-limited). Cardinal News' Aug. 27, 2026 column on bipartisan tech pushback returned 404. His caucus page lists Republican Study Committee vice chair, Freedom Caucus co-chair and Songwriters Caucus co-chair, none AI-specific; his Judiciary IP/AI subcommittee seat is a membership, not leadership. No AI super PAC spending for or against him was encountered; Beth Macy's claim that he took money from Google, Dominion and Meta refers to campaign donors, not the tracked PACs. Wayback CDX was down, so the site-listing helper failed."
+}
+]

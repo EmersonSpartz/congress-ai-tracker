@@ -1,0 +1,303 @@
+[
+{
+"bioguide": "S001217",
+"checks": [
+{
+"url": "https://www.rickscott.senate.gov/2026/4/sens-rick-scott-roger-marshall-introduce-resolution-supporting-pres-trump-s-ratepayer-protection-pledge",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-02",
+"note": "Direct fetch 403 and Wayback unreachable from this sandbox; retrieved full page text via r.jina.ai proxy. Quote appears verbatim in Scott's statement; page also has 'Florida families ... shouldn't be supporting Big Tech companies' expansions with their electricity bills' and praise for the voluntary pledge signed March 4, 2026. Resolution introduced 'last week' relative to Apr 2 release."
+},
+{
+"url": "https://floridapolitics.com/archives/789361-delegation-for-4-7-26-paparazzi-charged-up-farm-hand-egg-roll-cuba-visit/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-07",
+"note": "Direct fetch 403/402; retrieved via r.jina.ai proxy. 'Charging stations' section: 'Now, Sen. Rick Scott wants Congress to codify that expectation' with caption 'Rick Scott pushes Big Tech to cover AI energy costs' and the same Scott quote. Supports claim."
+},
+{
+"url": "https://www.rickscott.senate.gov/2026/8/in-case-you-missed-it-sen-rick-scott-in-naples-daily-news-ai-is-here-we-need-to-protect-and-prepare-america-s-kids",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-28",
+"note": "Direct fetch 403; retrieved via r.jina.ai proxy. Quote verbatim (curly apostrophes on page). Page also says 'AI has the potential to be the greatest information innovation since the printing press' and describes Safeguard Kids Act allowing SSAE block grants to fund AI literacy and specialized counseling in schools."
+},
+{
+"url": "https://flvoicenews.com/sen-rick-scott-wants-schools-to-teach-students-about-ai-risks-and-responsible-use/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Fetched directly (200). Quote verbatim. Bill permits schools to use SSAE federal block grants for AI literacy and counseling; no rules on AI companies described, consistent with claim."
+},
+{
+"url": "https://spectrumlocalnews.com/us/snplus/politics/2026/07/30/seniors-ai-enabled-fraud",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-30",
+"note": "Fetched directly (200). Quote verbatim and Scott identified as Aging Committee chair at the hearing on AI-enabled senior scams. However this page does not give the hearing title 'The AI Deception Machine...' and does not mention a Scott-Gillibrand report released the same day (it only mentions a Gillibrand/Kelly letter to AI companies). Those details are supported by the LeadingAge source instead."
+},
+{
+"url": "https://leadingage.org/us-senate-aging-committee-addresses-ai-fraud-against-older-adults/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-02",
+"note": "Fetched directly (200). Names the July 29, 2026 hearing 'The AI Deception Machine: Deepfakes, Chatbots, and the New Frontier of Senior Fraud', the Scott-Gillibrand report 'Artificial Intelligence & Older Americans: Confronting New Threats, Unlocking New Opportunities' released same day, the National Strategy for Combating Scams Act (Dec 2025) and ReportScams.gov bill (June 16, 2026 with Hassan). Article published Sept 2, 2026."
+},
+{
+"url": "https://floridadaily.com/rick-scott-pushes-bills-targeting-ai-driven-cybercrime-schemes/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-08",
+"note": "Fetched directly (200). Quote verbatim. Package includes STOP Scammers Act (designating foreign fraud networks), ReportScams.gov Act, plus China-related SAFE Act and Trusted Foreign Auditing Act; enforcement-focused, no AI-specific regulation."
+},
+{
+"url": "https://www.rickscott.senate.gov/2023/5/sen-rick-scott-introduces-the-ask-act-to-protect-kids-from-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-05-16",
+"note": "Direct fetch 403; retrieved via r.jina.ai proxy. Quote verbatim. ASK Act prevents children accessing AI features on social media without parent/guardian consent and directs FCC (with FTC) to issue rules barring fees to remove AI features."
+},
+{
+"url": "https://thehill.com/policy/technology/5355684-ai-moratorium-sparks-gop-battle-over-states-rights/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-18",
+"note": "Fetched directly (200). Sentence appears verbatim: Scott 'declined to say whether he would support the moratorium but noted he \"likes states' rights.\"' Single passing mention; no firm position."
+},
+{
+"url": "https://www.rickscott.senate.gov/2025/6/sen-rick-scott-leads-legislation-to-stop-u-s-government-agencies-from-using-adversarial-ai-technology",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-25",
+"note": "Direct fetch 403; retrieved via r.jina.ai proxy. Quote verbatim. No Adversarial AI Act (with Peters, House Select Committee members) prohibits federal agencies using AI controlled by foreign adversaries, citing DeepSeek. Note: this is government procurement, not chip export policy."
+},
+{
+"url": "https://www.rickscott.senate.gov/2025/11/sens-rick-scott-elizabeth-warren-introduce-bipartisan-bill-to-end-monopoly-export-licenses-boost-transparency-in-tech-exports",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-19",
+"note": "Direct fetch 403; retrieved via r.jina.ai proxy. Quote verbatim. Bill requires BIS to run a competitive market analysis on license applications to export sensitive tech to Entity List firms, targeting 'monopoly' licenses. It is about license competition/transparency, not about tightening or loosening the volume of chips sold."
+},
+{
+"url": "https://flvoicenews.com/sen-rick-scott-wants-schools-to-teach-students-about-ai-risks-and-responsible-use/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Same page as item 4; quote verbatim, attributed to Scott in a statement on the Safeguard Kids Act."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "Neither source shows Scott calling for tighter chip export controls. Item 10 is about barring federal agencies from using Chinese AI (procurement), and item 11 (License Monopoly Prevention Act with Warren) argues export licensing should not 'choose winners and losers' and asks BIS to open exclusive Entity List licenses to competitive analysis, which if anything widens who may sell. He is clearly a China hawk in general, but the evidence for the strongest 'Tighten export controls' score is too thin.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+},
+{
+"dimension": "preemption",
+"objection": "The only evidence is one June 2025 Hill line where he declined to say whether he supported the moratorium and 'likes states' rights.' That is a passing comment with no vote, bill, or statement; too thin to assign a directional lean.",
+"suggested_score": 0,
+"suggested_label": "Mixed or conditional"
+}
+]
+},
+{
+"bioguide": "M001244",
+"checks": [
+{
+"url": "https://floridapolitics.com/?name=ashley-moody-backs-local-control-on-data-center-question",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-31",
+"note": "Article (A.G. Gancarski, Aug 31 2026, resolves to /archives/817705-...) quotes Moody verbatim on Sunday Morning Futures: communities/states should decide, companies must sell proposals and promise no costs to residents. Direct fetch and Wayback both blocked (403 / Cloudflare); read via Chrome after bot check cleared on its own."
+},
+{
+"url": "https://floridapolitics.com/?name=ashley-moody-backs-local-control-on-data-center-question",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-31",
+"note": "Quote appears verbatim: 'And I think these companies need to sell it. They need to get out there and say...'. Article also states Democratic opponent State Rep. Angie Nixon backs a full moratorium pending federal legislation, and Moody does not; she says local governments can decide."
+},
+{
+"url": "https://www.moody.senate.gov/press-releases/video-senator-moody-advances-no-fakes-act-out-of-committee-to-protect-americans-from-deceptive-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-18",
+"note": "Release dated Jun 18, 2026. Quote verbatim. Says she is an original cosponsor; background bullets say the bill holds individuals/companies liable for distributing unauthorized digital replicas and platforms liable when they know a replica is unauthorized. Site returns 403 to scripted fetches; read via Chrome."
+},
+{
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Quote verbatim (Jul 17, 2026); page names Hawley, Cotton, Donalds, Moody as the four featured Republicans in the $7M+ opening ad campaign for 'common sense safeguards.' However the page never mentions Anthropic; the 'Anthropic-backed' characterization is not supported by this source (grep for 'Anthropic' found nothing)."
+},
+{
+"url": "https://www.washingtonexaminer.com/policy/technology/4652838/ai-safety-group-launches-15-million-campaign-republicans/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Article (Jul 17, 2026) states the initiative launches with more than $7 million in advertising featuring Rep. Byron Donalds and Sens. Hawley, Cotton, and Ashley Moody, and describes Public First Action as backing guardrails. Rest of article is paywalled but the relevant sentence is visible."
+},
+{
+"url": "https://www.moody.senate.gov/press-releases/news-release-senator-ashley-moody-senator-lindsey-graham-introduce-bill-to-sunset-section-230-immunity-protect-children-online",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-19",
+"note": "Release dated Dec 19, 2025. Quote verbatim. Bill would repeal Section 230 two years after enactment; she is a bipartisan co-introducer with Graham, Grassley, Hawley, Blackburn, Klobuchar, Durbin, Blumenthal, Whitehouse, Welch."
+},
+{
+"url": "https://www.moody.senate.gov/press-releases/video-release-senator-moody-fires-off-on-lawmakers-who-refuse-to-protect-children-online-get-out-of-the-way",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-14",
+"note": "Release dated May 14, 2026 about a May 13 Senate Judiciary hearing. Quote verbatim (page uses curly apostrophe in they've). She says platforms use kids 'as a piggy bank for their next quarterly earnings call'; release describes 'stalled legislation' and notes she cosponsors KOSA."
+},
+{
+"url": "https://www.moody.senate.gov/press-releases/video-release-senator-moody-fights-for-children-promotes-kids-online-safety-act-before-senate-judiciary-hearing-with-meta-whistleblowers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-09",
+"note": "Release dated Sep 9, 2025. Quote verbatim. She recounts suing Meta as Florida AG, Meta's immunity defense under a law 'passed decades ago before we had social media,' and says Congress must update laws; she is a KOSA cosponsor."
+},
+{
+"url": "https://www.moody.senate.gov/press-releases/video-release-senator-moody-fires-off-on-lawmakers-who-refuse-to-protect-children-online-get-out-of-the-way",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-14",
+"note": "Headline quote appears verbatim on the May 14, 2026 release."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the checked sources contains a Moody statement on chip export controls. The only support is Public First Action's own description of its four featured members as having 'led the fight to keep America's most advanced technology out of the hands of our adversaries,' which is a PAC characterization, not her words. Unless other evidence exists outside these items, -1 rests on thin ground.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "P000622",
+"checks": [
+{
+"url": "https://patronis.house.gov/media/press-releases/congressman-patronis-files-protect-act-to-repeal-section-230-demands-accountability-for-big-tech-says-time-for-parents-to-fight-back",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Quote appears verbatim in Patronis's own release (Jan 14, 2026) announcing the PROTECT Act (H.R. 7045) to repeal Section 230; release explicitly cites chatbots encouraging self-harm and wants companies to 'pay big' without 230 immunity."
+},
+{
+"url": "https://patronis.house.gov/media/press-releases/congressman-patronis-calls-for-accountability-as-lawsuit-linked-chatgpt-in-florida-state-university-shooting",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-07",
+"note": "Quote verbatim (Apr 7, 2026). He ties the ChatGPT link to his Section 230 repeal push and says plaintiffs face an uphill battle; supports claim of wanting AI firms exposed to suits."
+},
+{
+"url": "https://patronis.house.gov/media/press-releases/congressman-jimmy-patronis-and-florida-attorney-general-james-uthmeier-to-lead-discussion-on-ai-chatbots-and-the-fight-to-repeal-section-230",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-08",
+"note": "Release (June 8, 2026) announces June 9 telephone town hall with AG Uthmeier on AI chatbots and Section 230, and states Uthmeier 'takes action against OpenAI in Florida'. Supports the claim."
+},
+{
+"url": "https://patronis.house.gov/media/press-releases/congressman-patronis-introduces-bill-to-prevent-woke-ai-in-the-federal-government",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-05",
+"note": "Quote verbatim (Aug 5, 2025). Bill codifies Trump EO on 'woke AI' in federal procurement; the claim's interpretation (conditions on government use, not industry-wide regulation) is fair for this item."
+},
+{
+"url": "https://patronis.house.gov/media/press-releases/congressman-patronis-files-protect-act-to-repeal-section-230-demands-accountability-for-big-tech-says-time-for-parents-to-fight-back",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "'Digital fentanyl' quote appears verbatim in the Jan 14, 2026 PROTECT Act release."
+},
+{
+"url": "https://patronis.house.gov/media/press-releases/patronis-stands-up-against-big-tech-to-protect-our-kids",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Release (Jan 22, 2026) says he 'spoke on the House floor' urging support for H.R. 7045; quote appears verbatim in the remarks."
+},
+{
+"url": "https://patronis.house.gov/media/press-releases/congressman-patronis-urges-congress-to-repeal-section-230-after-social-media-negligence-verdict",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-25",
+"note": "Quote verbatim (Mar 25, 2026); release references the first social media addiction trial verdict against Meta and YouTube (K.G.M. case) and calls for passing the PROTECT Act."
+},
+{
+"url": "https://patronis.house.gov/media/press-releases/congressman-jimmy-patronis-issues-a-statement-on-the-kids-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-01",
+"note": "Quote verbatim (Jul 1, 2026). He voted against the KIDS Act, saying it 'falls short' and that Section 230's 'sweeping legal protections' remain; 'half measure' is a paraphrase but accurate."
+},
+{
+"url": "https://desaulnier.house.gov/media-center/press-releases/representatives-desaulnier-and-patronis-introduce-legislation-hold-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Quote verbatim (Sep 10, 2026) on Democrat Mark DeSaulnier's site; Patronis says he co-leads the Sunset Section 230 Act. Bipartisan co-lead confirmed; the 'Senate-style' descriptor (Durbin/Graham companion) is not stated on this page but is a minor gloss."
+},
+{
+"url": "https://thecapitolist.com/cfo-jimmy-patronis-bans-deepseek-ai-from-department-of-financial-services/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-21",
+"note": "Quote verbatim (Feb 21, 2025), from his time as Florida CFO. Directive bans DeepSeek on state devices over data exposure to Chinese intelligence; he also says 'American companies must out-compete China'. About app/data security, not chip exports, as the item itself acknowledges."
+},
+{
+"url": "https://patronis.house.gov/media/press-releases/congressman-patronis-files-protect-act-to-repeal-section-230-demands-accountability-for-big-tech-says-time-for-parents-to-fight-back",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Headline quote appears verbatim in the Jan 14, 2026 release."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only source is a pre-Congress state directive banning the DeepSeek app on Florida DFS devices over data-privacy concerns. It says nothing about semiconductor export controls or selling chips abroad, and 'American companies must out-compete China' cuts either way. Evidence is too thin to place him on this scale.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "D000628",
+"checks": [
+{
+"url": "https://dunn.house.gov/about/committees-and-caucuses.htm",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Page (live, status 200) lists 'House Committee on Energy and Commerce - Vice Chair', 'Congressional Artificial Intelligence Caucus' under caucuses, and 'House Task Force on Artificial Intelligence' under appointments. All three parts of the claim appear verbatim. Page carries no date and no policy statements."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only item checked is a committee/caucus roster with no statement of Dunn's views on AI regulation. Membership in the AI Caucus and AI Task Force is not evidence for 'Targeted guardrails' over any other position; evidence is too thin to support a -1 score.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No source in this item set addresses Big Tech or tech regulation at all; the roster page only lists committee jurisdiction. Evidence too thin for -1.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "china_chips",
+"objection": "No source in this item set mentions China, chips, or export controls. A -2 'Tighten export controls' score is unsupported by the checked evidence.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

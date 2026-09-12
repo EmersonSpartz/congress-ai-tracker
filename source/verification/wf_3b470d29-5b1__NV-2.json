@@ -1,0 +1,117 @@
+[
+{
+"bioguide": "L000590",
+"checks": [
+{
+"url": "https://thenevadaindependent.com/article/what-do-nevadas-congressional-candidates-think-about-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-26",
+"note": "Page (Aug 26, 2026) says Lee 'said in an interview that there should be disclosure requirements on water consumption and potentially energy efficiency standards,' describes her and Titus as open to federal changes 'on a smaller scale,' and states almost all candidates opposed a blanket federal pause except Horsford, who kept the door open. Claim matches."
+},
+{
+"url": "https://www.eenews.net/articles/republicans-reject-renewable-energy-data-center-amendments-to-interior-epa-bill/",
+"verdict": "confirmed",
+"corrected_quote": "all-of-the-above energy permitting",
+"corrected_date": "2026-06-04",
+"note": "Article (June 4, 2026) says Rep. Susie Lee (D-Nev.) offered an amendment for 'all-of-the-above energy permitting' at the Interior Department and notes the administration has put solar and wind projects through new scrutiny; headline says Republicans rejected the Democratic amendments. Only the top of the article was retrievable (paywall), but the visible text supports the claim. Note this amendment is about energy permitting generally, not data centers specifically."
+},
+{
+"url": "https://fedscoop.com/house-small-business-committee-sba-ai-bills/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "Article (May 22, 2026) says the Small Business Technological Act (H.R. 915) from Alford and Rep. Susie Lee, D-Nev., would clarify SBA can issue 7(a) loans for business software, cloud services and AI tools; advanced 23-0. Supports the claim. The 'not be walled off' framing is the tracker's inference, but reasonable."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only ai_risk source is an SBA loan-eligibility bill that encourages small-business AI adoption; it says nothing about guardrails or safety rules. It cannot support -1 'Targeted guardrails' and if anything leans toward adoption/light touch. Evidence is too thin for any ai_risk position.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "None of the three sources address Big Tech regulation, platform rules, or consumer/privacy legislation. No evidence in this set supports -1 'Targeted rules'.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "china_chips",
+"objection": "None of the three sources mention export controls, chips, or China. No evidence in this set supports -1 'Leans hawkish'.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "H001066",
+"checks": [
+{
+"url": "https://thenevadaindependent.com/article/what-do-nevadas-congressional-candidates-think-about-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-26",
+"note": "Quote appears verbatim in Horsford's written response. Article says he wants federal disclosure standards for energy/water use plus infrastructure requirements, states allowed to 'go further', and he was the only candidate who kept the door open to a future federal moratorium."
+},
+{
+"url": "https://thenevadaindependent.com/article/what-do-nevadas-congressional-candidates-think-about-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-26",
+"note": "Quote verbatim. Article: Horsford was the only Democrat to raise national security, called it important to consider, but said it is 'an argument for doing it right, not an excuse for doing it recklessly.'"
+},
+{
+"url": "https://horsford.house.gov/media/press-releases/horsford-introduces-legislation-to-protect-workers-from-ai-driven-layoffs",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-19",
+"note": "Quote verbatim. Release on the AI-Related Job Impacts Clarity Act (disclosure of AI layoffs to DOL); he says the bill 'doesn't slow down innovation, it demands' transparency/accountability."
+},
+{
+"url": "https://lasvegassun.com/news/2026/aug/20/las-vegas-union-workers-reps-ro-khanna-and-steven/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-20",
+"note": "Quote verbatim (continues 'Not pink slips for our workers, and big profits for billionaires'). Article states Horsford advocated legislative guardrails: advance notice and training when new technology is introduced and collective bargaining to keep employers accountable. Town hall at Teamsters Local 631."
+},
+{
+"url": "https://www.quiverquant.com/news/Press+Release%3A+Rep.+Steven+Horsford+Partners+with+OpenAI+and+Rep.+Ro+Khanna+to+Enhance+AI+Workforce+Training+in+North+Las+Vegas",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-24",
+"note": "Mirror (AI summary plus release text) confirms Horsford hosted/participated in an OpenAI Academy event in North Las Vegas with Rep. Khanna and the College of Southern Nevada, with hands-on OpenAI training; quote about the AI economy being built now and fighting for local inclusion. Note the mirror's summary is AI-generated; the underlying release is linked."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Horsford is listed among the 44 signers. Letter text says preemption 'would create an unnecessary regulatory vacuum that lets Big Tech run rampant.'"
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim; Horsford named as signer. Letter says any preemption would put 'all Americans at risk online' and urges no moratorium or preemption in the final FY26 NDAA."
+},
+{
+"url": "https://thenevadaindependent.com/article/what-do-nevadas-congressional-candidates-think-about-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-26",
+"note": "Quote verbatim from his written response; article says he wants federal standards with states allowed to 'go further.' Note this is about data center standards specifically, not AI regulation generally, but it is consistent with the NDAA letter."
+},
+{
+"url": "https://horsford.house.gov/media/press-releases/horsford-introduces-legislation-to-protect-workers-from-ai-driven-layoffs",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-19",
+"note": "Verbatim in the June 19, 2026 press release."
+}
+],
+"score_objections": []
+}
+]

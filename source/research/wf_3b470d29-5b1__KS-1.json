@@ -1,0 +1,542 @@
+[
+{
+"bioguide": "M000934",
+"name": "Jerry Moran",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. Moran cosponsored a bill on the supply chain for electric grid equipment, but he has not spoken on data center siting, tax breaks, water use or electric bills, and he was not part of the July 2026 KSHB candidate survey because he is not on the 2026 ballot.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3499 Electric Supply Chain Act (original cosponsor with Sen. Cortez Masto)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3499",
+"date": "2025-12-16",
+"quote": null,
+"what_it_shows": "Directs the Energy Department to assess the supply chain for power generation and transmission equipment; it is about grid hardware, not data centers themselves."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Moran treats AI as a big opportunity that carries real risks. He wrote the bill that would make federal agencies follow NIST's AI safety playbook, cosponsored a bill to check the most powerful AI models for serious dangers before release, and pushes AI education and small-business training. He has not called for licensing, liability or a pause.",
+"evidence": [
+{
+"type": "statement",
+"title": "WIBW: Moran and Warner introduce Federal AI Risk Management Act",
+"url": "https://www.wibw.com/2023/11/02/legislators-hope-guidelines-be-accepted-federal-agencies-use-ai/",
+"date": "2023-11-02",
+"quote": "it would be naïve to ignore the risks that accompany this emerging technology, including risks related to data privacy and challenges verifying AI-generated data.",
+"what_it_shows": "He names concrete AI risks and wants the NIST risk framework made mandatory for federal agencies and their vendors."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.3205 Federal Artificial Intelligence Risk Management Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/3205",
+"date": "2023-11-02",
+"quote": null,
+"what_it_shows": "His own bill would require federal agencies to follow the NIST AI Risk Management Framework when buying or using AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.5616 Preserving American Dominance in Artificial Intelligence Act of 2024",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/5616",
+"date": "2024-12-19",
+"quote": null,
+"what_it_shows": "Backed a bill to set up a government office to check the most powerful AI models for serious dangers before release, a binding safety-testing idea."
+},
+{
+"type": "statement",
+"title": "Press release: Sens. Moran, Cantwell Introduce Legislation to Boost AI Education",
+"url": "https://www.moran.senate.gov/public/index.cfm/news-releases?ID=EA14D5FF-EA37-4C75-87CE-218927D505F8",
+"date": "2024-05-23",
+"quote": "Artificial Intelligence has tremendous potential, but it will require a skilled and capable workforce to unlock its capabilities",
+"what_it_shows": "His main AI focus is workforce and education, framed around keeping the U.S. an AI leader."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.3957 NSF AI Education Act of 2026 (with Sen. Cantwell)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3957",
+"date": "2026-03-02",
+"quote": null,
+"what_it_shows": "Reintroduced his AI scholarship and teacher-training bill in the 119th Congress."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.3888 Small Business Artificial Intelligence Training Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3888",
+"date": "2026-02-12",
+"quote": null,
+"what_it_shows": "Wants small businesses helped to adopt AI tools, a pro-adoption stance."
+},
+{
+"type": "other",
+"title": "Bloomberg Government: AI Education Scholarships Promoted in Bipartisan Senate Bill",
+"url": "https://news.bgov.com/bloomberg-government-news/ai-education-scholarships-promoted-in-bipartisan-senate-bill",
+"date": "2026-03-03",
+"quote": "The Senate duo last month also introduced a bill to support small businesses with AI training.",
+"what_it_shows": "Independent confirmation of his 2026 AI education and small-business AI bills with Cantwell."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Moran backs targeted rules rather than a crackdown. He sponsors a national consumer data privacy law and a parental-control bill for kids' apps, and cosponsors the Kids Online Safety Act and a ban on Chinese-linked connected cars. He has not called for breaking up Big Tech or repealing Section 230.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.4211 Consumer Data Privacy and Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4211",
+"date": "2026-03-25",
+"quote": null,
+"what_it_shows": "His own bill would create one national law on how companies collect and use personal data."
+},
+{
+"type": "other",
+"title": "Quiver Quantitative summary of S.4211 Consumer Data Privacy and Security Act of 2026",
+"url": "https://www.quiverquant.com/news/New+Bill%3A+Senator+Jerry+Moran+introduces+S.+4211%3A+Consumer+Data+Privacy+and+Security+Act+of+2026",
+"date": "2026-04-15",
+"quote": "The bill grants individuals rights concerning their personal data, such as the right to access, correct, and delete their information.",
+"what_it_shows": "The bill gives consumers data rights and holds companies accountable, with exemptions for small businesses."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-09",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms to protect minors."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.4349 Parents Over Platforms Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4349",
+"date": "2026-04-20",
+"quote": null,
+"what_it_shows": "Wants parents to have more control over the apps and online services their kids use."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-17",
+"quote": null,
+"what_it_shows": "Backs banning connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.686 RESTRICT Act",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-07",
+"quote": null,
+"what_it_shows": "Supported letting the government review and block apps and tech from rival countries, the bill behind the TikTok debate."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on whether Washington should override state AI laws. He voted with 99 senators to strip the 10-year state-law moratorium from the 2025 budget bill, but did not explain the vote. His own privacy bill would set one national data privacy standard, but that is a privacy law, not an AI law.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Joined the near-unanimous vote to remove the moratorium after the deal collapsed; by itself this does not show a position on preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Moran is a China hawk on technology broadly. He backed bills to block Chinese apps and Chinese-linked connected cars and called for fully implementing the CHIPS and Science Act. But no statement was found on AI chip export controls or Nvidia sales to China, so this is a lean, not a firm position.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release and speech: Sen. Moran Gives Foreign Policy Speech on Fortifying the U.S. from Threats from China",
+"url": "https://www.moran.senate.gov/public/index.cfm/news-releases?ID=B97F647A-9263-426A-8270-699E23942E3F",
+"date": "2023-03-22",
+"quote": "The United States cannot be reliant on our adversaries for critical supplies, medicine, food, technology or energy.",
+"what_it_shows": "He warns about dependence on China for technology, notes China's share of semiconductor fabrication, and calls for full implementation of the CHIPS and Science Act."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.686 RESTRICT Act",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-07",
+"quote": null,
+"what_it_shows": "Supported government power to block technology from rival countries like China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-17",
+"quote": null,
+"what_it_shows": "Backs keeping Chinese-linked connected-car technology out of the U.S. market."
+}
+]
+}
+},
+"signature": "Senate Commerce and Appropriations veteran who writes bipartisan bills on AI education, small-business AI training and government AI safety rules, and sponsors a national data privacy law.",
+"notable_quote": {
+"text": "AI has tremendous potential to improve the efficiency and effectiveness of the federal government, in addition to the potential positive impacts on the private sector. However, it would be naïve to ignore the risks that accompany this emerging technology, including risks related to data privacy and challenges verifying AI-generated data.",
+"url": "https://www.wibw.com/2023/11/02/legislators-hope-guidelines-be-accepted-federal-agencies-use-ai/",
+"date": "2023-11-02"
+},
+"groups": [
+"Chair, Senate Appropriations Subcommittee on Commerce, Justice, Science and Related Agencies (funds NIST and NSF)",
+"Member, Senate Commerce Subcommittee on Consumer Protection, Technology, and Data Privacy"
+],
+"search_notes": "About 13 news searches (AI, data centers, chips/export controls, Big Tech/privacy, preemption, electricity/Evergy, deepfakes, KOSA, AI regulation, hearings, his AI bills) plus direct fetches. Two landscape leads were wrong: the July 2026 AI Kill Switch Act and H.R. 9477 AI Incident Reporting Act belong to Rep. Nathaniel Moran (R-TX), confirmed in the Roll Call story, so they were discarded. moran.senate.gov blocks direct fetches and the Wayback CDX index was down, so the 2026 press releases on the Consumer Data Privacy and Security Act and Parents Over Platforms Act could not be read; the Commerce Committee release on the 2026 NSF AI Education Act returned 403. Google News link decoding stopped working partway through, so a Wichita Eagle op-ed backing his kids-online bill (May 2026) was not opened. No data center statement, no preemption statement, no chip export statement and no AI super PAC activity found."
+},
+{
+"bioguide": "M001198",
+"name": "Roger Marshall",
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "high",
+"summary": "Marshall is one of the most outspoken Senate Republicans against AI data centers. He says Kansans are 'on fire' about them, backs the county moratoriums spreading across Kansas, opposes tax breaks, and cosponsors bills to keep data center costs off family electric bills. He stops short of a statewide ban, saying the decision belongs to local communities, and he also backs bills to build more dispatchable power.",
+"evidence": [
+{
+"type": "interview",
+"title": "Semafor: Republican senator Roger Marshall rails against AI data centers (World of Work event)",
+"url": "https://www.semafor.com/article/07/22/2026/republican-senator-roger-marshall-rails-against-ai-data-centers",
+"date": "2026-07-22",
+"quote": "I certainly support their moratoriums.",
+"what_it_shows": "Said several dozen Kansas counties have placed moratoriums on data centers and that he supports them, while opposing tax incentives for data centers."
+},
+{
+"type": "interview",
+"title": "Semafor: Marshall on electricity costs and local control of data center moratoriums",
+"url": "https://www.semafor.com/article/07/22/2026/republican-senator-roger-marshall-rails-against-ai-data-centers",
+"date": "2026-07-22",
+"quote": "I certainly don't want it to drive up other people's electricity costs.",
+"what_it_shows": "Pointed to higher electric rates near Panasonic's Kansas plant as a warning, but did not endorse statewide moratoriums like New York's, saying decisions should be local, not state or federal."
+},
+{
+"type": "statement",
+"title": "KSHB voter guide: Kansas candidates' stances on data center development",
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"date": "2026-07-16",
+"quote": "Kansas isn't going to hand over our land, water, or power grid to Big Tech companies that turn a profit while local families foot the bill with taxpayer giveaways.",
+"what_it_shows": "His written campaign answer says he supports Kansas counties saying no to data centers and opposes taxpayer giveaways."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3852 GRID Act (Hawley-Blumenthal)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3852",
+"date": "2026-08-07",
+"quote": null,
+"what_it_shows": "Backs stopping utilities from raising regular families' electric bills to pay for giant AI data centers."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: S.Con.Res.30 endorsing the Ratepayer Protection Pledge (Sen. Rick Scott)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/30",
+"date": "2026-03-25",
+"quote": null,
+"what_it_shows": "Signed on the day it was introduced to a resolution saying households, farms and small businesses should not pay more as AI and data center infrastructure expands (verified in the govinfo bill status record)."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.465 GRID Power Act (Sen. Hoeven)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/465",
+"date": "2025-02-26",
+"quote": null,
+"what_it_shows": "Also supports speeding up grid connections for dispatchable power plants, so he wants more supply built even as he fights data center costs (verified in the govinfo bill status record)."
+},
+{
+"type": "other",
+"title": "Semafor: Britt says Congress should turn Trump's data center pledge into law (mentions Marshall)",
+"url": "https://www.semafor.com/article/09/04/2026/britt-congress-should-turn-trumps-data-center-pledge-into-law",
+"date": "2026-09-03",
+"quote": "Incumbent Sen. Roger Marshall, R-Kan., says his constituents are “on fire” in opposition to data centers.",
+"what_it_shows": "Marshall is cited nationally as an example of Republicans turning against data centers ahead of the 2026 election."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Marshall frames AI as a tool that should help, not replace, workers, and he backs targeted rules: opt-in consent before airport face scans, reporting when AI drives mass layoffs, and studies of AI's effects on jobs and older adults. He warns AI plus quantum computing could break encryption and arm adversaries. He has not called for licensing, liability or a pause.",
+"evidence": [
+{
+"type": "statement",
+"title": "StateScoop: Marshall and Blunt Rochester introduce the RESULTS Act on education and workforce data for the AI era",
+"url": "https://statescoop.com/education-workforce-data-state-longitudinal-systems/",
+"date": "2026-07-29",
+"quote": "AI can help people work smarter and more efficiently. But if you can't measure it, you can't manage it.",
+"what_it_shows": "Calls AI a tool rather than a replacement for American workers and wants better data to manage its effects on jobs."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3339 AI Workforce PREPARE Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3339",
+"date": "2026-03-10",
+"quote": null,
+"what_it_shows": "Backs a government study of which jobs AI will change or replace."
+},
+{
+"type": "other",
+"title": "Roll Call: Lawmakers want better data on AI's workforce impacts (Marshall listed as cosponsor of Sen. Banks's bill)",
+"url": "https://rollcall.com/2026/07/29/lawmakers-want-better-data-on-ais-workforce-impacts/",
+"date": "2026-07-29",
+"quote": "It would require employers to disclose if AI was a factor in a mass layoff.",
+"what_it_shows": "The AI workforce bill he cosponsors includes a jobs-reporting rule for employers, a targeted guardrail."
+},
+{
+"type": "other",
+"title": "PYMNTS: Senate Bill Aims to Map AI's Impact on US Workforce",
+"url": "https://www.pymnts.com/artificial-intelligence-2/2026/senate-bill-aims-to-map-ais-impact-on-us-workforce/",
+"date": "2026-07-31",
+"quote": "would add AI-related questions to existing federal surveys to measure how employers are deploying AI and which occupations are most affected",
+"what_it_shows": "Confirms Marshall as a cosponsor and describes the bill's AI Workforce Research Hub and worker-transition tracking."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1691 Traveler Privacy Protection Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1691",
+"date": "2025-05-08",
+"quote": null,
+"what_it_shows": "Wants airport security to get permission before scanning faces and to let travelers say no."
+},
+{
+"type": "other",
+"title": "FedScoop: Senators want TSA to scale back facial recognition at airports",
+"url": "https://fedscoop.com/senators-want-tsa-to-scale-back-facial-recognition-at-airports/",
+"date": "2025-05-09",
+"quote": "Sens. Ed Markey, D-Mass., and Roger Marshall, R-Kan., are also co-sponsors of the bill.",
+"what_it_shows": "Independent confirmation that he joined the bipartisan bill limiting TSA facial recognition."
+},
+{
+"type": "interview",
+"title": "Semafor: Marshall warns about AI and quantum computing risks at World of Work event",
+"url": "https://www.semafor.com/article/07/22/2026/republican-senator-roger-marshall-rails-against-ai-data-centers",
+"date": "2026-07-22",
+"quote": "He warned that advances in AI combined with quantum computing could eventually break down blockchain technology and encryption, giving powerful tools to foreign adversaries and terrorists.",
+"what_it_shows": "Sees national security dangers from advanced AI and left the door open to Congress acting on AI infrastructure."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4916 Aging with Artificial Intelligence Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4916",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "Backs a federal study of how AI affects older adults, a cautious research-first approach."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Marshall's record is a steady set of targeted rules aimed at social media and kids' safety. He wrote the bill making platforms report fentanyl sales to the DEA, and he cosponsors the Kids Online Safety Act, the STOP CSAM Act, an age-verification bill for social media and a ban on Chinese-linked connected cars. His rhetoric against 'Big Tech' is sharp, but he has not pushed break-ups or a Section 230 repeal.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.1080 Cooper Davis Act",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1080",
+"date": "2023-03-30",
+"quote": null,
+"what_it_shows": "His own bill would make social media companies report illegal drug sales like fentanyl to the DEA."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms to protect kids under 17."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1829 STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2026-07-13",
+"quote": null,
+"what_it_shows": "Backs letting victims sue platforms that fail to remove child sexual abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1291 Protecting Kids on Social Media Act",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1291",
+"date": "2023-07-27",
+"quote": null,
+"what_it_shows": "Supported age checks, keeping kids under 13 off social media and limits on algorithmic feeds for teens."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-15",
+"quote": null,
+"what_it_shows": "Backs banning connected cars and software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "statement",
+"title": "KSHB voter guide: Marshall on 'Big Tech companies' and data centers",
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"date": "2026-07-16",
+"quote": "I support the counties in Kansas who are standing up and saying NO to data centers.",
+"what_it_shows": "His campaign language casts Big Tech as profiting while local families pay, a populist framing that carries over to his tech votes."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws. He voted with 99 senators to strip the 10-year moratorium from the 2025 budget bill without explaining the vote. On data centers he says decisions belong at the local level, not the state or federal level, but he has not applied that view to AI rules.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Joined the near-unanimous vote to remove the moratorium after the deal collapsed; by itself this does not show a position on preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Marshall leans hawkish on China and technology. He cosponsors a ban on Chinese-linked connected cars and warns that AI and quantum advances could hand powerful tools to adversaries. But no statement was found on AI chip export controls or Nvidia sales to China, so this is a lean, not a firm position.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-15",
+"quote": null,
+"what_it_shows": "Backs keeping Chinese-linked connected-car technology out of the U.S. market."
+},
+{
+"type": "interview",
+"title": "Semafor: Marshall on national security implications of AI infrastructure",
+"url": "https://www.semafor.com/article/07/22/2026/republican-senator-roger-marshall-rails-against-ai-data-centers",
+"date": "2026-07-22",
+"quote": "he left open the door to Congress acting to address the national security implications of AI infrastructure.",
+"what_it_shows": "Treats AI as a national security matter tied to foreign adversaries, without naming chip export policy."
+}
+]
+}
+},
+"signature": "Kansas senator who says constituents are 'on fire' against AI data centers, backs county moratoriums and ratepayer protections, and sponsors kids' online safety and anti-fentanyl platform bills.",
+"notable_quote": {
+"text": "Kansas isn't going to hand over our land, water, or power grid to Big Tech companies that turn a profit while local families foot the bill with taxpayer giveaways. I support the counties in Kansas who are standing up and saying NO to data centers.",
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"date": "2026-07-16"
+},
+"groups": [],
+"search_notes": "About 14 news searches (data centers, AI, his July 2026 AI press release, Big Tech/social media, chips/export controls, preemption and state AI laws, Evergy/ratepayers, KOSA, GRID Act, workforce bill, China/AI, PACs) plus fetches. Both first-pass quotes (Semafor and KSHB) were re-checked word for word at the source. His July 22, 2026 press release titled 'AI Will Not Replace Us, It Will Assist Us' is blocked (403) and not in the Wayback Machine or archive.ph, so it could not be read. Topeka Capital-Journal pieces (Aug 28 data centers and unions, Sep 5 Kansas visit, Sep 11 social media interview) return 403 and Google News link decoding failed, so they were not opened. GRID Power Act (S.465, cosponsored 2025-02-26) and S.Con.Res.30 (original cosponsor 2026-03-25) were verified in govinfo bill status XML since congress.gov blocked fetches. No AI super PAC support or attacks found in Kansas coverage."
+},
+{
+"bioguide": "M000871",
+"name": "Tracey Mann",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement on data centers found as of Sept 2026. Mann did not answer KSHB's July 2026 candidate survey on data centers. He cosponsors two bills to speed up and protect power supply on the grid, which touch the energy side of the boom but take no position on data centers, tax breaks or electric bills.",
+"evidence": [
+{
+"type": "other",
+"title": "KSHB voter guide: Kansas candidates' stances on data center development (Mann did not respond)",
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"date": "2026-07-16",
+"quote": null,
+"what_it_shows": "Listed under Kansas U.S. House District 1 as giving no response by publication, while his primary challenger answered."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.1047 GRID Power Act (Rep. Balderson)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1047",
+"date": "2025-07-10",
+"quote": null,
+"what_it_shows": "Backs having FERC prioritize dispatchable power plants in the grid connection queue; a power-supply bill whose official summary does not mention data centers (verified in govinfo bill status)."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3616 Reliable Power Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3616",
+"date": "2025-07-10",
+"quote": null,
+"what_it_shows": "Backs requiring FERC to review rules that may hurt reliable operation of the bulk power system (verified in govinfo bill status)."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on AI dangers or how tightly AI should be regulated. His only AI actions are joining a bipartisan bill on securing AI systems while keeping innovation moving, and introducing a road-safety bill that lets states use AI tools. Neither takes a side in the AI risk debate.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R.9363 AI Security and Innovation Act (Rep. Obernolte)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9363",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Signed on at introduction to a bipartisan bill on federal work to secure AI systems while supporting American AI innovation; neutral on the risk debate (verified in govinfo bill status)."
+},
+{
+"type": "other",
+"title": "FedScoop: Lawmakers seek larger DOT role in coordinating state, local roadway tech efforts (Roadway Safety Modernization Act)",
+"url": "https://fedscoop.com/bicameral-bill-dot-role-local-state-tech-effort/",
+"date": "2026-01-08",
+"quote": "The Senate bill has a House companion from Reps. Tracey Mann, R-Kan., and Sharice Davids, D-Kan., that was introduced late last month.",
+"what_it_shows": "His bipartisan bill promotes data-driven, AI-powered tools for road safety, a pro-adoption use of AI."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Thin record. He cosponsored a bill to stop data brokers from selling service members' personal data to hostile countries, a targeted fix. No statements found on Big Tech, Section 230, privacy law or kids' online safety.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6573 Protecting Military Servicemembers' Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2024-01-17",
+"quote": null,
+"what_it_shows": "Supported a narrow data-broker rule protecting U.S. troops' personal information from hostile countries."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on whether Washington should override state AI laws. He voted for the House budget bill in May 2025 that carried the 10-year moratorium on state AI laws, but that was one provision in a huge tax-and-spending package and he did not comment on it.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on House passage of H.R. 1 (One Big Beautiful Bill Act), which included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "Voted for the House reconciliation bill containing the moratorium; because the bill covered taxes, Medicaid and much more, this alone is weak evidence of a preemption stance."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China. Searches of his press releases and Kansas and national news coverage for chips, Nvidia, export controls and semiconductors returned nothing.",
+"evidence": []
+}
+},
+"signature": "Agriculture-focused House member with almost no public AI footprint beyond cosponsoring the AI Security and Innovation Act and two grid power bills.",
+"notable_quote": null,
+"groups": [
+"Congressional Blockchain Caucus (member)",
+"Rural Broadband Caucus (member)"
+],
+"search_notes": "About 10 news searches (AI, data centers, Big Tech/Section 230/TikTok, chatbots and deepfakes, electricity/Evergy/grid, Nvidia/export controls, preemption and H.R. 1, social media/KOSA, AI Security and Innovation Act) plus fetches of his press release index (four pages), in-the-news page, newsletter archive and committees-and-caucuses page; none mention AI or data centers. KSHB non-response confirmed at the source. H.R.1047 and H.R.3616 cosponsorships (both 2025-07-10) and H.R.9363 original cosponsorship (2026-06-18) verified in govinfo bill status XML. A June 2026 Quiver Quantitative item about a congressman selling Big Tech stocks and a June 1, 2026 Washington Examiner op-ed on building could not be decoded or confirmed as his. No PAC activity found."
+}
+]

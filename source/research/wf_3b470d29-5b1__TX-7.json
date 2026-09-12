@@ -1,0 +1,436 @@
+[
+{
+"bioguide": "V000134",
+"name": "Beth Van Duyne",
+"signature": "Co-founder of the Congressional Creators Caucus who wrote the CREATOR Act against AI style theft, cosponsored the Ratepayer Protection Act, and says states should not regulate AI out of being competitive.",
+"groups": [
+"Congressional Creators Caucus (Co-Founder and Co-Chair)",
+"House Small Business Subcommittee on Economic Growth, Tax, and Capital Access (Chairman)",
+"House Energy Action Team (HEAT) (Member)"
+],
+"notable_quote": {
+"text": "I would hate for states to regulate our technology out of being competitive. We have to beat China.",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20"
+},
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. She cosponsored the bipartisan Ratepayer Protection Act to keep the cost of powering data centers off household electric bills, and told Bloomberg TV that data center siting should be decided at the local level. At the same time she frames AI as a technology the country must grow and wants less regulation on energy producers. No statement for or against a specific Texas project was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9340, Ratepayer Protection Act (Evans/Castor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "She joined a bipartisan bill meant to stop regular customers' electric bills from rising to pay for power that big new users like data centers need."
+},
+{
+"type": "interview",
+"title": "Bloomberg TV: Data center construction should be decided at the local level, says Rep. Van Duyne",
+"url": "https://www.bloomberg.com/news/videos/2026-09-10/data-center-rules-a-local-issue-says-rep-van-duyne-video",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "Per the headline (the video page itself is paywalled and could not be opened), she said decisions about building data centers belong at the local level rather than in Washington."
+},
+{
+"type": "interview",
+"title": "Washington Reporter interview: Van Duyne on energy prices and regulation",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20",
+"quote": "The regulatory pressure on energy producers put on by Biden need to stop, and it is stopping",
+"what_it_shows": "In a group interview framed around AI and energy costs, her energy answer was about cutting regulation on producers, not about limiting data center demand."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. She talks about AI as an emerging technology the country must grow to beat China and worries about regulation making it uncompetitive, but she also wrote the CREATOR Act, a new federal right that lets visual artists stop AI tools from commercially impersonating their style, and cosponsored the Kids Online Safety Act in 2024.",
+"evidence": [
+{
+"type": "interview",
+"title": "Washington Reporter interview: Van Duyne on AI regulation",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20",
+"quote": "When you think about AI and the effects it can have in politics, in education, in health care, it is an emerging technology that we want to be able to grow.",
+"what_it_shows": "She treats AI mainly as a growth and national security opportunity and puts beating China ahead of new rules."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 9112, CREATOR Act (protects visual artists from AI style impersonation)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9112",
+"date": "2026-06-02",
+"quote": null,
+"what_it_shows": "She is the lead sponsor of a bipartisan bill creating a federal right against the commercial use of AI-generated works that copy a living artist's distinctive style, a targeted AI guardrail."
+},
+{
+"type": "statement",
+"title": "Press release: Reps. Van Duyne, Clarke, and Foushee introduce bipartisan CREATOR Act",
+"url": "https://vanduyne.house.gov/2026/6/reps-van-duyne-clarke-and-foushee-introduce-bipartisan-creator-act-to-protect-creators-with-visual-artistic-protections",
+"date": "2026-06-03",
+"quote": "Artists, illustrators, and designers in every district are watching their livelihoods be undercut by AI tools deliberately impersonating them, but right now, the law has no answer for it.",
+"what_it_shows": "In her own words she sees a real AI harm that current law does not address and wants Congress to give creators recourse against bad actors."
+},
+{
+"type": "hearing",
+"title": "House Small Business hearing 'AI on Main Street': Van Duyne question on open and closed AI models",
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407478",
+"date": "2026-07-14",
+"quote": "Can you expand on the current state of the closed and open model ecosystem and how small businesses use both types to operate and build their businesses?",
+"what_it_shows": "Her hearing questions focus on AI adoption and access for small firms rather than on safety risks."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted rules: she cosponsored the House Kids Online Safety Act in 2024, the Connected Vehicle Security Act banning Chinese-linked connected car tech, and a bill to keep TikTok off college networks, and she sponsored the CREATOR Act aimed at AI impersonation of artists. No calls for breaking up Big Tech or repealing Section 230 were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7891, Kids Online Safety Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-09-17",
+"quote": null,
+"what_it_shows": "She backed the House version of KOSA, which requires platforms to protect minors from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "She supports banning internet-connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 231, Terminate TikTok on Campus Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/231",
+"date": "2023-01-11",
+"quote": null,
+"what_it_shows": "She supported forcing federally funded colleges to ban TikTok on their networks and devices."
+},
+{
+"type": "statement",
+"title": "Press release: CREATOR Act introduction",
+"url": "https://vanduyne.house.gov/2026/6/reps-van-duyne-clarke-and-foushee-introduce-bipartisan-creator-act-to-protect-creators-with-visual-artistic-protections",
+"date": "2026-06-03",
+"quote": "taking direct aim at the bad actors who knowingly use AI to fake an artist's identity for commercial gain",
+"what_it_shows": "She wants a new legal tool for creators against companies and people who use AI to impersonate them."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Leans toward one national standard. Asked in January 2026 whether she would back a bill that preempts state AI laws if it included kids protections like KOSA, she said all those things are important and that she would hate for states to regulate the technology out of being competitive. She has not cosponsored a preemption bill or signed a letter either way.",
+"evidence": [
+{
+"type": "interview",
+"title": "Washington Reporter interview: Van Duyne asked about preempting state AI laws in a deal with KOSA",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20",
+"quote": "I would hate for states to regulate our technology out of being competitive. We have to beat China.",
+"what_it_shows": "Her answer to a direct question about federal preemption paired with KOSA signals openness to overriding state AI laws, without a firm commitment."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. She says the U.S. must beat China on AI and cosponsored a ban on Chinese-linked connected car technology, but nothing on chips, export controls or the H20/H200 sales turned up.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Beth Van Duyne data center'; 'Van Duyne artificial intelligence'; 'Van Duyne CREATOR Act'; 'Van Duyne chatbot/deepfake/Big Tech/Section 230'; 'Van Duyne Nvidia/export controls/chips'; 'Van Duyne preemption/state AI laws'; 'Van Duyne Kids Online Safety'; 'Van Duyne Axios/Creators Caucus AI'; 'Van Duyne Ratepayer Protection Act'; 'Van Duyne Talarico'. Opened: Washington Reporter Jan 20, 2026 group interview (verbatim quotes), CREATOR Act press release and Creator Row release on vanduyne.house.gov, govtrack H.R. 9112, Small Business Committee AI hearing release, her committees-and-caucuses page, Breitbart Leading the Future lists (she is not on either slate). Dead ends: Bloomberg video page returns 403 and Wayback failed (headline only); a Fox Business Aug 25, 2026 piece ('AI data centers are a critical national security asset, lawmaker argues') surfaced in her AI search but the Google News link could not be decoded (rate limited) and the lawmaker is unidentified, so it was not used; The Hill Aug 23, 2026 Talarico interview could not be located. Congress.gov pages return 403 so bill URLs are cited per the record file."
+},
+{
+"bioguide": "W000816",
+"name": "Roger Williams",
+"signature": "House Small Business Committee chairman who runs AI-adoption hearings and SBA AI bills with a pro-innovation, anti-red-tape message.",
+"groups": [
+"House Committee on Small Business (Chairman)"
+],
+"notable_quote": {
+"text": "Europe chose to regulate first and innovate later, and today, their small businesses are falling behind. The United States cannot make the same mistake.",
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407475",
+"date": "2026-07-14"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. Searched for comments on the Hood County proposals in his district, on electric bills and ratepayers, and on the Texas audit; found nothing. His committee's Sept 2026 hearing on energy and water needs was led by a subcommittee chairman, not him.",
+"evidence": []
+},
+"ai_risk": {
+"score": 1,
+"confidence": "high",
+"summary": "Light touch. As Small Business chairman he calls the Biden AI executive order heavy-handed, praises the Trump administration for rescinding it, warns that Europe regulated first and fell behind, and pushes bills that help small firms adopt AI. He pairs this with modest oversight of how the SBA itself uses AI.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement: Chairman Williams, 'AI on Main Street: How AI is Shaping the Future of Small Business'",
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407475",
+"date": "2026-07-14",
+"quote": "The Biden-Harris Administration took a heavy-handed approach to AI.",
+"what_it_shows": "He frames regulatory uncertainty created by Washington as one of the biggest barriers to AI adoption and sides with the deregulatory Trump approach."
+},
+{
+"type": "hearing",
+"title": "Opening statement: Chairman Williams on Europe's AI approach",
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407475",
+"date": "2026-07-14",
+"quote": "Europe chose to regulate first and innovate later, and today, their small businesses are falling behind. The United States cannot make the same mistake.",
+"what_it_shows": "He treats early binding AI rules as a competitive mistake to avoid."
+},
+{
+"type": "statement",
+"title": "FedScoop: House passes bill to force SBA's hand on AI reporting (Williams statement)",
+"url": "https://fedscoop.com/house-passes-small-business-administration-ai-bills/",
+"date": "2026-06-23",
+"quote": "this legislation will help promote a more efficient and accountable government, while ensuring that innovation is paired with appropriate oversight and human judgment",
+"what_it_shows": "He supports reporting on how the SBA uses AI, a mild transparency measure for government use rather than a rule on AI companies."
+},
+{
+"type": "statement",
+"title": "FedScoop: Pair of AI-focused SBA bills advance in the House (Williams statement)",
+"url": "https://fedscoop.com/small-business-administration-house-ai-bills/",
+"date": "2025-11-18",
+"quote": "As AI becomes an integral driver of productivity and competitiveness across the economy, small businesses must not be left behind.",
+"what_it_shows": "His AI agenda is about spreading adoption and training, not about controlling advanced AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5466, GUARD Act (university AI research for the military)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5466",
+"date": "2025-09-18",
+"quote": null,
+"what_it_shows": "He backs federal money for defense-related AI research, a pro-development position that is neutral on safety rules."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward targeted rules based on cosponsorships alone: he cosponsored the TAKE IT DOWN Act in both the 118th and 119th Congress, which criminalizes posting real or AI-faked intimate images and forces fast takedowns. No statements on Section 230, antitrust or kids online safety were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633, TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-24",
+"quote": null,
+"what_it_shows": "He supported the bill, now law, that makes platforms remove nonconsensual intimate images and deepfakes within 48 hours."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8989, TAKE IT DOWN Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8989",
+"date": "2024-12-10",
+"quote": null,
+"what_it_shows": "He backed the earlier House version of the same deepfake takedown bill."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting state AI laws as of Sept 2026. A witness at his July 2026 hearing urged a national AI framework, but Williams himself made no statement, cosponsored no preemption bill, and signed no letter that we could find.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searches for Williams with Nvidia, export controls, semiconductors and China returned only unrelated trade items.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Roger Williams congressman artificial intelligence'; 'Roger Williams Texas data center'; 'Roger Williams Small Business hearing AI'; 'Chairman Williams AI small business'; 'Roger Williams Kids Online Safety/TikTok/chatbot/deepfake/Big Tech'; 'Roger Williams Nvidia/export controls/chips'; 'Roger Williams TAKE IT DOWN/deepfake'; 'Roger Williams Hood County/Granbury data center'. Opened: Small Business Committee opening statement and press release for the July 14, 2026 'AI on Main Street' hearing, three FedScoop articles on SBA AI bills (Nov 2025, Jan 2026, June 2026), the committee news list, his press release index and committees page, Breitbart Leading the Future slates (not listed). Many Google News hits were for the unrelated Roger Williams Park Zoo in Rhode Island. Congress.gov blocks direct fetches so bill URLs are cited from the record file."
+},
+{
+"bioguide": "G000603",
+"name": "Brandon Gill",
+"signature": "No notable public AI activity found; endorsed by the Leading the Future AI super PAC and cosponsor of two kids online safety bills.",
+"groups": [],
+"notable_quote": null,
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026, even though his Denton County district is part of the North Texas data center boom. Searches of his press releases, local coverage and Texas data center stories turned up nothing in his name.",
+"evidence": []
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI risk or AI rules as of Sept 2026. The only AI-related item is that the pro-industry Leading the Future super PAC put him on its first list of House GOP champions in April 2026, which is the PAC's view of him, not his own statement.",
+"evidence": [
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC releases list of 'House GOP Champions' including Rep. Brandon Gill",
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"date": "2026-04-16",
+"quote": "these House members will be critical to advancing a national framework in Congress that sets basic safety standards, protects children and families, and ensures America leads with confidence",
+"what_it_shows": "The AI industry super PAC counts him as an ally for a light-touch national AI framework; this is the PAC's characterization and Gill himself has not spoken publicly on AI that we could find."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward targeted rules based only on cosponsorships: he signed onto the STOP CSAM Act, which makes platforms do more against child sexual abuse material and lets victims sue, and the SCREEN Act, which requires adult sites to verify ages. No statements on Big Tech, Section 230 or privacy were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3921, STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-02-09",
+"quote": null,
+"what_it_shows": "He supports stronger platform duties to report and remove child sexual abuse material, with a right for victims to sue."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1623, SCREEN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2026-09-01",
+"quote": null,
+"what_it_shows": "He supports mandatory age verification on websites with adult content."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting state AI laws as of Sept 2026. He has not cosponsored a preemption bill or a states' rights bill and signed no letter we could find; the Leading the Future endorsement reflects the PAC's agenda, not a statement by him.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Brandon Gill artificial intelligence/AI'; 'Brandon Gill data center(s)'; 'Brandon Gill chatbot/deepfake/Big Tech/Section 230/censorship'; 'Brandon Gill Leading the Future/super PAC'; 'Brandon Gill Oversight hearing AI'; 'Gill Denton County data center'; 'Brandon Gill TikTok/Google/Meta'; 'Brandon Gill ChatGPT/Grok/AI-generated'. Opened: his press release index (immigration, DEI, SNAP items; nothing on AI), his energy issues and committees pages (no content), Breitbart April 16 and May 22, 2026 Leading the Future articles (confirmed on the April list), Oversight Committee Dec 10, 2025 health technology hearing wrap-up (his questions were about Obamacare, not AI), KERA Sept 10, 2026 Tarrant data center article (does not quote him), Texas Tribune and CBS Texas data center pieces (no mention). The state context file's Gill leads about S. 4656 and other Senate items belong to Sen. Gillibrand and were ignored."
+},
+{
+"bioguide": "C001115",
+"name": "Michael Cloud",
+"signature": "Member of the 2024 House Bipartisan AI Task Force; sponsor of the You Own the Data Act privacy bill; ties American AI leadership to faster energy production.",
+"groups": [
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress) (Member)",
+"House Appropriations Subcommittee on Energy and Water Development and Related Agencies (Vice Chairman)"
+],
+"notable_quote": {
+"text": "there are also serious concerns about the dangerous potential of AI in the hands of corrupt powers with nefarious objectives as well as unintended consequences from well-meaning programmers",
+"url": "https://cloud.house.gov/posts/release-rep-cloud-appointed-to-congressional-task-force-for-artificial-intelligence",
+"date": "2024-02-27"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Leans build. He has not spoken directly about data centers, but as vice chairman of the Energy and Water appropriations subcommittee he told the Energy Secretary that winning on AI comes down to energy production and speed, asked for faster permitting, and warned that Corpus Christi is running out of water. No comment on ratepayer costs or specific projects was found.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Press release: Rep. Cloud discusses Corpus Christi exports, water needs and regulatory relief with Energy Secretary Wright (Energy and Water subcommittee hearing)",
+"url": "https://cloud.house.gov/posts/release-texas-energy-leadership-spotlighted-as-rep-cloud-discusses-corpus-christi-exports-water-needs-and-regulatory-relief-with-energy-secretary",
+"date": "2026-04-16",
+"quote": "Now, the keys to that, we can look at AI or other economic impacts, but those really come down to energy production… Connected to that is the importance of speed in getting that done",
+"what_it_shows": "He frames the AI race with China as an energy buildout problem to be solved by producing power faster and cutting permitting delays, while flagging local water scarcity."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. When named to the House AI Task Force in 2024 he said Congress must keep America leading in AI and prioritize research to stay ahead of adversaries, but he also cited serious concerns about AI's dangerous potential and unintended consequences and said guardrails are needed to keep it trustworthy and safe. He has not backed specific safety mandates.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Cloud appointed to Congressional Task Force for Artificial Intelligence",
+"url": "https://cloud.house.gov/posts/release-rep-cloud-appointed-to-congressional-task-force-for-artificial-intelligence",
+"date": "2024-02-27",
+"quote": "there are also serious concerns about the dangerous potential of AI in the hands of corrupt powers with nefarious objectives as well as unintended consequences from well-meaning programmers",
+"what_it_shows": "He acknowledges misuse and accident risks from AI, not only competition with China."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Cloud appointed to Congressional Task Force for Artificial Intelligence (on guardrails and leadership)",
+"url": "https://cloud.house.gov/posts/release-rep-cloud-appointed-to-congressional-task-force-for-artificial-intelligence",
+"date": "2024-02-27",
+"quote": "considering both the benefits of deploying AI in our society, and the guardrails necessary to ensure it remains trustworthy and safe",
+"what_it_shows": "He pairs a call for U.S. leadership and research with support for unspecified guardrails, a balanced rather than hands-off stance."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Wants targeted but strong privacy rules for Big Tech. He wrote and reintroduced the You Own the Data Act, which bars companies from collecting or selling personal data without consent, limits collection to what a service needs, and lets people sue larger companies, and he cosponsored a bill to ban TikTok on U.S. devices. He has not called for breakups or Section 230 repeal.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Congressman Cloud reintroduces the You Own the Data Act (YODA)",
+"url": "https://cloud.house.gov/posts/release-congressman-cloud-reintroduces-the-you-own-the-data-act-yoda",
+"date": "2026-05-04",
+"quote": "The Constitution protects Americans' right to private property and privacy from unwarranted searches and seizures. That principle doesn't disappear the moment you open a browser",
+"what_it_shows": "His own privacy bill would give the FTC, state attorneys general and individuals the power to enforce data rights against companies with $50 million or more in revenue."
+},
+{
+"type": "statement",
+"title": "Daily Caller via cloud.house.gov: Rep. Cloud introduces legislation to hold Big Tech accountable (YODA Act)",
+"url": "https://cloud.house.gov/posts/icymi-rep-cloud-introduces-legislation-to-hold-big-tech-accountable",
+"date": "2023-05-08",
+"quote": "Citizens should have reasonable access to technologies without abdicating their right to privacy or anonymity. Big tech must be held accountable.",
+"what_it_shows": "He has pushed the same consent-based data privacy bill since 2023 and frames it as holding Big Tech accountable."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 503, No TikTok on United States Devices Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/503",
+"date": "2023-05-22",
+"quote": null,
+"what_it_shows": "He supported an outright ban on downloading or using TikTok on devices in the United States."
+}
+]
+},
+"preemption": {
+"score": 0,
+"confidence": "low",
+"summary": "Mixed or conditional, based only on a group report. He served on the 24-member bipartisan House AI Task Force whose December 2024 report found that preempting state AI laws is complex with benefits and drawbacks and recommended only a study of existing regulations. He has made no individual statement on the 2025 moratorium, the December 2025 executive order or the March 2026 White House framework that we could find.",
+"evidence": [
+{
+"type": "other",
+"title": "House Bipartisan Task Force on Artificial Intelligence final report, chapter on Federal Preemption of State Law (Cloud was a member)",
+"url": "https://www.speaker.gov/wp-content/uploads/2024/12/AI-Task-Force-Report-FINAL.pdf",
+"date": "2024-12-17",
+"quote": "Federal preemption of state law on AI issues is complex. Federal preemption has benefits and drawbacks. Preemption can allow state action subject to floors or ceilings.",
+"what_it_shows": "The consensus report he signed onto did not endorse a moratorium or blanket preemption; its only recommendation was to study applicable AI regulations across sectors."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. He voted against the 2022 CHIPS-Plus Act over its cost and what he called loopholes for China, but that concerned domestic subsidies, not export controls, and his 2026 China newsletter does not mention chips.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Congressman Cloud votes in opposition to CHIPS-Plus Act",
+"url": "https://cloud.house.gov/posts/congressman-cloud-votes-in-opposition-to-chips-plus-act",
+"date": "2022-07-28",
+"quote": "Though I support the goal of encouraging more semiconductor manufacturing in the US, the Senate's CHIPS-Plus Act adds $79 billion dollars to the deficit, advances the green energy agenda, and leaves loopholes for China to exploit.",
+"what_it_shows": "His chips record is about opposing subsidies on fiscal grounds while voicing China concerns; it says nothing about export controls or chip sales abroad."
+}
+]
+}
+},
+"search_notes": "Searches: 'Michael Cloud congressman artificial intelligence/AI'; 'Michael Cloud Texas data center(s)'; 'Michael Cloud Big Tech/Section 230/privacy/surveillance'; 'Rep. Cloud AI/data center'; 'Michael Cloud AI task force report/appropriations'; 'Michael Cloud Corpus Christi data center'; 'Michael Cloud Caldwell/Bastrop/Victoria data center'; 'Michael Cloud TikTok/Big Tech/YODA/data privacy'. Opened on cloud.house.gov: AI Task Force appointment release (Feb 2024), YODA reintroduction (May 2026) and 2023 Daily Caller repost, Energy Secretary hearing release (Apr 2026), CHIPS-Plus opposition (2022), Vistra Goliad release, energy newsletters, kill-switch amendment article, SMR post, Energy and Water appropriations position page, Countering China newsletter (no chips content). Also opened the Speaker's AI Task Force report announcement and extracted the report PDF text for the preemption chapter. Dead ends: no data center statements in his district coverage; his /about and /press index pages returned errors. Congress.gov blocks direct fetches so bill URLs are cited from the record file."
+}
+]

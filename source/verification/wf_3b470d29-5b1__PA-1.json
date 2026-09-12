@@ -1,0 +1,282 @@
+[
+{
+"bioguide": "F000479",
+"checks": [
+{
+"url": "https://www.foxnews.com/politics/fetterman-slams-ai-data-center-moratorium-proposal-china-first",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-26",
+"note": "Fox article (published 2026-03-26) quotes the X post verbatim, responding to Sanders/AOC data center moratorium bill. Claim supported."
+},
+{
+"url": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "CNBC: '\"China wins,\" said Pennsylvania Senator John Fetterman in an X post on Tuesday morning' in article on New York's first state AI data center ban. Quote verbatim, claim supported."
+},
+{
+"url": "https://www.wgal.com/article/fetterman-supports-ai/73509851",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-22",
+"note": "WGAL (Aug 24) reproduces full X post from Saturday (Aug 22) verbatim, including both sentences. Claim supported. Page does NOT mention Gov. Shapiro or any executive order; that framing in the item description is unverified by this source."
+},
+{
+"url": "https://www.inquirer.com/politics/nation/fetterman-trump-data-centers-ai-20260831.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-31",
+"note": "Inquirer quotes verbatim: 'We must win the war for AI supremacy over China. They foment the ‘anti’ argument through misinformation.' Article says he backed Trump's 'Let Data Reign' post and blamed China for fueling public outcry. Claim supported."
+},
+{
+"url": "https://truthout.org/articles/fetterman-backs-trumps-insulting-comments-berating-opponents-of-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": "There's nothing more damaging to a Democrat than agreeing with Trump AND data centers — but what's right is right",
+"corrected_date": "2026-09-01",
+"note": "Truthout quotes the first clause verbatim and paraphrases the rest ('he claimed his position is still the \"right\" one'). Inquirer gives the full sentence including 'but what's right is right.' Claim supported."
+},
+{
+"url": "https://thenationaldesk.com/news/americas-news-now/senator-john-fetterman-rejects-bernie-sanderss-call-to-pause-ai-development-must-not-happen-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-11",
+"note": "Page: Sanders sent open letter to OpenAI/Anthropic/Meta CEOs urging them to stop work; Fetterman X post quoted verbatim ('America must lead in the development of AI, otherwise we live under China's rules,' ... 'That must not happen.'). Claim supported."
+},
+{
+"url": "https://www.foxnews.com/politics/fetterman-aligns-trump-ai-push-warns-china-benefits-us-overreaction",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-22",
+"note": "Fox (published Aug 23) quotes verbatim: 'AI supremacy and energy dominance underpins our national security,' reacting to Bloomberg analysis on narrowing US lead over China. Claim (race framing) supported."
+},
+{
+"url": "https://www.foxnews.com/politics/fetterman-slams-ai-data-center-moratorium-proposal-china-first",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-26",
+"note": "Same Fox article; sentence 'We can put appropriate guardrails in place without handing the win on AI to China.' appears verbatim. Claim supported."
+},
+{
+"url": "https://www.alreporter.com/2026/04/27/sens-britt-fetterman-discuss-operations-in-iran-social-media-regulations/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-24",
+"note": "Article covers NBC News Common Ground Panel (Friday, Apr 24) with Kristen Welker; Britt and Fetterman voiced support for bipartisan Stop the Scroll Act and Kids Off Social Media Act, which 'both she and Fetterman have cosponsored.' KOSA/COPPA 2.0 support is attributed to Britt only. Claim supported."
+},
+{
+"url": "https://www.inquirer.com/politics/nation/fetterman-trump-data-centers-ai-20260831.html",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-08-31",
+"note": "Quote appears verbatim, but the page contains no mention of chips, semiconductors, or export controls. It supports the claim only in the negative sense (his China framing is about the AI race); it provides no evidence of any china_chips position."
+},
+{
+"url": "https://www.foxnews.com/politics/fetterman-slams-ai-data-center-moratorium-proposal-china-first",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-26",
+"note": "Headline quote appears verbatim in Fox article."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only cited source for china_chips (Inquirer) says nothing about chip exports or export controls; the item's own claim concedes his China framing 'is not about whether to sell chips abroad.' Assigning -1 'Leans hawkish' infers a chip-policy stance from generic AI-race rhetoric, which is too thin. Suggest no position unless a chip-specific source is added.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "M001243",
+"checks": [
+{
+"url": "https://triblive.com/local/regional/mccormick-defends-homer-city-data-center-project-amid-environmental-concerns/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-07",
+"note": "Quote appears verbatim, attributed to McCormick, R-Pittsburgh, immediately after his comparison to the anti-fracking campaign ('most of which turned out not to be true'). Claim fully supported."
+},
+{
+"url": "https://www.wesanews.org/environment-energy/2026-05-08/pa-sen-dave-mccormick-homer-city-data-center-permit-reform",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-08",
+"note": "Quote verbatim. Article says he is sponsoring legislation requiring federal waterway permits be granted or denied within one year, limiting court challenges to permits, and extending nuclear licenses from 40 to 60 years. Claim supported."
+},
+{
+"url": "https://www.wesanews.org/environment-energy/2026-05-08/pa-sen-dave-mccormick-homer-city-data-center-permit-reform",
+"verdict": "confirmed",
+"corrected_quote": "They've been hijacked by environmental activists. They use them as a way to drag out the process and ultimately kill the process.",
+"corrected_date": "2026-05-08",
+"note": "Two sentences appear verbatim, separated only by 'McCormick said.' Context: he says laws like the Clean Water Act have good intentions but have been hijacked; supports claim about curbing reviews that slow projects."
+},
+{
+"url": "https://news.lehigh.edu/senator-dave-mccormick-discusses-ai-innovation-at-compelling-perspectives",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Quote verbatim (curly apostrophes on page). Article says his July 2025 summit announced $90B+ in private investment 'expected to create tens of thousands of jobs' and that McCormick said the summit served as a catalyst for action. Note the jobs figure is the article's framing of expected outcomes, not a direct McCormick quote; article is Dec 2025, not 2026."
+},
+{
+"url": "https://local21news.com/news/local/mccormick-says-cbs-knew-of-wifes-meta-role-amid-flak-over-archbald-data-center-report",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-18",
+"note": "Quote verbatim, from his CBS Sunday Morning remarks quoted in the article; he says developers must state upfront that they will bear grid/price costs, disclose community contributions and jobs. Article confirms Dina Powell McCormick has been Meta President and Vice Chairman since Jan 2026 and that Archbald opponents raised conflict-of-interest concerns."
+},
+{
+"url": "https://news.lehigh.edu/senator-dave-mccormick-discusses-ai-innovation-at-compelling-perspectives",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Quote verbatim. The overregulation point is the reporter's paraphrase: 'However, he thinks there is caution about overregulating and doing so too soon.' Claim correctly attributes this as 'per the report'."
+},
+{
+"url": "https://www.tristatealert.com/senator-mccormick-unveils-vision-for-american-ai-leadership",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Short press-release-style article (dated July 30 about a July 29 Manhattan Institute speech) matches the claim: balanced approach embracing innovation, five priorities (workers, economic opportunity, children, national security, infrastructure), outcompete Communist China. No safety rules mentioned in the article, though the article is only a ~250-word summary so absence there is weak evidence about the speech itself."
+},
+{
+"url": "https://www.c-span.org/search/?searchtype=Videos&query=mccormick+artificial+intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Listing shows July 29, 2026 Manhattan Institute event (five areas: jobs, wealth, children, national security, infrastructure; risks China poses) and April 14, 2026 Semafor conversation ('the balance between regulating and deregulating AI' and maintaining U.S. leadership). Supports the claim; search-results page rather than a stable article URL."
+},
+{
+"url": "https://triblive.com/local/regional/mccormick-defends-homer-city-data-center-project-amid-environmental-concerns/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-07",
+"note": "Same verbatim quote as item 1; suitable as headline quote."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "F000466",
+"checks": [
+{
+"url": "https://gottheimer.house.gov/posts/release-ahead-of-power-grid-operator-pjms-2025-electricity-auction-gottheimer-demands-answers-to-prevent-another-rate-hike-for-jersey-families",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim in the letter text; page explicitly lists Rep. Brian Fitzpatrick (PA-1) as a signer. Letter asks PJM about demand forecasting and capacity; the release frames it around rate hikes for ratepayers."
+},
+{
+"url": "https://whyy.org/articles/brian-fitzpatrick-bob-harvie-data-center-ad-congressional-race/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Verbatim. Page says Fitzpatrick 'has expressed strong support for the Amazon data center' and supports transparency/ratepayer legislation rather than a moratorium. Article dated Sept 10, 2026."
+},
+{
+"url": "https://whyy.org/articles/brian-fitzpatrick-bob-harvie-data-center-ad-congressional-race/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Ad quote verbatim. Campaign spokeswoman Heather Roberts is quoted saying 'Bob Harvie is literally the sole reason why we have a massive data center in our own backyard in Bucks County.' Note the ad itself does not name the H.R.1 vote or state AI moratorium explicitly; the article separately references the budget bill's tech tax breaks. Claim's H.R.1 linkage is an interpretation, but the ad language ('made it impossible for communities like ours to stop new sites') clearly alludes to it."
+},
+{
+"url": "https://fitzpatrick.house.gov/2026/4/fitzpatrick-kelly-lead-bipartisan-bicameral-letter-backing-afl-cio-ai-principles-to-protect-workers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-08",
+"note": "Verbatim; letter also asks for clear information on AI use, human judgment central, and worker recourse. Published April 8, 2026."
+},
+{
+"url": "https://fitzpatrick.house.gov/2024/9/fitzpatrick-colleagues-introduces-landmark-bipartisan-bill-to-combat-fraudulent-ai-campaign-ads",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-09-17",
+"note": "Verbatim Fitzpatrick quote; AI Ads Act would prohibit fraudulent AI misrepresentation of candidates and codify FEC recommendations. Dated Sept 17, 2024."
+},
+{
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Report names Fitzpatrick among PA Republicans who voted for the May 22, 2025 House version of OBBBA (Roll Call 145) and says the moratorium likely would have banned Shapiro's GRID requirements. Note this is an advocacy group's counterfactual about a vote on a large omnibus bill, not a standalone preemption vote."
+},
+{
+"url": "https://fitzpatrick.house.gov/2025/11/fitzpatrick-boyle-launch-bipartisan-semi-act-to-reassert-u-s-control-over-critical-chip-materials-and-strengthen-american-manufacturing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-17",
+"note": "Verbatim, attributed to Fitzpatrick. Bill is a domestic manufacturing tax credit extension to upstream chip materials; it is about supply-chain resilience, not export controls."
+},
+{
+"url": "https://fitzpatrick.house.gov/2026/4/fitzpatrick-kelly-lead-bipartisan-bicameral-letter-backing-afl-cio-ai-principles-to-protect-workers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-08",
+"note": "Verbatim from the letter excerpt quoted in the release."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only source is the SEMI Act, a CHIPS tax-credit expansion for domestic upstream materials framed as reducing dependence on China. Nothing in the sources addresses export controls on chips or selling chips abroad. Evidence supports a hawkish lean, not the strongest 'Tighten export controls' position.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+},
+{
+"dimension": "preemption",
+"objection": "The sole evidence is his vote for the May 2025 House version of H.R.1 (a sweeping budget bill containing the AI moratorium), as characterized by an advocacy group. He is not on record advocating a national rule or state preemption, and he voted against the final OBBBA in July 2025. A single omnibus vote is too thin to assign a directional preemption stance; the WHYY piece also shows him backing state/local-style transparency and ratepayer measures.",
+"suggested_score": 0,
+"suggested_label": "Mixed or conditional"
+}
+]
+},
+{
+"bioguide": "B001296",
+"checks": [
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF (downloaded directly; the fetch tool returned 0 chars for the PDF, so text was extracted with pdftotext). Dated November 26, 2025. Quote appears verbatim in the letter body. 'Brendan F. Boyle' appears in the signatory list. Letter opposes an NDAA AI moratorium on state/local AI law enforcement and a preemption executive order."
+},
+{
+"url": "https://fitzpatrick.house.gov/2025/11/fitzpatrick-boyle-launch-bipartisan-semi-act-to-reassert-u-s-control-over-critical-chip-materials-and-strengthen-american-manufacturing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-17",
+"note": "Boyle quote appears verbatim, attributed 'said Boyle'. Release dated 2025-11-17. Bill is the SEMI Investment Act, expanding the CHIPS Act tax credit to upstream materials; China framing ('China controls up to 85% of global processing of rare earth elements', 'reduce dependence on China') is present but the China lines are Fitzpatrick's/the release's, not Boyle's own words. Claim's caveat (industrial incentive, not export control) is accurate."
+},
+{
+"url": "https://fitzpatrick.house.gov/2025/11/fitzpatrick-boyle-launch-bipartisan-semi-act-to-reassert-u-s-control-over-critical-chip-materials-and-strengthen-american-manufacturing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-17",
+"note": "Same page; quote verbatim and attributed to Boyle. Note the quote is about domestic chip manufacturing/CHIPS Act, not AI policy per se, so as a headline quote for an AI tracker it is only loosely on-topic."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only source is a domestic tax-credit bill (SEMI Investment Act). Boyle's own quote says nothing about export controls or China; the China framing comes from Fitzpatrick and the bill background. A national-security-framed industrial incentive does not establish a position on tightening or loosening chip export controls, so the evidence is too thin for -1.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "data_centers",
+"objection": "No source among the checked items addresses data centers or ratepayers at all, so -1 'Protect ratepayers first' has no support in this evidence set.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "Neither checked source addresses Big Tech regulation directly; the Matsui letter is about preserving state AI laws (preemption) and only mentions Big Tech in a footnoted Public Citizen headline. -1 'Targeted rules' is plausible by inference from opposing the moratorium but is not directly evidenced here.",
+"suggested_score": -1,
+"suggested_label": "Targeted rules"
+}
+]
+}
+]

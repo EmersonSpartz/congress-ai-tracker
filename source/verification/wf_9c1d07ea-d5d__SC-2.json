@@ -1,0 +1,221 @@
+[
+{
+"bioguide": "T000480",
+"checks": [
+{
+"url": "https://www.independent.co.uk/tech/ai-safety-fears-meeting-america-b2959491.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-17",
+"note": "Quote appears verbatim; article names Timmons and reports his question about outlawing AI-generated pornographic likenesses. The article itself does not state he co-hosted (that comes from the Quiver press release), and it reports a single question rather than characterizing his overall 'focus', so the claim slightly extrapolates."
+},
+{
+"url": "https://www.quiverquant.com/news/Press+Release%3A+Burlison+and+Timmons+Host+Roundtable+on+Artificial+Intelligence%27s+Impact+on+American+Prosperity",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-09",
+"note": "Quote appears verbatim in the Quiver AI Summary of the press release; page names Timmons as subcommittee chairman co-hosting the Apr 16, 2026 roundtable framed around leadership, security and prosperity (economic growth, national defense, industrial competitiveness)."
+},
+{
+"url": "https://oversight.house.gov/release/hearing-wrap-up-federal-government-use-of-artificial-intelligence-poses-promise-peril/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-09-15",
+"note": "Quote verbatim (page uses curly apostrophe in adversaries'). Wrap-up says Timmons discussed the national security application of AI; supports the claim that his questioning centered on DOD/adversary military uses."
+},
+{
+"url": "https://timmons.house.gov/news/documentsingle.aspx?DocumentID=223",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-31",
+"note": "Quote verbatim, attributed to Rep. William Timmons; H.R. 7274 FASC Improvement Act introduced Jan 30, 2026 (release dated Jan 31). Release is about blocking foreign-adversary vendors from federal procurement; page says nothing about regulating U.S. platforms, so it supports the claim only in the negative sense stated."
+},
+{
+"url": "https://timmons.house.gov/news/documentsingle.aspx?DocumentID=223",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-31",
+"note": "Quote verbatim from Timmons. Page is about federal procurement/supply-chain security against foreign adversaries, not semiconductor export controls; the claim itself concedes this."
+},
+{
+"url": "https://oversight.house.gov/release/hearing-wrap-up-federal-government-use-of-artificial-intelligence-poses-promise-peril/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-09-15",
+"note": "Verbatim on the page, attributed to Rep. Timmons at the Sept 14, 2023 Oversight hearing."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The only source is a federal-procurement supply-chain bill targeting foreign-adversary vendors (H.R. 7274). Nothing in the cited material addresses regulating U.S. tech platforms or Big Tech one way or the other; the item's own claim says as much. Evidence is too thin to place him at -1 'Targeted rules'.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "china_chips",
+"objection": "The sole source concerns blocking Chinese vendors from federal IT procurement, not semiconductor export controls or chip sales abroad. A general China-hawk posture is suggestive but the sources contain no position on chip export policy, so -1 'Leans hawkish' rests on inference rather than evidence.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "N000190",
+"checks": [
+{
+"url": "https://www.wyff4.com/article/darline-graham-ralph-norman-live-forum/73453143",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-17",
+"note": "Quote appears verbatim, attributed to Rep. Norman when asked by WYFF after the forum about data centers. Preceding sentence also covers water and electricity ('You've got to know where your water is, you've got to know where your electricity is'), supporting the claim. Article published 2026-08-17."
+},
+{
+"url": "https://www.foxcarolina.com/2026/05/29/sc-governors-race-candidate-profile-ralph-norman/",
+"verdict": "confirmed",
+"corrected_quote": "We must always protect our water for our farmers... we should always protect ratepayers. But the final say should come to the people. People in local communities should have the final say of who they want their neighbors to be.",
+"corrected_date": "2026-04-21",
+"note": "Quote is verbatim (the item starts mid-sentence; the full sentence begins 'We must always protect our water for our farmers...'). Page explicitly frames it as the April 21 SCGOP gubernatorial debate and says he prioritized water and grid 'over economic development incentives,' matching the claim. Profile published 2026-05-29."
+},
+{
+"url": "https://www.nbcnews.com/politics/2026-election/darline-graham-defends-resume-south-carolina-debate-saying-national-se-rcna593244",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-18",
+"note": "Sentence appears verbatim in NBC's account of the debate; Graham's reply confirms the exchange. Article published 2026-08-19 covering the Aug 18 debate."
+},
+{
+"url": "https://www.southcarolinapublicradio.org/sc-news/2026-08-19/darline-graham-and-ralph-norman-throw-jabs-make-cases-to-voters-in-us-senate-debate",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-18",
+"note": "Quote appears verbatim, attributed to Norman. Page says both candidates 'supported overall regulations' and that Norman 'admitted widespread policies would be tough to implement and compared the process to regulating the internet,' matching the claim. Article published 2026-08-19 about the Aug 18 debate."
+},
+{
+"url": "https://www.wyff4.com/article/darline-graham-ralph-norman-live-forum/73453143",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-17",
+"note": "Same verbatim Norman quote as item 1; suitable as headline quote."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the four sources addresses Big Tech regulation generally (antitrust, social media, kids' online safety, etc.). The only related material is his AI comment about regulating 'what you can' to avoid hurting children, which is already the basis for the ai_risk score. Evidence for a separate tech_regulation position is too thin; either mark no position or cite a dedicated source.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "C000537",
+"checks": [
+{
+"url": "https://www.meritalk.com/articles/mace-calls-for-a-statewide-pause-on-new-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11",
+"note": "MeriTalk (May 22, 2026) names Rep. James Clyburn, D-S.C., and quotes his X post verbatim; the item's quote is an exact excerpt, the post continues '– while slashing investments in cheap, clean energy that could boost supply and drive prices down.' Article says he posted it 'in November' (2025)."
+},
+{
+"url": "https://www.mediaite.com/online/jim-clyburn-says-he-didnt-know-what-chatgpt-was-until-about-a-week-ago/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Live page returns 403; verified via Wayback copy (2026-08-29). Article states Herndon asked whether he had ever been to a data center, Clyburn said 'No,' and when asked how he legislates while distant from tech shifts he said 'I have a great staff' and that he hires people to bring knowledge. Claim accurate."
+},
+{
+"url": "https://www.mediaite.com/online/jim-clyburn-says-he-didnt-know-what-chatgpt-was-until-about-a-week-ago/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Quote appears verbatim in the Wayback copy: 'Believe it or not, I didn't know what that was until about a week ago,' followed by 'ChatGPT, or whatever it is.' Also says he has never personally used AI. Mediaite dated Jul 24, 2026; Vox clip posted July 24, 2026."
+},
+{
+"url": "https://www.postandcourier.com/opinion/commentary/jim-clyburn-chatgpt-regulate-technology/article_421171e5-ab72-4d2e-bf42-b343589fd2bf.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-13",
+"note": "Guest commentary by Stuart N. Brotman (Aug 13, 2026). Page's summary text says the problem is 'that he wants to regulate a technology he just now heard of,' and the column frames it as the House pushing to regulate AI. The column supplies no specific Clyburn statement or bill calling for AI regulation, so the item's caveat that this is the columnist's framing is accurate."
+},
+{
+"url": "https://www.meritalk.com/articles/mace-calls-for-a-statewide-pause-on-new-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11",
+"note": "Same source as item 1; quote is verbatim excerpt of Clyburn's X post as reported by MeriTalk."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "No source contains any Clyburn statement about AI rules, guardrails, or safety policy. The only items are his admission he had not heard of ChatGPT, that he has never used AI, and a guest columnist's unsourced assertion that he 'wants to regulate' AI. That is too thin to place him at -1 Targeted guardrails; the columnist's framing is not evidence of the member's position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "F000478",
+"checks": [
+{
+"url": "https://www.eenews.net/articles/energy-politics-prominent-in-big-south-carolina-senate-primary/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-04",
+"note": "Quote appears verbatim, attributed to Fry 'during a debate Tuesday' (article dated Aug 7, 2026, so Tuesday = Aug 4). Immediately followed by 'That's unacceptable.' Page names Fry and frames data center local control as a campaign attack line against Darline Graham."
+},
+{
+"url": "https://www.fitsnews.com/2026/08/05/s-c-succession-russell-fry-unloads-on-darline-graham/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-05",
+"note": "Quote appears verbatim, attributed to 'Fry's campaign'. Article also says Fry ripped Nordone for supporting data centers 'regardless of what local communities want or need.' Supports the claim."
+},
+{
+"url": "https://energycommerce.house.gov/posts/energy-subcommittee-holds-hearing-on-meeting-growing-power-demand-while-protecting-ratepayers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-29",
+"note": "Release dated Apr 29, 2026. Fry quote verbatim; he praises NRC's 20-year Robinson license renewal and discusses permitting reform/reducing red tape. Note he also cites a NARUC letter urging Congress to 'resist any effort to concentrate even more authority over local siting decisions in the federal government', so the pro-build stance is paired with a local-siting caveat."
+},
+{
+"url": "https://fry.house.gov/news/documentsingle.aspx?DocumentID=1015",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Release dated Dec 5, 2025. Quote verbatim. Bill directs Commerce to create a Kids Internet Safety Partnership with agencies, parents, scholars, industry and state AGs, publishing biannual reports; playbook covers 'personalized recommendation systems and chatbots'. Fry says families deserve clarity 'not competing narratives or one-size-fits-all mandates'. Co-lead Greg Landsman (D)."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"verdict": "confirmed",
+"corrected_quote": "We're proud to support these conservative leaders who understand the importance of keeping the United States the global leader in AI innovation",
+"corrected_date": "2026-04-16",
+"note": "Fry is named in the first round of 'House GOP Champions'. Quote is from LTF co-strategist Zac Moffatt, not Fry; the fragment is verbatim minus the leading 'We're'. Moffatt also says these members will be critical to 'advancing a national framework in Congress that sets basic safety standards, protects children and families'. Article does not itself detail the PAC's funders."
+},
+{
+"url": "https://www.wmbfnews.com/2026/07/18/kids-act-heads-senate-sc-task-force-works-protect-children-online/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Published Jul 17, 2026. Article states 'South Carolina Rep. Russell Fry sits on the committee that helped advance it' and the subhead says the bill 'would set new rules for platforms, AI chatbots and age verification on explicit sites'. Thin: it does not report any Fry vote or statement, only committee membership."
+},
+{
+"url": "https://energycommerce.house.gov/posts/cmt-subcommittee-holds-hearing-on-the-semiconductor-ecosystem-and-supply-chain",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-15",
+"note": "Release dated Apr 15, 2026. Fry quote verbatim. His excerpted remarks focus on domestic capacity, supply chains, and balancing frontier AI demand against consumer chip costs; no mention of export controls or China sales anywhere on the page. Claim accurately characterizes it."
+},
+{
+"url": "https://www.eenews.net/articles/energy-politics-prominent-in-big-south-carolina-senate-primary/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-04",
+"note": "Same page as item 1; verbatim Fry quote from the Aug 4, 2026 debate."
+}
+],
+"score_objections": []
+}
+]

@@ -1,0 +1,523 @@
+[
+{
+"bioguide": "M001225",
+"checks": [
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-28",
+"note": "Beyer release (Oct 28, 2025) says the group of 20 lawmakers was 'led by Rep. Kevin Mullin (CA-15)' and that Mullin 'authored the letter' to FERC, EEI and the Data Center Coalition. Quote appears verbatim in the letter text."
+},
+{
+"url": "https://kevinmullin.house.gov/2025/10/29/mullin-questions-data-center-impact-on-residential-power-bills",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-29",
+"note": "Quote verbatim, attributed to Mullin in the reposted San Mateo Daily Journal piece. Page also says the intent 'isn't to stymie the AI boom' but to 'protect and insulate everyday residential consumers from paying more for their utilities,' supporting the claim."
+},
+{
+"url": "https://kevinmullin.house.gov/2025/10/29/mullin-questions-data-center-impact-on-residential-power-bills",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-29",
+"note": "Quote verbatim: 'Data centers are crucial to powering that AI boom, and they're central to the innovation economy,' he said. Supports not-anti-data-center framing."
+},
+{
+"url": "https://kevinmullin.house.gov/2026/03/19/lawmakers-introduce-bill-to-stop-ai-chatbots-from-impersonating-doctors-lawyers-licensed-professionals",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Mullin introduced the CHATBOT Act (H.R. 7985). Bullet text matches verbatim (ends with a semicolon on the page). Bill has three provisions: two false-implication prohibitions plus FTC guidance, consistent with the narrow consumer-protection claim."
+},
+{
+"url": "https://techpolicy.press/transcript-house-hearing-on-the-risks-and-benefits-of-ai-chatbots",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-19",
+"note": "Reached via Wayback (site blocks direct fetch on the non-www URL; www URL loaded directly). Quote verbatim in Mullin's questioning. He opens by citing vulnerable users and minors turning to chatbots for mental health, legal or financial guidance, matching the claim. Transcript published Nov 19, 2025 (hearing held Nov 18)."
+},
+{
+"url": "https://kevinmullin.house.gov/2026/08/17/lawmakers-raise-concerns-around-social-media-deepfakes-metas-rollback-of-election-safeguards",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-17",
+"note": "Mullin 'is leading a coalition of 18 lawmakers' and 'authored' the letter to Zuckerberg. Quote appears verbatim as a Mullin statement."
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-21",
+"note": "Quote verbatim from Mullin's opening at the May 21, 2025 E&C subcommittee hearing. He continues: 'the real threat to US leadership and AI isn't regulation, it's inaction.'"
+},
+{
+"url": "https://kevinmullin.house.gov/2025/02/06/rep-mullin-house-democrats-introduce-new-bill-to-stop-musk-from-invading-americans-privacy",
+"verdict": "confirmed",
+"corrected_quote": "That's why I joined House Democrats in introducing the Taxpayer Data Protection Act so that Congress can hold the Trump Administration accountable and prevent Musk and his minions from having unprecedent access to the private data of everyday Americans.",
+"corrected_date": "2025-02-06",
+"note": "Page rendered fully this time. Mullin joined the Taxpayer Data Protection Act (restricting access to the Treasury payment system) and signed a letter to Sec. Bessent. Note this is about DOGE access to government data, not Big Tech regulation, so it is weak evidence for the tech_regulation dimension; item's own claim is accurate. Suggested quote supplied since item had none."
+},
+{
+"url": "https://kevinmullin.house.gov/2026/08/17/lawmakers-raise-concerns-around-social-media-deepfakes-metas-rollback-of-election-safeguards",
+"verdict": "confirmed",
+"corrected_quote": "Meta, headquartered in my district, has rolled back key safeguards over the last few years designed to prevent the spread of misinformation, and this raises serious questions about whether it is prepared to meet today's rapidly evolving threats.",
+"corrected_date": "2026-08-17",
+"note": "Letter asks Meta a list of transparency questions (fact-checking vs Community Notes, content removals, AI-labeling) and proposes no legislation or structural remedy, matching the claim. Quote supplied since item had none."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool extracted zero text from the PDF; downloaded it and extracted with pypdf. Quote verbatim as the opening sentence; 'Kevin Mullin, Member of Congress' appears in the signature block. Letter also opposes the proposed preemption executive order."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim. Mullin is the third name in the list of 44 signers."
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-21",
+"note": "Quote verbatim from Mullin's closing remark. His opening explicitly rejects the premise that 'any regulation, federal or state, will slow innovation,' supporting the claim; note he does not in the fetched remarks argue directly for state authority, so this is indirect evidence for preemption compared with items 10 and 11."
+},
+{
+"url": "https://kevinmullin.house.gov/2025/10/29/mullin-questions-data-center-impact-on-residential-power-bills",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-29",
+"note": "Quote verbatim, including the '[at]' bracket which appears in the source article."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "L000607",
+"checks": [
+{
+"url": "https://sanjosespotlight.com/silicon-valley-lawmaker-favors-ai-tech-partnerships-over-regulations/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-28",
+"note": "Quote verbatim. Page says he does not want a slowdown in data center construction and would give streamlined interconnection approval to builders who invest in batteries and the grid. Story originally in Palo Alto Weekly, reposted by Spotlight."
+},
+{
+"url": "https://sanjosespotlight.com/silicon-valley-lawmaker-favors-ai-tech-partnerships-over-regulations/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-28",
+"note": "Page says his WSJ op-ed opposes bans on data centers. The op-ed title 'Congress Shouldn't Stop AI Innovation' does not appear on this page and was not verified."
+},
+{
+"url": "https://sanjosespotlight.com/silicon-valley-lawmaker-favors-ai-tech-partnerships-over-regulations/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-28",
+"note": "Quote verbatim, attributed to his May 22 Washington Post op-ed. Page describes CAISI defining best practices and identifying the safest companies, which earn preemption, rather than a fixed regulatory standard."
+},
+{
+"url": "https://liccardo.house.gov/media/press-releases/rep-sam-liccardo-forces-vote-pentagons-misguided-ai-posture",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-04",
+"note": "Quote verbatim. Transcript defends Anthropic's guardrails against mass surveillance and autonomous killing machines and says 'The law is years behind the technology.'"
+},
+{
+"url": "https://www.washingtonexaminer.com/policy/technology/4724254/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Page says Liccardo drafted a letter, co-signed by Whitesides and Trahan, urging Johnson to reconvene the House 'immediately' to address potential catastrophic risks from advanced AI. The 'September 2026 AI safety warnings' framing is the item's own context; the visible (partly paywalled) text does not describe the triggering warnings."
+},
+{
+"url": "https://liccardo.house.gov/media/press-releases/rep-liccardo-introduces-skill-act-prepare-workers-ai-driven-job-market-shifts",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-24",
+"note": "Quote verbatim. Release explicitly contrasts the bill with 'doomsday' prognosticators and 'turning back the clock on technological progress'; the mechanism is an employer tax credit for training partnerships."
+},
+{
+"url": "https://liccardo.house.gov/media/press-releases/bipartisan-members-congress-seek-transparency-frontier-ai-export-controls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-18",
+"note": "Quote verbatim from the letter to Lutnick on Commerce's June 12 export controls on Anthropic's Claude Mythos 5 and Fable 5 models; letter frames the action as a precedent affecting developers, users and investors."
+},
+{
+"url": "https://liccardo.house.gov/media/in-the-news/moderate-dems-roll-out-ai-strategy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-24",
+"note": "Quote verbatim from Axios interview; page identifies him as chair of the New Democrat Coalition's innovation & technology working group."
+},
+{
+"url": "https://liccardo.house.gov/media/in-the-news/how-win-tech-and-influence-people",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-04",
+"note": "Page says the New Dems suggest Congress 'regulate incrementally' via testing-transparency standards 'rather than imposing licensing and registration mandates.' Agenda is the coalition's, first teased by Liccardo; 'authored' is a slight stretch but he is presented as its driver."
+},
+{
+"url": "https://liccardo.house.gov/media/press-releases/lawmakers-demand-doj-and-treasury-scrutinize-antitrust-and-national-security",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-12",
+"note": "Quote verbatim. Release says the letter 'represents the fourth effort by Congressman Sam Liccardo' on the Paramount-WBD deal, joined by Warren and Blumenthal."
+},
+{
+"url": "https://liccardo.house.gov/media/press-releases/rep-sam-liccardo-forces-vote-pentagons-misguided-ai-posture",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-04",
+"note": "Quote verbatim. Preceding sentence laments 30 years without 'a simple data privacy statute.' Support for privacy law and modest 230 changes is inferred from his lament rather than an explicit endorsement, but the inference is fair."
+},
+{
+"url": "https://liccardo.house.gov/media/in-the-news/how-win-tech-and-influence-people",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-04",
+"note": "Quote verbatim, given as his answer to why he did not consult Zuckerberg. Page says he consulted 'a couple hundred' Valley people; he also met Altman and Huang."
+},
+{
+"url": "https://sanjosespotlight.com/san-jose-lawmaker-at-center-of-ai-regulation-fight/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-18",
+"note": "Quote verbatim from spokesperson, who adds he 'considers such an approach superior to the current patchwork of 50 conflicting and disjointed state regulatory schemes.'"
+},
+{
+"url": "https://sanjosespotlight.com/silicon-valley-lawmaker-favors-ai-tech-partnerships-over-regulations/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-28",
+"note": "Page: 'Companies that are deemed safest would earn federal preemption that would shield them from potential liability under state law.'"
+},
+{
+"url": "https://liccardo.house.gov/media/press-releases/rep-sam-liccardo-forces-vote-pentagons-misguided-ai-posture",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-04",
+"note": "Quote verbatim (source uses a plain hyphen 'guardrails-without')."
+},
+{
+"url": "https://www.cnbc.com/2026/04/15/ai-2026-elections-midterms-campaign-donations.html",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-04-15",
+"note": "Quote verbatim and the endorsement plus Tech Oversight Project pressure are on the page. But the page does not say the PAC's 'central goal is federal preemption of state AI laws'; that characterization is not supported by this source."
+},
+{
+"url": "https://www.transformernews.ai/p/fable-anthropic-trump-mythos-export-controls-white-house-amodei",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-19",
+"note": "Quote verbatim; page adds 'Liccardo's formed his own smaller Innovation for Good PAC.' The New Republic (Sept 11) detail was not checked here."
+},
+{
+"url": "https://liccardo.house.gov/media/press-releases/bipartisan-members-congress-seek-transparency-frontier-ai-export-controls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-18",
+"note": "Letter asks Commerce for legal authorities, technical evaluations, review process and criteria for restoring access; it concerns controls on Anthropic models, not chip exports to China. Null score is appropriate."
+},
+{
+"url": "https://sanjosespotlight.com/silicon-valley-lawmaker-favors-ai-tech-partnerships-over-regulations/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-28",
+"note": "Quote verbatim, from his Washington Post op-ed as quoted by the article."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "K000389",
+"checks": [
+{
+"url": "https://khanna.house.gov/media/press-releases/release-rep-khanna-introduces-data-center-bill-rights",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-06",
+"note": "Quote verbatim. Release lists rights to ban data centers within 2,500 feet of homes/schools/etc., reject via community process, preserve county/municipal authority against state preemption, adopt statewide pauses until protections pass, and demand no rate increases for households/small businesses; also has a water/resource disclosure requirement."
+},
+{
+"url": "https://www.nbcnews.com/politics/congress/ro-khanna-data-center-bill-rights-industry-regulations-rcna592775",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-16",
+"note": "Quote verbatim; article also has 'You can't be jacking up electricity prices.'"
+},
+{
+"url": "https://www.nbcnews.com/politics/congress/ro-khanna-data-center-bill-rights-industry-regulations-rcna592775",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-16",
+"note": "Quote verbatim. Asked to clarify he is not opposed to data centers, he said 'I believe it needs regulation.'"
+},
+{
+"url": "https://www.transformernews.ai/p/congress-must-not-waste-the-ai-policy-window",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Transformer newsletter quotes Khanna verbatim, including the SB 1047 reversal and 'state liability' language."
+},
+{
+"url": "https://www.semafor.com/article/09/10/2026/bipartisan-ai-safety-bill-gains-momentum-on-the-hill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Semafor sentence appears verbatim: five-step plan on X calling for certification of new models, liability and criminal penalties, and a new federal agency."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Quote verbatim; Ro Khanna (CA-17) listed among signers; release ties letter to models escaping test environments and worker displacement."
+},
+{
+"url": "https://khanna.house.gov/media/press-releases/release-khanna-co-leads-delegation-vatican-discusses-ethical-framework-ai-pope",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-21",
+"note": "Quote verbatim. Letters sent to CEOs of Amazon, Anthropic, Apple, Google, Meta, Microsoft, Nvidia, OpenAI (eight). Release mentions dignity and mass unemployment; 'concentration of power' is not explicit in the release text."
+},
+{
+"url": "https://www.foxnews.com/opinion/rep-ro-khanna-we-need-new-tech-social-contract-reclaim-ai-from-billionaires",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-26",
+"note": "Quote verbatim. Op-ed lists seven principles including company bargaining with workers, a token tax on labor-displacing AI, and an annual data dividend."
+},
+{
+"url": "https://khanna.house.gov/media/press-releases/khanna-statement-sb-1047-and-path-forward-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-08-13",
+"note": "Quote verbatim; 2024 statement opposes SB 1047 as written."
+},
+{
+"url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-raises-alarm-over-center-ai-standards-and-innovations-caisi-lack",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-13",
+"note": "Quote verbatim; release asks about PRC open-weight models, Kimi K3 sandbox escape, and CAISI's refusal to publish findings."
+},
+{
+"url": "https://www.foxnews.com/opinion/rep-ro-khanna-we-need-new-tech-social-contract-reclaim-ai-from-billionaires",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-26",
+"note": "Quote verbatim. Op-ed opens 'We live in a new gilded age', proposes a modest wealth tax, a token tax on AI that displaces labor, and an annual data dividend."
+},
+{
+"url": "https://khanna.house.gov/media/press-releases/khanna-statement-sb-1047-and-path-forward-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-08-13",
+"note": "Quote verbatim; statement pairs AI labeling with 'much strong[er] privacy provisions' and antitrust."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF text extracted locally; opening sentence verbatim; 'Ro Khanna Member of Congress' appears in signer list."
+},
+{
+"url": "https://khanna.house.gov/media/press-releases/release-rep-khanna-introduces-data-center-bill-rights",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-06",
+"note": "Quote verbatim from the resolution's list of rights."
+},
+{
+"url": "https://www.transformernews.ai/p/congress-must-not-waste-the-ai-policy-window",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Khanna says he should have supported SB 1047 'which would have established state liability' and the delegation letter opposing it was mistaken; supports claim."
+},
+{
+"url": "https://www.reuters.com/world/us/top-democrat-us-house-china-committee-open-nvidia-h200-sales-2026-02-11/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Reuters returned 401; Wayback rate-limited/refused and archive.ph had no capture. Claim rests on headline only and remains unverified."
+},
+{
+"url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/ranking-member-khanna-seeks-answers-commerce-rising-consumer-electronics",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-25",
+"note": "Quote verbatim (release paraphrase of the letter); cites CHIPS Act awards to Samsung and SK Hynix."
+},
+{
+"url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-raises-alarm-over-center-ai-standards-and-innovations-caisi-lack",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-13",
+"note": "Release asks how Commerce will 'measure and mitigate the national security risks posed by advanced PRC open-weight models.'"
+},
+{
+"url": "https://singjupost.com/transcript-u-s-leadership-in-ai-w-jensen-huang-and-congressman-ro-khanna/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-20",
+"note": "Quote verbatim and spoken by Khanna; he proposes export-control regulation keyed to compute/power thresholds for frontier models while competing on open-source models. Date is transcript publication date, not necessarily event date."
+},
+{
+"url": "https://www.transformernews.ai/p/congress-must-not-waste-the-ai-policy-window",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Quote verbatim."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "L000397",
+"checks": [
+{
+"url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgrens-opening-statement-hearing-data-center-permitting",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-24",
+"note": "Quote appears verbatim in her prepared opening statement; page also discusses grid strain and energy prices. Published Feb 24, 2026."
+},
+{
+"url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgrens-opening-statement-hearing-data-center-permitting",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-24",
+"note": "Verbatim: '...more data centers, built as quickly as possible, in as many parts of the country as possible. That strikes me as a foolish and shortsighted approach.' Followed by the backlash warning."
+},
+{
+"url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgrens-opening-statement-full-committee-markup-10-ai-bills",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-25",
+"note": "Verbatim, in her remarks on Subramanyam's Data Infrastructure Energy Measurement and Standards Act (H.R. 9372)."
+},
+{
+"url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-applauds-passage-ten-ai-bills-commits-fighting",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-25",
+"note": "Verbatim. Page says several Democratic priorities were struck down or barred at markup, names data centers, and says Democrats will continue to fight."
+},
+{
+"url": "https://lofgren.house.gov/media/press-releases/lofgren-introduces-legislation-aimed-improving-ai-labeling-practices",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-24",
+"note": "Verbatim. Bill is the Voluntary Consumer AI Disclosure Pilot Act; she explicitly rejects one-size-fits-all labels in favor of evaluating voluntary disclosures via NIST pilot."
+},
+{
+"url": "https://lofgren.house.gov/media/press-releases/leader-jeffries-announces-new-house-democratic-commission-ai-and-innovation",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-12-09",
+"note": "Quote is verbatim and attributed to Lofgren. The 'America should lead in deploying safe and trustworthy AI' clause of the claim was not located in the fetched excerpt; her statement continues about Congress needing to educate itself and Republicans being missing in action."
+},
+{
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"verdict": "confirmed",
+"corrected_quote": "Essentially, we're paying Elon Musk to give perverts access to a child pornography machine.",
+"corrected_date": "2026-01-15",
+"note": "Appears in both the article lede and the transcript of Lofgren's remarks (only a comma differs). Context: xAI/Grok generating sexual and CSAM images while receiving federal contract dollars."
+},
+{
+"url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgrens-opening-statement-full-committee-markup-10-ai-bills",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-25",
+"note": "Verbatim. Page also describes the AI Flaw Incident Reporting and Security Enhancement Act requiring NIST to build an AI-flaw database analogous to the National Vulnerability Database. 'Standards bodies rather than mandates' is the item's interpretation, consistent with NIST-centered bills."
+},
+{
+"url": "https://readsludge.com/2025/12/09/the-democrats-new-ai-panel-is-led-by-big-tech-allies/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-09",
+"note": "Verbatim; appears just before the paywall. Article frames the commission leaders as Big Tech allies."
+},
+{
+"url": "https://lofgren.house.gov/media/press-releases/lofgren-introduces-online-privacy-act-protect-americans-personal-data",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Verbatim. Key provisions list matches the claim: ban on using private communications for ads, data minimization, criminalizes doxxing, right to human review of impactful automated decisions; also creates a Digital Privacy Agency."
+},
+{
+"url": "https://lofgren.house.gov/media/press-releases/lofgren-statement-ahead-judiciary-committee-markup-tech-antitrust-bills",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-06-23",
+"note": "Verbatim. Statement opposes the 2021 package (American Choice and Innovation Online Act, Ending Platform Monopolies Act, ACCESS Act, Platform Competition and Opportunity Act) as drafted."
+},
+{
+"url": "https://liccardo.house.gov/media/press-releases/lawmakers-demand-doj-and-treasury-scrutinize-antitrust-and-national-security",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-12",
+"note": "Lofgren (CA-18) is listed among House cosigners of the letter demanding DOJ/Treasury scrutiny of the Paramount-WBD merger. She is a cosigner, not lead author."
+},
+{
+"url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-slams-trump-white-house-illegal-plan-undermine-state-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Verbatim. She calls the EO 'not lawful' and urges Congress to pass a bipartisan federal standard."
+},
+{
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Verbatim in transcript. She says 'I think this order is unconstitutional' and invokes Brandeis' laboratories of democracy."
+},
+{
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Verbatim. She adds that some California legislation beyond a state's proper scope was vetoed by the governor with support of the California congressional delegation."
+},
+{
+"url": "https://democrats-foreignaffairs.house.gov/2025/5/meeks-lofgren-send-letter-to-secretary-lutnick-on-multilateral-export-controls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-28",
+"note": "Verbatim. Letter endorses Trump- and Biden-era restrictions on PRC access to high-end chips and SME."
+},
+{
+"url": "https://democrats-foreignaffairs.house.gov/2025/5/meeks-lofgren-send-letter-to-secretary-lutnick-on-multilateral-export-controls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-28",
+"note": "Verbatim. Letter urges broadening coordination beyond Japan and the Netherlands to include South Korea, Taiwan and others."
+},
+{
+"url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-calls-out-trump-admin-illegal-use-chips-and-science",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "Verbatim (sentence continues '— not quantum technology'). Criticizes $2B quantum awards drawn from CHIPS Section 102 microelectronics R&D funds. Only loosely related to export-control posture."
+},
+{
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Verbatim in transcript of Lofgren's remarks at the Jan 2026 Kratsios hearing."
+}
+],
+"score_objections": []
+}
+]

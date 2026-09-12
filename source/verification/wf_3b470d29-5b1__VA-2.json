@@ -1,0 +1,276 @@
+[
+{
+"bioguide": "S000185",
+"checks": [
+{
+"url": "https://democrats-edworkforce.house.gov/media/press-releases/ranking-member-scott-delivers-opening-statement-on-the-importance-of-congress-putting-guardrails-on-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Quote appears verbatim. Page is Scott's Jan. 14, 2026 opening statement at 'Building an AI-Ready America' and cites biased AI recruiting tools (SHRM survey, bias against women and Black applicants), chatbot harms to children, and NCMEC reports of generative-AI CSAM, as claimed."
+},
+{
+"url": "https://democrats-edworkforce.house.gov/media/press-releases/ranking-member-scott-delivers-opening-statement-on-the-importance-of-congress-putting-guardrails-on-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Quote appears verbatim (curly apostrophe in source). Statement goes on to list bathroom tracking, facial recognition, and estimating union organizing activity as workplace monitoring concerns; claim is supported."
+},
+{
+"url": "https://democrats-edworkforce.house.gov/media/press-releases/ranking-member-scott-raises-concerns-about-future-of-bipartisan-workforce-innovation-and-opportunity-act-reauthorization",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-04",
+"note": "Page is Scott's March 4, 2026 opening statement at the HEWD subcommittee hearing 'Building an AI Ready America: Strengthening Employer-Led Training'; his remarks focus on workforce development system funding and WIOA reauthorization rather than AI regulation, matching the claim."
+},
+{
+"url": "https://democrats-edworkforce.house.gov/media/press-releases/ranking-member-scott-delivers-opening-statement-on-the-importance-of-congress-putting-guardrails-on-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Quote appears verbatim. Immediately preceding passage says Meta 'is currently fighting allegations in court that it downplayed the risks of its platforms to children.' No specific bill is named, consistent with the claim."
+},
+{
+"url": "https://democrats-edworkforce.house.gov/media/press-releases/ranking-member-scott-delivers-opening-statement-on-the-importance-of-congress-putting-guardrails-on-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Quote appears verbatim. Preceding sentences reference the December executive order 'attempting to block states from regulating AI on their own' and say Congressional Republicans 'seriously considered doing that by legislation, which [would] override state laws.'"
+},
+{
+"url": "https://democrats-edworkforce.house.gov/media/press-releases/ranking-member-scott-delivers-opening-statement-on-the-importance-of-congress-putting-guardrails-on-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Headline quote appears verbatim in the Jan. 14, 2026 statement."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "None of the cited sources mention data centers, electricity, or ratepayers. The -1 'Protect ratepayers first' score has no supporting evidence in this item set; unless other sourcing exists, the position should be left unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "M001227",
+"checks": [
+{
+"url": "https://www.kotatv.com/2026/05/26/data-center-battles-started-states-now-its-congress-under-siege/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-26",
+"note": "Stateline piece syndicated on KOTA. Quote appears verbatim, attributed to 'Rep. Jenn McClellan, D-Va.' at a House hearing; preceding clause blames the Trump administration's Iran war for pushing energy prices up before a hearing was held. Article frames it under 'Democrats charge that Republicans are resisting meaningful regulation.'"
+},
+{
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Fetch tool returned empty text; downloaded PDF and extracted with pypdf. Letter dated March 19, 2026 to Cole/DeLauro/Fleischmann/Kaptur. Quote verbatim (line-break whitespace only). 'Jennifer L. McClellan, Member of Congress' listed among signers on page 4. Requested plan covers grid reliability, consumer electricity costs, and water-efficient operations, matching the claim."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Quote verbatim. 'Jennifer L. McClellan (VA-04)' listed among signers. Letter says Congress has 'completely failed to respond to the threats posed by AI development' and follows reports of models escaping test environments. Signer count: Casar plus 18 listed = 19 total, so she is one of the 19 rather than joining 19 others; minor wording."
+},
+{
+"url": "https://broadbandbreakfast.com/rep-mcclellan-hopes-to-modernize-1996-telecom-act-despite-lack-of-congressional-support/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-26",
+"note": "Quote verbatim including bracketed [Congress]. Article says she criticized colleagues for being 'narrowly focused on supporting the development and advancement of artificial intelligence' rather than updating laws."
+},
+{
+"url": "https://mcclellan.house.gov/2026/03/04/mcclellan-obernolte-introduce-ai-ready-networks-act-assess-ai-usage-american/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-04",
+"note": "Quote verbatim, attributed to McClellan. Release twice states the bill provides a foundation 'without imposing new regulatory mandates' and focuses on voluntary, industry-driven AI use cases; bipartisan with Obernolte."
+},
+{
+"url": "https://mcclellan.house.gov/2026/02/03/mcclellan-introduces-bipartisan-legislation-strengthen-us-leadership-robotics/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-03",
+"note": "Quote verbatim, attributed to McClellan. Bill introduced with Obernolte and Latta on Feb 3, 2026; competitiveness/innovation framing supported."
+},
+{
+"url": "https://broadbandbreakfast.com/rep-mcclellan-hopes-to-modernize-1996-telecom-act-despite-lack-of-congressional-support/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-26",
+"note": "Article quotes her urging government to 'treat access to broadband as a utility' and says Congress has failed to update policy; also mentions she wants federal investment because private sector won't fund unprofitable buildout."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Downloaded PDF and extracted text. Letter dated Nov 26, 2025 to Johnson, Thune, Jeffries, Schumer; opposes NDAA moratorium and a proposed executive order preempting state AI laws; cites Senate 99-1 vote. Quote verbatim. 'Jennifer L. McClellan, Member of Congress' appears in signer list on page 3."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim. Page says letter signed by 44 Members and lists 'Jennifer McClellan'. Letter text says preemption would put 'all Americans at risk online.'"
+},
+{
+"url": "https://broadbandbreakfast.com/rep-mcclellan-hopes-to-modernize-1996-telecom-act-despite-lack-of-congressional-support/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-26",
+"note": "Same source as item 4; quote verbatim and attributed to McClellan."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "M001239",
+"checks": [
+{
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-18",
+"note": "Committee wrap-up attributes the quote to Rep. John McGuire (R-Va.) verbatim (solar acreage, 'half the size of Delaware', 'We should be investing in fossil fuels and nuclear'). Page dated Sept 18, 2025."
+},
+{
+"url": "https://mcguire.house.gov/issues/energy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-20",
+"note": "Energy issue page lists the Aug 20, 2025 press release 'Congressman John McGuire Introduces FAIR Act to Protect Ratepayers, End Cronyism, and Prioritize Public Safety'; quoted description appears verbatim. Nothing on the page mentions data centers, consistent with the claim."
+},
+{
+"url": "https://cardinalnews.org/2026/08/31/the-5th-congressional-district-is-now-virginias-energy-capital-will-mcguire-and-perriello-talk-about-what-that-means/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-31",
+"note": "Quote appears verbatim in the Aug 31, 2026 Cardinal News column; article says McGuire wrote the governor urging opposition to Valley Link and declined questions."
+},
+{
+"url": "https://cardinalnews.org/2026/08/11/perriello-opposes-valley-link-open-to-more-nuclear-at-north-anna-silent-on-joshua-falls-mcguire-mum-except-for-letter-on-valley-link/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-11",
+"note": "Article states: 'McGuire's campaign did not respond to a request for an interview from Cardinal News regarding the proposed transmission line or energy production.' Headline also says 'McGuire mum except for letter on Valley Link.'"
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Quote appears verbatim as McGuire's answer (relaying Jensen Huang after a breakfast). Note the 'not a threat, it's a tool' and 'need guardrails' lines are explicitly attributed to Huang ('he told us'); McGuire endorses them by adding 'human civilization adapts.' Interview dated Jan 20, 2026."
+},
+{
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-18",
+"note": "Quote 'Mr. Hammond and Ms. Fabrizio, what are some of the ways AI superintelligence might actually help us solve the energy problem?' appears verbatim, attributed to Rep. McGuire."
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "The Reporter asked McGuire directly: 'On AI, would you support a bill that preempts states from regulating AI if it included protection for kids, like KOSA?' His answer was the general Jensen Huang / 'civilization adapts' response with no position on preemption or KOSA. Claim accurate."
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Headline quote appears verbatim. Caveat for display: the first three sentences are McGuire relaying what Jensen Huang 'told us', not McGuire's own first-person words."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the eight sourced items concerns Big Tech or platform regulation. The only related evidence is McGuire ducking the KOSA/preemption question with a generic AI answer, and a second-hand 'you need guardrails' line attributed to Jensen Huang. That is too thin to place him at 'Targeted rules'; no position should be assigned unless a tech-regulation source is added.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "C001118",
+"checks": [
+{
+"url": "https://www.wdbj7.com/2026/07/31/6th-district-weigh-candidates-google-data-center/",
+"verdict": "confirmed",
+"corrected_quote": "I share those concerns about the water usage, about the impact on electricity bills. And I've voted in Congress for transparency measures that would give voters, give local residents all of the information about the impact that it would have before these data centers could move into an area",
+"corrected_date": "2026-07-31",
+"note": "Quote appears verbatim (item truncates the end of the sentence). Article confirms he is a Botetourt resident, shares water/electric concerns, and backs federal transparency measures before siting."
+},
+{
+"url": "https://www.wdbj7.com/2026/05/01/rep-ben-cline-future-6th-district/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-01",
+"note": "Quote verbatim. Preceded by 'I do think that there's a place for data centers, but there's also a place not for data centers,' which supports the conditional framing in the claim."
+},
+{
+"url": "https://www.wdbj7.com/2026/07/31/6th-district-weigh-candidates-google-data-center/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-31",
+"note": "Quote verbatim; he adds that he supports transparency at the federal level to give local decision-makers tools. Article also confirms Macy would back a nationwide pause on data center approvals until stricter guardrails are in place."
+},
+{
+"url": "https://cardinalnews.org/2026/09/08/buena-vistas-labor-day-politicking-produces-the-cline-macy-debate-we-may-not-see/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-08",
+"note": "Text appears verbatim in the 'Data centers and artificial intelligence' section. It is a one-word paraphrase by the paper of a post-event remark, not a developed position; Macy's donor/AI-jobs attack is also confirmed."
+},
+{
+"url": "https://lieu.house.gov/media-center/press-releases/house-launches-bipartisan-task-force-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-02-20",
+"note": "Rep. Ben Cline (VA-06) is listed among the Republican members of the task force. The release is dated Feb 20, 2024 and announces the launch; it does not itself cover the December 2024 report, though the membership list matches."
+},
+{
+"url": "https://chinaselectcommittee.house.gov/media/press-releases",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-21",
+"note": "Press listing (Aug 21, 2026) names Moolenaar and Cline as co-signers of the FDA letter; quote verbatim. As the item itself concedes, this is not about chips or export controls; the referenced chip export control cosponsorships are not sourced in this item set."
+},
+{
+"url": "https://www.wdbj7.com/2026/05/01/rep-ben-cline-future-6th-district/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-01",
+"note": "Same verbatim quote as item 2; suitable as headline quote."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the seven sourced items says anything about regulating Big Tech or platforms. The only mention of Google/Meta is his opponent attacking him for taking their donations, which cuts against a pro-regulation reading if anything. A -1 score has no evidence in this record.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "china_chips",
+"objection": "The sole China item is an FDA letter on clinical trial data, explicitly not about chips. The 'chip export control cosponsorships' invoked in the claim are unsourced here. -2 is the strongest label on the scale; the documented evidence supports at most a general China-hawk lean.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+},
+{
+"dimension": "ai_risk",
+"objection": "Evidence is a single paraphrased word ('guardrails') after an event plus task force membership, which the item itself says shows engagement not position. Too thin for a definite -1; he has not named any specific AI rule he would support.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+}
+]

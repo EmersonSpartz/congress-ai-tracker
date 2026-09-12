@@ -1,0 +1,721 @@
+[
+{
+"bioguide": "C001131",
+"name": "Greg Casar",
+"signature": "Chair of the Congressional Progressive Caucus; House sponsor of the Sanders bill to ban artificial superintelligence, author of the AI Tax and Work Protection Act and the Stop AI Price Gouging Act, and co-lead of the PRICE Act making data centers power themselves.",
+"notable_quote": {
+"text": "Despite its potential deadly consequences, cutting-edge AI technology is less regulated than the average food truck. That must change.",
+"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
+"date": "2026-09-03"
+},
+"groups": [
+"Congressional Progressive Caucus (Chair, 119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Casar wants data centers to pay their own way. He co-wrote bills forcing AI data centers to generate their own renewable power and to disclose energy and water use, and a bill capping utility profits. He has not called for a pause on building.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Menendez and Casar introduce the PRICE Act and Data Center Transparency Act",
+"url": "https://menendez.house.gov/media/press-releases/-menendez-casar-introduce-groundbreaking-legislation-to-protect-americans-from-financial-and-environmental-impacts-of-ai-data-centers",
+"date": "2026-01-08",
+"quote": "Families should not pay more for utilities so that billionaires can get rich off AI data centers.",
+"what_it_shows": "He frames AI data centers as a threat to household electric bills and the environment and wants them to bring their own clean power."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6983, PRICE Act (original cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6983",
+"date": "2026-01-08",
+"quote": null,
+"what_it_shows": "The bill would require data centers to generate the electricity they use, reaching 100 percent renewable by 2040, with daily fines for violations."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6984, Data Center Transparency Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6984",
+"date": "2026-01-08",
+"quote": null,
+"what_it_shows": "Data centers would have to publicly report electricity and water use and effects on household bills."
+},
+{
+"type": "sponsor",
+"title": "H.R. 8568, Lowering Utility Bills Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8568",
+"date": "2026-04-29",
+"quote": null,
+"what_it_shows": "His bill caps utility profit margins and bars charging ratepayers for lobbying and executive perks, part of a broader affordability push as bills rise."
+},
+{
+"type": "statement",
+"title": "Texas Tribune: Casar unveils bill targeting utility costs",
+"url": "https://www.texastribune.org/2026/05/01/texas-greg-casar-congress-bill-utility-costs-affordability-2026-midterms/",
+"date": "2026-05-01",
+"quote": "They pay basically no risk, but pay themselves more than anybody else can get investing in the stock market, and then you are forced to pick up the tab",
+"what_it_shows": "He casts rising power bills as a fight between utilities and ratepayers, the same lens he applies to data centers."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "high",
+"summary": "Casar treats advanced AI as a serious danger. He is the House sponsor of the Sanders bill to permanently ban superintelligent AI and pause advanced AI development, led letters demanding hearings with AI CEOs under oath and answers from OpenAI about a model that escaped testing, and wants a tax on AI companies to fund jobs.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Sanders and Casar announce the Ban Artificial Superintelligence Act",
+"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
+"date": "2026-09-03",
+"quote": "In just four years, we have gone from the first version of ChatGPT to AI models so powerful they cannot be properly controlled. Congress should immediately ban AI systems too powerful to control.",
+"what_it_shows": "He is the House sponsor of a bill to permanently ban superintelligent AI, pause advanced AI development, create a cabinet-level regulator, and jail violators for up to 20 years."
+},
+{
+"type": "statement",
+"title": "The Hill: Sanders, Casar call for artificial superintelligence ban amid rogue AI hackings",
+"url": "https://thehill.com/policy/technology/6069131-sanders-casar-ai-superintelligence-ban/",
+"date": "2026-09-03",
+"quote": null,
+"what_it_shows": "National coverage confirms the bill would pause advanced AI development until federal safety standards exist and pursue international agreements against superintelligence."
+},
+{
+"type": "letter",
+"title": "Press release: Casar leads 19 members demanding hearings with AI CEOs under oath",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"date": "2026-08-10",
+"quote": "Advanced AI models pose a clear risk to the safety and security of the American people.",
+"what_it_shows": "He led a letter to Speaker Johnson saying Congress has failed to respond to AI threats and asking for CEOs to testify under oath."
+},
+{
+"type": "letter",
+"title": "Press release: Casar leads 31 members demanding OpenAI release logs on a security incident",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-demand-information-open-ai-about-security-incident",
+"date": "2026-08-10",
+"quote": "Given the serious risk that frontier AI models can pose, it is imperative we have a detailed understanding of how this security incident unfolded, including any potential negligence on the part of OpenAI.",
+"what_it_shows": "He pressed OpenAI with 23 questions about a model that reached the internet from a test environment, including whether models tried to defeat evaluations or undermine oversight."
+},
+{
+"type": "sponsor",
+"title": "H.R. 10044, AI Tax and Work Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10044",
+"date": "2026-08-06",
+"quote": null,
+"what_it_shows": "His bill taxes large AI companies to fund a Work Protection Administration that creates jobs to offset AI layoffs."
+},
+{
+"type": "statement",
+"title": "Press release: Casar leads introduction of the AI Tax and Work Protection Act",
+"url": "https://casar.house.gov/media/press-releases/news-casar-leads-introduction-new-bill-protect-workers-threat-ai-mass",
+"date": "2026-08-07",
+"quote": "This bill says: we will not let AI billionaires get rich by putting you out of work.",
+"what_it_shows": "He warns of Great Depression levels of AI unemployment and says the federal government is doing nothing to protect workers."
+},
+{
+"type": "op_ed",
+"title": "Op-ed, The American Prospect: Tax AI to Create Jobs",
+"url": "https://casar.house.gov/media/press-releases/op-ed-american-prospect-tax-ai-create-jobs",
+"date": "2026-05-28",
+"quote": "We face potential unemployment on par with the Great Depression. We need a mass employment program to get through it. AI can pay for it.",
+"what_it_shows": "He argues slowing AI adoption through a tax is a feature, and also calls for safety protocols against out-of-control AI, worker and IP protections, and rules against mass surveillance."
+},
+{
+"type": "interview",
+"title": "Common Dreams: Casar on MeidasTouch calls AI oligarchs' vision dystopic",
+"url": "https://www.commondreams.org/news/greg-casar-ai-oligarchs",
+"date": "2026-09-06",
+"quote": "But going toward 10%, 20% unemployment just so these guys can be super rich is completely dystopic.",
+"what_it_shows": "He rejects the idea that AI-driven mass unemployment softened by basic income is acceptable."
+},
+{
+"type": "sponsor",
+"title": "H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-07-23",
+"quote": null,
+"what_it_shows": "His bill bans using AI and personal data to charge people different prices or pay workers different wages."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 9619, People-First Chatbot Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9619",
+"date": "2026-07-09",
+"quote": null,
+"what_it_shows": "He backs safety rules requiring AI chatbots to put users' wellbeing first."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 7110, Eliminating Bias in Algorithmic Systems Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7110",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "He supports civil rights teams inside agencies to catch discriminatory algorithms."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 2894 (118th), Block Nuclear Launch by Autonomous Artificial Intelligence Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2023-07-10",
+"quote": null,
+"what_it_shows": "He backed requiring a human decision for any nuclear launch, an early sign of concern about AI control."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "medium",
+"summary": "Casar is a populist critic of Big Tech. He wrote the first federal bill to ban AI surveillance pricing, backs bans on algorithmic rent fixing and a face-recognition moratorium, and has urged Democrats to refuse AI industry money. He voted against the TikTok forced-sale law, calling it rushed.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Casar introduces the Stop AI Price Gouging and Wage Fixing Act",
+"url": "https://casar.house.gov/media/press-releases/news-congressman-greg-casar-introduces-new-stop-ai-price-gouging-and-wage",
+"date": "2025-07-23",
+"quote": "Giant corporations should not be allowed to jack up your prices or lower your wages using data they got spying on you",
+"what_it_shows": "He wants a federal ban, enforced by the FTC and private lawsuits, on companies using personal data to set individual prices and wages."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8622 (118th), Preventing the Algorithmic Facilitation of Rental Housing Cartels Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8622",
+"date": "2024-07-08",
+"quote": null,
+"what_it_shows": "He supports making it illegal for landlords to use shared pricing software to push up rents."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 1404 (118th), Facial Recognition and Biometric Technology Moratorium Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/1404",
+"date": "2023-03-07",
+"quote": null,
+"what_it_shows": "He backed halting federal use of face recognition until Congress approves it."
+},
+{
+"type": "statement",
+"title": "Press release: Casar reacts to TikTok forced sale bill",
+"url": "https://casar.house.gov/media/press-releases/news-congressman-greg-casar-reacts-tiktok-forced-sale-bill",
+"date": "2024-03-13",
+"quote": "I voted no on the TikTok forced sale bill. While I have serious data privacy concerns with TikTok, this bill was rapidly rushed to a vote by the Republicans with almost no public scrutiny",
+"what_it_shows": "A contrary data point: he opposed the TikTok divestiture law as rushed even while citing data privacy concerns."
+},
+{
+"type": "statement",
+"title": "MS NOW: 'As toxic as AIPAC': Progressive leader wants Dems to reject AI cash",
+"url": "https://www.ms.now/news/progessive-leader-greg-casar-dems-reject-ai-cash",
+"date": "2026-08-07",
+"quote": null,
+"what_it_shows": "Headline-level report that he urged Democrats to refuse AI industry campaign money; article body was not readable."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Casar has twice signed letters opposing a federal moratorium on state AI laws, and in his own op-ed he criticized the preemption push as the only major AI proposal Congress had advanced.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Casar signed)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We write to express our strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws",
+"what_it_shows": "He signed the letter telling congressional leaders not to revive the state AI-law moratorium or override states by executive order; his name appears in the signature pages."
+},
+{
+"type": "letter",
+"title": "Clarke letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Casar signed)",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "He is listed among the 44 signers asking defense-bill negotiators to keep any state AI preemption out of the NDAA."
+},
+{
+"type": "op_ed",
+"title": "Op-ed, The American Prospect: Tax AI to Create Jobs",
+"url": "https://casar.house.gov/media/press-releases/op-ed-american-prospect-tax-ai-create-jobs",
+"date": "2026-05-28",
+"quote": "The only major AI proposal advanced this Congress was a failed effort to prevent states from regulating the industry.",
+"what_it_shows": "In his own words he treats the effort to block state AI rules as a failure of Congress rather than a goal."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Casar has no direct statement on Nvidia chip sales or export control bills. The superintelligence ban he sponsors would use export controls as one tool to stop superintelligence being built abroad, and he rejects the race-with-China argument for going easy on AI companies.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Sanders and Casar announce the Ban Artificial Superintelligence Act (export controls provision)",
+"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
+"date": "2026-09-03",
+"quote": "policies such as export controls to prevent the development of artificial superintelligence anywhere in the world",
+"what_it_shows": "The bill he co-leads directs the United States to use export controls and international agreements against superintelligence development abroad."
+},
+{
+"type": "op_ed",
+"title": "Op-ed, The American Prospect: Tax AI to Create Jobs",
+"url": "https://casar.house.gov/media/press-releases/op-ed-american-prospect-tax-ai-create-jobs",
+"date": "2026-05-28",
+"quote": "I am not interested in a race to the bottom where Chinese and American workers both end up victims of a competition where only the very wealthy actually win.",
+"what_it_shows": "He dismisses the beat-China argument used against AI regulation, but this is not a position on chip exports."
+}
+]
+}
+},
+"search_notes": "Searches: 'Greg Casar artificial intelligence', 'Casar data center', 'Casar superintelligence', 'Casar super PAC / Leading the Future / AIPAC', 'Casar moratorium/preemption/executive order', plus site listing of casar.house.gov and sanders.senate.gov. Opened and read: Casar press releases on AI CEO hearings, OpenAI letter, AI Tax bill, price gouging bill, TikTok vote, American Prospect op-ed; Menendez PRICE Act release; Sanders ASI press release (via Wayback); The Hill; Common Dreams; Texas Tribune utility bill story; Clarke letter; Matsui letter PDF (parsed with pypdf, Casar confirmed as signer). Local bill-status files confirm he is a cosponsor of H.R. 6983 and sponsor of H.R. 8568 and is NOT a cosponsor of the AI Data Center Moratorium Act (H.R. 9442) or the GUARDRAILS Act (H.R. 8031). Could not read: MS NOW body, Politico Q&A, Punchbowl. No AI super PAC support or attack on Casar was found."
+},
+{
+"bioguide": "B001291",
+"name": "Brian Babin",
+"signature": "Chairman of the House Science, Space, and Technology Committee; signed the March 2026 House GOP pledge to enact the White House national AI framework, moved a 10-bill innovation-first AI package, and is probing foreign funding behind opposition to data centers.",
+"notable_quote": {
+"text": "Executive Order 14409 hardens our systems against AI-enabled cyberattacks by partnering with American industry rather than regulating it into the ground.",
+"url": "https://science.house.gov/2026/7/opening-statement-of-chairman-babin-at-ostp-budget-kratsios",
+"date": "2026-07-22"
+},
+"groups": [
+"House Committee on Science, Space, and Technology (Chairman, 119th Congress)",
+"House Republican leadership statement committing to enact the White House National AI Framework (Mar 20, 2026)"
+],
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "high",
+"summary": "Babin wants data centers built faster. As Science Committee chairman he held a hearing on permitting delays as the main barrier to AI infrastructure, and in September 2026 he opened a probe into whether foreign money is behind local opposition to data centers. His committee also blocked a Democratic amendment on data centers' community impacts.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement: Powering America's AI Future, Federal Permitting Challenges for Data Center Infrastructure",
+"url": "https://science.house.gov/2026/2/opening-statement-of-chairman-brian-babin-at-powering-america-s-ai-future-federal-permitting-challenges-for-data-center-infrastructure",
+"date": "2026-02-24",
+"quote": "Permitting delays for power generation and transmission, environmental review bottlenecks, and regulatory uncertainty slow the construction and expansion of critical infrastructure.",
+"what_it_shows": "He frames data centers as the physical backbone of winning the AI race with China and permitting reform as the fix."
+},
+{
+"type": "statement",
+"title": "E&E News: House Science Committee takes on data center permitting",
+"url": "https://www.eenews.net/articles/house-science-committee-takes-on-data-center-permitting/",
+"date": "2026-02-23",
+"quote": "Artificial intelligence will define the next era of economic and national security leadership, but it cannot advance without reliable, abundant energy",
+"what_it_shows": "His announcement of the hearing ties AI leadership to abundant power for data centers."
+},
+{
+"type": "letter",
+"title": "Press release: Babin, McCormick probe foreign influence in U.S. AI and energy policy",
+"url": "https://science.house.gov/2026/9/babin-mccormick-probe-foreign-influence-in-u-s-ai-and-energy-policy",
+"date": "2026-09-10",
+"quote": "Advancing AI capabilities and ensuring energy resilience are essential to U.S. national security and economic competitiveness",
+"what_it_shows": "He sent letters to NSF, Sierra Club, 350.org, Indivisible and Oil Change International seeking documents on foreign funding of organized opposition to data centers."
+},
+{
+"type": "hearing",
+"title": "Roll Call: Federal AI security center measure advanced by House Science (data center amendment dispute)",
+"url": "https://rollcall.com/2026/06/26/federal-ai-security-center-measure-advanced-by-house-science/",
+"date": "2026-06-26",
+"quote": "it should never be assumed that by offering an amendment this idea will automatically be considered or adopted",
+"what_it_shows": "Ranking Member Lofgren said the majority threatened to pull a bill if she offered an amendment on data centers' energy and water impacts; Babin defended the process."
+},
+{
+"type": "op_ed",
+"title": "Op-ed, Washington Times: America must win the artificial intelligence race with China",
+"url": "https://www.washingtontimes.com/news/2026/feb/10/america-must-win-artificial-intelligence-race-china/",
+"date": "2026-02-10",
+"quote": "Unleash innovation, remove unnecessary barriers, and ensure the United States, not China, defines the future of artificial intelligence.",
+"what_it_shows": "He calls for removing barriers to AI infrastructure and innovation."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "high",
+"summary": "Babin is an innovation-first, beat-China chairman. He praised Trump's deregulatory AI Action Plan and prefers voluntary standards and partnership with industry over mandates, though his committee did advance a bipartisan package that writes the federal AI security center (CAISI) into law and creates a voluntary AI flaw database.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Chairman Babin praises administration's strategy for American AI leadership",
+"url": "https://science.house.gov/2025/7/chairman-babin-praises-administration-s-bold-strategy-for-maintaining-american-ai-leadership",
+"date": "2025-07-25",
+"quote": "By fostering innovation through streamlining regulations, strengthening AI infrastructure, and promoting the adoption of gold-standard American-built AI systems, this plan positions the United States ahead of global competitors.",
+"what_it_shows": "He endorsed the Trump AI Action Plan's deregulatory approach and pledged committee legislation to match it."
+},
+{
+"type": "hearing",
+"title": "Opening statement at FY2027 OSTP budget hearing with Director Kratsios",
+"url": "https://science.house.gov/2026/7/opening-statement-of-chairman-babin-at-ostp-budget-kratsios",
+"date": "2026-07-22",
+"quote": "Executive Order 14409 hardens our systems against AI-enabled cyberattacks by partnering with American industry rather than regulating it into the ground.",
+"what_it_shows": "He praises industry partnership over regulation as the model for AI security."
+},
+{
+"type": "hearing",
+"title": "Opening statement at hearing 'Advancing America's AI Action Plan'",
+"url": "https://science.house.gov/2026/1/opening-statement-of-chairman-brian-babin-at-ai-hearing",
+"date": "2026-01-14",
+"quote": "our Committee has an opportunity to advance commonsense legislation that provides access to federal computing resources, supports research and development, trains the next-generation workforce, offers independent model evaluations, and promotes consensus-based standards.",
+"what_it_shows": "His legislative agenda is research, workforce, compute access, independent model evaluations and voluntary standards, not binding safety rules."
+},
+{
+"type": "statement",
+"title": "Joint statement: Johnson, Scalise, Guthrie, Jordan, Babin on the White House national AI framework",
+"url": "https://www.speaker.gov/johnson-scalise-guthrie-jordan-babin-house-will-work-to-implement-national-ai-framework/",
+"date": "2026-03-20",
+"quote": "Congress must take action. Today, the Trump Administration took a critical step in releasing a framework that gives Congress a roadmap to pursue legislation that provides innovators with much-needed certainty, while protecting consumers and prioritizing kids' online safety.",
+"what_it_shows": "He committed to legislation giving AI innovators certainty while beating China, with consumer and kids protections as secondary goals."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 9363, AI Security and Innovation Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9363",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "He cosponsored the bill writing the Center for AI Security and Innovation into law to measure risks of advanced AI systems."
+},
+{
+"type": "hearing",
+"title": "Roll Call: Babin on CAISI funding at the June 25, 2026 markup",
+"url": "https://rollcall.com/2026/06/26/federal-ai-security-center-measure-advanced-by-house-science/",
+"date": "2026-06-26",
+"quote": "And I commit to working with the sponsors to ensure that we get that number right going forward.",
+"what_it_shows": "He supported raising funding for the federal AI evaluation center above the $20 million a year in the bill."
+},
+{
+"type": "sponsor",
+"title": "H.R. 9341, AI-Ready Federal Data Guidelines Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9341",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "His own AI bill asks NIST for voluntary guidelines to make federal data usable for AI, implementing an AI Action Plan recommendation."
+},
+{
+"type": "statement",
+"title": "Houston Chronicle: These Texas GOP congressmen are pushing more federal oversight of AI",
+"url": "https://www.houstonchronicle.com/politics/texas/article/ai-texas-babin-moran-22325041.php",
+"date": "2026-06-29",
+"quote": "address important challenges in the AI space while preserving America's competitive advantage",
+"what_it_shows": "He acknowledges AI challenges but always pairs them with preserving U.S. competitiveness."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "On Big Tech broadly Babin has said little. His record is targeted: age checks for adult websites and bans on TikTok on college campuses and other Chinese-controlled apps.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 1623, SCREEN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-02-26",
+"quote": null,
+"what_it_shows": "He backs requiring adult websites to verify users' ages to keep kids out."
+},
+{
+"type": "sponsor",
+"title": "H.R. 231 (118th), Terminate TikTok on Campus Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/231",
+"date": "2023-01-10",
+"quote": null,
+"what_it_shows": "He wrote a bill making colleges that take federal money ban TikTok on their networks."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 4927 (118th), ACES Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4927",
+"date": "2023-07-26",
+"quote": null,
+"what_it_shows": "He supported cracking down on TikTok and other Chinese-controlled social media apps over spying concerns."
+}
+]
+},
+"preemption": {
+"score": 2,
+"confidence": "medium",
+"summary": "Babin signed the March 2026 House GOP leadership pledge to enact the White House national AI framework, which calls for preempting state AI laws, and asked GAO to catalogue federal and state AI rules to inform that legislation. He has not personally used the word preempt in anything found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Joint statement: Johnson, Scalise, Guthrie, Jordan, Babin pledge to implement the national AI framework",
+"url": "https://www.speaker.gov/johnson-scalise-guthrie-jordan-babin-house-will-work-to-implement-national-ai-framework/",
+"date": "2026-03-20",
+"quote": "House Republicans look forward to working across the aisle to enact a national framework that unleashes the full potential of AI, cements the U.S. as the global leader, and provides important protections for American families.",
+"what_it_shows": "As one of three committee chairs on the statement, he committed to legislating the White House framework that calls for one national standard over state AI laws."
+},
+{
+"type": "letter",
+"title": "Press release: SST leaders request GAO review of federal and state AI regulations",
+"url": "https://science.house.gov/2026/2/sst-leaders-request-gao-review-of-federal-and-state-ai-regulations",
+"date": "2026-02-18",
+"quote": "the current laws and regulations governing AI at both the federal and state levels",
+"what_it_shows": "He and Rep. Obernolte asked GAO to map the growing state patchwork of AI laws to inform future federal legislation."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Babin frames AI as a race with China and flagged that DeepSeek was reportedly built with restricted American chips, which points toward enforcing export controls. He has taken no public position found on Nvidia chip sales to China or specific export control bills.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Op-ed, Washington Times: America must win the artificial intelligence race with China",
+"url": "https://www.washingtontimes.com/news/2026/feb/10/america-must-win-artificial-intelligence-race-china/",
+"date": "2026-02-10",
+"quote": "Reports indicate that the system was developed using advanced American semiconductor chips that were supposed to be off limits to Chinese firms.",
+"what_it_shows": "He treats leakage of controlled chips to a Chinese AI company as a national security failure."
+},
+{
+"type": "hearing",
+"title": "Opening statement at hearing 'Advancing America's AI Action Plan'",
+"url": "https://science.house.gov/2026/1/opening-statement-of-chairman-brian-babin-at-ai-hearing",
+"date": "2026-01-14",
+"quote": "The threat posed by the Chinese Communist Party (CCP) continues to expand into the AI domain.",
+"what_it_shows": "He casts Chinese AI as a security threat, the usual premise for tighter controls, without naming a chips policy."
+}
+]
+}
+},
+"search_notes": "Searches: 'Brian Babin artificial intelligence', 'Babin data center', 'Babin AI framework/preemption/state AI laws', 'Babin Nvidia/export controls/chips China', 'Brian Babin Big Tech/Section 230/TikTok/kids online', 'Chairman Babin AI', 'Babin McCormick foreign influence', plus site listings of babin.house.gov (nothing useful) and science.house.gov (600+ pages; read the AI ones). Opened and read: speaker.gov joint statement; Science Committee opening statements (Feb 24 2026 data center permitting, Jan 14 2026 AI Action Plan, July 22 2026 Kratsios budget), AI Action Plan praise (July 2025), GAO request (Feb 2026), Sept 10 2026 foreign influence press release; Washington Times op-ed (via Wayback); E&E News; Legis1 and Roll Call coverage of the June 25 2026 markup; Houston Chronicle June 29 2026; MLex summary. Could not read: Punchbowl (Babin/Obernolte AI center), EIN News copy (403), Politico Pro. Local bill-status check: not a cosponsor of Chip Security Act, AI OVERWATCH Act, or American AI Leadership and Uniformity Act. No AI super PAC support or attack found."
+},
+{
+"bioguide": "D000399",
+"name": "Lloyd Doggett",
+"signature": "Senior Ways and Means Democrat focused on privacy: led fights against the Trump administration's Palantir federal data 'master file' and joined a letter pressing Medicare on its AI prior-authorization pilot; little other AI activity.",
+"notable_quote": {
+"text": "Placing confidential information on earnings, bank accounts, health care into a single universally accessible format makes it much more exposed to unauthorized individuals. It would be a gross violation of our basic privacy rights.",
+"url": "https://doggett.house.gov/media/press-releases/doggett-ways-and-means-democrats-demand-answers-trump-administrations-palantir",
+"date": "2025-06-16"
+},
+"groups": [
+"House Ways and Means Committee, Health Subcommittee (Ranking Member; oversees Medicare's AI prior-authorization pilot)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. Searches of news and his official site for data centers, electricity bills and ratepayers turned up nothing. He was an original cosponsor of an energy bill aimed at market manipulation, not data centers.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 7977, Energy Consumer Protection Act of 2026 (original cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "A Casten and Schakowsky bill targeting energy market manipulation; it is about consumer energy costs but does not address data centers, so it does not establish a data center position."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Doggett's AI record is targeted and modest. He joined 31 House Democrats pressing Medicare for data on its AI prior-authorization pilot, cosponsored a bill for public warnings about AI risks, and backed letting independent musicians bargain collectively with AI developers.",
+"evidence": [
+{
+"type": "letter",
+"title": "Healthcare Dive: 31 House Democrats including Doggett demand data on Medicare's WISeR AI prior authorization pilot",
+"url": "https://www.healthcaredive.com/news/democrat-letter-more-data-wiser-medicare-ai-prior-authorization/823581/",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "He signed a letter to CMS demanding turnaround times, denial rates and appeal data for a pilot that uses AI to approve or deny Medicare care."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 5360, AWARE Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5360",
+"date": "2026-05-12",
+"quote": null,
+"what_it_shows": "He backs having the government publish warnings and learning resources about the risks of AI tools."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8994, Protect Working Musicians Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8994",
+"date": "2026-05-21",
+"quote": null,
+"what_it_shows": "He supports letting small musicians team up to negotiate with, or refuse, AI companies that want to train on their songs."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Ross introduces the Protect Working Musicians Act (Doggett listed as cosponsor)",
+"url": "https://ross.house.gov/2026/5/news-ross-introduces-legislation-to-support-independent-musicians-and-ensure-fair-negotiations-with-streaming-platforms-and-ai-developers",
+"date": "2026-05-21",
+"quote": "This legislation allows independent artists to band together and collectively negotiate with large streaming platforms and AI developers, without running afoul of antitrust law.",
+"what_it_shows": "The sponsor's release confirms Doggett as one of two original cosponsors of the AI training and licensing bill; the words are Ross's, not his."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6289, Promoting a Safe Internet for Minors Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6289",
+"date": "2026-05-12",
+"quote": null,
+"what_it_shows": "He cosponsored a small kids online safety bill."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Doggett is a privacy hawk. He has fought the Trump administration's Palantir project to combine federal data on every American, long backed net neutrality and reproductive data privacy, and cosponsored the bill banning Chinese-linked connected cars.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Doggett, Ways and Means Democrats demand answers on the Palantir surveillance database",
+"url": "https://doggett.house.gov/media/press-releases/doggett-ways-and-means-democrats-demand-answers-trump-administrations-palantir",
+"date": "2025-06-16",
+"quote": "Placing confidential information on earnings, bank accounts, health care into a single universally accessible format makes it much more exposed to unauthorized individuals. It would be a gross violation of our basic privacy rights.",
+"what_it_shows": "He led committee Democrats in demanding information on a centralized federal database built with Palantir."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Doggett seeks to safeguard Americans' privacy rights from Trump",
+"url": "https://doggett.house.gov/media/press-releases/rep-doggett-seeks-safeguard-americans-privacy-rights-trump",
+"date": "2025-12-11",
+"quote": "Essentially a digital ID, a dossier, tracking where you live, where you work, your earnings, your bank accounts, your health information, even child support agreements",
+"what_it_shows": "He forced a committee vote to obtain Social Security's records on sharing Americans' data with Palantir; Republicans defeated it on party lines."
+},
+{
+"type": "other",
+"title": "Official website issue page: Technology",
+"url": "https://doggett.house.gov/issues/technology",
+"date": null,
+"quote": "Our privacy should be protected, not sold. Access to intrusive information about our private lives should not be available to the highest bidder.",
+"what_it_shows": "He highlights his vote against repealing internet privacy rules and his support for net neutrality as core tech positions."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 3420 (118th), My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "He backed limits on apps and companies collecting reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He supports banning connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on federal preemption of state AI laws as of Sept 2026. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter opposing a moratorium, based on the signer lists checked, and news searches for Doggett with moratorium or preemption found nothing.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls. He championed the CHIPS and Science Act for domestic chip making in Austin and cosponsored the Connected Vehicle Security Act, but nothing on Nvidia sales to China or export control bills was found.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Lloyd Doggett artificial intelligence', 'Doggett data center', 'Lloyd Doggett AI', 'Doggett WISeR/prior authorization AI Medicare', 'Doggett electricity/energy bills/utility', 'Doggett state AI/moratorium/preemption', 'Doggett Samsung/CHIPS/semiconductor', 'Rep. Lloyd Doggett AI 2026', plus two site listings of doggett.house.gov. Opened and read: Healthcare Dive WISeR letter story; Digital Music News and Ross press release on the Protect Working Musicians Act; Doggett press releases on Palantir (June 2025 and Dec 2025); his technology issue page. Matsui letter PDF parsed with pypdf: Doggett not among signers; Clarke letter: not listed. Local bill-status check: H.R. 7977 is the Energy Consumer Protection Act (market manipulation), Doggett original cosponsor 2026-03-18; he is not a cosponsor of H.J.Res. 187 (WISeR disapproval), GUARDRAILS Act, or any data center bill checked. No AI super PAC activity found."
+},
+{
+"bioguide": "H001095",
+"name": "Wesley Hunt",
+"signature": "Second-term Houston Republican who ran for Senate in 2026 and lost the March primary; no notable public AI activity beyond cosponsoring kids online safety and deepfake bills and reversing his TikTok ban vote.",
+"notable_quote": {
+"text": "TikTok has informed, inspired, and mobilized millions, particularly Gen Z, who played a decisive role in the 2024 election",
+"url": "https://www.houstonchronicle.com/politics/texas/article/tiktok-wesley-hunt-20149021.php",
+"date": "2025-02-05"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026, including during his 2026 Senate primary campaign. His energy record is pro oil and gas and anti-regulation but does not mention data centers.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Hunt has no public statements found on AI safety or regulation, and the Texas Tribune's 2026 Senate voter guide could not find any either. His only AI-related legislative act is cosponsoring the 2024 TAKE IT DOWN Act against deepfake and real intimate images posted without consent.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 8989 (118th), TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8989",
+"date": "2024-08-16",
+"quote": null,
+"what_it_shows": "He cosponsored the House bill criminalizing nonconsensual intimate images, including AI deepfakes, and requiring fast takedowns."
+},
+{
+"type": "other",
+"title": "Texas Tribune Q&A: Republican candidates in Texas' 2026 Senate primary (AI section)",
+"url": "https://www.texastribune.org/2026/02/05/texas-us-senate-republicans-2026-primary-q-and-a-voter-guide-cornyn-hunt-paxton/",
+"date": "2026-02-05",
+"quote": null,
+"what_it_shows": "Hunt declined the Tribune's questionnaire, which included AI, and the paper found no past comments from him to fill in his AI positions."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Hunt backs targeted rules to protect kids online, cosponsoring the STOP CSAM Act and earlier child online safety bills. But in 2025 he reversed himself on the TikTok divestiture law he had voted for, calling his vote a mistake and praising the app after Trump moved to keep it running.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 3921, STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-03-12",
+"quote": null,
+"what_it_shows": "He supports making platforms do more to report and remove child sexual abuse material and letting victims sue."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 5182 (118th), Child Online Safety Modernization Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2023-08-08",
+"quote": null,
+"what_it_shows": "He backed fuller reporting of child abuse material by online companies and longer evidence retention."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8989 (118th), TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8989",
+"date": "2024-08-16",
+"quote": null,
+"what_it_shows": "He supported forcing platforms to remove nonconsensual intimate images quickly."
+},
+{
+"type": "statement",
+"title": "Houston Chronicle: Houston Republican Wesley Hunt says he got TikTok vote wrong",
+"url": "https://www.houstonchronicle.com/politics/texas/article/tiktok-wesley-hunt-20149021.php",
+"date": "2025-02-05",
+"quote": "My vote was a mistake, but I am committed to learning from it",
+"what_it_shows": "Contrary evidence: he disavowed his vote for the TikTok forced-sale law, saying data is already at risk in many other ways and praising TikTok's role with young voters."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption of state AI laws. The Texas Tribune's February 2026 Senate voter guide reported it could not find any public comments from Hunt on AI preemption, and news searches found none since.",
+"evidence": [
+{
+"type": "other",
+"title": "Texas Tribune Q&A: Republican candidates in Texas' 2026 Senate primary (preemption question)",
+"url": "https://www.texastribune.org/2026/02/05/texas-us-senate-republicans-2026-primary-q-and-a-voter-guide-cornyn-hunt-paxton/",
+"date": "2026-02-05",
+"quote": "The Tribune could not find public comments from Hunt on AI preemption.",
+"what_it_shows": "An independent newsroom searched his record for a preemption stance during his Senate run and found nothing."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China. His only China-tech statement found is his February 2025 reversal on the TikTok ban, which is not a chips position.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Wesley Hunt artificial intelligence', 'Wesley Hunt data center', 'Wesley Hunt AI', 'Wesley Hunt Senate platform energy/data centers/AI/China', 'Wesley Hunt Big Tech/censorship/Section 230/TikTok', 'Wesley Hunt Nvidia/export controls/semiconductors', 'Wesley Hunt Leading the Future/super PAC AI', 'Hunt Judiciary hearing AI', 'Wesley Hunt grid/power/energy dominance', 'Wesley Hunt Take It Down/STOP CSAM', plus site listings of hunt.house.gov and wesleyfortexas.com. Opened and read: Texas Tribune GOP Senate Q&A (full text saved and searched; AI preemption section says no Hunt comments found); Houston Chronicle TikTok reversal story and candidate comparison; Texas Tribune dark money story (the PACs for and against Hunt are not AI super PACs); Hunt press releases on his POWER Act generator tax credit and energy page; campaign priorities page (no AI content). Results were dominated by Senate-race coverage and AI-generated attack ads by other candidates, none showing Hunt's own AI views. Punchbowl 'Pro-AI network to spend $5M in Texas GOP primaries' (Feb 23, 2026) could not be read, so no AI PAC involvement for or against Hunt is confirmed."
+}
+]

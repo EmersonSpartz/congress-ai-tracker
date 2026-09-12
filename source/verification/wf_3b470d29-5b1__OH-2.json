@@ -1,0 +1,198 @@
+[
+{
+"bioguide": "B001281",
+"checks": [
+{
+"url": "https://newrepublic.com/post/215341/anthropic-ai-regulate-money-extinction",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Article (New Republic, 2026-09-11) contains the sentence verbatim, naming Joyce Beatty among those Think Big endorsed without financial support. Article frames Think Big as the Democratic arm of Leading the Future, the network opposing state AI safety laws, so the claim's characterization is supported. Note the item is weak evidence for her own ai_risk stance: it records a PAC's endorsement, not any statement or vote by Beatty."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "J000289",
+"checks": [
+{
+"url": "https://www.richlandsource.com/2026/06/02/jim-jordan-talks-data-centers-child-care-and-oversight-during-visit-to-shelby/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Quote appears verbatim in Jordan's answer. He also says a Statehouse bill to study long-term concerns 'makes sense', supporting the study half of the claim."
+},
+{
+"url": "https://www.richlandsource.com/2026/06/02/jim-jordan-talks-data-centers-child-care-and-oversight-during-visit-to-shelby/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Verbatim. Surrounding text: national defense and economic growth implications, 'balance all that', 'be super smart in where you locate these things', 'Pick smart locations.' Supports the siting-not-blocking framing."
+},
+{
+"url": "https://www.speaker.gov/johnson-scalise-guthrie-jordan-babin-house-will-work-to-implement-national-ai-framework/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-20",
+"note": "Verbatim in the March 20, 2026 joint statement; Jordan is a named signatory as Judiciary chairman. Statement also says 'beat China in the global AI race'. Note it is a joint leadership statement, not Jordan speaking alone."
+},
+{
+"url": "https://techcrunch.com/2025/03/14/republican-congressman-jim-jordan-asks-big-tech-if-biden-tried-to-censor-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-03-14",
+"note": "Article confirms letters to 16 firms including Alphabet/Google, OpenAI, Anthropic, Nvidia asking for communications suggesting Biden 'coerced or colluded' to 'censor lawful speech' in AI products. The 'not catastrophic risk' clause is the tracker's inference, but the article frames the probe entirely as an 'AI censorship' fight."
+},
+{
+"url": "https://judiciary.house.gov/media/press-releases/chairman-jordan-probes-eu-bureaucrats-hiding-efforts-censor-american-speech",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-03-16",
+"note": "Page confirms letters to ten companies (incl. OpenAI, xAI) reiterating that existing document subpoenas cover communications with the European Commission/DSA enforcers, framed as 'foreign censors'. The page never mentions AI chatbots or AI content rules specifically; that part of the claim is inferred from OpenAI/xAI being recipients."
+},
+{
+"url": "https://www.speaker.gov/johnson-scalise-guthrie-jordan-babin-house-will-work-to-implement-national-ai-framework/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-03-20",
+"note": "Quote is verbatim and Jordan is a signatory committing to enact 'a national framework'. But the page contains no mention of states, state laws, or preemption; the 'one national rule over state AI laws' characterization of the framework comes from outside this source."
+},
+{
+"url": "https://www.richlandsource.com/2026/06/02/jim-jordan-talks-data-centers-child-care-and-oversight-during-visit-to-shelby/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Verbatim, attributed to Jordan in the Q&A."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "The only preemption source is a five-signatory joint statement endorsing 'a national framework' that never mentions states or blocking state laws. Nothing in the cited evidence shows Jordan himself calling for a state moratorium or preemption, so the evidence is too thin for the strongest position on the scale.",
+"suggested_score": 1,
+"suggested_label": "Leans national rule"
+}
+]
+},
+{
+"bioguide": "L000566",
+"checks": [
+{
+"url": "https://energycommerce.house.gov/posts/chairman-latta-delivers-opening-statement-at-subcommittee-on-energy-hearing-on-meeting-growing-power-demand-while-protecting-ratepayers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-29",
+"note": "Quote appears verbatim in Latta's Apr 29, 2026 opening statement (as prepared). Next sentence cites Lawrence Berkeley National Lab finding that data center load growth 'lessens retail electricity costs', matching the claim."
+},
+{
+"url": "https://republicans-energycommerce.house.gov/posts/chairman-latta-delivers-opening-statement-at-subcommittee-on-energy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-24",
+"note": "Verbatim in Jun 24, 2026 markup statement. He describes H.R. 9340 Ratepayer Protection Act as a 'light touch, targeted, and forward-looking approach' directing state utility commissions to set large load tariffs; claim matches."
+},
+{
+"url": "https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=391066",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-04",
+"note": "Jun 4, 2026 release: Guthrie, Joyce and Latta letter to PCAST co-chairs and FBI Director Patel on foreign influence campaigns (CCP-backed entities) against data center buildout. Quote verbatim (page spells 'Sander's'). Latta is named as co-signer; the quoted line is release text, not attributed to Latta personally."
+},
+{
+"url": "https://energycommerce.house.gov/posts/chairman-latta-delivers-opening-statement-at-subcommittee-on-energy-hearing-on-meeting-growing-power-demand-while-protecting-ratepayers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-29",
+"note": "Verbatim; followed by 'These concerns deserve to be taken seriously.' Supports the conditions framing."
+},
+{
+"url": "https://republicans-energycommerce.house.gov/posts/chairman-latta-delivers-opening-statement-at-subcommittee-on-energy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-24",
+"note": "Verbatim opening line of Jun 24, 2026 markup statement; China-race and innovation framing as claimed."
+},
+{
+"url": "https://energycommerce.house.gov/posts/chairman-latta-delivers-opening-statement-at-subcommittee-on-energy-hearing-on-meeting-growing-power-demand-while-protecting-ratepayers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-29",
+"note": "Verbatim. Framed under 'risks of the United States losing this global AI race'; adversary-misuse framing as claimed."
+},
+{
+"url": "https://www.meritalk.com/articles/lawmakers-plead-for-ai-vulnerability-disclosure-plan/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "MeriTalk (May 18, 2026) reports May 13 letter from 35 House members led by Latta and Matsui to National Cyber Director Sean Cairncross, prompted by Anthropic's Mythos announcement. Quote is verbatim from Latta's statement. Ask is for ONCD to convene agencies and industry, i.e. coordination not regulation; claim holds."
+},
+{
+"url": "https://www.ibtimes.com/us-companies-claim-china-using-their-tech-build-ai-models-now-congress-wants-take-action-3805650",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "IBTimes (Jul 23, 2026), citing NBC News, names Latta as House lead with Whitesides, Schiff and Banks on a bill targeting Chinese copycat AI models, treating theft as a security threat and adding an antitrust exemption. Quote verbatim. No bill number given, as the item acknowledges. Note this is about model distillation/theft, not chip export controls."
+},
+{
+"url": "https://energycommerce.house.gov/posts/chairman-latta-delivers-opening-statement-at-subcommittee-on-energy-hearing-on-meeting-growing-power-demand-while-protecting-ratepayers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-29",
+"note": "Verbatim headline quote from Apr 29, 2026 statement."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only china_chips source is a bill on Chinese AI companies copying/distilling US models and an antitrust carve-out. Nothing here concerns semiconductor export controls or chip sales. Latta is clearly China-hawkish in framing, but -2 'Tighten export controls' is not supported by any statement on chips; the evidence justifies at most a lean.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+},
+{
+"dimension": "preemption",
+"objection": "None of the nine sources address federal preemption of state AI laws. The one state-related item (Ratepayer Protection Act) actually directs state utility commissions to act, and the data center letter opposes state moratoriums on political grounds, not via a preemptive federal rule. Evidence for +1 is absent in this set.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No source in this set speaks to Big Tech regulation, platform rules, or kids' online safety. The -1 'Targeted rules' score may rest on evidence outside these items, but nothing here supports it.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "R000619",
+"checks": [
+{
+"url": "https://www.foxbusiness.com/video/6404192320112",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-28",
+"note": "Page loaded directly (status 200). Title matches exactly: \"GOP lawmaker says US needs to do better regarding data centers: 'China's going to win this war'\". The quote appears verbatim in the Fox Business segment description (\"Rulli warns that the U.S. must improve its infrastructure strategy to stay ahead of China while addressing constituent concerns regarding land use and utility costs.\"). As the item itself notes, this is the network's summary, not Rulli's own words; the 'China's going to win this war' line in the title is attributed to him. Page also notes the segment concerns the $500B OpenAI/NVIDIA Ohio data center and Stock Act allegations. Published 2026-08-28."
+},
+{
+"url": "https://rulli.house.gov/newsroom/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-05-04",
+"note": "Newsroom listing loaded and shows the headline 'Rulli Condemns UK Speech Laws Amid Royal Visit' dated May 4, 2026. I also fetched the full release (https://rulli.house.gov/2026/05/04/rulli-condemns-uk-speech-laws-amid-royal-visit/). It says he introduced a resolution condemning 'the ongoing assault on freedom of speech and expression by officials of the United Kingdom, including Prime Minister Keir Starmer' and notes UK officials 'have sought to extradite Elon Musk and other Americans.' The release never uses the words 'online', 'internet', 'Online Safety Act', or platform regulation; it is framed as general free-speech/expression. The claim that he 'introduced a measure attacking British online speech laws' overstates the text (the Musk reference implies an online context but the release does not say so). Correct that it is a resolution, not a bill."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The only tech_regulation source is a resolution condemning UK speech restrictions as an assault on free expression, i.e. opposition to government content rules. That is evidence for a lighter-touch stance, not for -1 'Targeted rules'. Nothing in the sources shows support for any tech regulation. The evidence is also thin (one non-US-focused resolution that does not explicitly mention online platforms).",
+"suggested_score": 1,
+"suggested_label": "Light touch"
+},
+{
+"dimension": "preemption",
+"objection": "Neither source says anything about federal preemption of state AI laws or a national-vs-state rule. The assigned +1 'Leans national rule' has no support in the items checked.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

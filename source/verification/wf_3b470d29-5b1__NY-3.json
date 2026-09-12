@@ -1,0 +1,305 @@
+[
+{
+"bioguide": "V000081",
+"checks": [
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Quote appears verbatim in the letter excerpt; letter also says Congress 'has so far completely failed to respond to the threats posed by AI development' and urges hearings 'immediately'. Nydia M. Velázquez (NY-07) is listed among signers. Page dated Aug 10, 2026."
+},
+{
+"url": "https://goldman.house.gov/media/press-releases/goldman-wyden-velazquez-demand-answers-ice-use-palantir-developed-technologies",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Page names Velázquez as co-lead with Goldman and Wyden of a 30-lawmaker letter on ICE/DHS use of Palantir tools, facial recognition and data aggregation. Quote is verbatim. Note the page frames this as surveillance/data privacy rather than 'AI' per se; Palantir analytics tools are the subject."
+},
+{
+"url": "https://fedscoop.com/house-passes-two-ai-focused-small-business-bills/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Quote verbatim, attributed to Rep. Nydia Velázquez, ranking member of House Small Business Committee. Article says she views AI as having 'all the potential in the world' for small businesses while guidance is needed; supports the claim."
+},
+{
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-garcia-nadler-lead-house-colleagues-in-demanding-answers-from-delta-ceo-about-ai-use-in-ticket-pricing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-05",
+"note": "Nydia Velázquez (NY-07) listed among cosigners of the García/Nadler letter to Delta's CEO about AI in ticket pricing. No quote to check."
+},
+{
+"url": "https://velazquez.house.gov/media-center/press-releases/velazquez-porter-urge-fsoc-oversee-tech-giants",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2019-08-23",
+"note": "Quote verbatim from Velázquez. Letter urges FSOC to designate AWS, Microsoft Azure and Google Cloud as systemically important financial market utilities (SIFMUs), which brings Fed oversight. Note this is from August 2019 and concerns cloud computing/data breaches (Capital One), not AI."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim; letter urges preventing 'any AI moratorium or preemption from being included in the final FY26 NDAA'. Nydia M. Velázquez listed among the 44 signers."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "The fetch tool returned zero text for this PDF; downloaded it directly and extracted text. Quote 'Opposition to an AI moratorium is also broad and bipartisan.' appears verbatim; 'Nydia M. Velázquez' appears in the signature block; letter dated November 26, 2025. Did not independently count the 81 signers."
+},
+{
+"url": "https://fedscoop.com/house-passes-two-ai-focused-small-business-bills/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Headline quote appears verbatim, attributed to Velázquez in the FedScoop article."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "None of the eight sources mention data centers, energy, or ratepayers. The -1 'Protect ratepayers first' score has no supporting evidence in the cited items; either add a data-center source or leave the dimension unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "J000294",
+"checks": [
+{
+"url": "https://jeffries.house.gov/2026/06/02/leader-jeffries-at-cnbc-ceo-summit-the-economy-is-a-disaster-and-the-american-people-know-it",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Quote appears verbatim in the 'Leader Jeffries on AI regulation' section; data centers are listed first among the three public concerns. Note it describes public sentiment, not his own data-center policy position."
+},
+{
+"url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXVCaUt3Vmpwal83aFEtOWIxSDM5NUJqLTdRX0Z6SDl4Mlk4NXB3N1NkbmQycDgxZ2JFYkFhMUlkWS1DQm9BU18tbmdzM0V4WUJqUURTWWl6bnlLa3FlWmlxeWZXZFZ5aGt1Q19CVHJHNEstWGo3VTg5VkpodTJaUXVfZkxKcXcxX3llM3dZNUNIbVpyblROajA2VHBiR1dvSEE?oc=5",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Google News redirect returned an empty 'Google News' shell (0 chars) via both the fetch tool and WebFetch; no Politico headline, byline, or text could be retrieved. Cannot verify the headline or the claim."
+},
+{
+"url": "https://jeffries.house.gov/2025/12/09/leader-jeffries-announces-new-house-democratic-commission-on-ai-and-the-innovation-economy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-09",
+"note": "Quote verbatim, attributed to Leader Jeffries; preceded by praise for the innovation community and 'American companies continue to thrive', so the pairing described in the claim is accurate."
+},
+{
+"url": "https://jeffries.house.gov/2026/06/02/leader-jeffries-at-cnbc-ceo-summit-the-economy-is-a-disaster-and-the-american-people-know-it",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Quote verbatim. Page refers only to 'the executive order that was issued today' in the AI regulation discussion; it does not itself label the EO as a 'frontier AI' order, so that characterization comes from outside the source."
+},
+{
+"url": "https://jeffries.house.gov/2026/06/02/leader-jeffries-at-cnbc-ceo-summit-the-economy-is-a-disaster-and-the-american-people-know-it",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Quote verbatim. He says House Republicans 'were ordered to kill' the bipartisan task force because Trump wanted to dominate the issue, matching the claim."
+},
+{
+"url": "https://jeffries.house.gov/2024/12/17/house-bipartisan-task-force-on-artificial-intelligence-delivers-report",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12-17",
+"note": "Quote verbatim, attributed to Democratic Leader Hakeem Jeffries, paired with AI's 'great promise'."
+},
+{
+"url": "https://readsludge.com/2025/12/09/the-democrats-new-ai-panel-is-led-by-big-tech-allies/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-09",
+"note": "Quote verbatim. Article names Jeffries as creator of the commission and criticizes its leaders' Big Tech ties; the criticism is of the panel's leaders, not of Jeffries' own record directly."
+},
+{
+"url": "https://www.cnbc.com/2025/11/20/trump-ai-executive-order-state-funding.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-20",
+"note": "Both sentences appear verbatim, attributed to Jeffries in a 'brief hallway interview'; CNBC says he 'shot down the idea of a state-level AI moratorium'."
+},
+{
+"url": "https://jeffries.house.gov/2026/06/02/leader-jeffries-at-cnbc-ceo-summit-the-economy-is-a-disaster-and-the-american-people-know-it",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Headline quote appears verbatim on the page."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only reachable source (item 1) has Jeffries describing public concerns about data centers, not stating his own position on building, blocking, or protecting ratepayers; the Politico item that would carry the 'Dem priority' framing is unreachable and headline-only. Evidence is too thin to support -1 'Protect ratepayers first'.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "tech_regulation",
+"objection": "None of the nine items addresses Big Tech regulation generally (antitrust, platforms, kids' safety, privacy); everything is AI-specific and already counted under ai_risk, and the Sludge piece cuts the other way by portraying his commission as industry-friendly. No basis in these sources for a -1 'Targeted rules' score.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "C001067",
+"checks": [
+{
+"url": "https://clarke.house.gov/rep-clarke-sen-markey-introduce-ai-civil-rights-act-to-eliminate-ai-discrimination-and-enact-guardrails-on-use-of-algorithms-in-decisions-impacting-peoples-rights-civil-liberties-livelih",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-02",
+"note": "Quote appears verbatim, attributed to Rep. Clarke; the same paragraph also says 'innovation must never come at the expense of civil rights or justice,' supporting the claim."
+},
+{
+"url": "https://www.techpolicy.press/transcript-house-hearing-on-the-risks-and-benefits-of-ai-chatbots/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-19",
+"note": "Quote is verbatim from Clarke's opening statement as subcommittee ranking member. In her question round she says 'I continue to be very concerned about dark patterns ... especially with Generative AI chatbots' and asks the panel about them, so the claim holds."
+},
+{
+"url": "https://clarke.house.gov/rep-clarke-releases-statement-on-the-bipartisan-house-task-force-on-artificial-intelligence-report",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12-17",
+"note": "Quote verbatim (page uses curly apostrophe). She continues 'I'm pleased with the report's findings', matching the claim that she accepts the task force findings."
+},
+{
+"url": "https://clarke.house.gov/rep-clarke-co-chair-of-the-smart-cities-caucus-joins-cedia-for-a-i-comes-home-smart-technology-demonstration",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-31",
+"note": "Quote verbatim, attributed to Congresswoman Clarke. Page shows her promoting AI smart-home technology as Smart Cities Caucus co-chair; the 'regulator, not opponent' framing is a reasonable inference."
+},
+{
+"url": "https://www.cnbc.com/2026/04/15/ai-2026-elections-midterms-campaign-donations.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-15",
+"note": "Quote verbatim; the article says a coalition led by The Tech Oversight Project sent letters to the five asking them to 'disavow' Leading the Future. CNBC does not itself mention her regulatory bills ('despite her regulatory bills' is the tracker's gloss), and notes it is unclear whether the five received donations."
+},
+{
+"url": "https://readsludge.com/2026/04/09/ai-super-pacs-are-unleashing-millions-to-tilt-primaries-in-their-favor/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-09",
+"note": "Quote verbatim. Note it is Sludge's characterization of Clarke, not text from Think Big's endorsement list itself; the claim's wording ('the industry PAC's own endorsement list treats her as...') slightly overstates who is doing the describing, but the substance (Think Big endorsed a pro-regulation Democrat) is supported."
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/ec-democrats-investigate-elon-musks-grok-spreading-rampant-non-consensual",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-19",
+"note": "Quote verbatim, attributed to Pallone, Schakowsky, and Clarke. Page identifies Clarke as Oversight and Investigations Subcommittee Ranking Member and the letter demands Musk 'implement, and enforce safety guardrails.'"
+},
+{
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-garcia-nadler-lead-house-colleagues-in-demanding-answers-from-delta-ceo-about-ai-use-in-ticket-pricing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-05",
+"note": "Yvette Clarke (NY-09) is listed among cosigners of the letter asking Delta about plans to expand generative AI in ticket pricing."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim from the letter text; page confirms 44 signers led by Clarke. Letter cites state AI laws and says preemption would create 'an unnecessary regulatory vacuum that lets Big Tech run rampant.'"
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim. Letter also states 'a moratorium would be wildly irresponsible given the lack of any federal legislation' and Clarke is named as lead of 44 Members."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF (fetch tool returned no text; downloaded and extracted directly). Quote verbatim; 'Yvette D. Clarke, Member of Congress' appears in the signature block; 81 'Member of Congress' signatures counted. Letter opposes an NDAA moratorium and the proposed preemption executive order."
+},
+{
+"url": "https://clarke.house.gov/rep-clarke-sen-markey-introduce-ai-civil-rights-act-to-eliminate-ai-discrimination-and-enact-guardrails-on-use-of-algorithms-in-decisions-impacting-peoples-rights-civil-liberties-livelih",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-02",
+"note": "Headline quote verbatim on the page, attributed to Rep. Clarke."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "G000599",
+"checks": [
+{
+"url": "https://goldman.house.gov/media/press-releases/goldman-wyden-velazquez-demand-answers-ice-use-palantir-developed-technologies",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Page (dated 2026-04-16) is Goldman's own release; quote appears verbatim as letter text attributed to the lawmakers. Goldman, Wyden and Velázquez lead the letter demanding DHS/ICE answers on Palantir tools and facial recognition."
+},
+{
+"url": "https://goldman.house.gov/media/press-releases/rep-goldman-rallies-immigration-advocates-against-palantirs-mass-surveillance",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-07",
+"note": "Release dated 2026-05-07; quote appears verbatim attributed to Rep. Goldman (page uses curly apostrophe in Palantir’s). Supports the rally/public-target claim."
+},
+{
+"url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEExM3Z0SGJjQmExOEtfUk56c2NBamJ4RmFvU0dCZC1fT0pmWFFIRmhOdGd1ZHZPdS1RcElONlVrLUxTb1k3dnFvUDBxTjZFUUc4MmExcGtTTFo2eUtlTE5TMEg3Ti02UTFWcDc4dE13enp3cTN5dE0wQTlqRFB2YktmSEQwX0JkemtXMDNzUUlvNXVrNjFBOEt0eDExLWJrOXRZdmpncnc5OWxxSXp1RTRCM1ppU0NqRnlHN05XZ2R4d3lhaFZoRGlZRllXWExEYVZVblc0Y2lKMVRpaTdpWF83aGZaSGpvRFE?oc=5",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Google News redirect returned an empty shell (0 chars), then HTTP 429 on retries; Wayback had no copy; decode of the redirect to the Washington Post URL also 429'd; search-engine fallbacks blocked. Could not verify the headline or that the article is about Rep. Goldman. Recommend replacing with the direct washingtonpost.com URL."
+},
+{
+"url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmlJdEdiVUtJVThldHFSWDdJWEt2bEhZYTZkUzlHVGV5TmdlQnF4SklyOGNPVzZUaEZOV2xDU29qMjdnck96aFRzMWpqbUMwdkwtTEQ4YzFNSGlaYmpiT3FWRU5BcW10Z0ttYThkeU12S2tydkw0SXJUeGFrUTRibXZCV3BEU1V6MjZMSE96bTlFcFUy?oc=5",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Google News redirect returned an empty page and then HTTP 429; no Wayback mirror; search fallbacks blocked. Headline and the deepfake-bill contrast could not be verified. Recommend the direct nydailynews.com URL."
+},
+{
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-garcia-nadler-lead-house-colleagues-in-demanding-answers-from-delta-ceo-about-ai-use-in-ticket-pricing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-05",
+"note": "Release dated 2025-11-05 lists 'Dan Goldman (NY-10)' among cosigners of the letter to Delta's CEO on AI-driven individualized ticket pricing."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF downloaded and text-extracted: letter dated November 26, 2025; quote appears verbatim on page 2; 'Dan Goldman, Member of Congress' is among 81 signature blocks. Letter opposes an NDAA AI moratorium and the proposed preemption executive order."
+},
+{
+"url": "https://goldman.house.gov/media/press-releases/rep-goldman-rallies-immigration-advocates-against-palantirs-mass-surveillance",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-07",
+"note": "Same page as item 2; quote verbatim, attributed to Rep. Goldman."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "None of the seven sourced items mentions data centers, energy, ratepayers, or siting. A -2 'Pause or block' position is the most extreme point on the scale and has no supporting evidence here; unless other sources exist, it should be null.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

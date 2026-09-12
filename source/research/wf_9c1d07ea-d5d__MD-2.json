@@ -1,0 +1,913 @@
+[
+{
+"bioguide": "I000058",
+"name": "Glenn Ivey",
+"signature": "Prince George's County Democrat who treats data centers as a ratepayer problem and backs limits on police facial recognition and AI deepfakes.",
+"notable_quote": {
+"text": "We are paying for data centers that are not located in Maryland nor in the interest of our constituents. We need common sense regulations that save us from this affordability crisis and prevent rolling blackouts on the grid",
+"date": "2026-03-12",
+"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability"
+},
+"groups": [
+"Monopoly Busters Caucus (member)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Ivey says Marylanders are paying for data centers built in other states and wants rules so they do not drive up bills or cause blackouts. He cosponsors the Power for the People Act, signed the July 2026 letter asking FERC to shift roughly $2 billion in data center transmission costs off Maryland ratepayers, and voted against the Republican permitting overhaul.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Maryland delegation meeting on energy affordability, Ivey statement",
+"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
+"date": "2026-03-12",
+"quote": "We are paying for data centers that are not located in Maryland nor in the interest of our constituents. We need common sense regulations that save us from this affordability crisis and prevent rolling blackouts on the grid",
+"what_it_shows": "In his own words he blames out-of-state data centers for higher bills and asks for regulation, a ratepayer-first stance."
+},
+{
+"type": "letter",
+"title": "Letter: Maryland Democrats urge FERC to protect Marylanders from out-of-state data center transmission costs (Ivey a signer)",
+"url": "https://mcclaindelaney.house.gov/media/press-releases/maryland-democrats-urge-ferc-protect-marylanders-rising-electricity-costs-due",
+"date": "2026-07-28",
+"quote": "it is unjust and unreasonable to force our constituents to subsidize the energy infrastructure needs of the wealthiest companies in the world",
+"what_it_shows": "He joined the whole Democratic delegation in asking FERC to make data centers, not Maryland households, pay for the grid upgrades they cause."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8241 Power for the People Act of 2026 (listed as a cosponsor in the Mfume-Tonko introduction release)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8241",
+"date": "2026-04-09",
+"quote": null,
+"what_it_shows": "Backs a bill that would make data centers pay for their own transmission upgrades and create a data center load queue at grid operators."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act, House roll call 356 (permitting overhaul)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against the Republican permitting bill pitched as speeding energy and data center construction; a mostly party-line vote, so a weak signal on its own."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Ivey supports specific AI guardrails rather than broad rules: he cosponsors bills limiting police use of facial recognition and several bills against AI deepfakes and voice clones. In 2023 he questioned whether government can keep up with the pace of AI. No statements found on frontier AI safety or an AI pause.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4695 Facial Recognition Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4695",
+"date": "2025-07-23",
+"quote": null,
+"what_it_shows": "Supports warrant and accuracy requirements before police can use face-scanning AI."
+},
+{
+"type": "statement",
+"title": "Press release (Rep. Lieu): Facial Recognition Act introduction with Ivey statement",
+"url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-jackson-lee-clarke-gomez-ivey-and-veasey-introduce-bill",
+"date": "2023-10-27",
+"quote": "As a former federal prosecutor and elected state's attorney, I understand the usefulness of gathering evidence for criminal cases but only if it is gathered lawfully and under adherence to the protections of the constitution",
+"what_it_shows": "His own explanation for wanting limits on law enforcement AI surveillance, framed through his prosecutor background."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3106 Preventing Deepfakes of Intimate Images Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2023-07-17",
+"quote": null,
+"what_it_shows": "Backs making AI sexual deepfakes of real people illegal and letting victims sue."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5586 DEEPFAKES Accountability Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5586",
+"date": "2023-09-20",
+"quote": null,
+"what_it_shows": "Supports mandatory labeling of AI-generated video and images."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6943 No AI FRAUD Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6943",
+"date": "2024-01-22",
+"quote": null,
+"what_it_shows": "Supports a right to sue over unauthorized AI copies of a person's voice or likeness."
+},
+{
+"type": "hearing",
+"title": "Video: Glenn Ivey raises concerns that 'the government isn't able to keep up' with the development pace of AI (House Judiciary hearing)",
+"url": "https://ivey.house.gov/media/videos/glenn-ivey-raises-concerns-government-isnt-able-keep-development-pace-ai",
+"date": "2023-11-23",
+"quote": null,
+"what_it_shows": "Headline from his own office frames AI as moving faster than government oversight; the page text only describes his antitrust questioning."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Ivey leans toward tougher rules on big platforms. He belongs to the Monopoly Busters Caucus, called for the top Judiciary antitrust Democrat to keep a steadfast anti-monopoly commitment, and cosponsored reproductive data privacy, child abuse reporting and nonconsensual image bills. No call for breaking up companies or repealing Section 230 was found.",
+"evidence": [
+{
+"type": "interview",
+"title": "Politico (Cristiano Lima), reposted by Ivey's office: Big Tech critics looking for their next House antitrust champion",
+"url": "https://ivey.house.gov/media/in-the-news/big-tech-critics-looking-their-next-house-antitrust-champion",
+"date": "2023-04-19",
+"quote": "should be someone on the committee who will maintain a steadfast commitment to anti-monopoly policies while also building on Congressman Cicilline's legacy",
+"what_it_shows": "He wanted the Judiciary antitrust post to stay in the hands of a Big Tech antitrust hawk in the mold of David Cicilline."
+},
+{
+"type": "other",
+"title": "Ivey official site: Committees and Caucuses page lists Monopoly Busters Caucus membership",
+"url": "https://ivey.house.gov/about/committees-and-caucuses",
+"date": null,
+"quote": null,
+"what_it_shows": "Membership in the anti-monopoly caucus signals support for stronger antitrust enforcement, including against tech giants."
+},
+{
+"type": "hearing",
+"title": "Video: Rep. Ivey questions Rep. Cline's proposal to transfer antitrust enforcement from the FTC to the DOJ",
+"url": "https://ivey.house.gov/media/videos/rep-ivey-questions-rep-clines-proposal-transfer-antitrust-enforcement-ftc-doj",
+"date": "2024-04-18",
+"quote": null,
+"what_it_shows": "Pushed back on a Republican plan to strip the FTC of antitrust power, a defense of the agency that polices Big Tech."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 My Body, My Data Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-25",
+"quote": null,
+"what_it_shows": "Supports limits on apps collecting and sharing reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5082 REPORT Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5082",
+"date": "2024-02-23",
+"quote": null,
+"what_it_shows": "Supports stronger platform duties to report child abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3686 SHIELD Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3686",
+"date": "2024-09-20",
+"quote": null,
+"what_it_shows": "Supports a federal crime for sharing private sexual images without consent."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Ivey did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against an AI moratorium, is not a GUARDRAILS Act cosponsor, and no statement on the Dec 2025 executive order or the March 2026 White House framework turned up.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searches for Ivey with Nvidia, export controls, chips and China returned nothing, and he has not cosponsored chip export bills.",
+"evidence": []
+}
+},
+"search_notes": "Searched Google News for Ivey with artificial intelligence, AI, data center, chatbot/deepfake/facial recognition, Big Tech/Section 230/antitrust/KOSA/TikTok, Nvidia/export controls/chips, Section 702/surveillance, AI Caucus. Listed and read his official site (caucus page, AI video, antitrust items, TikTok segment). Opened the March 12, 2026 delegation release (Mfume site), the July 28, 2026 FERC letter release, the Mfume-Tonko Power for the People release (lists Ivey as cosponsor), govtrack roll call h356, the Lieu facial recognition release, The Hill FISA piece and the Fox5 AI grant story. Leads not confirmed: the Nov 2025 PJM letter (Van Hollen site returned 403, no alternate copy found) and the state context's claim of AI Caucus membership (not on his official caucus page, so left out). Matsui letter PDF checked: Ivey not a signer. Clarke letter: not a signer."
+},
+{
+"bioguide": "H000874",
+"name": "Steny H. Hoyer",
+"signature": "Retiring dean of the Maryland delegation; on record against Marylanders paying for out-of-state data centers, with little else on AI.",
+"notable_quote": {
+"text": "At a time when Marylanders are facing financial strain at the hands of the Trump Administration, it is critical that we continue to combat rising energy prices for working families.",
+"date": "2026-03-12",
+"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Hoyer signed the July 2026 Maryland letter asking FERC to stop roughly $2 billion in out-of-state data center transmission costs from landing on Maryland bills, and joined the delegation's energy affordability push. His own words focus on energy prices for working families rather than on data centers directly. He voted against the Republican permitting overhaul.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Maryland Democrats urge FERC to protect Marylanders from out-of-state data center transmission costs (Hoyer a signer)",
+"url": "https://mcclaindelaney.house.gov/media/press-releases/maryland-democrats-urge-ferc-protect-marylanders-rising-electricity-costs-due",
+"date": "2026-07-28",
+"quote": "our constituents should not be forced to pay for transmission projects that they did not cause and from which they will not meaningfully benefit",
+"what_it_shows": "He put his name on a letter saying data centers, not Maryland households, should pay for the grid expansion they drive."
+},
+{
+"type": "statement",
+"title": "Press release: Maryland delegation meeting on energy affordability, Hoyer statement",
+"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
+"date": "2026-03-12",
+"quote": "At a time when Marylanders are facing financial strain at the hands of the Trump Administration, it is critical that we continue to combat rising energy prices for working families.",
+"what_it_shows": "His statement at a meeting called partly over data center demand stresses lowering bills, but does not name data centers."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act, House roll call 356 (permitting overhaul)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against the Republican permitting bill pitched as speeding energy and data center construction; mostly party-line, so a weak signal."
+},
+{
+"type": "hearing",
+"title": "Press release: Hoyer opening remarks at Appropriations markup of FY2027 Energy and Water bill",
+"url": "https://hoyer.house.gov/media/press-releases/hoyer-americans-deserve-have-their-government-and-representatives-work-bring",
+"date": "2026-05-20",
+"quote": "Americans deserve to have their government and their representatives work to bring energy costs down, not up",
+"what_it_shows": "Shows his energy focus is on costs and grid resilience; the remarks do not mention data centers."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Searches of news and his official site for AI, chatbots, deepfakes and AI safety turned up only a quantum computing groundbreaking release that mentions AI research in passing.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "The only relevant record is his 2024 cosponsorship of a bill requiring websites and apps to meet accessibility rules, a narrow mandate. No statements found on Big Tech, Section 230, privacy law or kids online safety.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5813 Websites and Software Applications Accessibility Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5813",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "Supports a specific legal requirement on websites and apps, a targeted rule rather than a broad Big Tech crackdown."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Hoyer did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against an AI moratorium and made no statement found on the executive order or the White House framework.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls. He often touts the CHIPS and Science Act he shepherded as Majority Leader, but that is about building chips at home, not selling them abroad.",
+"evidence": []
+}
+},
+"search_notes": "Searched Google News for Hoyer with artificial intelligence (general and exact phrase), AI statements, data center Maryland, electricity/ratepayers/energy costs, Big Tech/Section 230/antitrust/KOSA/chatbot/deepfake, TikTok/privacy, state AI laws/moratorium/preemption. Listed his official site for AI, tech, energy, chips, preemption words and read the issues page, the May 2026 Energy and Water markup remarks and the ARLIS quantum groundbreaking release. Opened the March 12, 2026 delegation release and the July 28, 2026 FERC letter release (both list him). Checked govtrack roll call h356. Matsui letter PDF and Clarke release checked: not a signer of either. Not a cosponsor of H.R. 7977 or H.R. 8241. Most 2026 coverage concerns his retirement and the race to succeed him, not AI."
+},
+{
+"bioguide": "M001232",
+"name": "April McClain Delaney",
+"signature": "Former NTIA official and child safety advocate who co-leads the GUARDRAILS Act against AI preemption and wrote a Section 230 duty-of-care bill for platform algorithms.",
+"notable_quote": {
+"text": "It could not be more clear: the Administration is actively seeking ways to make the internet a more dangerous place.",
+"date": "2026-03-20",
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (member)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "McClain Delaney, whose district includes the Quantum Frederick campus, blames rising data center demand for higher bills and wants the companies to pay. She cosponsors the Power for the People Act, issued the delegation's FERC letter on out-of-state data center costs from her own office, and voted against the Republican permitting overhaul. No statement found on the Frederick campus itself.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Maryland delegation meeting on energy affordability, McClain Delaney statement",
+"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
+"date": "2026-03-12",
+"quote": "Rising demand from data centers, extreme weather, and the President's disruptive energy policies are only driving prices higher for working families while benefiting the wealthy.",
+"what_it_shows": "She names data centers as a cause of higher bills and ties the issue to her affordability agenda."
+},
+{
+"type": "letter",
+"title": "Press release: Maryland Democrats urge FERC to protect Marylanders from rising electricity costs due to out-of-state data centers",
+"url": "https://mcclaindelaney.house.gov/media/press-releases/maryland-democrats-urge-ferc-protect-marylanders-rising-electricity-costs-due",
+"date": "2026-07-28",
+"quote": "Under PJM's current cost allocation rules, roughly $2 billion of those costs have been assigned to Maryland ratepayers rather than the data centers that are driving the demand.",
+"what_it_shows": "She signed and publicized the letter asking FERC to shift data center transmission costs off Maryland households."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8241 Power for the People Act of 2026 (listed as a cosponsor in the Mfume-Tonko introduction release)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8241",
+"date": "2026-04-09",
+"quote": null,
+"what_it_shows": "Backs making data centers pay for their own transmission upgrades and creating a data center load queue."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act, House roll call 356 (permitting overhaul)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against the Republican permitting bill pitched as speeding energy and data center construction; mostly party-line, so a weak signal."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "She wants targeted AI guardrails and a federal framework: rules for deepfakes, fraud, kids and classrooms, a ban on AI price and wage discrimination, and NIST-led standards. In August 2026 she signed a letter calling for AI company CEOs to testify under oath about models escaping test environments and demanded answers from OpenAI on a security incident. She has not called for a pause or licensing.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter (Casar-led): 20 House Democrats demand Speaker Johnson hold hearings with AI CEOs under oath (McClain Delaney a signer)",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"date": "2026-08-10",
+"quote": "The CEOs of the largest AI companies should answer questions under oath, and Americans should have a chance to hear from independent experts on the dangers posed by this technology.",
+"what_it_shows": "She joined a letter treating recent AI safety incidents as a national security risk and demanding congressional scrutiny of the labs."
+},
+{
+"type": "letter",
+"title": "Letter (Casar and Matsui-led): 29 House Democrats send OpenAI 23 questions about its security incident (McClain Delaney a signer)",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-demand-information-open-ai-about-security-incident",
+"date": "2026-08-10",
+"quote": null,
+"what_it_shows": "Signed an oversight demand to a frontier AI company over safety and security failures."
+},
+{
+"type": "statement",
+"title": "Press release (Rep. Jacobs): GUARDRAILS Act introduction, McClain Delaney statement",
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"date": "2026-03-20",
+"quote": "I've built my career advocating for digital protections for our most vulnerable Americans, including children and seniors, from cyber threats like fraud, data breaches, deepfakes, and more.",
+"what_it_shows": "Her own framing of AI harms centers on fraud, breaches and deepfakes aimed at kids and seniors."
+},
+{
+"type": "interview",
+"title": "MeriTalk: Delaney hints at new quantum, AI legislation (State of the Net remarks)",
+"url": "https://www.meritalk.com/articles/delaney-hints-at-new-quantum-ai-legislation/",
+"date": "2026-02-10",
+"quote": "I think we almost have to have a new deal on infrastructure, AI, data, and platform accountability that comes together, because what we have now does not meet the moment",
+"what_it_shows": "She wants comprehensive federal AI rules with NIST standards and says she supports Rep. Obernolte's sector-by-sector framework."
+},
+{
+"type": "statement",
+"title": "KHTS news release: Reps. Whitesides, McClain Delaney, Salinas introduce Understanding AI in the Classroom Act",
+"url": "https://www.hometownstation.com/santa-clarita-news/politics/reps-whitesides-mcclain-delaney-salinas-introduce-bill-to-help-study-impact-of-artificial-intelligence-in-the-classroom-604571",
+"date": "2026-08-05",
+"quote": "While AI holds great potential, it also poses risks when its impact is not well vetted or understood.",
+"what_it_shows": "Wants AI's effects on children studied before it is embedded in schools."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640 Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-09-02",
+"quote": null,
+"what_it_shows": "Backs banning companies from using AI and personal data to charge different prices or pay different wages."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 10042 Understanding AI in the Classroom Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10042",
+"date": "2026-08-03",
+"quote": null,
+"what_it_shows": "Co-led a study bill on AI in schools."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "medium",
+"summary": "Her signature bill, the bipartisan Algorithm Accountability Act, would strip Section 230 immunity for harms caused by platform algorithms and let victims sue. She says platforms will not change without liability or penalties, points to the EU's Digital Services Act and Digital Markets Act as models, and wants comprehensive federal privacy and platform accountability law. She also cosponsors a reproductive data privacy bill.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. McClain Delaney, Rep. Kennedy introduce the bipartisan Algorithm Accountability Act",
+"url": "https://mcclaindelaney.house.gov/media/press-releases/rep-mcclain-delaney-rep-kennedy-introduce-bipartisan-algorithm-accountability",
+"date": "2025-11-21",
+"quote": "Big Tech should be responsible to design, test, and operate their platforms safely. When they fail, our nation's families deserve a clear path to hold them accountable for the harms caused.",
+"what_it_shows": "Her own bill creates a duty of care and a right to sue platforms, narrowing Section 230 protection for algorithmic harm."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6266 Algorithm Accountability Act (McClain Delaney is the lead sponsor; Kennedy the cosponsor in congress.gov data)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6266",
+"date": "2025-11-21",
+"quote": null,
+"what_it_shows": "Her lead bill modernizing Section 230 for algorithm-driven harms."
+},
+{
+"type": "interview",
+"title": "Broadband Breakfast: Rep. April McClain Delaney hopes to pass new quantum, AI measures",
+"url": "https://broadbandbreakfast.com/rep-april-mcclain-delaney-hopes-to-pass-new-quantum-ai-measures/",
+"date": "2026-02-09",
+"quote": "There must be some type of liability or some sort of penalty, or it's never going to change",
+"what_it_shows": "She argues social media platforms will not protect kids without legal liability and cites EU platform rules as a model for the US."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3218 Reproductive Data Privacy and Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-09-18",
+"quote": null,
+"what_it_shows": "Supports limits on companies collecting or selling reproductive health data."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "She is one of five House co-leads of the GUARDRAILS Act to repeal the December 2025 executive order preempting state AI laws, a lead signer of the Nov 2025 Matsui letter and a signer of the Dec 2025 Clarke letter against an AI moratorium. She also wants a federal framework, but says states must keep their role.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor (co-lead): H.R. 8031 GUARDRAILS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Co-led the bill to block the executive order that seeks to override state AI laws."
+},
+{
+"type": "statement",
+"title": "Press release (Rep. Jacobs): GUARDRAILS Act introduction, McClain Delaney statement",
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"date": "2026-03-20",
+"quote": "Trump's Executive Order fails to recognize the important role states play in shaping the policies that drive U.S. competitiveness and innovation.",
+"what_it_shows": "Her own words defending states' authority to regulate AI against the White House preemption order."
+},
+{
+"type": "letter",
+"title": "Letter (Matsui-led, 81 House Democrats): opposing an AI moratorium in the NDAA and the planned preemption executive order (McClain Delaney a lead signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We write to express our strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws",
+"what_it_shows": "She was one of four lead signers on the main House Democratic letter against reviving the state AI law moratorium."
+},
+{
+"type": "letter",
+"title": "Letter (Clarke-led, 44 House Democrats): keep AI moratorium and preemption out of FY26 NDAA (McClain Delaney a signer)",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "A second letter she signed against preempting state AI laws with no federal rules in place."
+},
+{
+"type": "interview",
+"title": "MeriTalk: Delaney hints at new quantum, AI legislation",
+"url": "https://www.meritalk.com/articles/delaney-hints-at-new-quantum-ai-legislation/",
+"date": "2026-02-10",
+"quote": null,
+"what_it_shows": "She criticized the state patchwork as inadequate and endorsed a federal framework that preserves states' authority, so her anti-preemption stance comes with a push for national rules."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "She cosponsors the Chip Security Act, which would require location tracking on advanced AI chips to catch smuggling to China, and the No DeepSeek on Government Devices Act. No speeches or statements on Nvidia sales or export controls were found, so the score rests on these two bills.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3447 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-08-12",
+"quote": null,
+"what_it_shows": "Backs built-in location checks on advanced chips so they cannot be diverted to China, a tightening of export enforcement."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1121 No DeepSeek on Government Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-03-21",
+"quote": null,
+"what_it_shows": "Supports banning the Chinese AI app from federal devices, a hawkish stance on Chinese AI."
+}
+]
+}
+},
+"search_notes": "Searched Google News for McClain Delaney with artificial intelligence, data center, Frederick/Washington County/Amazon/Quantum/MPRP, OpenAI/Chip Security/deepfake/chatbot/KOSA, Science Committee AI, NIST/Obernolte/quantum, executive order Dec 2025, Common Sense/age verification, ratepayers, Frederick data center. Listed and read her official site (Algorithm Accountability release, Energy and Water statement, committees and caucuses page confirming AI Caucus). Opened the Jacobs GUARDRAILS release, tristatealert EO article, MeriTalk and Broadband Breakfast interviews, KHTS classroom AI release, both Casar letters, the Matsui letter PDF (she is a lead signer), the Clarke letter, the March 12 delegation release, her FERC letter release, the Mfume-Tonko Power for the People release (lists her as cosponsor), govtrack roll call h356 and the WBFF Moore data center story (mentions her only in a photo caption). Her affordability agenda page returned 404. No statement found on the Quantum Frederick campus or the Piedmont transmission line. No AI super PAC activity tied to her primary found."
+},
+{
+"bioguide": "M000687",
+"name": "Kweisi Mfume",
+"signature": "House co-lead of the Power for the People Act and the only Maryland member on the AI data center moratorium bill.",
+"notable_quote": {
+"text": "They shouldn't have to also foot the bill for the most profitable corporations in the world to build data centers",
+"date": "2026-04-09",
+"url": "https://mfume.house.gov/media/press-releases/reps-mfume-tonko-introduce-power-for-the-people-act-to-shield-consumers-from-rising-energy-costs"
+},
+"groups": [
+"House Oversight Subcommittee on Government Operations (Ranking Member)"
+],
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "medium",
+"summary": "Mfume introduced the House Power for the People Act to make data centers pay for the grid costs they cause, and in August 2026 he joined the AI Data Center Moratorium Act, which would pause new AI data centers. His own words are about ratepayers and call data centers critical to the economy, so his position mixes strong ratepayer protection with support for a pause.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9442 Artificial Intelligence Data Center Moratorium Act (joined Aug 27, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "Backs a temporary halt on new AI data centers until their effects on bills and the environment are addressed; the only Maryland member on the bill."
+},
+{
+"type": "statement",
+"title": "Press release: Reps. Mfume, Tonko introduce Power for the People Act to shield consumers from rising energy costs",
+"url": "https://mfume.house.gov/media/press-releases/reps-mfume-tonko-introduce-power-for-the-people-act-to-shield-consumers-from-rising-energy-costs",
+"date": "2026-04-09",
+"quote": "I am proud that the Power for the People Act will ensure that companies building data centers and driving up demand on the grid pay their fair share.",
+"what_it_shows": "As House co-lead he frames the bill as making data centers pay their own way; the release also calls data centers critical to national security and jobs."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (House co-lead): H.R. 8241 Power for the People Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8241",
+"date": "2026-04-09",
+"quote": null,
+"what_it_shows": "Co-led the bill for data center rate classes, a load queue and FERC rules on who pays for local transmission upgrades."
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Mfume, Maryland delegation holds meeting on energy affordability and reliability",
+"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
+"date": "2026-03-12",
+"quote": "Working families cannot wait for another study, plan or proposal to address our skyrocketing electricity costs.",
+"what_it_shows": "He demands immediate action on bills and calls on Congress to pass his data center cost bill."
+},
+{
+"type": "letter",
+"title": "Letter: Maryland Democrats urge FERC to protect Marylanders from out-of-state data center transmission costs (Mfume a signer)",
+"url": "https://mcclaindelaney.house.gov/media/press-releases/maryland-democrats-urge-ferc-protect-marylanders-rising-electricity-costs-due",
+"date": "2026-07-28",
+"quote": "our constituents should not be forced to pay for transmission projects that they did not cause and from which they will not meaningfully benefit",
+"what_it_shows": "Joined the delegation in asking FERC to shift about $2 billion in data center driven costs off Maryland ratepayers."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act, House roll call 356 (permitting overhaul)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against the Republican permitting bill pitched as speeding energy and data center construction; mostly party-line, so a weak signal."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Mfume backs specific AI guardrails: he cosponsors the AI Civil Rights Act to ban discriminatory AI and require bias testing, and bills against AI-generated election lies. At a Howard University forum he told students government can shape AI's effect on jobs. No statements on frontier AI dangers or a pause were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6356 Artificial Intelligence Civil Rights Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2026-01-08",
+"quote": null,
+"what_it_shows": "Supports banning discriminatory AI and requiring companies to test systems for unfair treatment."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4894 Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "Backs outlawing AI-made false voting information before federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8858 Securing Elections From AI Deception Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "Supports banning AI deepfakes used to trick voters."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4624 Algorithmic Justice and Online Platform Transparency Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4624",
+"date": "2023-07-13",
+"quote": null,
+"what_it_shows": "Supports algorithm transparency and a ban on discriminatory algorithms."
+},
+{
+"type": "statement",
+"title": "The Dig at Howard University: Congressmen Mfume and Khanna discuss AI workforce and tech innovation",
+"url": "https://thedig.howard.edu/all-stories/congressmen-kweisi-mfume-and-ro-khanna-join-howard-university-discuss-ai-workforce-and-tech",
+"date": "2025-12",
+"quote": "I hope you all realize that the government has control to help create, stabilize and ensure that the opportunities are there",
+"what_it_shows": "He sees a government role in steering how AI reshapes the workforce, especially for HBCU students."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Mfume backs targeted rules on tech: he cosponsored the Kids Online Safety Act, the children's privacy update COPPA 2.0, the TikTok divestiture law and reproductive data privacy in the 118th Congress, and as ranking member on a July 2026 Oversight panel on AI-fueled identity fraud he committed to updating the 1974 Privacy Act.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7891 Kids Online Safety Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-09-17",
+"quote": null,
+"what_it_shows": "Supports a duty on platforms to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7890 Children and Teens' Online Privacy Protection Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7890",
+"date": "2024-10-25",
+"quote": null,
+"what_it_shows": "Supports requiring consent before collecting kids' and teens' data and banning targeted ads to them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7521 Protecting Americans from Foreign Adversary Controlled Applications Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "Backed forcing TikTok's sale or ban, a hard line on foreign-controlled apps."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 My Body, My Data Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-08-15",
+"quote": null,
+"what_it_shows": "Supports limits on collecting and sharing reproductive health data."
+},
+{
+"type": "hearing",
+"title": "FedScoop: Federal response needed to fight AI-fueled digital identity fraud, panel says (Mfume as ranking member)",
+"url": "https://fedscoop.com/digital-identity-fraud-login-dot-gov-federal-response/",
+"date": "2026-07-17",
+"quote": "the world has changed, and the least we can do, I think, is to try to find a way to protect the privacy of Americans by updating the federal policy that we have",
+"what_it_shows": "He committed to modernizing the Privacy Act in response to AI-driven identity fraud."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Mfume signed the December 2025 Clarke letter asking defense bill negotiators to keep any AI moratorium or state law preemption out of the NDAA. He did not sign the larger Matsui letter and is not a GUARDRAILS Act cosponsor, so the position rests on one letter.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter (Clarke-led, 44 House Democrats): keep AI moratorium and preemption out of FY26 NDAA (Mfume a signer)",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "He put his name to a letter opposing any federal freeze on state AI laws while no federal rules exist."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China. His 118th Congress support for the TikTok divestiture bill concerns apps, not chips, and no chip bills or statements turned up.",
+"evidence": []
+}
+},
+"search_notes": "Searched Google News for Mfume with artificial intelligence, data center, moratorium, Big Tech/Section 230/deepfake/chatbot/civil rights AI, Howard University AI, FedScoop identity fraud, Oversight hearing AI/fraud, AI Civil Rights Act. Listed and read his official site (Power for the People release, March 12 delegation release, caucus page confirming Government Operations ranking member role, BGE rate letter, Morgan State AI grant release, 2026 press release list). Opened govtrack cosponsor pages for H.R. 9442 (joined Aug 27, 2026) and H.R. 8241, govtrack roll call h356, the FERC letter release, the Clarke letter (he is a signer), the Matsui letter PDF (not a signer), the Howard Dig article and the FedScoop panel story. No statement explaining why he joined the moratorium bill was found on his site or in news. The Nov 2025 PJM letter on the Van Hollen site could not be opened (403), so it is not cited. No AI super PAC activity found in his 2026 primary coverage."
+},
+{
+"bioguide": "R000606",
+"name": "Jamie Raskin",
+"signature": "Top Judiciary Democrat who fights AI preemption, calls AI market concentration the most pressing antitrust issue, and learned Anthropic trained Claude on his books.",
+"notable_quote": {
+"text": "I'm dismayed by those who have caved to a small group of billionaires and now a trillionaire who own these AI models and have proposed broad preemption of state common law",
+"date": "2026-06-30",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-subcommittee-hearing-on-protecting-creators-in-the-age-of-ai-and-the-internet"
+},
+"groups": [
+"House Committee on the Judiciary (Ranking Member)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Raskin signed the July 2026 Maryland letter asking FERC to keep roughly $2 billion in out-of-state data center transmission costs off Maryland bills, joined the delegation's energy affordability push, and says AI adoption should account for environmental costs. His own words focus on soaring energy prices more than on data centers themselves.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Maryland Democrats urge FERC to protect Marylanders from out-of-state data center transmission costs (Raskin a signer)",
+"url": "https://mcclaindelaney.house.gov/media/press-releases/maryland-democrats-urge-ferc-protect-marylanders-rising-electricity-costs-due",
+"date": "2026-07-28",
+"quote": "it is unjust and unreasonable to force our constituents to subsidize the energy infrastructure needs of the wealthiest companies in the world",
+"what_it_shows": "He joined the delegation in asking FERC to make data centers, not households, pay for the grid buildout they drive."
+},
+{
+"type": "statement",
+"title": "Press release: Maryland delegation meeting on energy affordability, Raskin statement",
+"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
+"date": "2026-03-12",
+"quote": "The Trump economy is crushing Marylanders, especially as energy costs soar",
+"what_it_shows": "His statement at a meeting driven partly by data center demand focuses on energy prices, without naming data centers."
+},
+{
+"type": "hearing",
+"title": "Judiciary Democrats: Ranking Member Raskin's opening statement at subcommittee hearing on protecting creators in the age of AI",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-subcommittee-hearing-on-protecting-creators-in-the-age-of-ai-and-the-internet",
+"date": "2026-06-30",
+"quote": "Congress should help provide for the safe adoption of generative AI models that take into account the environmental, labor, and social consequences of such technology, and we should do so while allowing the states to experiment with different approaches.",
+"what_it_shows": "He wants AI growth weighed against its environmental footprint, which is the data center question in other words."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act, House roll call 356 (permitting overhaul)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against the Republican permitting bill pitched as speeding energy and data center construction; mostly party-line, so a weak signal."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Raskin wants guardrails but calls himself an enthusiast rather than a luddite on AI. He says NIST should be allowed to test frontier models, defends common law liability for AI harms, warns that AI turbocharges surveillance, faulted Trump for scrapping Biden's AI safety order, and cosponsors the DEFIANCE Act on sexual deepfakes. He has not called for licensing or a pause.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Judiciary Democrats: Ranking Member Raskin's opening statement at subcommittee hearing on protecting creators in the age of AI",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-subcommittee-hearing-on-protecting-creators-in-the-age-of-ai-and-the-internet",
+"date": "2026-06-30",
+"quote": "The National Institute of Science and Technology should absolutely be allowed to test frontier models.",
+"what_it_shows": "Supports government safety testing of the most advanced AI models and keeping tort liability as a safety net."
+},
+{
+"type": "hearing",
+"title": "Judiciary Democrats: Ranking Member Raskin's opening statement at hearing on federal preemption of state AI laws",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
+"date": "2025-09-18",
+"quote": "Americans' safety is not at odds with AI innovation. That should be the baseline for any conversation we have about the best way to move forward.",
+"what_it_shows": "He rejects the innovation-versus-safety framing and wants a standard of care for AI platforms."
+},
+{
+"type": "hearing",
+"title": "Judiciary Democrats: Ranking Member Raskin's remarks at subcommittee hearing on AI innovation and competition",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-remarks-at-subcommittee-hearing-on-artificial-intelligence-innovation-and-competition",
+"date": "2025-04-02",
+"quote": "the President has now hobbled and undermined the lead cop on the AI beat, the FTC",
+"what_it_shows": "He criticized Trump for reversing Biden's AI guardrails order and weakening the agency that polices AI companies."
+},
+{
+"type": "hearing",
+"title": "Judiciary Democrats: Ranking Member Raskin's opening statement at hearing on government surveillance and Americans' sensitive data",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-subcommittee-hearing-on-government-surveillance-and-the-protection-of-americans-sensitive-data",
+"date": "2025-04-08",
+"quote": "Artificial intelligence turbocharges surveillance capabilities by sifting through mountains of personal data in seconds.",
+"what_it_shows": "Treats AI-powered surveillance and data brokers as a civil liberties danger needing limits."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3562 DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2025-05-21",
+"quote": null,
+"what_it_shows": "Supports a right to sue over AI-generated sexual deepfakes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7532 Federal A.I. Governance and Transparency Act of 2024 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7532",
+"date": "2024-03-05",
+"quote": null,
+"what_it_shows": "Backs requiring agencies to inventory and disclose their AI use."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4624 Algorithmic Justice and Online Platform Transparency Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4624",
+"date": "2024-01-29",
+"quote": null,
+"what_it_shows": "Supports algorithm transparency and a ban on discriminatory algorithms."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "Raskin calls concentration in the AI market the most pressing antitrust matter, defends the FTC as the cop on the Big Tech beat, and demanded Trump reinstate the fired Democratic FTC commissioners, saying the firings help X, Amazon, Meta and Google evade the law. Earlier he pressed the FTC and DOJ over Big Tech's takeover of the auto industry and led the CAMRA Act on tech's effects on children.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Judiciary Democrats: Ranking Member Raskin's remarks at subcommittee hearing on AI innovation and competition",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-remarks-at-subcommittee-hearing-on-artificial-intelligence-innovation-and-competition",
+"date": "2025-04-02",
+"quote": "The dominance of a handful of AI companies presents a long-term threat to our national security, our democracy, our privacy, and basic fairness in the marketplace.",
+"what_it_shows": "He wants aggressive antitrust attention on the biggest AI and tech companies."
+},
+{
+"type": "letter",
+"title": "Judiciary Democrats: Ranking Members Raskin and Pallone demand Trump reinstate FTC commissioners",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-members-raskin-and-pallone-demand-trump-reinstate-ftc-commissioners",
+"date": "2025-03-21",
+"quote": "you are making it easier for companies, including Twitter/X, Amazon, Meta, and Google to evade these laws, which will result in higher prices, and less privacy for consumers",
+"what_it_shows": "Frames an independent FTC as essential to holding Big Tech accountable on prices and privacy."
+},
+{
+"type": "letter",
+"title": "Press release: Rep. Raskin sends letter to FTC, DOJ calling for scrutiny of Big Tech's 'creeping capture and takeover' of the auto industry",
+"url": "https://raskin.house.gov/2022/4/rep-raskin-sends-letter-to-ftc-doj-calling-for-increased-scrutiny-of-big-tech-s-creeping-capture-and-takeover-of-the-auto-industry",
+"date": "2022-04-01",
+"quote": "Big Tech is rapidly doing to cars what it already did to cell phones. Urgent action is needed to protect workers, privacy, and the competitive landscape.",
+"what_it_shows": "A long record of asking antitrust enforcers to check Google, Apple and Amazon's reach."
+},
+{
+"type": "letter",
+"title": "Press release: Raskin, Markey urge NIH to investigate the impact of technology and social media on children",
+"url": "https://raskin.house.gov/2023/2/raskin-markey-urge-nih-to-investigate-the-impact-of-technology-and-social-media-on-children",
+"date": "2023-02-27",
+"quote": null,
+"what_it_shows": "He led the CAMRA Act for three Congresses to fund research on how tech and social media affect kids, groundwork for kids online rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2801 Kids PRIVACY Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2801",
+"date": "2023-06-05",
+"quote": null,
+"what_it_shows": "Supports limits on how apps collect and use kids' and teens' data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 My Body, My Data Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2024-10-18",
+"quote": null,
+"what_it_shows": "Supports limits on collecting and sharing reproductive health data."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "As Judiciary ranking member Raskin has led the House Democratic case against preempting state AI laws. At a September 2025 hearing he said opposition to an AI moratorium is broad and bipartisan and that a moratorium would wipe out state laws without putting a national law in their place. In June 2026 he said preemption backers had caved to billionaires who own the AI models, and that states should be allowed to experiment.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Judiciary Democrats: Ranking Member Raskin's opening statement at hearing on federal preemption of state AI laws",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
+"date": "2025-09-18",
+"quote": "But opposition to an AI moratorium is broad and bipartisan.",
+"what_it_shows": "His formal statement against a federal freeze on state AI laws, citing Republican governors and attorneys general who agree."
+},
+{
+"type": "hearing",
+"title": "Judiciary Democrats: At hearing on federal preemption of state AI laws, subcommittee Democrats underscore need for guardrails",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/at-hearing-on-federal-preemption-of-state-ai-laws-subcommittee-democrats-underscore-need-for-guardrails-to-protect-americans-while-promoting-innovation",
+"date": "2025-09-18",
+"quote": "Isn't it the case that a moratorium today would just wipe out state laws without substituting anything, without imposing a national law?",
+"what_it_shows": "His questioning drew the witness to call a moratorium without federal rules disastrous."
+},
+{
+"type": "hearing",
+"title": "Judiciary Democrats: Ranking Member Raskin's opening statement at subcommittee hearing on protecting creators in the age of AI",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-subcommittee-hearing-on-protecting-creators-in-the-age-of-ai-and-the-internet",
+"date": "2026-06-30",
+"quote": "I'm dismayed by those who have caved to a small group of billionaires and now a trillionaire who own these AI models and have proposed broad preemption of state common law",
+"what_it_shows": "After the White House framework, he attacked broad preemption of state law and tort claims with no federal regulation in return."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Raskin cosponsors the Export Controls Enforcement Act to put more enforcement officers overseas to catch chip smuggling, and has said the US must protect its AI technology from theft by China while rejecting the idea that America must become more like China to compete. No statements on Nvidia H20 or H200 sales were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4505 Export Controls Enforcement Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4505",
+"date": "2026-06-02",
+"quote": null,
+"what_it_shows": "Supports stationing at least 20 export control officers abroad to stop chips and sensitive tech from being diverted."
+},
+{
+"type": "hearing",
+"title": "Judiciary Democrats: Ranking Member Raskin's opening statement at subcommittee hearing on threats to AI innovation",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-subcommittee-hearing-on-threats-to-ai-innovation",
+"date": "2025-05-07",
+"quote": "But we must also take steps to protect American trade secrets from competing nations that seek to steal our AI technology.",
+"what_it_shows": "Leans hawkish on guarding US AI technology from China, though the remark is about trade secrets rather than chip sales."
+},
+{
+"type": "hearing",
+"title": "Judiciary Democrats: Ranking Member Raskin's opening statement at hearing on federal preemption of state AI laws",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
+"date": "2025-09-18",
+"quote": "It would be unwise to assume that we need to become more like China to compete with China.",
+"what_it_shows": "He rejects the argument that beating China requires dropping AI safeguards."
+}
+]
+}
+},
+"search_notes": "Searched Google News for Raskin with artificial intelligence, data center, AI preemption/executive order/moratorium, Nvidia/export controls/chips, Musk/xAI/DOGE data, Big Tech/Section 230/KOSA/antitrust, OpenAI/Anthropic/Hugging Face. Listed the Judiciary Democrats site for AI, preemption, tech, antitrust, surveillance and privacy items and read his opening statements from Apr 2, Apr 8, May 7 and Sept 18, 2025 and June 30, 2026, the Sept 18 hearing summary, and the Raskin-Pallone FTC letter. Listed his official site and read the caucus page (Judiciary ranking member), the 2022 Big Tech auto letter, the 2023 NIH kids and tech letter, the DOGE Privacy Act page and the Oct 2024 PJM letter page (no data center language found in it). Opened the March 12, 2026 delegation release, the FERC letter release, govtrack roll call h356 and govtrack H.R. 7977 cosponsors (he joined May 12, 2026, but the bill has no data center language so it is not cited). Matsui and Clarke letters checked: not a signer of either. No AI super PAC activity found."
+}
+]

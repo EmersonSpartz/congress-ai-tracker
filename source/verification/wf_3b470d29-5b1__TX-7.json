@@ -1,0 +1,194 @@
+[
+{
+"bioguide": "V000134",
+"checks": [
+{
+"url": "https://www.bloomberg.com/news/videos/2026-09-10/data-center-rules-a-local-issue-says-rep-van-duyne-video",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Bloomberg returned 403 and the Wayback Machine has no capture (404). Only the URL slug ('data-center-rules-a-local-issue-says-rep-van-duyne') is consistent with the headline claim; the video content itself could not be verified."
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Quote appears verbatim as her answer to 'What is your top priority for lowering energy costs?' She talks about Biden-era regulatory burdens and gas prices; she does not mention data centers or limiting demand. Note the 'We have to have power for data centers' line in the article belongs to another lawmaker, not her."
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Quote verbatim. Full answer: 'All those things are important. I would hate for states to regulate our technology out of being competitive. We have to beat China. When you think about AI...grow.' Frames AI as growth/China competition; the article also groups her with Hern and Alford as lawmakers for whom China is top of mind on AI legislation."
+},
+{
+"url": "https://vanduyne.house.gov/2026/6/reps-van-duyne-clarke-and-foushee-introduce-bipartisan-creator-act-to-protect-creators-with-visual-artistic-protections",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-03",
+"note": "Quote verbatim in her attributed statement. Release dated June 3, 2026. She describes AI impersonation of artists as a harm the law currently has 'no answer for' and the CREATOR Act as the response."
+},
+{
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407478",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Quote verbatim, attributed to Rep. Van Duyne, asked of witness Mr. Hoang. Her question is about proprietary vs open models and small-business cost/access; no safety-risk framing. Page dated 2026-07-14."
+},
+{
+"url": "https://vanduyne.house.gov/2026/6/reps-van-duyne-clarke-and-foushee-introduce-bipartisan-creator-act-to-protect-creators-with-visual-artistic-protections",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-03",
+"note": "Quote verbatim from her statement ('...taking direct aim at the bad actors who knowingly use AI to fake an artist's identity for commercial gain.'). Bipartisan bill with Clarke and Foushee creating protections for visual artists against AI impersonation."
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "The question was verbatim 'On AI, would you support a bill that preempts states from regulating AI if it included protection for kids, like the Kids Online Safety Act (KOSA)?' Her answer opens 'All those things are important' then the quoted lines. She never says yes or no; the claim's 'openness without a firm commitment' reading is accurate."
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Verbatim, appears twice on the page (in the narrative summary and in her Q&A transcript). Interview published 2026-01-20."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "W000816",
+"checks": [
+{
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407475",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Quote appears verbatim in Chairman Williams's opening statement; he calls Washington-created 'uncertainty' one of the biggest barriers to AI adoption, criticizes the Biden EO 14110, and praises the Trump administration for rescinding it (EO 14179, AI Action Plan)."
+},
+{
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407475",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Quote appears verbatim, immediately following the Biden EO criticism; claim that he treats early binding rules as a competitive mistake is a fair reading."
+},
+{
+"url": "https://fedscoop.com/house-passes-small-business-administration-ai-bills/",
+"verdict": "confirmed",
+"corrected_quote": "By providing regular information to the SBA [and its] use of artificial intelligence, this legislation will help promote a more efficient and accountable government, while ensuring that innovation is paired with appropriate oversight and human judgment",
+"corrected_date": "2026-06-23",
+"note": "Quote is a verbatim excerpt of Williams's statement on the SBA AI reporting bill (House passage, June 23, 2026); article attributes it to him and frames the bill as a reporting/anti-fraud measure for the agency's own AI use, matching the claim."
+},
+{
+"url": "https://fedscoop.com/small-business-administration-house-ai-bills/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-18",
+"note": "Quote verbatim; Williams statement on committee passage of the AI for Mainstreet Act and AI-WISE Act, both adoption/training bills for small businesses. Supports claim."
+},
+{
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407475",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Headline quote appears verbatim in the July 14, 2026 opening statement."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the five sources address regulation of Big Tech or platforms; all concern AI adoption for small businesses and SBA's own AI use. Nothing here supports a -1 'Targeted rules' position, and his only regulatory rhetoric (Biden EO 'heavy-handed', Europe 'regulate first' mistake) points the other way. Unless other sources exist, leave this dimension unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "G000603",
+"checks": [
+{
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-17",
+"note": "Page loaded directly (200). Quote appears verbatim, attributed to Leading the Future's Zac Moffatt. Gill is explicitly named among the House Republicans on the 'champions' list. The article contains no statement from Gill himself, matching the item's caveat that this is the PAC's characterization. Page metadata gives published date 2026-04-17 (URL slug says 04/16)."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The only source is a super PAC endorsement with no words from Gill on AI or tech regulation. It does not support any position on reining in Big Tech, let alone -1 'Targeted rules'. If anything, being a 'champion' of an industry PAC pushing a preemptive national framework leans hands-off, but the evidence is too thin for a score in either direction.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "C001115",
+"checks": [
+{
+"url": "https://cloud.house.gov/posts/release-texas-energy-leadership-spotlighted-as-rep-cloud-discusses-corpus-christi-exports-water-needs-and-regulatory-relief-with-energy-secretary",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Quote appears verbatim (ellipsis is in the original release). Page is dated Apr 16, 2026 and describes remarks 'yesterday' (Apr 15, 2026) before the House Energy and Water Appropriations Subcommittee where Cloud is Vice Chair. He ties China competition and AI to energy production and speed, asks Wright about faster permitting reforms, and says Corpus Christi is running out of water. Caveat: he never uses the phrase 'data centers'; the data-center link is an inference from 'we can look at AI'."
+},
+{
+"url": "https://cloud.house.gov/posts/release-rep-cloud-appointed-to-congressional-task-force-for-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-02-27",
+"note": "Quote verbatim in Cloud's own statement dated Feb 27, 2024. He names both misuse by 'corrupt powers' and 'unintended consequences from well-meaning programmers', which supports the claim."
+},
+{
+"url": "https://cloud.house.gov/posts/release-rep-cloud-appointed-to-congressional-task-force-for-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-02-27",
+"note": "Quote verbatim. Same statement also says 'Congress must ensure that the United States leads the world in AI' and 'must continue to prioritize research and development', so leadership/research paired with unspecified guardrails is an accurate characterization."
+},
+{
+"url": "https://cloud.house.gov/posts/release-congressman-cloud-reintroduces-the-you-own-the-data-act-yoda",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-04",
+"note": "Quote verbatim (release dated May 4, 2026). Page states YODA empowers the FTC and State Attorneys General to enforce and creates a private right of action against companies with annual gross revenues of $50 million or more, matching the claim."
+},
+{
+"url": "https://cloud.house.gov/posts/icymi-rep-cloud-introduces-legislation-to-hold-big-tech-accountable",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-05-08",
+"note": "Daily Caller reprint posted May 8, 2023 (article May 4, 2023). Quote verbatim; headline is 'Hold Big Tech Accountable' and the bill is described as consent-based data collection with a $50M revenue threshold, matching the 2026 reintroduction release. 'Since 2023' is supported by the two releases together."
+},
+{
+"url": "https://www.speaker.gov/wp-content/uploads/2024/12/AI-Task-Force-Report-FINAL.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12",
+"note": "Fetch tool returned 0 chars for the PDF, so I downloaded it and extracted text directly. The three sentences appear verbatim as Key Findings bullets in the Federal Preemption of State Law chapter; the chapter's sole Recommendation is 'Study applicable AI regulations across sectors.' No moratorium or blanket preemption is endorsed. Cloud's membership is not verifiable from the extracted text (the Appendix I member list did not extract), but his Feb 2024 press release confirms his appointment to this Task Force."
+},
+{
+"url": "https://cloud.house.gov/posts/congressman-cloud-votes-in-opposition-to-chips-plus-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-07-28",
+"note": "Quote verbatim; release dated Jul 28, 2022. Statement opposes the bill on deficit/green-energy grounds and vague 'loopholes for China'; nothing about export controls or chip sales abroad, consistent with a null china_chips score."
+},
+{
+"url": "https://cloud.house.gov/posts/release-rep-cloud-appointed-to-congressional-task-force-for-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-02-27",
+"note": "Headline quote appears verbatim in Cloud's Feb 27, 2024 statement."
+}
+],
+"score_objections": []
+}
+]

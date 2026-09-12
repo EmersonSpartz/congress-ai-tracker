@@ -1,0 +1,187 @@
+[
+{
+"bioguide": "M000934",
+"checks": [
+{
+"url": "https://www.wibw.com/2023/11/02/legislators-hope-guidelines-be-accepted-federal-agencies-use-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-11-02",
+"note": "Quote appears verbatim, attributed to Moran; article covers the Federal AI Risk Management Act with Warner and says the NIST framework should be applied to federal agencies (vendor requirement is in the bill description)."
+},
+{
+"url": "https://www.moran.senate.gov/public/index.cfm/news-releases?ID=EA14D5FF-EA37-4C75-87CE-218927D505F8",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Live site returns 403; Wayback capture (2025-12-10) has the quote verbatim from Moran on the NSF AI Education Act of 2024 with Cantwell, framed around remaining globally competitive. Note this release is the 2024 version of the bill, not the 2026 reintroduction."
+},
+{
+"url": "https://news.bgov.com/bloomberg-government-news/ai-education-scholarships-promoted-in-bipartisan-senate-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-03",
+"note": "Paywalled preview still shows the sentence verbatim and names Moran and Cantwell on the NSF AI scholarship bill plus the small-business AI training bill. Quiver listing corroborates S.3957 NSF AI Education Act of 2026 and S.3888 Small Business AI Training Act of 2026."
+},
+{
+"url": "https://www.quiverquant.com/news/New+Bill%3A+Senator+Jerry+Moran+introduces+S.+4211%3A+Consumer+Data+Privacy+and+Security+Act+of+2026",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-15",
+"note": "Quote verbatim; page names Moran as sponsor and describes consumer rights, accountability measures, and small-business exemptions. Source is an auto-generated bill summary, not primary text."
+},
+{
+"url": "https://www.moran.senate.gov/public/index.cfm/news-releases?ID=B97F647A-9263-426A-8270-699E23942E3F",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Live site 403; Wayback capture (2025-09-12) has the quote verbatim, the 'almost 1 in 5 semiconductors' China fabrication line, and the call to 'fully implement the CHIPS and Science Act that was signed into law last year' (implying a 2023 speech). Speech is about supply-chain dependence and domestic manufacturing; it does not discuss chip export controls."
+},
+{
+"url": "https://www.wibw.com/2023/11/02/legislators-hope-guidelines-be-accepted-federal-agencies-use-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-11-02",
+"note": "Full two-sentence headline quote appears verbatim, attributed to Moran."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only cited source is a 2023 China speech about supply-chain dependence and implementing the CHIPS Act; it never mentions export controls or selling chips abroad. General China hawkishness is real, but the evidence for a position on chip export policy specifically is thin.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+},
+{
+"bioguide": "M001198",
+"checks": [
+{
+"url": "https://www.semafor.com/article/07/22/2026/republican-senator-roger-marshall-rails-against-ai-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Item 1. Page (published 2026-07-22) quotes Marshall verbatim: 'Several dozen counties have placed moratoriums [on data centers]... I certainly support their moratoriums.' Also states he opposes tax incentives for data centers, citing strain on water/electricity and few permanent jobs."
+},
+{
+"url": "https://www.semafor.com/article/07/22/2026/republican-senator-roger-marshall-rails-against-ai-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Item 2. Quote appears verbatim. Article says he pointed to higher electricity rates near Panasonic's Kansas plant, 'didn't go so far as to support statewide moratoriums' like Hochul's in New York, and argued moratorium decisions should be made at the local level, not state or federal."
+},
+{
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Item 3. Voter guide (published 2026-07-16) lists Roger Marshall (Republican) with the quoted written answer verbatim, including support for counties 'saying NO to data centers' and opposition to 'taxpayer giveaways'."
+},
+{
+"url": "https://www.semafor.com/article/09/04/2026/britt-congress-should-turn-trumps-data-center-pledge-into-law",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Item 4. Sentence appears verbatim in a passage listing Republicans (Abbott, Tiffany, Marshall) shifting against data centers; Britt 'understands why some of her fellow Republicans are shifting that way.' Page metadata gives publish date 2026-09-03 though URL says 09/04."
+},
+{
+"url": "https://statescoop.com/education-workforce-data-state-longitudinal-systems/",
+"verdict": "confirmed",
+"corrected_quote": "Artificial intelligence is a tool—not a replacement for the American worker. Whether it's in a doctor's office, on a farm, or in manufacturing, AI can help people work smarter and more efficiently. But if you can't measure it, you can't manage it.",
+"corrected_date": "2026-07-29",
+"note": "Item 5. StateScoop (2026-07-29) names Marshall as co-introducer of the RESULTS Act with Blunt Rochester and quotes his press-release statement; the item's quote is a verbatim tail fragment of the fuller quote given in corrected_quote. Claim ('tool not a replacement', better data) matches."
+},
+{
+"url": "https://rollcall.com/2026/07/29/lawmakers-want-better-data-on-ais-workforce-impacts/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Item 6. Quote verbatim. Article says the AI Workforce PREPARE Act was introduced by Sen. Jim Banks and lists Hassan, Husted and Roger Marshall (R-Kan.) as co-sponsors; the layoff-disclosure requirement is described in the paragraph right before the co-sponsor list. Note the disclosure is a reporting rule, a modest guardrail."
+},
+{
+"url": "https://www.pymnts.com/artificial-intelligence-2/2026/senate-bill-aims-to-map-ais-impact-on-us-workforce/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-31",
+"note": "Item 7. Quote verbatim. PYMNTS (2026-07-31) lists Roger Marshall (R-Kan.) among co-sponsors and describes the AI Workforce Research Hub and monitoring of worker transitions between AI-affected jobs."
+},
+{
+"url": "https://fedscoop.com/senators-want-tsa-to-scale-back-facial-recognition-at-airports/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-09",
+"note": "Item 8. Quote verbatim; FedScoop (2025-05-09) names Marshall as a co-sponsor of the bipartisan Traveler Privacy Protection Act limiting TSA facial recognition. Note the date is May 2025, not 2026."
+},
+{
+"url": "https://www.semafor.com/article/07/22/2026/republican-senator-roger-marshall-rails-against-ai-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Item 9. Sentence appears verbatim (reporter's paraphrase of Marshall, not a direct quote). Article also says he 'left open the door to Congress acting to address the national security implications of AI infrastructure.'"
+},
+{
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Item 10. Quote verbatim and the Big Tech/local-families framing is on the page, but the page is only about data centers; the claim that this framing 'carries over to his tech votes' is an inference the source does not support."
+},
+{
+"url": "https://www.semafor.com/article/07/22/2026/republican-senator-roger-marshall-rails-against-ai-data-centers",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Item 11. Quote verbatim, and the foreign-adversaries warning is there, but the page says nothing about chips, semiconductors, or export controls. It is weak evidence for a china_chips position, as the item's own claim concedes."
+},
+{
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Item 12. Full two-sentence headline quote appears verbatim as Marshall's written response in the KSHB voter guide."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only china_chips evidence is one Semafor paraphrase about AI plus quantum computing threatening encryption and aiding foreign adversaries. Nothing in any source mentions chips, semiconductors, Nvidia, or export controls. That is too thin to place him on the export-control scale at all; a generic national-security remark does not establish a hawkish lean on chip sales.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "Evidence is thin: a campaign line calling out 'Big Tech companies' over data centers and a 2025 co-sponsorship of a TSA facial-recognition limit. The -1 'Targeted rules' score is defensible given the facial-recognition bill, but item 10's claim that the framing 'carries over to his tech votes' is unsupported by the cited page; keep -1 only if the tracker is comfortable resting it on the TSA bill rather than the data-center rhetoric.",
+"suggested_score": -1,
+"suggested_label": "Targeted rules"
+}
+]
+},
+{
+"bioguide": "M000871",
+"checks": [
+{
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Page (published 2026-07-16) lists under 'Kansas U.S. Representative District 1': 'Tracey Mann (Republican) — No response by time of publication,' followed by primary challenger Craig Musser's answer opposing blind expansion and tax breaks. Claim matches exactly. Note this reveals no data-center position for Mann himself."
+},
+{
+"url": "https://fedscoop.com/bicameral-bill-dot-role-local-state-tech-effort/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-08",
+"note": "Article (2026-01-08) contains the quote verbatim: 'The Senate bill has a House companion from Reps. Tracey Mann, R-Kan., and Sharice Davids, D-Kan., that was introduced late last month.' Lede describes the Roadway Safety Modernization Act as helping states pursue 'data-driven, AI-powered approaches' to driving safety. Supports the claim of a pro-adoption AI stance, though the article quotes Boozman and Davids, not Mann directly."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "Neither listed source addresses regulating Big Tech or platforms at all: one is a non-response to a data-center questionnaire, the other is a pro-adoption AI road-safety bill. On this evidence the -1 'Targeted rules' score is unsupported; unless it rests on sources not included here, it should be left unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

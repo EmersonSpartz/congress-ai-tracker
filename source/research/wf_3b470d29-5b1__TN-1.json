@@ -1,0 +1,640 @@
+[
+{
+"bioguide": "B001243",
+"name": "Marsha Blackburn",
+"signature": "Senate Republican lead on kids' online safety and creator rights (KOSA, NO FAKES) who killed the 2025 state AI-law moratorium, then wrote the TRUMP AMERICA AI Act to create one preemptive federal AI rulebook with a duty of care.",
+"notable_quote": {
+"text": "President Trump's AI framework rightfully calls on Congress to create one rulebook for AI that protects children, safeguards American communities, supports creators, prevents censorship, enables innovation, and develops an AI-ready workforce",
+"url": "https://www.clarksvilleonline.com/2026/04/23/senator-marsha-blackburn-highlights-growing-support-for-trump-america-ai-act/",
+"date": "2026-04-23"
+},
+"groups": [
+"Chair, Senate Commerce Subcommittee on Consumer Protection, Technology, and Data Privacy (119th Congress)",
+"Chair, Senate Judiciary Subcommittee on Privacy, Technology, and the Law (119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Blackburn supports data centers as part of Tennessee's economic growth and welcomed xAI to Memphis, but her AI bill would make operators pay the full cost of power and water hookups with no impact on ratepayers, and as a candidate for governor she says siting is a local decision and opposed the site next to the Nashville Zoo.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Column: America Needs One Rulebook for Artificial Intelligence. The TRUMP AMERICA AI Act Would Create It",
+"url": "https://www.blackburn.senate.gov/2026/4/ai/america-needs-one-rulebook-for-artificial-intelligence-the-trump-america-ai-act-would-create-it",
+"date": "2026-04-27",
+"quote": "require data center operators to bear the full cost of all energy and water infrastructure needed for their operations, including construction, maintenance, and upgrades",
+"what_it_shows": "Her draft AI law would codify Trump's ratepayer protection pledge and deny federal incentives to any operator that passes costs on to consumers."
+},
+{
+"type": "statement",
+"title": "WPLN: Blackburn video statement opposing the Nashville Zoo data center site",
+"url": "https://wpln.org/post/nashville-zoos-data-center-pushback-captures-broad-political-support/",
+"date": "2026-06-15",
+"quote": "But we've got to look at this placement of this data center up against the Nashville Zoo, which is a very important educational resource for our children, and it's also an important economic engine.",
+"what_it_shows": "She opposed one specific site while calling data centers a good and important part of Tennessee's economic growth and noting many communities want them."
+},
+{
+"type": "interview",
+"title": "Local 3 News: Republican candidates for governor on data centers",
+"url": "https://www.local3news.com/local-news/data-centers-and-flock-cameras-what-do-the-republican-candidates-for-governor-think-about-these/article_bd1e215e-ccde-41ba-9fa2-5759bd9622fe.html",
+"date": "2026-07-24",
+"quote": "data centers are going to be a local decision, and we are going to have to store all of this telephone data and AI data that we're generating, but there are communities that want to host a data center",
+"what_it_shows": "As a candidate for governor she frames siting as a local choice and says willing communities with spare power and water capacity should host them."
+},
+{
+"type": "statement",
+"title": "Memphis Flyer column quoting Blackburn's May 2025 statement welcoming xAI to Memphis",
+"url": "https://www.memphisflyer.com/shut-the-water-off",
+"date": "2026-06-24",
+"quote": "Tennessee is the best state in the nation to do business, and xAI's Memphis facility is proof that innovative companies thrive when entrepreneurs like Elon Musk choose to set up shop in our state.",
+"what_it_shows": "She celebrated the xAI Colossus project when it arrived; a Memphis columnist contrasted this with her later zoo-site objection."
+},
+{
+"type": "other",
+"title": "Daily Memphian: Blackburn toured xAI's Memphis facility without Musk",
+"url": "https://dailymemphian.com/article/52276/memphis-politics-marsha-blacburn-elon-musk-xai-trump",
+"date": "2025-06-05",
+"quote": null,
+"what_it_shows": "She toured the Colossus data center in May 2025 as the turbine permit fight was under way, a sign of engagement rather than opposition."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Blackburn wants binding guardrails aimed at specific harms: a duty of care on AI developers, a ban on AI companion chatbots for minors, liability suits, whistleblower protections, AI layoff reporting, and she cosponsored Hawley's bill requiring government safety testing of the most powerful models before release. She pairs this with promises of regulatory certainty for industry and voted to keep an AI-driven Medicare pilot.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Column: America Needs One Rulebook for Artificial Intelligence (TRUMP AMERICA AI Act)",
+"url": "https://www.blackburn.senate.gov/2026/4/ai/america-needs-one-rulebook-for-artificial-intelligence-the-trump-america-ai-act-would-create-it",
+"date": "2026-04-27",
+"quote": "To protect children, the legislation would ban companies from providing AI companion chatbots for minors.",
+"what_it_shows": "Her draft bill bans companion chatbots for kids, puts a duty of care on AI developers, creates a right to sue over unconsented AI training, and requires bias evaluations for high-risk AI."
+},
+{
+"type": "cosponsor",
+"title": "S.2938 Artificial Intelligence Risk Evaluation Act of 2025 (Hawley)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2938",
+"date": "2026-03-19",
+"quote": null,
+"what_it_shows": "She signed onto a bill making the most powerful AI systems pass government safety testing before release, the strictest item in her record."
+},
+{
+"type": "cosponsor",
+"title": "S.2937 AI LEAD Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2937",
+"date": "2026-03-19",
+"quote": null,
+"what_it_shows": "Would let people hurt by an AI system sue the maker like any other faulty product."
+},
+{
+"type": "cosponsor",
+"title": "S.1792 AI Whistleblower Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1792",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "Protects AI company workers who report safety problems to the government."
+},
+{
+"type": "cosponsor",
+"title": "S.3062 GUARD Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"date": "2026-03-11",
+"quote": null,
+"what_it_shows": "Requires chatbot companies to verify ages and keep kids away from AI companions."
+},
+{
+"type": "cosponsor",
+"title": "S.3108 AI-Related Job Impacts Clarity Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3108",
+"date": "2026-03-19",
+"quote": null,
+"what_it_shows": "Companies would have to report layoffs caused by AI."
+},
+{
+"type": "letter",
+"title": "TechCrunch: Blackburn letter to Google CEO after Gemma fabricated criminal allegations about her",
+"url": "https://techcrunch.com/2025/11/02/google-pulls-gemma-from-ai-studio-after-senator-blackburn-accuses-model-of-defamation/",
+"date": "2025-11-02",
+"quote": "There has never been such an accusation, there is no such individual, and there are no such news stories.",
+"what_it_shows": "She demanded Google pull an AI model that invented allegations about her, treating AI hallucination as defamation the company must answer for; Google removed Gemma from AI Studio."
+},
+{
+"type": "other",
+"title": "Newsweek: Senate vote on repealing the Medicare WISeR AI prior-authorization pilot",
+"url": "https://www.newsweek.com/medicare-update-list-of-senators-voting-against-repeal-of-major-ai-change-12205466",
+"date": "2026-07-16",
+"quote": "voted against the resolution to get rid of the WISeR program, which allows AI to be used in the prior authorization decision process for Medicare beneficiaries",
+"what_it_shows": "Contrary data point: she voted with Republicans to keep an AI-driven Medicare prior-authorization pilot that Democrats tried to repeal."
+},
+{
+"type": "pac",
+"title": "Public First Action (Anthropic-funded) launches first ad supporting Blackburn",
+"url": "https://publicfirstaction.us/news/public-first-action-and-defending-our-values-pac-launch-first-ads-supporting-responsible-ai-regulation",
+"date": "2026-02-12",
+"quote": "The ad thanks Blackburn for her leadership on the Kids Online Safety Act (KOSA) and the TRUMP America AI Act, which focus on child safety, transparency, and accountability in the AI sector.",
+"what_it_shows": "The pro-guardrails AI super PAC network chose her for its first six-figure ad buy."
+},
+{
+"type": "pac",
+"title": "Tennessee Lookout: Anthropic gives $250,000 to PAC backing Blackburn's governor bid",
+"url": "https://tennesseelookout.com/2026/08/04/rose-up-to-13m-in-self-funding-blackburn-pac-gets-250k-from-anthropic-in-tn-gov-primary-last-days/",
+"date": "2026-08-04",
+"quote": "This includes a recent donation of $250,000 from San Francisco-based artificial intelligence company Anthropic.",
+"what_it_shows": "An AI company that publicly supports regulation became one of the top spenders behind her campaign for governor."
+},
+{
+"type": "statement",
+"title": "WPLN: Blackburn demands dark money group take down AI-generated attack ad",
+"url": "https://wpln.org/post/blackburn-demands-dark-money-group-take-down-ai-attack-ad/",
+"date": "2026-07-28",
+"quote": "The advertisement's assertions are completely false",
+"what_it_shows": "She demanded an AI-made attack ad be pulled within 48 hours and that its AI use be disclosed under Tennessee's political deepfake disclosure law."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "Blackburn is one of the Senate's toughest critics of Big Tech: she sponsors the Kids Online Safety Act with a legal duty of care, cosponsors ending Section 230, backs the STOP CSAM and EARN IT Acts, and her AI bill would sunset platform liability protections. She has repeatedly attacked Meta, Google and TikTok and called the weaker House kids bill inadequate.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Column: America Needs One Rulebook for Artificial Intelligence (TRUMP AMERICA AI Act)",
+"url": "https://www.blackburn.senate.gov/2026/4/ai/america-needs-one-rulebook-for-artificial-intelligence-the-trump-america-ai-act-would-create-it",
+"date": "2026-04-27",
+"quote": "you can rest assured that the company has a duty of care to ensure your safety and prevent foreseeable harm. The one exception: Big Tech.",
+"what_it_shows": "She wants social media and AI platforms held to the same safety duty as other industries, enforced by law."
+},
+{
+"type": "statement",
+"title": "Roll Call: AI draft bill would revamp online landscape",
+"url": "https://rollcall.com/2026/03/19/ai-draft-bill-would-revamp-online-landscape/",
+"date": "2026-03-19",
+"quote": "which would place a \"duty of care\" requirement on AI developers and sunset protections for hosts of user-generated content online, alongside other new requirements.",
+"what_it_shows": "Her roughly 300-page TRUMP AMERICA AI Act would end Section 230 liability protections for platforms."
+},
+{
+"type": "cosponsor",
+"title": "S.3546 Sunset Section 230 Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3546",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "Would end the law shielding platforms from lawsuits over user posts."
+},
+{
+"type": "sponsor",
+"title": "S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-05-14",
+"quote": null,
+"what_it_shows": "Her flagship bill, with 76 cosponsors, imposes a duty of care on social media, games and video sites toward minors."
+},
+{
+"type": "statement",
+"title": "Roll Call: Kids online safety bills move forward from Senate, House panel",
+"url": "https://rollcall.com/2026/03/06/kids-online-safety-bills-move-forward-from-senate-house-panel/",
+"date": "2026-03-06",
+"quote": "The House KOSA bill, sponsored by Rep. Gus Bilirakis, R-Fla., weakened many of the protections put forward in the Senate version of the bill.",
+"what_it_shows": "She has insisted on the Senate version's broader duty of care and treated the House rewrite as too weak."
+},
+{
+"type": "cosponsor",
+"title": "S.1829 STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2026-06-01",
+"quote": null,
+"what_it_shows": "Lets victims sue platforms that fail to remove child sexual abuse material."
+},
+{
+"type": "cosponsor",
+"title": "S.1207 EARN IT Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1207",
+"date": "2023-04-19",
+"quote": null,
+"what_it_shows": "Would strip platforms' legal shield when they let child abuse material spread."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "high",
+"summary": "Blackburn led the 99-1 vote to strip the 10-year moratorium on state AI laws in July 2025 because it came with no federal protections, but she has always said she wants a federal law that preempts states once one exists. In 2026 she wrote the TRUMP AMERICA AI Act as that single national rulebook and became the White House's lead Senate partner on a package trading state preemption for kids' safety and creator protections.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the AI moratorium from H.R. 1 (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "She authored the amendment that removed the 10-year state AI-law moratorium after her compromise with Sen. Cruz collapsed."
+},
+{
+"type": "statement",
+"title": "Nextgov: Blackburn statement withdrawing from the Cruz compromise and moving to strike the moratorium",
+"url": "https://www.nextgov.com/artificial-intelligence/2025/07/senate-overwhelmingly-passes-amendment-removing-state-ai-moratorium/406448/",
+"date": "2025-07-01",
+"quote": "While I appreciate Chairman Cruz's efforts to find acceptable language that allows states to protect their citizens from the abuses of AI, the current language is not acceptable to those who need these protections the most.",
+"what_it_shows": "She walked away from a five-year moratorium deal because it lacked protections for kids and creators, not because she opposes federal preemption in principle."
+},
+{
+"type": "hearing",
+"title": "The Hill: Blackburn's May 2025 Commerce hearing remarks on the moratorium",
+"url": "https://thehill.com/policy/technology/5355684-ai-moratorium-sparks-gop-battle-over-states-rights/",
+"date": "2025-06-18",
+"quote": "And until we pass something that is federally preemptive, we can't call for a moratorium on those things.",
+"what_it_shows": "She opposes a bare moratorium but explicitly wants a federal law that preempts state laws like Tennessee's ELVIS Act once it is in place."
+},
+{
+"type": "statement",
+"title": "Press release reprinted by Clarksville Online: Blackburn highlights growing support for TRUMP AMERICA AI Act",
+"url": "https://www.clarksvilleonline.com/2026/04/23/senator-marsha-blackburn-highlights-growing-support-for-trump-america-ai-act/",
+"date": "2026-04-23",
+"quote": "President Trump's AI framework rightfully calls on Congress to create one rulebook for AI that protects children, safeguards American communities, supports creators, prevents censorship, enables innovation, and develops an AI-ready workforce",
+"what_it_shows": "She presents her bill as the single national rulebook the White House framework called for, replacing the state patchwork."
+},
+{
+"type": "statement",
+"title": "Roll Call: White House AI framework calls for preemption of state laws (Blackburn reaction)",
+"url": "https://rollcall.com/2026/03/20/white-house-ai-framework-calls-for-preemption-of-state-laws/",
+"date": "2026-03-20",
+"quote": "Over the last few months, I have worked diligently with the White House, conservative leaders, child safety advocates, members of the creative community, and AI innovators to develop legislation that can garner bipartisan support and accomplish the President's goals",
+"what_it_shows": "She welcomed the White House's preemption framework and positioned her draft as the vehicle to carry it."
+},
+{
+"type": "other",
+"title": "IAPP: The plan to trade kids' safety rules for AI preemption",
+"url": "https://iapp.org/news/a/a-view-from-dc-the-plan-to-trade-kids-safety-rules-for-ai-preemption",
+"date": "2026-06-12",
+"quote": "Sen. Marsha Blackburn, R-Tenn., is the White House's dance partner in negotiating a package that would weld AI preemption to kids' safety legislation.",
+"what_it_shows": "By mid-2026 she was the lead Senate negotiator on a deal pairing state-law preemption with KOSA, NO FAKES and age verification."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Blackburn leans hawkish on China technology: she sponsored a June 2026 bill to speed additions to the Commerce Department's export blacklist and cosponsored bans on Chinese-linked connected cars and TikTok. No statement was found on the 2025-26 decisions to sell Nvidia H20 or H200 chips to China.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "S.4840 Export Control Enforcement and Enhancement Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4840",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Her bill would expedite adding risky foreign companies to the Entity List, the main export-control blacklist."
+},
+{
+"type": "cosponsor",
+"title": "S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-16",
+"quote": null,
+"what_it_shows": "Bans internet-connected cars and parts from companies tied to China and other adversaries."
+},
+{
+"type": "cosponsor",
+"title": "S.97 Securing Semiconductor Supply Chains Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/97",
+"date": "2025-01-15",
+"quote": null,
+"what_it_shows": "Supports bringing chip factories to the United States; neutral on export sales."
+},
+{
+"type": "cosponsor",
+"title": "S.347 ANTI-SOCIAL CCP Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/347",
+"date": "2023-03-14",
+"quote": null,
+"what_it_shows": "Would ban TikTok and other Chinese-government-controlled apps in the United States."
+}
+]
+}
+},
+"search_notes": "Ran about 14 Google News queries (AI, data centers, chips/export controls, executive order, AI LEAD/Risk Evaluation, Gemma, TVA/xAI, attack ad) plus a blackburn.senate.gov listing (529 archived AI/tech URLs). Direct fetches of blackburn.senate.gov returned 403 and the Wayback fallback was refused for most of the session; the April 27, 2026 one-rulebook column was captured from a May 2026 Wayback copy. Opened and quoted: WPLN (zoo, AI ad), Local 3, Memphis Flyer, Daily Memphian, Nextgov, The Hill, Roll Call (Mar 19, Mar 20, Mar 6), IAPP, Clarksville Online reprint, TechCrunch, Newsweek, Public First Action, CNBC, Tennessee Lookout, Wikipedia subcommittee rosters (chair roles confirmed). Could not open: MLex June 17, 2026 'limited room for state regulation', Axios June 8 and June 15, WKRN donations story, Dec 2025 framework release, Commerce Committee Aug 2026 KOSA release, Punchbowl/WaPo Oval Office coverage. No news hits on Nvidia chip sales; china_chips rests on her bill record. The Newsweek WISeR item is a real Senate roll call but no govtrack URL was located, so it is typed other."
+},
+{
+"bioguide": "H000601",
+"name": "Bill Hagerty",
+"signature": "China hawk on chips and AI (BLADE Act, export-control letters) who is skeptical of new federal AI mandates on speech, cosponsors NO FAKES and KOSA, and wants TVA nuclear power to make Tennessee a hub for AI data centers.",
+"notable_quote": {
+"text": "We shouldn't immediately indulge the impulse for government to just do something, as they say, before we fully understand the impacts of the emerging technology, especially when that something encroaches on political speech.",
+"url": "https://tennesseelookout.com/2023/09/28/u-s-senate-panel-weighs-free-speech-and-deep-fakes-in-ai-campaign-ads/",
+"date": "2023-09-28"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "low",
+"summary": "Hagerty celebrates xAI's Memphis data center and wants Tennessee to become America's energy hub, using TVA nuclear power to attract AI compute and Bitcoin mining. In the interview found, he raised no conditions on ratepayer costs, water or siting. An August 2026 WBIR story headlined his discussion of data center concerns in Knoxville could not be opened.",
+"evidence": [
+{
+"type": "interview",
+"title": "Bitcoin Magazine interview: Hagerty's vision to make Tennessee a hub for Bitcoin mining and AI compute",
+"url": "https://bitcoinmagazine.com/politics/senator-hagertys-vision-beyond-the-genius-act-make-tennessee-a-hub-for-bitcoin-mining",
+"date": "2025-06-16",
+"quote": "if you think about what Elon Musk is doing in Memphis with xAI, the data centers, the opportunities with artificial intelligence",
+"what_it_shows": "He points to the xAI Colossus project as an opportunity and wants more data centers and AI compute across the state."
+},
+{
+"type": "interview",
+"title": "Bitcoin Magazine interview: TVA nuclear as the power source for AI and mining",
+"url": "https://bitcoinmagazine.com/politics/senator-hagertys-vision-beyond-the-genius-act-make-tennessee-a-hub-for-bitcoin-mining",
+"date": "2025-06-16",
+"quote": "I think we've got a unique opportunity here to move forward and become the energy hub of America",
+"what_it_shows": "His answer to data center power demand is to build more nuclear generation through TVA, a build-faster stance with no ratepayer conditions mentioned."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "low",
+"summary": "Hagerty is mixed. In a 2023 hearing he warned against rushing federal rules on AI in campaign ads and said he did not trust the Biden administration or Congress to balance fraud concerns with free speech. Yet he cosponsors the NO FAKES Act, a binding federal right against AI voice and face clones, and his own 2026 AI bill targets Chinese theft of US models rather than domestic safety rules.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Tennessee Lookout: Senate Rules hearing on AI in elections, Hagerty remarks",
+"url": "https://tennesseelookout.com/2023/09/28/u-s-senate-panel-weighs-free-speech-and-deep-fakes-in-ai-campaign-ads/",
+"date": "2023-09-28",
+"quote": "We shouldn't immediately indulge the impulse for government to just do something, as they say, before we fully understand the impacts of the emerging technology, especially when that something encroaches on political speech.",
+"what_it_shows": "He argued Congress should be careful before regulating AI-made political content and said federal overregulation risks limiting political speech."
+},
+{
+"type": "cosponsor",
+"title": "S.1367 NO FAKES Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1367",
+"date": "2025-05-14",
+"quote": null,
+"what_it_shows": "He backs a binding federal right to stop unauthorized AI copies of a person's voice or likeness, a targeted guardrail."
+},
+{
+"type": "cosponsor",
+"title": "S.4591 NO FAKES Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4591",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "He re-upped support for the revised likeness-rights bill in 2026."
+},
+{
+"type": "sponsor",
+"title": "S.5252 BLADE Act (Blocking Large-scale Adversarial Distillation Efforts Act of 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5252",
+"date": "2026-08-05",
+"quote": null,
+"what_it_shows": "His main AI bill treats American AI models as national-security assets to shield from foreign adversaries, not as a domestic risk to regulate."
+},
+{
+"type": "cosponsor",
+"title": "S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-09",
+"quote": null,
+"what_it_shows": "He joined KOSA in October 2025, supporting a duty of care toward minors on social platforms."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Hagerty's Big Tech agenda is driven by conservative censorship complaints: in 2021 he sponsored a bill to repeal Section 230 and treat large platforms as common carriers, and he cosponsors KOSA. On financial technology he is deregulatory, cosponsoring the resolution that killed CFPB oversight of big payment apps. The mix nets out to targeted rules rather than a broad crackdown.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "S.1384 21st Century FREE Speech Act (117th Congress)",
+"url": "https://www.congress.gov/bill/117th-congress/senate-bill/1384",
+"date": "2021-04-27",
+"quote": "A bill to repeal section 230 of the Communications Act of 1934 and ensure reasonable, non-discriminatory access to online communications platforms.",
+"what_it_shows": "He proposed repealing Section 230 and regulating dominant platforms as common carriers, confirmed on GovTrack."
+},
+{
+"type": "cosponsor",
+"title": "S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-09",
+"quote": null,
+"what_it_shows": "Supports a duty of care and safety defaults for minors on social media, games and video sites."
+},
+{
+"type": "cosponsor",
+"title": "S.J.Res.28 disapproving the CFPB rule on larger participants in digital payment apps",
+"url": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/28",
+"date": "2025-03-03",
+"quote": null,
+"what_it_shows": "He backed canceling federal supervision of big payment apps like Venmo and Apple Pay, a deregulatory move on tech finance."
+},
+{
+"type": "cosponsor",
+"title": "S.1974 Protecting Americans' Data From Foreign Surveillance Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1974",
+"date": "2023-06-14",
+"quote": null,
+"what_it_shows": "Would stop data brokers from selling Americans' personal data to countries like China."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Hagerty voted Yea with 98 other senators to strip the 10-year moratorium on state AI laws in July 2025, but that vote alone says little about his view. No statement, letter, cosponsorship or interview was found on whether federal AI law should override state laws, including after the December 2025 executive order and the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the AI moratorium from H.R. 1 (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote after the Cruz-Blackburn compromise collapsed; nearly every senator voted the same way."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Hagerty has pushed for tougher chip export controls on China since at least 2023, when he and House China hawks told Commerce that export policy toward Beijing was not negotiable. In 2026 he introduced the BLADE Act to stop Chinese firms from extracting US AI models and cosponsors limits on US investment in Chinese military tech. No statement was located on the 2025-26 Nvidia H20 or H200 sales decisions.",
+"evidence": [
+{
+"type": "letter",
+"title": "Bloomberg via Rep. Young Kim's site: Hagerty, McCaul, Gallagher and Kim letter to Commerce Secretary Raimondo on export controls",
+"url": "https://youngkim.house.gov/2023/08/18/lawmakers-urge-against-export-controls-working-group-with-china/",
+"date": "2023-08-18",
+"quote": "U.S. export control policy towards the PRC should not be up for negotiation, period",
+"what_it_shows": "He urged Commerce not to create a working group with Beijing on semiconductor export controls and said decisions belong in Washington, not Beijing."
+},
+{
+"type": "sponsor",
+"title": "S.5252 BLADE Act (Blocking Large-scale Adversarial Distillation Efforts Act of 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5252",
+"date": "2026-08-05",
+"quote": null,
+"what_it_shows": "His bill would block foreign adversaries from extracting key technical features of closed US AI models, introduced after Anthropic accused Alibaba of a distillation attack."
+},
+{
+"type": "cosponsor",
+"title": "S.1053 FIGHT China Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1053",
+"date": "2025-03-13",
+"quote": null,
+"what_it_shows": "Would require reporting and allow blocking of US investment in Chinese companies building military or surveillance technology."
+},
+{
+"type": "cosponsor",
+"title": "S.2228 Building Chips in America Act of 2023 (118th Congress, enacted)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2228",
+"date": "2023-07-11",
+"quote": null,
+"what_it_shows": "He helped pass permitting relief for US chip factories, a domestic supply measure rather than an export-control one."
+}
+]
+}
+},
+"search_notes": "Ran about 12 Google News queries (AI, data centers, Nvidia/export controls, preemption, BLADE Act, KOSA/deepfakes, SEC AI rule, Fox Business) plus a hagerty.senate.gov listing (83 archived URLs, mostly Big Tech censorship, chips and energy). All hagerty.senate.gov pages returned 403 and Wayback was refused, so his 2023 election-speech release, April 2026 Fox Business AI-and-China segments, 2021 Section 230 op-ed and 2023 Raimondo letter PDF were not read directly; substitutes opened: Tennessee Lookout hearing coverage, Young Kim's Bloomberg reprint, GovTrack pages for S.1384 and S.5252, Bitcoin Magazine interview. Could not open: WBIR Aug 11, 2026 'AI data center concerns in Knoxville visit' (403), kim.senate.gov BLADE release, CoinDesk, The Register SEC AI story, Reuters Nvidia story. Newsweek shows he did not vote on the July 2026 WISeR AI repeal. No preemption statement found anywhere."
+},
+{
+"bioguide": "H001086",
+"name": "Diana Harshbarger",
+"signature": "Energy and Commerce member whose AI work is about using AI to run the power grid (Affordable Innovation for the Grid Act, ordered reported 2026); defends kids' age-verification rules and vehicle-data privacy; no stated position on AI regulation or state preemption.",
+"notable_quote": {
+"text": "AI and High-Performance Computing can help us cut through that by optimizing how we operate existing infrastructure and getting more out of every line and generator.",
+"url": "https://harshbarger.house.gov/media/press-releases/harshbarger-mullin-introduce-legislation-deploy-ai-smarter-more-efficient",
+"date": "2026-06-18"
+},
+"groups": [
+"Vice Chair, House Energy and Commerce Subcommittee on Health (119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Harshbarger's answer to rising power demand is to get more out of the existing grid: her bipartisan bill has the Energy Department study how AI and high-performance computing can add capacity and clear interconnection backlogs. It moved as part of Energy and Commerce's data center and ratepayer package, but she has not been found saying anything directly about data centers, their siting or electric bills.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Harshbarger, Mullin introduce legislation to deploy AI for a smarter, more efficient power grid",
+"url": "https://harshbarger.house.gov/media/press-releases/harshbarger-mullin-introduce-legislation-deploy-ai-smarter-more-efficient",
+"date": "2026-06-18",
+"quote": "AI and High-Performance Computing can help us cut through that by optimizing how we operate existing infrastructure and getting more out of every line and generator.",
+"what_it_shows": "She frames grid capacity and interconnection backlogs as the problem and technology as the fix, a supply-side approach to meeting new demand."
+},
+{
+"type": "sponsor",
+"title": "H.R.9339 Affordable Innovation for the Grid Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9339",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Directs DOE, with FERC, to assess how AI and HPC can strengthen bulk-power capacity and reliability; ordered reported by Energy and Commerce on July 21, 2026 with three Republican and three Democratic cosponsors."
+},
+{
+"type": "other",
+"title": "Energy and Commerce notice: Full Committee markup of 29 bills including H.R. 9339",
+"url": "https://energycommerce.house.gov/posts/chairman-guthrie-announces-full-committee-markup-of-29-bills",
+"date": "2026-07-16",
+"quote": null,
+"what_it_shows": "Her bill was marked up alongside the Ratepayer Protection Act and the Protecting Families from AI Data Center Energy Costs Act, the committee's response to data center load growth."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI safety rules, chatbots, deepfakes or liability as of Sept 2026. Searched her press releases, op-eds, Energy and Commerce hearing excerpts and local coverage; her only AI bill promotes using AI to run the grid, and her one located AI hearing question (Sept 2025, health subcommittee) asked about automation in community pharmacy.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Harshbarger backs targeted rules: she cosponsors the SCREEN Act and defended age verification for adult sites against First Amendment objections during the March 2026 kids' safety markup, cosponsors Sammy's Law and a foreign robocall crackdown, wrote the DRIVER Act so car owners control their vehicle data, and voted for the TikTok divestiture bill.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Roll Call: Harshbarger remarks at Energy and Commerce markup of the KIDS Act package (age verification)",
+"url": "https://rollcall.com/2026/03/06/kids-online-safety-bills-move-forward-from-senate-house-panel/",
+"date": "2026-03-06",
+"quote": "There are some groups out there who suggest it's unconstitutional. Personally, I don't believe this is your real concern. We've been hearing from a lot of folks who profit off doing harm to kids or have questionable ideological priorities,",
+"what_it_shows": "She defended the package's age-verification requirement for sexual content, modeled on a Texas law the Supreme Court upheld, against constitutional objections."
+},
+{
+"type": "cosponsor",
+"title": "H.R.1623 SCREEN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-04-03",
+"quote": null,
+"what_it_shows": "Requires adult websites to verify users' ages."
+},
+{
+"type": "cosponsor",
+"title": "H.R.2657 Sammy's Law",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2026-06-23",
+"quote": null,
+"what_it_shows": "Makes big social media sites let parents use safety apps to monitor kids' accounts."
+},
+{
+"type": "cosponsor",
+"title": "H.R.6152 Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-06-22",
+"quote": null,
+"what_it_shows": "Cracks down on scam robocalls entering from abroad."
+},
+{
+"type": "op_ed",
+"title": "Washington Reporter op-ed: Owner access to vehicle data is essential to innovation, affordability, and transparency (DRIVER Act)",
+"url": "https://washingtonreporter.news/op-ed-rep-diana-harshbarger-owner-access-to-vehicle-data-is-essential-to-innovation-affordability-and-transparency/",
+"date": "2026-04-13",
+"quote": "Congress must establish a clear framework that provides vehicle owners with data privacy, access, and transparency.",
+"what_it_shows": "Her DRIVER Act would give owners control of the data their cars generate and bar automakers from selling sensitive personal data without consent."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (2024): H.R. 7521 Protecting Americans from Foreign Adversary Controlled Applications Act (Yea)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "She voted to force TikTok's Chinese owner to divest or face a US ban."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-08-20",
+"quote": null,
+"what_it_shows": "Bans connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. She sits on Energy and Commerce, which held the May 2025 hearing on restricting state AI laws and whose Republican leaders endorsed preemption in March 2026, but no remarks, letters, bills or votes from her on the question were located, and she did not sign the Matsui or Clarke letters.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on chip export controls or Nvidia sales to China. Her China-technology record is about imports and apps: she cosponsored the Connected Vehicle Security Act banning Chinese-linked car technology and voted for the TikTok divestiture bill, neither of which addresses chips.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-08-20",
+"quote": null,
+"what_it_shows": "Restricts Chinese-linked connected-vehicle technology in the US market; adjacent to but not about chip export controls."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (2024): H.R. 7521 TikTok divestiture bill (Yea)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "Hawkish on Chinese-controlled apps, but not a chip or export-control position."
+}
+]
+}
+},
+"search_notes": "Ran about 11 Google News queries (AI, data centers/grid, Affordable Innovation for the Grid Act, chatbot/deepfake/KOSA, preemption/moratorium, TVA/ratepayers, China/export controls, Big Tech/Section 230, TikTok, vehicle data, E&C markup) plus a harshbarger.house.gov listing (only 5 archived tech URLs) and a DuckDuckGo search that surfaced her June 18, 2026 press release. Opened: her HR 9339 release, GovTrack HR 9339 (ordered reported July 21, 2026), E&C markup notice, E&C Sept 2025 AI health hearing excerpts, Roll Call Mar 6, 2026 markup coverage, Washington Reporter op-ed, GovTrack roll call 118-2024/h86. Could not open: RTO Insider and Daily Energy Insider markup stories, Politico Apr 30, 2026 ratepayer story, E&C Apr 29, 2026 AI-and-the-Grid hearing page (404), WJHL 2023 TikTok story (403), cbtnews Sept 2026 China auto bill story (404). The Google News decoder was rate limited for most of the session, so several headlines could not be resolved to URLs. No AI-risk, preemption or chip-export statements found."
+}
+]

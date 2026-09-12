@@ -1,0 +1,207 @@
+[
+{
+"bioguide": "M001211",
+"checks": [
+{
+"url": "https://www.govtrack.us/congress/bills/119/hr10169",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-27",
+"note": "GovTrack lists Mary Miller (IL-15, R) as sponsor, 'Length: 3 pages', introduced Aug. 27, 2026, status 'Introduced' with no further history. No cosponsor line appears on the page (GovTrack omits it when there are none), so 'no cosponsors' is supported by absence rather than an explicit statement. Bill blocks federal financial benefit for data centers on prime farmland."
+},
+{
+"url": "https://marymiller.house.gov/media/press-releases/house-passes-rep-millers-screen-act-part-child-online-safety-package",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-29",
+"note": "Quote appears verbatim. Release dated June 29, 2026; SCREEN Act described as a national age-verification requirement for commercial websites distributing obscene material, passed as part of the KIDS Act; she thanks Guthrie 'for taking a stand to restore accountability online.' Claim matches."
+},
+{
+"url": "https://marymiller.house.gov/media/press-releases/congresswoman-miller-introduces-safeguarding-childrens-privacy-schools-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-10-19",
+"note": "Quote appears verbatim (Oct 19, 2021 release). Release calls the bill 'a direct attack on Big Tech' and says it 'reinstates direct parental consent for the collection of data on educational technology devices and platforms.' Claim matches."
+},
+{
+"url": "https://marymiller.house.gov/media/press-releases/house-passes-rep-millers-screen-act-part-child-online-safety-package",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-29",
+"note": "Headline quote is verbatim on the page, attributed to Congresswoman Miller."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the four sources touches AI safety or AI risk regulation at all; the items concern data-center farmland subsidies, age verification for porn sites, and ed-tech COPPA consent. The evidence for a -1 'Targeted guardrails' AI-risk position is absent, so no score should be assigned unless other sourcing exists.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "data_centers",
+"objection": "Minor: her bill (H.R. 10169) restricts data centers via farmland protection (denying federal financial benefit for siting on prime farmland), not ratepayer protection. -1 is a defensible 'guardrails-first' placement and -2 would overstate a subsidy-denial bill, but the label 'Protect ratepayers first' does not describe her actual rationale; keep -1 but note the farmland framing.",
+"suggested_score": -1,
+"suggested_label": "Protect ratepayers first"
+}
+]
+},
+{
+"bioguide": "L000585",
+"checks": [
+{
+"url": "https://www.wcbu.org/local-news/2026-09-08/rep-lahood-says-mail-in-voting-will-not-be-disrupted-trump-should-work-on-affordability",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-08",
+"note": "Quote appears verbatim in the Data centers section (the full sentence continues 'what is the information that's going to go in there or not go in there'). Article frames it as a response to Trump's Truth Social post and says LaHood thinks the issue is local."
+},
+{
+"url": "https://www.wcbu.org/local-news/2026-09-08/rep-lahood-says-mail-in-voting-will-not-be-disrupted-trump-should-work-on-affordability",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-08",
+"note": "Quote verbatim. Article also says data centers bring talk of higher utility bills and that LaHood said the cost of energy associated with centers needs to come down, along with other costs; he has seen data centers work and not work in his district."
+},
+{
+"url": "https://lahood.house.gov/2025/6/lahood-bipartisan-colleagues-introduce-legislation-to-defend-american-ai-innovation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-12",
+"note": "Quote verbatim from LaHood's statement on the Advanced AI Security Readiness Act (NSA AI security playbook). Release is entirely about defending US AI from foreign adversaries; no domestic guardrail language. Note this is a national-security bill, so it is weak evidence about his view on domestic AI rules."
+},
+{
+"url": "https://lahood.house.gov/2025/2/lahood-gottheimer-introduce-legislation-to-counter-ccp-s-deepseek-ai-software",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-06",
+"note": "Quote verbatim. Release is about banning DeepSeek on government devices; pairs data safeguarding with American AI leadership. Again a China/national-security frame rather than a statement about domestic AI regulation."
+},
+{
+"url": "https://lahood.house.gov/2023/12/lahood-joins-the-politico-tech-podcast-to-discuss-digital-trade-policy",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2023-12-06",
+"note": "Quote verbatim; page confirms he is Digital Trade Caucus co-chair and pushed back on Biden dropping WTO digital trade proposals. However the page says nothing about 'targeted domestic votes' and does not itself show any domestic tech-regulation position; that part of the claim is not supported by this source."
+},
+{
+"url": "https://lahood.house.gov/2025/5/lahood-bipartisan-colleagues-introduce-bill-to-stop-ai-chip-smuggling-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-20",
+"note": "Quote verbatim from LaHood's statement on the Chip Security Act (location verification for export-controlled chips to prevent smuggling to China)."
+},
+{
+"url": "https://lahood.house.gov/2025/2/lahood-gottheimer-introduce-legislation-to-counter-ccp-s-deepseek-ai-software",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-06",
+"note": "Quote verbatim (page has a stray space before the closing quotation mark). He calls DeepSeek a national security threat and frames the tech race with the CCP as one the US cannot afford to lose."
+},
+{
+"url": "https://www.wglt.org/local-news/2026-07-23/israel-transgender-athletes-and-semiconductors-what-central-illinois-congressmen-considered-in-recent-defense-spending-vote",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Quote verbatim. Article says LaHood's amendment directs DoD to stop using Chinese-manufactured silicon carbide semiconductors and requires a Pentagon report on American SiC chip makers and international competition. Note the quote itself is a generic NDAA statement, not specifically about chips; the chip content comes from the reporter's description of the amendment."
+},
+{
+"url": "https://lahood.house.gov/2025/5/lahood-bipartisan-colleagues-introduce-bill-to-stop-ai-chip-smuggling-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-20",
+"note": "Headline quote verbatim on the page."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "Both ai_risk sources are national-security bills (NSA AI security playbook, DeepSeek device ban). Neither says anything for or against domestic guardrails on how AI is built or used; inferring 'light touch' from the absence of guardrail language in beat-China press releases is too thin. Unless other sources show him opposing AI safety rules, no position should be recorded.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "The only tech_regulation source is a 2023 digital-trade podcast summary about WTO data-flow proposals and China; it does not address regulating Big Tech at home. The claim's reference to 'targeted domestic votes' is not sourced in any listed item. -1 'Targeted rules' needs at least one domestic vote or statement (e.g. a kids' online safety or privacy bill) cited; otherwise the evidence supports no position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "S001225",
+"checks": [
+{
+"url": "https://www.wcbu.org/local-news/2026-05-29/sorensen-says-set-rules-for-data-centers-but-dont-drive-them-away",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-29",
+"note": "Quote appears verbatim. Page lists the three conditions (no higher utility costs, own renewable power and gray water, industrial-corridor siting), mentions union labor, and says the Energy Bills Relief Act 'isn't enough on its own'."
+},
+{
+"url": "https://www.wcbu.org/local-news/2026-05-29/sorensen-says-set-rules-for-data-centers-but-dont-drive-them-away",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-29",
+"note": "Quote verbatim, continuing 'In Kentucky or Tennessee or Alabama or Texas.' Separately on a moratorium: 'They're just going to go to China.' Closing quote: 'have Illinois be a leader.' Claim's state list is a slight compression but accurate in substance."
+},
+{
+"url": "https://www.yahoo.com/news/politics/articles/rep-sorensen-wants-data-centers-021945968.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-13",
+"note": "Quote verbatim. Page says companies should build solar, wind and nuclear if a project could raise bills, and he asks 'why aren't we investing in small modular reactors.' Published 2026-08-13."
+},
+{
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Fetch tool returned 0 chars for the PDF; downloaded and extracted directly. Quote verbatim. Letter dated March 19, 2026; 14 signers including Eric Sorensen; requests DOE National Strategic Data Center Plan within 18 months covering grid reliability, consumer electricity costs, water efficiency."
+},
+{
+"url": "https://sorensen.house.gov/media/press-releases/sorensen-reintroduces-bipartisan-bill-crack-down-ai-robocalls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-05",
+"note": "Quote verbatim; preceding sentence names scammers impersonating 'their loved ones, their bank, or the government.' Dated 2025-02-05."
+},
+{
+"url": "https://sorensen.house.gov/media/press-releases/sorensens-bipartisan-bill-fight-robocall-scams-clears-key-step",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-28",
+"note": "Quote verbatim. Page says he submitted a statement for the record urging the committee to advance the QUIET Act; dated 2026-07-28."
+},
+{
+"url": "https://newrepublic.com/post/215341/anthropic-ai-regulate-money-extinction",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Quote verbatim (list continues with Beatty, Conaway, Sykes, Subramanyam). Article identifies Think Big as Leading the Future's Democratic sub-PAC funded by Brockman, Andreessen, Horowitz, Lonsdale. Note this is an endorsement, not a statement by Sorensen; weak evidence of his own position."
+},
+{
+"url": "https://sorensen.house.gov/media/press-releases/aarp-endorses-sorensen-ciscomani-bill-crack-down-ai-robocalls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-04",
+"note": "Quote verbatim. Page also states that last Congress he led a bipartisan effort urging the FCC to outline its plans to combat these scams. Dated 2025-04-04."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Downloaded and extracted PDF directly (fetch tool returns no PDF text). 81 'Member of Congress' signatures; Sorensen is NOT among them, confirming the core claim. However only six Illinois Democrats signed (Ramirez, Foster, Casten, Schakowsky, Davis, Kelly), not seven; Sylvia Garcia is from Texas."
+},
+{
+"url": "https://www.yahoo.com/news/politics/articles/rep-sorensen-wants-data-centers-021945968.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-13",
+"note": "Headline quote appears verbatim on the page."
+}
+],
+"score_objections": []
+}
+]

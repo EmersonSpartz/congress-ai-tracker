@@ -1,0 +1,276 @@
+[
+{
+"bioguide": "R000622",
+"checks": [
+{
+"url": "https://riley.house.gov/2026/07/13/riley-introduces-bill-to-stop-data-center-projects-from-driving-up-energy-bills",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-13",
+"note": "Quote appears verbatim. Page describes the FAIR Data Act: prohibits utilities from passing generation/transmission/distribution upgrade costs for 75+ MW data centers onto households and small businesses, and requires annual reporting on promised savings. Claim fully supported."
+},
+{
+"url": "https://www.wamc.org/news/2026-07-15/congressman-josh-riley-introduces-legislation-aimed-at-data-center-developers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-15",
+"note": "Quote verbatim. WAMC reports Riley welcomes Hochul's executive order blocking most data center expansion for one year because it allows time to establish the regulations his bill calls for."
+},
+{
+"url": "https://www.dailyfreeman.com/2026/07/05/how-they-voted-ryan-and-riley-on-minors-and-social-media/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-05",
+"note": "Roll-call report on H.R. 7757 (Guthrie) includes verbatim phrase about AI chatbot disclosure to minors and states Pat Ryan voted no, Josh Riley voted yes. Note this is a children's online safety bill; the AI chatbot disclosure is one provision among many, so it is weak evidence for a standalone AI-risk position."
+},
+{
+"url": "https://riley.house.gov/2026/09/04/riley-introduces-bill-to-ban-the-sale-of-data-obtained-by-smart-meters",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-04",
+"note": "Quote verbatim. Smart Meter Data Privacy Protection Act introduced with Rep. Mike Kennedy (R-UT), so bipartisan; page says utilities may use energy data only for billing, grid reliability, outages and regulatory compliance and may not sell or share it without consent. Target is utilities, not Big Tech, so relevance to tech_regulation is indirect."
+},
+{
+"url": "https://riley.house.gov/2026/04/22/riley-backs-bipartisan-bill-to-crack-down-on-china-protect-u-s-supply-chains-and-national-security",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "Quote verbatim. Page says the MATCH Act would strengthen export controls on key semiconductor manufacturing equipment and align U.S. policies with allied nations."
+},
+{
+"url": "https://riley.house.gov/2025/05/01/rep-riley-votes-strengthen-us-semiconductor-supply-chains-bolster-american",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-01",
+"note": "Quote verbatim. Riley voted for H.R. 2480, Securing Semiconductor Supply Chains Act, framed as strengthening domestic manufacturing including test and packaging supply chains for economic and national security. Supports the claim, though the bill concerns domestic investment, not export controls."
+},
+{
+"url": "https://riley.house.gov/2026/07/13/riley-introduces-bill-to-stop-data-center-projects-from-driving-up-energy-bills",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-13",
+"note": "Headline quote appears verbatim on the page, attributed to Riley."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only ai_risk evidence is a single yes vote on a broad children's online safety bill (H.R. 7757) in which AI chatbot disclosure to minors is one provision among many. No statement from Riley about AI risk, frontier models, or AI regulation generally appears in the sources. Evidence is too thin to assign a position; if kept, -1 is the only defensible direction.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "T000469",
+"checks": [
+{
+"url": "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=4569",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-09",
+"note": "Press release dated 2026-04-09 quotes Tonko verbatim: 'Our Power for the People Act balances the need for data center development without pushing those costs onto consumers.' Also says the bill protects consumers and grid reliability 'while holding big technology companies accountable.' Claim fits."
+},
+{
+"url": "https://www.eenews.net/articles/lawmakers-agree-the-data-center-boom-shouldnt-hurt-ratepayers-now-comes-the-hard-part/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Article (published 2026-04-30, covering the E&C hearing) says Tonko called the 100 MW large-load threshold 'extreme' and suggested lowering it to 50 MW, 'still \"more than enough demand to power a small city.\"' Quote verbatim."
+},
+{
+"url": "https://www.eenews.net/articles/house-committee-narrows-data-center-energy-bill-3/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-21",
+"note": "Quote 'We are not doing what this moment demands of us' is verbatim and attributed to Tonko; article says he and Matsui echoed Pallone in advocating that the committee pass stronger data center legislation. However, the article was published the morning of 07/21 before markup concluded and contains no 52-0 vote result; that detail is not supported by this source."
+},
+{
+"url": "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=4541",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-18",
+"note": "Press release dated 2026-03-18 lists the plank verbatim among the Energy Bills Relief Act provisions: 'Ensuring that facilities like data centers are paying for their own costs because it's not fair for their expenses to be pushed onto your household if one opens in your area.'"
+},
+{
+"url": "https://www.govtrack.us/congress/bills/119/hr9442/cosponsors",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "GovTrack's 'Cosponsorship of Other Relevant Legislators' table lists Tonko, Paul [D-NY20] with Cosponsor? = No, so the core fact holds. But the same table lists Pallone, Frank [D-NJ6] as Cosponsor? = No as well; Ocasio-Cortez is the primary sponsor (14 cosponsors, all Democrats). The claim's 'Unlike E&C colleagues Pallone and Ocasio-Cortez' is wrong about Pallone per this page; drop Pallone or re-source."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF (fetch tool returned empty text; extracted via pypdf) addressed to Johnson, Jeffries, Thune, Schumer, opposing any NDAA effort to 'reintroduce a sweeping moratorium' on state AI laws and opposing a proposed presidential executive order that would preempt state AI laws. 'Paul D. Tonko, Member of Congress' appears in the signature block (page 5). Signer count of 81 not verified from the text."
+},
+{
+"url": "https://clarke.house.gov/?p=102767",
+"verdict": "confirmed",
+"corrected_quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"corrected_date": "2025-12-03",
+"note": "Redirects to Clarke release dated 2025-12-03. Quote appears verbatim in the letter excerpt, followed by 'we urge you to prevent any AI moratorium or preemption from being included in the final FY26 NDAA.' 'Paul D. Tonko' is in the list of 44 signers."
+},
+{
+"url": "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=4569",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-09",
+"note": "Same page as item 1; quote is verbatim from Tonko's statement in the 2026-04-09 release."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the eight sourced items addresses AI safety/risk rules directly. The two preemption letters argue against blocking state AI laws given 'the lack of any federal legislation,' which is consistent with a guardrails-friendly posture, but the evidence for a specific -1 placement is thin; add an AI-risk source or leave unscored.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "Only indirect evidence in the checked sources: the Power for the People Act release speaks of 'holding big technology companies accountable' for grid costs. That is data-center cost policy, not Big Tech regulation broadly. Evidence for -1 is thin among these items; source it separately or leave unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "S001196",
+"checks": [
+{
+"url": "https://stefanik.house.gov/2026/7/stefanik-leads-intelligence-committee-9-11-commission-hearing-on-emerging-threats",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Quote is verbatim from her opening statement (July 22, 2026). She lists AI among emerging threats and says 'We must go on offense. We need to take preemptive moves to thwart our adversaries.' The page never mentions regulation, so the 'rather than regulate' contrast is the item's inference, not something she said."
+},
+{
+"url": "https://intelligence.house.gov/2026/08/31/house-intel-committee-releases-bipartisan-9-11-commission-review-report-ahead-of-25th-anniversary/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-31",
+"note": "Page names Stefanik as co-chair of the year-long bipartisan review (with Gottheimer) and lists 'Address \"Black Swan\" Risks Posed by AI Advancement' verbatim among the report recommendations. The 'low-probability, high-impact' gloss is a reasonable reading of 'black swan' but the page gives no further detail."
+},
+{
+"url": "https://stefanik.house.gov/2025/6/icymi-stefanik-asks-education-secretary-linda-mcmahon-about-harvard-university-s-crisis-of-ideological-diversity-and-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-04",
+"note": "Quote is verbatim from her question to Sec. McMahon; she frames AI as having benefits plus an academic-integrity challenge and asks about the Department's approach. No legislation is proposed on the page."
+},
+{
+"url": "https://thehill.com/homenews/campaign/5397074-stefanik-hits-back-at-dems-sexist-deepfake-ad/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-11",
+"note": "Quote is verbatim (attributed to Stefanik's office statement). Her team calls it a 'bigoted, sexist AI deep fake' and demands Hochul and Jacobs condemn it; no call for AI rules appears in the article."
+},
+{
+"url": "https://broadbandbreakfast.com/reps-gottheimer-stefanik-and-suozzi-send-bipartisan-letter-to-tiktok-ceo/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-27",
+"note": "Article (republished press release, April 27, 2026) names Stefanik as co-signer of a letter to TikTok CEO Adam Presser urging stronger age verification and safeguards for minors; quote appears verbatim including the ellipsis."
+},
+{
+"url": "https://stefanik.house.gov/2026/3/significant-security-vulnerabilities-stefanik-scott-sound-alarm-on-china-backed-company-for-misleading-customers-targeting-military-consumers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-02",
+"note": "March 2, 2026 letter with Sen. Rick Scott to Commerce Sec. Lutnick and FCC Chair Carr urging a formal investigation of Anker Innovations (Eufy) and asking 'whether its products transmit data to servers located in China.' Matches the claim."
+},
+{
+"url": "https://stefanik.house.gov/2026/2/stefanik-mannion-bipartisan-new-york-delegation-urge-domestic-gallium-production-at-air-force-research-lab-in-rome-ny",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-18",
+"note": "Quote verbatim from the bipartisan letter to the Pentagon's industrial base office urging domestic gallium production at AFRL Rome. Note this is about a critical-mineral supply chain and China's export ban on the US, not US export controls on chips."
+},
+{
+"url": "https://stefanik.house.gov/2025/12/stefanik-announces-historic-agreement-between-the-department-of-commerce-and-xlight-to-bring-critical-semiconductor-technology-to-new-york",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-01",
+"note": "Quote verbatim. Page describes a $150M Commerce Letter of Intent with xLight for next-generation EUV lithography at the Albany Nanotech Complex. Domestic industrial policy, not export controls."
+},
+{
+"url": "https://stefanik.house.gov/2026/7/stefanik-leads-intelligence-committee-9-11-commission-hearing-on-emerging-threats",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Headline quote appears verbatim in her July 22, 2026 opening statement."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "Neither source touches chip export controls. Item 7 is about China's export ban on gallium and building a domestic supply; item 8 is celebrating federal funding for domestic EUV lithography. Both show a China-hawkish, onshoring posture but contain no statement on tightening (or loosening) US chip exports to China, so -2 'Tighten export controls' overreads the evidence.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+}
+]
+},
+{
+"bioguide": "M001231",
+"checks": [
+{
+"url": "https://cnycentral.com/news/local/connect-to-congress-rep-mannion-talks-van-duyn-micron-data-centers-and-more",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-10",
+"note": "Page (June 10, 2026) confirms Mannion spoke with CNY Central about Van Duyn, Micron, data centers and more; text is a video blurb with no stated position on data centers, exactly as the claim says."
+},
+{
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOWNmUUdGcEJaSC1rYTQ1ODdRd2hCcm9UUEo4c0Z2c0FtNTcwQVFKTVNDUE9HRGpLTnphR3BBemZXWjgtYUphSlBPZGdvZGN0c210Q3I2Yl9BaUJJVFVRMjRSZmJQdzFMNXdpdlBsb3V4d1dsYmNDanhvSWRFWFMwcTJWQ2ZPc3dfdWVlc3RVNjV0aGxubmNIUHpCM2RKa0JRWXNRdg?oc=5",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Google News redirect returns an empty JS shell (0 chars) via fetch and WebFetch; auburnpub.com returned HTTP 429 and Wayback refused connection. Headline could not be verified; direction of 'federal action' remains unknown."
+},
+{
+"url": "https://mannion.house.gov/media/press-releases/representative-john-w-mannion-ny-22-announces-bipartisan-match-act-protect-us",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-02",
+"note": "Quote appears verbatim in the April 2, 2026 release. Page says the bill directs identification of chokepoints, allied aligned export controls, unilateral action if allies lag, and bars adversary-tied companies from U.S./allied chipmaking tech."
+},
+{
+"url": "https://cnycentral.com/news/local/rep-mannion-announces-bill-to-ban-sale-of-chipmaking-tech-to-adversaries-like-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-03",
+"note": "April 3, 2026 article notes his district is the future home of a $100B Micron plant, the bill strengthens export controls on chipmaking equipment, and semiconductors are crucial for AI and data centers."
+},
+{
+"url": "https://stefanik.house.gov/2026/2/stefanik-mannion-bipartisan-new-york-delegation-urge-domestic-gallium-production-at-air-force-research-lab-in-rome-ny",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-18",
+"note": "Feb 18, 2026 release names Mannion as co-lead; letter text cites China's 98 percent share of global gallium supply and its export ban as a supply chain vulnerability, urging domestic production at AFRL Rome."
+},
+{
+"url": "https://mannion.house.gov/media/press-releases/representative-john-w-mannion-ny-22-announces-bipartisan-match-act-protect-us",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-02",
+"note": "Headline quote appears verbatim in the press release."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the six sources addresses AI safety rules or guardrails at all; the only AI mention is a reporter's aside that chips power AI. Evidence is too thin to assign -1.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No source touches Big Tech regulation, platform rules, or consumer tech policy; export controls on chipmaking equipment are a china_chips matter, not tech regulation. Evidence too thin for -1.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

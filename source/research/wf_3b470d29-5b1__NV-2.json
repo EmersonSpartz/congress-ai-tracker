@@ -1,0 +1,426 @@
+[
+{
+"bioguide": "A000369",
+"name": "Mark E. Amodei",
+"signature": "Retiring in January 2027; no notable public AI activity found, only permitting and TikTok votes",
+"notable_quote": null,
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "No statement by Amodei on data centers was found as of Sept 2026, even as the Boulder City fight and northern Nevada buildout made news. His only relevant record is a Yea vote on the SPEED Act, a Republican permitting reform bill that speeds environmental reviews for energy and infrastructure projects.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: passage of H.R. 4776, the SPEED Act (permitting reform), Amodei voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He backed the House GOP bill to speed federal environmental reviews, the kind of permitting change data center and power developers want, though the bill is not specific to data centers."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searches for Amodei with artificial intelligence, chatbots, deepfakes, AI regulation and AI hearings turned up nothing; most hits were about Anthropic CEO Dario Amodei, a different person. He sponsored or cosponsored no AI bills in the 118th or 119th Congress.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His only tech regulation record found is a 2024 Yea vote for the law forcing TikTok's Chinese owner to sell or face a ban. No statements on Big Tech, Section 230, kids online safety or privacy were found.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 86 (118th Congress): passage of H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divestiture), Amodei voted Yea",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "He supported a targeted federal restriction on a specific social media app owned by a Chinese company."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "low",
+"summary": "No statement on preempting or pausing state AI laws was found. He voted Yea on the House version of H.R. 1 in May 2025, which contained the 10-year moratorium on state AI laws, but that was a party-line vote on a huge budget bill and he never spoke about the AI provision.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: passage of H.R. 1 (reconciliation bill) including the 10-year moratorium on state AI laws, Amodei voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House bill that carried the state AI law moratorium, but as part of a party-line vote on the whole budget package, so it is weak evidence of a view on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searches for Amodei with export controls, Nvidia, chips and China returned nothing about him. He cosponsored no chip or export control bills.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 14 news queries (AI, artificial intelligence, data center, Boulder City/TRIC, chatbot/deepfake/Big Tech/Section 230, SPEED Act/permitting, export controls/chips/China, town hall, appropriations, TikTok/social media, TAKE IT DOWN/kids safety, H.R. 1 moratorium). Nearly all AI hits were about Anthropic CEO Dario Amodei. His official site (amodei.house.gov) returned 403 to direct fetches and WebFetch, and the Wayback fallback was unavailable, so no press releases could be read; a Quiver mirror search found only non-AI releases (Sunshine Protection Act, prediction markets bill with Horsford). The Nevada Appeal piece 'Dem candidates for House seat wary of data center growth' (Apr 30, 2026) is about Democratic candidates for his open seat, not him, and was 403. Verified his SPEED Act Yea (govtrack h356), H.R. 1 House passage Yea (h145) and 2024 TikTok Yea (118th h86). No AI caucus membership, AI super PAC activity or AI quotes found. Announced retirement Feb 6, 2026."
+},
+{
+"bioguide": "L000590",
+"name": "Susie Lee",
+"signature": "Cosponsor of the TAKE IT DOWN and NO FAKES deepfake bills; on data centers wants water-use disclosure but opposes a federal pause",
+"notable_quote": null,
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Lee told the Nevada Independent that the federal government should require data centers to disclose water consumption and possibly meet energy efficiency standards, but she opposed a blanket federal pause on new data centers and said federal land can be used if the local community buys in. She also pushed an all-of-the-above energy permitting amendment and voted against the Republican SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "interview",
+"title": "Nevada Independent survey: What do Nevada's congressional candidates think about data centers?",
+"url": "https://thenevadaindependent.com/article/what-do-nevadas-congressional-candidates-think-about-data-centers",
+"date": "2026-08-26",
+"quote": null,
+"what_it_shows": "In an interview she backed federal disclosure requirements on water use and potentially energy efficiency standards, while joining almost every other candidate in opposing a blanket federal moratorium; only Horsford left that door open."
+},
+{
+"type": "other",
+"title": "E&E News: Republicans reject renewable energy, data center amendments to Interior-EPA bill (Lee amendment at House Appropriations markup)",
+"url": "https://www.eenews.net/articles/republicans-reject-renewable-energy-data-center-amendments-to-interior-epa-bill/",
+"date": "2026-06-04",
+"quote": "all-of-the-above energy permitting",
+"what_it_shows": "She offered an amendment at the Interior-EPA spending markup to push the Interior Department toward permitting all forms of energy, including the solar and wind projects the administration has slowed; Republicans rejected it."
+},
+{
+"type": "vote",
+"title": "House roll call 356: passage of H.R. 4776, the SPEED Act (permitting reform), Lee voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She opposed the House Republican bill to speed environmental reviews, a permitting change that data center and power developers favor."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Lee has backed targeted AI guardrails, mainly on deepfakes: she cosponsored the TAKE IT DOWN Act (now law) and both versions of the NO FAKES Act, plus a 2024 bill to study AI child exploitation. She also supports AI research and education funding and a bill letting small businesses borrow to buy AI tools. No statements on frontier AI dangers, licensing or a pause were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 633, TAKE IT DOWN Act (criminalizes posting real or AI-faked intimate images and requires fast takedowns)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-02-06",
+"quote": null,
+"what_it_shows": "She joined the bipartisan bill, now law, that punishes non-consensual deepfake sexual images and forces platforms to remove them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 2794, NO FAKES Act of 2025 (right to control AI copies of one's voice and face)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2794",
+"date": "2025-05-29",
+"quote": null,
+"what_it_shows": "She supports a new legal right to stop unauthorized AI replicas of a person's voice or likeness."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8915, NO FAKES Act of 2026 (updated version)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8915",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "She re-upped her support for the digital replica bill when it was reintroduced in 2026."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8005 (118th), Child Exploitation and Artificial Intelligence Expert Commission Act of 2024",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8005",
+"date": "2024-05-10",
+"quote": null,
+"what_it_shows": "She backed creating an expert commission on how AI is used to exploit children."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 2385, CREATE AI Act of 2025 (national AI research resource)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2026-03-04",
+"quote": null,
+"what_it_shows": "She supports public AI computing and data resources for researchers and students, a pro-innovation measure rather than a restriction."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 5351, NSF AI Education Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
+"date": "2026-03-12",
+"quote": null,
+"what_it_shows": "She backs federal spending on AI scholarships and teacher training."
+},
+{
+"type": "other",
+"title": "FedScoop: House Small Business Committee advances the Small Business Technological Act (H.R. 915) from Reps. Alford and Susie Lee",
+"url": "https://fedscoop.com/house-small-business-committee-sba-ai-bills/",
+"date": "2026-05-22",
+"quote": null,
+"what_it_shows": "Her bipartisan bill would let SBA 7(a) loans pay for AI tools, cloud services and business software, showing she wants small firms to adopt AI, not be walled off from it."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Lee favors specific fixes rather than sweeping Big Tech crackdowns: she cosponsored bills making dating apps warn users about banned scammers, requiring social media companies to report fentanyl sales, and expanding platform reporting of child abuse, and she voted for the 2024 TikTok divestiture law. No calls for breakups or repealing Section 230 were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 2481, Romance Scam Prevention Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2481",
+"date": "2025-04-07",
+"quote": null,
+"what_it_shows": "She backs a rule forcing dating apps to warn users when a match was removed for being a scammer."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6259, No Fentanyl on Social Media Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6259",
+"date": "2026-02-23",
+"quote": null,
+"what_it_shows": "She supports new duties on social media companies to report and crack down on drug sales on their platforms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 5082 (118th), REPORT Act (expands platform reporting of child abuse to the national tipline)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5082",
+"date": "2023-07-28",
+"quote": null,
+"what_it_shows": "She backed a kids online safety measure that became law in 2024."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (118th Congress): passage of H.R. 7521, TikTok divestiture bill, Lee voted Yea",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "She voted to force TikTok's Chinese parent to sell the app or face a US ban."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Lee did not sign the Nov 26, 2025 Matsui letter (81 House Democrats) or the Dec 3, 2025 Clarke letter (44 signers) against a state AI law moratorium, has not cosponsored the GUARDRAILS Act or a preemption bill, and no statement on the Dec 2025 executive order or Mar 2026 White House framework was found.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Lee leans hawkish on China and chips through cosponsorships: the Remote Access Security Act to stop foreigners from using restricted US chips and AI through the cloud, a bill ordering a report on China's AI power, and the BASIC Act extending the tax credit for building chip factories in America. No statements on Nvidia H20 or H200 sales were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 2683, Remote Access Security Act (closes cloud loophole in chip export controls)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"date": "2025-09-30",
+"quote": null,
+"what_it_shows": "She backs tightening export controls so China cannot rent restricted American chips and AI models through cloud services."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6275, China AI Power Report Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6275",
+"date": "2026-02-11",
+"quote": null,
+"what_it_shows": "She wants the government to track how China's AI abilities compare with America's."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3204, BASIC Act (extends chip factory tax credit, adds chip design)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "She supports domestic chip manufacturing incentives, a neutral-to-hawkish industrial policy signal."
+}
+]
+}
+},
+"search_notes": "Ran about 14 news queries (AI, data center, chatbot/deepfake/NO FAKES, Big Tech/Section 230/KOSA/TikTok, Nvidia/export controls/chips, state AI laws/preemption/executive order, kids and AI, AI education, SBA/small business AI, Energy Bills Relief Act/ratepayers, geothermal permitting, Boulder City letter, Colorado River summit). Read her press release index (pages 1-3), In the News page and caucus page (which says to contact the office; no AI caucus listed). Confirmed the Nevada Independent survey text and the E&E News markup story; confirmed the FedScoop story naming her as co-lead of H.R. 915 (congress.gov was 403 so it is typed other). Verified votes on govtrack: SPEED Act Nay (h356), H.R. 1 House passage Nay (h145, party line, not used), TikTok Yea (118th h86). Checked the Casar AI-CEO hearings letter: the signer is Summer Lee, not Susie Lee. Extracted the Matsui letter PDF locally: Titus signed, Susie Lee did not; Clarke letter: not a signer. The state context leads about the SCREEN Act, BIAS Act, DEFIANCE Act, Senate Energy chairmanship and the 118th House AI Task Force belong to Mike Lee, Summer Lee and Laurel Lee, not Susie Lee, and were discarded. No verbatim AI quote from her was found, so notable_quote is null. No AI super PAC activity found in NV-03."
+},
+{
+"bioguide": "H001066",
+"name": "Steven Horsford",
+"signature": "Sponsor of the AI-Related Job Impacts Clarity Act to track AI layoffs; only Nevada House member open to a federal data center moratorium; signed the Clarke letter against preempting state AI laws",
+"notable_quote": {
+"text": "AI has the potential to lift workers up, but right now, too many companies are using it as cover to push workers out",
+"url": "https://horsford.house.gov/media/press-releases/horsford-introduces-legislation-to-protect-workers-from-ai-driven-layoffs",
+"date": "2026-06-19"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Horsford took the most sweeping stance of any Nevada candidate: he wants federal rules forcing data centers to disclose energy and water use and requirements on the new power infrastructure they need, with a national standard as a floor that states like Nevada can exceed. He was the only candidate to leave the door open to a future federal moratorium, and he voted against the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "statement",
+"title": "Nevada Independent survey: What do Nevada's congressional candidates think about data centers? (Horsford written response)",
+"url": "https://thenevadaindependent.com/article/what-do-nevadas-congressional-candidates-think-about-data-centers",
+"date": "2026-08-26",
+"quote": "Water is our most precious resource, and a national standard should act as a floor we can build on, never a ceiling that locks us into weaker protections than a state like ours actually needs.",
+"what_it_shows": "He wants federal disclosure and infrastructure requirements on data centers while letting states go further, and he alone kept open the option of a federal moratorium."
+},
+{
+"type": "statement",
+"title": "Nevada Independent survey: Horsford on national security and data centers",
+"url": "https://thenevadaindependent.com/article/what-do-nevadas-congressional-candidates-think-about-data-centers",
+"date": "2026-08-26",
+"quote": "data security's importance is an argument for doing it right, not an excuse for doing it recklessly.",
+"what_it_shows": "He accepts the national security case for building data centers in the US but says it does not justify skipping protections."
+},
+{
+"type": "vote",
+"title": "House roll call 356: passage of H.R. 4776, the SPEED Act (permitting reform), Horsford voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the House Republican bill to speed environmental reviews for energy and infrastructure projects."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Horsford's AI focus is workers and elections. He sponsored the AI-Related Job Impacts Clarity Act, which would make big companies and agencies report AI-driven layoffs to the Labor Department, and he cosponsored bills against AI impersonation and AI election deception. He frames these as transparency rules that do not slow innovation, and he has partnered with OpenAI on AI job training, so he is not calling for strict limits on the technology itself.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 9352, AI-Related Job Impacts Clarity Act (companies must report AI-related layoffs)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9352",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "His own bill creates a public record of how AI is replacing workers, a transparency guardrail on AI's job effects."
+},
+{
+"type": "statement",
+"title": "Press release: Horsford Introduces Legislation to Protect Workers from AI-Driven Layoffs",
+"url": "https://horsford.house.gov/media/press-releases/horsford-introduces-legislation-to-protect-workers-from-ai-driven-layoffs",
+"date": "2026-06-19",
+"quote": "AI has the potential to lift workers up, but right now, too many companies are using it as cover to push workers out",
+"what_it_shows": "He says companies are hiding layoffs behind AI and demands disclosure, while stressing the bill does not slow down innovation."
+},
+{
+"type": "statement",
+"title": "Las Vegas Sun: Khanna, Horsford join Las Vegas unions to discuss threat of AI and automation (Teamsters town hall)",
+"url": "https://lasvegassun.com/news/2026/aug/20/las-vegas-union-workers-reps-ro-khanna-and-steven/",
+"date": "2026-08-20",
+"quote": "If automation makes a company more productive, the benefit should mean safer jobs, better wages, shorter hours and more security",
+"what_it_shows": "At a union town hall he called for guardrails such as advance notice and training when new technology arrives and collective bargaining to hold employers accountable."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 4894, Deceptive Practices and Voter Intimidation Prevention Act of 2025 (bans AI-made voting lies before elections)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "He backs outlawing AI-generated false information about voting in the run-up to federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 4628, AI Impersonation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4628",
+"date": "2025-07-23",
+"quote": null,
+"what_it_shows": "He supports making it a crime to use AI to impersonate a real person to deceive people."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8858 (118th), Securing Elections From AI Deception Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "He has backed AI election deepfake limits since 2024."
+},
+{
+"type": "statement",
+"title": "Press release (via Quiver mirror): Rep. Steven Horsford Partners with OpenAI and Rep. Ro Khanna to Enhance AI Workforce Training in North Las Vegas",
+"url": "https://www.quiverquant.com/news/Press+Release%3A+Rep.+Steven+Horsford+Partners+with+OpenAI+and+Rep.+Ro+Khanna+to+Enhance+AI+Workforce+Training+in+North+Las+Vegas",
+"date": "2026-04-24",
+"quote": null,
+"what_it_shows": "He co-hosted an OpenAI Academy training event with the College of Southern Nevada, showing he wants Nevada workers included in the AI economy rather than opposing the technology."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Mixed but leaning toward targeted rules. Horsford cosponsored the My Body, My Data Act to protect reproductive health data, and the Clarke letter he signed warned that blocking state laws would let Big Tech run rampant. But he voted against the 2024 TikTok divestiture law, one of about 50 Democrats to do so.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3420 (118th), My Body, My Data Act of 2023 (limits collection and sharing of reproductive health data)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2024-03-22",
+"quote": null,
+"what_it_shows": "He supports a targeted privacy law restricting what apps and companies can do with sensitive health data."
+},
+{
+"type": "letter",
+"title": "Clarke-led House Democratic letter to Armed Services leaders opposing any AI moratorium or preemption in the FY26 NDAA (Horsford signed)",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": null,
+"what_it_shows": "The letter he signed argues that wiping out state laws would create a regulatory vacuum that lets Big Tech run rampant, a skeptical view of the industry."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (118th Congress): passage of H.R. 7521, TikTok divestiture bill, Horsford voted Nay",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "He opposed forcing TikTok's sale or ban, a vote against one high-profile tech restriction."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Horsford signed the Dec 3, 2025 Clarke letter with 43 other House Democrats urging that no moratorium or preemption of state AI laws be put in the defense bill, calling a moratorium wildly irresponsible with no federal law in place. His data center stance that a national standard should be a floor, never a ceiling, follows the same states-first logic. He did not sign the larger Nov 26, 2025 Matsui letter.",
+"evidence": [
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats opposing any AI moratorium or preemption in the FY26 NDAA (Horsford listed as signer)",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "He joined the letter arguing that state AI laws must stand until Congress passes comprehensive protections and that any preemption would put Americans at risk."
+},
+{
+"type": "statement",
+"title": "Nevada Independent survey: Horsford says a national data center standard should be a floor states can build on",
+"url": "https://thenevadaindependent.com/article/what-do-nevadas-congressional-candidates-think-about-data-centers",
+"date": "2026-08-26",
+"quote": "a national standard should act as a floor we can build on, never a ceiling that locks us into weaker protections than a state like ours actually needs",
+"what_it_shows": "He wants federal rules to set a minimum while preserving states' power to go further, the opposite of preempting state law."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position on chip export controls or Nvidia sales to China was found. His only related record is cosponsoring the BASIC Act, which extends the tax credit for building chip factories in the US; he also called national security an important but not overriding factor in data center policy.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3204, BASIC Act (extends chip factory tax credit, adds chip design)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-05-05",
+"quote": null,
+"what_it_shows": "He supports domestic chip manufacturing incentives, which says nothing directly about export controls."
+}
+]
+}
+},
+"search_notes": "Ran about 14 news queries (AI, data center, chatbot/deepfake/AI impersonation, Big Tech/Section 230/TikTok/antitrust, Nvidia/export controls/chips, state AI laws/preemption/executive order, Ways and Means AI/Medicare, AI jobs/layoffs, Anthropic/OpenAI/ChatGPT, Nye County/Pahrump data centers, AI PACs, Boulder City letter). Read his press release index (pages 1-3) and caucus page (no AI caucus; leadership roles are Congressional Black Caucus chair emeritus, Labor Caucus co-chair, ERA Caucus vice chair, none AI-related). Opened and quoted his June 19, 2026 AI layoffs press release, the KOLO story, the Las Vegas Sun town hall story (via CDC Gaming link), the Quiver mirror of his OpenAI Academy release, and the Nevada Independent survey. Confirmed his name in the Clarke letter signer list; extracted the Matsui letter PDF locally and confirmed he is not a signer (Titus is). Verified votes on govtrack: SPEED Act Nay (h356), H.R. 1 House passage Nay (h145, party line, not used as evidence), TikTok Nay (118th h86). Titus's July 2026 BLM and Lombardo letters list no cosigners. No AI super PAC support or attacks found; Quiver shows Fairshake (crypto PAC) spending in NV-04, which is not on the AI PAC list. Not on record about the Dec 2025 executive order or Mar 2026 White House framework."
+}
+]

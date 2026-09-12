@@ -1,0 +1,311 @@
+[
+{
+"bioguide": "C001056",
+"checks": [
+{
+"url": "https://www.reporternews.com/story/news/politics/2025/08/27/cornyn-talks-about-abilenes-tech-future-and-even-paxton-at-aisd-lift-texas-newspaper-stargate/85841282007/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Item 1. Direct fetch returned 403 on three attempts; Wayback Machine refused connections/404 from this session; WebFetch also blocked. Could not verify the permitting quote. Note that Cornyn's July 2026 Dallas Morning News op-ed (item 4/8 URL) independently calls for permitting reform for CHIPS projects, so the stance is plausible, but this quote remains unverified."
+},
+{
+"url": "https://www.reporternews.com/story/news/politics/2025/08/27/cornyn-talks-about-abilenes-tech-future-and-even-paxton-at-aisd-lift-texas-newspaper-stargate/85841282007/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Item 2. Same page, same 403/Wayback failure. The 'productivity... national security... economy' quote could not be checked, nor the claim that he offered no caveats about resident costs."
+},
+{
+"url": "https://www.cornyn.senate.gov/news/cornyn-backs-ai-guardrails-to-prevent-child-abuse-praises-state-sen-angela-paxtons-leadership-on-issue/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Item 3. cornyn.senate.gov returned 403 to both the fetch tool and WebFetch; Wayback unavailable. The URL slug matches the claimed headline, but page content, date and GUARD Act linkage could not be verified."
+},
+{
+"url": "https://texasborderbusiness.com/cornyn-op-ed-chips-act-will-help-america-win-the-ai-race-with-china/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-10",
+"note": "Item 4. Quote appears verbatim (curly apostrophe in People's). Page identifies it as a Cornyn op-ed originally in the Dallas Morning News, July 10, 2026 (reprint dated July 13, 2026). Op-ed contains no discussion of AI safety regulation; it frames AI entirely as a US-China race and CHIPS Act success, plus a call for permitting reform. Claim supported."
+},
+{
+"url": "https://www.techpolicy.press/transcript-senate-hearing-uses-social-media-verdicts-to-press-the-case-for-kosa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-15",
+"note": "Item 5. Transcript shows Cornyn asking plaintiffs' lawyer Rachel Lanier 'I assume that Meta is appealing the decision?' and 'What is the basis for their appeal?', then telling Prof. Mary Graw Leary that Section 230 already has statutory carve-outs (federal criminal law, IP, ECPA privacy, sex trafficking) and asking whether there is 'a more targeted or surgical approach' Congress could take. Claim accurate; he did not endorse KOSA outright in his remarks."
+},
+{
+"url": "https://thehill.com/policy/technology/5355684-ai-moratorium-sparks-gop-battle-over-states-rights/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-18",
+"note": "Item 6. Article quotes Cornyn writing on X 'Doubtful it [the provision] survives' when asked his stance on the moratorium, in the Byrd rule context. Article published June 18, 2025 (post dated Monday June 16). The Hill piece itself contains no merits comment from him, consistent with the claim."
+},
+{
+"url": "https://www.texastribune.org/2026/04/20/cornyn-paxton-texas-us-senate-runoff-2026-q-and-a/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-20",
+"note": "Item 7. Under the question 'Should the federal government preempt states from regulating AI?' the Tribune writes: 'Cornyn has not taken a public stance on an AI moratorium, only commenting that he was \"doubtful\" such a provision would survive a procedural challenge... He voted in favor of stripping a 10-year moratorium on state AI regulation from the mega-bill, which passed via amendment by a 99-1 vote.' Claim matches."
+},
+{
+"url": "https://texasborderbusiness.com/cornyn-op-ed-chips-act-will-help-america-win-the-ai-race-with-china/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-10",
+"note": "Item 8. Quote appears verbatim. Op-ed argues chip manufacturing is decisive in the AI race and praises CHIPS-driven reshoring, criticizes Biden-era DEI conditions, and calls for permitting reform. It says nothing about export controls or selling chips abroad."
+},
+{
+"url": "https://www.reporternews.com/story/news/politics/2025/08/27/cornyn-talks-about-abilenes-tech-future-and-even-paxton-at-aisd-lift-texas-newspaper-stargate/85841282007/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Item 9 (notable quote). Same blocked page as items 1-2; verbatim check impossible from this session. Recommend not using as headline quote until verified through another mirror."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only china_chips source is a CHIPS Act op-ed about domestic fab reshoring; it never mentions export controls, Nvidia/H20 sales, or chip diffusion policy. A US-China race frame is compatible with hawkishness but does not establish a position on selling or restricting chips abroad. Evidence too thin for -1.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "ai_risk",
+"objection": "Both ai_risk sources are weak: the child-safety guardrails press release is unreachable (verified only by its URL slug), and the CHIPS op-ed says nothing about AI risk or safety rules. A child-abuse guardrail bill is also narrower than a general AI-risk stance. -1 is plausible but currently rests on an unverified headline.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+},
+{
+"bioguide": "C001098",
+"checks": [
+{
+"url": "https://ktxs.com/news/local/political-leaders-and-investors-tour-abilenes-project-stargate",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-23",
+"note": "Quote verbatim. Page also has 'Texas is ground zero for AI' and says Cruz credited low taxes and low regulations. Tour was Tue Sept 23, 2025."
+},
+{
+"url": "https://www.chron.com/news/article/ted-cruz-data-centers-22412681.php",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-31",
+"note": "Quote verbatim from his X post (Aug 31, 2026); podcast episode titled 'The Chinese Communists Caught Spending Big Bucks Trying to Make You Hate Data Centers'; article documents backlash."
+},
+{
+"url": "https://www.insideglobaltech.com/2025/09/12/senator-cruz-unveils-ai-framework-and-regulatory-sandbox-bill/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-12",
+"note": "First pillar 'Unleashing American Innovation and Long-Term Growth' recommends a federal sandbox, access to federal datasets, and streamlining AI infrastructure permitting."
+},
+{
+"url": "https://www.transformernews.ai/p/congress-must-not-waste-the-ai-policy-window",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Quote verbatim. Page says he said AI needs 'rules and guardrails' but called slowing down an 'impossible endeavor'. Note this is Transformer's newsletter summary, not a primary transcript."
+},
+{
+"url": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Quote verbatim from The View appearance; page says he is working with Klobuchar and Thune on legislation addressing potential catastrophic harm. The 'shift in tone' framing is the tracker's interpretation, not stated by the page."
+},
+{
+"url": "https://www.semafor.com/article/09/10/2026/bipartisan-ai-safety-bill-gains-momentum-on-the-hill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Quote verbatim from his X post; sources call the Klobuchar/Cruz/Thune bill the only viable option before 2027; draft text not publicly released."
+},
+{
+"url": "https://rollcall.com/2026/04/29/family-accounts-would-be-mandated-for-kids-in-chatbots-bill/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-29",
+"note": "Quote verbatim; bill mandates family accounts for under-13s and parental consent for teens."
+},
+{
+"url": "https://thehill.com/policy/technology/5858006-senate-panel-advances-bill-to-curb-ai-chatbot-companions-for-kids/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Page: Cruz said he would vote yes but the bill needs 'some revisions'; he worried it would ban all AI chatbots for minors; Hawley clarified scope."
+},
+{
+"url": "https://www.techpolicy.press/transcript-senate-commerce-hearing-on-30-years-of-section-230/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Quote verbatim in opening remarks; page notes he previously called for total repeal and that he now favors considering reform rather than repeal or sunset."
+},
+{
+"url": "https://reason.com/2026/06/17/bipartisan-jawbone-act-targets-government-censorship-threats/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-17",
+"note": "Quote verbatim. Bill targets government jawboning of platforms; the 'not market power' framing is inference but consistent with the page."
+},
+{
+"url": "https://iapp.org/news/a/a-view-from-dc-the-plan-to-trade-kids-safety-rules-for-ai-preemption",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-05",
+"note": "Page (June 12, 2026) says 'last month' Cruz publicly reaffirmed support for KOSA and promised the Senate will pass it again, i.e. May 2026. It does not say he scheduled a kids-safety markup; drop that part of the claim."
+},
+{
+"url": "https://thehill.com/policy/technology/5355684-ai-moratorium-sparks-gop-battle-over-states-rights/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-18",
+"note": "Quote verbatim; he added that 'having a patchwork of 50 different standards' would be devastating to AI development."
+},
+{
+"url": "https://www.nextgov.com/artificial-intelligence/2025/07/senate-overwhelmingly-passes-amendment-removing-state-ai-moratorium/406448/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-07-01",
+"note": "Quote verbatim (statement given before the amendment). Page confirms the 99-1 strike vote and that Blackburn-Cruz negotiations failed, but does not explicitly record Cruz's own Yea vote."
+},
+{
+"url": "https://rollcall.com/2025/12/11/with-executive-order-trump-moves-to-undo-state-ai-laws/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Photo caption places Cruz in the Oval Office at the Dec 11, 2025 signing; his X post supporting the order was Tuesday Dec 9, 2025 and said those who disagreed 'would cede ground to China'."
+},
+{
+"url": "https://www.insideglobaltech.com/2025/09/12/senator-cruz-unveils-ai-framework-and-regulatory-sandbox-bill/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-12",
+"note": "Pillar heading verbatim; page says the framework calls on Congress to enact federal standards to prevent burdensome state AI regulation."
+},
+{
+"url": "https://www.techpolicy.press/transcript-sam-altman-testifies-at-us-senate-hearing-on-ai-competitiveness/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-08",
+"note": "Quote verbatim from opening statement; he said the Biden plan would hand key markets to China, allies should 'buy American', and he 'vocally opposed this rule for months'."
+},
+{
+"url": "https://www.insideglobaltech.com/2025/09/12/senator-cruz-unveils-ai-framework-and-regulatory-sandbox-bill/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-09-12",
+"note": "Page says the framework counters 'excessive foreign regulation' of Americans alongside preempting state laws, but this is about foreign (e.g. EU-style) rules on US companies, not export controls or chip sales; weak evidence for the china_chips dimension."
+},
+{
+"url": "https://www.transformernews.ai/p/congress-must-not-waste-the-ai-policy-window",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Quote verbatim as reproduced by Transformer."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "Sources show Cruz now co-leading a bipartisan catastrophic-risk (bio/nuclear) bill with Klobuchar and Thune, saying 'we've got to put some guardrails on it', sponsoring the CHATBOT Act (binding parental-control mandates) and voting for Hawley's GUARD Act, while still pushing the SANDBOX Act and calling slowing down impossible. That record is a mix of light-touch and targeted-guardrail positions, not consistently 'Light touch'.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+},
+{
+"bioguide": "M001224",
+"checks": [
+{
+"url": "https://www.kltv.com/2026/06/26/moran-introduces-act-give-washington-an-early-warning-system-dangerous-ai-incidents/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-26",
+"note": "Quote appears verbatim. Article confirms the AI Incident Reporting Act requires developers of the most advanced models to report dangerous capabilities, breaches and safety incidents to Commerce within 7 days, with 48-hour congressional notification for serious incidents."
+},
+{
+"url": "https://rollcall.com/2026/07/23/ai-companies-would-need-kill-switch-under-new-bipartisan-bill/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Both sentences appear verbatim in Moran's statement (split by attribution in the article). Article describes the bipartisan AI Kill Switch Act with Rep. Lieu; Moran frames it as 'achievable policy' on control."
+},
+{
+"url": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2870",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-19",
+"note": "Quote verbatim. Op-ed cites three labs disclosing models that 'slipped the boundaries set for them,' names cyberattack and chemical/biological weapon risks, and repeatedly stresses the mandate is narrow and 'the lightest of government touches.'"
+},
+{
+"url": "https://www.cnbc.com/2026/09/11/ai-regulation-anthropic-researcher-extinction-warning.html",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-09-09",
+"note": "Quote verbatim from Moran's X post (posted Wednesday, Sept 9). Article confirms he said 'Congress cannot ignore the realities of AI and the potential risks.' However, the 'breaking with the hands-off wing of his party' framing is not in the source; CNBC only says lawmakers across both aisles weighed in."
+},
+{
+"url": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2814",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-10",
+"note": "Quote verbatim. Page confirms the Deterring Adversarial Access to Americans' Data Act extends FEOC restrictions to major business tax incentives (bonus depreciation, R&D, interest deductibility) and requires companies to sever ties with foreign adversary-controlled technology to remain eligible."
+},
+{
+"url": "https://www.kltv.com/2026/06/26/moran-introduces-act-give-washington-an-early-warning-system-dangerous-ai-incidents/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-26",
+"note": "Headline quote appears verbatim on the page, attributed to Moran."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the sources mention semiconductors, chips, or export controls. The only China-related evidence is a tax-incentive bill targeting firms using foreign adversary-controlled technology (data security). That supports a hawkish posture toward China generally but is too thin for the strongest 'Tighten export controls' position.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+},
+{
+"dimension": "tech_regulation",
+"objection": "The only tech_regulation source is a national-security data bill using tax incentives against foreign-adversary tech; there is nothing about regulating domestic Big Tech. -1 is defensible as a targeted rule but the evidence is thin and China-focused, so it should be marked as low-confidence rather than treated as a general tech-regulation stance.",
+"suggested_score": -1,
+"suggested_label": "Targeted rules"
+}
+]
+},
+{
+"bioguide": "C001120",
+"checks": [
+{
+"url": "https://www.healthcareitnews.com/news/republicans-want-changes-hhs-ai-assurance-labs",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12-03",
+"note": "Live site returns 403 to all fetchers; verified via Wayback raw snapshot (20250818203103id_). Quote appears verbatim, attributed to Reps. Dan Crenshaw, Brett Guthrie, Jay Obernolte and Mariannette Miller-Meeks in a letter to Micky Tripathi (HHS acting chief AI officer / ASTP-ONC). Article says the letter asks HHS to halt government-administered AI assurance labs, warns of regulatory capture and stifled innovation, and 'suggests that there would be significant conflict of interest' from fee-based labs comprised of competing companies. Article dated December 3, 2024."
+},
+{
+"url": "https://www.healthcareitnews.com/news/republicans-want-changes-hhs-ai-assurance-labs",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12-03",
+"note": "Same page as item 1; quote is verbatim and attributed to the four signers including Crenshaw. Note it is a joint letter, not Crenshaw speaking alone."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The only source supplied for this member is a deregulatory letter opposing a new HHS AI oversight structure as regulatory capture and anti-innovation; nothing here supports a pro-regulation -1 'Targeted rules' score. Unless other sourcing (e.g., Big Tech antitrust or kids' online safety positions) is on file, the evidence is too thin for -1.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+}
+]

@@ -1,0 +1,313 @@
+[
+{
+"bioguide": "B001267",
+"checks": [
+{
+"url": "https://www.michaelbennet.com/priorities/energy/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-20",
+"note": "Campaign energy page has the quote verbatim under 'Ensuring Large Commercial Users Pay Their Fair Share' and says he will require new data centers to cover the cost of energy consumed, help finance infrastructure, and align with clean energy, emissions, water conservation and workforce goals."
+},
+{
+"url": "https://coloradosun.com/2026/06/02/michael-bennet-phil-weiser-colorado-governor-democratic-primary-issue-guide/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Quote verbatim in the DATA CENTER REGULATION section, attributed to Bennet; he adds they must pay for resources used and not increase energy rates or threaten water (page has typo 'for threaten')."
+},
+{
+"url": "https://coloradosun.com/2026/06/02/michael-bennet-phil-weiser-colorado-governor-democratic-primary-issue-guide/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Bennet's answer to 'Should data centers receive tax credits from the state?' is exactly 'I don't think they should.' Weiser said he is open to tax credits for economic development, so the contrast claim holds."
+},
+{
+"url": "https://fedscoop.com/ai-data-centers-canceled-energy-projects-colorado-democrats/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-15",
+"note": "FedScoop names Bennet among the six Colorado Democrats who sent the letter to Energy Secretary Wright; quote appears verbatim as letter text."
+},
+{
+"url": "https://kauainownews.com/2025/08/20/schatz-several-u-s-senate-colleagues-press-zuckerberg-after-reports-that-meta-ai-bots-spoke-romantically-sensually-with-kids/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-20",
+"note": "Quote verbatim as the letter's opening; Bennet listed among the ten signers (Schatz plus nine); article says the letter calls for banning ads targeted at users under 18."
+},
+{
+"url": "https://www.michaelbennet.com/news/michael-bennet-releases-leading-policy-platform-to-keep-colorado-kids-safe-online/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-08",
+"note": "Quote verbatim in the 'Ensuring Artificial Intelligence is Safe for Kids' section; release also promises 'safe by design' technologies and a kids' design code."
+},
+{
+"url": "https://www.denverpost.com/2025/12/21/trump-ai-regulations-executive-order-colorado-response/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-21",
+"note": "Quote verbatim from Bennet's Senate-office statement; article says he called for congressional action to regulate AI and for states to develop frameworks 'while preserving conditions that allow businesses and start-ups to thrive.'"
+},
+{
+"url": "https://neguse.house.gov/media/press-releases/neguse-bennet-slam-fcc-sidestepping-federal-law-approve-62b-nexstar-tegna",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-20",
+"note": "Joint Neguse-Bennet statement contains the quote verbatim; they say they opposed the $6.2B merger 'every step of the way' and criticize the FCC for sidestepping the 39% national ownership cap. Note this is broadcast media consolidation, not Big Tech."
+},
+{
+"url": "https://www.michaelbennet.com/news/michael-bennet-releases-leading-policy-platform-to-keep-colorado-kids-safe-online/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-10-08",
+"note": "Quote verbatim and the statewide classroom cellphone ban is on the page. But the 'under 13' threshold applies to increased parental controls; the social media mandates (limit notifications, warning labels, anti-endless-scroll) are not stated as limited to under-13 users. Claim slightly conflates the two."
+},
+{
+"url": "https://www.denverpost.com/2025/12/21/trump-ai-regulations-executive-order-colorado-response/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-21",
+"note": "Quote verbatim; article says Bennet called for congressional action and that states 'should step up in the meantime' with common-sense frameworks."
+},
+{
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-schumer-colleagues-press-lutnick-on-administrations-decision-to-sell-out-us-national-and-economic-security-by-greenlighting-the-sale-of-h200-chips-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-12",
+"note": "Site returns 403 to scripted fetches and Wayback was unreachable; loaded in the user's Chrome instead. Bennet listed among the seven Democratic signers (Warren, Schumer, Wyden, Kim, Bennet, Kaine, Slotkin); quote verbatim; release explicitly says the administration disregarded DOJ warnings."
+},
+{
+"url": "https://www.denverpost.com/2025/12/21/trump-ai-regulations-executive-order-colorado-response/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-21",
+"note": "Headline quote appears verbatim, attributed to Bennet's Senate-office statement."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The cited sources support targeted rules, not a broad 'rein in Big Tech' stance: the Nexstar-Tegna item is about broadcast media consolidation (not tech platforms), and the kids-online platform is a set of specific child-safety mandates (notification limits, warning labels, design code) that the release frames as protecting kids 'without sacrificing innovation or economic growth.' Nothing in the sources shows antitrust breakup or structural regulation of Big Tech. Bennet's past Digital Platform Commission proposal might justify -2, but it is not cited here.",
+"suggested_score": -1,
+"suggested_label": "Targeted rules"
+}
+]
+},
+{
+"bioguide": "H000273",
+"checks": [
+{
+"url": "https://fedscoop.com/ai-data-centers-canceled-energy-projects-colorado-democrats/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-15",
+"note": "Quote appears verbatim in the FedScoop article (published 2025-10-15) as text from the Colorado Democrats' letter to Energy Secretary Wright; Hickenlooper is part of the Colorado delegation that signed. Letter frames AI/data center demand as a challenge to meet through affordable energy investment."
+},
+{
+"url": "https://www.airandspaceforces.com/senators-want-pentagon-to-tap-in-to-commercial-on-orbit-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-10",
+"note": "Article (2026-06-12) says the New Horizon Act, introduced June 10, is sponsored by Sens. Cruz and Hickenlooper and would have DoD launch a pilot program assessing commercially available on-orbit cloud computing and data processing hubs."
+},
+{
+"url": "https://www.msn.com/en-us/money/news/this-might-be-our-opportunity-john-hickenlooper-says-data-center-construction-will-assist-in-modernizing-americas-grid/vi-AA230NO8",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Page returns 200 but has zero readable text (video-only MSN page, no Wayback fallback). Only the URL slug/headline ('This might be our opportunity... data center construction will assist in modernizing America's grid') supports the claim, as the item itself acknowledges. Cannot verify his actual words or date."
+},
+{
+"url": "https://coloradosun.com/2026/06/01/john-hickenlooper-julie-gonzales-us-senate-colorado-primary-issue-guide/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-01",
+"note": "Under 'REGULATING A.I.' the guide quotes Hickenlooper verbatim: 'Yes, absolutely. The risk to children is unfathomable.' and paraphrases that regulations should focus on protecting kids, including making tech companies liable if their AI products harm children."
+},
+{
+"url": "https://www.meritalk.com/articles/senate-revisits-ai-testing-development-assurance-with-vet-ai-act/",
+"verdict": "confirmed",
+"corrected_quote": "The horse is already out of the barn when it comes to AI. The U.S. should lead in setting sensible guardrails for AI to ensure these innovations are developed responsibly to benefit all Americans as they harness this rapidly growing technology",
+"corrected_date": "2025-08-05",
+"note": "Quote is verbatim but truncated mid-sentence; full sentence given in corrected_quote. Article (Aug 5, 2025) confirms Hickenlooper and Capito reintroduced VET AI Act Aug 1, 2025, directing NIST to develop guidelines for third-party evaluators to verify AI systems' testing and development."
+},
+{
+"url": "https://www.techpolicy.press/transcript-senate-commerce-hearing-on-30-years-of-section-230/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Quote appears verbatim in Hickenlooper's remarks. Immediately followed by 'I don't see another way to deal with the situation without allowing or compelling the industry to regulate itself, which is really what 230 gets in the way of' and a tort-law standards argument, supporting the liability-approach characterization."
+},
+{
+"url": "https://jewishinsider.com/2026/02/senate-democrats-pentagon-grok-ai-antisemitism-deepfake-pornography/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-10",
+"note": "Quote appears verbatim as letter text. Article names Hickenlooper among co-signers of the Ossoff-led letter to Hegseth on Pentagon use of Grok, citing antisemitic content and sexual/deepfake content."
+},
+{
+"url": "https://rollcall.com/2026/07/29/lawmakers-want-better-data-on-ais-workforce-impacts/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Article says Banks and Hickenlooper urged support for the AI Workforce PREPARE Act, which adds AI questions to federal surveys and requires employers to disclose if AI was a factor in a mass layoff; Hickenlooper (ranking member of the HELP subcommittee) said 'informed policy starts with good data.' Note: Banks introduced the bill; Hickenlooper is a co-sponsor/backer."
+},
+{
+"url": "https://www.techpolicy.press/transcript-senate-commerce-hearing-on-30-years-of-section-230/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Quote verbatim. He also asked Nadine Farid Johnson (Knight First Amendment Institute) whether an AI model's response to a prompt is protected editorial speech, i.e. how to hold AI outputs accountable consistent with the First Amendment. Minor caveat: this was a full Senate Commerce Committee hearing chaired by Cruz, not a subcommittee hearing, though Hickenlooper does hold the consumer-protection subcommittee ranking member title."
+},
+{
+"url": "https://www.hickenlooper.senate.gov/press_releases/icymi-hickenlooper-charts-path-for-ai-regulation",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "hickenlooper.senate.gov returns 403 on direct fetch and via WebFetch; Wayback Machine refused connection / rate-limited (429) on retries. Could not verify the 'three policy areas' quote or the X/Meta letters from this source."
+},
+{
+"url": "https://www.meritalk.com/articles/senate-revisits-ai-testing-development-assurance-with-vet-ai-act/",
+"verdict": "confirmed",
+"corrected_quote": "The horse is already out of the barn when it comes to AI. The U.S. should lead in setting sensible guardrails for AI to ensure these innovations are developed responsibly to benefit all Americans as they harness this rapidly growing technology",
+"corrected_date": "2025-08-05",
+"note": "Verbatim but truncated; full sentence in corrected_quote. Attributed to Sen. Hickenlooper in the MeriTalk article."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "D000197",
+"checks": [
+{
+"url": "https://coloradosun.com/2026/05/29/diana-degette-melat-kiros-wanda-james-colorado-primary-election-issue-guide/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-29",
+"note": "Quote appears verbatim in DeGette's DATA CENTERS answer, followed by '...which includes the impact on energy and water usage in their areas, and I believe that local government should have authority over approval of data centers.' The page shows challenger Kiros, not DeGette, backing Denver's data center moratorium, so 'did not back a moratorium' is consistent."
+},
+{
+"url": "https://fedscoop.com/ai-data-centers-canceled-energy-projects-colorado-democrats/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-14",
+"note": "FedScoop (published 2025-10-15) names Reps. Neguse, DeGette, Crow and Pettersen plus Sens. Bennet and Hickenlooper as authors of a letter 'sent Tuesday' (Oct 14, 2025) to Energy Secretary Wright; the quoted sentence appears verbatim."
+},
+{
+"url": "https://energycommerce.house.gov/posts/chairman-guthrie-announces-full-committee-markup-of-29-bills",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-20",
+"note": "Page is a markup notice listing H.R. 9340 Ratepayer Protection Act (Reps. Evans (CO) and Castor) for a July 20, 2026 full committee markup. It does not name DeGette or record any vote; her committee membership is not established by this page. Weak evidence for a position."
+},
+{
+"url": "https://coloradosun.com/2026/05/29/diana-degette-melat-kiros-wanda-james-colorado-primary-election-issue-guide/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-29",
+"note": "Quote verbatim under A.I. REGULATION; she continues 'Congress is right now developing guardrails. I believe that we will be seeing bipartisan legislation within the next few months.' Supports the claim."
+},
+{
+"url": "https://www.techpolicy.press/transcript-house-hearing-on-the-risks-and-benefits-of-ai-chatbots/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim in Rep. Diana DeGette (D-CO) questioning. Transcript also shows her asking Torous about FDA challenges/authority and King about ChatGPT not being HIPAA-covered. Transcript page dated 2025-11-19 (hearing itself was the day before)."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim; Diana DeGette is in the listed 44 signers. Letter says state laws are 'the only recourse' until Congress acts."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim ('...lets Big Tech run rampant'); DeGette is a listed signer."
+},
+{
+"url": "https://www.dropsitenews.com/p/aipac-ai-degette-melat-kiros-colorado",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-29",
+"note": "Quote verbatim. Article says Project 218 spent $400,000 on attack ads against Kiros on June 17, funded via Democracy Matters 501(c)(4), and that Kiros ran as a critic of unchecked AI and supports a data center moratorium. Article does not itself mention Leading the Future or other named AI super PACs; the 'not one of the named AI super PACs' clause is the tracker's own gloss, not contradicted. Note this is spending by others, not a DeGette statement."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned 0 chars for the PDF; downloaded and extracted text directly. Quote verbatim; 'Diana DeGette, Member of Congress' appears among 81 signers; letter cites the Senate's 99-1 vote and opposes the proposed preemption executive order. Dated November 26, 2025."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote fragment verbatim ('a moratorium would be wildly irresponsible given the lack of any federal legislation'); letter to House and Senate Armed Services leadership urges excluding any AI moratorium or preemption from the FY26 NDAA; DeGette listed among 44 signers."
+},
+{
+"url": "https://coloradosun.com/2026/05/29/diana-degette-melat-kiros-wanda-james-colorado-primary-election-issue-guide/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-29",
+"note": "Headline quote verbatim (page uses curly apostrophes)."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "N000191",
+"checks": [
+{
+"url": "https://fedscoop.com/ai-data-centers-canceled-energy-projects-colorado-democrats/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-15",
+"note": "FedScoop article (published 2025-10-15) quotes the Colorado Democrats' letter to Energy Secretary Wright verbatim; the letter frames AI/data-center demand as a reason to keep DOE investments, and the page takes no position on building or pausing data centers, matching the claim. Neguse is part of the delegation the article covers."
+},
+{
+"url": "https://neguse.house.gov/media/in-the-news/colorado-congressmen-ken-buck-and-joe-neguse-team-take-big-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-11-17",
+"note": "Quote appears verbatim, attributed to Neguse. Article also states the more aggressive provisions (banning Big Tech from buying rivals and self-preferencing) that Buck and Neguse pushed were killed by the tech lobby, supporting the claim."
+},
+{
+"url": "https://neguse.house.gov/media/in-the-news/big-tech-antitrust-bill-championed-ken-buck-and-joe-neguse-passes-us-house",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-09-29",
+"note": "CPR News repost: package passed the House 242-184; first provision is Neguse's Merger Filing Fee Modernization Act; quote appears verbatim (truncated before 'that harm American consumers, entrepreneurs, and small businesses')."
+},
+{
+"url": "https://neguse.house.gov/media/press-releases/neguse-bennet-slam-fcc-sidestepping-federal-law-approve-62b-nexstar-tegna",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-20",
+"note": "Joint Neguse-Bennet statement, quote verbatim; release describes the $6.2B Nexstar-Tegna merger and the FCC bypassing the statutory 39% national ownership cap, and says they opposed the merger at every step."
+},
+{
+"url": "https://neguse.house.gov/media/press-releases/rep-neguse-delivers-floor-speech-denouncing-unlawful-nexstar-tegna-merger",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-03-27",
+"note": "Quote is verbatim from the March 26, 2026 floor speech. Headline says he 'Calls for Statutory Restriction on FCC', but his stated mechanism is to rein in the FCC through the appropriations process; he argues the 39% cap is already statutory. The claim's 'write a hard limit into law so regulators cannot waive caps' slightly overstates the specific proposal (an appropriations rider restricting the FCC rather than a new cap statute)."
+},
+{
+"url": "https://neguse.house.gov/media/in-the-news/colorado-congressmen-ken-buck-and-joe-neguse-team-take-big-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-11-17",
+"note": "Headline quote appears verbatim and is attributed to Neguse."
+}
+],
+"score_objections": []
+}
+]

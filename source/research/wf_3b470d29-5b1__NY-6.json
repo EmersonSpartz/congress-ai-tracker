@@ -1,0 +1,808 @@
+[
+{
+"bioguide": "R000622",
+"name": "Josh Riley",
+"signature": "Utility-bill populist who wrote the FAIR Data Act to make data centers pay for their own grid upgrades; backs tighter export controls on chipmaking tools.",
+"notable_quote": {
+"text": "Upstate New Yorkers are already paying through the nose for electricity, and we shouldn't have to pay a penny more so Big Tech can rake in record profits",
+"url": "https://riley.house.gov/2026/07/13/riley-introduces-bill-to-stop-data-center-projects-from-driving-up-energy-bills",
+"date": "2026-07-13"
+},
+"groups": [
+"Congressional Lowering Utility Bills Caucus (founder, launched Jan 22 2026)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Riley wants data centers to pay their own way. He wrote the FAIR Data Act to make Big Tech cover the grid upgrades its data centers need, welcomed Gov. Hochul's one-year pause on large projects, and voted against the SPEED Act permitting bill. He has not called for a moratorium of his own.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Riley introduces FAIR Data Act to stop data center projects from driving up energy bills",
+"url": "https://riley.house.gov/2026/07/13/riley-introduces-bill-to-stop-data-center-projects-from-driving-up-energy-bills",
+"date": "2026-07-13",
+"quote": "Upstate New Yorkers are already paying through the nose for electricity, and we shouldn't have to pay a penny more so Big Tech can rake in record profits",
+"what_it_shows": "His own bill bars utilities from passing the cost of generation, transmission and distribution upgrades for 75 MW+ data centers onto households and small businesses, and makes developers report on promised savings."
+},
+{
+"type": "sponsor",
+"title": "H.R.9655 FAIR Data Act (sponsor, introduced Jul 13 2026, with Rep. Van Drew)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9655",
+"date": "2026-07-13",
+"quote": null,
+"what_it_shows": "He is the lead sponsor of a bill making large data centers, not ratepayers, pay for the grid upgrades they require."
+},
+{
+"type": "interview",
+"title": "WAMC: Congressman Josh Riley introduces legislation aimed at data center developers",
+"url": "https://www.wamc.org/news/2026-07-15/congressman-josh-riley-introduces-legislation-aimed-at-data-center-developers",
+"date": "2026-07-15",
+"quote": "If you come in and you promise one thing, and it turns out to be something else, we're going to hold you accountable for it",
+"what_it_shows": "He said he welcomed Gov. Hochul's executive order pausing most large data centers because it gives time to set up the rules his bill calls for."
+},
+{
+"type": "cosponsor",
+"title": "H.R.7977 Energy Bills Relief Act (original cosponsor, Mar 18 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "The House Democratic energy-cost package he joined includes making facilities like data centers pay their own costs rather than pushing them onto households."
+},
+{
+"type": "vote",
+"title": "House roll call 356 (Dec 18 2025): SPEED Act permitting reform, Riley voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the Republican permitting bill that would speed approvals for energy and infrastructure projects, including those serving data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Riley's only AI-specific action found is a yes vote on the KIDS Act, which among other things makes companies tell minors when they are talking to an AI chatbot. No statements found on frontier AI dangers, safety testing, or licensing as of Sept 2026.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 228 (Jun 29 2026): KIDS Act (H.R.7757) passed 267-117, Riley voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "The bill requires businesses using AI chatbots to inform minors they are talking to a bot, along with other online protections for kids."
+},
+{
+"type": "other",
+"title": "Daily Freeman roll-call report: How they voted: Ryan and Riley on minors and social media",
+"url": "https://www.dailyfreeman.com/2026/07/05/how-they-voted-ryan-and-riley-on-minors-and-social-media/",
+"date": "2026-07-05",
+"quote": "require businesses that use artificial intelligence (AI) chatbots to inform minors of that fact",
+"what_it_shows": "Local press confirms Riley voted yes on the bill, while his neighbor Rep. Pat Ryan voted no."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Riley backs targeted consumer protections rather than Big Tech break-ups. He wrote a bill to stop utilities from selling smart-meter data, cosponsored crackdowns on foreign scam robocalls and Chinese-linked connected cars, and voted for the KIDS Act. No Section 230 or antitrust push found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Riley introduces bill to ban the sale of data obtained by smart meters",
+"url": "https://riley.house.gov/2026/09/04/riley-introduces-bill-to-ban-the-sale-of-data-obtained-by-smart-meters",
+"date": "2026-09-04",
+"quote": "Upstate New Yorkers are already paying the foreign-owned utility monopolies too damn much. They shouldn't get to cash in on our private information, too.",
+"what_it_shows": "His bipartisan bill limits utilities to using energy data for billing and grid functions and bans selling or sharing it without consent."
+},
+{
+"type": "sponsor",
+"title": "H.R.10284 Smart Meter Data Privacy Protection Act (sponsor, Sept 3 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10284",
+"date": "2026-09-03",
+"quote": null,
+"what_it_shows": "Lead sponsor of a data-privacy bill for household energy data."
+},
+{
+"type": "cosponsor",
+"title": "H.R.6152 Foreign Robocall Elimination Act (cosponsor, Nov 20 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2025-11-20",
+"quote": null,
+"what_it_shows": "Supports cracking down on scam robocalls coming from other countries."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8730 Connected Vehicle Security Act of 2026 (cosponsor, May 29 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-05-29",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "vote",
+"title": "House roll call 228 (Jun 29 2026): KIDS Act (H.R.7757), Riley voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Voted for a kids' online safety package covering sexual content, compulsive use, purchases and adult contact."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Riley did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI-law moratorium, is not a GUARDRAILS Act cosponsor, and no statement on the Dec 2025 executive order or the Mar 2026 White House framework turned up. His Nay vote on H.R.1 was a party-line vote on a large bill.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145 (May 22 2025): passage of H.R.1, which then carried a 10-year moratorium on state AI laws, Riley voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted against the Republican budget bill as a whole; this is not evidence of a stance on preemption by itself."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Riley leans hawkish on chips. He is an original cosponsor of the MATCH Act to tighten export controls on chipmaking equipment, saying China is getting the tools to make advanced chips, and he backs domestic chip manufacturing incentives. No statement found on Nvidia H20 or H200 sales to China.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Riley backs bipartisan MATCH Act to crack down on China, protect U.S. supply chains",
+"url": "https://riley.house.gov/2026/04/22/riley-backs-bipartisan-bill-to-crack-down-on-china-protect-u-s-supply-chains-and-national-security",
+"date": "2026-04-22",
+"quote": "Right now, China is getting access to the specialized equipment used to make advanced computer chips. This bill stops that by tightening the rules and making sure everyone plays by the same rules, so American workers aren't getting screwed.",
+"what_it_shows": "He wants tighter, allied export controls on semiconductor manufacturing equipment."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8170 MATCH Act (original cosponsor, Apr 2 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8170",
+"date": "2026-04-02",
+"quote": null,
+"what_it_shows": "Cosponsor of the bill to align allied export controls on chipmaking tools and block adversary-linked firms from them."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3204 BASIC Act (cosponsor, May 5 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-05-05",
+"quote": null,
+"what_it_shows": "Supports extending the tax credit for building chip plants in America."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Riley votes to strengthen U.S. semiconductor supply chains (H.R.2480)",
+"url": "https://riley.house.gov/2025/05/01/rep-riley-votes-strengthen-us-semiconductor-supply-chains-bolster-american",
+"date": "2025-05-01",
+"quote": "This bill is a smart, targeted investment that supports manufacturing in Upstate New York",
+"what_it_shows": "Supports bringing chip manufacturing and packaging investment to the United States for economic and national security reasons."
+}
+]
+}
+},
+"search_notes": "Searches: Google News for Riley + data center, AI, FAIR Data Act, chatbot/deepfake/Big Tech, Nvidia/export controls/semiconductor, preemption/state AI laws, Ratepayer Protection Act; riley.house.gov news pages 1-3 and Wayback listing; govtrack cosponsor checks (hr8031, hr9340, hr9442, hr7977, hr8241, hr9183, hr5511, hr6356, hr633, hr7985, hr6984, hr7858, hr3562, hr2794, hr5272, hr3460, hr6875, hr3447, hr2683, hr8170); clerk and govtrack roll calls h145, h356, h228; Matsui letter PDF and Clarke letter signers; Casar AI-CEO letter signers. Not retrieved: Daily Star 'Riley criticizes Oberacker for data center votes' (Aug 24 2026) and WBNG Aug 20 2026 item (Google News decoding rate-limited, site search blocked). No AI super PAC activity found."
+},
+{
+"bioguide": "T000469",
+"name": "Paul Tonko",
+"signature": "Energy and Commerce Democrat who wrote the Power for the People Act to make data centers pay for grid costs and who opposes preempting state AI laws.",
+"notable_quote": {
+"text": "Our Power for the People Act balances the need for data center development without pushing those costs onto consumers.",
+"url": "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=4569",
+"date": "2026-04-09"
+},
+"groups": [
+"Ranking Member, House Energy and Commerce Subcommittee on Environment",
+"Co-chair, Sustainable Energy and Environment Coalition (SEEC)",
+"Congressional Artificial Intelligence Caucus (member per landscape lead; caucus website unreachable, not independently confirmed)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Tonko is a leading House Democrat on making data centers pay for their own power. He wrote the Power for the People Act, cosponsored the Protecting Families from AI Data Center Energy Costs Act, called a 100 MW threshold in the Ratepayer Protection Act extreme, and said the narrowed committee bill was not what the moment demands. He calls data centers critical to national security and jobs and has not joined the AI Data Center Moratorium Act.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Tonko introduces Power for the People Act to shield consumers from rising energy costs",
+"url": "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=4569",
+"date": "2026-04-09",
+"quote": "Our Power for the People Act balances the need for data center development without pushing those costs onto consumers.",
+"what_it_shows": "He frames the goal as continued data center growth with the costs kept off household bills."
+},
+{
+"type": "sponsor",
+"title": "H.R.8241 Power for the People Act (sponsor, Apr 9 2026; Senate companion by Sen. Van Hollen)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8241",
+"date": "2026-04-09",
+"quote": null,
+"what_it_shows": "Lead sponsor of the main Democratic bill making data centers responsible for the costs of their electricity demand."
+},
+{
+"type": "cosponsor",
+"title": "H.R.6529 Protecting Families from AI Data Center Energy Costs Act (cosponsor, Dec 9 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2025-12-09",
+"quote": null,
+"what_it_shows": "Supports keeping families' bills from rising to pay for power lines and plants serving AI data centers."
+},
+{
+"type": "hearing",
+"title": "E&E News: Lawmakers agree the data center boom shouldn't hurt ratepayers (Apr 29 2026 E&C hearing)",
+"url": "https://www.eenews.net/articles/lawmakers-agree-the-data-center-boom-shouldnt-hurt-ratepayers-now-comes-the-hard-part/",
+"date": "2026-04-30",
+"quote": "more than enough demand to power a small city",
+"what_it_shows": "He called the Ratepayer Protection Act's 100 MW definition of a large-load customer extreme and urged lowering it to 50 MW."
+},
+{
+"type": "hearing",
+"title": "E&E News: House committee narrows data center energy bill (Jul 21 2026 markup)",
+"url": "https://www.eenews.net/articles/house-committee-narrows-data-center-energy-bill-3/",
+"date": "2026-07-21",
+"quote": "We are not doing what this moment demands of us",
+"what_it_shows": "He pushed the committee to pass stronger data center legislation than the narrowed Ratepayer Protection Act that cleared 52-0."
+},
+{
+"type": "statement",
+"title": "Press release: Tonko, SEEC Clean Energy Deployment Task Force introduce Energy Bills Relief Act",
+"url": "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=4541",
+"date": "2026-03-18",
+"quote": "Ensuring that facilities like data centers are paying for their own costs because it's not fair for their expenses to be pushed onto your household if one opens in your area",
+"what_it_shows": "The Democratic energy-cost package he helped lead includes a data-center cost-responsibility plank."
+},
+{
+"type": "vote",
+"title": "House roll call 356 (Dec 18 2025): SPEED Act permitting reform, Tonko voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Opposed the Republican permitting bill."
+},
+{
+"type": "other",
+"title": "GovTrack cosponsor list for H.R.9442 AI Data Center Moratorium Act shows Tonko is not a cosponsor",
+"url": "https://www.govtrack.us/congress/bills/119/hr9442/cosponsors",
+"date": "2026-09-12",
+"quote": null,
+"what_it_shows": "Unlike E&C colleagues Pallone and Ocasio-Cortez, he has not backed a national pause on new data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Tonko supports targeted AI guardrails rather than sweeping controls. He cosponsored the Algorithmic Accountability Act (bias and harm testing of automated decision systems), voted for the KIDS Act with its chatbot disclosure rule, and in the last Congress backed bills against sexual deepfakes and AI-faked candidate voices. No statements found on frontier AI safety testing, licensing or a pause.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.5511 Algorithmic Accountability Act of 2025 (cosponsor, Sept 30 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-30",
+"quote": null,
+"what_it_shows": "Supports requiring companies to test automated decision systems for bias and harm and report to the FTC."
+},
+{
+"type": "vote",
+"title": "House roll call 228 (Jun 29 2026): KIDS Act (H.R.7757), Tonko voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Voted for a kids' online safety package that makes AI chatbot businesses tell minors they are talking to a bot."
+},
+{
+"type": "cosponsor",
+"title": "118th Congress H.R.3106 Preventing Deepfakes of Intimate Images Act (cosponsor, Jun 16 2023)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2023-06-16",
+"quote": null,
+"what_it_shows": "Backed making AI sexual deepfakes of real people illegal with a right to sue."
+},
+{
+"type": "cosponsor",
+"title": "118th Congress H.R.4611 Candidate Voice Fraud Prohibition Act (cosponsor, Jan 29 2024)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4611",
+"date": "2024-01-29",
+"quote": null,
+"what_it_shows": "Backed criminalizing political ads that use AI to fake a candidate's voice."
+},
+{
+"type": "cosponsor",
+"title": "118th Congress H.R.9639 AI Ads Act (cosponsor, Sept 17 2024)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9639",
+"date": "2024-09-17",
+"quote": null,
+"what_it_shows": "Backed disclosure labels for AI-made content in political ads."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Tonko favors targeted rules: he cosponsored the Kids PRIVACY Act and the My Body, My Data Act on reproductive health data in the last Congress and voted for the KIDS Act in 2026. No push for Big Tech break-ups or Section 230 repeal was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "118th Congress H.R.2801 Kids PRIVACY Act (cosponsor, May 16 2023)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2801",
+"date": "2023-05-16",
+"quote": null,
+"what_it_shows": "Supports limits on how apps and websites collect and use kids' and teens' data."
+},
+{
+"type": "cosponsor",
+"title": "118th Congress H.R.3420 My Body, My Data Act of 2023 (cosponsor, May 17 2023)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Supports restricting collection and sharing of reproductive health data."
+},
+{
+"type": "vote",
+"title": "House roll call 228 (Jun 29 2026): KIDS Act (H.R.7757), Tonko voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Voted for the House kids' online safety package."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Tonko wants states free to regulate AI. He cosponsored the GUARDRAILS Act and signed both House Democratic letters in late 2025 opposing a moratorium on state AI laws in the defense bill or through an executive order.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.8031 GUARDRAILS Act (cosponsor, Mar 20 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Backs a bill protecting states' right to pass their own AI laws against federal preemption."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter of 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Tonko a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": null,
+"what_it_shows": "Signed the letter telling congressional leaders not to revive the state AI-law moratorium or override state laws by executive order."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter of 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Tonko a signer)",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "Signed the letter asking defense-bill negotiators to keep any state AI-law preemption out of the NDAA."
+},
+{
+"type": "vote",
+"title": "House roll call 145 (May 22 2025): passage of H.R.1, which then carried a 10-year moratorium on state AI laws, Tonko voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "Voted against the bill carrying the moratorium, though as a party-line vote on the whole package."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China as of Sept 2026. Tonko is a longtime CHIPS Act champion for the Albany chip cluster and cosponsors the BASIC Act tax credit for domestic chip plants, but those are about building chips at home, not restricting exports.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.3204 BASIC Act (cosponsor, May 5 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-05-05",
+"quote": null,
+"what_it_shows": "Supports extending the tax credit for building chip factories in America; neutral on export controls."
+}
+]
+}
+},
+"search_notes": "Searches: Google News for Tonko + data center, AI, Ratepayer Protection Act/Power for the People, preemption/GUARDRAILS/chatbot/deepfake, Nvidia/export controls/CHIPS, Kids Online Safety/Section 230/privacy, executive order/state AI laws, Grok/AI companies; tonko.house.gov press release listing pages 1-6 (DocumentIDs) and releases 4569, 4541, 4469; E&E News Apr 30 and Jul 21 2026 articles; Legis1 Sept 9 2026 water hearing article; Matsui PDF (pdftotext) and Clarke letter signer lists; E&C Democrats' Grok letter (Tonko not a signer); govtrack cosponsor checks (hr8031 yes, hr5511 yes, hr7977 yes, hr8241 sponsor; hr9340, hr9442, hr6356, hr633, hr7985, hr6984, hr7858, hr9183 no); roll calls h145, h356, h228. AI Caucus website did not resolve, so membership rests on the landscape lead. No AI super PAC activity found."
+},
+{
+"bioguide": "S001196",
+"name": "Elise M. Stefanik",
+"signature": "China-hawk Republican on chips and kids' online safety who co-chaired the House Intelligence 9/11 review that flagged AI as a next-generation threat.",
+"notable_quote": {
+"text": "Some of these threats include great power competition, artificial intelligence, foreign malign influence campaigns, drones, hostile use of emerging biotechnologies, and vulnerabilities littered throughout our critical infrastructure.",
+"url": "https://stefanik.house.gov/2026/7/stefanik-leads-intelligence-committee-9-11-commission-hearing-on-emerging-threats",
+"date": "2026-07-21"
+},
+"groups": [
+"Chair, House Intelligence Committee bipartisan 9/11 Commission Review (2025-2026)",
+"House Armed Services Subcommittee on Cyber, Information Technologies, and Innovation (member)",
+"House Intelligence Subcommittee on Open Source Intelligence (member)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement on data centers found as of Sept 2026, including no reaction to Gov. Hochul's July 2026 pause. She did not vote on the SPEED Act permitting bill and has not cosponsored the ratepayer, transparency or moratorium bills.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356 (Dec 18 2025): SPEED Act permitting reform, Stefanik recorded as not voting",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She did not cast a vote on the main permitting bill tied to the data center buildout."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "low",
+"summary": "Mixed and thin. Stefanik co-chaired the Intelligence Committee's 9/11 review, which named AI a next-generation threat and recommended addressing Black Swan risks from AI advancement, and she has asked about AI and academic integrity in schools. But she also cosponsored a bill to codify Trump's anti-woke-AI procurement order and has not called for binding AI safety rules.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Stefanik opening statement, House Intelligence hearing '25 Years After 9/11: Confronting the Next Generation of Threats'",
+"url": "https://stefanik.house.gov/2026/7/stefanik-leads-intelligence-committee-9-11-commission-hearing-on-emerging-threats",
+"date": "2026-07-21",
+"quote": "Some of these threats include great power competition, artificial intelligence, foreign malign influence campaigns, drones, hostile use of emerging biotechnologies, and vulnerabilities littered throughout our critical infrastructure.",
+"what_it_shows": "She frames AI as a national-security threat the intelligence community must get ahead of, calling to go on offense rather than regulate."
+},
+{
+"type": "other",
+"title": "House Intelligence Committee bipartisan 9/11 Commission Review report (co-chaired by Stefanik) recommendations",
+"url": "https://intelligence.house.gov/2026/08/31/house-intel-committee-releases-bipartisan-9-11-commission-review-report-ahead-of-25th-anniversary/",
+"date": "2026-08-31",
+"quote": "Address “Black Swan” Risks Posed by AI Advancement",
+"what_it_shows": "The report she co-chaired tells the intelligence community to prepare for low-probability, high-impact risks from advancing AI."
+},
+{
+"type": "cosponsor",
+"title": "H.R.4873 To codify Executive Order 14319 on preventing woke AI in the federal government (cosponsor, Aug 15 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4873",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "Backs writing into law a rule that the government only buys AI it deems ideologically neutral; a culture-war rather than safety approach."
+},
+{
+"type": "hearing",
+"title": "Stefanik questions Education Secretary McMahon on AI and academic integrity",
+"url": "https://stefanik.house.gov/2025/6/icymi-stefanik-asks-education-secretary-linda-mcmahon-about-harvard-university-s-crisis-of-ideological-diversity-and-artificial-intelligence",
+"date": "2025-06-04",
+"quote": "Can you talk about the Department's approach in terms of how to harness the benefits of this technology, but also make sure that we are learning the basics in the classroom and have academic integrity?",
+"what_it_shows": "She sees both benefits and classroom risks from AI but asked for an agency approach, not legislation."
+},
+{
+"type": "statement",
+"title": "The Hill: Stefanik hits back at Democrat's 'sexist' deepfake ad",
+"url": "https://thehill.com/homenews/campaign/5397074-stefanik-hits-back-at-dems-sexist-deepfake-ad/",
+"date": "2025-07-11",
+"quote": "There is no place in politics to artificially create this derogatory degradation which is offensive, belittling, and confusing to voters especially seniors.",
+"what_it_shows": "She condemned an AI-generated campaign ad against her, but framed it as a sexist smear rather than calling for AI rules."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Stefanik backs targeted rules aimed at kids' online safety and Chinese-linked technology. She cosponsored the Kids Online Safety Act, Sammy's Law and the Parents Decide Act, backed the TikTok divest-or-ban law, led a bill to bar DJI drones, and in April 2026 pressed TikTok's CEO on age verification. She also cosponsored the Free Speech Protection Act against government pressure on platforms. Not a Big Tech break-up advocate.",
+"evidence": [
+{
+"type": "letter",
+"title": "Broadband Breakfast: Reps. Gottheimer, Stefanik and Suozzi send bipartisan letter to TikTok CEO on age verification",
+"url": "https://broadbandbreakfast.com/reps-gottheimer-stefanik-and-suozzi-send-bipartisan-letter-to-tiktok-ceo/",
+"date": "2026-04-27",
+"quote": "Tens of millions of TikTok users are under the age of 18… new users are only required to provide their date of birth with no actual way to prove whether the input is truthful",
+"what_it_shows": "She urged TikTok to strengthen age verification and safeguards for minors."
+},
+{
+"type": "vote",
+"title": "House roll call 228 (Jun 29 2026): KIDS Act (H.R.7757), Stefanik voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Voted for the House kids' online safety package, including AI chatbot disclosure to minors."
+},
+{
+"type": "cosponsor",
+"title": "118th Congress H.R.7891 Kids Online Safety Act (cosponsor, Apr 20 2024)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-04-20",
+"quote": null,
+"what_it_shows": "Backed the House KOSA requiring platforms to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "H.R.2657 Sammy's Law (cosponsor, Oct 8 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2025-10-08",
+"quote": null,
+"what_it_shows": "Supports requiring big platforms to let parents use safety apps on kids' accounts."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8250 Parents Decide Act (cosponsor, Apr 13 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8250",
+"date": "2026-04-13",
+"quote": null,
+"what_it_shows": "Supports device-level age checks and parental consent before kids download apps."
+},
+{
+"type": "cosponsor",
+"title": "118th Congress H.R.7521 Protecting Americans from Foreign Adversary Controlled Applications Act (cosponsor, Mar 5 2024)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-05",
+"quote": null,
+"what_it_shows": "Backed forcing TikTok's sale or ban."
+},
+{
+"type": "sponsor",
+"title": "118th Congress H.R.2864 Countering CCP Drones Act (sponsor, Apr 25 2023)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2864",
+"date": "2023-04-25",
+"quote": null,
+"what_it_shows": "Led a bill to bar new DJI drones from U.S. airwaves over spying concerns."
+},
+{
+"type": "letter",
+"title": "Press release: Stefanik, Scott sound alarm on China-backed company Anker, ask Commerce and FCC to investigate",
+"url": "https://stefanik.house.gov/2026/3/significant-security-vulnerabilities-stefanik-scott-sound-alarm-on-china-backed-company-for-misleading-customers-targeting-military-consumers",
+"date": "2026-03-02",
+"quote": null,
+"what_it_shows": "Asked regulators to probe whether a Chinese-backed electronics maker's products send data to China."
+},
+{
+"type": "cosponsor",
+"title": "118th Congress H.R.4791 Free Speech Protection Act (cosponsor, Jul 20 2023)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4791",
+"date": "2023-07-20",
+"quote": null,
+"what_it_shows": "Backed barring officials from pressuring platforms to remove posts; a limit on government, not on companies."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on preempting state AI laws. She voted for H.R.1 in May 2025 when it carried the 10-year state AI-law moratorium, but that was a vote on the whole party bill, and she was not among the House GOP leaders who issued the Mar 20 2026 pro-preemption statement.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145 (May 22 2025): passage of H.R.1, which then carried a 10-year moratorium on state AI laws, Stefanik voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "Party-line vote for the budget bill containing the moratorium; not by itself evidence of a preemption stance."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Stefanik is a China hawk on chips. She cosponsored the Chip Security Act (location tracking for exported AI chips) and the MATCH Act (tighter export controls on chipmaking tools), earlier backed blocking U.S. money from Chinese AI and chip firms, and pushes domestic chip and gallium production. No statement found on Nvidia H20 or H200 sales specifically.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.3447 Chip Security Act (cosponsor, Aug 22 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-08-22",
+"quote": null,
+"what_it_shows": "Supports requiring location verification on advanced AI chips so smuggling to China can be detected."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8170 MATCH Act (cosponsor, Apr 30 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8170",
+"date": "2026-04-30",
+"quote": null,
+"what_it_shows": "Supports tightening and aligning allied export controls on semiconductor manufacturing equipment."
+},
+{
+"type": "cosponsor",
+"title": "118th Congress H.R.6349 Preventing Adversaries from Developing Critical Capabilities Act (cosponsor, Jan 16 2024)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6349",
+"date": "2024-01-16",
+"quote": null,
+"what_it_shows": "Backed blocking American investment in Chinese AI and chip companies."
+},
+{
+"type": "letter",
+"title": "Press release: Stefanik, Mannion, bipartisan New York delegation urge domestic gallium production at Air Force Research Lab in Rome, NY",
+"url": "https://stefanik.house.gov/2026/2/stefanik-mannion-bipartisan-new-york-delegation-urge-domestic-gallium-production-at-air-force-research-lab-in-rome-ny",
+"date": "2026-02-18",
+"quote": "We are concerned by the United States' dependence on foreign sources for gallium, particularly China, which currently holds a 98 percent share of the global supply and has imposed an export ban on shipments to the United States.",
+"what_it_shows": "Treats China's grip on chip-relevant materials as a national security vulnerability to be fixed at home."
+},
+{
+"type": "statement",
+"title": "Press release: Stefanik announces Commerce Department agreement with xLight to bring semiconductor technology to New York",
+"url": "https://stefanik.house.gov/2025/12/stefanik-announces-historic-agreement-between-the-department-of-commerce-and-xlight-to-bring-critical-semiconductor-technology-to-new-york",
+"date": "2025-12-01",
+"quote": "Today, I am proud to announce this historic deal between the Department of Commerce and xLight to build the next generation of semiconductor manufacturing technology in New York State.",
+"what_it_shows": "Celebrates federal backing for domestic EUV lithography development in Albany."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3204 BASIC Act (cosponsor, May 5 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-05-05",
+"quote": null,
+"what_it_shows": "Supports the domestic chip manufacturing tax credit."
+}
+]
+}
+},
+"search_notes": "Searches: Google News for Stefanik + artificial intelligence, data center, Nvidia/export controls/Chip Security Act, TikTok/Kids Online Safety/Section 230/Sammy's Law, woke AI/Pentagon/national security, preemption/state laws/AI moratorium, Gendebien deepfake, House Intelligence AI terrorists; stefanik.house.gov Wayback listing (506 URLs, filtered) and releases on McMahon AI questioning, xLight, gallium letter, Anker letter, 9/11 hearing; intelligence.house.gov Jul 21 hearing and Aug 31 report releases; The Hill Jul 11 2025 article; Broadband Breakfast TikTok letter; govtrack cosponsor checks (hr8170 yes Apr 30 2026, hr3447 yes; hr7977, hr3460, hr8031, hr9340, hr9442, hr6875, hr2683 no); roll calls h145 (Yea), h356 (not voting), h228 (Yea). Note: she suspended her 2026 governor run in Dec 2025 and is not seeking reelection to the House. No AI super PAC activity found."
+},
+{
+"bioguide": "M001231",
+"name": "John W. Mannion",
+"signature": "Micron-district Democrat who leads the MATCH Act to tighten chip-tool export controls and was one of few Democrats to back the SPEED Act permitting bill.",
+"notable_quote": {
+"text": "The MATCH Act safeguards the tools, technology, jobs, and know-how that will keep the United States ahead of China and at the leading edge of the 21st century technologies the world depends on.",
+"url": "https://mannion.house.gov/media/press-releases/representative-john-w-mannion-ny-22-announces-bipartisan-match-act-protect-us",
+"date": "2026-04-02"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Mixed and mostly unstated. Mannion was one of a handful of Democrats to vote for the SPEED Act permitting bill, is an original cosponsor of the Energy Bills Relief Act (which includes making data centers pay their own costs), and told a Cayuga County audience in Sept 2026 that federal action on data centers is needed, though that article could not be retrieved. He has not cosponsored the ratepayer, transparency or moratorium bills.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356 (Dec 18 2025): SPEED Act permitting reform, Mannion voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He crossed party lines to back faster federal permitting for energy and infrastructure projects, a build-side signal."
+},
+{
+"type": "cosponsor",
+"title": "H.R.7977 Energy Bills Relief Act (original cosponsor, Mar 18 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "The Democratic energy-cost package he joined includes making facilities like data centers pay their own costs."
+},
+{
+"type": "interview",
+"title": "CNY Central: Connect to Congress: Rep. Mannion talks Van Duyn, Micron, data centers and more",
+"url": "https://cnycentral.com/news/local/connect-to-congress-rep-mannion-talks-van-duyn-micron-data-centers-and-more",
+"date": "2026-06-10",
+"quote": null,
+"what_it_shows": "He discussed data centers alongside Micron in a local TV interview; the segment is video and the page text gives no position."
+},
+{
+"type": "other",
+"title": "Auburn Citizen headline: Federal action needed on data centers, Mannion says during Cayuga County visit (article not retrievable)",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOWNmUUdGcEJaSC1rYTQ1ODdRd2hCcm9UUEo4c0Z2c0FtNTcwQVFKTVNDUE9HRGpLTnphR3BBemZXWjgtYUphSlBPZGdvZGN0c210Q3I2Yl9BaUJJVFVRMjRSZmJQdzFMNXdpdlBsb3V4d1dsYmNDanhvSWRFWFMwcTJWQ2ZPc3dfdWVlc3RVNjV0aGxubmNIUHpCM2RKa0JRWXNRdg?oc=5",
+"date": "2026-09-08",
+"quote": null,
+"what_it_shows": "Headline only: he called for federal action on data centers during a Sept 8 2026 district visit; the direction of that action could not be confirmed."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Mannion's only AI-specific action found is a yes vote on the KIDS Act, which among other things makes companies tell minors when they are talking to an AI chatbot. No statements or bills found on frontier AI dangers, safety testing, deepfakes or licensing as of Sept 2026.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 228 (Jun 29 2026): KIDS Act (H.R.7757) passed 267-117, Mannion voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "The bill requires businesses using AI chatbots to inform minors they are talking to a bot, along with other online protections for kids."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Mannion supports targeted fixes: he cosponsored the Foreign Robocall Elimination Act and the Connected Vehicle Security Act (barring Chinese-linked car software) and voted for the KIDS Act. No broader Big Tech, Section 230 or antitrust push found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.6152 Foreign Robocall Elimination Act (cosponsor, Dec 9 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2025-12-09",
+"quote": null,
+"what_it_shows": "Supports cracking down on scam robocalls from other countries."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8730 Connected Vehicle Security Act of 2026 (cosponsor, Jul 20 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "vote",
+"title": "House roll call 228 (Jun 29 2026): KIDS Act (H.R.7757), Mannion voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Voted for the House kids' online safety package."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Mannion did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI-law moratorium, is not a GUARDRAILS Act cosponsor, and no statement on the Dec 2025 executive order or the Mar 2026 White House framework was found. His Nay vote on H.R.1 was a party-line vote on a large bill.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145 (May 22 2025): passage of H.R.1, which then carried a 10-year moratorium on state AI laws, Mannion voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "Voted against the Republican budget bill as a whole; not by itself evidence of a stance on preemption."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Mannion, whose district will host Micron's chip fabs, is the lead Democrat on the MATCH Act to tighten export controls on chipmaking equipment so China cannot get the tools to make advanced chips. He also cosponsors domestic chip tax-credit bills (BASIC, STAR) and joined a letter urging domestic gallium production. No statement found on Nvidia H20 or H200 sales.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Mannion announces bipartisan MATCH Act to protect U.S. semiconductor leadership, jobs and national security",
+"url": "https://mannion.house.gov/media/press-releases/representative-john-w-mannion-ny-22-announces-bipartisan-match-act-protect-us",
+"date": "2026-04-02",
+"quote": "The MATCH Act safeguards the tools, technology, jobs, and know-how that will keep the United States ahead of China and at the leading edge of the 21st century technologies the world depends on.",
+"what_it_shows": "He announced and leads the Democratic side of a bill to tighten and align allied export controls on semiconductor manufacturing equipment and block adversary-linked firms."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8170 MATCH Act (original cosponsor and Democratic lead, Apr 2 2026; primary sponsor Rep. Baumgartner)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8170",
+"date": "2026-04-02",
+"quote": null,
+"what_it_shows": "On the bill to strengthen export controls on chipmaking tools; a Senate version is led by Ricketts, Schumer, Risch and Kim."
+},
+{
+"type": "interview",
+"title": "CNY Central: Rep. Mannion announces bill to ban sale of chipmaking tech to adversaries like China",
+"url": "https://cnycentral.com/news/local/rep-mannion-announces-bill-to-ban-sale-of-chipmaking-tech-to-adversaries-like-china",
+"date": "2026-04-03",
+"quote": null,
+"what_it_shows": "Local coverage ties the bill to protecting the future Micron plant in his district and to keeping AI-relevant chip tools from China."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3204 BASIC Act (cosponsor, May 5 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-05-05",
+"quote": null,
+"what_it_shows": "Supports extending the tax credit for building chip factories in America."
+},
+{
+"type": "cosponsor",
+"title": "H.R.802 STAR Act of 2025 (cosponsor, Jul 20 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "Supports expanding the domestic chip manufacturing tax credit."
+},
+{
+"type": "letter",
+"title": "Bipartisan New York delegation letter urging domestic gallium production at Air Force Research Lab in Rome, NY (Mannion a signer)",
+"url": "https://stefanik.house.gov/2026/2/stefanik-mannion-bipartisan-new-york-delegation-urge-domestic-gallium-production-at-air-force-research-lab-in-rome-ny",
+"date": "2026-02-18",
+"quote": null,
+"what_it_shows": "Joined a letter calling China's 98 percent grip on gallium supply a national security vulnerability to be fixed with domestic production."
+}
+]
+}
+},
+"search_notes": "Searches: Google News for Mannion + data center(s), artificial intelligence/AI, MATCH Act/chipmaking/export controls, SPEED Act/permitting/energy bills, chatbot/deepfake/kids online safety, Micron export/Nvidia, Hochul moratorium, electricity/utility bills; mannion.house.gov press release listing (pages 0-12 via raw HTML), MATCH Act release, committees-and-caucuses page (no AI caucus listed); CNY Central Jun 10 and Apr 3 2026 articles; Stefanik-site gallium letter; govtrack cosponsor checks (hr8170 original cosponsor, hr7977 original cosponsor; hr8031, hr9340, hr9442, hr8241, hr3460, hr5511, hr6356, hr633, hr7985, hr6984, hr7858, hr9183, hr6875, hr3447, hr2683 no); roll calls h145 (Nay), h356 (Yea), h228 (Yea); Matsui, Clarke and Casar letter signer lists (not a signer). Not retrieved: Auburn Citizen Sept 8 2026 article (site returned 429, Google News decoding rate-limited). No AI super PAC activity found."
+}
+]

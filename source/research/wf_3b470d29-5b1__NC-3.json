@@ -1,0 +1,545 @@
+[
+{
+"bioguide": "R000603",
+"name": "David Rouzer",
+"signature": "House Science Committee member who told the White House AI chief that the lack of federal preemption of state AI laws is probably a top hurdle to innovation; otherwise quiet on AI beyond kids' online safety cosponsorships.",
+"notable_quote": {
+"text": "First question is, what would you consider the main hurdle to innovation? Would that be the lack of federal preemption? I would assume that'd probably be in the top three.",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers, electricity bills, or Duke Energy's load growth were found as of Sept 2026. He did not vote on the SPEED Act permitting bill in December 2025.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: H.R. 4776 SPEED Act (permitting reform), Rouzer recorded as not voting",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He missed the main House vote tied to speeding energy and data center construction, so it gives no signal either way."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "At two House Science hearings he framed AI mainly as an innovation and jobs opportunity and asked how to regulate without stifling it. No statements treating advanced AI as a serious danger were found.",
+"evidence": [
+{
+"type": "hearing",
+"title": "House Science hearing with OSTP Director Michael Kratsios on the AI Action Plan (transcript)",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14",
+"quote": "AI has the potential to revolutionize the industries, all industries really, but particularly of interest to me is agriculture and transportation.",
+"what_it_shows": "His questions focused on removing hurdles to innovation and on AI workforce training in his district, not on safety rules."
+},
+{
+"type": "hearing",
+"title": "R Street summary of Adam Thierer's April 2025 testimony before House Science, with Rouzer's question",
+"url": "https://www.rstreet.org/commentary/testimony-in-review-adam-thierers-april-2025-appearance-before-the-house-committee-on-science-space-and-technology/",
+"date": "2025-04",
+"quote": null,
+"what_it_shows": "Per R Street, he asked how to get the appropriate level of AI regulation that provides safety without stifling innovation; the witness answered with a market-based, light-touch approach."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His only tech-rule record is cosponsoring Sammy's Law in two Congresses, which would make big social media apps let parents plug in child-safety software. No broader Big Tech or Section 230 positions were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 2657, Sammy's Law (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2025-10-08",
+"quote": null,
+"what_it_shows": "Supports a targeted rule requiring large platforms to give parents access to safety tools for their kids' accounts."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 5778, Sammy's Law of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5778",
+"date": "2023-11-29",
+"quote": null,
+"what_it_shows": "Repeat backing of the same kids' safety measure shows a consistent, if narrow, interest."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Questioning the White House AI adviser in January 2026, he suggested the lack of federal preemption of state AI laws was probably among the top three hurdles to innovation. He has not cosponsored a preemption bill or signed a letter either way.",
+"evidence": [
+{
+"type": "hearing",
+"title": "House Science hearing with OSTP Director Kratsios: Rouzer asks whether lack of federal preemption is the main hurdle to innovation",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14",
+"quote": "First question is, what would you consider the main hurdle to innovation? Would that be the lack of federal preemption? I would assume that'd probably be in the top three.",
+"what_it_shows": "He treats a patchwork of state AI laws as a problem and leans toward a single federal standard."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "His one relevant action is cosponsoring a 2024 bill to block U.S. money from funding AI and chip companies in China. No statements on Nvidia sales or export controls were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6349, Preventing Adversaries from Developing Critical Capabilities Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6349",
+"date": "2024-03-07",
+"quote": null,
+"what_it_shows": "Backed restricting American investment in Chinese AI and semiconductor firms, a hawkish lean."
+}
+]
+}
+},
+"search_notes": "Ran about 12 Google News queries (AI, data center, chatbot/deepfake/Sammy's Law, Big Tech/Section 230/Nvidia/preemption, Science Committee, Duke Energy/ratepayers, Wilmington/Fayetteville data center, Roadmap newsletter, AI PACs). Rouzer's site newsroom is JavaScript-driven and Wayback listings only returned two pages; press release archive URLs 404. Best material came from hearing transcripts: Tech Policy Press Kratsios transcript (Jan 2026) and R Street's Thierer testimony review (Apr 2025). No local data center statements, no PAC involvement, no caucus memberships found. Record bills treated as verified per group file."
+},
+{
+"bioguide": "H001102",
+"name": "Mark Harris",
+"signature": "Freshman Judiciary member with almost no public AI footprint; his only tech action is cosponsoring the SCREEN Act age-verification bill.",
+"notable_quote": null,
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "He voted for the SPEED Act permitting bill in December 2025, which was pitched as speeding energy and data center construction. No statements about data centers, electric bills, or the projects in his region were found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: H.R. 4776 SPEED Act (permitting reform), Harris voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "A vote for faster federal permitting, the main House action tied to the data center buildout, but it is a general permitting bill and not a direct data center statement."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "Searched press releases (all eight pages), local Charlotte coverage, Newsmax and Fox appearances, and Judiciary hearing coverage. Found no statements on AI safety, chatbots, or AI regulation as of Sept 2026.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "He cosponsored the SCREEN Act, which would force adult websites to verify users' ages. Nothing else on Big Tech, privacy, or Section 230 was found, despite his seat on the Judiciary antitrust subcommittee.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 1623, SCREEN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-06-09",
+"quote": null,
+"what_it_shows": "Supports a targeted online rule aimed at keeping kids away from pornography."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, letters, or cosponsorships on preempting state AI laws were found. He did not sign the House Democratic letters and is not on the GUARDRAILS Act.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements on chip export controls or Nvidia sales to China were found; his China-related work has been on campus foreign influence and immigration, not technology.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 10 Google News queries (AI/artificial intelligence, data center, chatbot/deepfake/SCREEN Act, Big Tech/Section 230/antitrust, censorship/Judiciary hearings, Newsmax/WBTV interviews, AI PACs). Read all eight pages of markharris.house.gov press releases: crime, immigration, education, religious liberty, SNAP fraud; nothing on AI or data centers. WBTV March 2025 interview covered education, tariffs, schedule only. Newsmax 'mass surveillance' clip (Sept 1, 2026) could not be fetched. Tech Policy Press Judiciary transcript would not load. Richmond County (Amazon campus) coverage did not name him. No PAC involvement or caucus membership found."
+},
+{
+"bioguide": "H001067",
+"name": "Richard Hudson",
+"signature": "Chairs the House telecom subcommittee; says AI should get the same 'light regulatory touch' that built the internet, and is endorsed by the pro-industry Leading the Future super PAC.",
+"notable_quote": {
+"text": "Just like the light regulatory touch that gave rise to the internet and some of the most successful and cutting-edge companies on the planet, AI must be given the same opportunity",
+"url": "https://energycommerce.house.gov/posts/chairman-hudson-delivers-opening-statement-at-subcommittee-on-communications-and-technology-hearing-on-ai-and-communications-infrastructure",
+"date": "2025-06-04"
+},
+"groups": [
+"Chair, House Energy and Commerce Subcommittee on Communications and Technology (119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "He treats soaring data center power demand as a reason to build more fiber, wireless and energy infrastructure, and voted for the SPEED Act permitting bill. He has not spoken about protecting ratepayers, even though Amazon's $10 billion campus sits near his district and his committee passed the Ratepayer Protection Act 52-0.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement, C&T Subcommittee hearing 'AI in the Everyday' on AI and communications infrastructure",
+"url": "https://energycommerce.house.gov/posts/chairman-hudson-delivers-opening-statement-at-subcommittee-on-communications-and-technology-hearing-on-ai-and-communications-infrastructure",
+"date": "2025-06-04",
+"quote": "Storage capacity and energy consumption demands at data centers are expected to skyrocket by 2030 due to increased AI use. As data capacity increases, we will need robust fiber optic and wireless connectivity",
+"what_it_shows": "He frames data center growth as a demand to be met with more infrastructure, not a cost to be limited."
+},
+{
+"type": "vote",
+"title": "Roll call 356: H.R. 4776 SPEED Act (permitting reform), Hudson voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Supported faster federal permitting for energy and infrastructure projects."
+},
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC endorses ten House Republicans including Hudson",
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"date": "2026-05-22",
+"quote": "We're proud to back these leaders who recognize what's at stake in the global race for AI and the need for continued American leadership",
+"what_it_shows": "The AI industry's main pro-buildout super PAC counts him as an ally."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "high",
+"summary": "In his own words, AI should get the same light regulatory touch that let the internet grow, and the priority is beating China. He has not backed AI safety mandates.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement, C&T Subcommittee hearing on AI and communications infrastructure",
+"url": "https://energycommerce.house.gov/posts/chairman-hudson-delivers-opening-statement-at-subcommittee-on-communications-and-technology-hearing-on-ai-and-communications-infrastructure",
+"date": "2025-06-04",
+"quote": "Just like the light regulatory touch that gave rise to the internet and some of the most successful and cutting-edge companies on the planet, AI must be given the same opportunity",
+"what_it_shows": "Direct call for minimal AI regulation so American companies set the global standard."
+},
+{
+"type": "statement",
+"title": "E&C press release on the hearing, quoting Chairman Hudson on adversaries and AI competition",
+"url": "https://energycommerce.house.gov/posts/c-and-t-subcommittee-holds-hearing-on-network-infrastructure-demands-for-ai-and-uses-in-the-media-and-entertainment-industries",
+"date": "2025-06-04",
+"quote": "Our adversaries will stop at nothing to undermine our leadership in technological advancement and utilize AI to threaten our way of life. We must continue to innovate and develop to prevent that from happening.",
+"what_it_shows": "He sees the main AI danger as losing to China, answered by faster innovation rather than new rules."
+},
+{
+"type": "pac",
+"title": "Leading the Future super PAC endorsement (second GOP slate)",
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"date": "2026-05-22",
+"quote": null,
+"what_it_shows": "Endorsed by the super PAC that opposes strict AI safety regulation."
+}
+]
+},
+"tech_regulation": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. He wants a light touch on AI and internet companies, but he has pressed TikTok over Chinese ties, blamed Big Tech platforms for fueling fentanyl sales, and cosponsored a bill to stop data brokers selling troops' data to hostile countries.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement calling for a light regulatory touch on AI like the early internet",
+"url": "https://energycommerce.house.gov/posts/chairman-hudson-delivers-opening-statement-at-subcommittee-on-communications-and-technology-hearing-on-ai-and-communications-infrastructure",
+"date": "2025-06-04",
+"quote": null,
+"what_it_shows": "Prefers self-regulation and innovation over new tech mandates."
+},
+{
+"type": "statement",
+"title": "Press release: Hudson delivers remarks, questions TikTok CEO at E&C hearing",
+"url": "https://hudson.house.gov/press-releases/hudson-delivers-remarks-questions-tiktok-ceo-at-house-energy-and-commerce-hearing",
+"date": "2023-03-23",
+"quote": "While most federal agencies have implemented a TikTok ban on government-issued devices, having an app banned on your device in one pocket, but downloaded on your device in the other, doesn't make sense to me",
+"what_it_shows": "Willing to restrict a specific platform over data security and Chinese Communist Party ties."
+},
+{
+"type": "statement",
+"title": "Press release: Hudson cosponsors HALT Fentanyl Act, discusses Big Tech and fentanyl crisis",
+"url": "https://hudson.house.gov/press-releases/hudson-cosponsors-halt-fentanyl-act-discusses-big-tech-and-fentanyl-crisis",
+"date": "2023-01-25",
+"quote": "Yet we know big tech is playing an increasing role in fueling this tragic epidemic",
+"what_it_shows": "Holds social media platforms partly responsible for drug sales to young people."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6573, Protecting Military Servicemembers' Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2024-03-06",
+"quote": null,
+"what_it_shows": "Backed a targeted data-broker restriction to protect troops' personal information."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "He has not spoken directly about overriding state AI laws. But he praised passage of the Energy and Commerce reconciliation package that carried the 10-year state AI-law moratorium, and the Leading the Future super PAC endorsed him as someone who would help advance a national AI framework in Congress.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Hudson statement on passage of Energy and Commerce budget reconciliation package (which included the state AI-law moratorium)",
+"url": "https://hudson.house.gov/press-releases/rep-hudson-statement-on-the-passage-of-energy-and-commerce-budget-reconciliation",
+"date": "2025-05-14",
+"quote": "After almost thirty hours of debate, I am proud to join my Republican colleagues in passing the Energy and Commerce Committee's part of President Donald Trump's Big Beautiful Bill.",
+"what_it_shows": "He celebrated the committee package that contained the moratorium, though his statement did not mention AI or state laws."
+},
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future says its endorsed House members will help advance a national AI framework",
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"date": "2026-05-22",
+"quote": null,
+"what_it_shows": "The pro-preemption super PAC's co-strategist said the endorsed members, including Hudson, would be instrumental in advancing a national framework in Congress; this is the PAC's framing, not his own words."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "He warns about China's DeepSeek model and adversaries using AI, but no position on chip export controls, the Chip Security Act, or Nvidia sales to China was found.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement noting China's DeepSeek release and adversaries' AI advances",
+"url": "https://energycommerce.house.gov/posts/chairman-hudson-delivers-opening-statement-at-subcommittee-on-communications-and-technology-hearing-on-ai-and-communications-infrastructure",
+"date": "2025-06-04",
+"quote": null,
+"what_it_shows": "General China-competition rhetoric; it does not address export controls one way or the other."
+}
+]
+}
+},
+"search_notes": "Ran about 14 Google News queries (AI, data center, preemption/state AI laws/framework, KOSA/App Store/Section 230/TikTok, Nvidia/export controls, NRCC AI comments, Ratepayer Protection Act markup, Communications and Technology hearings). Wayback listing of hudson.house.gov returned 69 URLs, mostly energy; read grid security, reconciliation, TikTok and Big Tech/fentanyl releases. Read both E&C pages for his June 4, 2025 AI hearing (full opening statement). Confirmed Leading the Future endorsement at Breitbart. Verified SPEED Act Yea at govtrack. Coverage of the July 21, 2026 E&C data center markup (Daily Energy Insider, RTO Insider, Broadband Breakfast) and Roll Call's Sept 4, 2026 data center bill piece did not name him, so his committee vote is unconfirmed. Spectrum's July 2026 moratorium survey did not mention him. No statement on the Dec 2025 executive order or March 2026 White House framework found."
+},
+{
+"bioguide": "H001101",
+"name": "Pat Harrigan",
+"signature": "China hawk on AI chips who co-leads a bipartisan bill to monitor self-improving AI, wants data centers powered by reactors on military bases, and is open to a time-limited federal preemption deal paired with kids' protections.",
+"notable_quote": {
+"text": "AI is beginning to play a role not just in solving problems, but in building the next generation of AI itself, and we need to understand what that means before the technology outruns our ability to measure it",
+"url": "https://www.meritalk.com/articles/bipartisan-house-bill-would-task-nist-with-tracking-self-improving-ai/",
+"date": "2026-08-31"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "A self-described nuclear guy, he wants power built fast and pushed NDAA language to let military bases host reactors that could also feed data centers without taking power from nearby communities. He voted for the SPEED Act and introduced a grid modernization bill aimed at lower electricity costs.",
+"evidence": [
+{
+"type": "interview",
+"title": "Washington Reporter interview with eight GOP lawmakers on an AI deal with KOSA and energy costs",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20",
+"quote": "legislation that allows public-private partnerships that allow for that to be generated on military bases and it allows us to pipe power outside of the military base. This also helps data centers without taking power from current localities.",
+"what_it_shows": "Supports building new generation for data centers while acknowledging the concern that they drain local power supplies."
+},
+{
+"type": "interview",
+"title": "Axios: Why DOD is eager to use advanced nuclear reactors (reposted on his official site)",
+"url": "https://harrigan.house.gov/media/in-the-news/axios-why-dod-eager-use-advanced-nuclear-reactors",
+"date": "2025-07-14",
+"quote": null,
+"what_it_shows": "Axios reported he told them military bases could annex nearby property to house data centers or other customers of a base's nuclear reactor, freeing up grid capacity."
+},
+{
+"type": "vote",
+"title": "Roll call 356: H.R. 4776 SPEED Act (permitting reform), Harrigan voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Supported faster federal permitting for energy and infrastructure projects."
+},
+{
+"type": "statement",
+"title": "Press release (via Quiver): Harrigan and Whitesides introduce Lowering Energy Costs through Grid Modernization Act",
+"url": "https://www.quiverquant.com/news/Press+Release%3A+Pat+Harrigan%2C+George+Whitesides+Introduce+Bipartisan+Bill+to+Modernize+Electric+Grid",
+"date": "2026-07-24",
+"quote": null,
+"what_it_shows": "His bipartisan bill targets transmission upgrades, permitting delays and lower electricity costs as demand grows."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. He co-leads a bipartisan bill for NIST to track how fast frontier AI is improving itself, saying we must understand it before it outruns our ability to measure it, but he stresses the bill adds no mandates and says adversaries will not constrain AI. He also cosponsored the TAKE IT DOWN Act on deepfake abuse.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor (co-lead) of H.R. 10180, Self-Improving AI Monitoring Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10180",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "Backs government monitoring of AI systems that can improve themselves, a frontier-risk measure."
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Pat Harrigan co-leads bipartisan bill to track self-improving AI",
+"url": "https://harrigan.house.gov/media/press-releases/congressman-pat-harrigan-co-leads-bipartisan-bill-track-self-improving-ai",
+"date": "2026-08-31",
+"quote": "This bill makes sure we can track those developments without putting new mandates on American companies or getting in the way of innovation.",
+"what_it_shows": "Wants visibility into accelerating AI capability but explicitly rejects new regulatory mandates; participation with NIST stays voluntary."
+},
+{
+"type": "interview",
+"title": "MeriTalk: Bipartisan House bill would task NIST with tracking self-improving AI",
+"url": "https://www.meritalk.com/articles/bipartisan-house-bill-would-task-nist-with-tracking-self-improving-ai/",
+"date": "2026-08-31",
+"quote": "AI is beginning to play a role not just in solving problems, but in building the next generation of AI itself, and we need to understand what that means before the technology outruns our ability to measure it",
+"what_it_shows": "Shows real concern about recursive AI progress, which is rare among House Republicans."
+},
+{
+"type": "interview",
+"title": "Washington Reporter interview: Harrigan on AI, national security and constraining AI",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20",
+"quote": "We have to step back and think from a national security standpoint and see that our adversaries are not going to constrain AI.",
+"what_it_shows": "Frames AI policy through a race with adversaries, arguing against heavy constraints on American AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 633, TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-31",
+"quote": null,
+"what_it_shows": "Supports a binding rule against AI-faked sexual images, a targeted guardrail."
+},
+{
+"type": "letter",
+"title": "Washington Reporter: Lawmakers laud Trump administration's AI Genesis Mission (Harrigan co-signed letter to Energy Secretary Wright)",
+"url": "https://washingtonreporter.news/exclusive-lawmakers-laud-trump-administrations-ai-genesis-mission/",
+"date": "2026-03-27",
+"quote": "landmark effort to deploy Artificial Intelligence (AI) to revolutionize American scientific productivity",
+"what_it_shows": "Enthusiastic about government-led AI deployment for science."
+},
+{
+"type": "statement",
+"title": "Press release: Harrigan votes to pass FY26 NDAA and secures 14 provisions including on artificial intelligence",
+"url": "https://harrigan.house.gov/media/press-releases/congressman-pat-harrigan-votes-pass-fy26-ndaa-and-secures-14-key-provisions",
+"date": "2025-12-10",
+"quote": "These measures focus on weapons development, supply chain security, advanced energy, artificial intelligence, and the critical infrastructure needed to keep the United States ahead of China.",
+"what_it_shows": "Treats military AI as a tool to stay ahead of China."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "He backs a series of targeted tech rules: age checks for adult sites, a ban on Chinese-linked connected cars, a crackdown on foreign robocalls, and the TAKE IT DOWN Act. No calls for breaking up Big Tech or repealing Section 230 were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 1623, SCREEN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-10-17",
+"quote": null,
+"what_it_shows": "Supports mandatory age verification on pornography sites."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-14",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6152, Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "Supports a specific consumer-protection fix against overseas scam calls."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 633, TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-31",
+"quote": null,
+"what_it_shows": "Supports forcing platforms to remove nonconsensual intimate images quickly."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Asked whether he would back a bill preempting state AI regulation if it included kids' protections like KOSA, he said a hybrid that protects individual liberty while giving innovators certainty would be interesting, and that he would be okay with a limited period of federal constraint. He leans toward one national standard but has not cosponsored a preemption bill.",
+"evidence": [
+{
+"type": "interview",
+"title": "Washington Reporter interview: would you support a bill preempting states from regulating AI if it included KOSA-style protections for kids?",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20",
+"quote": "If there is a hybridized version that provides reasonable individual liberty protections but also provides certainty to those who are innovating with massive investments but also impact the future of our market economy, that would be interesting.",
+"what_it_shows": "Open to federal preemption of state AI laws as part of a deal, with conditions."
+},
+{
+"type": "interview",
+"title": "Washington Reporter interview: Harrigan on a limited period of federal constraint on AI",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20",
+"quote": "We should offer a limited period of time where we constrain it within limitations; that will help our national security. This is one of the key areas we lead in. I would be okay with that.",
+"what_it_shows": "Signals he would accept a time-limited national rule that displaces state action."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "He is one of the House's more active chip hawks: cosponsor of the Chip Security Act (location tracking for exported AI chips), the AI OVERWATCH Act (congressional veto over chip sales to China) and a bill punishing Chinese theft of American AI models, and he signed an August 2026 letter urging the administration to bar Americans from aiding Chinese security agencies with advanced technology.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3447, Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-07-23",
+"quote": null,
+"what_it_shows": "Supports built-in location verification so advanced AI chips cannot be smuggled to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6875, AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Would give Congress power to block advanced AI chip sales to China before they happen, a direct check on the Nvidia sales policy."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8283, Deterring American AI Model Theft Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"date": "2026-04-29",
+"quote": null,
+"what_it_shows": "Supports penalties on foreign, mainly Chinese, companies that steal or copy U.S. AI models."
+},
+{
+"type": "letter",
+"title": "Reuters via Straits Times: US lawmakers urge Trump to ban Americans from aiding Chinese security agencies (Harrigan among signers)",
+"url": "https://www.straitstimes.com/world/us-lawmakers-urge-trump-to-ban-americans-from-aiding-chinese-security-agencies",
+"date": "2026-08-25",
+"quote": null,
+"what_it_shows": "Joined a bipartisan letter to Commerce Secretary Lutnick to close loopholes letting Chinese intelligence agencies buy advanced U.S. surveillance, cyber and AI technology."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-14",
+"quote": null,
+"what_it_shows": "Part of a broader pattern of cutting Chinese technology out of U.S. markets."
+}
+]
+}
+},
+"search_notes": "Ran about 14 Google News queries (AI, data centers, chips/export controls/Nvidia, preemption/state AI laws, KOSA/Washington Reporter, Genesis Mission, Self-Improving AI, TAKE IT DOWN/deepfake, NDAA AI amendments, Pentagon data centers, AI PACs). Read harrigan.house.gov press release index (pages 1-3) and the Self-Improving AI, FY26 NDAA, grid, Taiwan energy, subcommittee appointment and Axios reposted pages. Found and read the Jan 20, 2026 Washington Reporter interview (direct URL guess worked after Google News links failed) and the Mar 27, 2026 Genesis Mission letter piece. Politico's July 25, 2026 Pentagon data centers article returned 403 and Wayback was unreachable, so any Harrigan comments there are unverified. American Compass coalition letter page failed on TLS. congress.gov returned 403; record bills treated as verified per group file. No Leading the Future or Public First involvement found; no caucus memberships confirmed."
+}
+]

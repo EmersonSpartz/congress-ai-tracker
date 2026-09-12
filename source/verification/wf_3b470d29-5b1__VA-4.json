@@ -1,0 +1,70 @@
+[
+{
+"bioguide": "W000831",
+"checks": [
+{
+"url": "https://www.meritalk.com/articles/bacon-walkinshaw-push-congress-to-strengthen-cisa-amid-rising-ai-cyber-threats/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-21",
+"note": "Quote appears verbatim; article (May 21, 2026, National Cyber Innovation Forum) says he described advanced AI expanding the attack surface against soft targets and continued 'that's a challenge right now with respect to Mythos.' His remedy is restoring/expanding CISA plus faster deployment of advanced models; no call for limits on models appears in the piece."
+},
+{
+"url": "https://govciomedia.com/virginia-congressman-highlights-it-cybersecurity-shutdown-challenges/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-31",
+"note": "Quote verbatim as the opening of a longer sentence; he continues that the scorecard 'takes advantage of the efficiencies and savings' of AI adoption and improves cybersecurity posture. Claim matches."
+},
+{
+"url": "https://fedscoop.com/james-walkinshaw-technology-policy-agenda-doge/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-22",
+"note": "Quote verbatim. Article (July 22, 2025, when he was the Democratic nominee) has him backing AI in government while stressing investment in talent and training, and calling DOGE's automation-for-layoffs pitch possibly 'smoke and mirrors' because 'they fired a lot of those people.'"
+},
+{
+"url": "https://walkinshaw.house.gov/news/documentsingle.aspx?DocumentID=78",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-26",
+"note": "Quote verbatim. He also says 'we don't have a lot of data in terms of where we actually stand with AI adoption in the federal government' and asks whether 'the right guardrails are in place so that we do it responsibly.'"
+},
+{
+"url": "https://www.meritalk.com/articles/rep-james-walkinshaw-urges-federal-innovation-technology-reforms/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-18",
+"note": "Quote verbatim (Punchbowl event, Mar 18, 2026). Context is the federal Privacy Act and inter-agency data sharing, as the item notes; nothing about rules for private tech companies."
+},
+{
+"url": "https://www.meritalk.com/articles/rep-james-walkinshaw-urges-federal-innovation-technology-reforms/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-18",
+"note": "Quote verbatim including the reporter's bracketed [congress]. Article explicitly states 'He did not argue for a national standard or against state-level privacy laws,' matching the item's reading that this is not a preemption position."
+},
+{
+"url": "https://www.meritalk.com/articles/bacon-walkinshaw-push-congress-to-strengthen-cisa-amid-rising-ai-cyber-threats/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-21",
+"note": "Headline quote appears verbatim in the article."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "All four sources concern federal-government AI adoption (scorecards, training, CISA), not rules on AI developers or models. The only frontier-model remark (Mythos) prescribes faster government deployment rather than limits, and the tracker's own item 1 says his answer is 'not new limits on the models.' Generic 'safe and responsible' / 'right guardrails' language about agency deployment is too thin to place him at Targeted guardrails; nothing here shows a position on regulating AI itself.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "tech_regulation",
+"objection": "The sole evidence is a call to update the government-facing Privacy Act to enable inter-agency data sharing; the reporter notes he did not argue for a national standard or comment on state privacy laws, and no source addresses Big Tech or private-sector rules. Evidence is too thin for Targeted rules.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+}
+]

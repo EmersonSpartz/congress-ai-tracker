@@ -1,0 +1,324 @@
+[
+{
+"bioguide": "S001221",
+"checks": [
+{
+"url": "https://scholten.house.gov/media/press-releases/congresswoman-scholten-introduces-two-data-center-accountability-bills",
+"verdict": "confirmed",
+"corrected_quote": "Accountability starts with transparency. As data centers continue to come online across Michigan and the country, people deserve to know how these facilities are affecting the water and power they rely on, so we can best advocate for our communities to prevent exploitation",
+"corrected_date": "2026-07-31",
+"note": "Quote appears verbatim on Scholten's own release (dated July 31, 2026); the item truncates the sentence before the 'prevent exploitation' clause, which is what the claim leans on. Release describes the Data Center Resource Disclosure Act and Defending Our Energy and Water Act as transparency/efficiency measures."
+},
+{
+"url": "https://scholten.house.gov/media/press-releases/congresswoman-scholten-introduces-two-data-center-accountability-bills",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-31",
+"note": "Quote appears verbatim (page uses a curly apostrophe in 'doesn't'). Context: she says bills strengthen transparency on resource use and costs to consumers and require federal data centers to meet efficiency standards, not a block on construction."
+},
+{
+"url": "https://scholten.house.gov/media/press-releases/rep-scholtens-bipartisan-ai-bills-supporting-small-businesses-pass-house",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Quote verbatim. Release (Jan 20, 2026) covers the AI-WISE Act (with Rep. Troy Downing) and AI for Main Street Act, both SBA-focused small-business AI literacy/adoption bills; nothing about developer safety mandates, consistent with the claim."
+},
+{
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-20",
+"note": "Release (Mar 20, 2026) lists 'Hillary Scholten (D-MI)' among House cosponsors of the GUARDRAILS Act at introduction, which repeals the Trump executive order on state AI laws. Page says 'cosponsored', so 'original cosponsor' is a fair inference from the introduction-day list."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned empty text for the PDF; downloaded and extracted directly. Letter dated Nov 26, 2025 to Johnson, Thune, Jeffries, Schumer; quote verbatim as the opening sentence. Letter opposes NDAA moratorium, a preemption executive order, and conditioning BEAD funds on state AI preemption. 'Hillary J. Scholten, Member of Congress' appears in the signature block (81 signers)."
+},
+{
+"url": "https://scholten.house.gov/media/press-releases/congresswoman-scholten-introduces-two-data-center-accountability-bills",
+"verdict": "confirmed",
+"corrected_quote": "Accountability starts with transparency. As data centers continue to come online across Michigan and the country, people deserve to know how these facilities are affecting the water and power they rely on, so we can best advocate for our communities to prevent exploitation",
+"corrected_date": "2026-07-31",
+"note": "Same quote as item 1, verbatim but truncated mid-sentence; full sentence given in corrected_quote."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the six sources addresses regulation of Big Tech or platforms; the evidence is data-center transparency, small-business AI adoption, and state-preemption items. The -1 'Targeted rules' score has no direct support in the cited material.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "H001058",
+"checks": [
+{
+"url": "https://foreignaffairs.house.gov/news/press-releases/south-and-central-asia-subcommittee-chairman-bill-huizenga-delivers-opening-remarks-at-hearing-on-strengthening-export-control-enforcement",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-24",
+"note": "Quote appears verbatim as the first line of his opening remarks (Feb 24, 2026 hearing). Remarks are entirely about the CCP 'AI Arms Race', chip smuggling and model distillation; no safety framing anywhere on the page."
+},
+{
+"url": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=404341",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-20",
+"note": "Verbatim. Page confirms H.R. 8283, the Deterring American AI Model Theft Act, introduced April 20, 2026, and his quote says the bill advances 'the third pillar of the Trump Administration's AI Action Plan'."
+},
+{
+"url": "https://api.open.fec.gov/v1/schedules/schedule_b/?committee_id=C00946111&api_key=DEMO_KEY&per_page=100&sort=-disbursement_date",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "C00946111 disbursement data does list HUIZENGA FOR CONGRESS (C00459297, candidate H0MI02094) as a recipient in the M7 (July 2026) report, and a $2,500 disbursement dated 2026-06-29 exists in the feed. However the DEMO_KEY hit its 40/hour rate limit before I could tie the $2,500/June 29 fields to his specific row, so amount and date are not independently verified from this fetch."
+},
+{
+"url": "https://foreignaffairs.house.gov/news/press-releases/south-and-central-asia-subcommittee-chairman-bill-huizenga-delivers-opening-remarks-at-hearing-on-strengthening-export-control-enforcement",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-24",
+"note": "Quote verbatim. Page also supports the budget claim: he says the House backed a 77% BIS budget increase, the Senate only 23%, 'a good start, but it's not where we should be.' DeepSeek/Blackwell smuggling reference is present."
+},
+{
+"url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-chip-security-act",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-03-26",
+"note": "Quote verbatim and attributed to Huizenga; page identifies him as the bill's sponsor and his quote says it 'directly supports the Trump administration's AI Action Plan recommendations'. But the page says only that the committee 'advanced' the bill at a full committee markup; no vote tally and no word 'unanimous' appears, so the 'unanimously' claim is not sourced here."
+},
+{
+"url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-ai-overwatch-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Page lists 'House Foreign Affairs South and Central Asia Subcommittee Chairman Bill Huizenga' among original cosponsors and describes the bill as ensuring congressional oversight of chip sales and codifying the H200 rule. The 42-2-1 tally in the item title is not on the page (it says only 'advanced'), but the checked claim (original cosponsor) holds."
+},
+{
+"url": "https://www.nextgov.com/emerging-tech/2026/01/lawmakers-worry-over-new-rule-will-allow-sales-nvidias-h200-chips-china/410696/",
+"verdict": "confirmed",
+"corrected_quote": "one: the devil's in the details; and two: rules and regulations are only as good as your willingness to enforce them — and that's what we're going to be watching for on this.",
+"corrected_date": "2026-01-14",
+"note": "Nextgov: 'Rep. Bill Huizenga, R-Mich., said he appreciated the rule but added that ...' followed by the quote; item quote is an exact leading fragment. Article frames GOP members, him included, as supporting the BIS H200 review plan with due-diligence caveats, which matches the claim's 'more accepting note'."
+},
+{
+"url": "https://legis1.com/news/china-export-controls-face-enforcement-scrutiny",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Page: Huizenga 'pressed Kessler on the May 31 BIS guidance that appeared to let Chinese companies keep Blackwell chips obtained through smuggling or other loopholes' and describes him as a China hawk 'pressing from the right over the Blackwell loophole'. Matches claim."
+},
+{
+"url": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=404341",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-20",
+"note": "Verbatim, final sentence of his quote in the April 20, 2026 release; it follows directly after the AI Action Plan line, linking model theft to export-control circumvention."
+},
+{
+"url": "https://foreignaffairs.house.gov/news/press-releases/south-and-central-asia-subcommittee-chairman-bill-huizenga-delivers-opening-remarks-at-hearing-on-strengthening-export-control-enforcement",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-24",
+"note": "Verbatim in his Feb 24, 2026 opening remarks."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "None of the ten sourced items mentions data centers, ratepayers, or energy; the -1 'Protect ratepayers first' score has no supporting evidence in this record.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No item touches Big Tech regulation, kids' online safety, antitrust, or platform rules; the -1 'Targeted rules' score is unsupported by any cited source.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "preemption",
+"objection": "No item addresses state-versus-federal AI regulation or a moratorium on state laws; the +1 'Leans national rule' score rests on nothing in the cited evidence.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "Evidence is thin: every ai_risk item is about beating China and protecting US models/chips, not about domestic AI safety rules. Race framing is consistent with a light-touch lean, and nothing contradicts +1, but note that the record contains no statement for or against domestic AI guardrails, so +1 is an inference rather than a sourced position.",
+"suggested_score": 1,
+"suggested_label": "Light touch"
+}
+]
+},
+{
+"bioguide": "W000798",
+"checks": [
+{
+"url": "https://walberg.house.gov/media/in-the-news/monroe-news-rep-walberg-addresses-data-centers-tariffs-ai-frenchtown-town-hall",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-05",
+"note": "Page (Monroe News repost) says Cloverleaf Infrastructure is proposing data centers in Frenchtown Township and Dundee and that Walberg said he is 'supportive of local communities deciding' whether to approve them. Quote verbatim; local-control framing accurate, no for/against position stated."
+},
+{
+"url": "https://walberg.house.gov/media/press-releases/walberg-sends-letter-sec-lutnick-regarding-risks-foreign-humanoid-robot",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Quote appears verbatim, attributed to Walberg's letter. Release frames the Dowagiac data center/robotics campus concern entirely around AGIBOT (Shanghai) components, military-civil fusion, and national security; no mention of electricity or water. Letter itself was sent July 28, release dated July 29."
+},
+{
+"url": "https://walberg.house.gov/media/in-the-news/moody-market-walberg-committee-holding-series-hearings-ai-workforce-and-education",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Quote verbatim from his opening remarks at the first 'Building an AI-Ready America' hearing (held Wednesday Jan 14; article dated Jan 15). Preceded by 'many existing education and workforce policies were designed for a different era.' Light-touch framing accurate, though he also says the U.S. must 'safeguard against the risks.'"
+},
+{
+"url": "https://walberg.house.gov/media/opinion-editorial/washington-times-teaching-training-transforming-ais-role-americas-future",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-27",
+"note": "Quote verbatim. Op-ed frames risks as job displacement and weakened academic standards; remedies discussed are hearings, preparation and training. No call for AI regulation found in the text ('regulat' has no match)."
+},
+{
+"url": "https://walberg.house.gov/media/press-releases/chairman-walberg-leads-bill-modernize-workforce-data-age-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-22",
+"note": "Quote verbatim. Release introduces H.R. 9381, the AWARE Act, aimed at closing a data gap on how AI is used in workplaces and affecting workers; he says 'we must have reliable insight into how these technologies are affecting jobs.' Claim accurate."
+},
+{
+"url": "https://walberg.house.gov/media/press-releases/walberg-and-lee-lead-effort-protect-childrens-online-privacy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-25",
+"note": "Quote verbatim. Immediately before it he says the 'data practices of some online platforms have significantly contributed to this alarming trend, through the harvesting of children's personal data and targeted advertisements.' Provisions list includes banning targeted advertising to children and teens and data minimization, so 'binding limits' is supported."
+},
+{
+"url": "https://walberg.house.gov/media/press-releases/house-passes-walberg-and-lees-legislation-protect-childrens-online-privacy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-29",
+"note": "Quote verbatim, attributed to Rep. Walberg. Release title and text confirm House passage of COPPA 2.0 with a targeted-advertising ban. Did not separately verify the 'KIDS Act' vehicle wording in the item title, but the core claim (House passed his bill with the ad ban) is supported."
+},
+{
+"url": "https://walberg.house.gov/media/press-releases/walberg-sends-letter-sec-lutnick-regarding-risks-foreign-humanoid-robot",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Quote verbatim. Letter cites China's 'military-civil fusion strategy and national intelligence laws' and says Commerce 'has the authority to investigate these products and if it deems it necessary take action.' Release also states he cosponsors H.R. 9129, the GUARD Act, which would add foreign-country-of-concern robotics components/software to Commerce or FCC covered lists. All parts of claim supported. Note this is about robotics components, not semiconductor export controls specifically."
+},
+{
+"url": "https://spectrumlocalnews.com/mi/michigan/news/2026/07/29/humaoid-robots-dowagiac-hyperscale",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Spectrum News article by Melanie Tolen independently reports Walberg's letter to Lutnick asking Commerce to investigate Hyperscale Data's Dowagiac robotics project over its AGIBOT partnership, citing military-civil fusion and intelligence laws; quotes the 'Foreign adversaries' line. Also notes the company says project data will stay in the U.S."
+},
+{
+"url": "https://walberg.house.gov/media/in-the-news/moody-market-walberg-committee-holding-series-hearings-ai-workforce-and-education",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Headline quote appears verbatim on the page, attributed to Walberg at the Jan 14, 2026 hearing."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "None of the ten sources addresses federal preemption of state AI laws or a national AI standard. The only related evidence is his data-center stance, where he explicitly defers to local communities, which if anything cuts against a lean toward a single national rule. Evidence is too thin to assign +1 'Leans national rule'; no position should be recorded unless a preemption-specific source is added.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "D000624",
+"checks": [
+{
+"url": "https://www.wemu.org/wemu-news/2025-11-10/lawmakers-push-back-against-dtes-request-to-fast-track-saline-township-data-center",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-10",
+"note": "Page names Dingell, quote is verbatim. Article (paraphrasing) says she opposed DTE skipping public hearings, called the project an economic boon for Michigan if approved, and said approval should be predicated on ratepayers experiencing no increases. Claim matches."
+},
+{
+"url": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=7199",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-12",
+"note": "Quote verbatim from her Aug 12, 2026 statement. Page says Ypsilanti Township 'would see little benefit from an institution that pays no property taxes' and she sides with residents/local leaders opposing the siting. The '$1.2 billion' figure is not on this page but is a minor descriptive detail."
+},
+{
+"url": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=7232",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-13",
+"note": "Quote verbatim (appears in both the release summary and letter text). Letter lists water use, grid/energy demand and who bears costs, renewable commitments, emissions/heat/land use, public safety and community impacts, and demands 'open scrutiny, not limited disclosure' ahead of the Sept 9 town hall."
+},
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-28",
+"note": "Dingell (MI-06) listed among 20 co-signers of the Mullin-led letters to FERC, EEI and the Data Center Coalition. Quote verbatim. Letter addresses transmission/generation costs passed to ratepayers and lack of visibility into utility-data center contracts."
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-09",
+"note": "Speaker tagged 'Rep. Debbie Dingell (D-MI)'. Quote verbatim. She lists 'data privacy, risks, arithmetic bias [sic, likely algorithmic bias], and the growing threat of foreign adversaries' and cites leading the TAKE IT DOWN Act, which passed committee 'yesterday'. Transcript published 2025-04-11; hearing was April 9, 2025."
+},
+{
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404939",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-29",
+"note": "Dingell (MI-06) named as one of six E&C Democrats on the Castor-led letter to Zuckerberg urging Meta halt AI companion bots for under-18 users. Quote verbatim."
+},
+{
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404939",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-29",
+"note": "Same letter; Dingell is a named signer pressing Meta over child safety of AI companion bots. Supports the tech_regulation claim."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF fetched directly (research_tools returned 0 chars for the PDF; extracted with pypdf). Quote verbatim. Letter opposes the NDAA moratorium, a preemption executive order, and conditioning BEAD/other federal funds on states dropping AI laws. 'Debbie Dingell, Member of Congress' appears in the signature block."
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-09",
+"note": "Quote verbatim from Dingell's remarks; she names China as an adversary that could weaponize American data. As the item itself concedes, this is about data security, not chip export controls, so it is weak evidence for the china_chips dimension."
+},
+{
+"url": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=7199",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-12",
+"note": "Quote verbatim, closing line of her Aug 12, 2026 statement on the Los Alamos site selection."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only source is a one-line hearing remark about China weaponizing American data and personal information. Nothing in the evidence addresses semiconductor export controls, chip sales, or Nvidia/China licensing in either direction. General data-security hawkishness toward China is not a position on chip exports; the evidence is too thin to place her on this scale.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

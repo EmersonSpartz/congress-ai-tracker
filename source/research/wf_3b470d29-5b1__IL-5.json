@@ -1,0 +1,469 @@
+[
+{
+"bioguide": "M001211",
+"name": "Mary E. Miller",
+"signature": "Farmland and kids-online-safety conservative: wrote the SCREEN Act age-verification law that passed the House and a bill to keep federal money away from data centers on prime farmland.",
+"notable_quote": {
+"text": "Today's internet has made explicit sexual content more accessible than ever before, and the House took an important step today to protect America's children",
+"url": "https://marymiller.house.gov/media/press-releases/house-passes-rep-millers-screen-act-part-child-online-safety-package",
+"date": "2026-06-29"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Miller sponsored a bill in August 2026 to bar federal financial help for data centers built on prime farmland, a farmland-first limit on the buildout. We found no speeches or statements from her on data centers or electric bills, and she also cosponsors a bill to keep baseload power plants running, so the record is thin.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 10169: bars federal financial benefits for building or expanding data centers on prime farmland",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10169",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "She wants the federal government to stop helping pay for data centers that take the best farmland, a restriction on where the buildout can go."
+},
+{
+"type": "other",
+"title": "GovTrack record: H.R. 10169 introduced Aug. 27, 2026 by Rep. Mary Miller, no cosponsors",
+"url": "https://www.govtrack.us/congress/bills/119/hr10169",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "Confirms she is the lone sponsor of a three-page bill that had not moved past introduction as of Sept 2026."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 3843: Baseload Reliability Protection Act (Fedorchak), keeps baseload plants open in at-risk grid regions",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3843",
+"date": "2025-09-18",
+"quote": null,
+"what_it_shows": "She backs keeping existing power plants running where the grid is short on supply, a build-the-supply answer to rising demand that cuts the other way from her farmland limit."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Her only AI-specific action is cosponsoring a 2024 bill to create an expert commission on how AI is used to exploit children. That leans toward targeted child-safety guardrails, but it is a study bill and we found no statements from her on AI risk, chatbots or deepfakes.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 8005 (118th): Child Exploitation and Artificial Intelligence Expert Commission Act of 2024",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8005",
+"date": "2024-04-15",
+"quote": null,
+"what_it_shows": "She joined a bill to study how AI is used to exploit children and recommend fixes, a narrow child-safety concern rather than a broad AI safety stance."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Miller is a consistent backer of targeted rules aimed at Big Tech and kids' safety. She wrote the SCREEN Act age-verification requirement that passed the House in June 2026, cosponsors a bill to strip social media's legal shield when it removes posts, and has pushed TikTok bans and ed-tech privacy limits. Her framing is openly anti-Big Tech, but the measures are specific fixes rather than break-ups.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 1623: SCREEN Act, age verification for websites with adult content",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-02-26",
+"quote": null,
+"what_it_shows": "She is the lead House author of a national age-verification mandate for porn sites, a specific online-safety rule."
+},
+{
+"type": "statement",
+"title": "Press release: House passes Rep. Miller's SCREEN Act as part of the KIDS Act child online safety package",
+"url": "https://marymiller.house.gov/media/press-releases/house-passes-rep-millers-screen-act-part-child-online-safety-package",
+"date": "2026-06-29",
+"quote": "Today's internet has made explicit sexual content more accessible than ever before, and the House took an important step today to protect America's children",
+"what_it_shows": "She celebrates the House passing her mandate on adult websites and calls it a step to restore accountability online."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 908: Stop the Censorship Act, narrows Section 230 protection for removing objectionable posts",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/908",
+"date": "2025-02-04",
+"quote": null,
+"what_it_shows": "She wants social media companies to lose legal immunity when they take down posts they merely find objectionable, a targeted change to Section 230."
+},
+{
+"type": "statement",
+"title": "Press release: Miller introduces the Safeguarding Children's Privacy in Schools Act (COPPA parental-consent change for ed-tech)",
+"url": "https://marymiller.house.gov/media/press-releases/congresswoman-miller-introduces-safeguarding-childrens-privacy-schools-act",
+"date": "2021-10-19",
+"quote": "We should all be concerned about Big Tech getting ahold of our private information - particularly when it involves our children",
+"what_it_shows": "Early in her tenure she framed ed-tech data collection as a Big Tech threat and proposed a specific privacy fix requiring direct parental consent."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 4927 (118th): ACES Act, cracks down on TikTok and other Chinese-controlled apps",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4927",
+"date": "2023-07-26",
+"quote": null,
+"what_it_shows": "She has repeatedly backed restrictions on Chinese-controlled social media apps over spying concerns."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on whether states or Washington should set AI rules as of Sept 2026. Her only related action is a Yea on the May 2025 House megabill that then carried a 10-year moratorium on state AI laws, a vote on the whole package that does not show a position on preemption.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145 (May 22, 2025): Yea on passage of H.R. 1, which then included a 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "She voted for the House version of the megabill containing the moratorium, but it was a party-line vote on a huge package and she has not spoken on preemption, so this is weak evidence."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "We searched for statements or bills on chip export controls, Nvidia sales to China, or DeepSeek and found none as of Sept 2026. Her China focus has been TikTok and Chinese farmland ownership, not AI chips.",
+"evidence": []
+}
+},
+"search_notes": "Ran 14 Google News queries (AI, data center, farmland, chatbot/deepfake/Section 230/Big Tech, Nvidia/export controls, preemption/moratorium, electricity/ratepayers, SCREEN Act, hearings) plus a site listing of marymiller.house.gov and fetches of her live press release index, the June 29 2026 SCREEN Act release and the 2021 ed-tech privacy release. Verified H.R. 10169 and H.R. 3843 cosponsorship on GovTrack (congress.gov blocks fetches) and her H.R. 1 Yea on GovTrack roll call h145. No press release, local news story or social post about her data center farmland bill was found; no AI, chips or preemption statements found. Coverage of her is dominated by culture-war items unrelated to tech."
+},
+{
+"bioguide": "L000585",
+"name": "Darin LaHood",
+"signature": "China-focused AI security hawk on the Intelligence and China Select committees; co-chairs the Digital Trade Caucus and treats data centers as a local decision.",
+"notable_quote": {
+"text": "Under no circumstances can the United States allow our technology to power CCP propaganda machines, like DeepSeek.",
+"url": "https://lahood.house.gov/2025/5/lahood-bipartisan-colleagues-introduce-bill-to-stop-ai-chip-smuggling-to-china",
+"date": "2025-05-20"
+},
+"groups": [
+"Digital Trade Caucus (Co-Chair)"
+],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "LaHood says data centers are a local decision: communities should choose, with full transparency on water and electricity use, and Washington should not dictate. He says he has seen projects work and fail in his district and that energy costs tied to them need to come down, a balanced stance with no federal ratepayer bill attached.",
+"evidence": [
+{
+"type": "interview",
+"title": "WCBU interview: LaHood on data centers after Trump's Truth Social post backing them",
+"url": "https://www.wcbu.org/local-news/2026-09-08/rep-lahood-says-mail-in-voting-will-not-be-disrupted-trump-should-work-on-affordability",
+"date": "2026-09-08",
+"quote": "If a local community wants to entertain doing that, they need to make the decision. That's number one. Number two, there has to be full transparency. We need to know what is the water use, what is the electricity use",
+"what_it_shows": "He supports letting each community decide and wants disclosure of water and power use, conditions rather than a push to build faster or a call to pause."
+},
+{
+"type": "interview",
+"title": "WCBU interview: LaHood says the federal government should not dictate data center decisions",
+"url": "https://www.wcbu.org/local-news/2026-09-08/rep-lahood-says-mail-in-voting-will-not-be-disrupted-trump-should-work-on-affordability",
+"date": "2026-09-08",
+"quote": "But the federal government shouldn't be dictating that.",
+"what_it_shows": "He rejects a federal role in siting while acknowledging data centers raise utility-bill worries and saying energy costs need to come down."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "LaHood frames AI as a race with China to win. His own AI bill has the NSA write a playbook to protect America's most advanced AI systems from theft, and his statements stress American leadership. We found no position on domestic safety rules such as testing, licensing or liability, so this is a security-first, light-touch posture rather than a stated view on regulation.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 3919: Advanced AI Security Readiness Act, NSA playbook to protect advanced AI from foreign theft",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3919",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "His signature AI bill treats the risk as adversaries stealing American AI, not as harms from the technology itself."
+},
+{
+"type": "statement",
+"title": "Press release: LaHood, bipartisan colleagues introduce legislation to defend American AI innovation",
+"url": "https://lahood.house.gov/2025/6/lahood-bipartisan-colleagues-introduce-legislation-to-defend-american-ai-innovation",
+"date": "2025-06-12",
+"quote": "As AI becomes an integrated part of society, Congress must ensure that the United States fortifies our technology defenses and remains the undeniable leader.",
+"what_it_shows": "He casts Congress's AI job as defending and leading, with no mention of guardrails on how AI is built or used at home."
+},
+{
+"type": "statement",
+"title": "Press release: LaHood, Gottheimer introduce the No DeepSeek on Government Devices Act",
+"url": "https://lahood.house.gov/2025/2/lahood-gottheimer-introduce-legislation-to-counter-ccp-s-deepseek-ai-software",
+"date": "2025-02-06",
+"quote": "It is critical that Congress safeguard Americans' data and continue to ensure American leadership in AI.",
+"what_it_shows": "Again pairs data protection from China with keeping America ahead, the beat-China framing of the light-touch camp."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "LaHood has backed specific fixes, cosponsoring Sammy's Law to let parents plug safety software into social media and the 2024 law forcing TikTok's sale. At the same time, as co-chair of the Digital Trade Caucus, he champions US tech companies against foreign digital rules and free data flows. A targeted kids-and-China-apps record with no broad anti-Big Tech agenda.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 5778 (118th): Sammy's Law of 2023, parents can connect safety software to kids' social media accounts",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5778",
+"date": "2023-12-19",
+"quote": null,
+"what_it_shows": "He supported a specific kids' online safety mandate on large social media platforms."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 7521 (118th): Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divest-or-ban)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "He backed forcing TikTok's Chinese owner to sell, a major government intervention in a tech platform on national security grounds."
+},
+{
+"type": "interview",
+"title": "LaHood's office summary of his POLITICO Tech podcast interview on digital trade policy (with Rep. DelBene)",
+"url": "https://lahood.house.gov/2023/12/lahood-joins-the-politico-tech-podcast-to-discuss-digital-trade-policy",
+"date": "2023-12-06",
+"quote": "I share the concerns of many of my colleagues as it pertains to China and that we not allow China to write the rules of the road for the digital economy.",
+"what_it_shows": "As Digital Trade Caucus co-chair he pushes free data flows and US-written digital rules abroad, a pro-industry stance on trade that sits alongside his targeted domestic votes."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on whether states may write their own AI laws as of Sept 2026. He voted Yea on the May 2025 House megabill that then carried a 10-year state AI-law moratorium, but that was a vote on the whole package. On data centers he says Washington should not dictate to local communities, but he has not applied that view to AI laws.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145 (May 22, 2025): Yea on passage of H.R. 1, which then included a 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House version containing the moratorium, but it was a party-line vote on a huge package and he has never spoken on preemption, so this is weak evidence."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "LaHood is a firm chip hawk. He cosponsors the Chip Security Act (location tracking on advanced chips), the AI OVERWATCH Act (a congressional check on chip sales to China), bans on DeepSeek and Chinese AI in government, and bills to punish AI model theft and reward export-control whistleblowers, and he wrote an NDAA amendment against Chinese semiconductors in military gear.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 3447: Chip Security Act, location verification for advanced AI chips",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "He backs building tracking into exported AI chips so smuggling to China can be caught."
+},
+{
+"type": "statement",
+"title": "Press release: LaHood, bipartisan colleagues introduce bill to stop AI chip smuggling to China",
+"url": "https://lahood.house.gov/2025/5/lahood-bipartisan-colleagues-introduce-bill-to-stop-ai-chip-smuggling-to-china",
+"date": "2025-05-20",
+"quote": "Under no circumstances can the United States allow our technology to power CCP propaganda machines, like DeepSeek.",
+"what_it_shows": "In his own words he wants American chips kept out of Chinese AI development."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6875: AI OVERWATCH Act, lets Congress block advanced AI chip sales to China and other risky countries",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He wants Congress to be able to stop chip sales like the Nvidia H20/H200 deals before they happen."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 1121: No DeepSeek on Government Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-07",
+"quote": null,
+"what_it_shows": "He co-led the House bill to remove the Chinese AI app from federal devices."
+},
+{
+"type": "statement",
+"title": "Press release: LaHood, Gottheimer introduce legislation to counter CCP's DeepSeek AI software",
+"url": "https://lahood.house.gov/2025/2/lahood-gottheimer-introduce-legislation-to-counter-ccp-s-deepseek-ai-software",
+"date": "2025-02-06",
+"quote": "The technology race with the Chinese Communist Party (CCP) is not one the United States can afford to lose",
+"what_it_shows": "He frames Chinese AI as a national security threat and a race the US must win."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8283: Deterring American AI Model Theft Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"date": "2026-04-29",
+"quote": null,
+"what_it_shows": "He backs penalties on foreign companies, especially Chinese ones, that copy or steal American AI models."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6322: Stop Stealing our Chips Act, rewards and protects export-control whistleblowers",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6322",
+"date": "2026-04-27",
+"quote": null,
+"what_it_shows": "He supports stronger enforcement of chip export rules through whistleblower rewards."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 4142: No Adversarial AI Act, bans federal use of AI from China and other rival countries",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4142",
+"date": "2025-06-25",
+"quote": null,
+"what_it_shows": "He wants the US government cut off from Chinese-made AI."
+},
+{
+"type": "statement",
+"title": "WGLT: LaHood's FY27 NDAA amendment directs the Pentagon to stop using Chinese-made silicon carbide semiconductors",
+"url": "https://www.wglt.org/local-news/2026-07-23/israel-transgender-athletes-and-semiconductors-what-central-illinois-congressmen-considered-in-recent-defense-spending-vote",
+"date": "2026-07-23",
+"quote": "With ever-evolving threats and foreign adversaries constantly working to undermine and harm the United States, this bill ensures that our military and intelligence community have the tools they need to handle any threat",
+"what_it_shows": "He extends his China chip hawkishness to the defense bill, pushing the military off Chinese semiconductors and demanding a report on US chip makers."
+}
+]
+}
+},
+"search_notes": "Ran 15 Google News queries (AI, data centers local and general, chips/export controls, digital trade, preemption/moratorium, chatbot/deepfake/Section 230/kids safety, Ways and Means and Intelligence hearings, NDAA amendment) plus a site listing of lahood.house.gov and fetches of his DeepSeek (Feb 2025), Chip Security Act (May 2025) and Advanced AI Security Readiness Act (Jun 2025) releases, his Dec 2023 Politico Tech podcast summary, the WCBU Sept 8 2026 interview, and the WGLT July 23 2026 NDAA story. Verified his H.R. 1 Yea on GovTrack h145 and confirmed he is not a cosponsor of the GUARDRAILS Act, Ratepayer Protection Act or H.R. 6529. The May 11 2026 CIProud interview on data centers is blocked (403) and the Wayback Machine refused connections, so it was not used; a Jan 2026 Chosun Ilbo story on his Digital Trade Caucus letter about South Korea could not be read. His 2026 press releases are not indexed by the archive listing, so newer statements may exist."
+},
+{
+"bioguide": "S001225",
+"name": "Eric Sorensen",
+"signature": "Ex-meteorologist Democrat who wrote the QUIET Act against AI robocall scams and wants data centers to come only if they pay their own way on power.",
+"notable_quote": {
+"text": "There should be no data center that comes into town if it means that your electric rates are going to go up, period. It's so easy to understand",
+"url": "https://www.yahoo.com/news/politics/articles/rep-sorensen-wants-data-centers-021945968.html",
+"date": "2026-08-13"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "high",
+"summary": "Sorensen wants data centers in Illinois but only on strict terms: no rate increases for residents, build their own renewable or nuclear power, use gray water, sit in industrial corridors, and use union labor. He helped introduce the Energy Bills Relief Act and signed a New Democrat letter for a national data center plan, yet he opposes a moratorium, warning projects would go to other states or China. A balance between building and protecting bills.",
+"evidence": [
+{
+"type": "interview",
+"title": "WCBU: Sorensen says set rules for data centers, but don't drive them away (Peoria town hall)",
+"url": "https://www.wcbu.org/local-news/2026-05-29/sorensen-says-set-rules-for-data-centers-but-dont-drive-them-away",
+"date": "2026-05-29",
+"quote": "We're going to have to make sure that there's guard rails in place",
+"what_it_shows": "He lays out three conditions (no higher utility costs, own renewable power and gray water, industrial siting) plus union labor agreements, and says the Energy Bills Relief Act alone is not enough."
+},
+{
+"type": "interview",
+"title": "WCBU: Sorensen warns a moratorium or steep conditions would push data centers elsewhere",
+"url": "https://www.wcbu.org/local-news/2026-05-29/sorensen-says-set-rules-for-data-centers-but-dont-drive-them-away",
+"date": "2026-05-29",
+"quote": "That just means that the data center is going to be built in a right-to-work state",
+"what_it_shows": "He explicitly rejects blocking data centers, saying a moratorium would send projects to Kentucky, Texas or China and that Illinois should be a leader."
+},
+{
+"type": "interview",
+"title": "WMBD (via Yahoo): Rep. Sorensen wants data centers to build their own electricity (Peoria energy-cost roundtable)",
+"url": "https://www.yahoo.com/news/politics/articles/rep-sorensen-wants-data-centers-021945968.html",
+"date": "2026-08-13",
+"quote": "There should be no data center that comes into town if it means that your electric rates are going to go up, period. It's so easy to understand",
+"what_it_shows": "His firmest ratepayer line: any data center that would raise bills must add its own solar, wind or nuclear supply; he also backs small modular reactors."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 7977: Energy Bills Relief Act (Casten/Levin), makes large new loads like data centers pay their own grid costs",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03",
+"quote": null,
+"what_it_shows": "He was an original cosponsor of the main House Democratic bill to keep data center grid costs off household electric bills."
+},
+{
+"type": "letter",
+"title": "New Democrat Coalition letter to House appropriators requesting a DOE National Strategic Data Center Plan (Sorensen is a signer)",
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"date": "2026-03-19",
+"quote": "Rapidly increasing demand for data centers, driven by cloud computing and AI, is vital for America's economy and competitiveness. However, this expansion strains electricity grids, land, water, and community infrastructure",
+"what_it_shows": "He joined 13 New Democrats calling data centers vital but asking DOE for an 18-month plan on grid reliability, consumer costs and water use, a managed-growth position."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Sorensen's AI work targets one specific harm: his QUIET Act would make robocallers disclose AI-generated voices and raise penalties for AI impersonation scams, a bill AARP backs that got a House subcommittee hearing in July 2026. He has not taken positions on frontier AI safety, testing or licensing. The AI industry's Think Big PAC listed him as an endorsee in 2026 without spending for him.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 1027: QUIET Act, AI robocalls must disclose AI use and penalties rise for AI impersonation scams",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-02-05",
+"quote": null,
+"what_it_shows": "He is the lead sponsor of a targeted AI disclosure and penalty bill aimed at voice-cloning scams."
+},
+{
+"type": "statement",
+"title": "Press release: Sorensen reintroduces bipartisan bill to crack down on AI robocalls",
+"url": "https://sorensen.house.gov/media/press-releases/sorensen-reintroduces-bipartisan-bill-crack-down-ai-robocalls",
+"date": "2025-02-05",
+"quote": "This bill puts real penalties in place to stop scammers from using AI and reduces the frustrating scam calls that unfairly target seniors and vulnerable communities.",
+"what_it_shows": "He frames AI as a tool scammers use to impersonate loved ones, banks and government, and wants penalties to match."
+},
+{
+"type": "statement",
+"title": "Press release: Sorensen's bipartisan bill to fight robocall scams clears key step (E&C subcommittee hearing)",
+"url": "https://sorensen.house.gov/media/press-releases/sorensens-bipartisan-bill-fight-robocall-scams-clears-key-step",
+"date": "2026-07-28",
+"quote": "Congress has a responsibility to act. My bipartisan QUIET Act will hold scammers accountable and better protect seniors, families, and consumers from fraud.",
+"what_it_shows": "He is still pressing the bill in 2026 and submitted a statement urging the committee to advance it."
+},
+{
+"type": "pac",
+"title": "The New Republic: Think Big (Leading the Future's Democratic arm) lists Sorensen among endorsees it did not fund",
+"url": "https://newrepublic.com/post/215341/anthropic-ai-regulate-money-extinction",
+"date": "2026-09-11",
+"quote": "Think Big has also offered endorsements (but not financial support) to Sam Liccardo, Josh Gottheimer, Jimmy Gomez, Tom Suozzi, Eric Sorensen",
+"what_it_shows": "The AI industry super PAC network that fights strict AI rules counts him as friendly enough to endorse, though it reports no spending on his behalf."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "His tech record is about robocall and scam enforcement: the QUIET Act, an AARP-endorsed push for AI disclosure and higher fines, and earlier pressure on the FCC. We found no positions on Section 230, antitrust or a broad privacy law, so this is a targeted-fix profile.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 1027: QUIET Act, higher fines for illegal robocalls and AI disclosure",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-02-05",
+"quote": null,
+"what_it_shows": "A specific consumer-protection rule on robocalls, the classic targeted fix."
+},
+{
+"type": "statement",
+"title": "Press release: AARP endorses Sorensen, Ciscomani bill to crack down on AI robocalls",
+"url": "https://sorensen.house.gov/media/press-releases/aarp-endorses-sorensen-ciscomani-bill-crack-down-ai-robocalls",
+"date": "2025-04-04",
+"quote": "Endless robocalls are more than just annoying and frustrating, they can cause seniors to lose entire life savings when malicious scammers take advantage of new technology",
+"what_it_shows": "He sells the bill as senior protection and notes he previously led a bipartisan push for the FCC to lay out its anti-scam plans."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. He did not sign the Nov 2025 Matsui letter (81 House Democrats) or the Dec 2025 Clarke letter opposing a state AI-law moratorium, and he is not a cosponsor of the GUARDRAILS Act. We found no statements on the Dec 2025 executive order or the Mar 2026 White House framework.",
+"evidence": [
+{
+"type": "other",
+"title": "Matsui letter opposing an AI moratorium in the NDAA and the preemption executive order (81 signers; Sorensen is not among them)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": null,
+"what_it_shows": "Seven Illinois Democrats signed this anti-preemption letter; Sorensen did not, which leaves him without a recorded position either way."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "We searched for statements or bills on chip export controls, Nvidia sales to China, or DeepSeek and found none as of Sept 2026. His only mention in that lane is a warning that a data center moratorium would send projects to China.",
+"evidence": []
+}
+},
+"search_notes": "Ran 14 Google News queries (AI, data centers, QUIET Act, Think Big/Leading the Future, chatbot/deepfake/Section 230, preemption/moratorium, chips/export controls, Armed Services AI, Energy Bills Relief Act, town halls, local TV) plus a site listing of sorensen.house.gov and fetches of his live press release index and the Feb 2025, Apr 2025 and Jul 2026 QUIET Act releases, the WCBU May 29 2026 town hall story, the WMBD/Yahoo Aug 13 2026 roundtable story, the WGLT July 2026 NDAA story, and The New Republic Sept 11 2026 PAC piece. Verified original cosponsorship of H.R. 7977 on GovTrack and confirmed he is not a cosponsor of H.R. 8031, 9340, 9442 or 6529. Extracted the New Democrat Coalition data center letter PDF locally (he is a signer) and the Matsui letter PDF (he is not). No statements found on chips, preemption, or frontier AI risk. A Feb 2026 Politico Illinois Playbook item on AI PAC money could not be opened."
+}
+]

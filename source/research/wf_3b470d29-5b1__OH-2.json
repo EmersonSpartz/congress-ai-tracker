@@ -1,0 +1,513 @@
+[
+{
+"bioguide": "B001281",
+"name": "Joyce Beatty",
+"signature": "Financial Services Democrat best known for suing Trump over the Kennedy Center; on AI she has only cosponsored bills against AI discrimination and election deepfakes.",
+"notable_quote": null,
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "No speeches or statements on data centers were found. Her only signal is joining a House Democratic bill to give households relief from high energy bills, part of the Democratic response to data center driven rate increases in Ohio.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7977, Energy Bills Relief Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-05-13",
+"quote": null,
+"what_it_shows": "She joined a Democratic bill whose stated purpose is to provide relief from high energy bills, the lane Ohio Democrats use to make data centers pay their own way; joined May 13, 2026 per official bill status data."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "She backs targeted rules: a ban on AI discrimination with required bias checks, and a ban on AI deepfakes that trick voters. No statements found on frontier AI dangers. The industry aligned Think Big PAC endorsed her without spending money, which cuts the other way.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6356, Artificial Intelligence Civil Rights Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "Supports a bill that bans discriminatory AI systems and requires companies to test their AI for unfair treatment before and after use."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 8858, Securing Elections From AI Deception Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "Backed a ban on using AI made fake images, audio or video to deceive voters in federal elections."
+},
+{
+"type": "pac",
+"title": "New Republic: Think Big PAC (Leading the Future's Democratic arm) endorsed Beatty without financial support",
+"url": "https://newrepublic.com/post/215341/anthropic-ai-regulate-money-extinction",
+"date": "2026-09-11",
+"quote": "Think Big has also offered endorsements (but not financial support) to Sam Liccardo, Josh Gottheimer, Jimmy Gomez, Tom Suozzi, Eric Sorensen, Joyce Beatty, Herb Conaway, Emilia Sykes, and Suhas Subramanyam.",
+"what_it_shows": "The super PAC network that fights state AI safety laws counts her as an ally, at least on paper; it reported no spending for her."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "She supports specific fixes: stopping companies from selling reproductive health data and cracking down on foreign scam robocalls. Nothing found on Section 230, antitrust or kids online safety.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3218, Reproductive Data Privacy and Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2026-06-25",
+"quote": null,
+"what_it_shows": "Backs a privacy rule that stops companies collecting or selling reproductive health data without permission."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6152, Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-09-01",
+"quote": null,
+"what_it_shows": "Supports a crackdown on scam robocalls coming from overseas."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. She did not sign the Nov 26, 2025 Matsui letter or the Dec 3, 2025 Clarke letter against a state AI law moratorium (both signer lists checked), and no statements on preemption were found. Her vote against H.R. 1 was a party line vote on the whole budget bill.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 1 (House passage, May 22, 2025), the version carrying the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "She voted against the reconciliation bill that contained the moratorium, but every House Democrat did, so it says little about preemption itself."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements, bills or letters found on chip export controls or Nvidia sales to China as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Ran 10 Google News queries (AI, data centers, chatbot/deepfake, Big Tech/Section 230, electricity bills, Financial Services AI hearings, social media, AI bias) plus fetches of beatty.house.gov press release pages 1-3 and her caucus page; coverage since Dec 2025 is almost entirely her Kennedy Center lawsuit. Verified her H.R. 7977 cosponsorship (2026-05-13) and H.R. 1 Nay vote via govinfo and govtrack. Downloaded the Matsui letter PDF and fetched the Clarke letter: she is not a signer of either. Wayback site listing tool failed (503/connection refused) so used direct site fetches. No verbatim AI quote from her located."
+},
+{
+"bioguide": "J000289",
+"name": "Jim Jordan",
+"signature": "House Judiciary chairman who treats AI and Big Tech as a censorship fight and signed the House GOP pledge to enact the White House national AI framework.",
+"notable_quote": {
+"text": "The Public Utilities Commission of Ohio has said that if data centers come into a community, they can't drive up the cost of electricity for the other consumers, for residents and other users. I think that's a good thing.",
+"url": "https://www.richlandsource.com/2026/06/02/jim-jordan-talks-data-centers-child-care-and-oversight-during-visit-to-shelby/",
+"date": "2026-06-02"
+},
+"groups": [
+"Chairman, House Committee on the Judiciary",
+"Signer, House Republican leadership statement committing to implement the White House National AI Framework (Mar 20, 2026)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Wants data centers built to win the AI race with China, but says they must not raise other customers' electric bills, should be studied for water and noise effects and kept out of residential areas. He cosponsored the bipartisan Ratepayer Protection Act.",
+"evidence": [
+{
+"type": "interview",
+"title": "Richland Source interview in Shelby, Ohio: Jordan on data center regulation",
+"url": "https://www.richlandsource.com/2026/06/02/jim-jordan-talks-data-centers-child-care-and-oversight-during-visit-to-shelby/",
+"date": "2026-06-02",
+"quote": "The Public Utilities Commission of Ohio has said that if data centers come into a community, they can't drive up the cost of electricity for the other consumers, for residents and other users. I think that's a good thing.",
+"what_it_shows": "He endorses Ohio's approach of shielding other ratepayers from data center costs and backs a state study of long term concerns."
+},
+{
+"type": "interview",
+"title": "Richland Source interview: Jordan on balancing the AI race with local concerns",
+"url": "https://www.richlandsource.com/2026/06/02/jim-jordan-talks-data-centers-child-care-and-oversight-during-visit-to-shelby/",
+"date": "2026-06-02",
+"quote": "There's also the idea that we want to make sure we win the AI race against China.",
+"what_it_shows": "He frames data centers as needed for national defense and growth and says the answer is smart siting, not blocking them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9340, Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-09-01",
+"quote": null,
+"what_it_shows": "Joined the bipartisan bill directing state regulators to make large loads like data centers pay their own generation and grid costs."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Treats AI as a race with China where Congress should give companies certainty, with protections for kids and consumers. His own AI oversight has targeted alleged government pressure on AI firms to censor speech, not safety risks from the technology.",
+"evidence": [
+{
+"type": "statement",
+"title": "Joint statement: Johnson, Scalise, Guthrie, Jordan, Babin on the White House National AI Framework",
+"url": "https://www.speaker.gov/johnson-scalise-guthrie-jordan-babin-house-will-work-to-implement-national-ai-framework/",
+"date": "2026-03-20",
+"quote": "Today, the Trump Administration took a critical step in releasing a framework that gives Congress a roadmap to pursue legislation that provides innovators with much-needed certainty, while protecting consumers and prioritizing kids' online safety.",
+"what_it_shows": "His stated goals for AI law are certainty for innovators and beating China, with kids' safety as the main guardrail."
+},
+{
+"type": "letter",
+"title": "TechCrunch: Jordan sends letters to 16 AI and tech firms asking whether the Biden administration pushed them to censor AI outputs",
+"url": "https://techcrunch.com/2025/03/14/republican-congressman-jim-jordan-asks-big-tech-if-biden-tried-to-censor-ai/",
+"date": "2025-03-14",
+"quote": null,
+"what_it_shows": "As Judiciary chairman he demanded records from Google, OpenAI, Anthropic, Nvidia and others on alleged government coercion to censor lawful speech in AI products; his AI concern is speech control, not catastrophic risk."
+}
+]
+},
+"tech_regulation": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. He is hostile to Big Tech over content moderation and fights EU platform rules he calls censorship, but his bills bar government from pressuring platforms rather than regulating the companies, and he has not backed antitrust breakups, privacy law or kids online safety bills.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor (118th): H.R. 4791, Free Speech Protection Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4791",
+"date": "2023-07-20",
+"quote": null,
+"what_it_shows": "His signature tech bill limits government officials, not platforms: it bars them from pressuring social media companies to take down posts."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 140, Protecting Speech from Government Interference Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/140",
+"date": "2023-01-09",
+"quote": null,
+"what_it_shows": "Same anti jawboning approach: bans federal workers from pushing platforms to hide content."
+},
+{
+"type": "letter",
+"title": "Judiciary press release: Chairman Jordan letters to ten tech companies, including OpenAI, on communications with EU regulators",
+"url": "https://judiciary.house.gov/media/press-releases/chairman-jordan-probes-eu-bureaucrats-hiding-efforts-censor-american-speech",
+"date": "2026-03-16",
+"quote": null,
+"what_it_shows": "He is using subpoenas to fight the EU Digital Services Act as foreign censorship, positioning himself against government content rules on platforms and AI chatbots."
+}
+]
+},
+"preemption": {
+"score": 2,
+"confidence": "medium",
+"summary": "Signed the March 2026 House GOP leadership pledge to enact the White House national AI framework, which calls for preempting state AI laws, and voted for the House version of H.R. 1 that carried the 10-year moratorium. He has not discussed preemption in his own words.",
+"evidence": [
+{
+"type": "statement",
+"title": "Joint statement: House will work to implement the National AI Framework",
+"url": "https://www.speaker.gov/johnson-scalise-guthrie-jordan-babin-house-will-work-to-implement-national-ai-framework/",
+"date": "2026-03-20",
+"quote": "House Republicans look forward to working across the aisle to enact a national framework that unleashes the full potential of AI, cements the U.S. as the global leader, and provides important protections for American families.",
+"what_it_shows": "As chairman of one of the committees with jurisdiction, he committed to legislate the White House framework whose central feature is one national rule over state AI laws."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 1 (House passage, May 22, 2025), the version carrying the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House bill containing the moratorium; a party line vote on a large budget bill, so weak on its own."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, letters or bills found on chip export controls, Nvidia sales to China or the Chip Security Act as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Ran 12 Google News queries (AI, data centers, OpenAI/Altman, Section 230, KOSA, Big Tech antitrust, EU Digital Services Act, preemption/moratorium, chips/export controls, town halls) and fetched Richland Source, speaker.gov, TechCrunch, judiciary.house.gov press release pages 1-5 and the Mar 16, 2026 EU letters release. Confirmed H.R. 1 Yea via govtrack. Could not open Bloomberg Law (Nov 2025, Jordan presses OpenAI CEO over foreign rules) or Politico 'Is AI the exception to America First' (Google decode rate limited); the Feb 3, 2026 Judiciary EU censorship report release was seen only on a paginated listing so it was not cited. jordan.house.gov site listing failed (Wayback connection refused)."
+},
+{
+"bioguide": "L000566",
+"name": "Robert E. Latta",
+"signature": "Energy and Commerce Energy Subcommittee chairman driving the House GOP's build-more-power answer to the AI boom while asking the FBI to probe foreign influence behind data center opposition.",
+"notable_quote": {
+"text": "At the same time, the American people are understandably uneasy. Many question whether AI, and the data centers that power it, will ultimately do more harm than good, particularly when it comes to individual energy costs.",
+"url": "https://energycommerce.house.gov/posts/chairman-latta-delivers-opening-statement-at-subcommittee-on-energy-hearing-on-meeting-growing-power-demand-while-protecting-ratepayers",
+"date": "2026-04-29"
+},
+"groups": [
+"Chairman, House Energy and Commerce Subcommittee on Energy",
+"Co-Chair, Congressional Robotics Caucus",
+"Member, Congressional Artificial Intelligence Caucus (reported by landscape research; caucus roster page could not be opened)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Wants data centers and new power plants built fast to win the AI race with China, calls moratorium proposals disastrous and asked the FBI to investigate alleged foreign influence behind local opposition. At the same time he says households should not pay for data centers' grid costs and moved the Ratepayer Protection Act through his subcommittee.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement, Energy Subcommittee hearing on meeting power demand while protecting ratepayers",
+"url": "https://energycommerce.house.gov/posts/chairman-latta-delivers-opening-statement-at-subcommittee-on-energy-hearing-on-meeting-growing-power-demand-while-protecting-ratepayers",
+"date": "2026-04-29",
+"quote": "That's why it's vital that we ensure that interconnecting new data centers lower costs and brings benefits to households like grid modernization, more dispatchable energy resources, and significant state and local tax revenue.",
+"what_it_shows": "He argues data centers can lower household costs if connected the right way, and cites lab research saying data center load growth lowers retail rates."
+},
+{
+"type": "hearing",
+"title": "Opening statement, Energy Subcommittee markup of eight bills including the Ratepayer Protection Act",
+"url": "https://republicans-energycommerce.house.gov/posts/chairman-latta-delivers-opening-statement-at-subcommittee-on-energy",
+"date": "2026-06-24",
+"quote": "hardworking American households should not foot the bill for the costs that are caused by growing electricity demand from large energy users.",
+"what_it_shows": "He backs a light touch federal push for state large load tariffs so data centers, not families, pay for their own grid costs."
+},
+{
+"type": "letter",
+"title": "Chairmen Guthrie, Joyce and Latta letter to PCAST and FBI Director Patel on foreign influence behind data center opposition",
+"url": "https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=391066",
+"date": "2026-06-04",
+"quote": "This new information comes as states and localities continue to examine potential pauses and moratoriums on data center construction, an effort that is backstopped by Senator Bernie Sander's disastrous AI Data Center Moratorium Act.",
+"what_it_shows": "He treats local moratorium efforts as a threat possibly fed by Chinese linked influence campaigns and asked federal investigators to look into it."
+},
+{
+"type": "hearing",
+"title": "Opening statement, Apr 29, 2026 hearing: acknowledges public unease about AI and data centers",
+"url": "https://energycommerce.house.gov/posts/chairman-latta-delivers-opening-statement-at-subcommittee-on-energy-hearing-on-meeting-growing-power-demand-while-protecting-ratepayers",
+"date": "2026-04-29",
+"quote": "At the same time, the American people are understandably uneasy. Many question whether AI, and the data centers that power it, will ultimately do more harm than good, particularly when it comes to individual energy costs.",
+"what_it_shows": "He says cost concerns deserve to be taken seriously, the conditions side of his build first position."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Sees AI as a race with China and a security problem: the risks he names are adversaries misusing AI models and AI discovered software flaws. He leads bipartisan letters on coordinating vulnerability disclosures and a bill against Chinese theft of US models, but no support found for binding safety rules on AI developers.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement, Energy Subcommittee markup: winning the AI race with China",
+"url": "https://republicans-energycommerce.house.gov/posts/chairman-latta-delivers-opening-statement-at-subcommittee-on-energy",
+"date": "2026-06-24",
+"quote": "Welcome to today's subcommittee markup to consider eight bills to lower costs for households and promote innovation in our electric sector while ensuring the U.S. remains in pole position to win the race with Communist China for AI development.",
+"what_it_shows": "His AI framing is competition with China and innovation, not restraint."
+},
+{
+"type": "hearing",
+"title": "Opening statement, Apr 29, 2026 hearing: AI risks from malign actors",
+"url": "https://energycommerce.house.gov/posts/chairman-latta-delivers-opening-statement-at-subcommittee-on-energy-hearing-on-meeting-growing-power-demand-while-protecting-ratepayers",
+"date": "2026-04-29",
+"quote": "The ability of malign actors like Russia and Communist China using AI models to disrupt global economies are no longer theoretical, but a reality.",
+"what_it_shows": "The AI danger he highlights is adversary misuse, which argues for US speed rather than domestic limits."
+},
+{
+"type": "letter",
+"title": "MeriTalk: Latta and Matsui lead 35 House members asking the National Cyber Director for a plan on AI discovered software vulnerabilities",
+"url": "https://www.meritalk.com/articles/lawmakers-plead-for-ai-vulnerability-disclosure-plan/",
+"date": "2026-05-13",
+"quote": "If AI can find serious vulnerabilities in widely used software, China and other bad actors will look for ways to use similar tools against us.",
+"what_it_shows": "He responded to Anthropic's Claude Mythos findings by asking for government and industry coordination on defense, a voluntary rather than regulatory approach."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted, security driven tech rules: forcing TikTok's sale, banning Chinese linked connected car technology, a router security study and a foreign robocall crackdown. Nothing found on antitrust breakups or broad privacy mandates.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 866, ROUTERS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/866",
+"date": "2025-01-31",
+"quote": null,
+"what_it_shows": "His own bill orders a study of security risks from routers made by companies tied to China or Russia."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-05-13",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-05",
+"quote": null,
+"what_it_shows": "Backed forcing TikTok's Chinese owner to sell or face a ban."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6152, Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Supports a crackdown on scam robocalls from overseas."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "The only signal is his vote for the House version of H.R. 1, which carried the 10-year moratorium on state AI laws; that was a party line vote on the whole budget bill. No statements from him on preempting state AI laws were found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 1 (House passage, May 22, 2025), the version carrying the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the bill containing the moratorium, but so did nearly every House Republican, so this is weak evidence."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Wants tighter controls on China: location tracking for exported AI chips, a congressional check before chip sales to China, penalties for Chinese firms that copy US AI models, and security reviews of Chinese made routers.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3447, Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "Supports requiring built in location verification on advanced AI chips to catch smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6875, AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-08-03",
+"quote": null,
+"what_it_shows": "Supports giving Congress power to block advanced AI chip sales to China and other risky countries before they happen."
+},
+{
+"type": "other",
+"title": "International Business Times: Latta is lead House Republican on a bipartisan bill targeting Chinese AI companies accused of copying US models",
+"url": "https://www.ibtimes.com/us-companies-claim-china-using-their-tech-build-ai-models-now-congress-wants-take-action-3805650",
+"date": "2026-07-23",
+"quote": "The legislation is being introduced by Sens. Adam Schiff, D-Calif., and Jim Banks, R-Ind., and Reps. Bob Latta, R-Ohio, and George Whitesides, D-Calif.",
+"what_it_shows": "He is leading legislation to treat Chinese theft of US AI technology as a security threat; bill number not confirmed from official sources."
+},
+{
+"type": "sponsor",
+"title": "Sponsor (118th): H.R. 7589, ROUTERS Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7589",
+"date": "2024-03-08",
+"quote": null,
+"what_it_shows": "Earlier version of his study of security risks from routers made in adversary countries like China."
+}
+]
+}
+},
+"search_notes": "Ran 12 Google News queries (AI, data centers/ratepayers, chips/export controls, preemption, kids/privacy, chatbots, AI Caucus/Robotics Caucus, AI Model Theft Act, Aug 2026 remarks) and fetched both E&C opening statements, the Guthrie/Joyce/Latta letter release, MeriTalk, IBTimes, Bowling Green Daily News and E&E. Lima News (Aug 29, 2026 'data center should be the one doing it, not the customer' quote) returned 403 and was not in Wayback, so that quote was not used; Cleveland.com and Politico were also blocked. H.R. 8283 (Deterring American AI Model Theft Act) is sponsored by Huizenga, not Latta, so the IBTimes bill is a different measure cited as type other. Robotics Caucus co-chair role confirmed by McGovern release and Cleveland.com headlines; AI Caucus roster page did not resolve. latta.house.gov press index returned no documents. H.R. 1 Yea confirmed via govtrack."
+},
+{
+"bioguide": "R000619",
+"name": "Michael A. Rulli",
+"signature": "Second-term Energy and Commerce Republican who went on Fox Business to argue the US must get its data center buildout right or China wins.",
+"notable_quote": null,
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Pro-buildout. On Fox Business he discussed the $500 billion OpenAI and Nvidia backed Ohio data center project and warned China wins if the US does not fix its infrastructure strategy, while acknowledging constituent worries about land use and utility bills. He cosponsored GOP bills to speed dispatchable power onto the grid.",
+"evidence": [
+{
+"type": "interview",
+"title": "Fox Business, Mornings with Maria: 'GOP lawmaker says US needs to do better regarding data centers: China's going to win this war'",
+"url": "https://www.foxbusiness.com/video/6404192320112",
+"date": "2026-08-28",
+"quote": "Rulli warns that the U.S. must improve its infrastructure strategy to stay ahead of China while addressing constituent concerns regarding land use and utility costs.",
+"what_it_shows": "The quote is the network's summary of the segment, not his words; the clip title attributes to him the warning that China wins the AI war if the US does not build better."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1047, GRID Power Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1047",
+"date": "2025-06-24",
+"quote": null,
+"what_it_shows": "Backed prioritizing dispatchable power plants in grid interconnection queues, the House GOP answer to data center demand; joined June 24, 2025 per official bill status data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3616, Reliable Power Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3616",
+"date": "2025-06-24",
+"quote": null,
+"what_it_shows": "Backed requiring FERC to review rules that could hurt grid reliability, part of the same build more power push."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searches for his views on AI safety, chatbots or deepfakes turned up nothing; his only AI adjacent remarks frame data centers as a race with China.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Supports specific security driven rules: banning Chinese linked connected car technology and cracking down on foreign robocalls. He also introduced a measure condemning UK speech laws, suggesting a free speech lens on platform rules.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-22",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and parts from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6152, Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-08-13",
+"quote": null,
+"what_it_shows": "Supports a crackdown on overseas scam robocalls."
+},
+{
+"type": "statement",
+"title": "Press release listing: 'Rulli Condemns UK Speech Laws Amid Royal Visit'",
+"url": "https://rulli.house.gov/newsroom/",
+"date": null,
+"quote": null,
+"what_it_shows": "He introduced a measure attacking British online speech laws, a sign he views government content rules as censorship; only the headline and first line were readable."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "The only signal is his vote for the House version of H.R. 1, which carried the 10-year moratorium on state AI laws; a party line vote on the whole budget bill. No statements on preemption found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 1 (House passage, May 22, 2025), the version carrying the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the bill containing the moratorium, as did nearly every House Republican, so this is weak evidence."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on chip export controls or Nvidia sales to China as of Sept 2026; his China related votes concern connected cars, not chips.",
+"evidence": []
+}
+},
+"search_notes": "Ran 10 Google News queries (AI, data centers, local data center coverage, Fox Business, X bot farm story, Piketon project, E&C AI, stock trades) and fetched the Fox Business clip page, rulli.house.gov home and newsroom pages, and govinfo bill status for H.R. 1047 and H.R. 3616 (both cosponsored 2025-06-24). The Yahoo Finance text version of the Fox interview and the Fox Business X bot farm article could not be decoded (Google rate limit), so no verbatim words from him were captured. Reports that he bought Equinix (data center REIT) stock on Aug 7, 2026 (Quiver, MarketBeat) could not be opened and were left out. The state context's Baseload Reliability Protection Act cosponsorship was not verified. rulli.house.gov/media/press-releases returns 404; the newsroom shows no AI or data center releases. H.R. 1 Yea confirmed via govtrack."
+}
+]

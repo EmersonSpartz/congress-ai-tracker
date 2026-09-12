@@ -1,0 +1,200 @@
+[
+{
+"bioguide": "M001218",
+"checks": [
+{
+"url": "https://rollcall.com/2026/02/24/trump-touts-push-to-contain-ai-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-24",
+"note": "Roll Call names McCormick as the subcommittee chair, quotes the electricity line verbatim, and says he commended companies funding their own generation; the hearing emphasized speeding permitting. The hearing title 'Powering America's AI Future' does not appear in the article."
+},
+{
+"url": "https://rollcall.com/2026/02/24/trump-touts-push-to-contain-ai-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-24",
+"note": "Quote verbatim; preceded by 'Under traditional utility rate structures, infrastructure costs are spread across all customers. That also needs to be addressed.' Claim matches."
+},
+{
+"url": "https://www.eenews.net/articles/lawmakers-split-on-speeding-up-data-center-permitting/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-25",
+"note": "E&E News quotes him verbatim as chair of the Science Subcommittee on Investigations and Oversight; full quote also says 'I am not advocating that we eliminate all environmental review.' Article dated Feb 25, 2026 about the Feb 24 hearing."
+},
+{
+"url": "https://mccormick.house.gov/media/videos",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-08-23",
+"note": "The official videos page lists 'Congressman McCormick Joins Bloomberg This Weekend to Talk Data Centers and AI' (Aug 23, 2026), but the Bloomberg segment titles cited in the claim ('Warns Against Slowing AI Buildout', 'Data Center Investment Will Make Communities Better') do not appear on this page and could not be verified from it."
+},
+{
+"url": "https://www.washingtonexaminer.com/op-eds/3407945/dont-let-ai-slip-away-why-us-policy-must-match-innovation/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-12",
+"note": "Quote verbatim, attributed as what Huang and other leaders told him and which he endorses. Op-ed frames policy around leadership, export rules and industry thriving; it does mention 'regulatory frameworks that prevent our adversaries from benefiting,' but no safety mandates."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "McCormick is named on Leading the Future's House GOP Champions list; quote verbatim. PAC describes goal as a national framework with 'basic safety standards' and pro-AI innovation agenda."
+},
+{
+"url": "https://georgiarecorder.com/2025/02/26/bill-to-help-guide-georgias-ai-growth-stalled-after-gop-u-s-rep-mccormick-raises-concerns/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-26",
+"note": "Reached via Wayback. Beach quote verbatim; he adds McCormick thinks the U.S. is competing with China and a state-by-state patchwork is a problem. Bill did not get a committee vote that day. Exact bill name not verified in the excerpt read."
+},
+{
+"url": "https://mccormick.house.gov/media/press-releases/big-win-us-tech-rescission-biden-administrations-ai-export-rule",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-08",
+"note": "Quote verbatim. Release describes the McCormick-Franklin letter to Lutnick urging reconsideration of BIS Rule 00636 (AI Diffusion Rule) and says the administration 'concurred' before rescinding it May 7, 2025."
+},
+{
+"url": "https://www.washingtonexaminer.com/op-eds/3407945/dont-let-ai-slip-away-why-us-policy-must-match-innovation/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-12",
+"note": "Quote verbatim. He says the rule's scope could have limited U.S. companies in 150+ countries including NATO allies and 'ceded ground in emerging markets to our adversaries as China seeks to outcompete us.'"
+},
+{
+"url": "https://thehill.com/policy/technology/5699863-congress-ai-overwatch-act-chips-export/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Quote verbatim; panel voted 42-2-1 on the AI Overwatch Act, modeled on arms-sale congressional review. The Hill article gives no explanation from McCormick; the 'Roll Call reported he did not explain' detail is not in this source."
+},
+{
+"url": "https://mccormick.house.gov/media/press-releases/congressman-mccormick-bans-china-exploiting-american-ai",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2023-07-18",
+"note": "Quote verbatim and the bill description (stop China remotely accessing chips it cannot buy under export controls) matches. But the release calls him a co-sponsor ('proud to co-sponsor'), not a co-author; the item overstates his role."
+},
+{
+"url": "https://mccormick.house.gov/media/press-releases/big-win-us-tech-rescission-biden-administrations-ai-export-rule",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-08",
+"note": "Headline quote appears verbatim, attributed to McCormick."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The sources show a consistent pro-export posture since 2025: he led the push to kill the AI Diffusion Rule and claimed credit for its rescission, argued controls on allies cede markets to China, and was one of only two committee votes against the AI Overwatch Act's congressional review of chip sales to China. The only countervailing item is a 2023 co-sponsorship of a narrow loophole-closing bill (CLOUD AI Act) that does not restrict sales. 'Mixed' understates the tilt; 'Leans sell more' fits better than 0.",
+"suggested_score": 1,
+"suggested_label": "Leans sell more"
+}
+]
+},
+{
+"bioguide": "S001189",
+"checks": [
+{
+"url": "https://www.walb.com/2026/07/17/south-georgia-congressmen-say-data-centers-need-guardrails-before-moving-forward/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Quote appears verbatim, attributed to Scott; full sentence continues '… and that there's no increased cost of power for the citizens of the communities that they come into… protect their water supply… protect their power supply and their power bill.' Article frames this as guardrails so residents are not left with higher power bills or strained water."
+},
+{
+"url": "https://www.walb.com/2026/07/17/south-georgia-congressmen-say-data-centers-need-guardrails-before-moving-forward/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Verbatim. Scott says computing is 'a big part of national security' and that centers built outside the U.S. would put 'everybody's personal information… all over the world.' Supports pro-domestic-build-with-conditions reading."
+},
+{
+"url": "https://www.walb.com/2026/07/17/south-georgia-congressmen-say-data-centers-need-guardrails-before-moving-forward/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Verbatim. Article says residents 'should expect limits and transparency' and Scott adds 'Closed-loop systems don't use nearly as much water as the old systems do… we need to make sure that we're talking about what kind of cooling systems they have.'"
+},
+{
+"url": "https://www.walb.com/2026/07/17/south-georgia-congressmen-say-data-centers-need-guardrails-before-moving-forward/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Verbatim, attributed to Scott."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "C001116",
+"checks": [
+{
+"url": "https://rules.house.gov/bill/119/hr-4776",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-12-04",
+"note": "Rules Committee page (dated 2025-12-04) lists amendment #34, Version 3, Clyde (GA), Roy (TX), Brecheen (OK), Republican, Late, Revised, with the quoted description verbatim and status 'Made in Order'. It supports that Clyde sponsored a NEPA-standing amendment to the SPEED Act and that it was made in order. The page does not report any floor outcome, so the claim that the amendment 'failed on the floor' is not supported by this source; that part needs a Clerk roll-call or Congress.gov citation."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only item is a NEPA judicial-review amendment to a general permitting bill; it never mentions data centers, and its direction (narrowing standing to sue against projects) is closer to 'Build faster' than 'Build with conditions'. Evidence is too thin and off-topic to anchor a data_centers score at +1; if a score is kept on this evidence alone it should lean +2, otherwise leave unset.",
+"suggested_score": 2,
+"suggested_label": "Build faster"
+},
+{
+"dimension": "tech_regulation",
+"objection": "No source item in this batch concerns tech regulation or Big Tech at all; the +1 'Light touch' score has no evidence behind it here.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "C001129",
+"checks": [
+{
+"url": "https://www.wtoc.com/2026/08/11/collins-campaigns-savannah-touts-port-funding-legislative-record/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-11",
+"note": "Quote appears verbatim. Article paraphrases Collins saying local governments should have local control over siting and facilities should not be placed where they damage local infrastructure; no federal limits proposed. Note the 'local control' line is Collins's own words, while the infrastructure-damage point is the reporter's paraphrase."
+},
+{
+"url": "https://www.wtoc.com/2026/08/11/collins-campaigns-savannah-touts-port-funding-legislative-record/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-11",
+"note": "Quote verbatim, delivered in the data-center section of the article immediately before the local-control line. The 'not where they damage local infrastructure' part of the claim comes from the reporter's paraphrase, not a direct quote."
+},
+{
+"url": "https://www.atlantanewsfirst.com/2025/11/18/ai-campaign-ad-hotly-contested-us-senate-race-raises-ethical-questions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-18",
+"note": "Quote verbatim. Article says Collins defended the campaign's AI likeness of Ossoff, adding 'Our team is doing it just like the White House. Just like everybody else out there.' Ad carried an AI disclaimer; Georgia Democrats called it 'low integrity'."
+},
+{
+"url": "https://fedscoop.com/nist-bill-ai-assistance-small-businesses-passes-house/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-24",
+"note": "Quote verbatim from Collins's House floor remarks on the Small Business AI Advancement Act (NIST resources for small businesses). Preceded by 'Through this legislation, we will level the playing field.' Article dated Feb 24, 2026 (floor remarks Monday Feb 23)."
+},
+{
+"url": "https://www.atlantanewsfirst.com/2025/11/18/ai-campaign-ad-hotly-contested-us-senate-race-raises-ethical-questions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-18",
+"note": "Headline quote appears verbatim on the page, attributed to Collins."
+}
+],
+"score_objections": []
+}
+]

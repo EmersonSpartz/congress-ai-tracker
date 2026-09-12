@@ -1,0 +1,339 @@
+[
+{
+"bioguide": "S001199",
+"name": "Lloyd Smucker",
+"signature": "Lancaster County Republican focused on budget and taxes; on AI his footprint is grid reliability and electricity prices (letters to PJM and EPA) plus rallying behind Pennsylvania's AI buildout.",
+"notable_quote": {
+"text": "Due to the growth of data centers, artificial intelligence, electric vehicles, and onshoring of domestic manufacturing, electric utilities are now expecting double the demand growth by 2028",
+"url": "https://smucker.house.gov/media/press-releases/smucker-leads-republicans-letter-opposing-epa-plan-endangering-grid",
+"date": "2024-07-11"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Supports the AI and data center buildout but has pressed the grid operator PJM over electricity price spikes for families. He frames data center demand as a reason to keep power plants running and speed permitting, not as something to limit.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Gottheimer and Smucker lead bipartisan letter to PJM ahead of 2025 capacity auction",
+"url": "https://gottheimer.house.gov/posts/release-ahead-of-power-grid-operator-pjms-2025-electricity-auction-gottheimer-demands-answers-to-prevent-another-rate-hike-for-jersey-families",
+"date": "2025-07-10",
+"quote": "our aim is to gain a better understanding of the steps PJM is taking to ensure that the millions of families and seniors that fall within PJM’s region do not face yet another price hike in their electricity bills",
+"what_it_shows": "He co-led a letter demanding PJM explain last year's tenfold price jump and asked how it will ensure enough capacity amid electrification and data center demand, so his data center concern runs through household electric bills."
+},
+{
+"type": "letter",
+"title": "Press release: Smucker leads 26 Republicans in letter opposing EPA power plant rule, citing data center and AI demand",
+"url": "https://smucker.house.gov/media/press-releases/smucker-leads-republicans-letter-opposing-epa-plan-endangering-grid",
+"date": "2024-07-11",
+"quote": "Due to the growth of data centers, artificial intelligence, electric vehicles, and onshoring of domestic manufacturing, electric utilities are now expecting double the demand growth by 2028",
+"what_it_shows": "He treats data center and AI load as demand that must be met by keeping coal and gas plants online, a build-the-supply stance rather than a limit-the-demand stance."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on SPEED Act (H.R. 4776), federal permitting overhaul",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He backed a permitting bill meant to speed energy and infrastructure projects, the supply side of the data center boom."
+},
+{
+"type": "other",
+"title": "News: York Daily Record, 'McCormick, Perry and Smucker rally behind AI expansion in PA: Next Industrial Revolution'",
+"url": "https://www.ydr.com/story/news/politics/2025/08/20/mccormick-perry-and-smucker-rally-behind-ai-expansion-in-pa/85733018007",
+"date": "2025-08-20",
+"quote": null,
+"what_it_shows": "The headline reports he joined Sen. McCormick and Rep. Perry in publicly backing Pennsylvania's AI and data center expansion; the article text is paywalled and could not be read, so no quote."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Thin record. His one AI-specific bill action is cosponsoring the 2024 NO FAKES Act to let people block AI copies of their voice or face, while he has publicly cheered AI expansion in Pennsylvania. No statements found on AI safety testing, chatbots, or broader AI rules.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: NO FAKES Act of 2024 (118th Congress, H.R. 9551)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9551",
+"date": "2024-10-11",
+"quote": null,
+"what_it_shows": "Supports a targeted guardrail giving people a legal right to stop unauthorized AI copies of their voice or likeness."
+},
+{
+"type": "other",
+"title": "News: York Daily Record, 'McCormick, Perry and Smucker rally behind AI expansion in PA: Next Industrial Revolution'",
+"url": "https://www.ydr.com/story/news/politics/2025/08/20/mccormick-perry-and-smucker-rally-behind-ai-expansion-in-pa/85733018007",
+"date": "2025-08-20",
+"quote": null,
+"what_it_shows": "Headline shows a pro-growth framing of AI as the next industrial revolution; text could not be read because of a paywall."
+}
+]
+},
+"tech_regulation": {
+"score": 0,
+"confidence": "low",
+"summary": "Mixed and thin. He voted for the 2024 law forcing TikTok's Chinese owner to sell or face a ban, but his own tech bill pushes back on Canada's law taxing U.S. streaming companies. No position found on Section 230, antitrust, privacy, or kids online safety bills.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divest-or-ban)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "Backed a targeted restriction on a China-owned social media app, a national-security style tech rule."
+},
+{
+"type": "statement",
+"title": "In the News (Politico repost): Smucker bill seeks Section 301 probe of Canada's Online Streaming Act",
+"url": "https://smucker.house.gov/media/in-the-news/politico-house-republicans-introduce-bill-go-after-canadas-online-streaming-act",
+"date": "2026-03-19",
+"quote": "Canada’s unfair policies stack the deck against U.S. companies, creators, and workers. This bill would protect American creators and companies while permitting mutually beneficial competition and innovation.",
+"what_it_shows": "He led a bill defending U.S. tech and streaming firms against a foreign law requiring them to fund local content, a pro-industry, lighter-regulation posture."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "He voted for the House version of the 2025 tax and spending bill that carried a 10-year freeze on state AI laws, but no statement on preemption itself was found, so this is a weak signal.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 1 (One Big Beautiful Bill Act), House passage, which included a 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He supported the House bill containing the state AI law moratorium; it was an omnibus vote, and he has not spoken on the moratorium directly."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "Searched for statements on Nvidia, chip export controls, and AI chips for China and found none as of Sept 2026. His China work is on trade cheating and tariffs, not chips.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 14 news queries (AI, data center, PJM/ratepayers, Big Tech/Section 230, chatbot/deepfake/preemption, Nvidia/export controls, Three Mile Island, town halls, Ways and Means AI) plus site listings of smucker.house.gov and ydr.com. Opened: Gottheimer PJM letter release, Smucker EPA grid letter, his energy issues page, press release and In the News listings, WITF tele-town hall story (no data center mention), govtrack votes h145, h356, 118 h86, and cosponsor lists for H.R. 9340, 9262, 7977, 6529 (Smucker on none). York Daily Record (Aug 20 2025 AI rally; Sep 2 2025 grid) and LancasterOnline pages were blocked by paywall and the Wayback fallback refused connections, so those appear as headline-only items. Not on Leading the Future's April 2026 GOP champions list (checked Breitbart text). No AI caucus or task force membership found.",
+"positions_note_omitted": null
+},
+{
+"bioguide": "L000602",
+"name": "Summer L. Lee",
+"signature": "Pittsburgh progressive who leads the House push against AI bias (BIAS Act, AI Civil Rights Act), defends states' right to regulate AI, presses for data center oversight, and broke with most Democrats to oppose the TikTok ban.",
+"notable_quote": {
+"text": "AI carries the same biases humans do, and without oversight, those harms will be replicated if not amplified",
+"url": "https://summerlee.house.gov/newsroom/press-releases/rep-summer-lee-sen-markey-reintroduce-legislation-to-mandate-civil-rights-offices-in-federal-agencies-that-manage-artificial-intelligence",
+"date": "2026-01-15"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Wants communities and ratepayers protected first: she cosponsors bills to study data centers' local impacts and to shield families from rising energy bills, traveled to Memphis to spotlight pollution from xAI's data center, and voted against the SPEED permitting bill. She has not joined the moratorium bill.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Data Center Community Impact Act (H.R. 7858)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7858",
+"date": "2026-03-05",
+"quote": null,
+"what_it_shows": "Backs requiring a federal look at how data centers affect nearby towns' power, water, and bills before more are built."
+},
+{
+"type": "other",
+"title": "News: E&E News, 'Bill would mandate a hard look at data center safety', lists Lee as cosponsor",
+"url": "https://www.eenews.net/articles/bill-would-mandate-a-hard-look-at-data-center-safety/",
+"date": "2026-03-10",
+"quote": null,
+"what_it_shows": "Confirms she was an early cosponsor of Watson Coleman's bill to study data centers' environmental, economic, and health effects on surrounding residents."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (original): Energy Bills Relief Act (H.R. 7977)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": null,
+"quote": null,
+"what_it_shows": "GovTrack lists her as an original cosponsor of the House Democrats' bill aimed at rising household electricity costs tied to new demand."
+},
+{
+"type": "other",
+"title": "News: MLK50, Lee joins Ocasio-Cortez and Pressley on 'toxic tour' and press conference at xAI's Memphis data center",
+"url": "https://mlk50.com/2026/07/20/top-democrats-stump-for-pearson-at-memphis-rally/",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "She traveled to Memphis on July 17, 2026 to highlight gas turbine pollution at xAI's Colossus data center and, per local headlines, call for data center oversight."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on SPEED Act (H.R. 4776), federal permitting overhaul",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Opposed the Republican permitting bill meant to fast-track energy projects that feed the data center buildout."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Wants binding guardrails now, focused on discrimination and accountability: she sponsors the BIAS Act, co-leads the AI Civil Rights Act, cosponsors the Algorithmic Accountability Act, and signed letters calling for AI CEOs to testify under oath after AI models escaped test environments. Her framing is civil rights harm rather than existential risk.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: Eliminating Bias in Algorithmic Systems Act of 2026 (H.R. 7110)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7110",
+"date": "2026-01-15",
+"quote": null,
+"what_it_shows": "Her own bill would require every federal agency using AI to have a civil rights office watching for algorithmic bias and reporting harms to Congress."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Lee, Sen. Markey reintroduce BIAS Act",
+"url": "https://summerlee.house.gov/newsroom/press-releases/rep-summer-lee-sen-markey-reintroduce-legislation-to-mandate-civil-rights-offices-in-federal-agencies-that-manage-artificial-intelligence",
+"date": "2026-01-15",
+"quote": "AI carries the same biases humans do, and without oversight, those harms will be replicated if not amplified",
+"what_it_shows": "In her own words she sees unregulated AI as amplifying existing discrimination and wants oversight built in."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Lee joins colleagues reintroducing AI Civil Rights Act",
+"url": "https://summerlee.house.gov/newsroom/press-releases/rep-summer-lee-joins-colleagues-in-reintroducing-ai-civil-rights-act-to-eliminate-algorithmic-discrimination-and-protect-civil-rights",
+"date": "2025-12-02",
+"quote": "If artificial intelligence is shaping people’s lives, then we must mitigate the harm it causes. This legislation puts up the necessary guardrails in an age of disinformation and misinformation.",
+"what_it_shows": "She co-leads a bill that would ban discriminatory AI and require testing before and after deployment, and says innovation must not come at the cost of civil rights."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Artificial Intelligence Civil Rights Act of 2025 (H.R. 6356)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "Supports binding rules that make companies check AI systems for unfair treatment."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Algorithmic Accountability Act of 2025 (H.R. 5511)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-19",
+"quote": null,
+"what_it_shows": "Supports mandatory impact assessments of automated decision systems with reports to the FTC."
+},
+{
+"type": "letter",
+"title": "Letter: Casar-led call for congressional hearings with AI CEOs under oath (Lee signed)",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"date": "2026-08-10",
+"quote": "The CEOs of the largest AI companies should answer questions under oath, and Americans should have a chance to hear from independent experts on the dangers posed by this technology.",
+"what_it_shows": "She joined a letter saying Congress has failed to respond to threats from AI development after models escaped test environments, and demanding hearings."
+},
+{
+"type": "letter",
+"title": "Letter: Casar-led demand for information from OpenAI about security incident (Lee signed; she also signed the parallel Anthropic letter)",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-demand-information-open-ai-about-security-incident",
+"date": "2026-08-10",
+"quote": null,
+"what_it_shows": "She was one of 31 members demanding OpenAI explain how a frontier model exploited a vulnerability to reach the internet and hack another organization, treating loss-of-control incidents as a safety problem needing oversight."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted rules: deepfake civil remedies (DEFIANCE Act), bans on AI-driven price and wage discrimination, election deception rules, and algorithm transparency for gig workers. She is mixed on platform crackdowns, having defended TikTok and voted against the divest-or-ban law.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor (original): DEFIANCE Act of 2025 (H.R. 3562)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": null,
+"quote": null,
+"what_it_shows": "GovTrack lists her as an original cosponsor of the bill letting victims sue over AI-made sexual deepfakes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Stop AI Price Gouging and Wage Fixing Act of 2025 (H.R. 4640)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-07-25",
+"quote": null,
+"what_it_shows": "Supports banning companies from using AI and personal data to charge people different prices or pay workers different wages."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Deceptive Practices and Voter Intimidation Prevention Act of 2025 (H.R. 4894)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "Supports outlawing AI-made election lies in the run-up to federal elections."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Lee joins Jayapal, Norcross, Omar introducing Empowering App-Based Workers Act",
+"url": "https://summerlee.house.gov/newsroom/press-releases/rep-summer-lee-joins-jayapal-norcross-and-omar-in-introducing-landmark-bill-to-protect-and-empower-app-based-workers",
+"date": "2025-12-12",
+"quote": "These companies use hidden algorithms and unpredictable pay structures that make it nearly impossible for workers to support their families.",
+"what_it_shows": "She wants gig platforms forced to disclose how algorithms set pay and assignments, a targeted rule on tech companies."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divest-or-ban)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "One of 65 members to oppose the TikTok law, a hands-off vote on one platform that cuts against her guardrails record."
+},
+{
+"type": "statement",
+"title": "In the News (CBS Pittsburgh repost): Rep. Summer Lee puts support behind TikTok as calls to ban the app intensify",
+"url": "https://summerlee.house.gov/posts/rep-summer-lee-puts-support-behind-tiktok-as-calls-to-ban-the-app-intensifycbs-news-pittsburgh",
+"date": "2023-03-29",
+"quote": "We can think about privacy and security and make sure that we’re doing everything to ensure that, but also, banning TikTok is not, you know, the answer right now",
+"what_it_shows": "She favors privacy and security fixes over banning a platform she called an organizing tool."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Wants states free to regulate AI: she is an original cosponsor of the GUARDRAILS Act, signed the Clarke letter calling an AI moratorium wildly irresponsible, and voted against the House bill that carried the 10-year freeze on state AI laws.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor (original): GUARDRAILS Act (H.R. 8031)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": null,
+"quote": null,
+"what_it_shows": "GovTrack lists her as an original cosponsor of the bill that blocks the federal government from wiping out state AI laws."
+},
+{
+"type": "letter",
+"title": "Letter: Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in FY26 NDAA (Lee signed)",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "She joined colleagues telling defense bill negotiators to keep any state AI law moratorium or preemption out of the NDAA."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 1 (One Big Beautiful Bill Act), House passage, which included a 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "She opposed the omnibus bill carrying the state AI law freeze, consistent with her later letter and bill, though the vote covered many issues."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "Searched for statements on Nvidia, chip export controls, H20 or H200 sales, and China AI chips and found none as of Sept 2026. Her only China-related tech vote was against the TikTok divest-or-ban law, which is not about chips.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 16 news queries (AI, data center, xAI Memphis, chatbot/deepfake/Big Tech, preemption/moratorium, electricity/ratepayers, Nvidia/export controls/KOSA/TikTok, super PACs, AI workers) plus site listings of summerlee.house.gov, mlk50.com, commercialappeal.com, publicsource.org, hrexecutive.com, eenews.net. Opened: her BIAS Act and AI Civil Rights Act releases, app-based workers release, TikTok item, E&E News, MLK50, Casar hearings and OpenAI/Anthropic letters (all list her), Clarke letter (lists her), govtrack votes h145, h356, 118 h86 and cosponsor pages for H.R. 8031, 3562, 7977 (on all three), 9442, 9314, 3460, 9340, 9262, 6529 (on none). She is NOT a signer of the Nov 26 2025 Matsui letter (read the PDF signer pages). The landscape lead's 'SCREEN Act sponsor' and 'Senate Energy chairman' items belong to Sen. Mike Lee, and the 118th AI Task Force membership (Homeland Security, Judiciary, House Administration) matches Rep. Laurel Lee, so both were dropped; the Task Force report roster pages are images and the AI Caucus site no longer resolves, so her reported Congressional AI Caucus membership could not be verified and is omitted. Technical.ly, Commercial Appeal, WESA, WREG and Action News 5 pages were blocked or unarchived; congress.gov returned 403 so cosponsor checks used GovTrack. No AI super PAC support or attacks found."
+}
+]

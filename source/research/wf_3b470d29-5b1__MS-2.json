@@ -1,0 +1,408 @@
+[
+{
+"bioguide": "T000193",
+"name": "Bennie G. Thompson",
+"groups": [
+"Ranking Member, House Committee on Homeland Security"
+],
+"signature": "Top Homeland Security Democrat who fights DHS facial-recognition surveillance, wants evidence-based rules for frontier AI cyber risks, and is endorsed by the pro-industry Leading the Future network.",
+"notable_quote": {
+"text": "AI regulations should rely on standards and procedures that provide confidence to the public that decisions are based on the evidence and not on politics",
+"url": "https://cyberscoop.com/congress-reacts-anthropic-ai-export-controls/",
+"date": "2026-06-16"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Thompson cosponsored the Democrats' Energy Bills Relief Act, which would make data centers and other very large power users pay for the grid upgrades they cause instead of shifting costs to families. He also attended the 2024 Amazon groundbreaking in Madison County. No statement from him on the xAI turbines in Southaven or on Mississippi electric bills was found as of Sept 2026.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7977, Energy Bills Relief Act (Casten), 161 Democratic cosponsors",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "He signed on to a broad Democratic energy-cost bill whose Section 603 is titled Avoiding Cost Shifts onto Families and targets large power users such as data centers."
+},
+{
+"type": "other",
+"title": "Bill text of H.R. 7977, Sec. 603, creates a separate customer class for facilities over 75 megawatts",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7977ih/html/BILLS-119hr7977ih.htm",
+"date": "2026-03-18",
+"quote": "Large load facilities shall be considered a class of electric consumers.",
+"what_it_shows": "The bill he backs would require utilities to recover all grid-upgrade costs from data-center-scale customers, a ratepayer-first approach."
+},
+{
+"type": "other",
+"title": "Local coverage reposted on Rep. Guest's site: Thompson attended the AWS Madison County data center groundbreaking",
+"url": "https://guest.house.gov/media/in-the-news/amazon-breaks-ground-site-here",
+"date": "2024-05-22",
+"quote": "Dignitaries at the groundbreaking held at the spec building at the MegaSite on the morning of Monday, May 20, included Gov. Tate Reeves, Sen. Roger Wicker, Rep. Michael Guest, Rep. Bennie Thompson",
+"what_it_shows": "He showed up to celebrate the state's largest data center project, so he is not opposed to building; his concern is who pays."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Thompson wants specific, evidence-based guardrails: he introduced a bill to sharply limit DHS use of mobile facial recognition, cosponsors the AI Civil Rights Act and anti-bias bills, and criticized the Trump administration's handling of frontier AI cyber risks as ad hoc and political. He does not call for a pause or licensing.",
+"evidence": [
+{
+"type": "statement",
+"title": "Statement to CyberScoop on the Trump administration's export-control order against Anthropic's newest models",
+"url": "https://cyberscoop.com/congress-reacts-anthropic-ai-export-controls/",
+"date": "2026-06-16",
+"quote": "AI regulations should rely on standards and procedures that provide confidence to the public that decisions are based on the evidence and not on politics",
+"what_it_shows": "He accepts that frontier AI cyber risks need government action but wants it grounded in expert standards, and he said the administration lacks a coherent plan."
+},
+{
+"type": "hearing",
+"title": "Ranking Member opening statement, hearing on frontier models, agentic AI and AI coding tools",
+"url": "https://democrats-homeland.house.gov/download/bgt-06042026",
+"date": "2026-06-04",
+"quote": "necessary to keep the U.S. at the cutting edge of AI development while mitigating the harms created by AI",
+"what_it_shows": "He frames the goal as both leading in AI and reducing its harms, and wants CISA to lead public-private work on AI security."
+},
+{
+"type": "statement",
+"title": "Press coverage: Thompson introduces the Realigning Mobile Phone Biometrics for American Privacy Protection Act to curb ICE's Mobile Fortify app",
+"url": "https://www.biometricupdate.com/202601/lawmakers-move-to-rein-in-ices-use-of-mobile-facial-recognition",
+"date": "2026-01-15",
+"quote": "When ICE claims that an image it snaps and runs through an unproven app can be enough evidence to detain people for possible deportation, no one is safe",
+"what_it_shows": "His own bill would bar DHS from using mobile facial recognition outside ports of entry and require deleting citizens' biometric data, a binding limit on government AI use."
+},
+{
+"type": "statement",
+"title": "The Hill: Democrats oppose DHS tech buildup; quotes Thompson on his biometrics bill and earlier Mobile Fortify investigation",
+"url": "https://thehill.com/policy/technology/5748365-dhs-tech-buildout-sparks-backlash-from-democrats/",
+"date": "2026-02-22",
+"quote": "DHS should not be conducting surveillance by experimenting with Americans’ faces and fingerprints in the field",
+"what_it_shows": "He calls the facial recognition tools unproven and biased and has used oversight letters as well as legislation against them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6356, Artificial Intelligence Civil Rights Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "He supports banning discriminatory AI and requiring companies to test their systems for unfair treatment."
+},
+{
+"type": "statement",
+"title": "Press release from Rep. Pressley listing Thompson as an original cosponsor of the AI Civil Rights Act",
+"url": "https://pressley.house.gov/2025/12/03/pressley-clarke-markey-reintroduce-ai-civil-rights-act-to-eliminate-ai-discrimination/",
+"date": "2025-12-03",
+"quote": null,
+"what_it_shows": "Confirms he joined the bill at reintroduction rather than later."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7110, Eliminating Bias in Algorithmic Systems Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7110",
+"date": "2026-01-15",
+"quote": null,
+"what_it_shows": "He backs civil rights offices inside agencies to catch unfair algorithms, a repeat of his 118th Congress cosponsorship of H.R. 10092."
+},
+{
+"type": "pac",
+"title": "AI Money Watch: Leading the Future publicly endorsed Thompson in the 2026 primary, no independent expenditures reported",
+"url": "https://aimoneywatch.org/people/bennie-thompson-ms-2",
+"date": null,
+"quote": "Leading the Future has publicly endorsed this candidate but has not yet reported any independent expenditures in this race.",
+"what_it_shows": "The pro-industry AI super PAC network sees him as acceptable; this is about their view of him, not proof of his positions."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Thompson backs targeted fixes rather than a Big Tech overhaul: bans on AI-made election lies, a ban on connected cars with parts from China and other adversaries, and limits on government surveillance tech. No position found on Section 230, antitrust, or a comprehensive privacy law.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "He supports banning internet-connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4894, Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "He wants it to be illegal to spread lies about voting, including AI-made fakes, before federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8858, Securing Elections From AI Deception Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "Earlier support for banning AI deepfakes that trick voters, showing a consistent pattern."
+},
+{
+"type": "statement",
+"title": "The Hill: Thompson's bill and investigation targeting DHS use of the Mobile Fortify facial recognition app",
+"url": "https://thehill.com/policy/technology/5748365-dhs-tech-buildout-sparks-backlash-from-democrats/",
+"date": "2026-02-22",
+"quote": null,
+"what_it_shows": "His tech-rule focus is on how government uses surveillance products, with data-deletion requirements, rather than on regulating platforms broadly."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. I looked for statements on the 10-year state AI law moratorium, the Dec 2025 executive order, the Mar 2026 White House framework, and cosponsorship of the GUARDRAILS Act or the Matsui and Clarke letters, and found nothing from Thompson as of Sept 2026.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on chip export controls or Nvidia sales to China. His Connected Vehicle Security Act cosponsorship shows concern about Chinese tech in cars, but that is not about chips, so it is counted under tech regulation instead.",
+"evidence": []
+}
+},
+"search_notes": "Ran 14 Google News queries (AI, data centers, Anthropic/OpenAI, deepfake/facial recognition, Big Tech/Section 230, chips/export controls, preemption/executive order, xAI Southaven, Amazon MS, super PAC, biometric bill, tech subpoenas). Opened: CyberScoop Anthropic-order article (via CyberScoop tag feed), his June 4 2026 opening statement PDF, Biometric Update and The Hill on his biometrics bill, Pressley AI Civil Rights release, govinfo bill status and text for H.R. 7977, AWS groundbreaking repost, AI Money Watch. Could not open: Politico Jul 22 2026 piece on OpenAI models and new rules, Nextgov May 14 2026 Mythos briefing story, FedScoop Jan 16 2026 article, and the Homeland Democrats press release on his Feb 25 2026 investigation of tech firms receiving DHS subpoenas (Google News redirects would not decode; the committee site returned 410). The Wayback-based site listing tool was down (503), so his own press-release pages were scanned directly; they contain no AI items. The context file called H.R. 7977 the Energy Bills Relief Act; govinfo shows the same number under the title SHINE Act of 2026 with a related SHINE bill H.R. 6981, and GovTrack lists it as the Energy Bills Relief Act; the large-load cost provision is confirmed in the text."
+},
+{
+"bioguide": "G000591",
+"name": "Michael Guest",
+"groups": [
+"Chairman, House Committee on Ethics",
+"Chairman, Homeland Security Subcommittee on Border Security and Enforcement",
+"Unmanned Systems Caucus (member)"
+],
+"signature": "Homeland Security border subcommittee chair who treats AI as a terrorism and DHS-oversight issue and backs kids online safety and deepfake bills; no statements found on data centers, preemption or chips.",
+"notable_quote": {
+"text": "Given the rapid advancement in AI, it is critical that Congress remain informed and aware of how Federal agencies are utilizing AI to advance their mission.",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2025-03-10/html/CREC-2025-03-10-pt1-PgH1055.htm",
+"date": "2025-03-10"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Guest attended the 2024 Amazon Web Services groundbreaking in Madison County and reposted the celebratory local coverage on his House website, but he has made no statement on data centers, electric bills or the xAI turbines that I could find as of Sept 2026. The score rests only on that supportive appearance.",
+"evidence": [
+{
+"type": "other",
+"title": "Reposted on Guest's official site: Madison County Journal report on the AWS data center groundbreaking listing Guest among the dignitaries",
+"url": "https://guest.house.gov/media/in-the-news/amazon-breaks-ground-site-here",
+"date": "2024-05-22",
+"quote": "Dignitaries at the groundbreaking held at the spec building at the MegaSite on the morning of Monday, May 20, included Gov. Tate Reeves, Sen. Roger Wicker, Rep. Michael Guest, Rep. Bennie Thompson",
+"what_it_shows": "He publicly associated himself with the state's largest data center project; there is no sign he has raised ratepayer or water concerns."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Guest sees AI mainly as a security problem. He wrote a bill requiring DHS to tell Congress when it uses flexible contracts for AI, managed the floor debate on a bill making DHS assess terrorists' use of generative AI, and cosponsored the TAKE IT DOWN Act on AI sexual deepfakes. He has not called for rules on AI developers themselves.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 1692, PATHS Act (Producing Advanced Technologies for Homeland Security), passed House by voice vote March 11, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1692",
+"date": "2025-02-27",
+"quote": null,
+"what_it_shows": "His bill extends DHS's flexible contracting power but requires notice to Congress within 72 hours whenever it is used for AI projects."
+},
+{
+"type": "statement",
+"title": "Floor speech on the PATHS Act, Congressional Record, March 10, 2025",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2025-03-10/html/CREC-2025-03-10-pt1-PgH1055.htm",
+"date": "2025-03-10",
+"quote": "Given the rapid advancement in AI, it is critical that Congress remain informed and aware of how Federal agencies are utilizing AI to advance their mission.",
+"what_it_shows": "In his own words, he wants congressional oversight of how agencies adopt AI, a transparency guardrail rather than a ban or a hands-off stance."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1736, Generative AI Terrorism Risk Assessment Act (Pfluger), passed House Nov 19, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1736",
+"date": "2025-02-27",
+"quote": null,
+"what_it_shows": "He backs annual DHS assessments of how terrorist groups use generative AI."
+},
+{
+"type": "statement",
+"title": "Floor speech managing H.R. 1736, Congressional Record, Nov 19, 2025",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2025-11-19/html/CREC-2025-11-19-pt1-PgH4783.htm",
+"date": "2025-11-19",
+"quote": "We know that terrorist groups, including ISIS and al-Qaida, have already used generative AI in sophisticated ways, producing propaganda to spur online recruitment and radicalization efforts. This technology poses new and heightened risks to our homeland security.",
+"what_it_shows": "He describes generative AI as a heightened security risk that government must track, without proposing limits on the technology itself."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633, TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-10",
+"quote": null,
+"what_it_shows": "He supports criminal penalties and fast takedowns for AI-faked sexual images, a targeted AI harm rule."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Guest has repeatedly cosponsored kids online safety and China-tech bills: the House Kids Online Safety Act and COPPA 2.0 in 2024, tougher child abuse reporting rules for platforms, bans tied to TikTok-style apps and DJI drones, and the TAKE IT DOWN Act. He chaired a 2026 hearing on online scams but framed the answer as security partnerships, not new platform rules.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7891, Kids Online Safety Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-09-17",
+"quote": null,
+"what_it_shows": "He supported requiring apps to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7890, Children and Teens' Online Privacy Protection Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7890",
+"date": "2024-09-17",
+"quote": null,
+"what_it_shows": "He backed stronger limits on collecting children's data and targeting ads at minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5182, Child Online Safety Modernization Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2023-09-21",
+"quote": null,
+"what_it_shows": "He wants platforms to report child abuse material more fully and keep evidence longer."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4927, ACES Act of 2023, and H.R. 2864, Countering CCP Drones Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4927",
+"date": "2023-08-01",
+"quote": null,
+"what_it_shows": "Part of a pattern of restricting Chinese-controlled apps and drones on security grounds."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633, TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-10",
+"quote": null,
+"what_it_shows": "He supports forcing websites to remove nonconsensual intimate images quickly."
+},
+{
+"type": "hearing",
+"title": "Opening statement, joint subcommittee hearing on online scams, crypto fraud and digital extortion by transnational criminal organizations",
+"url": "https://homeland.house.gov/2026/04/21/subcommittee-chairmen-guest-ogles-open-hearing-on-online-scams-crypto-fraud-and-digital-extortion-by-transnational-criminal-organizations/",
+"date": "2026-04-21",
+"quote": "Congress must step up to secure our virtual border.",
+"what_it_shows": "He treats online fraud as a border-security problem and praised the Trump cybercrime executive order and public-private partnerships; he did not propose new duties for tech platforms."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. I searched for Guest on the state AI law moratorium, the Dec 2025 executive order, the Mar 2026 White House framework and related bills, and found nothing as of Sept 2026.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on chip export controls or Nvidia sales. In a March 2025 hearing he condemned Chinese theft of American AI and semiconductor research, and he cosponsored bills against Chinese apps and drones, but none of that addresses export rules for chips.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement, Homeland Security hearing on the Chinese Communist Party threat",
+"url": "https://homeland.house.gov/2025/03/05/chairman-guest-we-cannot-afford-wishful-thinking-or-willful-ignorance-about-the-nature-of-the-chinese-regime/",
+"date": "2025-03-05",
+"quote": "affecting industries engaged in innovative developments ranging from military technology and artificial intelligence to semiconductors and medical research",
+"what_it_shows": "He is hawkish on Chinese espionage and technology theft, but the statement says nothing about export controls or chip sales, so it does not settle this dimension."
+}
+]
+}
+},
+"search_notes": "Ran 12 Google News queries (AI, data centers, chatbot/deepfake/TAKE IT DOWN/kids online, TikTok/Big Tech/Section 230/chips, Amazon/AWS/xAI, preemption/executive order, PATHS Act, energy/grid, Homeland AI hearings, Congressman Guest AI). Scanned guest.house.gov press releases, in-the-news and caucus pages (no AI items), searched homeland.house.gov for Guest AI, and opened the Congressional Record for his two AI-related floor speeches, the govinfo bill status for H.R. 1692 and H.R. 1736, his April 2026 scams hearing statement and March 2025 China hearing statement. A WLBT Aug 17 2026 story on Madison County economic successes might contain a Guest data center remark but could not be opened (Google News link would not decode, WLBT search returned nothing). No AI super PAC activity found for Guest."
+},
+{
+"bioguide": "E000235",
+"name": "Mike Ezell",
+"groups": [
+"Chairman, Transportation and Infrastructure Subcommittee on Coast Guard and Maritime Transportation"
+],
+"signature": "Coast Guard subcommittee chair whose only AI engagement is pushing the Coast Guard to build a regulatory framework that lets autonomous and AI maritime technology operate safely.",
+"notable_quote": {
+"text": "This requires adapting current regulatory frameworks that balance safety and innovation to account for unmanned barges, spaceport drone ships, and other uses of artificial intelligence in the maritime domain.",
+"url": "https://transportation.house.gov/news/documentsingle.aspx?DocumentID=409189",
+"date": "2025-12-16"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. I searched for Ezell with data centers, xAI, Amazon, Gulf Coast projects, electricity, grid and natural gas, and scanned his press releases; nothing on the topic turned up.",
+"evidence": []
+},
+"ai_risk": {
+"score": 0,
+"confidence": "low",
+"summary": "Ezell's only AI remarks come from a Dec 2025 hearing he chaired on maritime technology, where he asked the Coast Guard to write rules that balance safety and innovation for autonomous vessels, drones and other AI uses. That is a balanced view limited to his subcommittee's turf; he has not spoken on broader AI safety rules.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Chairman Ezell opening statement, hearing titled Changes in Maritime Technology: Can the Coast Guard Keep Up?",
+"url": "https://transportation.house.gov/news/documentsingle.aspx?DocumentID=409189",
+"date": "2025-12-16",
+"quote": "This requires adapting current regulatory frameworks that balance safety and innovation to account for unmanned barges, spaceport drone ships, and other uses of artificial intelligence in the maritime domain.",
+"what_it_shows": "He wants regulators to enable new AI and autonomous technology while keeping it safe, neither pushing strict new limits nor opposing oversight."
+},
+{
+"type": "hearing",
+"title": "Same statement: call for the Coast Guard to develop a regulatory framework for autonomous technology",
+"url": "https://transportation.house.gov/news/documentsingle.aspx?DocumentID=409189",
+"date": "2025-12-16",
+"quote": "we noted the need for the United States Coast Guard to rapidly develop a regulatory framework to enable these technologies to operate safely",
+"what_it_shows": "His emphasis is on getting rules in place quickly so the technology can be used, which reads as pro-adoption with safety conditions."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Ezell's one relevant action is cosponsoring the STOP CSAM Act, which makes online platforms do more to report and remove child sexual abuse material and lets victims sue. Nothing found on Section 230, antitrust, privacy or Big Tech generally.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3921, STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-02-09",
+"quote": null,
+"what_it_shows": "He supports new legal duties and liability for platforms on child abuse material, a targeted rule."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. I searched for Ezell on the state AI law moratorium, the Dec 2025 executive order, the Mar 2026 White House framework and related bills, and found nothing as of Sept 2026.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Ezell cosponsored a bill directing the State Department to assess the dangers of AI built by China and other rivals and to coordinate a response with allies. That leans hawkish on Chinese AI, but he has taken no position on chip export controls or Nvidia sales.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7058, Foreign Adversary AI Risk Assessment and Diplomacy Act (Baumgartner)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7058",
+"date": "2026-01-14",
+"quote": null,
+"what_it_shows": "He joined a small group of Republicans asking the government to size up adversary AI threats; the bill does not touch export controls."
+}
+]
+}
+},
+"search_notes": "Ran 12 Google News queries (AI, data centers, chatbot/deepfake/TikTok/kids online/CSAM, China/Nvidia/export controls, Coast Guard/maritime tech, energy/grid, xAI/Amazon/Gulf Coast, social media/Big Tech, Take It Down, Coast Guard tech hearing). His site's press release directory was not directly reachable, but the homepage, /media listing, RSS feed and several document pages were opened; none mention AI. Opened the T&I Committee pages for his Dec 16 2025 maritime technology statement and his June 30 2026 Coast Guard Authorization statement (the latter has no AI content), his Aug 2026 Coast Guard op-ed in the Magnolia Tribune (no AI content), and govinfo bill status for H.R. 7058 confirming his Jan 14 2026 cosponsorship. No AI super PAC activity found. Google News link decoding failed for several items, so a few headlines could not be opened."
+}
+]

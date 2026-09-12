@@ -1,0 +1,105 @@
+[
+{
+"bioguide": "F000481",
+"checks": [
+{
+"url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9442.xml",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "XML (title: Artificial Intelligence Data Center Moratorium Act) lists F000481 Rep. Figures, Shomari [D-AL-2] as cosponsor dated 2026-07-22, not an original cosponsor. Sewell (S001185) appears as an original cosponsor dated 2026-06-24, so the gap is four weeks, not 'about three weeks'. The Lowndes County / Project Red Clay motive is not in this source."
+},
+{
+"url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7977.xml",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-08",
+"note": "XML confirms H.R. 7977 is the SHINE Act of 2026, sponsor Rep. Casten [D-IL-6], introduced 2026-03-18, and lists Figures as cosponsor added 2026-06-08. The XML contains no summary text; the 'household energy bills relief' characterization is not verifiable from this page (only hint: related bill titled Energy Consumer Protection Act of 2026). No 'data center' text anywhere in the record."
+},
+{
+"url": "https://www.foxnews.com/politics/two-house-races-take-center-stage-conservative-pac-launches-multimillion-dollar-big-tech-push",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-21",
+"note": "Quote appears verbatim. Article (published July 21, 2026) names Figures as the incumbent Marques would face and describes the PAC's aims as taking on Big Tech, online protections for children, and outpacing China in AI. The 'Public First network' label in the item title does not appear anywhere on the page."
+},
+{
+"url": "https://yellowhammernews.com/al-02-draws-national-gop-attention-as-conservative-pac-backs-rhett-marques/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Quote appears verbatim. Page names Figures twice as the Democratic incumbent the GOP nominee would face and describes the PAC's stated agenda; also notes the PAC is led by former Rep. Chris Stewart. Spending is on the GOP primary in his seat, not against Figures directly yet."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the four sources says anything about Figures's views on AI safety or risk rules. Items 1-2 are data-center/energy cosponsorships and items 3-4 are about a PAC backing his opponent. A data-center moratorium cosponsorship is not evidence of an AI-risk guardrails stance; unless other evidence exists, the -1 is unsupported.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "R000575",
+"checks": [
+{
+"url": "https://federalnewsnetwork.com/congress/2026/07/congress-ramps-up-scrutiny-of-pentagon-ai-data-center-plans/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Article (published 2026-07-24) names Rogers as HASC chairman, says he opposed the Garamendi amendment arguing it would 'impede the Army's ongoing negotiations', and carries the quote verbatim. Markup is described as 'earlier this summer' (consistent with June 2026)."
+},
+{
+"url": "https://www.eenews.net/articles/house-panel-rejects-data-center-offshore-drilling-amendments-to-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-05",
+"note": "Quote appears verbatim. Page identifies Rogers as HASC chair and sponsor of the FY27 bill (H.R. 8800) and reports Democratic data center amendments were dismissed, 44-12 approval. Item lacked a date; article is 06/05/2026."
+},
+{
+"url": "https://theaipn.org/aipn-fy27-ndaa-conference-letter/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-31",
+"note": "Letter is addressed to Wicker, Reed, Chairman Mike Rogers, and Smith; quote is verbatim. As the claim itself notes, this is AIPN's advocacy about the bill, not Rogers's own statement."
+},
+{
+"url": "https://mikerogers.house.gov/news/documentsingle.aspx?DocumentID=4093",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-12-10",
+"note": "Quote is verbatim on Rogers's own release (Dec 10, 2025) and frames AI as an Alabama industry opportunity. The page does not, however, establish that this is his 'only' AI mention across his releases; that part of the claim is unverifiable from this source."
+},
+{
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Page (Jul 17, 2026) lists Rep. Mike Rogers, AL-03 first among the 12 members and credits the group collectively with 'work to keep federal preemption of state AI laws out of the National Defense Authorization Act'. Quote verbatim. Group characterization, as the claim states."
+},
+{
+"url": "https://www.meritalk.com/articles/ndaa-drops-ai-moratorium-tmf-renewal-but-packs-major-cyber-provisions/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-12-09",
+"note": "Quote is verbatim and the article says the text was released by the House Armed Services Committee, but Rogers is never named on the page. Supports the claim about the committee's bill only indirectly via his chairmanship. Article dated Dec 9, 2025."
+},
+{
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Quote verbatim; the bill list is attributed to the 12 members collectively, with Rogers listed among them. Page does not attribute any specific chip bill to Rogers, consistent with the claim's caveat."
+},
+{
+"url": "https://federalnewsnetwork.com/congress/2026/07/congress-ramps-up-scrutiny-of-pentagon-ai-data-center-plans/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Quote appears verbatim, attributed directly to Rogers ('Rogers said')."
+}
+],
+"score_objections": []
+}
+]

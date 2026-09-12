@@ -1,0 +1,688 @@
+[
+{
+"bioguide": "B001267",
+"name": "Michael F. Bennet",
+"signature": "Democratic nominee for governor who wants data centers to pay their full cost, backs kids' chatbot safeguards, and once proposed a federal agency to police online platforms.",
+"notable_quote": {
+"text": "President Trump's executive order to block state laws regulating artificial intelligence is a dangerous overreach of power that will only make it more difficult to keep our communities safe while promoting innovation",
+"date": "2025-12-21",
+"url": "https://www.denverpost.com/2025/12/21/trump-ai-regulations-executive-order-colorado-response/"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Bennet, now the Democratic nominee for governor, says Colorado should allow data centers but make them pay the full cost of their power and grid upgrades, protect ratepayers and water, and get no state tax credits.",
+"evidence": [
+{
+"type": "statement",
+"title": "Campaign energy platform: Ensuring Large Commercial Users Pay Their Fair Share",
+"url": "https://www.michaelbennet.com/priorities/energy/",
+"date": "2026-02",
+"quote": "Massive energy users like data centers shouldn't drive up utility bills for Colorado families.",
+"what_it_shows": "His governor platform says new data centers must cover the cost of the energy they use, help finance the grid they need, and meet Colorado's clean energy and water goals."
+},
+{
+"type": "interview",
+"title": "Colorado Sun issue guide: How should Colorado regulate data centers?",
+"url": "https://coloradosun.com/2026/06/02/michael-bennet-phil-weiser-colorado-governor-democratic-primary-issue-guide/",
+"date": "2026-06-02",
+"quote": "I think that we should allow data centers in Colorado, but we need to do it in a way that's responsible",
+"what_it_shows": "He would allow data centers but says they must pay for the resources they use and must not raise energy rates or threaten water."
+},
+{
+"type": "interview",
+"title": "Colorado Sun issue guide: Should data centers receive state tax credits?",
+"url": "https://coloradosun.com/2026/06/02/michael-bennet-phil-weiser-colorado-governor-democratic-primary-issue-guide/",
+"date": "2026-06-02",
+"quote": "I don't think they should.",
+"what_it_shows": "He opposes state tax breaks for data centers, a sharper line than his primary opponent took."
+},
+{
+"type": "letter",
+"title": "Letter with the Colorado delegation to Energy Secretary Wright on cancelled energy projects (reported by FedScoop)",
+"url": "https://fedscoop.com/ai-data-centers-canceled-energy-projects-colorado-democrats/",
+"date": "2025-10-14",
+"quote": "In an era where artificial intelligence and data centers are driving a rise in energy demand, we must meet these challenges by investing in responsible and affordable energy solutions, rather than destabilizing them.",
+"what_it_shows": "He co-signed a letter framing AI and data center demand as a reason to keep funding affordable energy projects rather than cancel them."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Bennet backs targeted rules: chatbot safeguards for kids, deepfake bans in elections, and in 2023 a new federal agency to oversee platforms. He pairs this with language about keeping room for innovation and start-ups.",
+"evidence": [
+{
+"type": "letter",
+"title": "Bipartisan letter of 10 senators to Meta CEO Zuckerberg on AI chatbots and children (reported by Kauai Now)",
+"url": "https://kauainownews.com/2025/08/20/schatz-several-u-s-senate-colleagues-press-zuckerberg-after-reports-that-meta-ai-bots-spoke-romantically-sensually-with-kids/",
+"date": "2025-08-20",
+"quote": "We write alarmed by Meta's policies and practices related to AI chatbots, which pose astonishing risks for children, lack transparency and allow for the proliferation of misinformation",
+"what_it_shows": "He was one of ten senators demanding Meta explain its chatbot rules for minors and ban targeted ads to users under 18."
+},
+{
+"type": "statement",
+"title": "Campaign release: Bennet releases policy platform to keep Colorado kids safe online",
+"url": "https://www.michaelbennet.com/news/michael-bennet-releases-leading-policy-platform-to-keep-colorado-kids-safe-online/",
+"date": "2025-10-08",
+"quote": "Michael will place common-sense limits on AI chatbots, like requiring guardrails to prevent AI chatbots from encouraging self-harm, disordered eating, illegal activity, or engaging in sexually explicit interactions.",
+"what_it_shows": "As a candidate for governor he promises binding state limits on AI chatbots and safe-by-design rules for kids."
+},
+{
+"type": "statement",
+"title": "Denver Post: Colorado lawmakers undeterred despite Trump order on state AI laws",
+"url": "https://www.denverpost.com/2025/12/21/trump-ai-regulations-executive-order-colorado-response/",
+"date": "2025-12-21",
+"quote": "While AI has enormous potential to increase productivity and grow our economy, this unilateral action weakens Colorado's ability to protect children and consumers.",
+"what_it_shows": "He called for Congress to regulate AI while stressing child and consumer protection and room for start-ups to thrive."
+},
+{
+"type": "cosponsor",
+"title": "S.1213 Protect Elections from Deceptive AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1213",
+"date": "2025-03-31",
+"quote": null,
+"what_it_shows": "He backs a ban on AI-made fake audio and video of candidates meant to trick voters."
+},
+{
+"type": "sponsor",
+"title": "S.1671 Digital Platform Commission Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1671",
+"date": "2023-05-18",
+"quote": null,
+"what_it_shows": "In 2023 he wrote a bill to create a new federal agency to oversee big online platforms, including their use of algorithms and AI."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "Bennet is a long-time Big Tech critic: he wrote a bill to create a federal agency to police online platforms, cosponsors tougher merger rules and the Kids Online Safety Act, and wants strict kids' online protections as governor.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "S.1671 Digital Platform Commission Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1671",
+"date": "2023-05-18",
+"quote": null,
+"what_it_shows": "His own bill would set up a new federal regulator for big online platforms."
+},
+{
+"type": "cosponsor",
+"title": "S.130 Competition and Antitrust Law Enforcement Reform Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/130",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "He backs making it harder for giant companies to merge and shifting the burden to the biggest deals to prove they do not hurt competition."
+},
+{
+"type": "cosponsor",
+"title": "S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-12-15",
+"quote": null,
+"what_it_shows": "He supports a duty of care and safety tools for kids on social media and gaming platforms."
+},
+{
+"type": "statement",
+"title": "Neguse and Bennet statement on FCC approval of the Nexstar-Tegna merger",
+"url": "https://neguse.house.gov/media/press-releases/neguse-bennet-slam-fcc-sidestepping-federal-law-approve-62b-nexstar-tegna",
+"date": "2026-03-20",
+"quote": "For Colorado, it will likely result in even greater consolidation of local news coverage, further depriving Coloradans of access to a healthy and competitive news market.",
+"what_it_shows": "He opposed a $6.2 billion media merger and the FCC's waiver of ownership caps, part of a consistent anti-consolidation stance."
+},
+{
+"type": "statement",
+"title": "Campaign release: Bennet releases policy platform to keep Colorado kids safe online",
+"url": "https://www.michaelbennet.com/news/michael-bennet-releases-leading-policy-platform-to-keep-colorado-kids-safe-online/",
+"date": "2025-10-08",
+"quote": "requiring social media companies to limit notifications, implement warning labels, and add protections to reduce endless scrolling",
+"what_it_shows": "His governor platform includes a classroom cellphone ban and new mandates on social media companies for kids under 13."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Bennet called Trump's order to block state AI laws a dangerous overreach and said states should set their own common-sense frameworks until Congress acts. He also voted to strip the state-law moratorium from the 2025 budget bill.",
+"evidence": [
+{
+"type": "statement",
+"title": "Denver Post: Bennet statement on the December 2025 executive order against state AI laws",
+"url": "https://www.denverpost.com/2025/12/21/trump-ai-regulations-executive-order-colorado-response/",
+"date": "2025-12-21",
+"quote": "President Trump's executive order to block state laws regulating artificial intelligence is a dangerous overreach of power that will only make it more difficult to keep our communities safe while promoting innovation",
+"what_it_shows": "He opposed the executive order targeting state AI laws and said states should keep developing their own frameworks while Congress works on a national one."
+},
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He voted Yea with 98 other senators to remove the moratorium; the vote was near unanimous so it is weak evidence on its own."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Bennet opposed the Trump administration's approval of Nvidia H200 chip sales to China and backs limits on US investment in Chinese military tech, while supporting tax breaks for domestic chipmaking.",
+"evidence": [
+{
+"type": "letter",
+"title": "Warren-led letter of seven Democratic senators to Commerce Secretary Lutnick on H200 chip sales to China",
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-schumer-colleagues-press-lutnick-on-administrations-decision-to-sell-out-us-national-and-economic-security-by-greenlighting-the-sale-of-h200-chips-to-china",
+"date": "2025-12-12",
+"quote": "The President's dangerous decision to give away critical national security controls represents a significant departure from longstanding bipartisan efforts to ensure that U.S. technology does not turbocharge China's military and technological capabilities",
+"what_it_shows": "He was one of seven Democratic senators objecting to letting Nvidia export advanced H200 AI chips to China over Justice Department warnings."
+},
+{
+"type": "cosponsor",
+"title": "S.1053 FIGHT China Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1053",
+"date": "2025-03-13",
+"quote": null,
+"what_it_shows": "He backs reporting and possible blocking of US investment in Chinese companies building military or surveillance technology."
+},
+{
+"type": "cosponsor",
+"title": "S.4750 Semiconductor Superiority Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4750",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "He supports tax breaks to make more chips in America; this is neutral on export controls."
+}
+]
+}
+},
+"search_notes": "About 14 Google News queries (AI, data centers, Meta chatbots, preemption, Colorado AI law, executive order, Digital Platform Commission, labeling letter) plus site listings and fetches. bennet.senate.gov returned 403 and the Wayback Machine refused connections throughout, so the Meta chatbot letter was confirmed via Kauai Now (lists Bennet as signer) and the H200 letter via an archived banking.senate.gov copy. Campaign energy and kids-online platforms fetched directly. Colorado Sun governor issue guide and Denver Post Dec 2025 article fetched directly. Could not open Reuters 2023 story on his AI labeling letter or the CPR May 2025 preemption piece (403). No AI super PAC spending for or against him found."
+},
+{
+"bioguide": "H000273",
+"name": "John W. Hickenlooper",
+"signature": "Commerce Committee Democrat who wrote the VET AI Act for independent AI audits and wants tech companies liable when AI harms kids.",
+"notable_quote": {
+"text": "The horse is already out of the barn when it comes to AI. The U.S. should lead in setting sensible guardrails for AI to ensure these innovations are developed responsibly",
+"date": "2025-08-05",
+"url": "https://www.meritalk.com/articles/senate-revisits-ai-testing-development-assurance-with-vet-ai-act/"
+},
+"groups": [
+"Ranking Member, Senate Commerce Subcommittee on Consumer Protection, Technology, and Data Privacy"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Hickenlooper has framed data center construction as an opportunity to modernize the grid, co-wrote a bill on space-based data centers for the Pentagon, and signed a letter citing AI demand as a reason to keep funding energy projects. No detailed ratepayer stance was found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter with the Colorado delegation to Energy Secretary Wright on cancelled energy projects (reported by FedScoop)",
+"url": "https://fedscoop.com/ai-data-centers-canceled-energy-projects-colorado-democrats/",
+"date": "2025-10-14",
+"quote": "In an era where artificial intelligence and data centers are driving a rise in energy demand, we must meet these challenges by investing in responsible and affordable energy solutions, rather than destabilizing them.",
+"what_it_shows": "He co-signed a letter treating AI and data center demand as a challenge to meet with more affordable energy investment, not as something to slow."
+},
+{
+"type": "other",
+"title": "Air & Space Forces Magazine: Cruz and Hickenlooper introduce the New Horizon Act on commercial on-orbit data centers",
+"url": "https://www.airandspaceforces.com/senators-want-pentagon-to-tap-in-to-commercial-on-orbit-data-centers/",
+"date": "2026-06-12",
+"quote": null,
+"what_it_shows": "He co-sponsored a bill for a Pentagon pilot using commercial space-based data centers, signaling comfort with data center growth in new forms."
+},
+{
+"type": "other",
+"title": "MSN video: Hickenlooper says data center construction will assist in modernizing America's grid",
+"url": "https://www.msn.com/en-us/money/news/this-might-be-our-opportunity-john-hickenlooper-says-data-center-construction-will-assist-in-modernizing-americas-grid/vi-AA230NO8",
+"date": null,
+"quote": null,
+"what_it_shows": "The video headline reports him calling data center construction an opportunity to modernize the grid; the page has no readable text, so this rests on the headline only."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Hickenlooper wants targeted guardrails: liability when AI harms kids, independent audits under voluntary NIST guidelines, deepfake laws, and better data on AI job losses. He also says government may not be smart or fast enough to regulate AI directly.",
+"evidence": [
+{
+"type": "interview",
+"title": "Colorado Sun issue guide: Should Congress pass a law regulating artificial intelligence?",
+"url": "https://coloradosun.com/2026/06/01/john-hickenlooper-julie-gonzales-us-senate-colorado-primary-issue-guide/",
+"date": "2026-06-01",
+"quote": "Yes, absolutely. The risk to children is unfathomable.",
+"what_it_shows": "He said Congress should regulate AI with rules centered on kids, including making tech companies liable when their AI products harm children."
+},
+{
+"type": "statement",
+"title": "MeriTalk: Hickenlooper and Capito reintroduce the VET AI Act",
+"url": "https://www.meritalk.com/articles/senate-revisits-ai-testing-development-assurance-with-vet-ai-act/",
+"date": "2025-08-05",
+"quote": "The horse is already out of the barn when it comes to AI. The U.S. should lead in setting sensible guardrails for AI to ensure these innovations are developed responsibly",
+"what_it_shows": "His bill has NIST write guidelines for independent third-party evaluators to check AI companies' safety claims."
+},
+{
+"type": "sponsor",
+"title": "S.2615 VET Artificial Intelligence Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2615",
+"date": "2025-07-31",
+"quote": null,
+"what_it_shows": "He is the lead sponsor of the bill creating voluntary rules for outside experts who audit AI systems."
+},
+{
+"type": "hearing",
+"title": "Senate Commerce hearing on 30 years of Section 230 (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-senate-commerce-hearing-on-30-years-of-section-230/",
+"date": "2026-03",
+"quote": "I'm not sure government is smart enough or can move fast enough to regulate AI at the speed it's going.",
+"what_it_shows": "He doubts government can keep pace with AI and favors making the industry police itself by removing legal shields, a liability approach rather than detailed rules."
+},
+{
+"type": "cosponsor",
+"title": "S.3952 Future of Artificial Intelligence Innovation Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3952",
+"date": "2026-02-26",
+"quote": null,
+"what_it_shows": "He backs codifying the federal AI standards center and creating voluntary standards and testbeds rather than mandates."
+},
+{
+"type": "letter",
+"title": "Ossoff-led Senate Democrats letter to Defense Secretary Hegseth on Pentagon use of xAI's Grok (reported by Jewish Insider)",
+"url": "https://jewishinsider.com/2026/02/senate-democrats-pentagon-grok-ai-antisemitism-deepfake-pornography/",
+"date": "2026-02-09",
+"quote": "While AI technology can facilitate innovation, it must be deployed, used, and regulated in a manner consistent with the national interest and standards of decency",
+"what_it_shows": "He co-signed a letter questioning the Pentagon's use of Grok given its antisemitic outputs and deepfake pornography."
+},
+{
+"type": "statement",
+"title": "Roll Call: Lawmakers want better data on AI's workforce impacts (Senate subcommittee hearing)",
+"url": "https://rollcall.com/2026/07/29/lawmakers-want-better-data-on-ais-workforce-impacts/",
+"date": "2026-07-29",
+"quote": "informed policy starts with good data",
+"what_it_shows": "He is pushing the AI Workforce PREPARE Act to track how AI changes jobs and to require employers to disclose when AI drives mass layoffs."
+},
+{
+"type": "cosponsor",
+"title": "S.146 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "He cosponsored the now-law crackdown on AI-faked intimate images."
+},
+{
+"type": "cosponsor",
+"title": "S.3312 Artificial Intelligence Research, Innovation, and Accountability Act of 2024 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/3312",
+"date": "2023-11-15",
+"quote": null,
+"what_it_shows": "He backed transparency reports and safety standards for companies using AI in high-stakes decisions."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Hickenlooper favors specific fixes: kids' online safety, consumer data protection, deepfake takedowns, and questioning whether Section 230 should shield AI outputs. He has not called for breaking up tech companies.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "He supports a duty of care and safety tools for kids on social media and gaming platforms."
+},
+{
+"type": "hearing",
+"title": "Senate Commerce hearing on 30 years of Section 230 (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-senate-commerce-hearing-on-30-years-of-section-230/",
+"date": "2026-03",
+"quote": "I don't see another way to deal with the situation without allowing or compelling the industry to regulate itself, which is really what 230 gets in the way of.",
+"what_it_shows": "As subcommittee ranking member he suggested Section 230's liability shield blocks accountability and asked how to hold AI outputs accountable without violating the First Amendment."
+},
+{
+"type": "statement",
+"title": "Press release: ICYMI Hickenlooper charts path for AI regulation (Silicon Flatirons framework)",
+"url": "https://www.hickenlooper.senate.gov/press_releases/icymi-hickenlooper-charts-path-for-ai-regulation",
+"date": "2024-02-09",
+"quote": "Hickenlooper's proposal focuses on three policy areas: 1) AI transparency and user literacy, 2) consumer data protection, and 3) international coalition building.",
+"what_it_shows": "His 2024 framework centers on transparency, consumer data protection and standards for third-party auditors, plus letters to X and Meta on explicit AI images."
+},
+{
+"type": "cosponsor",
+"title": "S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "He backs banning connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "S.1094 Journalism Competition and Preservation Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1094",
+"date": "2024-01-08",
+"quote": null,
+"what_it_shows": "He supported letting news outlets bargain collectively with Google and Facebook for payment."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement by Hickenlooper on preempting state AI laws was found as of Sept 2026. He voted with 98 colleagues to strip the 2025 moratorium, and a June 2025 Commerce Democrats letter criticizing the moratorium could not be opened to confirm his signature.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He voted Yea with 98 other senators to remove the moratorium; the vote was near unanimous so it is weak evidence on its own."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searched news for Nvidia, export controls, H20 and H200 and his press releases; found only domestic CHIPS Act funding announcements.",
+"evidence": []
+}
+},
+"search_notes": "About 14 Google News queries (AI, data centers, preemption, chips, workforce, KOSA, Cruz orbital data centers, AI Caucus) plus a site listing of 94 press releases. hickenlooper.senate.gov and commerce.senate.gov returned 403 even with a browser user agent, and the Wayback Machine refused connections, so quotes came from MeriTalk, Roll Call, Colorado Sun, the Tech Policy Press transcript, Jewish Insider, FedScoop and Air & Space Forces Magazine; one 2024 senate.gov release was reached via an earlier Wayback fetch. Could not verify the landscape leads for Senate AI Caucus membership or his signature on the Cantwell letter to Cruz, so both are omitted. The MSN data center video page loaded with no text. No AI super PAC activity found; his primary challenger Julie Gonzales backed a data center moratorium and he did not answer the Colorado Newsline questionnaire."
+},
+{
+"bioguide": "D000197",
+"name": "Diana DeGette",
+"signature": "Energy and Commerce Democrat who wants federal data center standards and privacy guardrails on AI; lost her June 2026 primary to a data center moratorium backer.",
+"notable_quote": {
+"text": "There needs to be federal standards on data centers. They need to have full disclosure of the environmental impacts that they're going to have, which includes the impact on energy and water usage in their areas",
+"date": "2026-05-29",
+"url": "https://coloradosun.com/2026/05/29/diana-degette-melat-kiros-wanda-james-colorado-primary-election-issue-guide/"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "DeGette wants federal standards for data centers, full disclosure of energy and water impacts, and local government say over approvals. She lost her June 2026 primary to a challenger who backed a moratorium.",
+"evidence": [
+{
+"type": "interview",
+"title": "Colorado Sun issue guide: Do you support data center development?",
+"url": "https://coloradosun.com/2026/05/29/diana-degette-melat-kiros-wanda-james-colorado-primary-election-issue-guide/",
+"date": "2026-05-29",
+"quote": "There needs to be federal standards on data centers. They need to have full disclosure of the environmental impacts that they're going to have",
+"what_it_shows": "She wants federal standards, disclosure of energy and water impacts, and local authority over whether data centers get approved, but did not back a moratorium."
+},
+{
+"type": "letter",
+"title": "Letter with the Colorado delegation to Energy Secretary Wright on cancelled energy projects (reported by FedScoop)",
+"url": "https://fedscoop.com/ai-data-centers-canceled-energy-projects-colorado-democrats/",
+"date": "2025-10-14",
+"quote": "In an era where artificial intelligence and data centers are driving a rise in energy demand, we must meet these challenges by investing in responsible and affordable energy solutions, rather than destabilizing them.",
+"what_it_shows": "She co-signed a letter framing AI and data center demand as a reason to keep funding affordable energy projects."
+},
+{
+"type": "other",
+"title": "Energy and Commerce full committee markup including H.R. 9340 Ratepayer Protection Act",
+"url": "https://energycommerce.house.gov/posts/chairman-guthrie-announces-full-committee-markup-of-29-bills",
+"date": "2026-07-16",
+"quote": null,
+"what_it_shows": "She sits on the committee that took up the Ratepayer Protection Act in July 2026; her individual committee vote was not confirmed."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "DeGette wants guardrails focused on privacy and health: she says AI must not be used to take people's sensitive data, and she has pressed regulators on unregulated health chatbots.",
+"evidence": [
+{
+"type": "interview",
+"title": "Colorado Sun issue guide: Should Congress pass a law regulating artificial intelligence?",
+"url": "https://coloradosun.com/2026/05/29/diana-degette-melat-kiros-wanda-james-colorado-primary-election-issue-guide/",
+"date": "2026-05-29",
+"quote": "Artificial intelligence is here, but we need to make sure that it's not used to violate Americans' privacy rights and to take their sensitive data",
+"what_it_shows": "She supports Congress writing AI guardrails, framed mainly around privacy, and predicted bipartisan legislation."
+},
+{
+"type": "hearing",
+"title": "House Energy and Commerce hearing on the risks and benefits of AI chatbots (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-house-hearing-on-the-risks-and-benefits-of-ai-chatbots/",
+"date": "2025-11-18",
+"quote": "AI chatbots are not doctors or nurses, and frankly, we are not regulating them as medical devices.",
+"what_it_shows": "She pressed witnesses on unregulated health chatbots, the FDA's lack of authority, and the HIPAA gap for data people share with chatbots."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter of 44 House Democrats to Armed Services leaders on AI moratorium in the FY26 NDAA",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "Artificial intelligence offers exciting opportunity and innovations, but without proper protections in place, the potential for harm is too great to ignore.",
+"what_it_shows": "She signed a letter saying AI needs protections and states must keep regulating until Congress acts."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "DeGette's record is privacy-focused: reproductive data privacy, pressing chatbot makers on health data, and warning that preemption would let Big Tech run rampant. In her 2026 primary a tech-donor-funded super PAC spent against her challenger.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.3420 My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-23",
+"quote": null,
+"what_it_shows": "She backed limits on how apps and companies collect and share reproductive health data."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter of 44 House Democrats on AI moratorium in the FY26 NDAA",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "Not only would this stomp on state autonomy, but it would create an unnecessary regulatory vacuum that lets Big Tech run rampant.",
+"what_it_shows": "She signed a letter framing federal preemption of state AI laws as a gift to Big Tech."
+},
+{
+"type": "pac",
+"title": "Drop Site News: AIPAC, Big Tech back Diana DeGette over Melat Kiros with $2M spending flood",
+"url": "https://www.dropsitenews.com/p/aipac-ai-degette-melat-kiros-colorado",
+"date": "2026-06-29",
+"quote": "Project 218, another super PAC spending big behind DeGette, receives much of its funding from wealthy tech industry donors",
+"what_it_shows": "A tech-donor-funded super PAC spent $400,000 attacking her challenger, who ran as a critic of unchecked AI and backed a data center moratorium; it is not one of the named AI super PACs."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "DeGette signed both late-2025 House Democratic letters opposing a federal moratorium or preemption of state AI laws, saying states must keep the power to act until Congress passes real protections.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter of 81 House Democrats to Johnson, Thune, Jeffries and Schumer opposing an AI moratorium in the NDAA and the planned executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "As you consider the NDAA, we urge you to oppose any effort to reinsert an AI moratorium barring state and local governments from enforcing their laws.",
+"what_it_shows": "She is listed among the 81 signers opposing a revived moratorium and any executive order preempting state AI laws; the letter notes the Senate rejected the idea 99-1."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter of 44 House Democrats to Armed Services leaders on AI moratorium in the FY26 NDAA",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "She is one of 44 signers urging defense bill negotiators to keep any AI preemption or moratorium out of the NDAA."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or China chip sales as of Sept 2026. Searched news and her press releases for Nvidia, export controls and chips; her record has no related bills.",
+"evidence": []
+}
+},
+"search_notes": "About 12 Google News queries (AI, data centers, chatbots, Kids Online Safety, Big Tech, privacy, Ratepayer Protection Act, hearings, primary coverage) plus a site listing (mostly pre-2025 releases) and the live press release index, which showed no AI or data center releases in 2026. Confirmed both preemption letters at the source: the Matsui PDF was downloaded and its text extracted (DeGette listed; Neguse not), and the Clarke release lists her. Colorado Sun CD1 issue guide, Tech Policy Press chatbot hearing transcript and Drop Site article fetched directly. CPR and E&E News pieces on her primary loss could not be opened (403 or paywall). Her committee vote on the 52-0 Ratepayer Protection Act markup was not individually confirmed."
+},
+{
+"bioguide": "N000191",
+"name": "Joe Neguse",
+"signature": "Judiciary Democrat and antitrust hawk who co-led the 2022 Big Tech antitrust push; little public AI activity found.",
+"notable_quote": {
+"text": "The free market is interfered with by virtue of the market share and the power these monopolies have been able to acquire over time.",
+"date": "2022-11-17",
+"url": "https://neguse.house.gov/media/in-the-news/colorado-congressmen-ken-buck-and-joe-neguse-team-take-big-tech"
+},
+"groups": [
+"House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet (Member)",
+"Assistant Democratic Leader, House Democratic Caucus"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No position on data centers found as of Sept 2026 beyond co-signing an October 2025 letter that cites AI and data center demand as a reason to keep funding Colorado energy projects. Searched news and his press releases for data centers, electricity bills and ratepayers.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter with the Colorado delegation to Energy Secretary Wright on cancelled energy projects (reported by FedScoop)",
+"url": "https://fedscoop.com/ai-data-centers-canceled-energy-projects-colorado-democrats/",
+"date": "2025-10-14",
+"quote": "In an era where artificial intelligence and data centers are driving a rise in energy demand, we must meet these challenges by investing in responsible and affordable energy solutions, rather than destabilizing them.",
+"what_it_shows": "He co-signed a letter treating AI and data center demand as a reason to keep investing in affordable energy; it takes no stance on building or pausing data centers."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on AI safety rules as of Sept 2026, despite his seat on the Judiciary subcommittee covering AI. In the last Congress he cosponsored neutral research bills such as the CREATE AI Act. Searched news for AI, chatbots, deepfakes, copyright and hearings.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.5077 CREATE AI Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5077",
+"date": "2024-04-17",
+"quote": null,
+"what_it_shows": "He backed a national shared computing resource for AI researchers; this is about research access, not safety rules."
+},
+{
+"type": "cosponsor",
+"title": "H.R.9497 AI Advancement and Reliability Act of 2024 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9497",
+"date": "2024-12-20",
+"quote": null,
+"what_it_shows": "He backed a NIST center to study reliable and trustworthy AI; neutral on binding rules."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "medium",
+"summary": "Neguse is an antitrust hawk on Big Tech: he co-led the 2022 House antitrust package with Republican Ken Buck, calls the largest tech firms monopolies, fought the Nexstar-Tegna media merger, and backs kids' privacy and parental control bills.",
+"evidence": [
+{
+"type": "statement",
+"title": "CBS News (reposted by his office): Colorado Congressmen Ken Buck and Joe Neguse team up to take on big tech",
+"url": "https://neguse.house.gov/media/in-the-news/colorado-congressmen-ken-buck-and-joe-neguse-team-take-big-tech",
+"date": "2022-11-17",
+"quote": "The free market is interfered with by virtue of the market share and the power these monopolies have been able to acquire over time.",
+"what_it_shows": "He describes the biggest tech companies as monopolies and sought stronger curbs on self-preferencing and acquisitions than what passed."
+},
+{
+"type": "statement",
+"title": "CPR News (reposted by his office): Big Tech antitrust bill championed by Buck and Neguse passes the House",
+"url": "https://neguse.house.gov/media/in-the-news/big-tech-antitrust-bill-championed-ken-buck-and-joe-neguse-passes-us-house",
+"date": "2022-09-29",
+"quote": "By strengthening antitrust enforcement and ensuring that corporate parties to larger mergers pay their fair share and consumers don't have to foot the bill, Congress is preventing anti-competition tactics",
+"what_it_shows": "His Merger Filing Fee Modernization Act anchored the bipartisan Big Tech antitrust package that passed the House 242-184."
+},
+{
+"type": "statement",
+"title": "Neguse and Bennet statement on FCC approval of the Nexstar-Tegna merger",
+"url": "https://neguse.house.gov/media/press-releases/neguse-bennet-slam-fcc-sidestepping-federal-law-approve-62b-nexstar-tegna",
+"date": "2026-03-20",
+"quote": "For Colorado, it will likely result in even greater consolidation of local news coverage, further depriving Coloradans of access to a healthy and competitive news market.",
+"what_it_shows": "He opposed a $6.2 billion media merger and the FCC's waiver of the national ownership cap."
+},
+{
+"type": "statement",
+"title": "Press release: Neguse floor speech denouncing the Nexstar-Tegna merger and calling for a statutory limit on the FCC",
+"url": "https://neguse.house.gov/media/press-releases/rep-neguse-delivers-floor-speech-denouncing-unlawful-nexstar-tegna-merger",
+"date": "2026-03-27",
+"quote": "The deal is outrageous. It's devastating for local news, devastating for consumers, devastating for freedom of the press.",
+"what_it_shows": "He wants Congress to write a hard limit into law so regulators cannot waive media ownership caps."
+},
+{
+"type": "cosponsor",
+"title": "H.R.2657 Sammy's Law",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2026-06-30",
+"quote": null,
+"what_it_shows": "He backs requiring big social media sites to let parents use safety apps to manage their kids' accounts."
+},
+{
+"type": "cosponsor",
+"title": "H.R.6152 Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-09-03",
+"quote": null,
+"what_it_shows": "He backs a crackdown on scam robocalls from abroad."
+},
+{
+"type": "cosponsor",
+"title": "H.R.2801 Kids PRIVACY Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2801",
+"date": "2023-05-10",
+"quote": null,
+"what_it_shows": "He backed limits on how apps and websites collect and use data from kids and teens."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws as of Sept 2026. He did not sign the Nov 2025 Matsui or Dec 2025 Clarke letters that many House Democrats signed, and no bill in his record touches the issue.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "Neguse backs tax breaks for designing and building chips in America but no public position was found on export controls or chip sales to China. Searched news for Nvidia, export controls and chips.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.802 STAR Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2025-02-04",
+"quote": null,
+"what_it_shows": "He supports extending the tax credit for building chip factories in America; neutral on export controls."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3204 BASIC Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-05-06",
+"quote": null,
+"what_it_shows": "He supports adding chip design to the domestic manufacturing tax credit; neutral on export controls."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8959 Semiconductor Superiority Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8959",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "He supports tax breaks for companies that design and build chips in America; neutral on export controls."
+}
+]
+}
+},
+"search_notes": "About 12 Google News queries (AI, data centers, chatbots, deepfakes, Kids Online Safety, Big Tech, antitrust, copyright, preemption, hearings, Nexstar) plus a site listing of 36 archived pages and a scan of six pages of his live press release index for AI or tech keywords; only the two Nexstar-Tegna releases matched. 2025-2026 coverage of Neguse is dominated by public lands, wildfire, corruption oversight and leadership messaging, with no AI statements found. Matsui letter PDF text confirmed he was not a signer; Clarke release also does not list him. The CPR April 2026 story on Colorado parents lobbying for kids' online safety could not be opened (403). No AI super PAC activity found."
+}
+]

@@ -1,0 +1,633 @@
+[
+{
+"bioguide": "D000096",
+"name": "Danny K. Davis",
+"signature": "Low-profile on AI: signs Democratic letters against freezing state AI laws and cosponsors AI civil-rights and algorithm-accountability bills; retiring in January 2027.",
+"notable_quote": null,
+"groups": [],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements, letters, or bill cosponsorships on data centers or electric bills were found as of Sept 2026. He is not on the Energy Bills Relief Act (H.R. 7977) or the Illinois delegation's data center letters.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted rules on AI: he cosponsors bills requiring bias testing of automated decision systems and banning AI discrimination, and signed letters questioning AI-driven airline pricing and the IRS's use of AI on taxpayer data.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Algorithmic Accountability Act of 2025 (H.R. 5511)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-19",
+"quote": null,
+"what_it_shows": "Backs making companies test automated decision systems for bias and harm and report results to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Artificial Intelligence Civil Rights Act of 2025 (H.R. 6356)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "Backs a ban on discriminatory AI systems with required pre- and post-deployment testing."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Deceptive Practices and Voter Intimidation Prevention Act of 2025 (H.R. 4894)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "Supports outlawing AI-made false election content in the two months before a federal election."
+},
+{
+"type": "letter",
+"title": "Letter: García and Nadler letter to Delta CEO on AI use in ticket pricing (Davis cosigned)",
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-garcia-nadler-lead-house-colleagues-in-demanding-answers-from-delta-ceo-about-ai-use-in-ticket-pricing",
+"date": "2025-11-05",
+"quote": "generative AI is being deployed throughout the economy with limited transparency, this move could drive up prices for consumers and result in individualized, surveillance-based price discrimination",
+"what_it_shows": "He joined 23 colleagues demanding transparency about generative AI pricing, treating AI-driven price discrimination as a consumer harm."
+},
+{
+"type": "letter",
+"title": "Letter: Ways and Means Democrats question IRS use of AI on taxpayer data (Davis signed)",
+"url": "https://fedscoop.com/irs-using-ai-cobol-doge-house-dems-letter/",
+"date": "2025-12-18",
+"quote": "We hope this Administration shares our goal of ensuring any use of AI by the IRS is appropriately scrutinized",
+"what_it_shows": "He wants government AI use scrutinized for accuracy and taxpayer-data privacy before deployment."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Thin record. His one clear signal is cosigning the Nov 2025 letter to Delta that frames AI pricing as a problem in an already concentrated airline market and asks for transparency and safeguards.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: García and Nadler letter to Delta CEO on AI use in ticket pricing (Davis cosigned)",
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-garcia-nadler-lead-house-colleagues-in-demanding-answers-from-delta-ceo-about-ai-use-in-ticket-pricing",
+"date": "2025-11-05",
+"quote": "At a time when Americans are struggling to afford basic necessities, the airline industry is already highly concentrated, and generative AI is being deployed throughout the economy with limited transparency",
+"what_it_shows": "Signals support for consumer-protection and antitrust scrutiny of how large companies deploy AI."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Signed the Nov 26, 2025 letter from 81 House Democrats telling congressional leaders not to revive the state AI-law moratorium in the defense bill or impose it by executive order.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Matsui-led House Democrats oppose AI moratorium in NDAA and preemption executive order (Davis signed)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "He put his name on a direct rejection of federal preemption of state AI laws; his signature was confirmed in the letter's text."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills on chip export controls, Nvidia sales to China, or DeepSeek were found as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Searches: Davis AI, artificial intelligence, data center, chatbot/deepfake/Big Tech, IRS AI letter, super PAC, plus davis.house.gov site listing (7 archived items, none on AI) and his energy issues page. Davis announced retirement July 31, 2025. Verified his signature on the Matsui letter by extracting the PDF text locally. The landscape lead saying he voted Yes on the FY27 NDAA is wrong: govtrack roll 278 shows him voting Nay, so it was not used. He is not a cosponsor of H.R. 7977 per govtrack. No individual quotes by Davis on AI were found; all evidence is bills and group letters. No AI super PAC activity tied to him found."
+},
+{
+"bioguide": "K000391",
+"name": "Raja Krishnamoorthi",
+"signature": "House Democrats' leading China-chips hawk: sponsored a ban on advanced chip sales to China, co-led letters against the H20 reversal and Gulf chip deals, and co-authored the DeepSeek report.",
+"notable_quote": {
+"text": "This approach risks eroding the credibility of our export controls regime, blurs the line between economic and security priorities, and sends a dangerous signal that critical guardrails are up for negotiation.",
+"date": "2025-07-28",
+"url": "https://democrats-foreignaffairs.house.gov/2025/7/meeks-and-krishnamoorthi-to-trump-administration-export-controls-should-not-be-bargaining-chips-in-china-trade-talks"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (member, 119th Congress)",
+"House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party (Ranking Member, 2023 to Jan. 2026)",
+"House Permanent Select Committee on Intelligence, Subcommittee on National Intelligence Enterprise (Ranking Member, from May 2026)",
+"House Oversight Subcommittee on Health Care and Financial Services (Ranking Member)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Focuses on rising utility bills: original cosponsor of the Energy Bills Relief Act so large users like data centers pay their own grid costs, and told the Energy Secretary that AI and data center demand strains the grid and calls for more clean energy, not less.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: Energy Bills Relief Act (H.R. 7977)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Backs the main House Democratic bill to keep data center grid costs off household electric bills; original cosponsor status confirmed on govtrack."
+},
+{
+"type": "letter",
+"title": "Letter: Krishnamoorthi to Energy Secretary Wright on rising Illinois energy bills",
+"url": "https://krishnamoorthi.house.gov/media/press-releases/congressman-krishnamoorthi-blasts-trump-administration-driving-energy-bills",
+"date": "2025-09-09",
+"quote": "At a time when our grid is increasingly strained by extreme weather, aging infrastructure, and rising demand from technologies like AI and data centers, we should be doubling down on clean energy investments, not walking away from them.",
+"what_it_shows": "He names AI and data center demand as a grid strain and wants clean energy built to meet it, rather than calling for a pause."
+},
+{
+"type": "statement",
+"title": "Press release: Krishnamoorthi discusses rising utility costs in Bloomington",
+"url": "https://krishnamoorthi.house.gov/media/press-releases/congressman-raja-krishnamoorthi-discusses-rising-utility-costs-bloomington",
+"date": "2025-10-01",
+"quote": "I’m fighting to restore clean energy investments, lower utility costs, and build a resilient grid that keeps bills down and the lights on for Illinois families.",
+"what_it_shows": "Utility affordability was a central theme of his Senate campaign, framed around clean energy rather than blocking data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs specific guardrails, not sweeping rules: he pressed Ring over AI scanning of doorbell footage as a mass-surveillance risk, secured AI oversight requirements for spy agencies, cosponsored a bill for an NSA playbook to protect frontier AI from theft, and introduced a worker-retraining tax bill for the AI economy.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Krishnamoorthi raises alarm over Ring's AI Search Party feature",
+"url": "https://krishnamoorthi.house.gov/media/press-releases/krishnamoorthi-raises-alarm-over-rings-new-ai-search-party-feature-citing",
+"date": "2026-02-27",
+"quote": "the use of AI to scan doorbell camera recordings raises serious privacy concerns related to the potential for mass surveillance of people and implications for 4th Amendment rights.",
+"what_it_shows": "Treats consumer AI surveillance features as a civil-liberties problem needing accountability."
+},
+{
+"type": "statement",
+"title": "Press release: Krishnamoorthi secures China, Iran, AI and prediction-market provisions in FY2027 Intelligence Authorization Act",
+"url": "https://krishnamoorthi.house.gov/media/press-releases/krishnamoorthi-secures-provisions-china-iran-ai-and-prediction-markets-while",
+"date": "2026-07-21",
+"quote": "new oversight of how artificial intelligence is deployed across the Intelligence Community",
+"what_it_shows": "He wrote oversight of government AI deployment into the intelligence bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Advanced AI Security Readiness Act (H.R. 3919)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3919",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Supports having the NSA write a playbook to protect the most advanced AI systems from theft by rival countries, a security-first view of frontier AI."
+},
+{
+"type": "statement",
+"title": "Press release: Krishnamoorthi and Sen. Warner introduce Investing in American Workers Act for the AI-driven economy",
+"url": "https://krishnamoorthi.house.gov/media/press-releases/congressman-krishnamoorthi-senator-warner-introduce-bill-help-workers-adapt-ai",
+"date": "2025-12-16",
+"quote": null,
+"what_it_shows": "His answer to AI job disruption is a tax incentive for employer-paid retraining, not limits on AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Securing Elections From AI Deception Act (118th Congress, H.R. 8858)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "Backed a ban on AI deepfakes used to deceive voters in federal elections."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted tech rules, mostly on kids' safety and China-linked technology: cosponsors Sammy's Law, the STOP CSAM Act and the Connected Vehicle Security Act, and earlier backed the TikTok divest-or-ban law.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Sammy's Law (H.R. 2657)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2025-10-31",
+"quote": null,
+"what_it_shows": "Would force big social media platforms to let parents use third-party safety apps on kids' accounts."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: STOP CSAM Act of 2025 (H.R. 3921)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-06-03",
+"quote": null,
+"what_it_shows": "Would make platforms do more to remove child sexual abuse material and let victims sue."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (H.R. 8730)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Bans internet-connected cars and car software from China-, Russia-, Iran- or North Korea-linked companies."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Americans from Foreign Adversary Controlled Applications Act (118th Congress, H.R. 7521)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-05",
+"quote": null,
+"what_it_shows": "Backed forcing TikTok's sale or ban; shows willingness to regulate large platforms on security grounds."
+},
+{
+"type": "letter",
+"title": "Letter: Krishnamoorthi raises alarm over Ring's AI Search Party feature",
+"url": "https://krishnamoorthi.house.gov/media/press-releases/krishnamoorthi-raises-alarm-over-rings-new-ai-search-party-feature-citing",
+"date": "2026-02-27",
+"quote": "Oversight Subcommittee Ranking Member Warns Technology Could Enable Widespread Surveillance Without Meaningful Consent",
+"what_it_shows": "Uses his Oversight subcommittee post to press a major tech company on consumer privacy."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI-law moratorium, and searches for statements on the moratorium, the Dec 2025 executive order and the Mar 2026 White House framework found nothing.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Wants tighter chip export controls. He sponsored a bill to block the most powerful chips from going to China, cosponsors the Chip Security Act, GAIN AI Act and cloud-loophole bills, condemned the H20 sales reversal as using national security as a bargaining chip, and called the UAE and Saudi chip deals a threat to national security.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: No Advanced Chips for the CCP Act of 2025 (H.R. 5022)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5022",
+"date": "2025-08-22",
+"quote": null,
+"what_it_shows": "His own bill to bar sales of the most powerful computer chips to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Chip Security Act (H.R. 3447)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "Backs location verification on advanced AI chips to catch smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: GAIN AI Act of 2025 (H.R. 5885)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5885",
+"date": "2025-10-31",
+"quote": null,
+"what_it_shows": "Would require chipmakers to offer advanced chips to U.S. buyers before selling to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Remote Access Security Act (H.R. 2683)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"date": "2025-04-08",
+"quote": null,
+"what_it_shows": "Closes the cloud-access loophole in chip export controls."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Export Controls Enforcement Act (H.R. 4505)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4505",
+"date": "2025-09-02",
+"quote": null,
+"what_it_shows": "Puts more export-control officers overseas to catch chip smuggling."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Stop Stealing our Chips Act (H.R. 6322)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6322",
+"date": "2025-12-01",
+"quote": null,
+"what_it_shows": "Rewards and protects whistleblowers who report export-control violations."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: No DeepSeek on Government Devices Act (H.R. 1121)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-07",
+"quote": null,
+"what_it_shows": "Would remove the Chinese AI app DeepSeek from federal devices."
+},
+{
+"type": "letter",
+"title": "Letter: Meeks and Krishnamoorthi to Commerce Secretary Lutnick on H20 export controls as bargaining chips",
+"url": "https://democrats-foreignaffairs.house.gov/2025/7/meeks-and-krishnamoorthi-to-trump-administration-export-controls-should-not-be-bargaining-chips-in-china-trade-talks",
+"date": "2025-07-28",
+"quote": "This approach risks eroding the credibility of our export controls regime, blurs the line between economic and security priorities, and sends a dangerous signal that critical guardrails are up for negotiation.",
+"what_it_shows": "Directly opposed the administration's decision to let Nvidia resume H20 sales to China as part of trade talks."
+},
+{
+"type": "statement",
+"title": "Joint statement: Coons, Shaheen, Reed, Warner, Kelly, Himes and Krishnamoorthi on Trump's UAE and Saudi AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"date": "2025-05-16",
+"quote": "President Trump announced deals to export very large volumes of advanced AI chips to the UAE and Saudi Arabia without credible security assurances to prevent U.S. adversaries from accessing those chips.",
+"what_it_shows": "Opposes large chip exports to the Gulf without safeguards against leakage to China."
+},
+{
+"type": "other",
+"title": "Select Committee report: 'DeepSeek Unmasked' with letter demanding Nvidia chip-sales data",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-krishnamoorthi-unveil-explosive-report-chinese-ai-firm-deepseek",
+"date": "2025-04-16",
+"quote": null,
+"what_it_shows": "As ranking member he co-released a bipartisan report finding DeepSeek ran on tens of thousands of Nvidia chips, some subject to export controls, and demanded answers from Nvidia."
+}
+]
+}
+},
+"search_notes": "Searches: Krishnamoorthi AI, data centers, Kill Switch, Nvidia/export controls/H20, chatbot/deepfake/Big Tech, preemption/moratorium, ratepayers/ComEd, Senate debate AI, AGI, TikTok/social media; site listing of krishnamoorthi.house.gov (41 items) and fetches of six releases plus committee letters. A WGN Radio interview titled 'An AI Kill Switch bill has been introduced to Congress' (July 24, 2026) and a FOX 32 Senate debate covering AI (Feb 16, 2026) could not be opened (undecodable URLs, sites blocked), so the landscape lead that he supports a kill-switch approach is unverified and not scored; govtrack shows he is not a cosponsor of H.R. 9917 AI Kill Switch Act. He lost the March 2026 Democratic Senate primary. AI Caucus membership comes from the landscape lead and was not independently verified. His Select Committee ranking-member role ended in Jan 2026 per the lead; the intelligence subcommittee role was verified in a May 14, 2026 release. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "S001145",
+"name": "Janice D. Schakowsky",
+"signature": "Retiring consumer-protection hawk who leads House Democrats on Big Tech accountability and demanded zero time, not ten years, for any freeze on state AI laws.",
+"notable_quote": {
+"text": "Zero time as we watch AI develop not 10 years. We haven't done that for anything else, and for us to do that now makes absolutely no sense and puts all consumers at risk.",
+"date": "2025-05-21",
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/"
+},
+"groups": [
+"House Energy and Commerce Committee, Subcommittee on Commerce, Manufacturing, and Trade (Ranking Member, 119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Wants ratepayers protected first: she signed letters pressing PJM and FERC to keep data center grid costs off household bills and restore mandatory curtailment rules for large loads, and is an original cosponsor of the Energy Bills Relief Act.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Van Hollen, Beyer and colleagues to PJM on data center load and capacity costs (Schakowsky signed)",
+"url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-beyer-colleagues-urge-power-grid-operator-pjm-to-prioritize-consumers-access-to-reliable-affordable-electricity-over-large-corporate-interests",
+"date": "2025-11-06",
+"quote": "PJM must swiftly address the fact that data center energy demand is threatening to overwhelm the grid",
+"what_it_shows": "She asked the grid operator for a large-load queue, mandatory backstop rules and better forecasting so consumers do not pay for data center growth."
+},
+{
+"type": "letter",
+"title": "Letters: Mullin-led House Democrats to FERC, Edison Electric Institute and Data Center Coalition on data center energy costs (Schakowsky signed)",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"date": "2025-10-28",
+"quote": "The expansion of data centers risks creating persistent affordability challenges for households and small businesses.",
+"what_it_shows": "Asked regulators and industry how grid upgrade costs will be kept off household bills and which cost-allocation tools Congress should consider."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: Energy Bills Relief Act (H.R. 7977)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Backs making facilities like data centers pay their own grid costs; original cosponsor status confirmed on govtrack."
+},
+{
+"type": "statement",
+"title": "Press release: Schakowsky, Casten, Beyer reintroduce Energy Consumer Protection Act",
+"url": "https://schakowsky.house.gov/media/press-releases/schakowsky-casten-beyer-reintroduce-energy-consumer-protection-act-crack-down",
+"date": "2026-04-21",
+"quote": "As energy costs soar, we can’t risk letting bad actors rig the electricity market to line their own pockets at the expense of families",
+"what_it_shows": "Her energy work centers on consumer bills and FERC enforcement; the bill targets market manipulation rather than data centers directly."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Wants enforceable consumer-protection rules for AI now: she warned a moratorium would let deepfakes spread and let companies profile and deceive consumers, opened an investigation into xAI's Grok over sexualized images of children, and is probing whether Big Tech is using the USMCA to block AI standards.",
+"evidence": [
+{
+"type": "statement",
+"title": "Statement: Top E&C Democrats blast AI provision in Republican reconciliation bill",
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/top-ec-democrats-blast-energy-environment-spectrum-and-ai-provisions-included",
+"date": "2025-05-12",
+"quote": "This ban will allow AI companies to ignore consumer privacy protections, let deepfakes spread, and allow companies to profile and deceive consumers using AI.",
+"what_it_shows": "She frames AI harms as concrete consumer dangers that need enforceable rules today."
+},
+{
+"type": "letter",
+"title": "Letter: E&C Democrats investigate Elon Musk's Grok over non-consensual sexualized images (Schakowsky co-led)",
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/ec-democrats-investigate-elon-musks-grok-spreading-rampant-non-consensual",
+"date": "2026-02-19",
+"quote": "We are deeply concerned about xAI’s refusal to put a stop to the creation of nonconsensual sexualized images, particularly of children",
+"what_it_shows": "Used her subcommittee post to demand answers on AI image-generation safeguards."
+},
+{
+"type": "letter",
+"title": "Letter: Schakowsky and Sen. Warren press USTR on Big Tech using the USMCA to stop AI regulation",
+"url": "https://schakowsky.house.gov/media/press-releases/schakowsky-warren-press-trump-admin-whether-big-tech-lobbyists-are-scheming",
+"date": "2026-07-23",
+"quote": "Big Tech trade associations may be trying to use the USMCA to prevent the U.S., Mexico, and Canada from developing Artificial Intelligence (AI) standards and holding them accountable for hurting consumers.",
+"what_it_shows": "She wants governments free to set AI standards and hold companies liable, and sees trade deals as a back door around that."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Facial Recognition and Biometric Technology Moratorium Act of 2023 (118th Congress, H.R. 1404)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/1404",
+"date": "2023-03-07",
+"quote": null,
+"what_it_shows": "Backed pausing federal use of face recognition until Congress sets rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Preventing Deepfakes of Intimate Images Act (118th Congress, H.R. 3106)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2024-01-29",
+"quote": null,
+"what_it_shows": "Backed making AI sexual deepfakes of real people illegal with a right to sue."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "A longtime Big Tech critic: she sponsors a bill to strip Section 230 protection when platforms break their own rules, cosponsored the American Privacy Rights Act and a ban on surveillance advertising, demanded answers from Meta on covert tracking, and called the weakened House kids' online safety bills terribly inadequate.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: Online Consumer Protection Act (H.R. 2889)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2889",
+"date": "2025-04-10",
+"quote": null,
+"what_it_shows": "Her bill would make platforms publish and follow their own rules and clarifies Section 230 does not shield violations."
+},
+{
+"type": "statement",
+"title": "Press release: Schakowsky, Castor reintroduce Online Consumer Protection Act",
+"url": "https://schakowsky.house.gov/media/press-releases/schakowsky-castor-reintroduce-legislation-hold-online-platforms-accountable",
+"date": "2025-04-15",
+"quote": "Our bill ensures that Big Tech can’t abuse Section 230 when they break their own terms of service",
+"what_it_shows": "She wants Section 230 narrowed so platforms can be held liable."
+},
+{
+"type": "letter",
+"title": "Letter: Schakowsky, Castor and Matsui demand answers from Meta on covert web tracking",
+"url": "https://schakowsky.house.gov/media/press-releases/schakowsky-castor-and-matsui-demand-answers-meta-ahead-energy-commerce",
+"date": "2025-12-09",
+"quote": "Unbeknownst to Meta’s users, Meta’s new tracking method followed them across the web even if the user tried to keep their browsing private",
+"what_it_shows": "Treats Meta's tracking as part of a pattern justifying a strong federal privacy law."
+},
+{
+"type": "hearing",
+"title": "Markup: House E&C subcommittee advances 18 kids' online safety bills (The Hill)",
+"url": "https://thehill.com/policy/technology/5645395-online-privacy-protection-teens/",
+"date": "2025-12-11",
+"quote": "I think the legislation that has been proposed is terribly inadequate.",
+"what_it_shows": "She said she was furious that Republicans weakened KOSA and COPPA 2.0 and wants stronger kids' protections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: American Privacy Rights Act of 2024 (118th Congress, H.R. 8818)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8818",
+"date": "2024-06-25",
+"quote": null,
+"what_it_shows": "Backed a comprehensive national privacy law with extra protections for kids."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Banning Surveillance Advertising Act of 2023 (118th Congress, H.R. 5534)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5534",
+"date": "2023-09-18",
+"quote": null,
+"what_it_shows": "Backed banning ads targeted with personal behavioral data, a strong limit on the Big Tech business model."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Protecting American Consumers from Robocalls Act (H.R. 8311)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8311",
+"date": "2026-04-15",
+"quote": null,
+"what_it_shows": "Her own bill to crack down on robocalls, a targeted consumer fix."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Firmly against preempting state AI laws. At a May 2025 hearing she said Congress should allow zero time, not ten years, for a freeze on state AI laws, called the moratorium a giant gift to Big Tech, and signed both the Matsui and Clarke letters against reviving it in the NDAA or by executive order.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Hearing: E&C Commerce subcommittee hearing on AI Regulation and the Future of US Leadership (transcript)",
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"date": "2025-05-21",
+"quote": "Zero time as we watch AI develop not 10 years. We haven't done that for anything else, and for us to do that now makes absolutely no sense and puts all consumers at risk.",
+"what_it_shows": "As ranking member she rejected any moratorium on state AI enforcement in her own words."
+},
+{
+"type": "statement",
+"title": "Statement: Top E&C Democrats blast AI provision in Republican reconciliation bill",
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/top-ec-democrats-blast-energy-environment-spectrum-and-ai-provisions-included",
+"date": "2025-05-12",
+"quote": "The Republicans’ 10-year ban on the enforcement of state laws protecting consumers from potential dangers of new artificial intelligence systems gives Big Tech free reign to take advantage of children and families.",
+"what_it_shows": "Her first reaction to the moratorium language was that it strips state consumer protections for Big Tech's benefit."
+},
+{
+"type": "letter",
+"title": "Letter: Matsui-led House Democrats oppose AI moratorium in NDAA and preemption executive order (Schakowsky signed)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "Joined 81 Democrats opposing preemption by defense bill or executive order; signature confirmed in the letter text."
+},
+{
+"type": "letter",
+"title": "Letter: Clarke-led House Democrats urge no AI moratorium or preemption in FY26 NDAA (Schakowsky signed)",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "Second letter within a week against preempting state AI laws."
+},
+{
+"type": "letter",
+"title": "Letter: Schakowsky and Sen. Warren press USTR on Big Tech using the USMCA to stop AI regulation",
+"url": "https://schakowsky.house.gov/media/press-releases/schakowsky-warren-press-trump-admin-whether-big-tech-lobbyists-are-scheming",
+"date": "2026-07-23",
+"quote": "They are now attempting to use trade deals to preempt even the federal government from effectively regulating AI.",
+"what_it_shows": "Extends her anti-preemption stance to trade agreements, opposing limits on either state or federal AI rules."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills on chip export controls or Nvidia sales to China found. Her China-related tech work has been on data brokers selling Americans' data to adversaries, not chips.",
+"evidence": []
+}
+},
+"search_notes": "Searches: Schakowsky artificial intelligence, data centers, chatbot/deepfake/Grok/Big Tech, preemption/moratorium, E&C AI hearings, KOSA/COPPA markup, Obernolte/Guthrie framework, chatbots hearing, statements 2026; site listings of schakowsky.house.gov (62 items) and democrats-energycommerce.house.gov; fetched eight releases, the May 2025 hearing transcript, and four coalition letters (Matsui letter signature confirmed from extracted PDF text). She announced retirement in May 2025. Govtrack shows she is not a cosponsor of the GUARDRAILS Act, Ratepayer Protection Act or H.R. 6529. Reuters coverage of the Warren letter was blocked; her own release was used instead. No AI super PAC activity tied to her found."
+},
+{
+"bioguide": "S001190",
+"name": "Bradley Scott Schneider",
+"signature": "Chair of the New Democrat Coalition with little public AI record of his own beyond cosponsoring the Energy Bills Relief Act and an AI environmental-impacts study bill.",
+"notable_quote": null,
+"groups": [
+"New Democrat Coalition (Chair, 119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "His only signals are cosponsorships: an original cosponsor of the Energy Bills Relief Act so data centers pay their own grid costs, and a late cosponsor of a bill to study AI's electricity and water use. He did not sign the New Democrat Coalition's March 2026 letter seeking a national data center growth plan, and no statements by him were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: Energy Bills Relief Act (H.R. 7977)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Backs keeping data center grid costs off household bills; original cosponsor status confirmed on govtrack."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Artificial Intelligence Environmental Impacts Act of 2026 (H.R. 9183)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-08-20",
+"quote": null,
+"what_it_shows": "Supports a federal study and voluntary reporting of AI's electricity, water and pollution footprint; joined Aug 20, 2026 per govtrack."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searched his press releases, newsletters, news coverage and New Democrat Coalition releases for statements on AI safety, chatbots, deepfakes or AI rules; the coalition's AI statements are issued by its AI Task Force chair, Rep. Foushee, not by Schneider.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Thin and dated record. In 2022 he led a bipartisan letter asking social media companies to explain how they moderate and flag violent threats. Nothing on Section 230, privacy or antitrust in the 119th Congress was found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Schneider, Gonzales, Higgins lead bipartisan letter urging social media companies to respond to violent threats",
+"url": "https://schneider.house.gov/media/press-releases/schneider-gonzales-higgins-lead-bipartisan-letter-urging-social-media",
+"date": "2022-10-13",
+"quote": "I implore social media companies to be transparent about the steps they are taking to moderate and flag violent threats on their platforms.",
+"what_it_shows": "Shows he favors platform transparency and accountability on harmful content, a targeted rather than sweeping approach."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI-law moratorium, and no statement on the moratorium, the Dec 2025 executive order or the Mar 2026 White House framework was found in his name.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position on export controls found. His one chips bill, the STAR Act, extends a domestic chip-factory tax credit and does not address sales to China.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: STAR Act of 2025 (H.R. 802)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2026-08-20",
+"quote": null,
+"what_it_shows": "Supports extending the tax break for building chip factories in America; neutral on export controls."
+}
+]
+}
+},
+"search_notes": "Searches: Brad Schneider artificial intelligence, AI, data centers, ComEd/electric bills, chips/Nvidia/export controls, Big Tech/deepfake, TikTok/social media, New Democrat Coalition AI/principles/preemption, 10th News newsletter; site listing of schneider.house.gov (25 items, none on AI) and newdemocratcoalition.house.gov (80 items shown). Downloaded and extracted the New Dem FY27 data center letter PDF: Schneider is not among its signers. New Dem AI Task Force and Innovation Agenda releases quote Reps. Foushee and Liccardo, not Schneider. A Nextgov 'Tech bills of the week' item that surfaced under his name (Feb 20, 2026) could not be opened. Govtrack confirms he voted Nay on the FY27 NDAA (not used as AI evidence). No AI super PAC support or attacks found."
+}
+]

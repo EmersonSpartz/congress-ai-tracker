@@ -1,0 +1,579 @@
+[
+{
+"bioguide": "G000600",
+"name": "Marie Gluesenkamp Perez",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement on data centers, their electricity costs or water use was found as of Sept 2026. She was one of 11 House Democrats who voted for the SPEED Act permitting bill in December 2025, but that bill covers federal permitting generally and does not mention data centers, so it is not scored here.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: passage of H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"what_it_shows": "She voted Yea on a permitting-reform bill favored by builders, one of 11 Democrats to do so, but the bill is not specific to data centers.",
+"date": "2025-12-18"
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "Searched her press releases, RSS feed, local coverage and hearing remarks for statements on AI safety, chatbots, deepfakes or AI rules and found none as of Sept 2026. Her only AI-tagged bill is a 2024 research bill on farm automation that takes no side on regulation.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4173 Advancing Automation Research and Development in Agriculture Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4173",
+"quote": null,
+"what_it_shows": "Funds research grants for farm robots and automation; a neutral research bill, not a position on AI risk.",
+"date": "2024-02-26"
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Right to repair is her signature tech issue. She has repeatedly introduced bills forcing electronics, farm equipment, car and defense manufacturers to share parts, tools and repair information, and she attacks the companies that block repairs. This is a targeted rule on tech companies, not a broad Big Tech crackdown.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Gluesenkamp Perez introduces the Fair Repair Act with Rep. Morelle and Sen. Lujan",
+"url": "https://gluesenkampperez.house.gov/posts/gluesenkamp-perez-introduces-legislation-to-give-americans-the-right-to-repair-their-own-electronics",
+"quote": "The amount of money, time and emissions that are wasted every year by the multinationals who profit off planned obsolescence disgusts every red blooded American.",
+"what_it_shows": "She wants a federal law requiring manufacturers to give owners and independent shops the parts, tools and information to fix phones, laptops and other products.",
+"date": "2026-02-09"
+},
+{
+"type": "statement",
+"title": "Press release: Gluesenkamp Perez, Morelle, Lujan introduce the Fair Repair Act (2024)",
+"url": "https://gluesenkampperez.house.gov/posts/gluesenkamp-perez-morelle-lujan-introduce-the-fair-repair-act",
+"quote": "In rural communities like mine, it can take hours to drive to an authorized retailer or Apple Store for a repair.",
+"what_it_shows": "Shows a multi-year push for right-to-repair rules aimed at electronics makers such as Apple.",
+"date": "2024-05-29"
+},
+{
+"type": "statement",
+"title": "Press release: Statement on the FY27 NDAA, citing its right-to-repair provisions",
+"url": "https://gluesenkampperez.house.gov/posts/rep-marie-gluesenkamp-perez-statement-on-the-ndaa",
+"quote": "This legislation provides a meaningful raise for servicemembers, strengthens and invests in our domestic manufacturing base for national security, and includes provisions to support the Right to Repair",
+"what_it_shows": "She calls right to repair the issue that inspired her to run for Congress and counts NDAA repair provisions as a win.",
+"date": "2026-07-23"
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement on the state AI law moratorium, the December 2025 executive order or the March 2026 White House framework was found. She did not sign the Nov. 26, 2025 letter from 81 House Democrats opposing federal preemption of state AI laws.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"quote": null,
+"what_it_shows": "Her name does not appear among the 81 signers; Washington signers were Schrier and Jayapal. This is an absence, not a position.",
+"date": "2025-11-26"
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills on chip export controls or Nvidia sales to China were found as of Sept 2026. A January 2025 headline about her helping secure semiconductor manufacturing funding for the Pacific Northwest concerns domestic production, not export policy.",
+"evidence": []
+}
+},
+"signature": "Right-to-repair champion (Fair Repair Act) with no notable public AI activity found; a rare Democratic Yea on the SPEED Act permitting bill.",
+"notable_quote": {
+"text": "The amount of money, time and emissions that are wasted every year by the multinationals who profit off planned obsolescence disgusts every red blooded American.",
+"url": "https://gluesenkampperez.house.gov/posts/gluesenkamp-perez-introduces-legislation-to-give-americans-the-right-to-repair-their-own-electronics",
+"date": "2026-02-09"
+},
+"groups": [],
+"search_notes": "Ran about 12 Google News queries (artificial intelligence, AI, data center, chatbot/deepfake, Big Tech/Section 230, chips/export controls, preemption/moratorium, electricity/ratepayers/BPA, AI literacy, right to repair, AI jobs, kids/screens). Her site is a Next.js/WordPress hybrid; the press listing paths 404, so I used the RSS feed (/feed, pages 1-6) and fetched the Fair Repair Act releases (2026 and 2024), the appropriations-season recap and the NDAA statement. Checked the Clerk XML for roll call 356 (Yea) and opened the govtrack page. Checked the Matsui letter PDF (not a signer) and the Mullin FERC data center letter (not a signer). Not opened: Gizmodo and Washington Times pieces (Aug 2026) on her proposal to add images to legislation, and a FedScoop story on an OMB AI grants tool that mentioned her; Google's URL decoder was rate-limited most of the session and the Wayback fallback was down. Found no AI or data center statements in any opened source."
+},
+{
+"bioguide": "N000189",
+"name": "Dan Newhouse",
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "medium",
+"summary": "Newhouse, who is retiring, wrote a July 2026 op-ed arguing the question is no longer whether AI data centers should be built but whether the Northwest can generate enough power for them. He celebrates Tri-Cities data center investments, wants more hydropower, nuclear and transmission, and voted for the SPEED Act permitting bill. He mentions affordability but proposes no conditions on data centers themselves.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Op-ed: Powering AI: BPA must play a critical role (Center Square, republished by Yahoo; also posted on his House site)",
+"url": "https://www.yahoo.com/news/politics/articles/op-ed-powering-ai-bpa-200000372.html",
+"quote": "The question is no longer whether these facilities will or should be built. The question is whether America can generate and deliver enough electricity to power them while keeping energy affordable for families, farmers, and manufacturers.",
+"what_it_shows": "He treats AI data centers as a given and wants BPA to build transmission and new generation to serve them.",
+"date": "2026-07-16"
+},
+{
+"type": "op_ed",
+"title": "Op-ed: Powering AI: BPA must play a critical role (data center demand passage)",
+"url": "https://www.yahoo.com/news/politics/articles/op-ed-powering-ai-bpa-200000372.html",
+"quote": "The data centers that support AI require enormous amounts of electricity, and demand is expected to increase exponentially.",
+"what_it_shows": "He cites Amazon, Atlas Agro and Trammell Crow investments in the Tri-Cities as proof of the region's growing role in the AI economy.",
+"date": "2026-07-16"
+},
+{
+"type": "statement",
+"title": "Press release: Newhouse hosts Central Washington Energy Summit",
+"url": "https://newhouse.house.gov/media-center/press-releases/newhouse-hosts-central-washington-energy-summit-featuring-state",
+"quote": "Newhouse stressed the importance of the Fourth District's energy potential and how the nation must meet this moment regarding artificial intelligence.",
+"what_it_shows": "His keynote framed rising energy demand from AI as a moment to meet with nuclear and hydropower, not to slow.",
+"date": "2026-05-11"
+},
+{
+"type": "statement",
+"title": "Press release: Newhouse statement on new BPA administrator Travis Kavulla",
+"url": "https://newhouse.house.gov/media-center/press-releases/newhouse-statement-new-bonneville-power-administration-administrator",
+"quote": "I look forward to working with Travis to modernize our grid infrastructure, meet growing power demand by building new generation, and defending our abundant hydroelectric system.",
+"what_it_shows": "His answer to load growth is to build more generation and grid, consistent with a build-faster stance.",
+"date": "2026-06-22"
+},
+{
+"type": "vote",
+"title": "House roll call 356: passage of H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"what_it_shows": "He voted Yea on the permitting-reform bill that industry backs to speed energy and infrastructure projects.",
+"date": "2025-12-18"
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "He frames AI as a race the United States must win against China, Russia, Iran and North Korea, but no statement on AI safety rules, chatbots, deepfakes or AI mandates was found in his press releases, op-eds or local coverage as of Sept 2026.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Op-ed: Powering AI: BPA must play a critical role",
+"url": "https://www.yahoo.com/news/politics/articles/op-ed-powering-ai-bpa-200000372.html",
+"quote": "The race to lead the world in artificial intelligence will not be won by algorithms alone, it will be won by the country with the most reliable, affordable electricity.",
+"what_it_shows": "Shows a race-with-China framing of AI but takes no position on how or whether to regulate it.",
+"date": "2026-07-16"
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His tech statements center on TikTok and Chinese influence. In January 2026 he demanded congressional oversight of the TikTok joint-venture deal to make sure it protects Americans' data and privacy. No position on Section 230, antitrust or kids' online safety bills was found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Newhouse calls for congressional oversight of TikTok deal",
+"url": "https://newhouse.house.gov/media-center/press-releases/newhouse-calls-congressional-oversight-tiktok-deal",
+"quote": "Congress needs to exercise considerable oversight of this deal, and we will need to hear from the Administration about if this agreement truly protects U.S. users’ data and privacy.",
+"what_it_shows": "Supports government scrutiny of a major platform's ownership and algorithm on data-privacy and national-security grounds.",
+"date": "2026-01-23"
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement on the state AI law moratorium, the December 2025 executive order or the March 2026 White House framework was found, and he has not sponsored or cosponsored preemption-related bills.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "A member of the House Select Committee on the Chinese Communist Party, he cosponsored the AI OVERWATCH Act, which would let Congress block advanced AI chip sales to China, and earlier a bill closing the cloud-access loophole for Chinese firms. No personal statement on Nvidia H20/H200 sales was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6875 AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"quote": null,
+"what_it_shows": "Backs giving Congress power to block sales of advanced AI chips to China and other risky countries before they happen.",
+"date": "2026-01-22"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4683 Closing Loopholes for the Overseas Use and Development of Artificial Intelligence Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4683",
+"quote": null,
+"what_it_shows": "Backed stopping Chinese firms from renting restricted AI chips through the cloud.",
+"date": "2023-11-01"
+},
+{
+"type": "statement",
+"title": "Press release: Newhouse calls for congressional oversight of TikTok deal",
+"url": "https://newhouse.house.gov/media-center/press-releases/newhouse-calls-congressional-oversight-tiktok-deal",
+"quote": "We are dealing with Communist China on every front and the last thing we need is uncertainty as to how much influence they may have through TikTok’s new algorithm.",
+"what_it_shows": "Shows the China-hawk framing that runs through his technology positions, working with Select Committee Chairman Moolenaar.",
+"date": "2026-01-23"
+}
+]
+}
+},
+"signature": "Retiring China Select Committee member who wants BPA hydropower and nuclear to power AI data centers; cosponsor of the AI OVERWATCH Act on chip exports.",
+"notable_quote": {
+"text": "The question is no longer whether these facilities will or should be built. The question is whether America can generate and deliver enough electricity to power them while keeping energy affordable for families, farmers, and manufacturers.",
+"url": "https://www.yahoo.com/news/politics/articles/op-ed-powering-ai-bpa-200000372.html",
+"date": "2026-07-16"
+},
+"groups": [
+"House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party (member)"
+],
+"search_notes": "Ran about 12 Google News queries (artificial intelligence, data centers, chips/export controls/Nvidia, chatbot/deepfake/Big Tech, Select Committee China AI, BPA hydropower data centers, energy summit, DeepSeek/AI agriculture, CCP technology/TikTok, Vatican AI trip). His Drupal site press listing lives at /media-center/press-releases; scanned pages 0-6 and the op-ed listing, and opened the energy summit release, BPA administrator statement, TikTok oversight statement, pro-nuclear bill release and Energy-Water appropriations statement. Opened the op-ed via Yahoo (his site copy exists but my slug guess 404'd). Verified his SPEED Act Yea in the Clerk XML and opened the govtrack page. Checked the Moolenaar export-control letter (he was not a signer). Not opened: an Aug 2026 Yahoo/Tri-City Herald piece on his priorities for his last four months, a Politico piece on a House Vatican AI trip that surfaced in his search results, and a Ripon Society nuclear-power item; decoder rate limits blocked them. No statements on AI regulation or preemption found."
+},
+{
+"bioguide": "B001322",
+"name": "Michael Baumgartner",
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "high",
+"summary": "Mixed and shifting. In March 2026 he sponsored the Protect American AI Act to shield data center permits from environmental lawsuits, a bill the Judiciary Committee pulled before its markup. By June 2026, with Spokane debating a moratorium, he introduced the Power and Water for Families Act to make data centers pay full grid and water costs and cosponsored the Ratepayer Protection Act. He says America must win the AI race but no data center should be forced on a community.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Baumgartner introduces Power and Water for Families Act, H.R. 9419",
+"url": "https://baumgartner.house.gov/2026/06/25/baumgartner-introduces-power-and-water-for-families-act-h-r-9419/",
+"quote": "No data center should be forced on a local community. And if a massive new data center needs new power plants, transmission lines, grid upgrades, or water infrastructure, it should pay its own way.",
+"what_it_shows": "Wants large loads to pay the full incremental cost of grid and water upgrades with financial assurances, plus tax credits for new generation and water reuse.",
+"date": "2026-06-25"
+},
+{
+"type": "statement",
+"title": "Press release: Baumgartner introduces Power and Water for Families Act (AI race framing)",
+"url": "https://baumgartner.house.gov/2026/06/25/baumgartner-introduces-power-and-water-for-families-act-h-r-9419/",
+"quote": "America must win the AI race, but working families should not be forced to subsidize it,",
+"what_it_shows": "Pairs support for AI buildout with a ratepayer-protection condition.",
+"date": "2026-06-25"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9340 Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"quote": null,
+"what_it_shows": "Joined a 42-cosponsor bill to keep household electric bills from rising to pay for power that data centers need.",
+"date": "2026-06-29"
+},
+{
+"type": "interview",
+"title": "Spokesman-Review: Baumgartner vs. Conroy debate on data centers, AI and gender-affirming care",
+"url": "https://www.spokesman.com/stories/2026/sep/12/baumgartner-vs-conroy-congressional-candidates-deb/",
+"quote": "It is appropriate for people to take a bit of a pause to make sure that they understand these issues,",
+"what_it_shows": "At a Sept 2026 debate he called data center concerns warranted and said the industry must explain itself, while also calling AI a race with China with clear benefits.",
+"date": "2026-09-12"
+},
+{
+"type": "interview",
+"title": "Spokesman-Review debate: challenger's critique of his earlier bill",
+"url": "https://www.spokesman.com/stories/2026/sep/12/baumgartner-vs-conroy-congressional-candidates-deb/",
+"quote": "Mr. Baumgartner proposed a bill that would have prevented local governments from making those decisions themselves and would have forced us to wait for Congress to act,",
+"what_it_shows": "His opponent Carmela Conroy attacked his record; he replied his bill would make sure no community has a data center forced into it.",
+"date": "2026-09-12"
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 8037 Protect American AI Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8037",
+"quote": null,
+"what_it_shows": "His March 2026 bill would limit federal lawsuits that halt data center permits; the official record tags it under chips/China but press coverage describes it as a data center permitting shield.",
+"date": "2026-03-24"
+},
+{
+"type": "other",
+"title": "E&E News: House Judiciary sets vote on data center lawsuit bill",
+"url": "https://www.eenews.net/articles/house-judiciary-sets-vote-on-data-center-lawsuit-bill/",
+"quote": "It would allow permits for the AI infrastructure to remain in place even when environmental reviews for the project are challenged by litigation.",
+"what_it_shows": "Describes H.R. 8037 as easing the legal landscape for AI data centers by keeping permits in force during court challenges.",
+"date": "2026-03-26"
+},
+{
+"type": "other",
+"title": "Earthjustice: How we rallied a big coalition to stop a shady data center bill",
+"url": "https://earthjustice.org/article/how-we-rallied-a-big-coalition-to-stop-a-shady-data-center-bill",
+"quote": "But then, hours after we submitted our letter, the committee pulled the bill.",
+"what_it_shows": "Environmental groups mobilized against his permitting-shield bill and the Judiciary Committee pulled it from its March 2026 markup.",
+"date": "2026-04-10"
+},
+{
+"type": "vote",
+"title": "House roll call 356: passage of H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"what_it_shows": "Voted Yea on the permitting-reform bill that industry backs to speed energy and infrastructure projects.",
+"date": "2025-12-18"
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "He treats AI as a new industrial revolution that America wins by letting people innovate without government permission, and his flagship bill would codify Trump's AI executive order and freeze state AI rules for five years. The AI industry super PAC Leading the Future endorsed him. He has backed a few narrow guardrails, such as a ban on deceptive AI deepfakes of candidates.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Baumgartner introduces bill to codify Trump executive order, preventing patchwork of state AI regulations",
+"url": "https://baumgartner.house.gov/2025/09/19/baumgartner-introduces-bill-codify-trump-executive-order-preventing-patchwork/",
+"quote": "This is the dawn of a new industrial revolution, and like the last one, America will win if we trust free people to innovate without asking the government for permission.",
+"what_it_shows": "Casts AI regulation as a barrier and says the Biden approach treated AI like a government-run monopoly.",
+"date": "2025-09-19"
+},
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC expands House GOP endorsements (second slate, includes Baumgartner)",
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"quote": "We’re proud to back these leaders who recognize what’s at stake in the global race for AI and the need for continued American leadership,",
+"what_it_shows": "The AI industry super PAC endorsed him as a champion for a light-touch national framework building on the Trump administration's approach.",
+"date": "2026-05-22"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5272 Protect Elections from Deceptive AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5272",
+"quote": null,
+"what_it_shows": "A counterpoint: he backs banning AI-made fake audio or video of candidates meant to trick voters.",
+"date": "2026-09-10"
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 7058 Foreign Adversary AI Risk Assessment and Diplomacy Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7058",
+"quote": null,
+"what_it_shows": "His AI risk concern is directed at AI built by rival countries, asking the State Department to assess it and coordinate with allies.",
+"date": "2026-01-14"
+}
+]
+},
+"tech_regulation": {
+"score": 1,
+"confidence": "low",
+"summary": "Sits on the Judiciary antitrust subcommittee but no domestic Big Tech, Section 230 or kids' online safety position was found. His July 2026 No Racketeers on Our Shores Act would bar entry to foreign officials who target American companies, citing EU Digital Markets Act fines on Google as discrimination, which leans against DMA-style platform regulation.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Baumgartner introduces bill to hold foreign officials accountable for economic discrimination against American companies (H.R. 9834)",
+"url": "https://baumgartner.house.gov/2026/07/23/baumgartner-introduces-bill-to-hold-foreign-officials-accountable-for-economic-discrimination-against-american-companies/",
+"quote": "Across the globe, we are seeing a worrying pattern of foreign governments imposing selective investigations, punitive fines, discriminatory taxes, and regulatory obligations that fall overwhelmingly on American-owned businesses,",
+"what_it_shows": "Defends Google and Coupang against European and Korean platform regulation, a signal he views aggressive Big Tech rules as unfair, though aimed at foreign regulators.",
+"date": "2026-07-23"
+}
+]
+},
+"preemption": {
+"score": 2,
+"confidence": "high",
+"summary": "He is the House's leading advocate for one national AI rule. His American AI Leadership and Uniformity Act (H.R. 5388) would impose a five-year moratorium on new state and local AI mandates and codify Trump's AI executive order, and he says America loses its edge if California or Brussels writes the rules.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 5388 American Artificial Intelligence Leadership and Uniformity Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5388",
+"quote": null,
+"what_it_shows": "Creates one national set of AI rules and blocks states from making their own AI laws for five years.",
+"date": "2025-09-16"
+},
+{
+"type": "statement",
+"title": "Press release: Baumgartner introduces bill to codify Trump executive order, preventing patchwork of state AI regulations",
+"url": "https://baumgartner.house.gov/2025/09/19/baumgartner-introduces-bill-codify-trump-executive-order-preventing-patchwork/",
+"quote": "But we will lose that edge if we let California or Brussels write the rules for us.",
+"what_it_shows": "Explicitly argues for federal preemption of state AI laws to protect Washington's data centers and AI research.",
+"date": "2025-09-19"
+},
+{
+"type": "other",
+"title": "Broadband Breakfast: Democratic and Republican lawmakers introduce two opposing AI bills",
+"url": "https://broadbandbreakfast.com/democratic-and-republican-lawmakers-introduce-two-opposing-ai-bills/",
+"quote": "Baumgartner argued that a “patchwork of divergent state AI rules” would deter investment and create unnecessary compliance burdens.",
+"what_it_shows": "Independent coverage confirms the bill bars states from restricting AI in interstate commerce during a five-year moratorium, with exceptions for criminal law and procurement.",
+"date": "2025-09-23"
+},
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC endorses Baumgartner in second GOP slate",
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"quote": null,
+"what_it_shows": "The PAC said these members would be instrumental in advancing a national AI framework in Congress, the preemption goal his bill embodies.",
+"date": "2026-05-22"
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "A strong export-control hawk. He sponsored the MATCH Act to ban sales of key chipmaking equipment to China and align allies, which the Foreign Affairs Committee advanced in April 2026, signed a bipartisan letter urging countrywide controls on chip tools, and cosponsored bills closing the cloud loophole and punishing export violators.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Baumgartner introduces bipartisan MATCH Act to tighten controls on sensitive chipmaking equipment",
+"url": "https://baumgartner.house.gov/2026/04/02/baumgartner-introduces-bipartisan-bill-to-tighten-controls-on-sensitive-chipmaking-equipment/",
+"quote": "The United States cannot afford to leave open back doors that allow the Chinese Communist Party to acquire the tools it needs to leap ahead in semiconductor manufacturing.",
+"what_it_shows": "His own bill would expand bans on chipmaking tools sold to China and push allies to match U.S. controls.",
+"date": "2026-04-02"
+},
+{
+"type": "statement",
+"title": "House Foreign Affairs Committee: Chairman Mast, HFAC advances MATCH Act",
+"url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-match-act",
+"quote": null,
+"what_it_shows": "The committee advanced his bill in what it called the largest export-control markup in congressional history.",
+"date": "2026-04-22"
+},
+{
+"type": "letter",
+"title": "Moolenaar and Mast bipartisan letter to Secretaries Rubio and Lutnick on chipmaking-tool export controls (Baumgartner cosigner)",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+"quote": "We write to express our strong bipartisan support for robust export controls on semiconductor manufacturing equipment (SME)",
+"what_it_shows": "He joined eight members urging countrywide rather than entity-specific controls and closer work with the Netherlands and other allies.",
+"date": "2026-02-10"
+},
+{
+"type": "other",
+"title": "NBC News: Bill would ban sale of key AI chipmaking machines to China",
+"url": "https://www.nbcnews.com/tech/tech-news/senate-bill-ban-sale-key-ai-chipmaking-machines-china-rcna265186",
+"quote": null,
+"what_it_shows": "National coverage identifies him as lead sponsor of the House MATCH Act with Select Committee Chairman Moolenaar as cosponsor.",
+"date": "2026-04-02"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2683 Remote Access Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"quote": null,
+"what_it_shows": "Backs closing the loophole that lets foreigners use American chips and AI through the cloud.",
+"date": "2025-04-29"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1486 Economic Espionage Prevention Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1486",
+"quote": null,
+"what_it_shows": "Backs letting the President punish foreign companies that steal trade secrets or break export rules.",
+"date": "2025-02-24"
+}
+]
+}
+},
+"signature": "Sponsor of the House's leading state-AI-law preemption bill (H.R. 5388) and the MATCH Act on chipmaking-tool exports; pivoted from shielding data center permits from lawsuits to making data centers pay their own grid and water costs.",
+"notable_quote": {
+"text": "This is the dawn of a new industrial revolution, and like the last one, America will win if we trust free people to innovate without asking the government for permission.",
+"url": "https://baumgartner.house.gov/2025/09/19/baumgartner-introduces-bill-codify-trump-executive-order-preventing-patchwork/",
+"date": "2025-09-19"
+},
+"groups": [
+"House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet (member)"
+],
+"search_notes": "Ran about 12 Google News queries (data center Spokane, artificial intelligence, Protect American AI Act, Power and Water for Families, chips/Nvidia/export controls, preemption/executive order, Leading the Future, Judiciary/Big Tech, deepfake/chatbot, Spokane moratorium/Avista). His WordPress site lists releases at /category/press-releases/ (pages 1-7 scanned); opened the H.R. 5388, H.R. 9419, MATCH Act, No Racketeers on Our Shores, FY27 NDAA and one-year recap releases. Opened the Spokesman-Review Sept 12 2026 debate story, E&E News and Earthjustice on H.R. 8037, HFAC MATCH release, NBC News, Broadband Breakfast, the Moolenaar letter and the Breitbart LTF endorsement. Verified his SPEED Act Yea in the Clerk XML and opened the govtrack page. Not opened (decoder rate-limited, Wayback down): Politico Mar 27 2026 'Republicans split on how to legislate on data centers', Union-Bulletin June 2026 candidate Q&A on data centers, KHQ/KREM/Seattle Red stories on H.R. 9419, Bloomberg Government on the delayed markup, and a Lewiston Tribune July 2026 interview. No statement found reacting to the Dec 2025 executive order or the Mar 2026 White House framework."
+},
+{
+"bioguide": "R000621",
+"name": "Emily Randall",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement on data centers, their electricity costs or water use was found as of Sept 2026. She voted against the SPEED Act permitting bill in December 2025, but that bill is about federal permitting generally, not data centers.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: passage of H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"what_it_shows": "She voted Nay with most Democrats on a permitting-reform bill; it is not specific to data centers, so it is not scored.",
+"date": "2025-12-18"
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Her AI record is about specific harms. She signed an August 2025 letter and cosponsored bills to stop Medicare's WISeR pilot, which lets contractors use AI to approve or deny certain treatments, and she cosponsored a bill banning companies from using AI and personal data to set different prices or wages for different people. No statement on frontier AI safety was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.J.Res. 187 disapproving the CMS WISeR prior authorization rule",
+"url": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/187",
+"quote": null,
+"what_it_shows": "Backs blocking a Medicare experiment that would let contractors use AI to decide whether to approve certain medical treatments.",
+"date": "2026-08-20"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640 Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"quote": null,
+"what_it_shows": "Backs banning companies from using AI and personal data to charge people different prices or pay workers different wages.",
+"date": "2026-02-02"
+},
+{
+"type": "letter",
+"title": "Washington State Standard: AI reviews rolling out for Medicare in WA (DelBene-led letter to CMS Administrator Oz, Randall a signer)",
+"url": "https://washingtonstatestandard.com/2025/09/25/ai-reviews-rolling-out-for-medicare-in-wa-for-some-procedures/",
+"quote": "Washington Reps. Marilyn Strickland, D-Tacoma, and Emily Randall, D-Bremerton, also signed on.",
+"what_it_shows": "She joined a letter questioning how the AI prior-authorization model works and whether it will limit access to care.",
+"date": "2025-09-25"
+},
+{
+"type": "other",
+"title": "KUOW: Thousands of Washington state Medicare users could soon have claims denied by AI",
+"url": "https://www.kuow.org/health-care/2025-12-01/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai",
+"quote": "Democratic lawmakers in the House of Representatives, led by U.S. Rep. Suzan DelBene of Washington, introduced a measure to repeal the proposed pilot program before it starts.",
+"what_it_shows": "Lists her among 29 Democratic cosponsors of the Seniors Deserve SMARTER Care Act to repeal the WISeR AI pilot, and notes the Aug. 7 letter got no response.",
+"date": "2025-12-01"
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "A thin, slightly mixed record. She cosponsored the Stop AI Price Gouging and Wage Fixing Act, a consumer-protection rule on how companies use personal data, but in January 2025 she also cosponsored a bill giving TikTok more time before the sale-or-ban law took effect. No position on Section 230, antitrust or kids' online safety was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640 Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"quote": null,
+"what_it_shows": "Supports a targeted rule stopping companies from using personal data and AI to charge individualized prices.",
+"date": "2026-02-02"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 391 Extend the TikTok Deadline Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/391",
+"quote": null,
+"what_it_shows": "A minor two-cosponsor bill to delay the TikTok divest-or-ban deadline; leans away from enforcing that restriction.",
+"date": "2025-01-15"
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement on the state AI law moratorium, the December 2025 executive order or the March 2026 White House framework was found. She did not sign the Nov. 26, 2025 letter from 81 House Democrats opposing federal preemption of state AI laws.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"quote": null,
+"what_it_shows": "Her name does not appear among the 81 signers; Washington signers were Schrier and Jayapal. This is an absence, not a position.",
+"date": "2025-11-26"
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills on chip export controls or Nvidia sales to China were found as of Sept 2026.",
+"evidence": []
+}
+},
+"signature": "First-term Oversight member whose AI record is limited to cosponsorships: blocking Medicare's AI prior-authorization pilot (WISeR) and banning AI surveillance pricing.",
+"notable_quote": null,
+"groups": [],
+"search_notes": "Ran about 12 Google News queries (artificial intelligence/AI, data center, chatbot/deepfake/TikTok/Big Tech, WISeR/prior authorization, Stop AI Price Gouging/algorithmic, Musk/DOGE/Amazon/Microsoft, district AI). Her Drupal site lists releases at /media/press-releases; read titles on pages 0-7 (about 80 releases) and found none on AI, data centers or tech regulation. Opened the Washington State Standard and KUOW WISeR stories confirming her letter signature and SMARTER Care Act cosponsorship. Verified her SPEED Act Nay in the Clerk XML and opened the govtrack page. Checked the Matsui preemption letter PDF (not a signer) and the Mullin FERC data center letter (not a signer). A KOMO story on WA politicians warning about the Medicare AI program and a sponsored Seattle Times Q&A were not opened. No verbatim quote from her on AI was found, so notable_quote is null."
+}
+]

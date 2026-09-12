@@ -1,0 +1,813 @@
+[
+{
+"bioguide": "K000367",
+"name": "Amy Klobuchar",
+"signature": "The Senate's busiest AI-guardrails legislator: co-author of the TAKE IT DOWN Act, sponsor of deepfake and election AI bills, Big Tech antitrust hawk, now co-leading the Thune-Cruz frontier AI safety bill while running for governor on data center local control.",
+"notable_quote": {
+"text": "We cannot allow the release of dangerous models, including those that evade the control of their developers.",
+"url": "https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/",
+"date": "2026-09-11"
+},
+"groups": [
+"Ranking Member, Senate Judiciary Subcommittee on Privacy, Technology, and the Law (119th)",
+"Lead Democratic sponsor of the in-development Senate Commerce frontier AI bill with Sens. Thune and Cruz (2026)",
+"Former Chair, Senate Judiciary Subcommittee on Antitrust, Competition Policy and Consumer Rights (118th)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "As the DFL nominee for governor she says data centers raise electric rates and hurt the environment, wants local control, strong state standards, full cost recovery from developers and an end to secret NDAs. She has not endorsed a moratorium and did not answer directly when asked about local moratoria.",
+"evidence": [
+{
+"type": "interview",
+"title": "KFGO radio interview: Klobuchar on data centers as candidate for governor",
+"url": "https://kfgo.com/2026/08/12/1339958/",
+"date": "2026-08-12",
+"quote": "Cause people's rates to go up, they have hurt the environment, and that just can't keep happening. So my answer to this is number one, local control.",
+"what_it_shows": "Her own words: data centers are a rate and environmental problem, and locals should decide; she also said NDAs with officials should not be happening."
+},
+{
+"type": "statement",
+"title": "West Central Tribune candidate survey on data centers",
+"url": "https://www.wctrib.com/news/minnesota/where-do-minnesota-statewide-office-candidates-stand-on-data-centers",
+"date": "2026-09-11",
+"quote": "If Minnesotans don't want a data center in their community, I don't want it there either.",
+"what_it_shows": "She would require projects to cover 100 percent of energy and grid costs, disclose power and water demand before local approval, and report annually; she attacked her opponent for blocking an NDA ban."
+},
+{
+"type": "statement",
+"title": "Minnesota Reformer questionnaire: spokesman on Klobuchar's data center position",
+"url": "https://minnesotareformer.com/2026/07/31/where-do-the-candidates-for-governor-stand-on-data-centers/",
+"date": "2026-07-31",
+"quote": "The Senator supports robust environmental standards for any proposed data centers as well as greater transparency and local control over decisions to build",
+"what_it_shows": "Her campaign backs the 2025 state law making data centers pay full energy costs but did not answer the paper's direct questions about local moratoria or NDAs."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "She has pushed specific AI rules for years (deepfakes, election ads, whistleblowers, chatbots and toys, AI scams, gene synthesis screening) and is now the lead Democrat on a Senate bill for government oversight of the most dangerous frontier models. Safety advocates and Sen. Cantwell say her draft leans on company self-testing, so she sits between targeted guardrails and strict rules.",
+"evidence": [
+{
+"type": "statement",
+"title": "Nextgov: Klobuchar statement on the Cruz-Thune-Klobuchar frontier AI bill",
+"url": "https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/",
+"date": "2026-09-11",
+"quote": "That includes requiring developers to work with government experts to verify and test models to make sure AI is safe. We cannot allow the release of dangerous models, including those that evade the control of their developers.",
+"what_it_shows": "She wants binding government oversight of the riskiest models, but a Democratic committee aide called the draft 'primarily a voluntary standard type situation' and Cantwell is demanding mandatory national lab testing."
+},
+{
+"type": "hearing",
+"title": "Press release: Klobuchar questions Sam Altman and Brad Smith at Senate Commerce AI hearing",
+"url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/5/klobuchar-presses-for-bipartisan-path-forward-on-safe-ai-development-highlights-need-for-legislation-to-give-americans-control-over-their-voice-and-likeness",
+"date": "2025-05-08",
+"quote": "We want it to lead us to heaven, and I think we do that by making sure we have some rules of the road in place",
+"what_it_shows": "She framed her Thune bill as risk-based 'basic guardrails for the riskiest non-defense applications of AI' and got Altman to agree a risk-based approach is right."
+},
+{
+"type": "letter",
+"title": "Letter: Cantwell, Klobuchar, Markey ask CPSC to address AI chatbots in children's toys",
+"url": "https://www.commerce.senate.gov/2026/1/cantwell-klobuchar-markey-raise-concerns-on-the-use-of-ai-in-toys",
+"date": "2026-01-15",
+"quote": "It is imperative that the manufacturers of these technologies be required to mitigate these risks before marketing toys to young children.",
+"what_it_shows": "She wants mandatory risk mitigation before AI toys reach kids, a targeted binding rule."
+},
+{
+"type": "hearing",
+"title": "Transcript: Senate Judiciary hearing 'Examining the Harm of AI Chatbots'",
+"url": "https://techpolicy.press/transcript-us-senate-hearing-on-examining-the-harm-of-ai-chatbots",
+"date": "2025-09-16",
+"quote": "One of the things that we know about these AI chatbots is that they are frequently designed to tell users what they want to hear",
+"what_it_shows": "She pressed grieving parents and experts on addictive companion bot design and whether parents should have a right to see their children's chatbot conversations."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1792 AI Whistleblower Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1792",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "Backs protecting AI company workers who report safety problems to the government."
+},
+{
+"type": "other",
+"title": "ARI release: Cotton and Klobuchar introduce Biosecurity Modernization and Innovation Act",
+"url": "https://ari.us/cotton-klobuchar-intro-biosecurity-modernization-and-innovation-act-to-address-ai-era-biosecurity-risks/",
+"date": "2026-02-04",
+"quote": null,
+"what_it_shows": "Her bipartisan bill would make mandatory the screening of synthetic DNA orders, aimed at AI lowering the barrier to designing dangerous pathogens."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.1213 Protect Elections from Deceptive AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1213",
+"date": "2025-03-31",
+"quote": null,
+"what_it_shows": "Would ban AI deepfakes of candidates meant to deceive voters, one of several election AI bills she leads."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4591 NO FAKES Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4591",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "Supports a federal right to stop unauthorized AI copies of a person's voice and face; Roll Call named her a particular proponent when Judiciary advanced it in June 2026."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "A long-time Big Tech antitrust hawk who sponsors the main Senate antitrust reform bill, backs sunsetting Section 230, and cosponsors KOSA, COPPA 2.0 and the STOP CSAM Act. She says courts and current law are not enough and Congress must write new rules for dominant platforms.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Klobuchar statement on the Google antitrust remedy decision",
+"url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/9/klobuchar-statement-on-the-google-antitrust-remedy-decision",
+"date": "2025-09-02",
+"quote": "Today's ruling is a reminder of Google's sweeping power over the online economy, but the limited remedies ordered by the court demonstrate why we need additional rules of the road for Big Tech.",
+"what_it_shows": "She used the Google ruling to push her American Innovation and Choice Online Act against self-preferencing by dominant platforms."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.130 Competition and Antitrust Law Enforcement Reform Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/130",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Her flagship bill would make big mergers harder and shift the burden to the largest companies."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3546 Sunset Section 230 Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3546",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "Would end platforms' liability shield in two years to force Congress to write new rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms toward minors."
+},
+{
+"type": "hearing",
+"title": "Opening remarks at Judiciary subcommittee hearing on Meta whistleblowers and child safety",
+"url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/9/klobuchar-opening-remarks-at-hearing-on-meta-s-neglect-of-children-s-online-safety",
+"date": "2025-09-09",
+"quote": "Well, sorry is not enough anymore, and we need to put in some rules of the road to stop this from happening.",
+"what_it_shows": "As subcommittee ranking member she accused Meta of hiding child safety research and called for bipartisan rules."
+},
+{
+"type": "letter",
+"title": "Letter to DOJ and FTC urging antitrust probe of generative AI features on dominant platforms",
+"url": "https://www.klobuchar.senate.gov/public/index.cfm/2024/9/klobuchar-colleagues-urge-justice-department-federal-trade-commission-to-investigate-generative-ai-products-for-potential-antitrust-violations",
+"date": "2024-09-10",
+"quote": "we urge the Department of Justice Antitrust Division and the Federal Trade Commission to investigate whether the design of some generative AI features, introduced by already dominant platforms, are a form of exclusionary conduct",
+"what_it_shows": "She led seven Democrats asking enforcers to treat AI summaries that keep users on Google and Meta as possible antitrust violations harming journalists."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.146 TAKE IT DOWN Act (now law)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Co-authored with Sen. Cruz the law forcing platforms to remove nonconsensual intimate images and deepfakes within 48 hours."
+}
+]
+},
+"preemption": {
+"score": -1,
+"confidence": "medium",
+"summary": "She cosponsored the States' Right to Regulate AI Act and wrote a New York Times op-ed arguing state AI laws keep people safe against Trump's preemption push. At the same time she is negotiating a national AI framework with Sens. Cruz and Thune that Sen. Cantwell warns would set a weak federal standard undermining state laws, so her final line on preemption depends on that bill.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3557 States' Right to Regulate AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3557",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "Original cosponsor of Sen. Markey's bill saying the federal government cannot wipe out state AI rules; joined a week after the Dec. 11 executive order."
+},
+{
+"type": "op_ed",
+"title": "New York Times op-ed: 'State A.I. Laws Keep Us Safe. Trump's Next Move Could Upend That.'",
+"url": "https://www.nytimes.com/2025/12/09/opinion/klobuchar-trump-ai.html",
+"date": "2025-12-09",
+"quote": null,
+"what_it_shows": "Headline seen via Google News; the page itself was blocked, so no verbatim text. The op-ed argued against Trump's planned executive order overriding state AI laws."
+},
+{
+"type": "vote",
+"title": "Senate roll call 363: Yea on Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Joined the 99-1 vote to remove the moratorium; nearly every senator voted the same way, so the vote alone says little."
+},
+{
+"type": "statement",
+"title": "Nextgov: Klobuchar co-leading Cruz-Thune-Klobuchar national AI bill; Cantwell objects",
+"url": "https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/",
+"date": "2026-09-11",
+"quote": "I'm continuing to work toward a bipartisan agreement on legislation for government oversight of the greatest risks posed by AI models",
+"what_it_shows": "Contradictory signal: she is drafting the national framework Republicans want; Cantwell posted that she opposes a 'weak federal standard' that undermines existing state AI legislation, so preemption terms remain the fight."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China as of Sept 2026. Searches for Nvidia, H20/H200, export controls, Chip Security Act and GAIN AI returned only news of her support for CHIPS Act grants to Minnesota chip factories, which is about domestic manufacturing, not export policy.",
+"evidence": []
+}
+},
+"search_notes": "Searches: Klobuchar + artificial intelligence, data center, preemption/moratorium, Nvidia/export controls/chips (two variants, no results), chatbot/AI toys, Thune AI bill (Google News returned empty twice), semiconductors, NYT op-ed coverage; site listing of klobuchar.senate.gov (two filters). Opened: KFGO, West Central Tribune, Minnesota Reformer, Nextgov, MLex (teaser only), Roll Call (NO FAKES and chatbot pieces), Tech Policy Press hearing transcript, Commerce AI toys letter, ARI release, her Sept 2025 Meta hearing remarks, May 2025 Commerce hearing release, Google remedy statement, 2024 generative AI antitrust letter, Norring meeting release, govtrack s363 and S.3557 cosponsor pages. Blocked: Politico Sept 11 2026, gvwire, NYT op-ed (direct and Wayback), Star Tribune Sept 10 (429), Commerce Democrats June 2025 letter, Bennet Meta chatbot letter, TAKE IT DOWN anniversary release, AI Scam Prevention Act release. The gvwire lead that her bill includes state preemption could not be confirmed at the URL; Nextgov's Cantwell remarks imply it. The Jan 2026 'Plugged Out' hearing lead confirmed via the toys letter release. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "S001203",
+"name": "Tina Smith",
+"signature": "Retiring senator with a thin AI record: cosponsor of the Power for the People data center ratepayer bill and of antitrust reform, and she pressed the Fed chair on an AI task force stacked with tech investors.",
+"notable_quote": {
+"text": "a task force that is led by people, in large part, who are likely to get richer by AI, might not be the most credible people to folks on the ground who are doing the work",
+"url": "https://fedscoop.com/federal-reserve-ai-task-force-kevin-warsh/",
+"date": "2026-07-15"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "She is a Senate cosponsor of Sen. Van Hollen's Power for the People Act, which would make data centers pay for the grid upgrades they cause and keep those costs off household bills. No Minnesota-specific statement on data centers was found; she is not seeking reelection.",
+"evidence": [
+{
+"type": "other",
+"title": "Rep. Tonko press release on Power for the People Act, listing Senate cosponsors",
+"url": "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=4569",
+"date": "2026-04-09",
+"quote": null,
+"what_it_shows": "Lists 'Tina Smith (D-MN)' among Senate cosponsors of the companion bill that holds data centers responsible for the high costs of their electricity demand."
+},
+{
+"type": "other",
+"title": "Broadband Breakfast: Senate bill to offset data centers' impact on energy costs introduced",
+"url": "https://broadbandbreakfast.com/senate-bill-to-offset-data-centers-impact-on-energy-costs-introduced/",
+"date": "2026-01",
+"quote": null,
+"what_it_shows": "Reports Van Hollen's bill with support from seven other Democratic senators and tags Tina Smith among them; the article body is paywalled so her own words were not available."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Her AI activity centers on workers: she cosponsored the Right to Override Act letting doctors and nurses overrule AI, and she pressed Fed Chair Warsh about an AI jobs task force run by people who profit from AI. She has not spoken publicly about frontier AI safety rules.",
+"evidence": [
+{
+"type": "hearing",
+"title": "FedScoop: Smith questions Fed Chair Warsh on AI task force at Senate Banking hearing",
+"url": "https://fedscoop.com/federal-reserve-ai-task-force-kevin-warsh/",
+"date": "2026-07-15",
+"quote": "a task force that is led by people, in large part, who are likely to get richer by AI, might not be the most credible people to folks on the ground who are doing the work",
+"what_it_shows": "She asked whether anyone with labor market experience would weigh AI's effect on jobs, framing AI's workforce impact as a concern for working people."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.2997 Right to Override Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2997",
+"date": "2025-10-15",
+"quote": null,
+"what_it_shows": "Would protect doctors and nurses who overrule AI recommendations, a targeted guardrail on AI in health care."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "She has twice cosponsored Klobuchar's sweeping antitrust reform bill, signed a 2024 letter asking DOJ and the FTC to investigate generative AI features on dominant platforms, and backs robocall and reproductive data privacy bills. Her record leans toward tougher antitrust but she rarely speaks on Big Tech herself.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.130 Competition and Antitrust Law Enforcement Reform Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/130",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Supports making it harder for giant companies, including Big Tech, to merge."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4308 Competition and Antitrust Law Enforcement Reform Act of 2024 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/4308",
+"date": "2024-05-09",
+"quote": null,
+"what_it_shows": "Backed the same antitrust overhaul in the prior Congress."
+},
+{
+"type": "letter",
+"title": "Letter to DOJ and FTC on generative AI features and antitrust (Smith a signer)",
+"url": "https://www.klobuchar.senate.gov/public/index.cfm/2024/9/klobuchar-colleagues-urge-justice-department-federal-trade-commission-to-investigate-generative-ai-products-for-potential-antitrust-violations",
+"date": "2024-09-10",
+"quote": "The introduction of these new generative AI features further threatens the ability of journalists and other content creators to earn compensation for their vital work.",
+"what_it_shows": "Signed the letter urging enforcers to probe whether AI summaries by dominant platforms are exclusionary conduct."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4307 Protecting American Consumers from Robocalls Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4307",
+"date": "2026-04-15",
+"quote": null,
+"what_it_shows": "Supports tougher penalties for illegal robocalls, a targeted consumer rule."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement, letter or bill cosponsorship on preempting state AI laws was found beyond the 99-1 vote to strip the moratorium, which nearly every senator joined and which does not by itself show a position.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Yea on Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted with 98 other senators to remove the moratorium; not treated as evidence of a stance on its own."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China as of Sept 2026. Searches for Nvidia, export controls and chips returned only 2024 news about CHIPS Act grants to a Minnesota chip plant.",
+"evidence": []
+}
+},
+"search_notes": "Searches: Tina Smith + artificial intelligence, data center(s), Nvidia/export controls/chips, preemption/state AI laws/chatbot, Big Tech/Section 230/antitrust/KOSA, AI workers/jobs (mostly unrelated results); site listings of smith.senate.gov with two filters (mostly rural energy grants; nothing on AI or data centers). Opened: FedScoop July 16 and Aug 24 2026 (she questioned Warsh but was not listed as a signer of the later Warnock-Warren letter), Tonko Power for the People release (confirms her as Senate cosponsor), Broadband Breakfast (paywalled body), govtrack s363, Klobuchar 2024 generative AI letter (lists Smith). Blocked: Data Center Dynamics, Van Hollen release (direct and Wayback), her RealPage and landlord settlement statements, KQED. Could not find the Senate bill number for the Power for the People Act, so it is typed 'other' rather than cosponsor. The landscape lead calling her 'HASC ranking member' is wrong (that is Rep. Adam Smith); no groups recorded. No AI super PAC activity found."
+},
+{
+"bioguide": "F000475",
+"name": "Brad Finstad",
+"signature": "Southern Minnesota Republican who breaks with Trump's pro-build line on data centers, stressing local control, transparency and ratepayer protection; sponsor of a bill making the SBA report on its own AI use.",
+"notable_quote": {
+"text": "the decision about whether a data center is right for a particular community should be made by the people and local leaders who know their communities best, not handed down by Washington",
+"url": "https://www.kttc.com/2026/08/19/congressional-candidate-demands-data-center-moratorium-ahead-googles-pine-island-celebration/",
+"date": "2026-08-19"
+},
+"groups": [
+"Member, House Armed Services Subcommittee on Cyber, Information Technologies, and Innovation (119th)"
+],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "With Google's Pine Island project, Faribault and North Mankato in his district, he says data centers can matter for the economy and national security but each community should decide, and companies must be fully transparent about impacts. He cosponsored the Ratepayer Protection Act to keep grid upgrade costs off regular customers, and has not endorsed either a moratorium or Trump's build-everywhere line.",
+"evidence": [
+{
+"type": "statement",
+"title": "KTTC: Finstad emailed statement after challenger Jake Johnson demanded a data center moratorium",
+"url": "https://www.kttc.com/2026/08/19/congressional-candidate-demands-data-center-moratorium-ahead-googles-pine-island-celebration/",
+"date": "2026-08-19",
+"quote": "the decision about whether a data center is right for a particular community should be made by the people and local leaders who know their communities best, not handed down by Washington",
+"what_it_shows": "He backs local control rather than a federal push to build; he also said data centers 'can play an important role in our economic future and national security.'"
+},
+{
+"type": "statement",
+"title": "MinnPost: Minnesota GOP lawmakers grapple with data centers as Republican voters turn against the projects",
+"url": "https://www.minnpost.com/national/washington/2026/09/minnesota-gop-lawmakers-grapple-with-data-centers-as-republican-voters-turn-against-the-projects/",
+"date": "2026-09-03",
+"quote": "the companies proposing these projects have a responsibility to be fully transparent about the scope of any short- or long-term impacts",
+"what_it_shows": "MinnPost contrasted his local-control position with Whip Emmer's embrace of Trump's claim that communities rejecting data centers will be 'backwards and poor.'"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.9340 Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Joined a mostly Republican bill (sponsor Rep. Gabe Evans, 42 cosponsors) requiring large-load customers like data centers to pay the full incremental cost of grid upgrades that serve them."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on regulating AI companies or advanced AI risk. His only AI bill makes the Small Business Administration report yearly on how it uses AI and the risks involved, which is about government transparency, not industry rules.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.8881 SBA Artificial Intelligence Utilization Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8881",
+"date": "2026-05-19",
+"quote": null,
+"what_it_shows": "Requires an annual SBA report to Congress on its AI and machine learning use; passed the House in June 2026 per FedScoop headline."
+},
+{
+"type": "statement",
+"title": "Press release: Finstad applauds committee passage of the SBA AI Utilization Act",
+"url": "https://finstad.house.gov/2026/05/20/finstad-applauds-committee-passage-of-the-sba-artificial-intelligence-utilization-act-of-2026",
+"date": "2026-05-20",
+"quote": "In a time of increasing amounts of accessible artificial intelligence, it's important to ensure our government agencies adopt AI responsibly and transparently",
+"what_it_shows": "His stated goal is oversight of government AI use, 'assessing the advantages and risks,' with no comment on rules for AI developers."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No statements on Big Tech, Section 230, kids online safety or privacy were found. His only related bill is a 2023 measure stopping data brokers from selling servicemembers' data to hostile countries, framed as national security.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6573 Protecting Military Servicemembers' Data Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2023-12-06",
+"quote": null,
+"what_it_shows": "Supports blocking data brokers from selling U.S. military members' personal information to adversaries; a narrow national security measure."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement on preempting state AI laws was found. He voted for the House version of H.R. 1 in May 2025, which contained the 10-year moratorium, but that was a vote on the whole reconciliation bill and does not show a position on its own. His data center comments favor local decisions over a Washington 'one-size-fits-all approach,' but that was about siting, not AI laws.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: Yea on passage of H.R. 1 (One Big Beautiful Bill Act) containing the state AI law moratorium",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the giant reconciliation bill that included the moratorium; weak evidence because the vote covered the entire package."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements or bills found on chip export controls, Nvidia sales to China or the Chip Security Act as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Searches: Finstad + artificial intelligence/AI, data center(s), electricity/ratepayers/Ratepayer Protection, China chips/export controls/Nvidia/Big Tech/deepfake, Pine Island/Skyway/Faribault/North Mankato; site listings of finstad.house.gov (default filter and energy/SBA filter). Opened: KTTC Aug 19 2026, MinnPost Sept 3 2026 and Aug 5 Farmfest piece, KAAL interview (data center mentioned only in passing), his SBA AI Act release and energy issues page, govtrack H.R. 9340 (sponsor Gabe Evans, 35 R and 7 D cosponsors, ordered reported July 21 2026) and House roll call 145. Blocked: Politico June 13 2026 battleground data centers, Bring Me The News, FedScoop SBA articles (404), congress.gov pages (403; used govtrack instead). The state-context quote from MinnPost was confirmed word for word at KTTC and MinnPost. No AI super PAC activity found; Leading the Future's April 2026 House GOP list named Emmer, not Finstad."
+},
+{
+"bioguide": "C001119",
+"name": "Angie Craig",
+"signature": "House Agriculture ranking member and 2026 Senate candidate who calls for an 'aggressive approach' to regulating AI, an AI kill switch, and federal rules making Big Tech pay data center power and water costs.",
+"notable_quote": {
+"text": "I do think we have to consider a kill switch",
+"url": "https://www.mprnews.org/story/2026/07/27/angie-craig-peggy-flanagan-senate-race-debate-hosted-by-mpr-news",
+"date": "2026-07-27"
+},
+"groups": [
+"Ranking Member, House Committee on Agriculture (119th)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "She wants the federal government to regulate data centers, says no tech company should escape paying the electricity costs it creates, worries about water supply and quality, and called for transparency about NDAs. She cosponsors bills requiring data centers to report power and water use and the House Democrats' Energy Bills Relief Act.",
+"evidence": [
+{
+"type": "interview",
+"title": "MPR News Senate primary debate: Craig on AI and data centers",
+"url": "https://www.mprnews.org/story/2026/07/27/angie-craig-peggy-flanagan-senate-race-debate-hosted-by-mpr-news",
+"date": "2026-07-27",
+"quote": "No big tech company gets out of not funding the electricity cost and the water quality and water supply in this country is another concern of mine.",
+"what_it_shows": "MPR reported she said federal regulation of the AI industry and the data centers that power it is appropriate."
+},
+{
+"type": "interview",
+"title": "Mankato Free Press: Where the candidates stand, Flanagan vs. Craig",
+"url": "https://www.mankatofreepress.com/news/local_news/where-the-candidates-stand-flanagan-vs-craig/article_ec52c4f4-346a-468d-a513-5631d38dd45f.html",
+"date": "2026-08-07",
+"quote": "And the other side of this is just the data centers. I think we actually have to federally regulate (them).",
+"what_it_shows": "Direct call for federal regulation of data centers, drawn from the MPR debate."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6984 Data Center Transparency Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6984",
+"date": "2026-04-14",
+"quote": null,
+"what_it_shows": "Would require public reporting of data centers' electricity and water use and effects on air and water quality."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R.7977 Energy Bills Relief Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Original cosponsor (confirmed on govtrack) of the 161-Democrat package to lower energy bills, which includes data center cost provisions."
+},
+{
+"type": "other",
+"title": "InForum: Farmfest Senate forum, candidates asked about farmland for solar and data centers",
+"url": "https://www.inforum.com/news/minnesota/us-senate-candidates-exchange-political-jabs-during-farmfest-forum",
+"date": "2026-08-05",
+"quote": null,
+"what_it_shows": "Reporter says Craig called for transparency on data centers, noting projects across the state used nondisclosure agreements with local governments."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "medium",
+"summary": "In her Senate campaign she said Congress must take an aggressive approach to regulating AI and consider a mandatory kill switch to shut systems down if they get out of control. In the House she introduced a bill to block AI-driven Medicare denials, cosponsors the Stop AI Price Gouging and Wage Fixing Act, and demanded answers from Instacart over AI pricing.",
+"evidence": [
+{
+"type": "interview",
+"title": "MPR News Senate primary debate: Craig on AI regulation",
+"url": "https://www.mprnews.org/story/2026/07/27/angie-craig-peggy-flanagan-senate-race-debate-hosted-by-mpr-news",
+"date": "2026-07-27",
+"quote": "I do think we have to consider a kill switch",
+"what_it_shows": "Both candidates said the technology could get out of control without oversight and backed guardrails and a kill switch."
+},
+{
+"type": "interview",
+"title": "Mankato Free Press: Where the candidates stand, Flanagan vs. Craig",
+"url": "https://www.mankatofreepress.com/news/local_news/where-the-candidates-stand-flanagan-vs-craig/article_ec52c4f4-346a-468d-a513-5631d38dd45f.html",
+"date": "2026-08-07",
+"quote": "I think we have to take an aggressive approach to regulating AI.",
+"what_it_shows": "Her clearest statement of overall AI stance: aggressive regulation."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Craig introduces bill to block use of AI in Medicare coverage decisions",
+"url": "https://craig.house.gov/media/press-releases/rep-craig-introduces-bill-block-use-ai-medicare-coverage-decisions-prevent",
+"date": "2025-11-07",
+"quote": "that's why I'm introducing this bill with my colleagues to stop companies from profiting off sick seniors and outsourcing coverage decisions to AI.",
+"what_it_shows": "Her Seniors Deserve SMARTER Care Act would stop a Medicare pilot paying contractors to use AI for prior authorization."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.4640 Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2026-01-07",
+"quote": null,
+"what_it_shows": "Would ban using AI and personal data to charge people different prices or pay different wages."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.633 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-04-07",
+"quote": null,
+"what_it_shows": "Backed the now-law crackdown on AI-faked intimate images."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "She sponsors a bill forcing social media companies to block their platforms at schools, cosponsors KOSA, STOP CSAM, fentanyl-on-social-media and AI robocall bills, and accused Instacart of weaponizing data to raise grocery prices. She also backed the crypto industry's CLARITY Act, and crypto and data center interests spent about $20 million supporting her Senate run.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Craig introduces No Social Media at School Act",
+"url": "https://craig.house.gov/media/press-releases/rep-craig-introduces-bill-require-social-media-companies-keep-students-their",
+"date": "2025-09-08",
+"quote": "we have to hold Big Tech accountable for how their platforms are impacting our kids",
+"what_it_shows": "Her bill would let the FTC and state attorneys general enforce a requirement that platforms block access on K-12 campuses during school hours."
+},
+{
+"type": "letter",
+"title": "Press release: Rep. Craig demands answers from Instacart over AI-driven pricing",
+"url": "https://craig.house.gov/media/press-releases/rep-craig-demands-answers-instacart-following-reporting-company-used-sensitive",
+"date": "2025-12-12",
+"quote": "Big Tech's weaponization of our data to increase profits on essentials, like groceries, is at best, a horrific breach of trust and at worst, illegal",
+"what_it_shows": "Her letter to Instacart's CEO preceded the company ending the practice and an FTC probe, per Consumer Reports coverage she posted."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.5173 No Social Media at School Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5173",
+"date": "2025-09-08",
+"quote": null,
+"what_it_shows": "Puts the burden on social media companies to keep kids off their platforms at school."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3921 STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2025-10-17",
+"quote": null,
+"what_it_shows": "Would let victims sue platforms that fail to remove child sexual abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.7891 Kids Online Safety Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-09-17",
+"quote": null,
+"what_it_shows": "Supported the House KOSA in the prior Congress."
+},
+{
+"type": "pac",
+"title": "Tech Times: crypto and data center industry money in Craig's Senate primary",
+"url": "https://www.techtimes.com/articles/323924/20260811/minnesota-voters-decide-who-casts-cryptos-senate-vote-after-20m-industry-push-craig.htm",
+"date": "2026-08-11",
+"quote": "roughly $20 million in cryptocurrency and data center industry money that has flowed into the Senate contest in support of Rep. Angie Craig",
+"what_it_shows": "Industry-aligned outside groups backed her, citing her CLARITY Act crypto work; this is not one of the named AI super PACs and she lost the Aug. 11 primary to Peggy Flanagan."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "She cosponsored the GUARDRAILS Act, which would repeal Trump's executive order overriding state AI laws and protect states' right to set their own AI rules. No statement in her own words on preemption was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.8031 GUARDRAILS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Original cosponsor of the bill to block the Dec. 11, 2025 executive order and preserve state AI laws."
+},
+{
+"type": "other",
+"title": "Rep. Jacobs press release introducing the GUARDRAILS Act, listing cosponsors",
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Names Angie Craig among the House cosponsors of the bill to repeal the White House AI moratorium."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on chip export controls or Nvidia sales to China as of Sept 2026. Her only chip-related bill is a 2023 measure giving tax breaks for making circuit boards in America, which is about domestic manufacturing.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3249 Protecting Circuit Boards and Substrates Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3249",
+"date": "2023-06-21",
+"quote": null,
+"what_it_shows": "Supports incentives for U.S. circuit board manufacturing; says nothing about export controls."
+}
+]
+}
+},
+"search_notes": "Searches: Angie Craig + artificial intelligence/AI, data center(s), kill switch/regulate AI/chatbot/deepfake, Big Tech/Section 230/antitrust/KOSA/crypto, China chips/export controls/preemption, electricity/energy bills/Xcel, social media schools; site listings of craig.house.gov (broad and precise filters). Opened: MPR debate, Mankato Free Press, InForum Farmfest, Tech Times, Hawaii Tribune-Herald kill switch bill story (Lieu-Moran bill; Craig only appears in a photo caption, not as a sponsor), her Instacart, Medicare AI and No Social Media at School releases, Jacobs GUARDRAILS release, govtrack H.R. 7977 cosponsor page (confirms original cosponsor) and House roll call 145 (she voted Nay on H.R. 1). Blocked: Minnesota Reformer debate takeaways, Star Tribune op-ed (429), Politico June 13, congress.gov pages (used govtrack). The Matsui Nov 26 2025 letter PDF returned no text, so her signature on it is unverified and not used. The landscape 'E&C Republican Privacy Working Group (TX-12)' lead refers to Rep. Craig Goldman, not her, and was dropped. She lost the Aug. 11, 2026 DFL Senate primary."
+},
+{
+"bioguide": "M001234",
+"name": "Kelly Morrison",
+"signature": "Freshman Democrat and ranking member on the small business energy panel who signed data center ratepayer letters, cosponsored the Clean Cloud, Data Center Transparency and GUARDRAILS Acts, and leads a bipartisan foreign robocall bill.",
+"notable_quote": {
+"text": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03"
+},
+"groups": [
+"Ranking Member, House Small Business Subcommittee on Rural Development, Energy, and Supply Chains (119th)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Her record is consistently about protecting ratepayers: she signed the October 2025 letters asking FERC, utilities and the data center industry how they will keep grid costs off household bills, and cosponsors the Clean Cloud Act, Data Center Transparency Act and Energy Bills Relief Act. No Minnesota-specific data center statement in her own words was found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Mullin-led letters from 20 House Democrats to FERC, EEI and the Data Center Coalition on data center energy costs (Morrison a signer)",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"date": "2025-10-28",
+"quote": "The expansion of data centers risks creating persistent affordability challenges for households and small businesses.",
+"what_it_shows": "She joined the request for cost-allocation tools such as minimum usage commitments and separate rate classes so households do not pay for data center grid upgrades."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6179 Clean Cloud Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6179",
+"date": "2025-11-20",
+"quote": null,
+"what_it_shows": "Would set emissions standards and fees for the electricity used by large data centers and crypto mines."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6984 Data Center Transparency Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6984",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "Would require public reporting of data centers' electricity and water use."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R.7977 Energy Bills Relief Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Original cosponsor (confirmed on govtrack) of the House Democrats' energy affordability package with data center provisions."
+},
+{
+"type": "hearing",
+"title": "Legis1: House Small Business subcommittee hearing on energy demand from data centers and manufacturing",
+"url": "https://legis1.com/news/energy-policy-small-business-clashes-over-costs",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "As ranking member she blamed tariffs, renewable restrictions and clean energy rollbacks for rising costs at a hearing focused on data center power demand; the Democratic witness urged making data centers pay grid connection costs."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "She cosponsors narrow bills making AI robocalls identify themselves and criminalizing AI impersonation scams. No statements found on frontier AI safety or broader AI rules.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.4628 AI Impersonation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4628",
+"date": "2025-07-23",
+"quote": null,
+"what_it_shows": "Would make it a crime to use AI to impersonate a real person to defraud people."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.1027 QUIET Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-07-14",
+"quote": null,
+"what_it_shows": "Requires AI-voiced robocalls to disclose they are AI and raises fines."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "She leads a bipartisan bill to crack down on foreign scam robocalls and backed the Taxpayer Data Protection Act after DOGE staff accessed Treasury payment data, framing both as protecting Minnesotans' privacy and money. Nothing found on Section 230 or antitrust.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Morrison introduces bipartisan Foreign Robocall Elimination Act",
+"url": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-introduces-bipartisan-legislation-crack-down-scammers",
+"date": "2025-12-11",
+"quote": "They are irritating, predatory, and steal billions of dollars from Americans every single year.",
+"what_it_shows": "Her bill would create an FCC-FTC-DOJ task force targeting overseas robocallers, endorsed by AARP and USTelecom."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6152 Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2025-11-19",
+"quote": null,
+"what_it_shows": "Formal support for the robocall bill she describes leading."
+},
+{
+"type": "statement",
+"title": "Press release: Morrison joins Taxpayer Data Protection Act to stop Elon Musk accessing Americans' data",
+"url": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-working-stop-elon-musk-invading-minnesotans-privacy",
+"date": "2025-02-07",
+"quote": "we are fighting to protect your personal data and privacy. This illegal breach of personal data is unprecedented and unacceptable.",
+"what_it_shows": "Shows a privacy-protective instinct, though aimed at government data access rather than tech companies."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "She cosponsored the GUARDRAILS Act to repeal Trump's executive order overriding state AI laws and signed the December 2025 letter from 44 House Democrats calling a state AI law moratorium wildly irresponsible absent federal legislation.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.8031 GUARDRAILS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Original cosponsor of the bill blocking the Dec. 11, 2025 executive order and protecting states' right to pass AI laws."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Morrison a signer)",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "She signed the letter telling defense bill negotiators that preemption without federal rules would let Big Tech run rampant."
+},
+{
+"type": "other",
+"title": "Rep. Jacobs press release introducing the GUARDRAILS Act, listing cosponsors",
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Names Kelly Morrison among the cosponsors of the bill to repeal the White House AI moratorium."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements or bills found on chip export controls, Nvidia sales to China or the Chip Security Act as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Searches: Kelly Morrison + artificial intelligence/AI (two variants), data center(s) (two variants), electricity/energy bills/Clean Cloud, Big Tech/Section 230/chatbot/deepfake/KOSA/robocall, China chips/export controls/preemption (empty), Clean Cloud/Data Center Transparency/GUARDRAILS; site listing of morrison.house.gov (94 press releases reviewed by title; none on data centers or AI beyond robocalls and privacy). Opened: Beyer/Mullin letter page (confirms her signature), Clarke letter page (confirms her signature), Jacobs GUARDRAILS release (lists her), Legis1 hearing story, her robocall and Musk privacy releases, govtrack H.R. 7977 cosponsors (original cosponsor), H.R. 6179 and H.R. 6984 sponsor pages, House roll call 145 (she voted Nay on H.R. 1). The Matsui Nov 26 2025 letter PDF returned no text, so that lead is unverified and not used. Google News returned no Morrison-specific data center coverage; most hits concerned her ICE oversight and stock trading disclosures. No AI super PAC activity found."
+}
+]

@@ -1,0 +1,519 @@
+[
+{
+"bioguide": "M001218",
+"name": "Richard McCormick",
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "high",
+"summary": "McCormick is one of the House's most vocal data center boosters. As chair of the Science Committee's oversight subcommittee he ran a February 2026 hearing pushing faster permitting and more power generation for AI data centers, voted for the SPEED Act permitting bill, and went on Bloomberg in August 2026 to warn against slowing the AI buildout. He does acknowledge the risk that homeowners could end up subsidizing grid upgrades for data centers.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Hearing: McCormick chairs House Science oversight hearing 'Powering America's AI Future' on data center infrastructure (Roll Call)",
+"url": "https://rollcall.com/2026/02/24/trump-touts-push-to-contain-ai-energy-costs/",
+"date": "2026-02-24",
+"quote": "Data centers consume vast amounts of electricity, sometimes 10 to 50 times more per square foot than traditional buildings",
+"what_it_shows": "He used his subcommittee chairmanship to frame the AI buildout as needing far more electricity and faster permitting, while praising companies that fund new generation themselves."
+},
+{
+"type": "hearing",
+"title": "Hearing: McCormick raises ratepayer subsidy question at the same data center hearing (Roll Call)",
+"url": "https://rollcall.com/2026/02/24/trump-touts-push-to-contain-ai-energy-costs/",
+"date": "2026-02-24",
+"quote": "That raises serious questions of whether residential ratepayers could end up subsidizing upgrades that primarily serve high-intensity industrial complexes.",
+"what_it_shows": "Even as a booster, he acknowledged that traditional utility rate structures could push data center grid costs onto households and said that needs to be addressed."
+},
+{
+"type": "statement",
+"title": "E&E News: McCormick backs streamlined environmental review for AI infrastructure at Feb 24 hearing",
+"url": "https://www.eenews.net/articles/lawmakers-split-on-speeding-up-data-center-permitting/",
+"date": "2026-02-25",
+"quote": "I'm not advocating that we change the rules in some sort of dramatic capacity. But we do need to change.",
+"what_it_shows": "He wants permitting and environmental review changed to speed data center and energy construction, though he frames it as a moderate change."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 4776, the SPEED Act (NEPA permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for the permitting-reform bill that the administration and industry pushed as a way to build data centers and power plants faster."
+},
+{
+"type": "interview",
+"title": "Interview: McCormick joins Bloomberg This Weekend to talk data centers and AI (listed on his official video page)",
+"url": "https://mccormick.house.gov/media/videos",
+"date": "2026-08-23",
+"quote": null,
+"what_it_shows": "Bloomberg titled the segments 'Rep. McCormick Warns Against Slowing AI Buildout' and 'Data Center Investment Will Make Communities Better, Says Rep. McCormick'; the video itself could not be opened, so no quote is given."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "high",
+"summary": "McCormick treats AI mainly as a race the U.S. must win against China and argues policy should help industry thrive rather than constrain it. He has not called for binding safety rules, and the pro-industry super PAC Leading the Future named him a 'GOP Champion' in 2026.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Op-ed: 'Don't let AI slip away: Why US policy must match innovation' (Washington Examiner)",
+"url": "https://www.washingtonexaminer.com/op-eds/3407945/dont-let-ai-slip-away-why-us-policy-must-match-innovation/",
+"date": "2025-05-12",
+"quote": "The federal government and private industry must move in lockstep to maintain American leadership in AI innovation.",
+"what_it_shows": "After meeting Nvidia CEO Jensen Huang, he framed the goal of AI policy as keeping industry thriving and beating adversaries, not new safety mandates."
+},
+{
+"type": "pac",
+"title": "PAC: Leading the Future super PAC names McCormick on its 'House GOP Champions' list (Breitbart)",
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"date": "2026-04-16",
+"quote": "part of a broader ecosystem of current members who have engaged with the industry",
+"what_it_shows": "The AI industry's main super PAC, which backs a light-touch national framework, singled him out as an ally."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2385, CREATE AI Act of 2025 (national AI research resource)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2025-04-17",
+"quote": null,
+"what_it_shows": "He supports public investment in AI research capacity, a neutral-to-pro-innovation position."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5351, NSF AI Education Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
+"date": "2026-01-13",
+"quote": null,
+"what_it_shows": "He backs federal AI education and workforce programs."
+}
+]
+},
+"tech_regulation": {
+"score": 1,
+"confidence": "medium",
+"summary": "McCormick voted against the House's 2026 kids online safety package (the KIDS Act) even though most Republicans supported it. He did vote to force TikTok's sale in 2024 and backed a bill to keep data brokers from selling service members' data to hostile countries, so his skepticism is aimed at broad new platform rules rather than national security measures.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 7757, the KIDS Act kids online safety package, House roll call 228 (passed 267-117)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He was among the House Republicans who opposed the chamber's main children's online safety bill."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divestiture), House roll call 86",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "He supported forcing TikTok's Chinese owner to sell, a national-security style tech rule."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6573 (118th), Protecting Military Servicemembers' Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2023-12-04",
+"quote": null,
+"what_it_shows": "He backed a narrow data-broker rule to stop sales of troops' personal data to hostile countries."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "In February 2025 a Georgia state senator said McCormick called and asked the legislature not to pass its own AI bill because AI should be handled at the federal level, and the state bill stalled. McCormick's office did not comment, and no statement from him on the 2025 federal moratorium or the 2026 White House framework was found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Georgia Recorder: State Sen. Brandon Beach says McCormick asked Georgia lawmakers not to act on AI because it is a federal issue",
+"url": "https://georgiarecorder.com/2025/02/26/bill-to-help-guide-georgias-ai-growth-stalled-after-gop-u-s-rep-mccormick-raises-concerns/",
+"date": "2025-02-26",
+"quote": "I got a call from Congressman Rich McCormick asking us not to do anything on AI, saying that they were going to do it at the federal level",
+"what_it_shows": "As relayed by the committee chair, McCormick argued a patchwork of state AI laws would hurt the U.S. against China and wanted Washington, not states, to set AI rules; the state AI Accountability Act did not get a vote that day."
+}
+]
+},
+"china_chips": {
+"score": 0,
+"confidence": "high",
+"summary": "Mixed record. McCormick wants to stop China from using American AI through cloud loopholes or theft and cosponsored several bills to do that. But he also led the push to scrap the Biden AI chip export rule, celebrated its rescission as making America 'open for business,' and was one of only two committee members to vote against the AI Overwatch Act giving Congress a veto over chip sales to China.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: 'Big Win for US Tech: Rescission of the Biden Administration's AI Export Rule'",
+"url": "https://mccormick.house.gov/media/press-releases/big-win-us-tech-rescission-biden-administrations-ai-export-rule",
+"date": "2025-05-08",
+"quote": "By removing these overly burdensome export controls, we are sending a clear message that America is open for business and ready to lead the world in AI innovation.",
+"what_it_shows": "He and Rep. Scott Franklin wrote to Commerce urging repeal of the AI Diffusion Rule and claimed credit when it was rescinded, a pro-export position."
+},
+{
+"type": "op_ed",
+"title": "Op-ed: McCormick describes leading the fight against BIS Rule 00636 after meeting Nvidia's Jensen Huang (Washington Examiner)",
+"url": "https://www.washingtonexaminer.com/op-eds/3407945/dont-let-ai-slip-away-why-us-policy-must-match-innovation/",
+"date": "2025-05-12",
+"quote": "I have led the charge to change the Bureau of Industry and Security Rule 00636, issued by the Biden administration, that threatened these objectives by constraining companies in ways that may ultimately harm our national security.",
+"what_it_shows": "He argues broad chip export controls, including on allies, cede markets to China and hurt U.S. companies."
+},
+{
+"type": "other",
+"title": "Committee vote: McCormick one of two no votes as House Foreign Affairs advances the AI Overwatch Act 42-2-1 (The Hill)",
+"url": "https://thehill.com/policy/technology/5699863-congress-ai-overwatch-act-chips-export/",
+"date": "2026-01-21",
+"quote": "Reps. Andy Barr (R-Ky.) and Rich McCormick (R-Ga.) were the only two on the committee to oppose the measure.",
+"what_it_shows": "He opposed giving Congress arms-sale style power to block advanced AI chip exports to China; Roll Call reported he did not explain the vote."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 1486, Economic Espionage Prevention Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1486",
+"date": "2025-02-21",
+"quote": null,
+"what_it_shows": "His own bill lets the President punish foreign companies, notably Chinese ones, that steal trade secrets or break export rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2683, Remote Access Security Act (closes cloud loophole for restricted chips)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"date": "2025-04-07",
+"quote": null,
+"what_it_shows": "He wants to stop Chinese firms from renting restricted American AI chips through the cloud."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1121, No DeepSeek on Government Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-03-05",
+"quote": null,
+"what_it_shows": "He backed removing the Chinese AI app from federal devices."
+},
+{
+"type": "statement",
+"title": "Press release: 'Congressman McCormick BANS China from Exploiting American AI' (CLOUD AI Act, 118th)",
+"url": "https://mccormick.house.gov/media/press-releases/congressman-mccormick-bans-china-exploiting-american-ai",
+"date": "2023-07-18",
+"quote": "We cannot allow communist China to endanger America's future and oppress their own people by abusing our technology.",
+"what_it_shows": "He co-authored the 2023 bill to stop China from remotely accessing American chips it cannot buy under export controls."
+}
+]
+}
+},
+"signature": "Pro-buildout House Science oversight chair who led the push to scrap Biden's AI chip export rule, voted against the AI Overwatch Act, and was named a Leading the Future 'GOP Champion.'",
+"notable_quote": {
+"text": "By removing these overly burdensome export controls, we are sending a clear message that America is open for business and ready to lead the world in AI innovation.",
+"url": "https://mccormick.house.gov/media/press-releases/big-win-us-tech-rescission-biden-administrations-ai-export-rule",
+"date": "2025-05-08"
+},
+"groups": [
+"Chairman, House Science, Space, and Technology Subcommittee on Investigations and Oversight (119th Congress)",
+"House Bipartisan Task Force on Artificial Intelligence, 118th Congress (member per first-pass roster; not listed on his own committees page)"
+],
+"search_notes": "Searches: 'Rich McCormick artificial intelligence'; 'McCormick data center Georgia congressman'; 'McCormick Kozycki data center'; 'McCormick Maysville/Hall County data center' (no results); 'Rich McCormick Nvidia/chips/export controls China'; 'Rich McCormick preemption/state AI laws/moratorium'; 'Rich McCormick Section 230/Big Tech/TikTok'; 'McCormick AI Overwatch'; 'McCormick H20/AI Diffusion'; Bloomberg segment titles; site listing of mccormick.house.gov plus his press release, video, issues and caucus pages. Opened and quoted: Roll Call and E&E hearing coverage, his May 2025 press release and Washington Examiner op-ed, 2023 CLOUD AI release, The Hill and Roll Call on the AI Overwatch markup, Georgia Recorder Feb 2025, Breitbart LTF list, GovTrack roll calls h356 (SPEED), h86 (TikTok) and h228 (KIDS Act). Could not open (403 or empty): Access North Georgia Sept 6, 2026 story with the reported 'Georgia is open for business. Full stop.' X post defending Hall County data centers; National Defense Magazine Nov 3, 2025 'Over-Regulation, Isolationism Hinder U.S. AI Leadership'; Bloomberg videos; Washington Times Feb 18, 2026 op-ed 'America's AI future runs on energy, not bureaucracy'; Georgia Recorder June 6, 2025 preemption story; Nextgov Nov 2025 piece. Those unopened items were not used for scoring or quotes. His official caucus page does not list the AI Caucus, so that lead was dropped."
+},
+{
+"bioguide": "S001189",
+"name": "Austin Scott",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Scott says data centers are national security infrastructure that must be built inside the United States, but that communities should demand guardrails: companies should pay their own power costs, residents' bills should not rise, and water supplies should be protected. He voted for the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "interview",
+"title": "WALB: 'South Georgia congressmen say data centers need guardrails before moving forward'",
+"url": "https://www.walb.com/2026/07/17/south-georgia-congressmen-say-data-centers-need-guardrails-before-moving-forward/",
+"date": "2026-07-17",
+"quote": "We need to make sure that the companies who build the data centers are paying their own cost of energy",
+"what_it_shows": "He wants data centers to cover their own energy costs so residents do not see higher power bills, and says water and power supplies must be protected."
+},
+{
+"type": "interview",
+"title": "WALB: Scott calls data centers a national security asset that must be located in the U.S.",
+"url": "https://www.walb.com/2026/07/17/south-georgia-congressmen-say-data-centers-need-guardrails-before-moving-forward/",
+"date": "2026-07-17",
+"quote": "It's important that they actually be geographically in the United States of America.",
+"what_it_shows": "He supports building data centers domestically for national security and data protection reasons, which makes his stance pro-build with conditions rather than anti-data center."
+},
+{
+"type": "interview",
+"title": "WALB: Scott says future data centers will need parameters on water and power",
+"url": "https://www.walb.com/2026/07/17/south-georgia-congressmen-say-data-centers-need-guardrails-before-moving-forward/",
+"date": "2026-07-17",
+"quote": "There are going to have to be some parameters on what happens with water usage and with power and other things with regard to any of the data centers that are going to be built in the future",
+"what_it_shows": "He expects limits and transparency on water and power use and points to closed-loop cooling as something communities should ask about."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 4776, the SPEED Act (NEPA permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for the permitting-reform bill meant to speed data center and energy construction."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI safety rules, chatbots, deepfakes or frontier AI as of Sept 2026. Searches of news coverage and his official site for AI statements turned up only data center remarks and unrelated items.",
+"evidence": []
+},
+"tech_regulation": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Scott cosponsored the SCREEN Act to force adult websites to verify users' ages and voted to force TikTok's sale, but he voted against the House's broader 2026 kids online safety package, the KIDS Act.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1623, SCREEN Act (age verification for adult websites)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-02-26",
+"quote": null,
+"what_it_shows": "He backs a targeted rule requiring adult sites to keep kids out."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 7757, the KIDS Act kids online safety package, House roll call 228 (passed 267-117)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He opposed the House's main children's online safety and platform design bill."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divestiture), House roll call 86",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "He supported forcing TikTok's Chinese owner to sell."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on federal preemption of state AI laws, the 2025 moratorium fight, the Dec 2025 executive order or the March 2026 White House framework as of Sept 2026.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China. As an Intelligence Committee member he has urged companies to stop doing business with China in general terms, but nothing specific to chips was located.",
+"evidence": []
+}
+},
+"signature": "Armed Services and Intelligence member who calls data centers national security assets that belong in the U.S. but says they must pay their own power costs; voted against the KIDS Act.",
+"notable_quote": {
+"text": "We need to make sure that the companies who build the data centers are paying their own cost of energy",
+"url": "https://www.walb.com/2026/07/17/south-georgia-congressmen-say-data-centers-need-guardrails-before-moving-forward/",
+"date": "2026-07-17"
+},
+"groups": [],
+"search_notes": "Searches: 'Austin Scott artificial intelligence'; 'Austin Scott data center(s)'; 'Rep. Austin Scott AI/chips/China/Big Tech'; 'Austin Scott data center legislation/leadership'; 'Austin Scott chatbot/deepfake/Section 230/TikTok/Nvidia'; 'Austin Scott Kids Online Safety/KOSA'; 'Austin Scott ratepayer/power bills/Georgia Power'; 'Austin Scott Intelligence Committee AI/Huawei'; 'Austin Scott AI Pentagon/Armed Services'; site listing and press release index of austinscott.house.gov (few relevant items, all pre-2025). Opened: WALB July 17, 2026 (quoted), GovTrack roll calls h356, h86, h228, his 2023 Just the News China remarks. The first-pass lead that Politico (Sept 3, 2026) reported he privately approached GOP leaders about data center legislation could not be located or confirmed and was not used. The Hill's April 2026 story on his rebuke of Trump's AI-generated 'Jesus' post was not opened and is about religion rather than AI policy."
+},
+{
+"bioguide": "C001116",
+"name": "Andrew S. Clyde",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "No public statement on data centers found as of Sept 2026, even though Hall County data center fights are in his district. His only related actions are voting for the SPEED Act permitting bill and co-offering an amendment to narrow who can sue over environmental reviews, which lean toward building faster.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 4776, the SPEED Act (NEPA permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for the permitting-reform bill pushed as a way to build data centers and power plants faster."
+},
+{
+"type": "other",
+"title": "Amendment: Clyde, Roy and Brecheen amendment to the SPEED Act narrowing NEPA 'direct harm' standing (House Rules Committee)",
+"url": "https://rules.house.gov/bill/119/hr-4776",
+"date": "2025-12",
+"quote": "Clarifies that direct harm does not include emotional, aesthetic, or recreational harm unaccompanied by a material physical or property harm.",
+"what_it_shows": "He tried to make the permitting bill even tougher on lawsuits against projects; the amendment was made in order and, per the first-pass record, failed on the floor."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI safety, chatbots, deepfakes or frontier AI as of Sept 2026. Searches of news and his official site for any AI statement came up empty; his public work centers on guns, appropriations and EPA rules.",
+"evidence": []
+},
+"tech_regulation": {
+"score": 1,
+"confidence": "low",
+"summary": "Clyde voted against the House's 2026 kids online safety package, the KIDS Act, while voting in 2024 to force TikTok's sale. No statements explaining either vote were found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 7757, the KIDS Act kids online safety package, House roll call 228 (passed 267-117)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He was among the conservatives who opposed the House's main children's online safety bill."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divestiture), House roll call 86",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "He supported forcing TikTok's Chinese owner to sell the app."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on preempting state AI laws, the 2025 moratorium, the Dec 2025 executive order or the March 2026 framework as of Sept 2026.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China as of Sept 2026. He has not sponsored or cosponsored any relevant bill in the 118th or 119th Congress.",
+"evidence": []
+}
+},
+"signature": "No notable public AI activity found; voted for the SPEED Act permitting bill and against the KIDS Act.",
+"notable_quote": null,
+"groups": [],
+"search_notes": "Searches: 'Andrew Clyde artificial intelligence/AI'; 'Clyde data center Georgia congressman'; 'Andrew Clyde data center(s)'; 'Andrew Clyde Big Tech/Section 230/censorship/TikTok/China chips'; 'Rep. Clyde AI/TikTok/censorship'; 'Clyde SPEED Act amendment' (no results); 'Clyde appropriations NIST/AI Commerce Justice Science'; 'Andrew Clyde Georgia Power/power bills/electricity'; 'Andrew Clyde TikTok/Huawei/Chinese technology'; site listing of clyde.house.gov (only a privacy page matched) and his media index (Second Amendment, EPA, impeachment items only). Opened: GovTrack h356, h86, h228 and h145 (he voted Nay on the April 2024 foreign aid package that carried the TikTok law, but that package bundled Ukraine and Israel aid so it is not used as a tech signal), House Rules Committee amendment list for H.R. 4776. Could not open: congress.gov amendment page (403), WABE May 2026 primary story, Center Square April 2026 primary story. No AI-related caucus or PAC activity found."
+},
+{
+"bioguide": "C001129",
+"name": "Mike Collins",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Collins, the 2026 GOP Senate nominee, says the U.S. needs data centers to beat China but that local governments and residents should decide where they go and they should not damage local infrastructure. He voted for the SPEED Act permitting bill. Reporting he could not be reached for verification also has him saying Georgians should not foot the bill.",
+"evidence": [
+{
+"type": "interview",
+"title": "WTOC: Collins campaigns in Savannah, says data center siting should be a local decision",
+"url": "https://www.wtoc.com/2026/08/11/collins-campaigns-savannah-touts-port-funding-legislative-record/",
+"date": "2026-08-11",
+"quote": "When you go to small towns, to me, local people ought to have local control, period.",
+"what_it_shows": "He defers data center approval to local governments and residents rather than proposing federal limits or protections."
+},
+{
+"type": "interview",
+"title": "WTOC: Collins frames data centers as part of the race with China",
+"url": "https://www.wtoc.com/2026/08/11/collins-campaigns-savannah-touts-port-funding-legislative-record/",
+"date": "2026-08-11",
+"quote": "We're in a race with China, and we got to kick their butts",
+"what_it_shows": "He supports building data centers for competitiveness with China, while saying they should not be placed where they damage local infrastructure."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 4776, the SPEED Act (NEPA permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for the permitting-reform bill pushed as a way to build data centers and power plants faster."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Collins takes a hands-off, embrace-the-technology view. He sponsored the House-passed Small Business AI Advancement Act to help small firms adopt AI, cosponsored a bill to lock in Trump's 'woke AI' procurement order, and defended his campaign's AI deepfake of Sen. Ossoff by saying no one is going to stop technology. He has not backed AI safety, deepfake or chatbot rules.",
+"evidence": [
+{
+"type": "interview",
+"title": "Atlanta News First: Collins defends his campaign's AI-generated likeness of Sen. Ossoff",
+"url": "https://www.atlantanewsfirst.com/2025/11/18/ai-campaign-ad-hotly-contested-us-senate-race-raises-ethical-questions/",
+"date": "2025-11-18",
+"quote": "You're not going to stop technology. Just embrace it and go with it. It's going to be the way you see things go from now on.",
+"what_it_shows": "Asked about an AI deepfake ad putting words in his opponent's mouth, he rejected the ethics concern and said campaigns should embrace the technology."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 3679, Small Business Artificial Intelligence Advancement Act (passed House Feb 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3679",
+"date": "2025-06-03",
+"quote": null,
+"what_it_shows": "His signature AI bill has NIST create free guides so small businesses adopt AI; it promotes use, not new guardrails."
+},
+{
+"type": "statement",
+"title": "FedScoop: Collins floor remarks as the House passes his Small Business AI Advancement Act",
+"url": "https://fedscoop.com/nist-bill-ai-assistance-small-businesses-passes-house/",
+"date": "2026-02-24",
+"quote": "We will ensure small businesses have the ability to modernize and remain competitive against their larger counterparts.",
+"what_it_shows": "He pitches AI as a tool Main Street should adopt to compete with big companies."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4873, bill to codify Executive Order 14319 on preventing 'woke AI' in the federal government",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4873",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "His one AI-rules bill targets perceived political bias in government-purchased AI, not safety or consumer harms."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Collins cosponsored the Stop the Censorship Act, which would strip social media companies of their legal shield when they remove posts for being merely objectionable, and voted to force TikTok's sale. He missed the June 2026 vote on the KIDS Act kids online safety package.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 908, Stop the Censorship Act (narrows Section 230 for content removal)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/908",
+"date": "2025-02-04",
+"quote": null,
+"what_it_shows": "He backs a targeted change to Section 230 aimed at platform 'censorship' of speech, a conservative form of reining in Big Tech."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divestiture), House roll call 86",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "He supported forcing TikTok's Chinese owner to sell the app."
+},
+{
+"type": "vote",
+"title": "Vote: Did not vote on H.R. 7757, the KIDS Act kids online safety package, House roll call 228",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He was absent for the House's main children's online safety vote while campaigning for Senate, so his position on it is unknown."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on preempting state AI laws, the 2025 moratorium, the Dec 2025 executive order or the March 2026 White House framework as of Sept 2026, including in his Senate campaign coverage.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China as of Sept 2026. His 'race with China' comments are about data centers and general technology leadership, not chip exports.",
+"evidence": []
+}
+},
+"signature": "GOP Senate nominee who sponsored the House-passed Small Business AI Advancement Act, ran an AI deepfake ad of Ossoff, and says data center siting is a local call in the race with China.",
+"notable_quote": {
+"text": "You're not going to stop technology. Just embrace it and go with it. It's going to be the way you see things go from now on.",
+"url": "https://www.atlantanewsfirst.com/2025/11/18/ai-campaign-ad-hotly-contested-us-senate-race-raises-ethical-questions/",
+"date": "2025-11-18"
+},
+"groups": [
+"Chairman, House Science, Space, and Technology Subcommittee on Research and Technology (118th Congress; oversees NIST and NSF)"
+],
+"search_notes": "Searches: 'Mike Collins artificial intelligence'; 'Mike Collins data center(s) Georgia'; 'Collins Ossoff data center Effingham/OpenAI/Project Camellia'; 'Mike Collins Big Tech/Section 230/censorship/TikTok'; 'Mike Collins Nvidia/chips/export controls/state AI/preemption'; 'Mike Collins deepfake Ossoff AI ad'; 'Mike Collins Small Business AI Advancement Act'; 'Mike Collins Climate Power/OBBBA data center memo'; 'Mike Collins woke AI'; 'Collins Georgia Senate AI state laws/moratorium'; 'Mike Collins China chips/semiconductor'; site listing and press release index of collins.house.gov. Opened and quoted: WTOC Aug 11, 2026; Atlanta News First Nov 18, 2025; FedScoop Feb 24, 2026; his Feb 2023 subcommittee chair release; GovTrack h356, h86, h228. Could not open (403, and Wayback was refusing connections): Savannah Morning News Sept 7, 2026 exclusive with the reported quote 'I trust our communities to make sure the tax and job benefits for Georgians far outweigh any costs'; AJC Sept 4, 2026 issues piece; CBS News deepfake story; Center Square Aug 31, 2026 Effingham piece; The Current GA July 28 roundup did not mention his data center view. The Breitbart Leading the Future 'GOP Champions' list did not include Collins. The Climate Power Sept 2, 2026 memo attacking his One Big Beautiful Bill role was not located."
+}
+]

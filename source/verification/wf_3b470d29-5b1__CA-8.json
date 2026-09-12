@@ -1,0 +1,235 @@
+[
+{
+"bioguide": "W000830",
+"checks": [
+{
+"url": "https://whitesides.house.gov/2026/08/29/rep-whitesides-introduces-bipartisan-bill-to-reduce-the-risk-of-superintelligent-ai-by-monitoring-self-improving-ai-systems/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-29",
+"note": "Quote appears verbatim, attributed to Rep. Whitesides. Page says the U.S. government has no reliable way to track how fast internal AI capabilities accelerate; bill ensures visibility when frontier labs partner with federal evaluators. Note the bill is a monitoring/transparency measure, not a hard rule."
+},
+{
+"url": "https://keyt.com/politics/cnn-us-politics/2026/09/11/house-democrats-urge-speaker-johnson-to-cancel-recess-to-pass-ai-safeguards-citing-catastrophic-risk/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "CNN report (via KEYT) confirms the letter is signed by Reps. Liccardo, Whitesides, Trahan and Lieu, cites 'catastrophic risk posed by advanced artificial intelligence', 'mass cybersecurity breaches and development of biological or chemical weapons', and calls on Johnson to bring the House back 'immediately'. Quote verbatim."
+},
+{
+"url": "https://whitesides.house.gov/2026/02/27/rep-george-whitesides-urges-safeguards-and-oversight-following-reports-of-pentagon-ai-ultimatum/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-27",
+"note": "Quote verbatim. Page describes the Hegseth ultimatum as demanding removal of guardrails 'including limits related to fully autonomous military targeting and domestic surveillance', and Whitesides urged a pause until Congress and DoD establish oversight."
+},
+{
+"url": "https://whitesides.house.gov/2026/04/22/reps-whitesides-houlahan-demand-pentagon-explain-cybersecurity-capability-gap-created-by-anthropic-supply-chain-designation/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "Quote verbatim, attributed to Rep. Whitesides. Letter with Houlahan demands DoD explain how it will close the cyber capability gap created by the Anthropic supply-chain risk designation; supports the claim that he wants the military able to use advanced AI cyber tools."
+},
+{
+"url": "https://whitesides.house.gov/2026/07/15/reps-whitesides-harrigan-mcclain-delaney-haridopolos-introduce-bipartisan-bill-to-simplify-parental-controls-across-kids-devices/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-15",
+"note": "Quote verbatim. Page confirms the TOTAL Screen Time Act directs NIST to develop a 'voluntary technical standard' for interoperable parental controls, with privacy limits and no centralized database; Whitesides says the bill does not tell families how much screen time is right."
+},
+{
+"url": "https://chinaselectcommittee.house.gov/media/letters/moolenaar-whitesides-to-secretary-lutnick-hold-firm-on-chinese-memory-chips-ban",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Quote verbatim from the Moolenaar-Whitesides letter. Letter acknowledges the AI-driven global DRAM shortage, says the solution is not Chinese memory chips, urges opposing sales of Chinese memory abroad and expanding export controls on CXMT/YMTC, plus coordination with Korea, Japan and EU."
+},
+{
+"url": "https://whitesides.house.gov/2026/07/23/sens-schiff-and-banks-reps-latta-and-whitesides-introduce-bipartisan-bill-to-combat-ai-distillation-and-other-attacks-to-national-se/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Quote verbatim, attributed to Whitesides. Bill authorizes threat-intelligence sharing among U.S. AI labs against distillation attacks; the explicit China framing comes from Schiff and Banks quotes on the page, while Whitesides says 'hostile foreign attacks'. Claim is supported by the page as a whole."
+},
+{
+"url": "https://whitesides.house.gov/2026/08/29/rep-whitesides-introduces-bipartisan-bill-to-reduce-the-risk-of-superintelligent-ai-by-monitoring-self-improving-ai-systems/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-29",
+"note": "Headline quote appears verbatim on the page, attributed to Rep. Whitesides."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "Sources show he takes catastrophic AI risk seriously, but the concrete positions are targeted: a monitoring/transparency bill for self-improving systems tied to voluntary federal evaluator partnerships, a letter that explicitly says 'reasonable minds may disagree about precisely how Congress should regulate', a pause request on removing Pentagon guardrails, and a threat-intel sharing bill. He also pushed the Pentagon to use Anthropic's AI. Nothing in these sources calls for strict binding rules on frontier AI now, so -2 overstates the evidence; -1 fits better.",
+"suggested_score": -1,
+"suggested_label": "Targeted guardrails"
+}
+]
+},
+{
+"bioguide": "C001080",
+"checks": [
+{
+"url": "https://nadler.house.gov/news/documentsingle.aspx?DocumentID=395087",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-11-03",
+"note": "Nadler press release dated 2023-11-03 names Judy Chu (CA-28) as co-lead with Nadler of a letter from 30 colleagues to CMS urging increased oversight of AI/algorithmic tools in Medicare Advantage coverage decisions. Quote appears verbatim (only difference is a curly apostrophe in 'plans’'). Claim that the letter demands oversight of insurers' AI tools that deny/cut off care is supported; the page also cites reports of software leading to denials in inpatient, SNF and home health settings."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF (text extracted locally with pypdf; the fetch tool returned 0 chars) is the Nov 26, 2025 letter to Johnson, Thune, Jeffries and Schumer expressing 'strong opposition' to reintroducing a state AI-law moratorium in the NDAA and to a preemption executive order. 'Judy Chu, Member of Congress' appears in the signature block on page 4. Claim supported."
+},
+{
+"url": "https://nadler.house.gov/news/documentsingle.aspx?DocumentID=395087",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-11-03",
+"note": "Same page as item 1; quote appears verbatim in the press release as an excerpt from the Nadler-Chu letter. Note it is letter text co-led by Chu, not a solo spoken remark."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "None of the listed sources mention data centers, energy, or ratepayers; the -1 'Protect ratepayers first' score has no supporting evidence in this item set.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "R000620",
+"checks": [
+{
+"url": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-introduces-bill-improve-ai-literacy-and-education",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-19",
+"note": "Quote appears verbatim in the Nov 19, 2025 press release; the next sentence says the bill 'allows the United States to continue being a global leader in AI', supporting the claim."
+},
+{
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim in Rep. Luz Rivas (D-CA) opening remarks. Her questions to Kratsios concerned AI education programs and 'what role do you see Congress playing in implementing these programs'; no new mandates proposed. Transcript published 2026-01-15."
+},
+{
+"url": "https://rivas.house.gov/media/press-releases?page=6",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-01",
+"note": "Listing page shows the Dec 1, 2025 release 'Congresswomen Luz Rivas and Doris Matsui Lead Colleagues in Opposing Push to Revive AI Moratorium in Defense Spending Bill' with the quoted teaser verbatim."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF (text extracted with pdftotext after the fetch tool returned 0 chars) is the Nov 26, 2025 letter to Johnson, Thune, Jeffries and Schumer opposing an NDAA AI moratorium and a preemption executive order; 'Luz M. Rivas' is among 81 'Member of Congress' signature lines."
+},
+{
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim. She says 'I've been leading my House colleagues against this idea' and that the newest version 'would withhold essential broadband funding from states at the whim of the Trump administration.'"
+},
+{
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim, closing line of her remarks, immediately after rejecting the premise of withholding federal funding from states."
+},
+{
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Headline quote appears verbatim, attributed to Rep. Luz Rivas (D-CA) in the transcript."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The sources lean toward guardrails rather than a true mix: her AI for ALL Act press release stresses AI being used 'responsibly, safely, and effectively', and the Matsui-Rivas letter she co-led explicitly endorses 'setting common-sense guardrails', praises California's SB-53 frontier-AI safety law, and says states should keep enforcing AI safeguards absent federal protections. Nothing in the sources argues for a light-touch approach; the only counterweight is her literacy-focused, non-mandate framing. Evidence is modest but points to -1 rather than 0.",
+"suggested_score": -1,
+"suggested_label": "Targeted guardrails"
+}
+]
+},
+{
+"bioguide": "F000483",
+"checks": [
+{
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-bacon-ciscomani-friedman-lead-bipartisan-resolution-condemning-antisemitic-content-on-ai-platforms",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Quote appears verbatim, attributed to 'Rep. Laura Friedman' as a co-lead of the resolution. Page dated 2025-12-18."
+},
+{
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Verbatim in Friedman's opening (after a false start 'There is no doubt that AI...'). She then lists workforce devastation, harms to creative community/IP owners, deepfakes, human safety/health, and says 'this will require at the very least a very thoughtful approach'. Transcript published 2026-01-15 (hearing date itself not stated in fetched text)."
+},
+{
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Verbatim, spoken by Rep. Laura Friedman (D-CA) in the same opening statement."
+},
+{
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"verdict": "confirmed",
+"corrected_quote": "Will you commit to terminating these partnerships with AI companies when they flagrantly violate basic decency, and in the case of the non-consensual sexual images that Chair Lofgren referenced, violate laws?",
+"corrected_date": "2026-01-15",
+"note": "Quote is verbatim as a fragment; full sentence supplied. Context is the xAI/Grok federal contract and antisemitic output, so the claim is supported."
+},
+{
+"url": "https://friedman.house.gov/media/in-the-news/jewish-insider-lawmakers-press-social-media-platforms-violent-antisemitic-content",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-06",
+"note": "Quote verbatim from the 41-lawmaker letter to Meta, TikTok and X CEOs; Laura Friedman (D-CA) is listed among signers. Reposted on her official site, dated 2025-06-06."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF (fetch tool returned empty text; downloaded and extracted directly). Letter dated Nov 26, 2025 opposes an NDAA state-AI-law moratorium and a preemption executive order; 'Laura Friedman, Member of Congress' appears in the signature block."
+},
+{
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-bacon-ciscomani-friedman-lead-bipartisan-resolution-condemning-antisemitic-content-on-ai-platforms",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Same verbatim Friedman quote as item 1; suitable as headline quote."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the seven sources mentions export controls, chips, Nvidia, or China. There is no evidence in this item set for any china_chips position, so the -1 'Leans hawkish' score is unsupported by the cited material.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "The -1 score rests on a single content-moderation letter urging platforms to act on violent antisemitic content, plus the Grok questioning. It is directionally consistent with 'Targeted rules' but thin; no platform-regulation legislation or antitrust stance is cited. Keep -1 but flag as low-confidence.",
+"suggested_score": -1,
+"suggested_label": "Targeted rules"
+}
+]
+}
+]

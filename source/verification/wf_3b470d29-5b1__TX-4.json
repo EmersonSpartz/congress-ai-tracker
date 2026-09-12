@@ -1,0 +1,264 @@
+[
+{
+"bioguide": "P000048",
+"checks": [
+{
+"url": "https://www.eenews.net/articles/zeldin-talks-data-centers-permitting-with-house-gop/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Quote appears verbatim, attributed to RSC Chair Pfluger. Page also has him saying of Zeldin's EPA 'They're deregulating; they're getting projects approved,' supporting the claim."
+},
+{
+"url": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2733",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-12",
+"note": "Quote verbatim in hearing transcript. He asks Mr. Williams about utilities' data center load growth and 'how much regulatory certainty is needed before you can commit nuclear resources,' and presses INL/DOE to deliver HALEU for the Abilene Christian University reactor."
+},
+{
+"url": "https://energycommerce.house.gov/posts/subcommittee-on-energy-holds-hearing-on-the-oversight-of-ferc",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-03",
+"note": "Quote verbatim in E&C excerpt. Follow-up 'Is it your belief that having those pipelines... lowers prices?' supports the pipeline-to-prices tie. Chairman Latta's opener frames hearing around 'Winning the AI race' and data centers."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Pfluger named on Leading the Future's first-round House GOP Champions list; quote is verbatim from co-strategist Zac Moffatt's statement, correctly attributed to the PAC not Pfluger."
+},
+{
+"url": "https://rsc-pfluger.house.gov/media/press-releases/chairman-pfluger-announces-new-republican-study-committee-task-force-emerging",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-07",
+"note": "Quote verbatim from Pfluger's statement. Task force covers AI, blockchain, biotech; statement says RSC 'won't merely participate in the tech revolution, we'll lead it.'"
+},
+{
+"url": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2676",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-19",
+"note": "Quote verbatim. Release says bill requires DHS to conduct annual assessments of terrorist use of generative AI; passed House by voice vote. No regulation of AI companies described."
+},
+{
+"url": "https://www.meritalk.com/articles/rep-pfluger-warns-of-ai-threat-seeks-gao-probe/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-17",
+"note": "Quote verbatim from his March 17 letter to GAO (article dated Mar 24, 2026). Article says he singled out generative and agentic AI use by violent extremists and illicit actors."
+},
+{
+"url": "https://www.eenews.net/articles/zeldin-talks-data-centers-permitting-with-house-gop/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Same E&E article; quote verbatim and attributed to Pfluger."
+},
+{
+"url": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2244",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-22",
+"note": "Release dated Jan 22, 2025 says 'Today' Pfluger joined Salazar, Dean, Buchanan, Dingell, Plaskett to reintroduce the bipartisan TAKE IT DOWN Act for the 119th Congress; includes his supportive quote."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Same Breitbart article; quote verbatim and is the PAC's statement about a 'national framework in Congress,' not Pfluger's own words, as the claim notes."
+},
+{
+"url": "https://www.eenews.net/articles/zeldin-talks-data-centers-permitting-with-house-gop/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Headline quote verbatim on page, attributed to Pfluger."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the eleven sources concerns chip export controls or semiconductor sales; the only China material is a nuclear-energy 'race' hearing, which is not a chips position. Evidence is too thin to assign -1.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "G000601",
+"checks": [
+{
+"url": "https://energycommerce.house.gov/posts/chairman-guthrie-announces-full-committee-markup-of-29-bills",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Notice lists H.R. 9335, Advanced Transmission Technology to Reduce Rates Act (Rep. Goldman (TX)) alongside H.R. 9340 Ratepayer Protection Act and H.R. 6529 Protecting Families from AI Data Center Energy Costs Act. The 'committee's answer to data center cost fears' framing is the tracker's gloss, not on the page; the notice also lists his H.R. 9396 Prior Authorization Accountability Act."
+},
+{
+"url": "https://fortworthreport.org/2025/11/17/energy-for-the-world-north-texas-leaders-talk-oil-gas-growing-nuclear-industry-at-conference/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-17",
+"note": "Quote verbatim. Article opens with officials saying the grid will not be able to supply energy required by industrial growth; Goldman criticized Biden-era officials for pushing wind/solar and described small nuclear reactors, especially the ACU plant, as the future of energy. The phrase 'all-of-the-above' does not appear; the article does not use it, though the quote implies support for a diverse grid. Remarks made Nov 11, 2025 at Texas Alliance of Energy Producers conference."
+},
+{
+"url": "https://dallasexpress.com/metroplex/north-texas-leaders-push-oil-gas-and-nuclear-expansion-to-meet-rising-energy-demands/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-18",
+"note": "Article (derived from Fort Worth Report) says power grid will struggle to keep up with growth including new data centers; Goldman supports a diverse grid, criticized Biden-era renewables push, and singled out ACU's molten salt reactor as example of the technology's future. Data center tie-in is the article's framing of the broader event, not Goldman's own words."
+},
+{
+"url": "https://craiggoldman.house.gov/media/press-releases/rep-goldman-introduction-data-privacy-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "Quote verbatim. Release dated April 22, 2026; Goldman says he joins colleagues on the E&C Data Privacy Working Group in introducing the SECURE Data Act, which strengthens safeguards for children and teens. 'Co-authored' is a fair reading of working-group membership introducing the bill."
+},
+{
+"url": "https://iapp.org/news/a/a-view-from-dc-us-house-republicans-organize-a-privacy-working-group",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-14",
+"note": "Article names Reps. Craig Goldman, R-Texas, and Julie Fedorchak, R-N.D., as freshmen members of the E&C Republican privacy working group."
+},
+{
+"url": "https://craiggoldman.house.gov/media/press-releases/rep-goldman-introduction-data-privacy-bill",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "Quote verbatim and supports a national standard ('to the entire nation'). But the press release itself says nothing about preemption, state enforcement, or replacing state-by-state rules; those bill details come from the IAPP analysis (item 7), not this page."
+},
+{
+"url": "https://iapp.org/news/a/taking-stock-of-us-house-republicans-proposed-secure-data-act",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-05-29",
+"note": "Page fully supports the claim about the bill: FPF's Jordan Francis says it has strong preemption language over state comprehensive privacy laws like the CCPA and sectoral laws; CalPrivacy's Mahoney says preemption remains a nonstarter. However the page never names Goldman, so it is supporting context for the bill rather than evidence about the member."
+},
+{
+"url": "https://craiggoldman.house.gov/media/press-releases/rep-goldman-introduction-data-privacy-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "Quote appears verbatim, attributed to Congressman Goldman in the April 22, 2026 release."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the eight sources contains any statement by Goldman about AI safety, AI risk, or AI regulation; the only AI mention is another member's data-center energy-cost bill listed in a markup notice. A -1 'Targeted guardrails' score has no supporting evidence in this item set.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "J000304",
+"checks": [
+{
+"url": "https://breakingdefense.com/2026/07/protecting-americas-troops-on-the-digital-battlefield-rep-jackson/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Op-ed bylined Rep. Ronny Jackson (TX-13), published 2026-07-29. Quote appears verbatim. He identifies himself as Chairman of HASC Intelligence and Special Operations Subcommittee, says aggregated publicly available data can reveal military movements, and urges that Section 1098 (ubiquitous technical surveillance provision) be preserved in the FY2027 NDAA conference. Note: the piece says 'publicly available data', not 'commercially available data'; minor wording difference in the claim."
+},
+{
+"url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1316.xml",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-19",
+"note": "BILLSTATUS lists Rep. Jackson, Ronny [R-TX-13] as sponsor of H.R. 1316 (Maintaining American Superiority by Improving Export Control Transparency Act); 'Passed Senate without amendment by Unanimous Consent' on 2025-07-22; 'Became Public Law No: 119-34' on 2025-08-19. Bill requires BIS to report annually to Congress on export-control licensing (transparency measure, not new restrictions)."
+},
+{
+"url": "https://jackson.house.gov/news/documentquery.aspx?DocumentTypeID=27&Page=2",
+"verdict": "confirmed",
+"corrected_quote": "legislation to strengthen America’s strategic trade controls, improve border enforcement capabilities, and prevent the diversion of weapons of mass destruction, advanced conventional weapons, and dual-use technologies to malign foreign actors",
+"corrected_date": "2026-05-14",
+"note": "Press release 'Rep. Ronny Jackson Introduces Bill to Combat Illicit Trafficking, Protect U.S. National Security' dated May 14, 2026; quoted description appears verbatim (curly apostrophe). The listing has since paginated: it is now on Page=3, not Page=2. Recommend replacing the URL with the release permalink or Page=3."
+},
+{
+"url": "https://jackson.house.gov/news/documentquery.aspx?DocumentTypeID=27&Page=2",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Press release 'ICYMI: Rep. Ronny Jackson Joins Secretary Rubio on Advancing America First Foreign Policy and Strengthening Export Controls' dated June 2, 2026 says he spoke at a House Foreign Affairs Committee hearing with Secretary Rubio about his recently introduced Strategic Export Control and Border Security Enhancement Act. Now on Page=3 of the listing, not Page=2; update URL."
+},
+{
+"url": "https://breakingdefense.com/2026/07/protecting-americas-troops-on-the-digital-battlefield-rep-jackson/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Verbatim in the op-ed body."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The only tech_regulation source is an op-ed about a Department of War counter-surveillance provision (Section 1098, FY27 NDAA) assigning internal DoD accountability for ubiquitous technical surveillance. It proposes no rules on tech companies, data brokers, or platforms, so it is not evidence of a position on regulating Big Tech. Evidence is too thin for -1 'Targeted rules'; suggest no position until a source about actual tech-industry regulation is found.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "W000814",
+"checks": [
+{
+"url": "https://science.house.gov/2026/4/opening-statement-of-chairman-randy-weber-at-subsurface-science-and-technology-american-energy-and-mineral-dominance",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Quote appears verbatim in Weber's opening statement (published 2026-04-16). Context is enhanced geothermal as baseload; he ties the timing to skyrocketing demand including the AI race with China, which supports the build-more framing."
+},
+{
+"url": "https://science.house.gov/2026/9/energy-subcommittee-hearing-nuclear-renaissance",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-02",
+"note": "Hearing page lists 'Energy Subcommittee Chairman Randy Weber' among opening statements for the Sept 2, 2026 hearing 'Powering the Nuclear Renaissance: Accelerating U.S. Leadership in Advanced Nuclear Reactors'. The AI/data-center motivation is not on this page itself; it comes from Legis1 (item 3), as the claim states."
+},
+{
+"url": "https://legis1.com/news/advanced-nuclear-reactors-house-panel-will",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-31",
+"note": "Legis1 (Aug 31, 2026) names Rep. Randy Weber Sr. (R-TX) as Energy Subcommittee chair and says 'Surging AI and data-center electricity demand is attracting billions of dollars to advanced nuclear technologies' and that Congress is focusing on nuclear 'as AI data centers compete for power and China accelerates its own reactor development'. No direct Weber quote on AI."
+},
+{
+"url": "https://www.techpolicy.press/transcript-house-hearing-on-the-risks-and-benefits-of-ai-chatbots/",
+"verdict": "confirmed",
+"corrected_quote": "So there's nobody watching this process? I'm focusing on kids, of course, first and foremost, or somebody who's suicidal, anybody that would need help. There's really nobody watching those kinds of replies to see, to categorize them, catalog them, or to act on them, is that accurate?",
+"corrected_date": "2025-11-19",
+"note": "Quote is verbatim (truncated at both ends; full sentence supplied). Transcript also shows Weber saying 'Fox guarding the henhouse.' after a witness warned about LLM-as-judge, and asking 'should there be someone that actually is tasked with that charge to pull those all together and come up with a number? Should there be a team, a focus group...' about cataloguing chatbots. All three elements of the claim check out."
+},
+{
+"url": "https://science.house.gov/2026/4/opening-statement-of-chairman-randy-weber-at-subsurface-science-and-technology-american-energy-and-mineral-dominance",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Fragment appears verbatim. It is a beat-China framing about energy for the AI race; it does not itself say anything about AI risk or safety, so it is weak evidence for the ai_risk dimension, but the claim as written (shows the framing) is accurate."
+},
+{
+"url": "https://science.house.gov/2026/4/opening-statement-of-chairman-randy-weber-at-subsurface-science-and-technology-american-energy-and-mineral-dominance",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Headline quote appears verbatim on the page."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the six sources mentions chip export controls, Nvidia/H20 sales, or semiconductors at all. The only China evidence is a generic 'stay ahead of the Chinese Communist Party in the artificial intelligence race' line in an energy speech, which is compatible with either tightening controls or selling more chips to spread the US stack. Evidence is too thin for the strongest score of -2 'Tighten export controls'.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+}
+]
+}
+]

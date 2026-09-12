@@ -1,0 +1,552 @@
+[
+{
+"bioguide": "W000830",
+"name": "George Whitesides",
+"signature": "Frontier-AI risk hawk on Armed Services and Science: wrote the Self-Improving AI Monitoring Act, co-signed the Sept 2026 letter urging Speaker Johnson to cancel recess over 'catastrophic' AI risk, and pushes tighter chip controls on China.",
+"notable_quote": {
+"text": "When you take humans out of the driver's seat and let machines train machines, small glitches can snowball into major security risks fast. Today, Washington is essentially flying blind on how fast this handoff is happening.",
+"url": "https://whitesides.house.gov/2026/08/29/rep-whitesides-introduces-bipartisan-bill-to-reduce-the-risk-of-superintelligent-ai-by-monitoring-self-improving-ai-systems/",
+"date": "2026-08-29"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (member, per landscape research; not listed on his official caucus page)",
+"House Defense Modernization Caucus (member)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. His July 2026 grid modernization bill talks about soaring power demand but does not mention data centers, and searches for his name with data centers, ratepayers and electricity bills turned up nothing.",
+"evidence": []
+},
+"ai_risk": {
+"score": -2,
+"confidence": "medium",
+"summary": "Whitesides treats advanced AI as a potential catastrophic danger and wants Congress to act now. He co-signed a September 2026 letter urging the House to stay in session until it passes AI safeguards, wrote a bill to track AI systems that train other AI, and asked the Pentagon to pause removing AI guardrails. His own bills so far are monitoring and transparency measures rather than licensing or a pause, and he also pressed the Pentagon to keep using Anthropic's tools.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 10180 Self-Improving AI Monitoring Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10180",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "He wrote a bill directing NIST's AI safety center to track how well frontier models can autonomously research and develop new AI, billed as reducing the risk of superintelligent AI."
+},
+{
+"type": "statement",
+"title": "Press release: Whitesides introduces bill to reduce the risk of superintelligent AI by monitoring self-improving AI systems",
+"url": "https://whitesides.house.gov/2026/08/29/rep-whitesides-introduces-bipartisan-bill-to-reduce-the-risk-of-superintelligent-ai-by-monitoring-self-improving-ai-systems/",
+"date": "2026-08-29",
+"quote": "When you take humans out of the driver's seat and let machines train machines, small glitches can snowball into major security risks fast. Today, Washington is essentially flying blind on how fast this handoff is happening.",
+"what_it_shows": "In his own words he frames AI self-improvement as a serious security risk the government cannot currently see."
+},
+{
+"type": "letter",
+"title": "Letter from Reps. Liccardo, Whitesides, Trahan and Lieu urging Speaker Johnson to cancel recess and pass AI safeguards (CNN report)",
+"url": "https://keyt.com/politics/cnn-us-politics/2026/09/11/house-democrats-urge-speaker-johnson-to-cancel-recess-to-pass-ai-safeguards-citing-catastrophic-risk/",
+"date": "2026-09-11",
+"quote": "Reasonable minds may disagree about precisely how Congress should regulate this rapidly evolving technology. We cannot disagree about the imperative for Congress to act",
+"what_it_shows": "He signed a letter describing the 'catastrophic risk posed by advanced artificial intelligence', citing cyber and bioweapon dangers, and demanding the House return immediately to pass bipartisan AI safeguards."
+},
+{
+"type": "letter",
+"title": "Press release: Whitesides urges safeguards and oversight after reports of Pentagon AI ultimatum to Anthropic (letter to Sec. Hegseth)",
+"url": "https://whitesides.house.gov/2026/02/27/rep-george-whitesides-urges-safeguards-and-oversight-following-reports-of-pentagon-ai-ultimatum/",
+"date": "2026-02-27",
+"quote": "Today, I urged Secretary Hegseth to pause any decision that would remove AI guardrails until Congress can work with the Department to establish proper safety and oversight.",
+"what_it_shows": "He wanted the Pentagon to keep AI safety guardrails, including limits on autonomous targeting and domestic surveillance, until Congress sets oversight rules."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 9477 AI Incident Reporting Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
+"date": "2026-08-20",
+"quote": null,
+"what_it_shows": "Backs a system for reporting AI accidents and failures."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 10189 Defense AI Reliability and Reporting Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10189",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Wants the military to verify its AI systems work reliably and report to Congress."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6461 READ AI Models Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6461",
+"date": "2026-05-07",
+"quote": null,
+"what_it_shows": "Supports a voluntary NIST label describing how AI models are built and trained, a transparency rather than mandate approach."
+},
+{
+"type": "letter",
+"title": "Press release: Whitesides and Houlahan demand Pentagon explain cybersecurity gap created by Anthropic supply chain designation",
+"url": "https://whitesides.house.gov/2026/04/22/reps-whitesides-houlahan-demand-pentagon-explain-cybersecurity-capability-gap-created-by-anthropic-supply-chain-designation/",
+"date": "2026-04-22",
+"quote": "American companies are building the most powerful cybersecurity tools in the world, and we're blocking our own military from using them",
+"what_it_shows": "Shows he is not anti-AI: he urged the Pentagon to re-engage with Anthropic so the military can use advanced AI cyber tools."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted fixes for kids online rather than sweeping Big Tech rules. He cosponsored the STOP CSAM Act and wrote the TOTAL Screen Time Act, which asks NIST for a voluntary standard so parents can enforce screen limits across devices. No position found on Section 230 or antitrust.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 3921 STOP CSAM Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2025-09-18",
+"quote": null,
+"what_it_shows": "Backs making platforms do more against child sexual abuse material and letting victims sue."
+},
+{
+"type": "statement",
+"title": "Press release: Whitesides, Harrigan, McClain Delaney, Haridopolos introduce TOTAL Screen Time Act",
+"url": "https://whitesides.house.gov/2026/07/15/reps-whitesides-harrigan-mcclain-delaney-haridopolos-introduce-bipartisan-bill-to-simplify-parental-controls-across-kids-devices/",
+"date": "2026-07-15",
+"quote": "What it does is give parents the tools to actually enforce that decision, no matter what device their child picks up. It's a commonsense, bipartisan fix to a problem nearly every parent in America has run into.",
+"what_it_shows": "He favors a voluntary NIST interoperability standard for parental controls, a light, parent-empowering fix rather than a mandate on platforms."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. He did not sign the November 2025 Matsui letter or the December 2025 Clarke letter against the state AI law moratorium, and no statement from him on the December 2025 executive order or the March 2026 White House framework turned up.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "A China hawk on chips. He cosponsored the Chip Security Act to put location checks on exported AI chips, joined the China Select Committee chairman in urging Commerce to block Chinese memory chip purchases and expand export controls on Chinese memory makers, and wrote a bill to help U.S. labs share intelligence on foreign 'distillation' attacks. No statement found on Nvidia H20 or H200 sales specifically.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 3447 Chip Security Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2026-06-04",
+"quote": null,
+"what_it_shows": "Backs requiring location verification on advanced AI chips so smuggling to China can be detected."
+},
+{
+"type": "letter",
+"title": "Moolenaar and Whitesides letter to Commerce Secretary Lutnick: hold firm on Chinese memory chips ban",
+"url": "https://chinaselectcommittee.house.gov/media/letters/moolenaar-whitesides-to-secretary-lutnick-hold-firm-on-chinese-memory-chips-ban",
+"date": "2026-07-16",
+"quote": "we urge you to oppose efforts to facilitate the sale of Chinese memory chips abroad and further expand existing export controls on Chinese memory makers to ensure that they will never catch up to their Western counterparts",
+"what_it_shows": "He asked Commerce to keep Chinese memory chips out of U.S. supply chains despite the AI-driven shortage and to widen export controls on Chinese producers."
+},
+{
+"type": "statement",
+"title": "Press release: Whitesides, Latta, Schiff, Banks introduce Collaboration on Adversarial Threats and Security Risks Act (AI distillation)",
+"url": "https://whitesides.house.gov/2026/07/23/sens-schiff-and-banks-reps-latta-and-whitesides-introduce-bipartisan-bill-to-combat-ai-distillation-and-other-attacks-to-national-se/",
+"date": "2026-07-23",
+"quote": "as AI models grow exponentially more capable, the risk of these systems being exploited or weaponized poses a direct threat to public safety",
+"what_it_shows": "He wants U.S. AI labs to be able to share threat intelligence to stop foreign labs, especially in China, from copying American models."
+}
+]
+}
+},
+"search_notes": "Searches: 'Whitesides artificial intelligence', 'Whitesides data center', 'Whitesides superintelligent OR self-improving', 'Whitesides Nvidia OR export controls OR chips China', 'Whitesides preemption OR state AI laws OR moratorium', 'Whitesides Big Tech OR Section 230 OR KOSA OR chatbot', 'Whitesides Leading the Future OR super PAC', 'Whitesides deepfake OR TOTAL Screen Time', 'Whitesides electricity OR ratepayers', 'Whitesides Anthropic OR OpenAI', 'Whitesides executive order AI', 'Whitesides GUARDRAILS OR Great American AI Act', plus whitesides.house.gov site listing and 8 press releases opened. Axios recess-letter scoop was 403; used CNN via KEYT instead. Signal op-eds (scams, screen time) were 403. Wayback Machine refused connections during this session. Matsui letter PDF downloaded and text-extracted: Whitesides is not a signer; Clarke letter also does not list him. No AI super PAC support or attacks found. LA Daily News (Sept 3, 2026) said he declined to share fall priorities. Chip Security Act cosponsorship, Moolenaar letter and the distillation bill are the basis for the china_chips score; no H20/H200 statement found."
+},
+{
+"bioguide": "C001080",
+"name": "Judy Chu",
+"signature": "Longtime privacy and civil rights cosponsor who backs ratepayer protection and a ban on AI data centers on federal land, signed the letter against preempting state AI laws, and founded the Creative Rights Caucus; few AI statements in her own words.",
+"notable_quote": {
+"text": "In recent years, problems posed by prior authorization have been exacerbated by MA plans' increasing use of AI or algorithmic software to assist in their coverage determinations",
+"url": "https://nadler.house.gov/news/documentsingle.aspx?DocumentID=395087",
+"date": "2023-11-03"
+},
+"groups": [
+"Congressional Creative Rights Caucus (founder and co-chair)",
+"House Ways and Means Committee (Vice Ranking Member)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Leans toward protecting households first. She cosponsored bills to keep AI data center grid costs off family electric bills and to ban AI data centers on federal land. Her district city of Monterey Park voted in June 2026 to ban data centers, but no statement from Chu on that fight or on data centers generally was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 6529 Protecting Families from AI Data Center Energy Costs Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2026-04-16",
+"quote": null,
+"what_it_shows": "Backs keeping the cost of power lines and plants for AI data centers off household electric bills."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 9939 No AI Data Centers on Federal Lands Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
+"date": "2026-08-03",
+"quote": null,
+"what_it_shows": "Supports banning AI data centers on federally owned land, a limit on where they can be built."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted guardrails. She cosponsors bills to ban AI discrimination and AI-driven price and wage discrimination, led a 2023 letter pressing Medicare to police insurers' use of AI to deny care, and backed a moratorium on federal facial recognition. She has not framed AI as an existential danger or called for licensing or a pause.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 6356 Artificial Intelligence Civil Rights Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "Backs banning discriminatory AI and requiring companies to test their systems for bias."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 4640 Stop AI Price Gouging and Wage Fixing Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-09-02",
+"quote": null,
+"what_it_shows": "Wants to ban companies from using AI and personal data to set individualized prices or wages."
+},
+{
+"type": "letter",
+"title": "Press release: Nadler and Chu lead 30 colleagues urging CMS to increase oversight of AI and algorithms in Medicare Advantage coverage decisions",
+"url": "https://nadler.house.gov/news/documentsingle.aspx?DocumentID=395087",
+"date": "2023-11-03",
+"quote": "In recent years, problems posed by prior authorization have been exacerbated by MA plans' increasing use of AI or algorithmic software to assist in their coverage determinations",
+"what_it_shows": "She co-led a letter demanding federal oversight of insurers' AI tools that deny or cut off care."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 1404 (118th) Facial Recognition and Biometric Technology Moratorium Act of 2023 (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/1404",
+"date": "2023-03-27",
+"quote": null,
+"what_it_shows": "Supported pausing federal use of face recognition until Congress authorizes it."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 10146 AI Advertising Disclosure Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10146",
+"date": "2026-09-01",
+"quote": null,
+"what_it_shows": "Backs requiring advertisers to disclose when ads are made with AI."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs specific privacy protections, especially for reproductive health data, and founded the Creative Rights Caucus that defends copyright holders against misuse of their work. No statements found on Section 230 repeal, breaking up Big Tech, or kids online safety bills.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 3218 Reproductive Data Privacy and Protection Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-08-26",
+"quote": null,
+"what_it_shows": "Wants to stop companies from collecting or selling reproductive health data without permission."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 3420 (118th) My Body, My Data Act of 2023 (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Earlier support for a major reproductive data privacy law."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Wants states to keep regulating AI. She signed the November 2025 letter from 81 House Democrats opposing any revival of the state AI law moratorium in the defense bill or through an executive order, and she cosponsors the GUARDRAILS Act to stop federal preemption of state AI laws.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 8031 GUARDRAILS Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Backs a bill protecting states' right to pass their own AI laws."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats to Johnson, Thune, Jeffries and Schumer opposing an AI moratorium in the NDAA and the planned preemption executive order (Chu is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": null,
+"what_it_shows": "Her name appears among the signers telling leaders not to revive the state AI law moratorium or override state laws by executive order."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China. Searches of her press coverage and her bill record on chips, export controls and DeepSeek turned up nothing.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Judy Chu artificial intelligence', 'Judy Chu data center', 'Judy Chu GUARDRAILS OR preemption OR moratorium', 'Judy Chu chatbot OR deepfake OR Big Tech OR Section 230 OR privacy', 'Judy Chu Nvidia OR chips OR export controls OR TikTok', 'Judy Chu electricity OR utility bills', 'Chu Medicare Advantage AI letter', 'Judy Chu Stop AI Price Gouging OR AI Civil Rights', 'Judy Chu copyright AI OR Creative Rights Caucus', 'Chu Ways and Means AI', 'Judy Chu algorithm OR facial recognition', 'Monterey Park Measure NDC Chu'. Her website press release listings (chu.house.gov/media/press-releases and variants) returned 404 and the Wayback Machine refused connections, so her own releases could not be scanned. Google News URL decoding failed for the Monterey Park data center articles (SGV Tribune, LA Times, Politico), so no Chu quote on the local ban could be checked. Her OC Register 2026 questionnaire had no AI content. Matsui letter PDF confirmed her as a signer; she is not on the Clarke letter or the Casar AI-CEO hearing letter. No AI super PAC activity found."
+},
+{
+"bioguide": "R000620",
+"name": "Luz M. Rivas",
+"signature": "Co-led the November 2025 House Democratic letter against reviving the state AI law moratorium and called it 'another handout to billionaire tech bros'; STEM-educator lawmaker pushing AI literacy (AI for ALL Act) and a new Department of Advanced Technology and AI.",
+"notable_quote": {
+"text": "Let's just call this moratorium what it is, another handout to billionaire tech bros and nothing to actually help working-class families.",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (member)",
+"Congressional STEM Education Caucus (co-chair)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements or bills found on data centers, electricity bills or water use as of Sept 2026, despite her seat on the Natural Resources energy subcommittee. Searches of her press releases and news coverage found nothing.",
+"evidence": []
+},
+"ai_risk": {
+"score": 0,
+"confidence": "low",
+"summary": "Mixed and mostly about education. She says Congress must get proficient in AI and ensure it is used 'responsibly, safely, and effectively', but her bills create an AI literacy commission and a new federal department for advanced technology rather than binding safety rules, and she stresses that she strongly supports innovation.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 6159 AI for ALL Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6159",
+"date": "2025-11-19",
+"quote": null,
+"what_it_shows": "Creates a commission to write a national AI literacy strategy, an education rather than regulation approach."
+},
+{
+"type": "statement",
+"title": "Press release: Rivas introduces AI for ALL Act to improve AI literacy and education",
+"url": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-introduces-bill-improve-ai-literacy-and-education",
+"date": "2025-11-19",
+"quote": "My AI for ALL Act will help ensure the American public understand AI and that its evolving technology is being used responsibly, safely, and effectively.",
+"what_it_shows": "She pairs safety language with a goal of keeping the U.S. a global AI leader."
+},
+{
+"type": "hearing",
+"title": "House Science hearing with OSTP Director Kratsios: Rivas remarks (transcript)",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14",
+"quote": "It's something that we as a Congress must become more proficient in, better understand and help ensure the technology is being used responsively, safely, and effectively.",
+"what_it_shows": "Her questioning focused on AI education programs and Congress's role, not on new mandates."
+},
+{
+"type": "sponsor",
+"title": "H.R. 9323 Department of Advanced Technology and Artificial Intelligence Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9323",
+"date": "2026-06-15",
+"quote": null,
+"what_it_shows": "She wants a new cabinet-level department in charge of AI and advanced technology; no press statement explaining its powers was found."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on Big Tech, Section 230, privacy or kids online safety bills as of Sept 2026.",
+"evidence": []
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "A leading House opponent of federal preemption. She co-led the November 2025 letter from more than 75 House Democrats against reviving the state AI law moratorium, told OSTP's Kratsios the moratorium is a handout to 'billionaire tech bros', said Congress should learn from California rather than punish it, and cosponsors the GUARDRAILS Act.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release listing: Congresswomen Luz Rivas and Doris Matsui lead colleagues in opposing push to revive AI moratorium in defense spending bill",
+"url": "https://rivas.house.gov/media/press-releases?page=6",
+"date": "2025-12-01",
+"quote": "led a letter with over 75 members in opposition to any effort to reintroduce a moratorium on state and local artificial intelligence (AI) laws in the National Defense Authorization Act (NDAA)",
+"what_it_shows": "Her office says she co-led the House Democratic letter against the moratorium."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and the planned preemption executive order (Rivas is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": null,
+"what_it_shows": "Her name appears among the signers telling leaders not to override state AI laws through the defense bill or an executive order."
+},
+{
+"type": "hearing",
+"title": "House Science hearing with OSTP Director Kratsios: Rivas on the AI moratorium (transcript)",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14",
+"quote": "Let's just call this moratorium what it is, another handout to billionaire tech bros and nothing to actually help working-class families.",
+"what_it_shows": "She attacked the administration's plan to withhold broadband funds from states with AI laws and said she has been leading House colleagues against it."
+},
+{
+"type": "hearing",
+"title": "House Science hearing with OSTP Director Kratsios: Rivas on states leading AI policy (transcript)",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14",
+"quote": "We should be learning from states leading in AI policy and innovation like my home state of California and not punishing them or withholding funding.",
+"what_it_shows": "She wants states like California to keep setting AI policy."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8031 GUARDRAILS Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Backs a bill protecting states' right to pass their own AI laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls, Nvidia sales to China or DeepSeek as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Luz Rivas artificial intelligence', 'Luz Rivas data center OR electricity', 'Luz Rivas AI for ALL OR Department of Advanced Technology', 'Rivas GUARDRAILS OR state AI laws OR preemption', 'Luz Rivas chips OR Nvidia OR China OR DeepSeek', 'Luz Rivas chatbot OR deepfake OR Big Tech OR privacy', 'Luz Rivas Kratsios OR AI Action Plan', 'House Science markup AI Security and Innovation Act Rivas', 'Rivas Matsui AI moratorium letter'. Read all seven pages of rivas.house.gov press release listings; opened the AI for ALL release; the Dec 1, 2025 letter release page itself returned 404 under several guessed slugs and Wayback was down, so it is cited from the listing page text. Matsui letter PDF confirms she signed (and her office says co-led). Full Kratsios hearing transcript read for her turn. OC Register 2026 questionnaire had no AI content. LA Daily News (Sept 3, 2026) noted she declines to share policy views with that paper. No press statement found on the Department of Advanced Technology and AI Act; congress.gov was 403. No AI super PAC activity found."
+},
+{
+"bioguide": "F000483",
+"name": "Laura Friedman",
+"signature": "Hollywood-district Democrat focused on AI's harms to creators and workers: NO FAKES Act cosponsor, co-led a resolution condemning antisemitic AI content, pressed the White House over Grok, and signed the letter against preempting state AI laws.",
+"notable_quote": {
+"text": "If we want AI innovation to thrive in the U.S., we need commonsense guardrails that protect people, prevent these tools from being weaponized, and support efforts to counter this threat",
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-bacon-ciscomani-friedman-lead-bipartisan-resolution-condemning-antisemitic-content-on-ai-platforms",
+"date": "2025-12-18"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements or bills found on data centers, electricity bills or water use as of Sept 2026.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted guardrails. She cosponsors the NO FAKES Act to give people control over AI copies of their voice and face, co-led a resolution urging safeguards against antisemitic AI output, and at a January 2026 hearing warned AI will be 'devastating' for much of the workforce while pressing the White House to drop AI vendors like Grok that violate basic decency. She has not called for licensing or a pause.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Reps. Jacobs, Bacon, Ciscomani, Friedman lead bipartisan resolution condemning antisemitic content on AI platforms",
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-bacon-ciscomani-friedman-lead-bipartisan-resolution-condemning-antisemitic-content-on-ai-platforms",
+"date": "2025-12-18",
+"quote": "If we want AI innovation to thrive in the U.S., we need commonsense guardrails that protect people, prevent these tools from being weaponized, and support efforts to counter this threat",
+"what_it_shows": "In her own words she pairs support for AI innovation with a call for 'commonsense guardrails' and transparent safeguards on AI systems."
+},
+{
+"type": "hearing",
+"title": "House Science hearing with OSTP Director Kratsios: Friedman opening remarks (transcript)",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14",
+"quote": "There is no doubt that AI has the potential to be an incredible force for good, for creativity, for scientific advancement, but it also, like any great tool, has a lot of very large risks.",
+"what_it_shows": "She listed workforce losses, harm to creators and copyright owners, deepfakes and safety risks, and said this requires 'a very thoughtful approach'."
+},
+{
+"type": "hearing",
+"title": "House Science hearing with OSTP Director Kratsios: Friedman on jobs (transcript)",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14",
+"quote": "We know that it's going to be devastating for a large portion of our workforce in this country.",
+"what_it_shows": "She treats AI job losses as a certainty that policy must address."
+},
+{
+"type": "hearing",
+"title": "House Science hearing with OSTP Director Kratsios: Friedman on the Grok contract (transcript)",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14",
+"quote": "Will you commit to terminating these partnerships with AI companies when they flagrantly violate basic decency",
+"what_it_shows": "She pressed the administration to cut off AI vendors whose models produce antisemitic content or non-consensual sexual images."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 2794 NO FAKES Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2794",
+"date": "2025-06-23",
+"quote": null,
+"what_it_shows": "Backs a legal right to stop AI copies of a person's voice and face."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8915 NO FAKES Act of 2026 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8915",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "Renewed support for the updated voice-and-likeness bill."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Favors targeted rules on platforms and connected products. She cosponsored a bill forcing carmakers to cut off abusers' remote access to cars, signed a 2025 letter pressing Meta, TikTok and X to act on violent antisemitic content, and supports the NO FAKES Act. No position found on Section 230 repeal or antitrust break-ups.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 2110 Safe Vehicle Access for Survivors Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"date": "2025-03-31",
+"quote": null,
+"what_it_shows": "Backs a specific consumer protection rule on connected cars' data and remote access."
+},
+{
+"type": "letter",
+"title": "Jewish Insider (reposted by Friedman's office): 41 lawmakers press Meta, TikTok and X CEOs on violent antisemitic content (Friedman is a signer)",
+"url": "https://friedman.house.gov/media/in-the-news/jewish-insider-lawmakers-press-social-media-platforms-violent-antisemitic-content",
+"date": "2025-06-06",
+"quote": "We write to express grave concern regarding disturbing and inflammatory content circulating on your platforms in support of violence and terrorism",
+"what_it_shows": "She joined a bipartisan demand that the platforms explain how they will curb content inciting violence."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Wants states to keep regulating AI. She signed the November 2025 letter from 81 House Democrats opposing any revival of the state AI law moratorium or an executive order to override state laws, and she cosponsors the GUARDRAILS Act to block federal preemption.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 8031 GUARDRAILS Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Backs a bill protecting states' right to pass their own AI laws."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and the planned preemption executive order (Friedman is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": null,
+"what_it_shows": "Her name appears among the signers telling leaders not to revive the state AI law moratorium or override state laws by executive order."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans hawkish on Chinese AI: she cosponsored the bill to remove DeepSeek from government devices. No position found on chip export controls or Nvidia sales to China.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 1121 No DeepSeek on Government Devices Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-21",
+"quote": null,
+"what_it_shows": "Backs banning the Chinese AI app DeepSeek from federal devices, a China-security stance on AI."
+}
+]
+}
+},
+"search_notes": "Searches: 'Laura Friedman artificial intelligence', 'Laura Friedman data center', 'Friedman NO FAKES Act', 'Laura Friedman preemption OR GUARDRAILS OR moratorium', 'Laura Friedman chatbot OR deepfake OR Big Tech OR Section 230 OR privacy', 'Laura Friedman Nvidia OR chips OR China OR DeepSeek', 'Friedman Grok antisemitism AI', 'Laura Friedman electricity OR ratepayers', 'Laura Friedman questionnaire OR In-House Opinions OR Guardian AI film'. Read friedman.house.gov press release listing (4 pages) and in-the-news listing (3 pages); her site says to contact the office for a caucus list. Full Kratsios hearing transcript read for her turn. Matsui letter PDF confirms she signed. OC Register 2026 questionnaire and LA Daily News Sept 2026 priorities column had no AI content from her. Jewish Insider Grok-Pentagon item on her site returned 404; Guardian AI film article URL could not be decoded. No statement in her own words on the NO FAKES Act was found beyond cosponsorship. No AI super PAC activity found."
+}
+]

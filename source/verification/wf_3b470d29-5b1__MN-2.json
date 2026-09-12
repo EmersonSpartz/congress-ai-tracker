@@ -1,0 +1,63 @@
+[
+{
+"bioguide": "F000470",
+"checks": [
+{
+"url": "https://www.minnpost.com/national/washington/2026/09/minnesota-gop-lawmakers-grapple-with-data-centers-as-republican-voters-turn-against-the-projects/",
+"verdict": "confirmed",
+"corrected_quote": "Stauber's office did not respond to a request for comment. Neither did the office of Rep. Michele Fischbach, R-7th District.",
+"corrected_date": "2026-09-03",
+"note": "MinnPost article (published 2026-09-03) names Fischbach (misspelled 'Michele') and states her office did not respond to a request for comment on data centers. Quote appears verbatim. The article documents the broader Minnesota GOP fight over data centers, supporting the 'stayed silent' framing. Note this is a non-response, not a statement of position; it correctly yields no data_centers score."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the items provided contain any Fischbach statement on AI risk or guardrails; the only source is a non-response about data centers. The evidence supplied here is too thin to support -1 'Targeted guardrails' unless other sourcing exists outside this item list.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "S001212",
+"checks": [
+{
+"url": "https://www.minnpost.com/national/washington/2026/09/minnesota-gop-lawmakers-grapple-with-data-centers-as-republican-voters-turn-against-the-projects/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Quote appears verbatim. Article places Hermantown in Stauber's 8th District and says Democratic rival Trina Swanson condemned the NDAs, lack of regulation, water use and energy costs. Claim that he has 'avoided taking a public position' is a fair reading of a single no-comment, though the article itself only documents non-response, not a pattern."
+},
+{
+"url": "https://fedscoop.com/us-courts-would-study-ai-speech-to-text-under-bipartisan-bicameral-bill/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-26",
+"note": "Quote verbatim. Article names Hageman and Stauber as House introducers of H.R. 7997 (Research and Oversight of AI in Courts Act of 2026) and notes NCRA backing. Bill creates a 15-member task force to study AI speech-to-text tools; it is a study/oversight bill, not a regulatory mandate."
+},
+{
+"url": "https://stauber.house.gov/media/press-releases/congressman-pete-staubers-critical-mineral-dominance-act-passes-house",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-04",
+"note": "Quote verbatim, attributed to Stauber. Page is about critical minerals mining (H.R. bill passing House), not semiconductors or chip export controls; the item's own claim acknowledges this."
+},
+{
+"url": "https://stauber.house.gov/media/press-releases/congressman-pete-staubers-critical-mineral-dominance-act-passes-house",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-04",
+"note": "Headline quote appears verbatim in a paragraph explicitly attributed to Congressman Stauber."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only china_chips source is a critical-minerals mining press release that never mentions semiconductors, chips, or export controls. It shows a general China-hawk supply-chain posture, which supports at most a lean, not a firm 'Tighten export controls' position. -2 is not supported by the cited evidence.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+}
+]
+}
+]

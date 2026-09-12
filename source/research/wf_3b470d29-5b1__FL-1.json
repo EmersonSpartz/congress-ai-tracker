@@ -1,0 +1,732 @@
+[
+{
+"bioguide": "S001217",
+"name": "Rick Scott",
+"groups": [
+"Chairman, Senate Special Committee on Aging (119th Congress)"
+],
+"signature": "Senate Aging Committee chairman who runs hearings on AI scams against seniors, pushes AI safety lessons for kids, wants Chinese AI and chips kept out, and says Big Tech should pay for data center power.",
+"notable_quote": {
+"text": "We cannot let AI be the wild west and hope our kids figure it out; that doesn't work.",
+"url": "https://flvoicenews.com/sen-rick-scott-wants-schools-to-teach-students-about-ai-risks-and-responsible-use/",
+"date": "2026-07-14"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Scott says data centers are already burdening families' electric bills and that Big Tech, not ratepayers, should pay for the power and grid they need. He backs Trump's voluntary Ratepayer Protection Pledge rather than a pause or a mandate.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.Con.Res. 30, resolution supporting the Ratepayer Protection Pledge (with Sen. Marshall)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/30",
+"date": "2026-03",
+"quote": null,
+"what_it_shows": "He put Congress on record that tech companies should pay for the electricity and grid upgrades their data centers need so households do not."
+},
+{
+"type": "statement",
+"title": "Press release: Sens. Rick Scott, Roger Marshall introduce resolution supporting Pres. Trump's Ratepayer Protection Pledge",
+"url": "https://www.rickscott.senate.gov/2026/4/sens-rick-scott-roger-marshall-introduce-resolution-supporting-pres-trump-s-ratepayer-protection-pledge",
+"date": "2026-04-02",
+"quote": "Big Data centers are already putting a substantial financial burden on American families, who are still struggling with the negative impact of four years of Democrats' tax-and-spend, inflation-causing policies.",
+"what_it_shows": "His framing is ratepayer-first: he calls data centers a financial burden and says Florida families should not fund Big Tech expansion through their bills, while praising the voluntary pledge."
+},
+{
+"type": "statement",
+"title": "Florida Politics Delegation column (4.7.26) describing Scott's push to codify the pledge",
+"url": "https://floridapolitics.com/archives/789361-delegation-for-4-7-26-paparazzi-charged-up-farm-hand-egg-roll-cuba-visit/",
+"date": "2026-04-07",
+"quote": null,
+"what_it_shows": "Local press reported the resolution as Scott pushing Big Tech to cover AI energy costs, confirming the ratepayer focus."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Scott treats AI as useful but dangerous in specific ways: scams on seniors, harm to kids, terrorism. He wants targeted fixes such as AI literacy in schools, parental controls, scam crackdowns and threat studies, not broad licensing or a pause.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Op-ed (Naples Daily News, via press release): AI is here. We need to protect and prepare America's kids",
+"url": "https://www.rickscott.senate.gov/2026/8/in-case-you-missed-it-sen-rick-scott-in-naples-daily-news-ai-is-here-we-need-to-protect-and-prepare-america-s-kids",
+"date": "2026-08-28",
+"quote": "Replacing human interaction with AI is a clear threat to every child's interpersonal development. AI is a tool. It's not supposed to be a catch-all, stand-in for therapists, doctors, lawyers, scientists, poets, or philosophers.",
+"what_it_shows": "He calls AI a potential great innovation but a clear threat to children's development, and pushes his Safeguard Kids Act for AI literacy and counseling in schools."
+},
+{
+"type": "statement",
+"title": "Florida's Voice: Sen. Rick Scott introduces Safeguard Kids Act on AI risks in schools",
+"url": "https://flvoicenews.com/sen-rick-scott-wants-schools-to-teach-students-about-ai-risks-and-responsible-use/",
+"date": "2026-07-14",
+"quote": "We cannot let AI be the wild west and hope our kids figure it out; that doesn't work.",
+"what_it_shows": "He rejects a hands-off approach for kids and AI, but his remedy is education funding rather than rules on AI companies."
+},
+{
+"type": "hearing",
+"title": "Spectrum News: Scott chairs Aging Committee hearing 'The AI Deception Machine: Deepfakes, Chatbots, and the New Frontier of Senior Fraud'",
+"url": "https://spectrumlocalnews.com/us/snplus/politics/2026/07/30/seniors-ai-enabled-fraud",
+"date": "2026-07-29",
+"quote": "The rise of artificial intelligence has offered scammers new tools to pursue their criminal schemes, and we must adapt and respond to these new threats",
+"what_it_shows": "As chairman he used the committee to spotlight deepfake and chatbot scams against older Americans and released a report with Sen. Gillibrand the same day."
+},
+{
+"type": "statement",
+"title": "LeadingAge summary of the July 29, 2026 Aging Committee hearing and the Scott-Gillibrand AI report",
+"url": "https://leadingage.org/us-senate-aging-committee-addresses-ai-fraud-against-older-adults/",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "Describes the bipartisan report 'Artificial Intelligence & Older Americans' and Scott's scam bills (National Strategy for Combating Scams Act, ReportScams.gov), showing a fraud-focused approach to AI risk."
+},
+{
+"type": "statement",
+"title": "Florida Daily: Rick Scott pushes bills targeting AI-driven cybercrime schemes",
+"url": "https://floridadaily.com/rick-scott-pushes-bills-targeting-ai-driven-cybercrime-schemes/",
+"date": "2026-07-08",
+"quote": "Criminals are weaponizing new technologies like artificial intelligence to swindle Americans out of their life savings.",
+"what_it_shows": "His AI concern is framed around fraud and foreign scam networks, addressed with enforcement bills rather than AI-specific regulation."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.4762 Generative AI Terrorism Risk Assessment Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4762",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "Orders DHS to assess yearly how terrorists could misuse generative AI, a study-first approach to a specific danger."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4591 NO FAKES Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4591",
+"date": "2026-06-16",
+"quote": null,
+"what_it_shows": "Supports a legal right to stop unauthorized AI copies of a person's voice or face."
+},
+{
+"type": "statement",
+"title": "Press release (2023): Sen. Rick Scott introduces the ASK Act to protect kids from AI",
+"url": "https://www.rickscott.senate.gov/2023/5/sen-rick-scott-introduces-the-ask-act-to-protect-kids-from-ai",
+"date": "2023-05-16",
+"quote": "Artificial intelligence surely has productive uses, but it can also present grave threats, especially to our children.",
+"what_it_shows": "Since 2023 he has wanted parental consent before children can use AI features on social media, an early kids-focused guardrail."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Scott backs targeted rules on tech platforms: the Kids Online Safety Act, a bill forcing social media to work with police on fentanyl sales, scam warnings on dating apps, and a ban on Chinese-linked connected cars. He has not called for breaking up Big Tech or repealing Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-07-31",
+"quote": null,
+"what_it_shows": "Supports a duty on platforms to protect minors from harmful and addictive features."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.626 SOCIAL MEDIA Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/626",
+"date": "2025-02-19",
+"quote": null,
+"what_it_shows": "Would make social media companies preserve evidence and cooperate with police on online drug sales."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-14",
+"quote": null,
+"what_it_shows": "Backs banning connected-car technology from China, Russia, Iran and North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.841 Romance Scam Prevention Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/841",
+"date": "2025-12-15",
+"quote": null,
+"what_it_shows": "Supports a narrow consumer-protection rule requiring dating apps to warn users about banned scammers."
+}
+]
+},
+"preemption": {
+"score": -1,
+"confidence": "low",
+"summary": "In June 2025 Scott would not say whether he backed the 10-year moratorium on state AI laws but said he likes states' rights, and he then joined the 99-1 vote to strip it. No later statement on federal preemption or the 2025 executive order was found.",
+"evidence": [
+{
+"type": "statement",
+"title": "The Hill: AI moratorium sparks GOP battle over states' rights",
+"url": "https://thehill.com/policy/technology/5355684-ai-moratorium-sparks-gop-battle-over-states-rights/",
+"date": "2025-06-18",
+"quote": "Sen. Rick Scott (R-Fla.) declined to say whether he would support the moratorium but noted he 'likes states' rights.'",
+"what_it_shows": "A mild signal against preempting state AI laws, without a firm commitment."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call #363, Blackburn amendment striking the state AI-law moratorium from H.R. 1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He voted with nearly the whole Senate to remove the moratorium; on its own this vote says little because almost everyone voted the same way."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Scott is a China hawk on AI and chips: he wrote the No Adversarial AI Act to bar Chinese AI like DeepSeek from federal agencies and cosponsors the Chip Security Act and AI OVERWATCH Act to track exported chips and give Congress a say over chip sales to China. With Sen. Warren he also wants more scrutiny of export licenses granted to a few big firms.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.2177 No Adversarial AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2177",
+"date": "2025-06-25",
+"quote": null,
+"what_it_shows": "His bill would list and ban AI from China, Russia, Iran and North Korea in federal agencies."
+},
+{
+"type": "statement",
+"title": "Press release: Sen. Rick Scott leads legislation to stop U.S. government agencies from using adversarial AI technology",
+"url": "https://www.rickscott.senate.gov/2025/6/sen-rick-scott-leads-legislation-to-stop-u-s-government-agencies-from-using-adversarial-ai-technology",
+"date": "2025-06-25",
+"quote": "With clear evidence that China can have access to U.S. user data on AI systems, it's absolutely insane for our own federal agencies to be using these dangerous platforms and subject our government to Beijing's control.",
+"what_it_shows": "Shows the national-security framing behind his push to wall off Chinese AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1705 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2026-06-23",
+"quote": null,
+"what_it_shows": "Supports location verification on exported advanced chips to stop smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4456 AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4456",
+"date": "2026-07-28",
+"quote": null,
+"what_it_shows": "Supports giving Congress review power before advanced AI chips are sold to China and other risky countries."
+},
+{
+"type": "statement",
+"title": "Press release: Sens. Rick Scott, Elizabeth Warren introduce bipartisan License Monopoly Prevention Act on export licenses",
+"url": "https://www.rickscott.senate.gov/2025/11/sens-rick-scott-elizabeth-warren-introduce-bipartisan-bill-to-end-monopoly-export-licenses-boost-transparency-in-tech-exports",
+"date": "2025-11-19",
+"quote": "Export controls should protect American manufacturing and national security, not allow the government to choose winners and losers in the market place and funnel billions to a few big companies.",
+"what_it_shows": "He wants BIS to run a competition analysis before granting exclusive licenses to sell sensitive tech to Entity List firms, adding transparency to export licensing rather than loosening it."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.97 Securing Semiconductor Supply Chains Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/97",
+"date": "2025-01-15",
+"quote": null,
+"what_it_shows": "Backs bringing more chip manufacturing to the United States."
+}
+]
+}
+},
+"search_notes": "Searches: 'Rick Scott' artificial intelligence; 'data center(s)'; Ratepayer Protection Pledge; AI moratorium states; Nvidia/export controls/chips China; chatbot OR deepfake; 'Big Tech' OR 'Section 230'; Aging Committee AI hearing; KOSA; H20/H200/GAIN AI; AI executive order states; plus a Wayback listing of rickscott.senate.gov and fetches of the ratepayer, op-ed, No Adversarial AI, License Monopoly, ASK Act releases, The Hill, Spectrum News, Florida's Voice, Florida Daily, LeadingAge, Legis1, GovTrack (S.Con.Res.30, S.4762) and the Aging hearing page. rickscott.senate.gov blocks direct fetches; some pages read via Wayback, others via a text-proxy reader. No statement found on Nvidia H20/H200 sales, the Dec 2025 AI executive order or the Mar 2026 framework. State-context leads about the Great American AI Act/FRONTIER Act and a Senate Banking hearing appear to belong to Rep. Scott Franklin and Sen. Tim Scott, not Rick Scott, so they were not used. The Washington Examiner 'Trump and Rick Scott' piece was about the dollar, not data centers."
+},
+{
+"bioguide": "M001244",
+"name": "Ashley Moody",
+"groups": [],
+"signature": "Former Florida attorney general who sued Meta; in the Senate she cosponsors Sunset Section 230, KOSA and NO FAKES, is featured in Public First Action's pro-guardrails ads, and says communities should decide on data centers.",
+"notable_quote": {
+"text": "To any lawmaker that stands to shield these profit-over-protection companies from accountability for the harm they've brought to our children: get out of the way.",
+"url": "https://www.moody.senate.gov/press-releases/video-release-senator-moody-fires-off-on-lawmakers-who-refuse-to-protect-children-online-get-out-of-the-way",
+"date": "2026-05"
+},
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Moody says cities, counties and states should decide whether to host data centers, and that companies must show they will not raise residents' costs or harm the environment. She has not called for a pause and has not championed federal ratepayer rules.",
+"evidence": [
+{
+"type": "interview",
+"title": "Florida Politics: Ashley Moody backs local control on data center question (Fox News 'Sunday Morning Futures' remarks)",
+"url": "https://floridapolitics.com/?name=ashley-moody-backs-local-control-on-data-center-question",
+"date": "2026-08-31",
+"quote": "It needs to be up to the people of a community or a state to decide what works best for them, what they want for their state",
+"what_it_shows": "She favors local decision-making on siting and says companies must sell their proposals and promise no costs to residents, a balanced stance short of opposition or federal mandates."
+},
+{
+"type": "interview",
+"title": "Florida Politics: Moody on what data center companies must promise communities",
+"url": "https://floridapolitics.com/?name=ashley-moody-backs-local-control-on-data-center-question",
+"date": "2026-08-31",
+"quote": "And I think these companies need to sell it.",
+"what_it_shows": "She puts the burden on developers to win over communities rather than backing bans; her Democratic opponent Angie Nixon backs a full moratorium, which Moody does not."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Moody backs specific AI guardrails: the NO FAKES Act against deepfakes of people's voices and faces, and a crackdown on AI-driven scams and child exploitation dating to her time as attorney general. An Anthropic-backed group is running ads praising her for holding AI companies accountable.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Senator Moody advances NO FAKES Act out of committee to protect Americans from deceptive AI",
+"url": "https://www.moody.senate.gov/press-releases/video-senator-moody-advances-no-fakes-act-out-of-committee-to-protect-americans-from-deceptive-ai",
+"date": "2026-06-18",
+"quote": "No one should have their voice, image, or likeness stolen and used in a fake video or AI-generated deepfake without their consent.",
+"what_it_shows": "She is an original cosponsor and wants companies and platforms liable for unauthorized AI replicas."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1367 NO FAKES Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1367",
+"date": "2025-06-03",
+"quote": null,
+"what_it_shows": "Early support for a federal right against AI deepfakes of a person's likeness."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4591 NO FAKES Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4591",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "Re-upped support for the reintroduced deepfake likeness bill."
+},
+{
+"type": "pac",
+"title": "Public First Action launches $15 million Conservative AI Consensus Project featuring Moody",
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"date": "2026-07-17",
+"quote": "featuring four Republican members of Congress who have led the fight to keep America's most advanced technology out of the hands of our adversaries and to hold AI companies accountable to the people they serve",
+"what_it_shows": "The Anthropic-backed AI-safety group is spending on ads promoting Moody as a pro-guardrails Republican."
+},
+{
+"type": "pac",
+"title": "Washington Examiner: AI watchdog Public First Action launches $15 million conservative AI project",
+"url": "https://www.washingtonexaminer.com/policy/technology/4652838/ai-safety-group-launches-15-million-campaign-republicans/",
+"date": "2026-07-17",
+"quote": null,
+"what_it_shows": "Confirms Moody is one of four Republicans (with Hawley, Cotton, Donalds) featured in the group's $7 million opening ad buy."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "Moody wants Big Tech's legal shield gone: she cosponsors the Sunset Section 230 Act, KOSA, STOP CSAM and other kids' safety bills, and tells lawmakers who protect platforms to get out of the way. As Florida attorney general she sued Meta over addictive design.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3546 Sunset Section 230 Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3546",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "Would end platforms' liability shield unless Congress writes new rules."
+},
+{
+"type": "statement",
+"title": "Press release: Senator Ashley Moody and Senator Lindsey Graham introduce bill to sunset Section 230 immunity, protect children online",
+"url": "https://www.moody.senate.gov/press-releases/news-release-senator-ashley-moody-senator-lindsey-graham-introduce-bill-to-sunset-section-230-immunity-protect-children-online",
+"date": "2025-12",
+"quote": "That is why I am throwing my full support behind the Sunset Section 230 Act, and I urge my colleagues to get off the sidelines and finally do something to protect our kids.",
+"what_it_shows": "Her own words backing repeal of Section 230 as a child-safety measure."
+},
+{
+"type": "hearing",
+"title": "Press release: Senator Moody fires off on lawmakers who refuse to protect children online: 'Get out of the way' (Senate Judiciary hearing)",
+"url": "https://www.moody.senate.gov/press-releases/video-release-senator-moody-fires-off-on-lawmakers-who-refuse-to-protect-children-online-get-out-of-the-way",
+"date": "2026-05",
+"quote": "To any lawmaker that stands to shield these profit-over-protection companies from accountability for the harm they've brought to our children: get out of the way.",
+"what_it_shows": "She frames platforms as using kids as a piggy bank and pushes stalled kids' online safety bills."
+},
+{
+"type": "statement",
+"title": "Press release: Senator Moody promotes Kids Online Safety Act before Senate Judiciary hearing with Meta whistleblowers",
+"url": "https://www.moody.senate.gov/press-releases/video-release-senator-moody-fights-for-children-promotes-kids-online-safety-act-before-senate-judiciary-hearing-with-meta-whistleblowers",
+"date": "2025-09-09",
+"quote": "How in the world do you protect your children and your families if you are in the dark of what those dangers are?",
+"what_it_shows": "She ties her Meta lawsuit as attorney general to her push for KOSA and says Congress must update laws written before social media."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Supports a duty of care and default safety settings for minors on platforms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1829 STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2025-06-10",
+"quote": null,
+"what_it_shows": "Would let victims sue platforms that fail to remove child sexual abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-14",
+"quote": null,
+"what_it_shows": "Backs banning connected-car technology tied to China and other adversaries."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on preempting or pausing state AI laws, the Dec 2025 executive order or the Mar 2026 White House framework. Her only related action is the Yea vote most senators cast to strip the moratorium from H.R. 1.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call #363, Blackburn amendment striking the state AI-law moratorium from H.R. 1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "She voted with 98 other senators to remove the moratorium; the vote alone does not show a position on preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Moody cosponsors the Chip Security Act, which would require location checks on exported advanced chips, and the Connected Vehicle Security Act, but she has not made public statements on Nvidia chip sales or export controls.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1705 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2026-06-17",
+"quote": null,
+"what_it_shows": "Supports built-in location verification so advanced chips cannot be smuggled into China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-14",
+"quote": null,
+"what_it_shows": "Backs keeping Chinese-linked connected-car technology out of the U.S. market."
+}
+]
+}
+},
+"search_notes": "Searches: 'Ashley Moody' artificial intelligence; 'data center(s)'; 'local control' data center; chatbot/deepfake/kids online; 'Big Tech'/Section 230/antitrust; Nvidia/export controls/chips; preemption/moratorium/state laws; HELP hearing AI education; Judiciary AI chatbots; NO FAKES committee; GUARD Act; AI companies accountable. moody.senate.gov and floridapolitics.com block direct fetches and the Wayback Machine was refusing connections, so those pages were read through a text-proxy reader; quotes were taken from the proxy text of the official releases and the Florida Politics article (reached via its WordPress ?name= slug). The OpGov article about her staff and a data center developer returned 'Article Not Found'. No statement found on the state AI-law moratorium, preemption, or chip exports; a June 2026 HELP Committee hearing on AI in education was reported by Legis1 but her remarks could not be retrieved."
+},
+{
+"bioguide": "P000622",
+"name": "Jimmy Patronis",
+"groups": [],
+"signature": "Freshman who wants Section 230 repealed outright (his PROTECT Act), calls Big Tech 'digital fentanyl,' blames chatbots and algorithms for harming kids, and voted against the House KIDS Act as too soft on Big Tech.",
+"notable_quote": {
+"text": "Big Tech is digital fentanyl that is slowly killing our kids, pushing parents to the sidelines, acting as therapists, and replacing relationships with our family and friends. This must stop.",
+"url": "https://patronis.house.gov/media/press-releases/congressman-patronis-files-protect-act-to-repeal-section-230-demands-accountability-for-big-tech-says-time-for-parents-to-fight-back",
+"date": "2026-01-14"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers, electricity bills or ratepayer protections as of Sept 2026, despite searches of his press releases, local Panhandle coverage and Florida political press.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Patronis sees AI chatbots as a danger to kids and wants companies held legally liable, pointing to ChatGPT's alleged role in the FSU shooting; his fix is repealing Section 230 rather than AI-specific safety rules. Separately he wants federal agencies to buy only 'ideologically neutral' AI.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Congressman Patronis files PROTECT Act to repeal Section 230 (chatbot harms to children)",
+"url": "https://patronis.house.gov/media/press-releases/congressman-patronis-files-protect-act-to-repeal-section-230-demands-accountability-for-big-tech-says-time-for-parents-to-fight-back",
+"date": "2026-01-14",
+"quote": "When children are told by an algorithm, or a chatbot, that the world would be better without them, and no one is being held responsible, something is deeply broken.",
+"what_it_shows": "He names AI chatbots as a source of self-harm risk for kids and wants legal accountability for the companies behind them."
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Patronis calls for accountability as lawsuit linked ChatGPT in Florida State University shooting",
+"url": "https://patronis.house.gov/media/press-releases/congressman-patronis-calls-for-accountability-as-lawsuit-linked-chatgpt-in-florida-state-university-shooting",
+"date": "2026-04-07",
+"quote": "Now we're learning the shooter may have interacted with ChatGPT before carrying this out. That should raise serious red flags and is exactly why I've been fighting to repeal Section 230.",
+"what_it_shows": "He wants AI companies like OpenAI exposed to lawsuits when their products are tied to real-world harm."
+},
+{
+"type": "statement",
+"title": "Press release: Patronis and Florida AG James Uthmeier to lead telephone town hall on AI chatbots and repealing Section 230",
+"url": "https://patronis.house.gov/media/press-releases/congressman-jimmy-patronis-and-florida-attorney-general-james-uthmeier-to-lead-discussion-on-ai-chatbots-and-the-fight-to-repeal-section-230",
+"date": "2026-06-08",
+"quote": null,
+"what_it_shows": "He paired with the state attorney general investigating OpenAI to campaign on AI chatbot risks to children."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.4873, to codify Executive Order 14319 on preventing 'woke AI' in the federal government",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4873",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "His one AI-specific bill targets political bias in government-purchased AI, not safety testing or liability for frontier models."
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Patronis introduces bill to prevent woke AI in the federal government",
+"url": "https://patronis.house.gov/media/press-releases/congressman-patronis-introduces-bill-to-prevent-woke-ai-in-the-federal-government",
+"date": "2025-08-05",
+"quote": "If the federal government is going to use and promote these tools, then AI designers either need to align their programs to remove Leftwing biases from their algorithm, or they need to get out of the business of federal contracting.",
+"what_it_shows": "Shows his AI focus is on ideological neutrality in federal procurement, a conditions-on-government-use approach rather than broad regulation of the industry."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "Patronis wants Section 230 fully repealed. He sponsored the PROTECT Act, co-leads the Sunset Section 230 Act with Democrat Mark DeSaulnier, cheered the Meta/YouTube negligence verdict, and voted against the House KIDS Act because it left Big Tech's liability shield in place.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.7045 PROTECT Act, to repeal Section 230",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7045",
+"date": "2026-01-13",
+"quote": null,
+"what_it_shows": "His signature bill would strip platforms of their liability shield entirely."
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Patronis files PROTECT Act to repeal Section 230, demands accountability for Big Tech",
+"url": "https://patronis.house.gov/media/press-releases/congressman-patronis-files-protect-act-to-repeal-section-230-demands-accountability-for-big-tech-says-time-for-parents-to-fight-back",
+"date": "2026-01-14",
+"quote": "Big Tech is digital fentanyl that is slowly killing our kids, pushing parents to the sidelines, acting as therapists, and replacing relationships with our family and friends. This must stop.",
+"what_it_shows": "Harsh, personal framing of Big Tech as a public-health threat that must be made liable."
+},
+{
+"type": "statement",
+"title": "Press release: Patronis stands up against Big Tech to protect our kids (House floor remarks on the PROTECT Act)",
+"url": "https://patronis.house.gov/media/press-releases/patronis-stands-up-against-big-tech-to-protect-our-kids",
+"date": "2026-01-22",
+"quote": "Algorithms and chatbots fuel addiction, depression, self-harm, and suicide, all while companies hide behind Section 230.",
+"what_it_shows": "He took the repeal case to the House floor."
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Patronis urges Congress to repeal Section 230 after social media negligence verdict",
+"url": "https://patronis.house.gov/media/press-releases/congressman-patronis-urges-congress-to-repeal-section-230-after-social-media-negligence-verdict",
+"date": "2026-03-25",
+"quote": "Section 230 is broken, and the era of unchecked Big Tech power must come to an end.",
+"what_it_shows": "He used the first social media addiction verdict against Meta and YouTube to press for repeal."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on House roll call #228 (2026), passage of H.R.7757 KIDS Act (267-117)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He opposed the House GOP kids' online safety package, one of a minority of Republicans to do so."
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Jimmy Patronis issues a statement on the KIDS Act",
+"url": "https://patronis.house.gov/media/press-releases/congressman-jimmy-patronis-issues-a-statement-on-the-kids-act",
+"date": "2026-07-01",
+"quote": "This is the Big Tech bill endorsed by Big Tech",
+"what_it_shows": "He called the KIDS Act a half measure because it left Section 230 protections intact."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.10332 Sunset Section 230 Act (DeSaulnier-Patronis)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10332",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "Co-leads a bipartisan bill to end Section 230 after two years."
+},
+{
+"type": "statement",
+"title": "Press release (Rep. DeSaulnier): Representatives DeSaulnier and Patronis introduce legislation to hold tech companies accountable and protect young Americans",
+"url": "https://desaulnier.house.gov/media-center/press-releases/representatives-desaulnier-and-patronis-introduce-legislation-hold-tech",
+"date": "2026-09-10",
+"quote": "Big Tech has become a crooked dealer, pushing digital fentanyl to our kids while profiting from their addiction. Enough is enough.",
+"what_it_shows": "He crossed the aisle to co-lead the Senate-style Sunset Section 230 Act in the House."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on preempting or pausing state AI laws. He voted against the House KIDS Act, which contained narrow preemption, but his stated reason was Big Tech accountability, not states' rights.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "As Florida's chief financial officer in Feb 2025 he banned the Chinese AI app DeepSeek from his department and called AI the new space race with China. No statements found on Nvidia chip sales or export controls since joining Congress.",
+"evidence": [
+{
+"type": "other",
+"title": "The Capitolist: CFO Jimmy Patronis bans DeepSeek AI from Department of Financial Services (state directive before he joined Congress)",
+"url": "https://thecapitolist.com/cfo-jimmy-patronis-bans-deepseek-ai-from-department-of-financial-services/",
+"date": "2025-02-21",
+"quote": "I will not allow sensitive Department information to be compromised through a Chinese AI app that can harm Floridians",
+"what_it_shows": "Shows a hawkish view of Chinese AI and data access, though it concerns app use rather than chip export policy."
+}
+]
+}
+},
+"search_notes": "Searches: 'Jimmy Patronis' artificial intelligence/AI; 'Patronis' data center(s); Patronis ChatGPT Big Tech FSU shooting; Section 230/chips/China/state AI/preemption; electricity/ratepayers/utility; DeepSeek ban CFO; plus a Wayback listing and direct crawl of patronis.house.gov press releases (pages 1-3 and the Committees and Caucuses page) and GovTrack pages for H.R.7045, H.R.10332 and House vote #228. Google News link decoding was rate-limited, so Fox Business, WPBF and Pensacola News Journal coverage was not opened; the official releases cover the same events. No data center, preemption or chip-export statements found. His committees (Transportation and Infrastructure, Small Business) list no AI caucus."
+},
+{
+"bioguide": "D000628",
+"name": "Neal P. Dunn",
+"groups": [
+"House Committee on Energy and Commerce - Vice Chair (119th Congress)",
+"Congressional Artificial Intelligence Caucus (House, 119th Congress)",
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress)"
+],
+"signature": "Retiring Energy and Commerce vice chair and AI Caucus member with a long cosponsorship record (Chip Security, AI OVERWATCH, No DeepSeek, KOSA, his own kids' messaging bill) but almost no public AI statements.",
+"notable_quote": null,
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers or ratepayer protections as of Sept 2026. He is vice chair of the Energy and Commerce Committee, which advanced the Ratepayer Protection Act 52-0 in July 2026, but no individual remarks or cosponsorship were located.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Dunn's record points to narrow guardrails: tougher penalties for AI-enabled fraud, labels on AI-generated media, and public AI research infrastructure. He served on the House AI Task Force and sits in the AI Caucus, but no speeches or statements on AI risk were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6306 AI Fraud Deterrence Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6306",
+"date": "2025-11-25",
+"quote": null,
+"what_it_shows": "Supports stiffer punishment for fraud committed with AI, including deepfakes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R.7766 Protecting Consumers from Deceptive AI Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7766",
+"date": "2024-03-21",
+"quote": null,
+"what_it_shows": "Backed requiring labels and watermarks on AI-generated images, video and audio."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.2385 CREATE AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2025-12-05",
+"quote": null,
+"what_it_shows": "Supports a national research resource so universities and students can build and study AI, a pro-research rather than restrictive stance."
+},
+{
+"type": "other",
+"title": "Dunn official site: Committees and Caucuses (AI Caucus member; appointed to House Task Force on Artificial Intelligence)",
+"url": "https://dunn.house.gov/about/committees-and-caucuses.htm",
+"date": null,
+"quote": null,
+"what_it_shows": "Confirms his AI Caucus membership, AI Task Force appointment and Energy and Commerce vice chairmanship."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Dunn favors targeted platform rules: he wrote the SMK Act to limit disappearing messages and stranger contact for minors, and cosponsors robocall, connected-vehicle, KOSA and COPPA 2.0 bills. No calls for breakups or Section 230 repeal found.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.6257 SMK Act of 2025 (kids' messaging safety)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6257",
+"date": "2025-11-21",
+"quote": null,
+"what_it_shows": "His own bill would ban ephemeral messaging features for minors and require parental direct-message controls on social media."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6152 Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "Supports cracking down on scam robocalls from abroad."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Backs banning connected-car technology tied to China and other adversaries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R.7891 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-05-22",
+"quote": null,
+"what_it_shows": "Supported the House KOSA in the last Congress."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R.7890 Children and Teens' Online Privacy Protection Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7890",
+"date": "2024-04-09",
+"quote": null,
+"what_it_shows": "Supported stronger kids' data privacy rules."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on preempting or pausing state AI laws, the House moratorium fight, the Dec 2025 executive order or the Mar 2026 framework. He did not sign the Democratic letters against preemption and did not cosponsor the GUARDRAILS Act.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Dunn, a member of the House Select Committee on the CCP, cosponsors the main bills to tighten AI chip controls: the Chip Security Act (location tracking on exported chips), the AI OVERWATCH Act (congressional review of chip sales to China) and the No DeepSeek on Government Devices Act.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3447 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-08-22",
+"quote": null,
+"what_it_shows": "Supports built-in location verification so advanced AI chips cannot be smuggled to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6875 AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-05-13",
+"quote": null,
+"what_it_shows": "Supports giving Congress power to block advanced AI chip sales to China and other risky countries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.1121 No DeepSeek on Government Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-13",
+"quote": null,
+"what_it_shows": "Backs removing the Chinese AI app DeepSeek from federal devices."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R.7521 Protecting Americans from Foreign Adversary Controlled Applications Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-05",
+"quote": null,
+"what_it_shows": "Supported forcing TikTok's sale or ban, part of a consistent China-hawk record on technology."
+}
+]
+}
+},
+"search_notes": "Searches: 'Neal Dunn' artificial intelligence/AI; 'data center(s)' OR ratepayer; DeepSeek/Nvidia/export controls/Chip Security; SMK Act/messaging/KOSA/Section 230; AI Fraud Deterrence Act; Energy and Commerce AI hearing/markup/Ratepayer Protection; preemption/state AI/moratorium; 'AI and the Grid'; plus a Wayback listing of dunn.house.gov, a crawl of his news pages and press release IDs 470-530, his Committees and Caucuses page, and GovTrack for H.R.6257. His site has no press release on the SMK Act or any AI bill; coverage in 2026 is dominated by his retirement announcement (Jan 2026) and health. The state-context lead that he voted Yea on the SPEED Act (House roll 356, Dec 2025) was not independently opened and is not used as evidence. No statements found in any lane; scores rest on cosponsorships."
+}
+]

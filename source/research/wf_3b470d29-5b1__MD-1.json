@@ -1,0 +1,459 @@
+[
+{
+"bioguide": "V000128",
+"name": "Chris Van Hollen",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Van Hollen is the Senate's lead voice for making data centers pay their own way. His Power for the People Act would create data center rate classes, make data centers pay for local grid upgrades and bring their own power, and he has led letters to PJM, FERC and Big Tech companies over cost shifting; he does not call for a moratorium.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Van Hollen introduces the Power for the People Act (S. 3682)",
+"url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-leads-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers",
+"date": "2026-01-15",
+"quote": "the huge corporations building and running data centers should cover the costs of the energy they need",
+"what_it_shows": "As lead sponsor he wants data centers to pay for their own grid upgrades, bring their own power and meet clean energy and labor standards, not a ban on building."
+},
+{
+"type": "sponsor",
+"title": "Bill: S. 3682 Power for the People Act (lead sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3682",
+"date": "2026-01-15",
+"quote": null,
+"what_it_shows": "Would direct states to consider data center rate classes, require FERC to make data centers pay for local transmission upgrades, and set up a large-load interconnection system with clean energy and labor standards."
+},
+{
+"type": "statement",
+"title": "Press release: Maryland delegation meeting on energy affordability (Mfume office mirror of the joint release)",
+"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
+"date": "2026-03-12",
+"quote": "Consumers should not have to pay one dime in additional electricity costs to support data centers for the richest companies on the planet",
+"what_it_shows": "Blames the surge of data center development for rising Maryland bills and pledges to keep pushing his bill."
+},
+{
+"type": "letter",
+"title": "Letter: Van Hollen and Beyer lead 12 lawmakers pressing PJM on data center load and a mandatory backstop",
+"url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-beyer-colleagues-urge-power-grid-operator-pjm-to-prioritize-consumers-access-to-reliable-affordable-electricity-over-large-corporate-interests",
+"date": "2025-11-06",
+"quote": "it is unduly discriminatory to force our constituents to subsidize data center development through astronomical rates and costs",
+"what_it_shows": "Asked PJM to restore a mandatory curtailment rule for new large loads and create a large-load queue so data centers connect only when the grid can serve them."
+},
+{
+"type": "letter",
+"title": "Letter: Maryland Democrats ask FERC to relieve Maryland ratepayers of out-of-state data center transmission costs (McClain Delaney mirror)",
+"url": "https://mcclaindelaney.house.gov/media/press-releases/maryland-democrats-urge-ferc-protect-marylanders-rising-electricity-costs-due",
+"date": "2026-07-28",
+"quote": "our constituents should not be forced to pay for transmission projects that they did not cause and from which they will not meaningfully benefit",
+"what_it_shows": "Led the delegation letter backing the Maryland People's Counsel complaint over about $2 billion in PJM transmission costs assigned to Maryland for projects serving out-of-state data centers."
+},
+{
+"type": "letter",
+"title": "Letter: Warren, Van Hollen and Blumenthal open investigation of Big Tech data centers and utility bills",
+"url": "https://www.warren.senate.gov/newsroom/press-releases/senator-warren-lawmakers-open-investigation-into-big-tech-data-centers-role-in-driving-up-families-utility-costs/",
+"date": "2025-12-16",
+"quote": "To protect consumers, data centers must pay a greater share of the costs upfront for future energy usage and updates to the electrical grid",
+"what_it_shows": "Demanded that Google, Microsoft, Amazon, Meta, CoreWeave, Digital Realty and Equinix explain how much of their data center costs land on households."
+},
+{
+"type": "letter",
+"title": "Press release: Van Hollen, Whitehouse, Heinrich probe eight AI companies over gas-powered data centers",
+"url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-whitehouse-heinrich-probe-ai-companies-about-plans-for-colossal-gas-powered-data-centers",
+"date": "2026-03-13",
+"quote": "combusting gas to generate electricity can have an equivalent carbon intensity to combusting coal",
+"what_it_shows": "Pressed Meta, OpenAI, xAI and others on pollution from twelve planned gas-fired data center projects, adding an environmental critique to his cost concerns."
+},
+{
+"type": "statement",
+"title": "Press conference (Capital News Service): Van Hollen on the White House ratepayer pledge",
+"url": "https://cnsmaryland.org/2026/03/05/maryland-delegation-in-congress-backs-effort-to-regulate-energy-use-by-ai-companies/",
+"date": "2026-03-05",
+"quote": "It's not worth the paper it's written on, unless you enact this as well",
+"what_it_shows": "Dismissed the tech companies' voluntary pledge to cover their power costs unless Congress writes the rule into law."
+},
+{
+"type": "cosponsor",
+"title": "Bill: S. 4727 Artificial Intelligence Environmental Impacts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4727",
+"date": "2026-06-09",
+"quote": null,
+"what_it_shows": "Backs a federal study and reporting system for the energy, water and pollution footprint of AI."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "medium",
+"summary": "Van Hollen treats advanced AI as a serious danger. After September 2026 warnings from AI researchers he said it was time to pump the brakes and called for mandatory safeguards and a comprehensive testing regime, and he pressed OpenAI to give federal cybersecurity agencies access to its model safety data. The key quotes come through press reports of his posts and letters rather than his own release text.",
+"evidence": [
+{
+"type": "social_post",
+"title": "The Hill: Van Hollen reacts to a former Anthropic researcher's extinction warning",
+"url": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
+"date": "2026-09-09",
+"quote": "time to pump the brakes & take action NOW",
+"what_it_shows": "After a researcher warned AI could kill everyone within a decade, he called on Congress for mandatory safeguards, a comprehensive testing regime and urgent dialogue with China."
+},
+{
+"type": "letter",
+"title": "PBS News: Van Hollen presses OpenAI CEO Sam Altman after the Hugging Face breach",
+"url": "https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face",
+"date": "2026-09-11",
+"quote": null,
+"what_it_shows": "He asked Altman to immediately give federal cybersecurity agencies the information needed to assess the safety and risks of OpenAI's models, treating frontier models as a security risk needing government oversight."
+},
+{
+"type": "letter",
+"title": "Jewish Insider: Ossoff-led Senate Democrats' letter on the Pentagon's use of Grok",
+"url": "https://jewishinsider.com/2026/02/senate-democrats-pentagon-grok-ai-antisemitism-deepfake-pornography/",
+"date": "2026-02-10",
+"quote": "it must be deployed, used, and regulated in a manner consistent with the national interest and standards of decency",
+"what_it_shows": "Co-signed a letter questioning the Pentagon's adoption of xAI's Grok after its antisemitic output and deepfake pornography problems."
+},
+{
+"type": "cosponsor",
+"title": "Bill: S. 1691 Traveler Privacy Protection Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1691",
+"date": "2025-05-08",
+"quote": null,
+"what_it_shows": "Would make airport security get consent before facial recognition scans, a limit on government AI surveillance."
+},
+{
+"type": "cosponsor",
+"title": "Bill: S. 2912 Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2912",
+"date": "2025-09-18",
+"quote": null,
+"what_it_shows": "Would ban using AI to spread lies about how to vote before federal elections."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "He backs targeted rules for Big Tech, especially around children: he cosponsors the Kids Online Safety Act and signed the bipartisan letter demanding Meta rein in AI chatbots that talked romantically with minors. The record is mixed on one platform, since he pushed to delay the TikTok divest-or-ban deadline.",
+"evidence": [
+{
+"type": "letter",
+"title": "Kauai Now: Schatz-led bipartisan letter of 10 senators to Zuckerberg on Meta AI chatbots and children",
+"url": "https://kauainownews.com/2025/08/20/schatz-several-u-s-senate-colleagues-press-zuckerberg-after-reports-that-meta-ai-bots-spoke-romantically-sensually-with-kids/",
+"date": "2025-08-20",
+"quote": "We write alarmed by Meta's policies and practices related to AI chatbots, which pose astonishing risks for children, lack transparency and allow for the proliferation of misinformation",
+"what_it_shows": "Signed a letter demanding Meta explain its chatbot rules for minors and stop targeted ads to users under 18."
+},
+{
+"type": "cosponsor",
+"title": "Bill: S. 1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-23",
+"quote": null,
+"what_it_shows": "Backs a duty of care for platforms toward kids under 17; he also cosponsored the 118th Congress version."
+},
+{
+"type": "letter",
+"title": "Press release: Van Hollen, Markey, Booker urge Trump to work with Congress to keep TikTok online",
+"url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-markey-booker-urge-trump-to-work-with-congress-to-keep-tiktok-online",
+"date": "2025-03-24",
+"quote": "the 170 million Americans that rely on TikTok will continue to face uncertainty about TikTok's future",
+"what_it_shows": "Cuts the other way: he pushed to extend the TikTok divest-or-ban deadline rather than enforce it, a softer line on one Big Tech platform."
+},
+{
+"type": "cosponsor",
+"title": "Bill: S. 103 Extend the TikTok Deadline Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/103",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Would give TikTok more time before a forced sale or ban."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "low",
+"summary": "He cosponsored the States' Right to Regulate AI Act days after the December 2025 executive order targeting state AI laws, which puts him on the side of letting states regulate. We found no speeches or statements of his own on preemption, so the position rests on one cosponsorship.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Bill: S. 3557 States' Right to Regulate AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3557",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "The bill says states keep the power to pass their own AI rules and the federal government cannot wipe them out."
+},
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted Yea with 98 other senators to remove the moratorium; because the vote was nearly unanimous it is weak evidence on its own."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No verified public position found. We searched for statements on Nvidia H20 and H200 sales to China, export controls and the Chip Security Act. A first-pass lead said he signed the May 2025 Schumer and Warren letter urging the administration to reconsider Saudi and UAE chip deals, but that page could not be opened to confirm it.",
+"evidence": []
+}
+},
+"signature": "Lead sponsor of the Power for the People Act to make data centers pay their own grid costs; after September 2026 AI warnings he urged Congress to pump the brakes and pressed OpenAI to open its safety data to federal agencies.",
+"notable_quote": {
+"text": "Consumers should not have to pay one dime in additional electricity costs to support data centers for the richest companies on the planet",
+"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
+"date": "2026-03-12"
+},
+"groups": [],
+"search_notes": "Google News queries run: Van Hollen + artificial intelligence; + data center; + chatbot/deepfake/Section 230/Big Tech; + Nvidia/export controls/preemption/state AI laws; + OpenAI/Altman/Hugging Face/Anthropic; + Power for the People/ratepayers; + executive order/states; + Meta chatbots/TikTok; + chip deals Saudi UAE. Site listing of vanhollen.senate.gov via the Wayback index (42 AI, tech and energy URLs since 2025). vanhollen.senate.gov and all other senate.gov sites return 403 to direct fetches and the Wayback fallback was intermittent, so several releases were read through House mirrors (Mfume, McClain Delaney, Tonko) and news outlets (Broadband Breakfast, Capital News Service, PBS, The Hill, Jewish Insider, Kauai Now). Opened and used: Power for the People release, PJM letter release, gas data center probe release, TikTok letter release, Warren investigation release, FERC letter mirror, delegation meeting mirror. Could not open: the OpenAI Altman letter release (Wayback 404, used PBS and The Hill instead), the Markey NARUC letter, the Markey FERC letter, the Schatz release (used Kauai Now), the Schumer and Warren chip deals letter, the Feb 2025 FERC letter, the KOSA statement for the record. Google News URL decoding was rate limited for much of the session, so some local stories (Baltimore Sun, Maryland Daily Record, Data Center Dynamics, The Well News) were not opened. No AI caucus membership or AI PAC activity found."
+},
+{
+"bioguide": "A000382",
+"name": "Angela D. Alsobrooks",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Alsobrooks says data centers matter for national security and jobs but insists they, not families, pay the energy costs they create. She is an original cosponsor of the Power for the People Act and signed the delegation's letters to PJM and FERC about data center cost shifting.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Van Hollen introduces the Power for the People Act, with Alsobrooks quote",
+"url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-leads-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers",
+"date": "2026-01-15",
+"quote": "Data centers are critical to our national security, job creation, and economic development, but we cannot subsidize the costs of these data centers with our energy bills",
+"what_it_shows": "As an original cosponsor she accepts data centers as important but insists they pay the energy costs they create."
+},
+{
+"type": "cosponsor",
+"title": "Bill: S. 3682 Power for the People Act (original cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3682",
+"date": "2026-01-15",
+"quote": null,
+"what_it_shows": "The bill would create data center rate classes, make data centers pay for local transmission upgrades and require them to bring their own power to the grid."
+},
+{
+"type": "letter",
+"title": "Letter: Van Hollen and Beyer lead 12 lawmakers pressing PJM on data center load (Alsobrooks a signer)",
+"url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-beyer-colleagues-urge-power-grid-operator-pjm-to-prioritize-consumers-access-to-reliable-affordable-electricity-over-large-corporate-interests",
+"date": "2025-11-06",
+"quote": "PJM must swiftly address the fact that data center energy demand is threatening to overwhelm the grid",
+"what_it_shows": "Signed the letter asking PJM for a mandatory backstop on new large loads and a large-load queue so data centers do not raise bills or risk blackouts."
+},
+{
+"type": "letter",
+"title": "Letter: Maryland Democrats ask FERC to relieve Maryland ratepayers of out-of-state data center transmission costs (McClain Delaney mirror)",
+"url": "https://mcclaindelaney.house.gov/media/press-releases/maryland-democrats-urge-ferc-protect-marylanders-rising-electricity-costs-due",
+"date": "2026-07-28",
+"quote": "it is unjust and unreasonable to force our constituents to subsidize the energy infrastructure needs of the wealthiest companies in the world",
+"what_it_shows": "Backed the Maryland People's Counsel complaint over about $2 billion in PJM transmission costs assigned to Maryland for projects serving out-of-state data centers."
+},
+{
+"type": "statement",
+"title": "Press release: Maryland delegation meeting on energy affordability (Mfume office mirror)",
+"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
+"date": "2026-03-12",
+"quote": "Rent, groceries, and utilities are skyrocketing and Marylanders are struggling to get by",
+"what_it_shows": "Framed the delegation's data center and grid work as part of lowering electricity costs, aiming her criticism at the Trump administration rather than at data centers as such."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "She favors targeted guardrails. Her own bill would ban AI-driven lies about how to vote before federal elections, and at a HELP Committee hearing she asked whether Congress needs to fill gaps so AI used in health care is safe, transparent and trustworthy. No call for broad licensing or a pause was found.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Bill: S. 2912 Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2912",
+"date": "2025-09-18",
+"quote": null,
+"what_it_shows": "Her own bill would ban using AI to spread lies about how to vote in the two months before a federal election."
+},
+{
+"type": "hearing",
+"title": "Nextgov: Senate HELP hearing on health data shared with AI tools, Alsobrooks questions",
+"url": "https://www.nextgov.com/policy/2026/03/lawmakers-raise-questions-about-security-health-data-shared-ai-tools/411931/",
+"date": "2026-03-06",
+"quote": "ensure these technologies are safe, transparent and trustworthy for clinicians and patients",
+"what_it_shows": "She asked whether current HHS authorities are enough or whether there are gaps in the federal framework that Congress should address for AI in clinical care."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "She backs targeted rules for online platforms, cosponsoring both the Kids Online Safety Act and the Kids Off Social Media Act. We found no statements on antitrust or Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Bill: S. 278 Kids Off Social Media Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/278",
+"date": "2025-06-09",
+"quote": null,
+"what_it_shows": "Would bar children under 13 from social media and stop algorithmic targeting of anyone under 17."
+},
+{
+"type": "cosponsor",
+"title": "Bill: S. 1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Backs a duty of care for platforms toward kids under 17."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. She voted with 98 other senators in July 2025 to strip the 10-year moratorium on state AI laws, but that near-unanimous vote does not show a stance, and we found no statements on the December 2025 executive order or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted Yea to remove the moratorium; nearly every senator did, so the vote alone does not show a position on preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Her only action found is cosponsoring the Chip Security Act, which would require location verification on advanced chips sold abroad so they cannot be diverted to China. No statements on Nvidia sales or export controls were found, so this rests on a single cosponsorship.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Bill: S. 1705 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2026-05-21",
+"quote": null,
+"what_it_shows": "Backs requiring a built-in way to verify where advanced AI chips end up, aimed at stopping smuggling to China."
+}
+]
+}
+},
+"signature": "First-term senator who cosponsored the Power for the People Act on data center costs, sponsors a bill against AI voting deception, and joined the Chip Security Act and kids online safety bills.",
+"notable_quote": {
+"text": "Data centers are critical to our national security, job creation, and economic development, but we cannot subsidize the costs of these data centers with our energy bills",
+"url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-leads-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers",
+"date": "2026-01-15"
+},
+"groups": [],
+"search_notes": "Google News queries run: Alsobrooks + artificial intelligence; + data center; + chatbot/deepfake/Kids Online Safety/Big Tech; + Chip Security/Nvidia/export controls/preemption/AI moratorium; + AI Howard/tech corridor/workforce/jobs; + HELP hearing AI health/clinicians; + site:alsobrooks.senate.gov AI; + HELP AI education hearing. alsobrooks.senate.gov returns 403 to direct fetches and the Wayback index holds only six pages from her site, so her own releases were largely unreachable. Her quotes were verified in the Van Hollen Power for the People release, the Mfume mirror of the delegation meeting release, the McClain Delaney mirror of the FERC letter, the Van Hollen PJM letter release, and Nextgov. Not opened: an official June 11, 2026 release titled 'AI cannot be happening to us. It has to expand opportunity' from a HELP hearing on AI and education (Google News URL decoding was rate limited), a Baltimore Sun interview in which she discussed AI (April 2026), her Sept 24, 2025 voter deception bill release, and Data Center Dynamics coverage. No AI caucus membership or AI PAC activity found."
+},
+{
+"bioguide": "H001052",
+"name": "Andy Harris",
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Harris, the only Republican in Maryland's delegation, says large users like data centers should build or secure their own electricity instead of shifting costs to ratepayers, and he joined the bipartisan press event on the issue. But he did not cosponsor the Power for the People Act, voted for the SPEED Act permitting reform, and blames state green-energy mandates rather than data centers for high bills. Mixed.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Maryland delegation meeting on energy affordability (Mfume office mirror of the joint release)",
+"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
+"date": "2026-03-12",
+"quote": "Large energy users like data centers should be responsible for building or securing the electricity they need instead of shifting those costs onto Maryland ratepayers.",
+"what_it_shows": "Endorsed the make-data-centers-pay principle while also demanding a moratorium on state energy taxes and fees."
+},
+{
+"type": "statement",
+"title": "Press conference (Capital News Service): Harris joins Democrats on data center energy costs",
+"url": "https://cnsmaryland.org/2026/03/05/maryland-delegation-in-congress-backs-effort-to-regulate-energy-use-by-ai-companies/",
+"date": "2026-03-05",
+"quote": "these companies, that are literally trillion-dollar companies, have to stop putting the cost of their energy on the backs of our ratepayers",
+"what_it_shows": "Said there is bipartisan agreement on stopping cost shifts, citing Trump's State of the Union, but he has not cosponsored the Power for the People Act."
+},
+{
+"type": "vote",
+"title": "House roll call 356: passage of H.R. 4776, the SPEED Act permitting reform bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted Yea on a bill to speed federal environmental reviews for energy and infrastructure projects, including those serving data centers; Maryland's Democrats voted Nay."
+},
+{
+"type": "statement",
+"title": "Press release: Harris urges DOE to keep Brandon Shores and Wagner plants running for grid reliability",
+"url": "https://harris.house.gov/media/press-releases/congressman-harris-urges-doe-protect-marylands-power-supply-and-grid",
+"date": "2026-06-09",
+"quote": "As electricity demand rises, the Brandon Shores and H.A. Wagner generating stations can provide cheap, reliable, clean, affordable power.",
+"what_it_shows": "His answer to rising demand is more baseload generation, asking DOE to use emergency powers to keep two Maryland fossil plants running."
+},
+{
+"type": "statement",
+"title": "Press release: Harris letter to constituents on high energy costs in Maryland",
+"url": "https://harris.house.gov/media/press-releases/congressman-harris-sends-letter-constituents-high-costs-energy-maryland",
+"date": "2025-02-19",
+"quote": "Marylanders are struggling more than ever to afford these unnecessary, sky-high energy bills.",
+"what_it_shows": "Blames state green-energy mandates and fees for high bills and calls for more domestic fossil production, without mentioning data centers."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. We searched his press releases, local coverage and hearing coverage for statements on AI safety, chatbots, deepfakes and the Medicare AI prior-authorization pilot and found none as of September 2026.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "He backs targeted rules aimed at protecting children online, cosponsoring the SCREEN Act age-verification bill in two Congresses and the STOP CSAM Act. No statements on Section 230 or antitrust were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Bill: H.R. 1623 SCREEN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-02-27",
+"quote": null,
+"what_it_shows": "Would require adult websites to verify users' ages."
+},
+{
+"type": "cosponsor",
+"title": "Bill: H.R. 3921 STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-07-02",
+"quote": null,
+"what_it_shows": "Would make platforms do more to report and remove child sexual abuse material and let victims sue."
+},
+{
+"type": "cosponsor",
+"title": "Bill: H.R. 6429 SCREEN Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6429",
+"date": "2024-01-10",
+"quote": null,
+"what_it_shows": "Earlier version of the age-verification bill, showing a consistent interest in kids online safety."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. He was not part of the March 2026 House Republican leadership statement backing a national AI framework and did not sign the House Democratic letters against preemption; no statements on state AI laws were found.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. We searched for statements on Nvidia, chip export controls and China AI and found none.",
+"evidence": []
+}
+},
+"signature": "Only Republican in Maryland's delegation; says data centers must build or secure their own power instead of shifting costs to ratepayers, but backs permitting reform and keeping coal plants running, and has no notable AI-specific record.",
+"notable_quote": {
+"text": "Large energy users like data centers should be responsible for building or securing the electricity they need instead of shifting those costs onto Maryland ratepayers.",
+"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
+"date": "2026-03-12"
+},
+"groups": [
+"Chairman, House Appropriations Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies (not AI-specific)"
+],
+"search_notes": "Google News queries run: Andy Harris + artificial intelligence; + data center; + chatbot/deepfake/Section 230/Big Tech/TikTok; + AI Medicare/prior authorization/moratorium/China chips; + site:harris.house.gov AI/energy/data center; + Federalsburg/Eastern Shore data center; + Maryland Matters bipartisan delegation energy; + Freedom Caucus energy bills; + WISeR prior authorization; + AI moratorium/state laws/preemption. harris.house.gov fetches directly, so his press release index (pages 1 to 14) was swept for energy and tech items and the DOE letter and 2025 energy letter releases were opened. Also opened: the Mfume mirror of the March 2026 delegation release, the Capital News Service story on the March 5, 2026 press conference, and the govtrack page for House roll call 356. Not opened: the Maryland Matters March 5, 2026 story (403), the WBFF and WBAL stories on the Maryland Freedom Caucus energy bills, the Healthcare Dive story on the Medicare AI prior-authorization pilot, and WBOC stories on Federalsburg's data center ban (Google News URL decoding was rate limited). No AI caucus membership or AI PAC activity found."
+}
+]

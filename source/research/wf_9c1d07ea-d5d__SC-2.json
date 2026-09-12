@@ -1,0 +1,521 @@
+[
+{
+"bioguide": "T000480",
+"name": "William R. Timmons IV",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers found as of Sept 2026, even though the nearly $3 billion Valara data center fight is in his Spartanburg district. His only related act is a Yea vote on the SPEED Act permitting bill. His Democratic challenger is reported to attack him for taking no stance on Valara; that lead could not be confirmed at a source.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: voted Yea on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He backed a broad permitting reform bill that developers want, but the bill is not specific to data centers and he has not spoken on them."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Timmons treats AI mainly as a national security and economic power issue, but he has backed targeted rules: he cosponsored the DEFIANCE Act on AI sexual deepfakes and at an April 2026 Oversight roundtable he asked whether AI likeness porn should be made illegal.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Independent report on the Apr 16, 2026 House Oversight roundtable 'Artificial Intelligence and American Power'",
+"url": "https://www.independent.co.uk/tech/ai-safety-fears-meeting-america-b2959491.html",
+"date": "2026-04-16",
+"quote": "Republican Rep. William Timmons of South Carolina questioned whether it should be made illegal for AI systems to exploit an individual's likeness to generate pornographic content.",
+"what_it_shows": "Reporter's account: at a roundtable he co-hosted, his focus was on outlawing AI-made sexual deepfakes, a targeted guardrail."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3562, DEFIANCE Act of 2025 (civil suits over AI sexual deepfakes)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "Supports letting victims sue over nonconsensual AI sexual images."
+},
+{
+"type": "other",
+"title": "Press release (via Quiver Quantitative): Burlison and Timmons announce AI roundtable on American power",
+"url": "https://www.quiverquant.com/news/Press+Release%3A+Burlison+and+Timmons+Host+Roundtable+on+Artificial+Intelligence%27s+Impact+on+American+Prosperity",
+"date": "2026-04-09",
+"quote": "Subcommittee Chairmen Eric Burlison and William Timmons have announced a roundtable titled \"Artificial Intelligence and American Power: Leadership, Security, and Prosperity,\" scheduled for April 16, 2026.",
+"what_it_shows": "He co-hosted the roundtable as a subcommittee chairman and framed AI around leadership, security and prosperity rather than risk."
+},
+{
+"type": "hearing",
+"title": "Oversight hearing wrap-up: Federal Government Use of AI Poses Promise, Peril",
+"url": "https://oversight.house.gov/release/hearing-wrap-up-federal-government-use-of-artificial-intelligence-poses-promise-peril/",
+"date": "2023-09-15",
+"quote": "Can we talk about possible uses of AI within either DOD or our adversaries' military capabilities?",
+"what_it_shows": "His questions at a 2023 AI hearing centered on military and adversary uses, not on domestic safety rules."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Limited record. He cosponsored the STOP CSAM Act, which makes platforms do more against child abuse material, and introduced a bill to keep Chinese-linked vendors out of federal technology systems. No broad Big Tech or Section 230 positions found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3921, STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "Backs a targeted platform accountability rule for child sexual abuse material."
+},
+{
+"type": "statement",
+"title": "Press release: Timmons introduces H.R. 7274, Federal Acquisition Security Council Improvement Act",
+"url": "https://timmons.house.gov/news/documentsingle.aspx?DocumentID=223",
+"date": "2026-01-31",
+"quote": "Communist China is constantly looking for ways to exploit vulnerabilities in our federal systems and spy on the United States",
+"what_it_shows": "His tech focus is security against foreign adversary vendors in government systems, not regulating U.S. platforms."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on federal preemption or a moratorium on state AI laws. He is not a cosponsor of the GUARDRAILS Act or the American AI Leadership and Uniformity Act, and he did not appear in the letters or statements listed in the research context.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans hawkish. In Aug 2026 he cosponsored the AI OVERWATCH Act, which gives Congress power to block advanced AI chip sales to China, and he pushes to keep Chinese vendors out of federal tech systems. No comments found on the Nvidia H20 or H200 sales.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6875, AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Supports a congressional check on selling advanced AI chips to China and other risky countries."
+},
+{
+"type": "statement",
+"title": "Press release: Timmons introduces FASC Improvement Act to block foreign adversaries from federal technology",
+"url": "https://timmons.house.gov/news/documentsingle.aspx?DocumentID=223",
+"date": "2026-01-31",
+"quote": "American taxpayer dollars should never be used to purchase technology that could compromise our national security.",
+"what_it_shows": "Consistent China-hawk framing on technology, though about procurement rather than chip exports."
+}
+]
+}
+},
+"signature": "Oversight subcommittee chair who co-hosted an April 2026 AI roundtable, asks about AI deepfake porn and military uses, and cosponsors the AI OVERWATCH Act on chips to China",
+"notable_quote": {
+"text": "Can we talk about possible uses of AI within either DOD or our adversaries' military capabilities?",
+"url": "https://oversight.house.gov/release/hearing-wrap-up-federal-government-use-of-artificial-intelligence-poses-promise-peril/",
+"date": "2023-09-15"
+},
+"groups": [
+"Chairman, House Oversight Subcommittee on Military and Foreign Affairs",
+"Member, House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence"
+],
+"search_notes": "Searches: 'William Timmons artificial intelligence'; 'Timmons AI South Carolina congressman'; 'Timmons data center Spartanburg'; 'Timmons Valara Kohler McClain'; 'Timmons data center' (results were Jay Timmons of NAM and others, not the congressman); 'Valara Spartanburg data center congressman'; 'Timmons Nvidia export controls AI chips'; 'Timmons deepfake DEFIANCE AI OVERWATCH'; 'Courtney McClain data center Valara'; 'William Timmons Big Tech Section 230 TikTok crypto'; 'Timmons Leading the Future Public First' (none). Opened: Independent roundtable story, Quiver repost of the roundtable release, Oversight 2023 hearing wrap-up, timmons.house.gov about page and press archive (only 2 tech releases), FASC bill release, govtrack roll call 356, FOX Carolina/WYFF/GoUpstate Spartanburg data center stories (no Timmons mention). The oversight.house.gov roundtable page and Washington Post coverage could not be opened. The McClain Valara attack lead from the context file was not confirmed at any source. Timmons-McClain FOX Carolina debate was announced Sept 9, 2026 but had not happened."
+},
+{
+"bioguide": "N000190",
+"name": "Ralph Norman",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "In his 2026 governor and Senate campaigns Norman said he opposes any subsidies for data centers, wants them to pay their own way, and says water, the power grid and ratepayers come first with local communities getting the final say. He attacked Darline Graham for backing data centers more unconditionally. He did vote for the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "interview",
+"title": "WYFF: Norman on data centers after the Aug 17, 2026 Senate runoff forum",
+"url": "https://www.wyff4.com/article/darline-graham-ralph-norman-live-forum/73453143",
+"date": "2026-08-17",
+"quote": "I am not for any subsidies for data centers, let them pay their own way if they are a fit, but I feel bad for the homes being around data centers when they had no idea it was being built",
+"what_it_shows": "His own words: no subsidies, pay your own way, sympathy for neighbors, protect water and electricity."
+},
+{
+"type": "statement",
+"title": "FOX Carolina candidate profile quoting Norman at the Apr 21, 2026 SCGOP gubernatorial debate",
+"url": "https://www.foxcarolina.com/2026/05/29/sc-governors-race-candidate-profile-ralph-norman/",
+"date": "2026-04-21",
+"quote": "we should always protect ratepayers. But the final say should come to the people. People in local communities should have the final say of who they want their neighbors to be.",
+"what_it_shows": "Puts ratepayers, water and local consent ahead of economic development incentives for data centers."
+},
+{
+"type": "statement",
+"title": "NBC News: Aug 18, 2026 Senate runoff debate exchange on data centers",
+"url": "https://www.nbcnews.com/politics/2026-election/darline-graham-defends-resume-south-carolina-debate-saying-national-se-rcna593244",
+"date": "2026-08-18",
+"quote": "Norman charged that Graham had previously supported data centers more unconditionally.",
+"what_it_shows": "Reporter's account: he used data centers as an attack line against his opponent for being too pro-development."
+},
+{
+"type": "vote",
+"title": "Roll call 356: voted Yea on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Supported a permitting reform bill that speeds energy and infrastructure projects, a pro-build vote that sits alongside his protective statements."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "At the Aug 2026 Senate runoff debate Norman said he supports regulating AI where possible to keep it from hurting children and Americans, while admitting broad rules would be hard to write, like regulating the internet. No bills or detailed proposals found.",
+"evidence": [
+{
+"type": "statement",
+"title": "South Carolina Public Radio: Graham and Norman Senate runoff debate coverage",
+"url": "https://www.southcarolinapublicradio.org/sc-news/2026-08-19/darline-graham-and-ralph-norman-throw-jabs-make-cases-to-voters-in-us-senate-debate",
+"date": "2026-08-18",
+"quote": "You try to regulate what you can and find out what you can so that it's used in a good way instead of hurting American children and Americans in general",
+"what_it_shows": "Supports some AI rules focused on protecting people, especially children, but is skeptical that sweeping regulation is workable."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Norman backs targeted rules aimed at social media and Chinese apps: he cosponsored the Stop the Censorship Act to narrow Section 230 protections, the SCREEN Act requiring age checks on adult sites, and the bills to force TikTok's sale and crack down on Chinese-controlled apps.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 908, Stop the Censorship Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/908",
+"date": "2025-02-04",
+"quote": null,
+"what_it_shows": "Would strip platforms' legal shield when they remove posts they merely find objectionable, a conservative Section 230 reform."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 1623, SCREEN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-09-02",
+"quote": null,
+"what_it_shows": "Supports mandatory age verification on adult websites."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7521 (118th), Protecting Americans from Foreign Adversary Controlled Applications Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-05",
+"quote": null,
+"what_it_shows": "Backed forcing TikTok's sale or ban."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 4927 (118th), ACES Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4927",
+"date": "2023-07-26",
+"quote": null,
+"what_it_shows": "Backed a crackdown on Chinese-controlled social media apps."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on federal preemption or a moratorium on state AI laws. He is not a cosponsor of the GUARDRAILS Act or the uniformity bill and did not appear in the preemption letters or statements listed in the research context.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on AI chip export controls or Nvidia sales to China as of Sept 2026. His China-related tech record is about TikTok and apps, not chips.",
+"evidence": []
+}
+},
+"signature": "Data center skeptic in his 2026 governor and Senate runs: no subsidies, protect water and power, local communities get the final say",
+"notable_quote": {
+"text": "I am not for any subsidies for data centers, let them pay their own way if they are a fit, but I feel bad for the homes being around data centers when they had no idea it was being built",
+"url": "https://www.wyff4.com/article/darline-graham-ralph-norman-live-forum/73453143",
+"date": "2026-08-17"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (member, per landscape research; caucus site unreachable Sept 2026 so not independently verified)"
+],
+"search_notes": "Searches: 'Ralph Norman artificial intelligence'; 'Ralph Norman data center'; 'Norman data centers Graham runoff'; 'Ralph Norman Big Tech Section 230 censorship'; 'Ralph Norman AI Caucus'; 'Norman Graham wants data centers attack ad'; 'Ralph Norman TikTok Big Tech'; 'Norman regulate AI Senate debate'. Opened: WYFF forum story (direct data center quote), FOX Carolina governor profile (Apr 21 debate quotes), SC Public Radio runoff debate story (AI regulation quote), NBC runoff debate story, WPDE debate story (no policy content), E&E News primary story, govtrack roll call 356, norman.house.gov press archive pages 1-2 (no AI or data center releases). Could not open: The State 'Data centers, war, national debt' (timed out), Washington Times and Queen City News (403), Norman's 'My opponent WANTS DATA CENTERS' social post (X not reachable), AI Caucus membership page (DNS failure)."
+},
+{
+"bioguide": "C000537",
+"name": "James E. Clyburn",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Clyburn blames Big Tech data centers, and Trump's closeness to tech CEOs, for rising South Carolina electricity bills. He is an original cosponsor of the Energy Bills Relief Act and voted against the SPEED Act permitting bill. In July 2026 he said he had never visited a data center.",
+"evidence": [
+{
+"type": "social_post",
+"title": "X post by Clyburn quoted in MeriTalk story on Mace's data center moratorium call",
+"url": "https://www.meritalk.com/articles/mace-calls-for-a-statewide-pause-on-new-data-centers/",
+"date": "2025-11",
+"quote": "Electricity costs are up nearly 8% in South Carolina since last year. And what's Trump doing about it? Hanging out with rich big tech CEOs whose data centers are spiking demand",
+"what_it_shows": "His own words tying higher power bills to data center demand and Big Tech, with a ratepayer-first frame."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor of H.R. 7977, Energy Bills Relief Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Joined a Democratic bill aimed at relief from high energy bills as data center demand grows (cosponsorship confirmed on govtrack)."
+},
+{
+"type": "vote",
+"title": "Roll call 356: voted Nay on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Opposed the permitting reform bill that developers and data center builders favored."
+},
+{
+"type": "interview",
+"title": "Mediaite on Clyburn's Vox 'America, Actually' interview",
+"url": "https://www.mediaite.com/online/jim-clyburn-says-he-didnt-know-what-chatgpt-was-until-about-a-week-ago/",
+"date": "2026-07-24",
+"quote": null,
+"what_it_shows": "Asked whether he had ever been to a data center, he answered no, and said he relies on a great staff for technology issues."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Thin record. He cosponsored the 2024 Securing Elections From AI Deception Act, a targeted rule against AI deepfakes that trick voters. In July 2026 he told Vox he had never used AI and had only learned what ChatGPT was a week earlier, which drew criticism about his readiness to regulate the technology.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8858 (118th), Securing Elections From AI Deception Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "Supports banning AI fakes used to deceive voters in federal elections."
+},
+{
+"type": "interview",
+"title": "Mediaite: Clyburn says he did not know what ChatGPT was until about a week ago",
+"url": "https://www.mediaite.com/online/jim-clyburn-says-he-didnt-know-what-chatgpt-was-until-about-a-week-ago/",
+"date": "2026-07-24",
+"quote": "Believe it or not, I didn't know what that was until about a week ago",
+"what_it_shows": "Shows little personal engagement with AI tools; not a policy position but context for how he approaches the issue."
+},
+{
+"type": "op_ed",
+"title": "Post and Courier commentary: The wrong lesson from Jim Clyburn's ChatGPT moment",
+"url": "https://www.postandcourier.com/opinion/commentary/jim-clyburn-chatgpt-regulate-technology/article_421171e5-ab72-4d2e-bf42-b343589fd2bf.html",
+"date": "2026-08-13",
+"quote": null,
+"what_it_shows": "A guest columnist argued the problem was that Clyburn wants to regulate a technology he had just heard of; this is the columnist's framing, and no Clyburn statement calling for AI regulation was located."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements or bills found on Big Tech regulation, Section 230, privacy or kids online safety in the 118th or 119th Congress as of Sept 2026.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on federal preemption or a moratorium on state AI laws. He was not listed among GUARDRAILS Act cosponsors or the Matsui and Clarke letter signers in the research context.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on AI chip export controls or Nvidia sales to China as of Sept 2026.",
+"evidence": []
+}
+},
+"signature": "Ties rising South Carolina power bills to Big Tech data centers and Trump; admitted in July 2026 he had never used AI or visited a data center",
+"notable_quote": {
+"text": "Electricity costs are up nearly 8% in South Carolina since last year. And what's Trump doing about it? Hanging out with rich big tech CEOs whose data centers are spiking demand",
+"url": "https://www.meritalk.com/articles/mace-calls-for-a-statewide-pause-on-new-data-centers/",
+"date": "2025-11"
+},
+"groups": [],
+"search_notes": "Searches: 'Clyburn artificial intelligence'; 'Clyburn data center OR data centers'; 'Clyburn electricity bills energy bills South Carolina'; 'Clyburn AI deepfake chatbot Big Tech'; 'Clyburn ChatGPT'; 'Clyburn Energy Bills Relief' (none); 'Clyburn SPEED Act'; 'Jim Clyburn AI jobs workers Big Tech'; 'Clyburn AI election deepfake'; 'Clyburn said artificial intelligence 2026'. Opened: MeriTalk (X post quote confirmed verbatim), govtrack H.R. 7977 cosponsor list and bill page (Casten bill, 161 Democratic cosponsors, Clyburn original cosponsor), govtrack roll call 356, Mediaite ChatGPT story via Wayback, Vox podcast writeup, Post and Courier commentary (partial via Wayback; later requests refused), clyburn.house.gov site search (returned nothing) and archive list (only older energy releases). congress.gov returned 403 so cosponsorship was verified on govtrack and cited with the congress.gov URL per instructions."
+},
+{
+"bioguide": "F000478",
+"name": "Russell Fry",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Fry is not against data centers but insists on local control. In his 2026 Senate run he attacked Darline Graham for wanting 'unfettered' data centers without local buy-in and said communities deserve a voice in what is built in their backyard. On the Energy and Commerce Energy Subcommittee he has pushed permitting reform and more power supply to meet growing demand, and he voted for the SPEED Act.",
+"evidence": [
+{
+"type": "statement",
+"title": "E&E News: Fry at the Aug 4, 2026 GOP Senate primary debate on data centers",
+"url": "https://www.eenews.net/articles/energy-politics-prominent-in-big-south-carolina-senate-primary/",
+"date": "2026-08-04",
+"quote": "We had an earth-shattering moment last night, where one of the candidates who's not on stage said that she wanted unfettered data centers in the state of South Carolina without local control, without local buy-in",
+"what_it_shows": "He made local control over data center siting a campaign issue and called building without it unacceptable."
+},
+{
+"type": "statement",
+"title": "FITSNews: Fry campaign release attacking Graham on data centers",
+"url": "https://www.fitsnews.com/2026/08/05/s-c-succession-russell-fry-unloads-on-darline-graham/",
+"date": "2026-08-05",
+"quote": "While Congressman Fry stood firm that local communities deserve a voice in what gets built in their backyard, Darline Graham had no problem with a one size fits all approach that puts special interests ahead of South Carolina families",
+"what_it_shows": "His campaign framed him as the candidate for local say over data centers and against special interests."
+},
+{
+"type": "hearing",
+"title": "Energy and Commerce release: Energy Subcommittee hearing 'AI and the Grid: Meeting Growing Power Demand While Protecting Ratepayers'",
+"url": "https://energycommerce.house.gov/posts/energy-subcommittee-holds-hearing-on-meeting-growing-power-demand-while-protecting-ratepayers",
+"date": "2026-04-29",
+"quote": "In light of the growing demand for power, there is discussion about permitting reforms to ensure the production and supply of that power.",
+"what_it_shows": "At a hearing on AI power demand he focused on nuclear license renewal and permitting reform to supply more power, a pro-build stance."
+},
+{
+"type": "vote",
+"title": "Roll call 356: voted Yea on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Supported permitting reform that speeds energy and infrastructure projects."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "Fry's approach to AI and kids leans toward study and partnership rather than mandates: his Kids Internet Safety Partnership Act would research harms including chatbots and he said families deserve clarity, not one-size-fits-all mandates. The AI industry super PAC Leading the Future named him a House GOP champion in April 2026. No statements found on frontier AI safety, licensing or liability.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Congressman Russell Fry introduces the Kids Internet Safety Partnership Act (KISPA)",
+"url": "https://fry.house.gov/news/documentsingle.aspx?DocumentID=1015",
+"date": "2025-12-05",
+"quote": "Parents don't care about buzzwords. They care about protecting their children. Let's do our part to keep them safe.",
+"what_it_shows": "His bill sets up a government and industry partnership to study kids' online harms, including chatbots and recommendation systems, and he framed it as an alternative to one-size-fits-all mandates."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 6437, Kids Internet Safety Partnership Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6437",
+"date": "2025-12-04",
+"quote": null,
+"what_it_shows": "Prefers a collaborative research approach with tech companies over new binding rules."
+},
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC releases list of 'House GOP Champions' including Fry",
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"date": "2026-04-16",
+"quote": "proud to support these conservative leaders who understand the importance of keeping the United States the global leader in AI innovation",
+"what_it_shows": "The pro-innovation AI super PAC (backed by AI industry money) counts him as a champion of its national-framework, innovation-first agenda."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8005 (118th), Child Exploitation and Artificial Intelligence Expert Commission Act of 2024",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8005",
+"date": "2024-04-15",
+"quote": null,
+"what_it_shows": "Backed a study commission on AI and child exploitation, again a research-first approach."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Fry backs targeted tech rules: he sponsored the App Store Freedom Act to force Apple and Google to allow outside app stores and payments, cosponsored several bills making platforms report child abuse material, backed banning TikTok on campuses, and sits on the Energy and Commerce committee that advanced the KIDS Act package. He also cosponsored a bill barring federal officials from pressuring platforms to remove posts.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 5313, App Store Freedom Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5313",
+"date": "2025-09-11",
+"quote": null,
+"what_it_shows": "Wants to regulate Apple and Google app store practices (sponsorship confirmed on govtrack)."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 5182 (118th), Child Online Safety Modernization Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2023-09-12",
+"quote": null,
+"what_it_shows": "Supports stronger platform reporting duties on child abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 5082 (118th), REPORT Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5082",
+"date": "2023-09-22",
+"quote": null,
+"what_it_shows": "Another platform reporting requirement for child exploitation."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 231 (118th), Terminate TikTok on Campus Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/231",
+"date": "2023-01-11",
+"quote": null,
+"what_it_shows": "Backed restricting a Chinese-owned app on federally funded campuses."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 140 (118th), Protecting Speech from Government Interference Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/140",
+"date": "2023-02-27",
+"quote": null,
+"what_it_shows": "Opposes government pressure on platforms to take down posts; a limit on regulators rather than on companies."
+},
+{
+"type": "statement",
+"title": "WMBF: KIDS Act heads to Senate; Fry sits on committee that advanced it",
+"url": "https://www.wmbfnews.com/2026/07/18/kids-act-heads-senate-sc-task-force-works-protect-children-online/",
+"date": "2026-07-17",
+"quote": null,
+"what_it_shows": "Local coverage notes he is on the Energy and Commerce committee that moved the House kids online safety package with rules for platforms and AI chatbots."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on federal preemption or a moratorium on state AI laws. He is not a cosponsor of the GUARDRAILS Act or the uniformity bill and did not appear in the preemption letters or statements listed in the research context. Leading the Future, which backs him, favors a national framework, but that is the PAC's view, not his.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on export controls or Nvidia chip sales to China. At an April 2026 Energy and Commerce hearing he spoke about building more of the semiconductor supply chain at home while balancing trade and industry interests.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Energy and Commerce release: CMT Subcommittee hearing on the semiconductor ecosystem and supply chain",
+"url": "https://energycommerce.house.gov/posts/cmt-subcommittee-holds-hearing-on-the-semiconductor-ecosystem-and-supply-chain",
+"date": "2026-04-15",
+"quote": "The goal should be to expand domestic capacity, strengthen supply chains, and make sure more of the semiconductor ecosystem is built here at home.",
+"what_it_shows": "Focus on domestic chip manufacturing; he did not address export controls or China sales."
+}
+]
+}
+},
+"signature": "Senate candidate who attacked 'unfettered' data centers without local control, sponsor of the App Store Freedom Act, and on Leading the Future's House GOP champions list",
+"notable_quote": {
+"text": "We had an earth-shattering moment last night, where one of the candidates who's not on stage said that she wanted unfettered data centers in the state of South Carolina without local control, without local buy-in",
+"url": "https://www.eenews.net/articles/energy-politics-prominent-in-big-south-carolina-senate-primary/",
+"date": "2026-08-04"
+},
+"groups": [
+"Member, House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
+"Member, House Energy and Commerce Subcommittees on Energy, Communications and Technology, and Commerce, Manufacturing, and Trade",
+"House Energy and Commerce Republican Privacy Working Group (member, confirmed via IAPP Feb 2025)",
+"Congressional Artificial Intelligence Caucus (member, per landscape research; caucus site unreachable Sept 2026 so not independently verified)"
+],
+"search_notes": "Searches: 'Russell Fry artificial intelligence'; 'Russell Fry AI'; 'Russell Fry data center'; 'Russell Fry App Store Freedom Apple Google'; 'Russell Fry AI state laws preemption moratorium'; 'Fry unfettered data centers'; 'Fry data centers local control debate'; 'Fry AI Judiciary hearing copyright'; 'Russell Fry semiconductor chips Nvidia export controls'; 'Fry ratepayers electricity bills'; 'Leading the Future South Carolina Senate Fry'; 'Kids Internet Safety Partnership Act'; 'Fry Unloads Graham'. Opened: E&E News primary story (debate quote), FITSNews Aug 5 campaign release story, Energy and Commerce ratepayer hearing and semiconductor hearing releases, fry.house.gov news list and KISPA release, govtrack H.R. 5313 page and roll call 356, Breitbart Leading the Future list, IAPP privacy working group story, WMBF KIDS Act story, WIS and WACH debate stories (no Fry data center quote), KUTV endorsement story. Could not open: The State fact-check on Fry and the Graham PAC (timed out, no archive), The Hill and Post and Courier debate takeaways (URLs not decoded), Fry campaign site (404), Tech Policy Press KIDS Act piece (redirect error). No App Store Freedom Act press release found on his site."
+}
+]

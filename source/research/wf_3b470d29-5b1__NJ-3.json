@@ -1,0 +1,694 @@
+[
+{
+"bioguide": "K000398",
+"name": "Thomas H. Kean, Jr.",
+"signature": "Energy and Commerce Republican who writes chip export enforcement and deepfake bills, voted in committee for the 2025 freeze on state AI laws, and later joined ratepayer and local control data center bills while under fire for AI stock trades.",
+"notable_quote": {
+"text": "Proper guardrails and transparency are essential for fostering a sense of responsibility among AI companies and individuals using AI.",
+"date": "2024-01-16",
+"url": "https://kean.house.gov/media/press-releases/kean-takes-action-end-ai-generated-deepfake-pornography"
+},
+"groups": [
+"House Energy and Commerce Republican Privacy Working Group (member)"
+],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed record with no public statements. In May 2025 he voted in committee to keep a federal freeze that would have blocked state and local data center rules, and in December 2025 he voted for permitting reform. In July and September 2026 he joined bipartisan bills to keep data center costs off electric bills and to protect local zoning over data centers, while news reports showed he profited from AI data center stocks.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Ratepayer Protection Act (H.R.9340)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "He joined the bipartisan bill meant to keep household electric bills from rising to pay for data center power."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Local Control Protection Act (H.R.9262)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9262",
+"date": "2026-09-04",
+"quote": null,
+"what_it_shows": "The bill protects local governments' zoning power over data center development and ties federal tax incentives to community benefit agreements."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Load Forecasting Enhancement Act (H.R.9332)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9332",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "He backed a bipartisan bill to improve utility forecasts of large new loads like data centers so ratepayers are not overcharged."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on SPEED Act (H.R.4776) permitting reform, passed 221-196",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for the Republican permitting reform bill that speeds environmental review for energy and infrastructure projects, including those serving data centers."
+},
+{
+"type": "other",
+"title": "CAP Action report: House Republicans voted to block state and local data center protections",
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"date": "2026-08-24",
+"quote": "Rep. Tom Kean (R-NJ) voted four separate times for the state and local AI moratorium in the House OBBBA bill",
+"what_it_shows": "An advocacy group's review of committee and floor roll calls says the 2025 moratorium he supported would likely have blocked New Jersey's new data center rules."
+},
+{
+"type": "other",
+"title": "Insider NJ reprint of Gothamist/WNYC: Kean profited from AI data center stocks",
+"url": "https://www.insidernj.com/press-release/nj-rep-kean-profited-from-ai-stocks-as-data-center-backlash-grew-gothamist-wnyc/",
+"date": "2026-07-29",
+"quote": "Since at least 2025, Kean has purchased shares in three companies, Texas Instruments, NVent and Analog Devices, worth at least $90,000 since April 2025.",
+"what_it_shows": "Reporting on his financial disclosures shows personal gains from data center supply chain stocks; his spokesperson did not respond on the trades."
+},
+{
+"type": "other",
+"title": "Union News Daily: students march in Summit demanding Kean dump Big Tech",
+"url": "https://unionnewsdaily.com/news/summit/students-march-in-summit-demand-kean-return-donation-and-dump-big-tech/",
+"date": "2026-08-27",
+"quote": "more than 100 high school students and young people marched through downtown Summit to tell Rep. Tom Kean Jr. (NJ-7) to stop taking money from AI companies",
+"what_it_shows": "Shows local pressure on him over data centers and AI donations; the article records no response from Kean."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted rules: labels on AI content and chatbots, federal penalties and lawsuits for sexual deepfakes, and oversight letters pressing AI companies on security. He also backs AI literacy and voluntary model labels. He voted in 2025 to freeze state AI laws, which cuts against new rules.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: AI Labeling Act of 2023 (H.R.6466, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6466",
+"date": "2023-11-21",
+"quote": null,
+"what_it_shows": "His own bill would require clear labels on AI-made pictures, video and text and disclosure when people talk to a chatbot."
+},
+{
+"type": "statement",
+"title": "Press release: Kean introduces bill for transparency on AI-generated content",
+"url": "https://kean.house.gov/media/press-releases/kean-introduces-bill-provide-more-transparency-ai-generated-content",
+"date": "2023-11-27",
+"quote": "a bill that would help ensure people know when they are viewing AI-made content or interacting with an AI chatbot by requiring clear labels and disclosures",
+"what_it_shows": "He framed the bill as a response to the Westfield High School deepfake incident in his district."
+},
+{
+"type": "statement",
+"title": "Press release: Kean and Morelle press conference on AI deepfake pornography",
+"url": "https://kean.house.gov/media/press-releases/kean-takes-action-end-ai-generated-deepfake-pornography",
+"date": "2024-01-16",
+"quote": "We live in a highly advanced technological world that is ever-changing and proper oversight is necessary. Addressing AI is a bipartisan issue",
+"what_it_shows": "He called for oversight and guardrails on AI companies while cosponsoring the Preventing Deepfakes of Intimate Images Act."
+},
+{
+"type": "letter",
+"title": "Press release: Kean letters to AI company CEOs on security lapses and voluntary commitments",
+"url": "https://kean.house.gov/media/press-releases/kean-urges-ai-companies-tackle-security-risks-amid-rising-threats",
+"date": "2024-12-11",
+"quote": "Congressman Kean’s letter calls for immediate Congressional oversight and urges the AI companies to provide a detailed overview of their efforts to prevent security breaches and safeguard AI technologies.",
+"what_it_shows": "He pressed frontier AI firms on whether they are keeping their White House voluntary security commitments."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: DEFIANCE Act of 2025 (H.R.3562)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-20",
+"quote": null,
+"what_it_shows": "Lets victims sue people who make or share AI sexual deepfakes of them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (H.R.633)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "Criminalizes posting real or AI-faked sexual images and forces fast takedowns."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: LIFT AI Act (H.R.5584)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5584",
+"date": "2025-09-26",
+"quote": null,
+"what_it_shows": "His bill funds K-12 AI literacy through the National Science Foundation."
+},
+{
+"type": "statement",
+"title": "Press release: Kean, Amo reintroduce LIFT AI Act",
+"url": "https://kean.house.gov/media/press-releases/kean-amo-reintroduce-bill-improve-artificial-intelligence-literacy-k-12",
+"date": "2025-09-26",
+"quote": "With artificial intelligence advancing faster than ever, we must ensure the next generation is prepared to use AI effectively and responsibly",
+"what_it_shows": "His AI framing is about preparing students, not restricting the technology."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: READ AI Models Act (H.R.6461)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6461",
+"date": "2026-06-23",
+"quote": null,
+"what_it_shows": "Backs a voluntary NIST label describing what an AI model is and how it was trained."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted rules for kids and consumers: his own Safer GAMING Act for parental controls in online games, Sammy's Law, the TAKE IT DOWN Act, and a crackdown on foreign robocalls. He sits on the House Republican working group drafting a federal privacy law. No calls for breakups or Section 230 repeal.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: Safer GAMING Act (H.R.6265)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6265",
+"date": "2025-11-21",
+"quote": null,
+"what_it_shows": "Requires online video games to give parents controls to block chat and contact from strangers, enforced by the FTC."
+},
+{
+"type": "statement",
+"title": "WRNJ Radio: Kean introduces bill on parental controls in online video games",
+"url": "https://wrnjradio.com/kean-introduces-bill-aimed-at-strengthening-parental-controls-in-online-video-games/",
+"date": "2025-11-27",
+"quote": "My new bill would add critical parental controls, giving parents the option to turn off chat functions and prevent unsafe interactions with adults and strangers.",
+"what_it_shows": "In his own words, he wants platforms required to build in child safety tools."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Sammy’s Law (H.R.2657)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2025-10-24",
+"quote": null,
+"what_it_shows": "Requires big social media sites to let parents use third-party safety apps."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Foreign Robocall Elimination Act (H.R.6152)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "Supports a crackdown on scam robocalls from abroad."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Foreign Adversary Communications Transparency Act (H.R.906)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/906",
+"date": "2025-01-31",
+"quote": null,
+"what_it_shows": "Requires the FCC to publish a list of telecom companies tied to China and other adversaries."
+},
+{
+"type": "other",
+"title": "IAPP: House Republicans organize a privacy working group",
+"url": "https://iapp.org/news/a/a-view-from-dc-us-house-republicans-organize-a-privacy-working-group",
+"date": "2025-02-14",
+"quote": "Three members are beginning their second terms: Reps. Russell Fry, R-S.C., Nick Langworthy, R-N.Y., and Tom Kean, R-N.J.",
+"what_it_shows": "He was named to the Energy and Commerce Republican group tasked with writing a comprehensive federal privacy law."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "He voted four times in 2025, three in committee and once on the House floor, to keep the 10-year freeze on state AI laws in the budget bill, including against an amendment to strike it. He has made no public statement on preemption. His September 2026 cosponsorship of a bill protecting local zoning over data centers leans the other way on local control.",
+"evidence": [
+{
+"type": "other",
+"title": "CAP Action report on Energy and Commerce committee votes on the state AI moratorium",
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"date": "2026-08-24",
+"quote": "with Reps. Evans, James, Kean, and Miller-Meeks all voting to keep the AI moratorium in OBBBA",
+"what_it_shows": "At the May 13-14, 2025 markup he voted against Pallone's amendment to strike the moratorium and twice more to advance text containing it."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on House passage of H.R.1 (roll call 145), which included the 10-year state AI law moratorium",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House budget bill containing the moratorium; this was a party-line vote on the whole bill, so it is a weaker signal than the committee votes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Local Control Protection Act (H.R.9262)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9262",
+"date": "2026-09-04",
+"quote": null,
+"what_it_shows": "A counter-signal: this bill protects local governments' authority to make zoning decisions about data centers."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "A consistent hawk on chips and China. He wrote the Stop Stealing Our Chips Act to pay and protect whistleblowers who report chip smuggling, cosponsors the Chip Security Act and AI OVERWATCH Act, sponsors a bill to keep China out of undersea cables, and pressed AI companies about leaks to Chinese firms.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: Stop Stealing our Chips Act (H.R.6322)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6322",
+"date": "2025-11-28",
+"quote": null,
+"what_it_shows": "His bill creates a whistleblower reward program at the Bureau of Industry and Security for export control violations."
+},
+{
+"type": "statement",
+"title": "Press release: Kean, Johnson introduce bill to protect American AI chips",
+"url": "https://kean.house.gov/media/press-releases/kean-johnson-introduce-bill-protect-american-ai-chips-strengthening-export",
+"date": "2025-12-03",
+"quote": "China and other foreign adversaries are actively working to circumvent U.S. export control laws and illegally obtain advanced American chips and other sensitive technologies.",
+"what_it_shows": "He frames chip smuggling to China as a national security threat that needs stronger enforcement."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Chip Security Act (H.R.3447)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-09-08",
+"quote": null,
+"what_it_shows": "Requires location verification on advanced AI chips to catch diversion to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI OVERWATCH Act (H.R.6875)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-01-08",
+"quote": null,
+"what_it_shows": "Gives Congress power to block advanced AI chip sales to China before they happen."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Undersea Cable Control Act (H.R.2503)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2503",
+"date": "2025-03-31",
+"quote": null,
+"what_it_shows": "Seeks to deny China the parts needed to build and run undersea internet cables."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: BIS IT Modernization Act (H.R.4920)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4920",
+"date": "2025-08-08",
+"quote": null,
+"what_it_shows": "Supports upgrading the export control agency's computer systems."
+},
+{
+"type": "letter",
+"title": "Press release: Kean letters to AI CEOs cite leaks to Chinese firms",
+"url": "https://kean.house.gov/media/press-releases/kean-urges-ai-companies-tackle-security-risks-amid-rising-threats",
+"date": "2024-12-11",
+"quote": "these breaches could potentially expose U.S. technological breakthroughs to theft by foreign adversaries, particularly the Chinese Communist Party (CCP)",
+"what_it_shows": "He treats protecting American AI models and trade secrets from China as a core concern."
+}
+]
+}
+},
+"search_notes": "Searches: Tom Kean AI; data center; Big Tech/Section 230/KOSA; chatbot/deepfake/preemption; Safer GAMING/privacy working group; Ratepayer/Local Control/PJM; Andover data center; Gothamist stock story; Summit march. Opened his site listing and six press releases, CAP Action report, govtrack cosponsor pages for H.R.9340, 9262, 9332, roll calls h145, h356, h228, IAPP, WRNJ, Union News Daily, Insider NJ reprint. Kean was absent from Congress roughly March to June 30, 2026 (depression diagnosis) and recorded No Vote on the June 29, 2026 KIDS Act roll call. The Gothamist original was blocked (403); the Insider NJ page is a Democratic-aligned release quoting Gothamist verbatim. No statements found on data centers, preemption, or Nvidia China sales. Wayback Machine was down during the session, and the Legis1 NJ-7 money article could not be decoded."
+},
+{
+"bioguide": "M001226",
+"name": "Robert Menendez",
+"signature": "House Democrat who wrote the PRICE Act and Data Center Transparency Act to make AI data centers generate their own clean power and disclose usage, opposes preempting state AI laws, and won his 2026 primary with backing from the AI industry super PAC Leading the Future.",
+"notable_quote": {
+"text": "New Jersey families have seen their electricity bills increased by 20% because of the rapid growth of energy-intensive AI data centers.",
+"date": "2026-01-08",
+"url": "https://menendez.house.gov/media/press-releases/-menendez-casar-introduce-groundbreaking-legislation-to-protect-americans-from-financial-and-environmental-impacts-of-ai-data-centers"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Ratepayers first. He wrote bills requiring data centers to generate their own power, go fully renewable by 2040, and publicly report energy and water use, cosponsored the Data Center Community Impact Act and a bipartisan load forecasting bill, and signed a letter pressing FERC and utilities on cost shifting. He has not joined the national moratorium bill.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: Data Center Transparency Act (H.R.6984)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6984",
+"date": "2026-01-08",
+"quote": null,
+"what_it_shows": "His bill makes EPA and EIA collect and publish data center energy and water use and effects on household bills."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: PRICE Act (H.R.6983)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6983",
+"date": "2026-01-08",
+"quote": null,
+"what_it_shows": "His bill requires data centers to generate their own electricity and move to 100 percent renewable sources by 2040."
+},
+{
+"type": "statement",
+"title": "Press release: Menendez, Casar introduce legislation on AI data center impacts",
+"url": "https://menendez.house.gov/media/press-releases/-menendez-casar-introduce-groundbreaking-legislation-to-protect-americans-from-financial-and-environmental-impacts-of-ai-data-centers",
+"date": "2026-01-08",
+"quote": "New Jersey families have seen their electricity bills increased by 20% because of the rapid growth of energy-intensive AI data centers.",
+"what_it_shows": "He ties New Jersey's rate hikes directly to AI data centers and wants the industry to carry its own costs."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: Load Forecasting Enhancement Act (H.R.9332, with Rep. Balderson)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9332",
+"date": "2026-06",
+"quote": null,
+"what_it_shows": "He co-led a bipartisan bill to improve utility forecasts of large loads so ratepayers do not pay for over-building."
+},
+{
+"type": "statement",
+"title": "Press release: Menendez and Balderson applaud advancement of grid reliability bill",
+"url": "https://menendez.house.gov/media/press-releases/menendez-and-balderson-applaud-advancement-of-key-grid-reliability-bill",
+"date": "2026-06-24",
+"quote": "Families across America are facing rapidly rising utility bills as a result of unprecedented strain on our power grids, including increased demand from AI data centers",
+"what_it_shows": "He repeats the ratepayer framing as the Energy Subcommittee advanced his bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Data Center Community Impact Act (H.R.7858)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7858",
+"date": "2026-03-05",
+"quote": null,
+"what_it_shows": "Requires developers to show how data centers affect nearby towns' power, water and bills."
+},
+{
+"type": "letter",
+"title": "Mullin-led letter from 20 House Democrats to FERC, Edison Electric Institute and the Data Center Coalition on data center energy costs",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"date": "2025-10-28",
+"quote": null,
+"what_it_shows": "He co-signed questions on how grid upgrade costs will be kept off household bills and what cost allocation tools Congress should consider."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on SPEED Act (H.R.4776) permitting reform",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the Republican permitting bill that would speed approvals for energy projects."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward targeted guardrails while praising AI's potential. He voted for the House KIDS Act with its chatbot rules for minors, cosponsored the deepfake bill in the last Congress, and wrote a bill to use AI to defend phone networks. The AI industry super PAC Leading the Future endorsed him, which suggests it sees him as friendly to the industry.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Menendez on AI innovation and constituents (data center bills)",
+"url": "https://menendez.house.gov/media/press-releases/-menendez-casar-introduce-groundbreaking-legislation-to-protect-americans-from-financial-and-environmental-impacts-of-ai-data-centers",
+"date": "2026-01-08",
+"quote": "While AI innovation is promising, we must ensure that our constituents are not negatively impacted because of the industry’s continued growth",
+"what_it_shows": "His baseline framing is pro-innovation with protections for people affected."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: AI for Secure Networks Act (H.R.7294)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7294",
+"date": "2026-01-30",
+"quote": null,
+"what_it_shows": "His bipartisan bill with Rep. Pfluger has the government study using AI to protect telecom networks from cyberattacks."
+},
+{
+"type": "statement",
+"title": "Press release: Menendez, Pfluger introduce AI for Secure Networks Act",
+"url": "https://menendez.house.gov/media/press-releases/menendez-pfluger-introduce-legislation-to-protect-communities-from-ai-driven-cyberattacks",
+"date": "2026-02-03",
+"quote": "Artificial intelligence holds tremendous potential to strengthen the security and resilience of the telecommunications networks Americans rely on every day",
+"what_it_shows": "He sees AI as a defensive tool, not mainly a danger."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on KIDS Act (H.R.7757), passed 267-117 under suspension",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He backed the House kids online safety package, which includes rules for AI chatbots used by minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Preventing Deepfakes of Intimate Images Act (H.R.3106, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2023-12-05",
+"quote": null,
+"what_it_shows": "Supported making AI sexual deepfakes illegal with a right to sue."
+},
+{
+"type": "pac",
+"title": "Washington Reporter: Leading the Future backs Democratic incumbents including Menendez",
+"url": "https://washingtonreporter.news/exclusive-pro-ai-super-pac-spending-big-for-sen-lindsey-graham-and-rep-kevin-hern/",
+"date": "2026-06-02",
+"quote": "Leading the Future has also backed Democratic incumbents, like Reps. Richie Torres (D., N.Y.), Val Hoyle (D., Ore.), and Rob Menendez (D., N.J.).",
+"what_it_shows": "The AI industry super PAC network endorsed him ahead of his June 2, 2026 primary win over Mussab Ali."
+},
+{
+"type": "pac",
+"title": "AI Money Watch candidate list: Rob Menendez endorsed by Leading the Future",
+"url": "https://aimoneywatch.org/people",
+"date": null,
+"quote": null,
+"what_it_shows": "A Demand Progress tracker of FEC filings lists him among candidates endorsed by Leading the Future."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Thin record pointing to targeted rules. He voted for the House KIDS Act kids online safety package in June 2026 and cosponsored the deepfake bill in the last Congress. No statements found on Section 230, antitrust or privacy law.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on KIDS Act (H.R.7757), passed 267-117",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He supported new design, default setting and privacy rules for platforms used by kids."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Preventing Deepfakes of Intimate Images Act (H.R.3106, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2023-12-05",
+"quote": null,
+"what_it_shows": "Supported platform-related penalties for sharing AI sexual deepfakes."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Wants states free to regulate AI. He cosponsored the GUARDRAILS Act to stop the federal government from wiping out state AI laws and signed the November 2025 letter from 81 House Democrats opposing a moratorium in the defense bill or by executive order.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: GUARDRAILS Act (H.R.8031)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Backs a bill protecting states' right to pass their own AI safety laws against federal preemption."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Menendez is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "we strongly oppose related proposals under consideration for a presidential executive order that would attempt to preempt duly enacted state AI laws",
+"what_it_shows": "He put his name on a direct rejection of both a congressional moratorium and the planned executive order."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on House passage of H.R.1 (roll call 145), which contained the state AI law moratorium",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted against the budget bill that carried the moratorium; a party-line vote on the whole bill, so a weak signal on its own."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of September 2026. Searches for Menendez with Nvidia, semiconductors, chips and export controls turned up nothing from him. A 2024 letter on export control funding attributed to a Menendez was from his father, then-Senator Bob Menendez, not Rep. Rob Menendez.",
+"evidence": []
+}
+},
+"search_notes": "Searches: Rob Menendez data center; artificial intelligence; Leading the Future/Think Big/super PAC; chatbot/deepfake/Big Tech/preemption/export controls; GUARDRAILS/state AI laws; Nvidia/chips; Mussab Ali AI; AI Caucus. Opened his site listing, three press releases, govtrack pages for H.R.9340, 9442, 9332, 6983, 7977, roll calls h145, h356, h228, the Matsui letter PDF (extracted locally; his name appears on page 7), the Mullin/Beyer letter page, Washington Reporter, aimoneywatch. The Hudson County View piece on the Ali-Menendez fight over AI plans and the NJ Globe piece on Think Big spending (reported $661,899) were blocked (403, Wayback down), so no quotes or dollar figures from them are used. FEC API was rate limited so Think Big totals were not pulled. His listed Congressional AI Caucus membership could not be confirmed (caucus site unreachable; his official site lists no caucuses), so it is left out of groups. He is not a cosponsor of the AI Data Center Moratorium Act (govtrack shows No). A Palantir review release from Feb 2026 is gone from his site (410)."
+},
+{
+"bioguide": "P000621",
+"name": "Nellie Pou",
+"signature": "First-term Democrat with no AI bills or statements found; her only AI-related action is a yes vote on the House KIDS Act kids online safety package in June 2026.",
+"notable_quote": null,
+"groups": [],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement on data centers found as of September 2026. She voted against the SPEED Act permitting bill and cosponsored the Energy Bills Relief Act, but neither is a stated position on data centers. A May 2025 delegation letter to PJM that she reportedly signed could not be verified because the letter PDF was blocked.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Energy Bills Relief Act (H.R.7977)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-04-20",
+"quote": null,
+"what_it_shows": "She joined a Democratic bill on household energy bill relief; the bill is not specific to data centers and she made no statement about it."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on SPEED Act (H.R.4776) permitting reform",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She opposed the Republican permitting bill; this is a general energy vote, not a data center position."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searches of her press releases, news coverage and bill record for AI, chatbots, deepfakes and AI safety turned up nothing; her record shows no AI bills sponsored or cosponsored in the 118th or 119th Congress.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Her one recorded action is a yes vote on the House KIDS Act, the kids online safety package with new design, default setting and privacy rules for platforms. No statements or bills of her own on Big Tech, privacy or Section 230 were found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on KIDS Act (H.R.7757), passed 267-117 under suspension",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "She supported the bipartisan kids online safety package that Pallone co-negotiated."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. She did not sign the November 2025 Matsui letter or the December 2025 Clarke letter against preempting state AI laws and is not a GUARDRAILS Act cosponsor. Her Nay vote on the House budget bill that carried the moratorium was a party-line vote on the whole bill and is not counted as a position.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searches for Pou with chips, Nvidia, export controls and China returned nothing.",
+"evidence": []
+}
+},
+"search_notes": "Searches: Nellie Pou artificial intelligence/AI; data center/electricity; chatbot/deepfake/Big Tech/social media/privacy; PJM/utility bills; KOSA/TikTok/Take It Down/cybersecurity; Rep. Pou AI; AFL-CIO AI campaign. Opened her site listing (only two archived pages), live press release index (World Cup, ICE, aviation, flooding; nothing on AI), committees and caucuses page (no AI caucus), govtrack H.R.7977 cosponsors, roll calls h145, h356, h228, the Clarke letter (not a signer), the Matsui letter PDF (not a signer), the voz.us data center piece (mentions her only in an unrelated headline). The Kim-Booker PJM letter lead could not be verified: the Booker PDF returned 403, Wayback was down, and the Kim release text does not list signers. The NJ AFL-CIO AI campaign article could not be decoded or opened."
+},
+{
+"bioguide": "M001229",
+"name": "LaMonica McIver",
+"signature": "Newark Democrat who wrote the AI Data Center Site Selection Transparency Act after the Kenilworth fight and cosponsors the national AI data center moratorium bill.",
+"notable_quote": {
+"text": "Your energy bills shouldn’t skyrocket because a developer snuck an AI data center into your neighborhood without giving you the opportunity to speak out.",
+"date": "2026-04-24",
+"url": "https://mciver.house.gov/media/press-releases/mciver-introduces-bill-to-stop-surprise-ai-data-center-development"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "high",
+"summary": "Wants a pause and strong community protections. She cosponsored the Artificial Intelligence Data Center Moratorium Act in June 2026 and wrote her own bill requiring developers to disclose planned AI data centers 180 days ahead, publish energy and water impacts, and stop using nondisclosure agreements with local governments. She cites the $1.8 billion Kenilworth project in her district.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: AI Data Center Site Selection Transparency Act of 2026 (H.R.8488)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8488",
+"date": "2026-04-23",
+"quote": null,
+"what_it_shows": "Her bill forces 180 days of public notice, multilingual outreach, independent impact analysis and limits on NDAs before AI data centers are built."
+},
+{
+"type": "statement",
+"title": "Press release: McIver introduces bill to stop surprise AI data center development",
+"url": "https://mciver.house.gov/media/press-releases/mciver-introduces-bill-to-stop-surprise-ai-data-center-development",
+"date": "2026-04-24",
+"quote": "Your energy bills shouldn’t skyrocket because a developer snuck an AI data center into your neighborhood without giving you the opportunity to speak out.",
+"what_it_shows": "She frames data centers as a cost and secrecy problem for residents, pointing to Kenilworth where neighbors learned of a $1.8 billion project through social media."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Artificial Intelligence Data Center Moratorium Act (H.R.9442)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "She joined Rep. Ocasio-Cortez's bill to pause new AI data centers until their effects on bills and the environment are addressed."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on SPEED Act (H.R.4776) permitting reform",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She opposed the Republican permitting bill that speeds approvals for energy and infrastructure projects."
+},
+{
+"type": "hearing",
+"title": "CyberScoop: House Homeland Security hearing on protecting data centers as critical infrastructure",
+"url": "https://cyberscoop.com/congress-industry-ponder-government-posture-for-protecting-data-centers/",
+"date": "2026-04-29",
+"quote": "Reps. Vince Fong, R-Calif., and LaMonica McIver, D-N.J., asked panel witnesses Wednesday about federal protection of them.",
+"what_it_shows": "On the Cybersecurity and Infrastructure Protection subcommittee she engaged on data center security; the report gives no policy stance from her."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward targeted guardrails based only on cosponsorships: a federal crime for AI sexual deepfakes and a ban on AI-made lies about voting before elections. No statements of her own on AI safety were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Preventing Deepfakes of Intimate Images Act (H.R.1941)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1941",
+"date": "2025-03-27",
+"quote": null,
+"what_it_shows": "Supports making it a federal crime to share AI sexual deepfakes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Deceptive Practices and Voter Intimidation Prevention Act of 2025 (H.R.4894)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "Supports banning AI-made false voting information in the two months before federal elections."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No clear position found. Her only recorded action is a Nay vote on the House KIDS Act in June 2026, when 85 Democrats also voted no; she gave no public reason, so the vote could reflect either opposition to the package's weaker protections or something else. No bills or statements on Big Tech, privacy or Section 230 were found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Nay on KIDS Act (H.R.7757), passed 267-117 under suspension",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "She opposed the Republican-led kids online safety package; her reason is not on the record."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. She did not sign the November 2025 Matsui letter or the December 2025 Clarke letter against preempting state AI laws and is not a GUARDRAILS Act cosponsor. Her Nay vote on the House budget bill that carried the moratorium was a party-line vote on the whole bill and is not counted.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searches for McIver with chips, Nvidia, export controls and China returned nothing.",
+"evidence": []
+}
+},
+"search_notes": "Searches: LaMonica McIver data center; artificial intelligence/AI; Kenilworth data center; chatbot/deepfake/Big Tech/moratorium/Ocasio-Cortez; Small Business AI hearing; Kenilworth statement or letter. Opened her site listing and two press releases (data center transparency bill; UPLIFT Act on energy bills), live press release index (dominated by her federal prosecution), committees and caucuses page (no AI caucus), Insider NJ reprint, CyberScoop, govtrack H.R.9442 and H.R.7977 cosponsors, roll calls h145, h356, h228, the Clarke letter (not a signer) and the Matsui letter PDF (not a signer). The TAPinto article on the August 2026 Union town hall about the Kenilworth data center rendered no text and was blocked through proxies, so her remarks there are not quoted. The Kim-Booker PJM letter she reportedly signed could not be verified (PDF blocked, Wayback down). She is also a cosponsor of the Energy Bills Relief Act (April 27, 2026), not listed as evidence because the bill is not data center specific."
+}
+]

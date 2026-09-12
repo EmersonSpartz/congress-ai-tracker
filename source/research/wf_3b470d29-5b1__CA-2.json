@@ -1,0 +1,537 @@
+[
+{
+"bioguide": "K000401",
+"name": "Kevin Kiley",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers found as of Sept 2026. He voted for the SPEED Act permitting bill in Dec 2025, but that bill is not specific to data centers and he did not comment on them.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: Yea on the SPEED Act (H.R. 4776), NEPA permitting reform",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He backed the general permitting-reform bill that industry framed as speeding energy and data center projects, but this is a package vote, not a stated position on data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Kiley treats advanced AI as a real and growing risk and wants federal money for AI safety and alignment research, plus stiffer penalties for AI-assisted fraud. He has not called for licensing, liability rules or a pause, so this is a targeted-guardrails stance.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 6402, Ensuring Safe and Ethical AI Development Through SAFE AI Research Grants Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6402",
+"date": "2025-12-03",
+"quote": null,
+"what_it_shows": "His own bill would create a federal grant program for research on making AI models safe and aligned, run through the National Academy of Sciences."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Kiley Calls on Congress to Pass AI Safety Bill",
+"url": "https://kiley.house.gov/posts/rep-kiley-calls-on-congress-to-pass-ai-safety-bill",
+"date": "2026-09-10",
+"quote": "The capabilities of frontier AI models are now accelerating rapidly, faster than many expected. Congress must act with urgency.",
+"what_it_shows": "He frames frontier AI as advancing faster than expected and says keeping models under human control and aligned with human values is critical."
+},
+{
+"type": "statement",
+"title": "Press release: Kiley introduces the SAFE AI Research Grants Act (first version)",
+"url": "https://kiley.house.gov/posts/representative-kiley-introduces-the-ensuring-safe-and-ethical-ai-development-through-safe-ai-research-grants-act",
+"date": "2023-10-26",
+"quote": "Rapid advancements in artificial intelligence hold the promise of untold benefits to society, but also present unknown risks. Understanding those risks and taking measures to mitigate them is a task of the highest importance and urgency.",
+"what_it_shows": "Since 2023 he has described AI risk mitigation as an urgent federal priority, with research funding as his chosen tool."
+},
+{
+"type": "statement",
+"title": "Press release: Reps. Lieu and Kiley introduce the AI Fraud Deterrence Act",
+"url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-kiley-introduce-bill-increase-penalties-fraud-using-ai",
+"date": "2024-11-15",
+"quote": "By strengthening penalties for criminal misuse, we make it likelier that innovation will serve the public good.",
+"what_it_shows": "He co-led a bipartisan bill to raise maximum fines for wire, mail and bank fraud committed with AI, a targeted criminal-law guardrail."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9497, AI Advancement and Reliability Act of 2024 (NIST center on trustworthy AI)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9497",
+"date": "2024-11-01",
+"quote": null,
+"what_it_shows": "Supports a federal research center on making AI systems reliable, consistent with his research-first approach."
+},
+{
+"type": "hearing",
+"title": "Press release: Chairman Kiley announces hearing 'From Chalkboards to Chatbots: The Impact of AI on K-12 Education'",
+"url": "https://kiley.house.gov/posts/chairman-kiley-announces-hearing-on-the-impact-of-ai-on-k-12-education",
+"date": "2025-03-25",
+"quote": null,
+"what_it_shows": "As education subcommittee chair he convened hearings on AI in schools in April 2025 and again in February 2026, showing sustained attention to AI's effects on children."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Kiley backs specific rules on tech: a federal crime for sharing intimate images without consent, higher penalties for AI fraud, and, as a state legislator, a law forcing large platforms to honor free speech. He also cosponsored a bill barring officials from pressuring platforms to remove posts. Targeted rules, mostly from a free-speech angle.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1218, SHIELD Act of 2025 (nonconsensual intimate images)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1218",
+"date": "2025-02-11",
+"quote": null,
+"what_it_shows": "Third Congress in a row he has cosponsored the SHIELD Act making it a federal crime to share private nude images without consent."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4791, Free Speech Protection Act (bars government pressure on platforms to remove posts)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4791",
+"date": "2023-07-20",
+"quote": null,
+"what_it_shows": "Shows his main tech concern is government-driven censorship on social media rather than antitrust or privacy."
+},
+{
+"type": "op_ed",
+"title": "CalMatters op-ed (as Assemblymember, with James Gallagher): Hold social media companies to founding principles of free speech",
+"url": "https://calmatters.org/commentary/2021/06/hold-social-media-companies-to-founding-principles-of-free-speech/",
+"date": "2021-06-15",
+"quote": "These companies have captured such a large swath of discourse that our constitutional guarantee of free speech will be a dead letter unless it is extended to their platforms.",
+"what_it_shows": "He proposed a California law (AB 1114) to apply free-speech protections to large platforms and argued Section 230 does not preempt state constitutional rights, a willingness to regulate Big Tech on speech grounds."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on preempting or pausing state AI laws, on the Dec 2025 executive order, or on the Mar 2026 White House framework. He voted for the House version of H.R. 1 in May 2025, which carried the 10-year moratorium, but that was a package vote and he did not address the AI provision.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: Yea on House passage of H.R. 1 (version containing the 10-year state AI law moratorium)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the reconciliation package that included the moratorium, but nearly all House Republicans did and he made no statement about the AI provision."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls, Nvidia sales to China, or related bills as of Sept 2026.",
+"evidence": []
+}
+},
+"signature": "Sponsor of the SAFE AI Act to fund AI safety and alignment research; left the GOP in March 2026 and in Sept 2026 urged Congress to act 'with urgency' on frontier AI.",
+"notable_quote": {
+"text": "The capabilities of frontier AI models are now accelerating rapidly, faster than many expected. Congress must act with urgency.",
+"url": "https://kiley.house.gov/posts/rep-kiley-calls-on-congress-to-pass-ai-safety-bill",
+"date": "2026-09-10"
+},
+"groups": [
+"Chair, House Education and Workforce Subcommittee on Early Childhood, Elementary, and Secondary Education (2025 to early 2026; convened AI-in-K-12 hearings)",
+"Member, House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+],
+"search_notes": "Ran 12 news queries (AI, data center, chatbot/deepfake/Big Tech, Nvidia/export controls, preemption/moratorium, AI copyright, K-12 AI hearing, SAFE AI, Kiley-Pan debate, electricity/PG&E, AI executive order) plus a kiley.house.gov site listing and fetches of five official posts, the Lieu release, the 2021 CalMatters op-ed, and govtrack roll calls 145 and 356. Kiley left the Republican Party in March 2026 and is running as an Independent in the new CA-6 against Richard Pan. EdSource and K-12 Dive coverage of his Feb 2026 AI-in-schools hearing was blocked (403/404), so no hearing quotes. Found nothing on data centers, preemption, chips, or AI super PAC spending."
+},
+{
+"bioguide": "T000460",
+"name": "Mike Thompson",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Thompson wants to 'pump the brakes' on data centers. He says communities should be able to say no, that data centers must pay their own way, and that none should be built without protections for water, electric rates and workers. He voted against the SPEED Act permitting bill but has not cosponsored any data center bill.",
+"evidence": [
+{
+"type": "statement",
+"title": "Yuba-Sutter Farm Bureau candidate forum remarks, reported by Patch",
+"url": "https://patch.com/california/sonomavalley/thompson-jones-take-data-center-growth-debate-report",
+"date": "2026-09-02",
+"quote": "The data center craze has the potential to displace agriculture, use all of our water and generate very few jobs",
+"what_it_shows": "He warned that data centers threaten farmland, water and jobs and said Congress needs to 'pump the brakes' on the rollout; his challenger Eric Jones went further and called for a national moratorium."
+},
+{
+"type": "statement",
+"title": "Follow-up email to Patch explaining what 'pumping the brakes' means",
+"url": "https://patch.com/california/sonomavalley/thompson-jones-take-data-center-growth-debate-report",
+"date": "2026-09-02",
+"quote": "And if a community is interested, the data center needs to pay its own way. No data centers without protections for our water, electric rates and workers.",
+"what_it_shows": "He wants local control (a community's no is final) and strict conditions on cost, water and labor before any project proceeds, which is a protect-ratepayers-first position rather than a ban."
+},
+{
+"type": "vote",
+"title": "House roll call 356: Nay on the SPEED Act (H.R. 4776), NEPA permitting reform",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the permitting-reform bill that backers said would speed energy and data center construction."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Thompson has pressed AI companies on chatbot safety, co-leading a June 2026 letter to OpenAI and Google DeepMind about chatbots linked to violence and self-harm and asking about safeguards for minors. He has not taken a position on frontier AI licensing or a pause.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release (via Quiver Quantitative): Reps. Foushee and Thompson urge AI executives to address chatbot safety concerns",
+"url": "https://www.quiverquant.com/news/Press+Release%3A+Reps.+Valerie+Foushee+and+Mike+Thompson+Urge+AI+Executives+to+Address+Chatbot+Safety+Concerns",
+"date": "2026-06-04",
+"quote": null,
+"what_it_shows": "With the Gun Violence Prevention Task Force, he wrote to OpenAI and Google DeepMind about chatbots used in discussions of violence and self-harm and asked for information on safeguards and user data practices, especially for minors; the original release on the members' sites is no longer online."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5077, CREATE AI Act of 2023 (national AI research resource)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5077",
+"date": "2023-11-02",
+"quote": null,
+"what_it_shows": "Supports public computing and data resources for AI research, a neutral pro-research position."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Thompson supports specific fixes: he cosponsored the Foreign Robocall Elimination Act and pressed AI chatbot makers on safety for minors. No record found on Section 230, antitrust or broad privacy law.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6152, Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Backs a crackdown on scam robocalls coming from abroad, a targeted consumer-protection rule."
+},
+{
+"type": "letter",
+"title": "Press release (via Quiver Quantitative): Foushee and Thompson letter to OpenAI and Google DeepMind on chatbot safety",
+"url": "https://www.quiverquant.com/news/Press+Release%3A+Reps.+Valerie+Foushee+and+Mike+Thompson+Urge+AI+Executives+to+Address+Chatbot+Safety+Concerns",
+"date": "2026-06-04",
+"quote": null,
+"what_it_shows": "Demanded transparency and accountability from major tech firms on chatbot products used by minors."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Thompson signed the Nov 2025 letter from 81 House Democrats opposing any revival of the state AI law moratorium in the defense bill and opposing an executive order to override state AI laws.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter of 81 House Democrats to Johnson, Thune, Jeffries and Schumer opposing an AI moratorium in the NDAA and a preemption executive order (Thompson is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "He joined a strong statement that states should keep the power to enforce their own AI laws and that the moratorium idea, already rejected 99-1 in the Senate, should not return via the NDAA or executive action."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China as of Sept 2026. His only chips-related item is a 2022 release applauding the CHIPS Act manufacturing subsidies, which is not about export controls.",
+"evidence": []
+}
+},
+"signature": "Wants to 'pump the brakes' on data centers with local control and make them pay their own way; signed the House Democrats' letter against preempting state AI laws and pressed OpenAI and Google on chatbot safety.",
+"notable_quote": {
+"text": "The data center craze has the potential to displace agriculture, use all of our water and generate very few jobs",
+"url": "https://patch.com/california/sonomavalley/thompson-jones-take-data-center-growth-debate-report",
+"date": "2026-09-02"
+},
+"groups": [],
+"search_notes": "Ran 10 news queries (data centers, AI, chatbot/deepfake/Big Tech, Nvidia/export controls, SPEED Act/preemption, Thompson-Jones race, Foushee chatbot letter, local Napa/Sonoma/Yolo coverage) plus a mikethompson.house.gov site listing, four pages of his press release index, Foushee's press index, and fetches of both Patch debate articles, the Quiver copy of the chatbot letter release, the Matsui letter PDF (downloaded and text-extracted; Thompson listed as signer), the Clarke letter (not a signer), the Casar and Mullin letters (not a signer), and govtrack roll calls 145 and 356. The Appeal-Democrat forum story and a Davis Vanguard piece on DHS surveillance could not be opened. His CA-4 challenger Eric Jones calls for a national data center moratorium. No AI super PAC activity found."
+},
+{
+"bioguide": "M001177",
+"name": "Tom McClintock",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers found as of Sept 2026. He voted for the SPEED Act permitting bill, which is not specific to data centers, and did not comment on them.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: Yea on the SPEED Act (H.R. 4776), NEPA permitting reform",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He backed the general permitting-reform bill, a package vote rather than a stated data center position."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements, bills or hearing remarks on AI risk or AI regulation found as of Sept 2026, despite searches of news, his website speeches, columns and vote notes.",
+"evidence": []
+},
+"tech_regulation": {
+"score": 1,
+"confidence": "medium",
+"summary": "McClintock is a consistent skeptic of government control over online platforms: he opposed the TikTok ban as unconstitutional, celebrated the defeat of SOPA/PIPA, and cosponsored a bill barring officials from pressuring platforms. One exception: in 2017 he voted to keep an FCC broadband privacy rule because consumers have no real choice of internet provider.",
+"evidence": [
+{
+"type": "statement",
+"title": "Floor speech: Rep. McClintock speaks on the TikTok debate",
+"url": "https://mcclintock.house.gov/newsroom/speeches/rep-mcclintock-speaks-tiktok-debate",
+"date": "2024-03-13",
+"quote": "If there are data privacy concerns, we should warn consumers and trust them to make their own decisions.",
+"what_it_shows": "He argued against banning or forcing a sale of TikTok, saying government should not gain power over communications platforms."
+},
+{
+"type": "statement",
+"title": "Vote note: H.R. 8038, Sanctions and TikTok Ban: No",
+"url": "https://mcclintock.house.gov/newsroom/vote-notes-legislation/hr-8038-sanctions-and-tiktok-ban-no",
+"date": "2024-04-20",
+"quote": "One is the ban on TikTok, which I believe is an unconstitutional violation of the First Amendment.",
+"what_it_shows": "He voted against the package that forced TikTok's sale, on free-speech grounds."
+},
+{
+"type": "statement",
+"title": "Vote note: S.J.Res. 34, Congressional Disapproval of FCC Rule on Broadband Privacy: No",
+"url": "https://mcclintock.house.gov/newsroom/vote-notes/hjres-34-congressional-disapproval-of-fcc-rule-on-broadband-privacy-no",
+"date": "2017-03-28",
+"quote": "As long as free choice cannot protect the consumer, rules like this are necessary.",
+"what_it_shows": "Contradictory evidence: he broke with most Republicans to defend a privacy rule on internet providers, because he saw no competitive market to protect consumers."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4791, Free Speech Protection Act (bars government pressure on platforms to remove posts)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4791",
+"date": "2023-07-20",
+"quote": null,
+"what_it_shows": "His tech focus is limiting government influence over platforms, not antitrust or new mandates on companies."
+},
+{
+"type": "statement",
+"title": "Floor speech: Freedom and the Internet, Victorious (on defeat of SOPA and PIPA)",
+"url": "https://mcclintock.house.gov/newsroom/speeches/freedom-and-the-internet-victorious",
+"date": "2012-01-23",
+"quote": "SOPA and PIPA pose a crippling danger to the Internet because they use the legitimate concern over copy-right infringement as an excuse for government to intrude upon and regulate the very essence of the Internet",
+"what_it_shows": "A long-standing view that internet regulation is government overreach, even when aimed at real problems like piracy."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on preempting or pausing state AI laws. He voted for the House version of H.R. 1 in May 2025, which contained the 10-year moratorium, but his own column on the bill never mentions AI and the vote was on the whole package.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: Yea on House passage of H.R. 1 (version containing the 10-year state AI law moratorium)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the reconciliation package that carried the moratorium, as nearly all House Republicans did, without addressing the AI provision."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on chip export controls or Nvidia sales to China. His opposition to the 2024 TikTok ban was about speech, not chips.",
+"evidence": []
+}
+},
+"signature": "Libertarian-leaning Judiciary member with no AI record; opposed the TikTok ban and SOPA as government overreach online.",
+"notable_quote": {
+"text": "If there are data privacy concerns, we should warn consumers and trust them to make their own decisions.",
+"url": "https://mcclintock.house.gov/newsroom/speeches/rep-mcclintock-speaks-tiktok-debate",
+"date": "2024-03-13"
+},
+"groups": [],
+"search_notes": "Ran 8 news queries (AI, 'artificial intelligence', data centers, TikTok/Section 230/Big Tech/antitrust/privacy, AI regulation/kill switch/chatbot/deepfake, Leading the Future) plus three mcclintock.house.gov site listings (AI/tech/energy words; H.R. 1 and speech/230 terms; kids/internet/FCC/FTC terms) and fetches of his TikTok speech, two vote notes, his SOPA speech, his Big Beautiful Bill column, and govtrack roll calls 145 and 356. His Big Beautiful Bill floor remarks page returned 403. Nothing found on AI, data centers, preemption or chips; no AI super PAC activity found."
+},
+{
+"bioguide": "B001287",
+"name": "Ami Bera",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers found as of Sept 2026. He voted against the SPEED Act permitting bill with most Democrats but has not cosponsored any data center bill or commented on projects.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: Nay on the SPEED Act (H.R. 4776), NEPA permitting reform",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the permitting-reform bill that backers tied to data center buildout, but this was a party-line vote with no data center statement."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Bera served on the House AI Task Force and says Congress must pass 'sensible and bipartisan AI regulations' and a federal framework. His bills favor labels on AI-made content, voluntary NIST guidance and AI for health care and workforce training, a targeted-guardrails approach rather than strict frontier rules.",
+"evidence": [
+{
+"type": "statement",
+"title": "San Jose Spotlight/NOTUS: California lawmakers celebrate AI moratorium stripped from bill (Bera comment)",
+"url": "https://sanjosespotlight.com/california-lawmakers-celebrate-ai-moratorium-stripped-from-bill/",
+"date": "2025-07-02",
+"quote": "We can't have a patchwork of 50 different AI laws and regulations. Congress needs to do its job, create a federal regulatory framework and pass sensible and bipartisan AI regulations",
+"what_it_shows": "He wants Congress to write binding but 'sensible' national AI rules rather than leave the field empty."
+},
+{
+"type": "other",
+"title": "Speaker Johnson and Leader Jeffries announce the Bipartisan House Task Force on AI (Bera named as member)",
+"url": "https://www.speaker.gov/2024/02/20/house-launches-bipartisan-task-force-on-artificial-intelligence/",
+"date": "2024-02-20",
+"quote": null,
+"what_it_shows": "He was one of 24 members who wrote the Dec 2024 task force report favoring a sectoral, incremental approach to AI guardrails."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7766, Protecting Consumers from Deceptive AI Act (labels and watermarks on AI content)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7766",
+"date": "2024-05-22",
+"quote": null,
+"what_it_shows": "Supports a binding transparency rule so people can tell when images, video or audio were made by AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9466, AI Development Practices Act of 2024 (voluntary NIST guidance)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9466",
+"date": "2024-09-20",
+"quote": null,
+"what_it_shows": "Also backs voluntary standards for responsible AI development, showing a mix of soft and hard tools."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5045, HEALTH AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5045",
+"date": "2025-08-26",
+"quote": null,
+"what_it_shows": "As a physician he pushes federal support for AI in health care, a pro-adoption stance."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9215, Workforce for AI Trust Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9215",
+"date": "2024-09-25",
+"quote": null,
+"what_it_shows": "Supports training programs for people who work on making AI safe and trustworthy."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Bera's tech record is limited to AI-specific fixes: labels on AI-generated content and studies of deepfake scams and election risks. Nothing found on Section 230, antitrust, kids' online safety or privacy law.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7766, Protecting Consumers from Deceptive AI Act (labels and watermarks on AI content)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7766",
+"date": "2024-05-22",
+"quote": null,
+"what_it_shows": "A targeted disclosure mandate on companies that make or host AI content."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5808, Preventing Deep Fake Scams Act (task force on AI scams in banking)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5808",
+"date": "2024-09-23",
+"quote": null,
+"what_it_shows": "Study-first approach to deepfake fraud rather than new liability rules."
+}
+]
+},
+"preemption": {
+"score": -1,
+"confidence": "medium",
+"summary": "Bera signed the Nov 2025 House Democratic letter opposing a state AI law moratorium and a preemption executive order, but he also says a 50-state patchwork is unworkable and Congress should write a federal framework. He wants a federal law first, with states not frozen out in the meantime.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter of 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Bera is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "He opposed reviving the moratorium or using an executive order to override state AI laws while no federal rules exist."
+},
+{
+"type": "statement",
+"title": "San Jose Spotlight/NOTUS: Bera welcomes Senate stripping the AI moratorium but calls for a federal framework",
+"url": "https://sanjosespotlight.com/california-lawmakers-celebrate-ai-moratorium-stripped-from-bill/",
+"date": "2025-07-02",
+"quote": "We can't have a patchwork of 50 different AI laws and regulations. Congress needs to do its job, create a federal regulatory framework and pass sensible and bipartisan AI regulations",
+"what_it_shows": "He was glad the moratorium failed but wants one national framework, so his position is conditional rather than pure states' rights."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Bera has cosponsored a string of bills to block the most powerful chips from going to China, put export-control officers overseas, audit whether chip controls work, and bar U.S. money from funding Chinese AI and chip firms. No statements found, but the pattern is consistently hawkish.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5022, No Advanced Chips for the CCP Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5022",
+"date": "2025-08-22",
+"quote": null,
+"what_it_shows": "Backs blocking sales of the most advanced AI chips to China, the opposite of the H20/H200 sales approach."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4505, Export Controls Enforcement Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4505",
+"date": "2026-04-21",
+"quote": null,
+"what_it_shows": "Wants at least 20 export-control officers stationed abroad to catch chip smuggling."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8287, Semiconductor Controls Effectiveness Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8287",
+"date": "2026-04-21",
+"quote": null,
+"what_it_shows": "Supports a government study of whether chip controls on China are working."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8288, Strengthening Export Controls Compliance Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8288",
+"date": "2026-04-21",
+"quote": null,
+"what_it_shows": "Backs helping small firms comply with export rules, part of a package tightening enforcement."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6349, Preventing Adversaries from Developing Critical Capabilities Act (outbound investment limits)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6349",
+"date": "2023-11-15",
+"quote": null,
+"what_it_shows": "Supported blocking American investment in Chinese AI and chip companies."
+}
+]
+}
+},
+"signature": "House AI Task Force alumnus and physician who wants a federal AI framework over a '50-state patchwork' yet signed the letter against the moratorium; steady cosponsor of chip export-control bills.",
+"notable_quote": {
+"text": "We can't have a patchwork of 50 different AI laws and regulations. Congress needs to do its job, create a federal regulatory framework and pass sensible and bipartisan AI regulations",
+"url": "https://sanjosespotlight.com/california-lawmakers-celebrate-ai-moratorium-stripped-from-bill/",
+"date": "2025-07-02"
+},
+"groups": [
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress), member",
+"Congressional Artificial Intelligence Caucus, member",
+"Ranking Member, House Foreign Affairs Subcommittee on East Asia and the Pacific"
+],
+"search_notes": "Ran 10 news queries (AI, data centers, AI framework/California, Nvidia/export controls/Chip Security, H200 rule, health AI bills, guardrails/task force, SMUD/electric bills, AI PACs) plus a bera.house.gov site listing (empty), his press release index and keyword search, his committees-and-caucuses page (confirms AI Caucus membership and East Asia subcommittee ranking role), the Speaker's Feb 2024 task force announcement (confirms membership), the San Jose Spotlight piece, the Matsui letter PDF (downloaded; Bera listed as signer), the Clarke, Casar and Mullin letters (not a signer), the Nextgov H200 article (no Bera comment), and govtrack roll calls 145 and 356. Fierce Healthcare (Sept 2025, Bera on a federal AI framework modeled on California) and FedScoop (Mar 2024 task force interview) were blocked (403/404) and the Wayback Machine was unreachable, so those quotes could not be verified. No AI super PAC activity found."
+}
+]

@@ -1,0 +1,432 @@
+[
+{
+"bioguide": "M001136",
+"checks": [
+{
+"url": "https://www.gop.gov/2025/12/11/house-passes-bill-to-protect-energy-supply-and-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Quote appears verbatim, attributed to Chairwoman McClain. Her statement covers grid reliability and family bills only; the AI data center line ('ensure we can power the artificial intelligence data centers of the future') is in Latta's statement, exactly as the claim says."
+},
+{
+"url": "https://www.gop.gov/2025/04/29/chairwoman-lisa-mcclain-chairman-guthrie-and-rep-salazar-celebrate-the-house-passing-legislation-to-protect-children/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-29",
+"note": "Quote appears verbatim (page uses curly apostrophe in I'm). Page redirects to a longer slug ending '-from-deepfake-exploitation/'. TAKE IT DOWN criminalizes NCII including AI deepfakes and mandates a platform notice-and-takedown process, so 'binding federal rule / targeted guardrail' is a fair characterization."
+},
+{
+"url": "https://www.cnbc.com/2026/06/12/lisa-mcclain-spacex-ipo-xai-investment-congress.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-12",
+"note": "Quote verbatim, from a January NewsNation interview as CNBC reports. Article confirms husband Michael's Dec. 15 purchase valued $100,001-$250,000, disclosed Jan. 7; Pentagon announced Grok integration into GenAI.mil days later. CNBC notes no evidence of insider trading and that she sits on no defense/tech oversight committees. Claim that this is a financial tie, not a policy position, is accurate."
+},
+{
+"url": "https://www.gop.gov/2025/04/29/chairwoman-lisa-mcclain-chairman-guthrie-and-rep-salazar-celebrate-the-house-passing-legislation-to-protect-children/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-29",
+"note": "Page states the bill 'requires covered internet platforms to establish and implement a notice and takedown process within one year of enactment' and criminalizes NCII publication; McClain voted for it and voiced support at a roundtable with the First Lady. Supports the claim."
+},
+{
+"url": "https://www.gop.gov/2025/04/29/chairwoman-lisa-mcclain-chairman-guthrie-and-rep-salazar-celebrate-the-house-passing-legislation-to-protect-children/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-29",
+"note": "Headline quote appears verbatim and is attributed to Chairwoman McClain."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "None of the five sources touches state-vs-federal AI preemption. Voting for a federal NCII law is not evidence of wanting to block states. Evidence is too thin for a directional score; suggest no position unless another source (e.g. a vote on an AI moratorium) is added.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "china_chips",
+"objection": "No source in the item list mentions export controls, chips, or China. The -1 'Leans hawkish' score has no supporting evidence here; suggest no position unless a chips-related vote or statement is sourced.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "J000307",
+"checks": [
+{
+"url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-08-30-2026/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-30",
+"note": "Transcript has James answering Brennan's local-control-vs-moratorium question: 'they're not mutually exclusive. They are the same.' followed by the quote verbatim. He also adds brownfields-over-farmland and 'Michigan is open for business, but we are not for sale.'"
+},
+{
+"url": "https://www.fox17online.com/news/morning-news/the-data-center-dilemma-where-michigan-governor-candidates-stand",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-28",
+"note": "Quote appears verbatim (the article oddly wraps the reporter's question inside the same quotation marks, but James's words match). Separate passage has him saying to use blighted brownfields before paving over productive farmland."
+},
+{
+"url": "https://bridgemi.com/michigan-government/where-michigan-governor-candidates-stand-on-data-centers-the-environment/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Quote verbatim. Page also has him saying public support must 'come with enforceable benchmarks and full transparency for affected communities' and says both candidates agree new data centers should not raise residential electricity rates."
+},
+{
+"url": "https://bridgemi.com/michigan-government/where-michigan-gubernatorial-candidates-stand-on-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-02",
+"note": "Campaign pointed Bridge to an X video where James called the state's approach 'crazy', called for 'transparency and local control by default', guardrails on power rates, brownfield siting, local tax benefit, and said 'Data centers are just one tool, but they're not the whole plan.'"
+},
+{
+"url": "https://www.freep.com/story/news/politics/2026/09/10/michigan-governor-candidates-call-for-data-center-pause/91672469007/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "freep.com returned 403 on repeated fetches; Wayback had no capture (503 then 404); WebFetch also blocked. Could not verify."
+},
+{
+"url": "https://bridgemi.com/michigan-government/fact-check-is-john-james-backed-by-data-center-developers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-21",
+"note": "Bridge tracked 'at least $113,850' from the Rakoltas or Walbridge officials since 2018; only $16,650 of it went to the gubernatorial campaign (so most predates the governor run). Utility PAC/worker donations 'approach' the $39,000 Johnson alleged."
+},
+{
+"url": "https://james.house.gov/news/documentsingle.aspx?DocumentID=1288",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-05",
+"note": "Quote verbatim (curly apostrophe). Release says the bill 'advanced out of the House Energy and Commerce Committee' and frames it as 'holding Big Tech accountable' to the same rules as small businesses."
+},
+{
+"url": "https://www.fox2detroit.com/news/rep-john-james-introduces-bill-expected-age-restrict-app-store-from-those-under-18",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-02",
+"note": "Quote verbatim; surrounding text has him saying 'kids cannot consent, and parents have a right to know' and calling the bill a step for parental rights."
+},
+{
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Names James as voting three times in the May 13-14, 2025 E&C markup for the moratorium, including rejecting Pallone's COMM19 amendment 29-24, plus the floor vote (four total). Quotes his June 'Number one, local control' line and calls it a flip-flop."
+},
+{
+"url": "https://www.freep.com/story/news/politics/2026/09/10/michigan-governor-candidates-call-for-data-center-pause/91672469007/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Same blocked Freep URL as item 5; no mirror available. The contradiction itself is independently documented by the CAP Action piece (item 9)."
+},
+{
+"url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-08-30-2026/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-30",
+"note": "Verbatim in the Aug. 30, 2026 Face the Nation transcript."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "Sources show a direct split: he voted four times in 2025 for the federal moratorium blocking state/local AI and data center rules, but his 2026 campaign line is 'Number one, local control' and 'Lansing should not be dictating to locals', and he wants to repeal state siting laws PA 233/235. Votes lean national, current rhetoric leans local; that is Mixed rather than 'Leans national rule'.",
+"suggested_score": 0,
+"suggested_label": "Mixed or conditional"
+},
+{
+"dimension": "data_centers",
+"objection": "Borderline. He explicitly says 'No new data centers until we have a plan to protect our people' and told CBS a moratorium and local control 'are the same', which is pause language, not just ratepayer protection. -1 is defensible because the pause is conditional and he says Michigan is 'open for business', but -2 fits the on-record moratorium endorsement better.",
+"suggested_score": -2,
+"suggested_label": "Pause or block"
+},
+{
+"dimension": "china_chips",
+"objection": "None of the eleven items touches export controls or chip sales; the -1 score has no supporting evidence in this record.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "S001215",
+"checks": [
+{
+"url": "https://www.eenews.net/articles/michigan-senate-primary-puts-data-center-politics-to-the-test/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-31",
+"note": "Quote appears verbatim as a debate remark. Page also has her saying 'It is unacceptable that rates would go up as a result' and 'I also want to secure Michigan being on the forefront of innovation and manufacturing,' and states 'Stevens made it clear that she wants data centers to be in Michigan.'"
+},
+{
+"url": "https://www.detroitnews.com/story/news/politics/2026/07/31/data-center-upheaval-michigan-primary-election-campaigns/91101694007/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-31",
+"note": "Fetch tool got 403 and Wayback was down; retrieved directly with curl (HTTP 200). Quote appears verbatim (ellipsis is in the original). Page confirms a staff member intervened when a reporter tried a follow-up on the Saline Township data center. Note she never stated a position on Saline Township itself; she deflected by asking the project's status."
+},
+{
+"url": "https://planetdetroit.org/2026/06/data-centers-michigan-senate-primary/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-11",
+"note": "Fetch tool failed on TLS; retrieved with curl. Quote verbatim, given 'in a statement.' Page: 'None of the Democratic U.S. Senate candidates told Planet Detroit they support a moratorium' and lists her priorities as keeping utilities from passing on data center costs and protecting well-paid union jobs."
+},
+{
+"url": "https://bridgemi.com/michigan-government/from-ai-to-aipac-6-issues-defining-haley-stevens-abdul-el-sayed-race/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Quote verbatim: her top priority on data centers 'is making sure costs don't go up for Michigan families and that we are protecting good-paying union jobs.' Page adds she has called for a clear policy framework preventing utilities from passing new costs onto customers."
+},
+{
+"url": "https://stevens.house.gov/media/press-releases/following-rep-stevens-bill-hold-utility-executives-accountable-dte-announces",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-23",
+"note": "Quote verbatim. Headline and lede frame DTE's two-year freeze as 'following' her Stop Unfair Electricity Price Hikes Act; her bill called for a three-year rate freeze with penalties (withholding federal funds, cutting executive pay). Caveat: the release never mentions data centers, so it is a utility-rates item, not direct data-center evidence."
+},
+{
+"url": "https://www.cnbc.com/2026/07/10/ai-data-center-fears-michigan-democratic-senate-primary.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-10",
+"note": "Page says El-Sayed 'has staked out a position on AI and data centers more hostile to the technology than his opponent, Rep. Haley Stevens, a moderate,' that Stevens 'has been less vocal,' and that a spokesperson pointed to her top-Democrat post on the Research and Technology Subcommittee and service on the bipartisan House AI task force."
+},
+{
+"url": "https://bridgemi.com/michigan-government/from-ai-to-aipac-6-issues-defining-haley-stevens-abdul-el-sayed-race/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Quote verbatim. Page: she 'has said the US is competing with China'; main goals are ensuring AI doesn't lead to job loss and a 'clear, responsible policy framework'; earlier statement that AI companies 'need to have real skin in the game in supporting our tax base.' Page also describes her as having 'worked on AI safety and research bills in Congress.'"
+},
+{
+"url": "https://stevens.house.gov/media/press-releases/stevens-and-obernolte-request-additional-10-million-secure-us-ai-leadership",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-02-22",
+"note": "Quote verbatim, attributed to 'the Members.' She and Obernolte led the letter to House Appropriations for $10M for NIST's USAISI, with funds for red teaming and capability evaluation experts and a Joint Research Center for AI evaluation and safety research. 'Voluntary-standards' is the item's characterization, not on the page."
+},
+{
+"url": "https://stevens.house.gov/media/press-releases/house-passes-rep-stevens-bipartisan-bill-help-small-businesses-safely-navigate",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-25",
+"note": "Quote verbatim. Small Business AI Advancement Act passed the House; directs NIST to develop guidance to help small businesses understand, evaluate and adopt AI. Bill number H.R. 3679 does not appear on the page (unverified here). 'Innovation-first' is the item's gloss."
+},
+{
+"url": "https://planetdetroit.org/2026/06/data-centers-michigan-senate-primary/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-11",
+"note": "Page: 'When asked about AI and data centers, U.S. Rep. Haley Stevens (D-Birmingham) said it's necessary to compete with China on developing technology, but she wants to protect Michiganders from data center costs.' Retrieved via curl after fetch tool TLS failure."
+},
+{
+"url": "https://www.pbs.org/newshour/politics/fact-checking-abdul-el-sayed-and-haley-stevens-claims-ahead-of-the-michigan-democratic-senate-primary",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-03",
+"note": "PolitiFact piece: neither major AI super PAC has spent in the Michigan Senate primary; Stevens received corporate PAC donations from Microsoft and Google totaling $7,500 per FEC data. Minor discrepancy: the page names the second PAC 'Public Action First,' not 'Public First Action.'"
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF extracted with pdftotext: 81 'Member of Congress' signature lines; Tlaib, Dingell, Thanedar and Scholten appear; Stevens does not. This is an absence inference only; the letter says nothing about her position, and 'notable absence' is interpretive."
+},
+{
+"url": "https://www.detroitnews.com/story/news/politics/2026/07/31/data-center-upheaval-michigan-primary-election-campaigns/91101694007/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-31",
+"note": "She did say there are 'no federal laws ... governing them' (data centers). But the page contains nothing about preempting or displacing state rules; she also referenced 'the states that they're in.' Wanting federal data-center law is not evidence of favoring national preemption of state AI regulation. Overstated as a preemption item."
+},
+{
+"url": "https://stevens.house.gov/about/committees-and-caucuses",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Page lists Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party, Artificial Intelligence (AI) Caucus, and Ranking Member of Subcommittee on Research & Technology. Page metadata is dated 2021 and still says 'Education & Labor,' so it may be stale. Membership alone says nothing about export-control views."
+},
+{
+"url": "https://www.eenews.net/articles/michigan-senate-primary-puts-data-center-politics-to-the-test/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-31",
+"note": "Verbatim on the page, attributed to Stevens at the debate."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "Sources do not support 'Light touch.' Her only substantive AI-risk statements call for 'a clear, responsible policy framework to ensure these technologies are developed safely and securely,' she led the bipartisan letter to fund red-teaming and evaluation at the NIST AI Safety Institute, Bridge describes her as having worked on 'AI safety and research bills,' and she says AI companies need 'real skin in the game.' Balanced against China-competition and small-business-adoption framing, this reads as mixed rather than light touch.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "preemption",
+"objection": "Evidence for 'Leans national rule' is too thin: one item is her non-signature on a Matsui letter (absence, not a stated position) and the other is a remark that there are no federal laws governing data centers, which says nothing about blocking state AI laws. No source shows her taking any position on state preemption.",
+"suggested_score": 0,
+"suggested_label": "Mixed or conditional"
+},
+{
+"dimension": "china_chips",
+"objection": "The only source is a committee roster showing she sits on the China Select Committee. Membership does not establish a view on chip export controls; no source discusses chips, export controls, or Nvidia/China sales. Evidence too thin for any position.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No item is sourced to this dimension. The only tangentially relevant evidence is her 'skin in the game supporting our tax base' remark (Bridge) and $7,500 in Microsoft/Google corporate PAC money (PBS), neither of which establishes a Big Tech regulation stance. Too thin for a score.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "T000481",
+"checks": [
+{
+"url": "https://tlaib.house.gov/posts/rep-tlaib-introduces-a-bill-to-ban-ai-data-centers-on-federal-lands",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Quote verbatim. Page states noise/light/air/water pollution and 'increase energy costs by as much as 267%'; endorsed by Center for Biological Diversity, Climate Justice Alliance, Food & Water Watch, Win Without War. Dated Jul 23, 2026."
+},
+{
+"url": "https://tlaib.house.gov/posts/tlaib-statement-on-ai-data-center-vote-in-southfield",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-16",
+"note": "Quote verbatim. Page says 'No one wants to live near a data center' and she will work with residents 'to get organized' against Metrobloks' proposed Southfield data center. Dated Dec 16, 2025."
+},
+{
+"url": "https://planetdetroit.org/2026/06/whitmer-data-center-backlash-2026-election/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-05",
+"note": "Fetch tool failed (TLS error, no Wayback), but a direct curl loaded the page. Article says Tlaib called Whitmer's support for the Saline Township project 'disgusting' on X and quotes the tweet verbatim. Article identifies the project as Oracle and OpenAI's, groundbreaking June 1; article dated June 5, 2026."
+},
+{
+"url": "https://tlaib.house.gov/posts/tlaib-introduces-26-amendments-to-the-national-defense-authorization-act-ndaa",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-30",
+"note": "Amendment text 'Tlaib 174 – No AI Data Centers on Federal Lands' appears verbatim; intro paragraph lists 'stop the expansion of AI data centers' as a goal of the package. Dated Jun 30, 2026."
+},
+{
+"url": "https://tlaib.house.gov/posts/tlaib-introduces-make-dte-pay-act-in-response-to-clean-air-act-violations-repeated-rate-hikes",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-05-07",
+"note": "Quote verbatim and page is about Tlaib's DTE ratepayer/pollution fight, but the page never mentions data centers or the Saline campus; the DTE-serves-Saline link is the tracker's inference, not on the page. Weak as a data_centers source."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Tlaib listed among the 20 signers. Letter quote verbatim; page also quotes 'Congress has so far completely failed to respond to the threats posed by AI development', calls for CEOs to answer under oath, and references models that escaped test environments to hack other organizations. Dated Aug 10, 2026."
+},
+{
+"url": "https://tlaib.house.gov/posts/rep-tlaib-introduces-a-bill-to-ban-ai-data-centers-on-federal-lands",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Quote verbatim. Page says DoD requested $30 billion for hyperscale data centers 'that would integrate largely untested hardware and software used to make life or death decisions into the military.' That is press-release framing, not a direct Tlaib quote, but it is her office's release."
+},
+{
+"url": "https://tlaib.house.gov/posts/tlaib-urges-social-media-platforms-to-cease-censorship-of-palestinian-political-speech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-05-25",
+"note": "Quote verbatim. Letter sent to parent companies of Facebook, Instagram, Twitter and TikTok. Dated May 25, 2021 (she was MI-13 then). Note this is a 2021 content-moderation/censorship complaint, not a regulatory proposal; the 'long-running fight' characterization is the tracker's."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF extracted locally (fetch tool returned 0 chars). 'Rashida Tlaib' appears in signer list. Quote verbatim; letter opposes reviving the moratorium in the NDAA or via executive order and calls conditioning BEAD funds on preemption 'deeply misguided'. Dated November 26, 2025."
+},
+{
+"url": "https://tlaib.house.gov/posts/rep-tlaib-introduces-a-bill-to-ban-ai-data-centers-on-federal-lands",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Headline quote appears verbatim on her official press release, Jul 23, 2026."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The only tech_regulation source is a 2021 letter complaining that platforms censor Palestinian speech. That is a content-moderation grievance, not evidence she wants to break up or rein in Big Tech via regulation; the data-center releases attack 'Big Tech oligarchs' but propose land-use bans, not platform regulation. -2 'Rein in Big Tech' is plausible given her politics but the cited evidence is too thin to support it; -1 fits what the sources actually show.",
+"suggested_score": -1,
+"suggested_label": "Targeted rules"
+}
+]
+},
+{
+"bioguide": "T000488",
+"checks": [
+{
+"url": "https://www.eenews.net/articles/bill-would-mandate-a-hard-look-at-data-center-safety/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-10",
+"note": "Article (published 2026-03-10) lists 'Democratic Reps. Rashida Tlaib and Shri Thanedar of Michigan' among co-sponsors of Watson Coleman's Data Center Community Impact Act and quotes Coleman on communities of color and low-income neighborhoods being over-burdened. Article says 'co-sponsors', not explicitly 'original cosponsors', a minor overstatement."
+},
+{
+"url": "https://iapp.org/news/a/us-house-subcommittees-explore-cybersecurity-implications-of-ai-quantum-computing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-19",
+"note": "Quote appears verbatim, attributed to 'Oversight, Investigations and Accountability Ranking Member Shri Thanedar, D-Mich.' Page also has him saying the technologies accelerate cyber abilities of China and make it easier for not-well-resourced countries, that attacks have become 'faster, more widespread and harder to detect', and that he called on Congress to extend the Cybersecurity Information Sharing Act."
+},
+{
+"url": "https://www.levernews.com/lawmakers-launch-probe-into-ices-phantom-contractor/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-21",
+"note": "Article (2026-05-21) says House Homeland Security ranking members Bennie Thompson and Shri Thanedar sent a letter to acting ICE director demanding information about the $12 million no-bid award to Edge Ops LLC for an AI surveillance tool (Project SAFE HAVEN) tracking immigrants' routines and real-time locations. Note this is oversight of government surveillance procurement, tangential to AI-risk regulation."
+},
+{
+"url": "https://thanedar.house.gov/news/in-the-news/detroit-free-press-opinion-tiktok-is-more-than-leisure-and-laughter-for-my-district-its-crucial",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2023-05-12",
+"note": "Page (dated May 12, 2023) contains only the headline, byline 'By: Shri Thanedar' and 'Source: From Detroit Free Press'; no body text. It supports that he authored a pro-TikTok op-ed in 2023 and that only the title survives, but the page contains nothing about the substance (Detroit creators/small businesses) or his later divestiture vote, so those parts are not verifiable from this URL."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned empty text for the PDF; downloaded and extracted it directly. Letter dated November 26, 2025 opposes an NDAA AI moratorium and a preemption executive order; quote appears verbatim ('That vote sent a clear, bipartisan message: Congress should not freeze state and local AI safeguards'); 'Shri Thanedar' appears in the signer list."
+},
+{
+"url": "https://iapp.org/news/a/us-house-subcommittees-explore-cybersecurity-implications-of-ai-quantum-computing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-19",
+"note": "Same IAPP page as item 2; headline quote appears verbatim and is attributed to Thanedar."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The only tech_regulation source is a 2023 op-ed defending TikTok against restriction, which leans away from reining in a tech platform; the claimed later divestiture vote is not documented in any listed source. The ICE letter concerns government procurement oversight, not regulating tech companies. Evidence is too thin and directionally mixed to support -1.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+}
+]
