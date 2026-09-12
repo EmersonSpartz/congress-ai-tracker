@@ -136,6 +136,7 @@
           <div class="tile"><div class="big">${dc}</div><div class="cap">members with a findable position on AI data centers, the fastest-growing fight in Congress.</div><a href="#/members?has=data_centers">See them</a></div>
           <div class="tile"><div class="big">${preemptAgainst} <span class="muted" style="font-size:1.2rem">vs</span> ${preemptFor}</div><div class="cap">members on record for letting states regulate AI, versus members who want one national rule that blocks state laws.</div><a href="#/fights">The fight explained</a></div>
           <div class="tile"><div class="big">${leaders}</div><div class="cap">members leading on AI: they sponsor the major bills or run the relevant committees and caucuses.</div><a href="#/members?activity=Leader">Meet them</a></div>
+          <div class="tile"><div class="big">${(s.evidence_total || 0).toLocaleString()}</div><div class="cap">pieces of evidence behind the labels: ${((s.evidence || {}).record || 0).toLocaleString()} official votes and bills, ${((s.evidence || {}).confirmed || 0).toLocaleString()} statements re-checked at the source by a second, independent pass.</div><a href="#/about">How this works</a></div>
         </div>
       </section>
       <section class="section">
@@ -433,7 +434,18 @@
       <div class="scale-demo">${[-2, -1, 0, 1, 2].map(x => `<span class="chip" data-s="${x}">${['Strongly for guardrails', 'Leans guardrails', 'Mixed', 'Leans hands-off', 'Strongly hands-off'][x + 2]}</span>`).join('')}</div>
       <table><thead><tr><th>Question</th><th>Teal end</th><th>Orange end</th></tr></thead><tbody>${DIMS().map(d => `<tr><td><strong>${esc(d.label)}</strong><br><span class="small muted">${esc(d.question)}</span></td><td>${esc(d.scale['-2'])}</td><td>${esc(d.scale['2'])}</td></tr>`).join('')}</tbody></table>
       <h2>Two kinds of labels</h2>
-      <p>A solid chip means we found the member's own words or a signed letter, and a fact-checker opened the source to confirm it. A dashed chip marked <span class="chip record" data-s="-1">record <span class="basis-tag">record</span></span> means we found no statements, so the label rests only on which bills they sponsored or cosponsored. Bill records come straight from congress.gov, but signing a bill is a weaker signal than a speech, so treat those labels as a lean, not a conviction.</p>
+      <p>A solid chip means we found the member's own words, a signed letter, or a recorded vote. A dashed chip marked <span class="chip record" data-s="-1">record <span class="basis-tag">record</span></span> means we found no statements, so the label rests only on which bills they sponsored or cosponsored. Bill records come straight from congress.gov, but signing a bill is a weaker signal than a speech, so treat those labels as a lean, not a conviction.</p>
+      <h2>How statements were checked</h2>
+      <p>Each member was researched by one automated researcher working from their official website, news coverage, hearing transcripts and letters, with the record of votes and bills in hand. A second, independent checker then opened every cited page and marked each item. On a member's page you will see one of these tags on each piece of evidence:</p>
+      <ul>
+        <li><strong>Source checked:</strong> the checker opened the page, found the member named, and found the quote or claim there.</li>
+        <li><strong>Source partly supports:</strong> the page is about the right person and topic but the claim or quote overstates it. These count for less.</li>
+        <li><strong>Official record:</strong> a vote or bill from congress.gov, GovTrack or the House and Senate clerks.</li>
+        <li><strong>From signed letter or statement:</strong> a letter or joint statement collected in the first research pass, matched to signers by name.</li>
+        <li><strong>Not yet re-checked:</strong> the researcher cited it but the second pass did not reach it.</li>
+        <li><strong>Source unreachable:</strong> the page would not load for the checker. Many congressional sites block automated visitors; the link may still work for you.</li>
+      </ul>
+      <p>Items the checker found unsupported, or about a different person, were removed before publishing. When the checker disagreed with a label, the label was changed and the disagreement is noted in the summary.</p>
       <h2>AI money</h2>
       <p>A <span class="pacmark">$</span> next to a name means an AI-industry or AI-safety super PAC has spent money for or against that member, according to Federal Election Commission filings and press reports. The biggest players are Leading the Future (funded by Andreessen Horowitz, OpenAI's Greg Brockman and Joe Lonsdale, which opposes state AI laws) and Public First Action (funded largely by Anthropic, which backs safeguards). Money is context, not a position: members do not control who spends on their behalf.</p>
       <h2>Activity levels</h2>
@@ -461,7 +473,7 @@
   }
 
   // ---------- boot
-  const DATA_URL = 'data.json?v=6e8860942a';
+  const DATA_URL = 'data.json?v=5c91fcf214';
   fetch(DATA_URL).then(r => r.json()).then(data => {
     D = data;
     D.members.forEach(m => { byId[m.id] = m; });

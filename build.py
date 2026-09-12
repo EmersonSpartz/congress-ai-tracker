@@ -444,6 +444,9 @@ def main():
     stats['activity'] = dict(collections.Counter(x['activity']['level'] for x in out_members))
     stats['basis'] = dict(collections.Counter(p['basis'] for x in out_members for p in x['positions'].values()))
     stats['pac_members'] = sum(1 for x in out_members if x['pacs'])
+    stats['evidence'] = dict(collections.Counter(e['verified'] for x in out_members for p in x['positions'].values() for e in p['evidence']))
+    stats['evidence_total'] = sum(stats['evidence'].values())
+    stats['members_with_statements'] = sum(1 for x in out_members if any(e['type'] not in ('sponsor','cosponsor','vote') for p in x['positions'].values() for e in p['evidence']))
 
     os.makedirs(SITE, exist_ok=True)
     os.makedirs(os.path.join(SITE, 'photos'), exist_ok=True)
