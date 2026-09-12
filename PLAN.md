@@ -27,5 +27,5 @@ Evidence types: vote, sponsor, cosponsor, letter, statement, hearing, pac. Each 
 ## Site
 Static, vanilla JS, hash routes for member pages. Sections: hero + stat tiles; find your reps (state/district); the fights explained with party breakdown charts (diverging teal<->orange, gray midpoint; party shown as D/R text only); the big table (filters, sort, search, stance chips with tooltips); member detail; key votes; methodology + download.
 Colors: guardrails teal, hands-off orange, validated with dataviz validator in light and dark.
-Repo: ~/Downloads/congress-ai-tracker -> github.com/EmersonSpartz/congress-ai-tracker -> https://emersonspartz.github.io/congress-ai-tracker/
+Repo: ~/Downloads/congress-ai-tracker -> github.com/EmersonSpartz/congress-ai-tracker (Pages serves docs/ on main) -> https://emersonspartz.github.io/congress-ai-tracker/ ; local preview: python3 -m http.server 8812 in docs/
 Gates: verify.sh, qa-verifier agent, deep review agent, bug-retros entry, Chrome screenshot of deployed page.
