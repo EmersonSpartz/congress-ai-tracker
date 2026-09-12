@@ -209,6 +209,7 @@ def main():
     ls_pacs = landscape.get('member_pacs', {})
     ls_groups = landscape.get('member_groups', {})
     ls_letters = landscape.get('member_letters', {})
+    all_sponsors = load('bill_sponsors_all.json', {})
     research = load_research_files('research', roster)
     verification = load_research_files('verification', roster, is_verification=True)
 
@@ -288,18 +289,25 @@ def main():
                         e['type'] = 'statement'
                     if e['type'] in ('sponsor','cosponsor'):
                         bid = bill_id_from_url(e['url'])
-                        if not bid or bid not in role_of:
+                        ab = all_sponsors.get(bid) if bid else None
+                        if bid in role_of:
+                            if (bid, e['type']) not in my_bill_roles:
+                                e['type'] = role_of[bid]  # right bill, wrong role: use the official role
+                        elif ab and m['bioguide'] in ab['s']:
+                            e['type'] = 'sponsor'
+                        elif ab and m['bioguide'] in ab['c']:
+                            e['type'] = 'cosponsor'
+                        else:
                             warn(f"{m['bioguide']} {key}: claimed {e['type']} of {bid or e['url']} not in official record; dropped"); n_dropped_evidence += 1; continue
-                        if (bid, e['type']) not in my_bill_roles:
-                            e['type'] = role_of[bid]  # right bill, wrong role: use the official role
                         e['verified'] = 'record'
                     elif e['type'] == 'vote':
                         mm = re.search(r'/votes/\d+-(\d{4})/([hs])(\d+)', e['url'])
                         vid = f"{mm.group(2)}{mm.group(1)}-{int(mm.group(3))}" if mm else None
-                        if not vid or vid not in mv:
+                        rec_vote = votes_idx.get(vid, {}).get('votes', {}).get(m['bioguide']) if vid else None
+                        if not rec_vote:
                             warn(f"{m['bioguide']} {key}: claimed vote {e['url']} not in this member's record; dropped"); n_dropped_evidence += 1; continue
                         e['verified'] = 'record'
-                        e['what_it_shows'] = ((e.get('what_it_shows') or '') + f" Recorded vote: {mv[vid]}.").strip()
+                        e['what_it_shows'] = ((e.get('what_it_shows') or '') + f" Recorded vote: {rec_vote}.").strip()
                     else:
                         vd = verdicts.get(norm_url(e['url']))
                         if vd:

@@ -1,0 +1,686 @@
+[
+{
+"bioguide": "J000302",
+"name": "John Joyce",
+"groups": [
+"House Committee on Energy and Commerce (Vice Chairman)",
+"House Energy and Commerce Subcommittee on Oversight and Investigations (Chairman)",
+"House Energy and Commerce Republican Data Privacy Working Group (Lead)"
+],
+"signature": "E&C Oversight chair who wrote the House GOP's SECURE Data Act privacy bill, chaired hearings on chatbot and AI-biosecurity harms, and joined the June 2026 letter asking the FBI to probe foreign influence behind data-center opposition.",
+"notable_quote": {
+"text": "It is important that we consider the implications of these technologies as we balance the benefits of AI innovation with protecting the most vulnerable among us.",
+"date": "2025-11-18",
+"url": "https://energycommerce.house.gov/posts/chairman-joyce-delivers-opening-statement-at-subcommittee-on-oversight-and-investigations-hearing-on-artificial-intelligence-ai-chatbots"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Joyce pushes hard to build data centers, framing the buildout as a race with China and asking the FBI to investigate whether foreign adversaries are behind local opposition. At the same time he cosponsored the Ratepayer Protection Act to keep big users' grid costs off household electric bills.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Chairmen Guthrie, Joyce and Latta ask PCAST and FBI Director Patel to investigate foreign efforts to block U.S. data center buildout",
+"url": "https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=391066",
+"date": "2026-06-04",
+"quote": "The U.S. is in a global race for technological superiority that has significantly raised the stakes for economic and national security if our nation falls behind.",
+"what_it_shows": "He treats data-center construction as critical national infrastructure and calls the Sanders data-center moratorium bill disastrous, a strongly pro-buildout stance."
+},
+{
+"type": "statement",
+"title": "Data Center Dynamics: Trio of Republicans call for FBI investigation into data center opposition",
+"url": "https://www.datacenterdynamics.com/en/news/trio-of-republicans-call-for-fbi-investigation-into-data-center-opposition/",
+"date": "2026-06-10",
+"quote": "foreign influence campaigns… have engaged in a coordinated effort to slow US growth in AI development and the building of infrastructure supporting AI data centers",
+"what_it_shows": "Trade press coverage of the same letter shows Joyce casting grassroots data-center opposition as possibly foreign-directed rather than a legitimate local concern."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Ratepayer Protection Act (H.R. 9340)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-06-25",
+"quote": null,
+"what_it_shows": "He backs a bill to stop regular customers' electric bills from rising to pay for power that large new users like data centers need, a condition on the buildout."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on SPEED Act permitting reform (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted to speed federal permitting for energy and infrastructure projects, consistent with a build-faster approach to the power needed for AI."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. As Oversight chairman Joyce held hearings warning that AI chatbots can harm vulnerable users and that AI-designed biology is outrunning existing safeguards, and said current oversight must be re-examined. But he also frames AI as a race with China, promotes AI medical devices, and was endorsed by the industry-funded Leading the Future super PAC.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement: O&I hearing on the risks and benefits of AI chatbots",
+"url": "https://energycommerce.house.gov/posts/chairman-joyce-delivers-opening-statement-at-subcommittee-on-oversight-and-investigations-hearing-on-artificial-intelligence-ai-chatbots",
+"date": "2025-11-18",
+"quote": "It is important that we consider the implications of these technologies as we balance the benefits of AI innovation with protecting the most vulnerable among us.",
+"what_it_shows": "He convened a hearing on chatbot harms to children and people with mental illness and welcomed the FTC inquiry, a guardrail-minded but balanced posture."
+},
+{
+"type": "hearing",
+"title": "Opening statement: O&I hearing on biosecurity at the intersection of AI and biology",
+"url": "https://energycommerce.house.gov/posts/chairman-joyce-delivers-opening-statement-at-subcommittee-on-oversight-and-investigations-hearing-on-ai-and-biotechnology",
+"date": "2025-12-17",
+"quote": "the federal government must continue to carefully assess whether our current safeguards and reporting systems are adequate in an era of rapidly advancing AI technology.",
+"what_it_shows": "He said AI tools that can help design dangerous pathogens introduce profound new risks and that existing oversight frameworks may not cover them."
+},
+{
+"type": "letter",
+"title": "Letter: Guthrie, Joyce and Latta request investigation of efforts to slow American AI progress",
+"url": "https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=391066",
+"date": "2026-06-04",
+"quote": "The U.S. is in a global race for technological superiority that has significantly raised the stakes for economic and national security if our nation falls behind.",
+"what_it_shows": "He frames AI primarily as a competition with China and treats efforts to slow AI development as a threat, a light-touch signal."
+},
+{
+"type": "statement",
+"title": "Press release: Dr. Joyce introduces Health Tech Investment Act to improve access to AI healthcare devices",
+"url": "https://johnjoyce.house.gov/media/press-releases/dr-joyce-introduces-legislation-improve-access-ai-healthcare-devices",
+"date": "2025-11-21",
+"quote": "The bipartisan Health Tech Act will ensure that American patients, regardless of rural or urban care settings, can access new, innovative AI-enabled medical devices that are revolutionizing healthcare.",
+"what_it_shows": "He is an enthusiast for deploying AI in medicine and wants Medicare to pay for AI-enabled devices faster."
+},
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC releases list of House GOP Champions",
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"date": "2026-04-16",
+"quote": "part of a broader ecosystem of current members who have engaged with the industry",
+"what_it_shows": "The $100 million-plus AI industry super PAC named Joyce a champion, meaning the industry views him as an ally on a national framework with basic rather than strict rules."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Joyce wrote and sponsored the House Republicans' comprehensive consumer privacy bill, the SECURE Data Act, with FTC and state attorney general enforcement, and has cosponsored robocall, TikTok and kids' privacy bills. Critics on the left call his privacy bill too friendly to industry, and he has also pressed platforms over alleged censorship of conservatives.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: SECURE Data Act (H.R. 8413), comprehensive federal consumer privacy bill",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8413",
+"date": "2026-04-21",
+"quote": null,
+"what_it_shows": "He is the lead author of the first major federal privacy bill of the 119th Congress, giving consumers rights to access, correct, delete and opt out of sale of their data."
+},
+{
+"type": "statement",
+"title": "Press release: Guthrie and Joyce announce creation of E&C privacy working group",
+"url": "https://energycommerce.house.gov/posts/chairman-guthrie-and-vice-chairman-joyce-announce-creation-of-privacy-working-group",
+"date": "2025-02-12",
+"quote": "We strongly believe that a national data privacy standard is necessary to protect Americans' rights online and maintain our country's global leadership in digital technologies, including artificial intelligence.",
+"what_it_shows": "He launched and leads the GOP working group that produced the privacy bill, tying data rules to AI leadership."
+},
+{
+"type": "statement",
+"title": "HIPAA Journal: House Republicans introduce federal data privacy legislation (Guthrie-Joyce joint statement)",
+"url": "https://www.hipaajournal.com/house-republicans-introduce-federal-data-privacy-legislation/",
+"date": "2026-04-24",
+"quote": "This bill establishes clear, enforceable protections so that Americans remain in charge of their own data and companies are held accountable for its safe keeping",
+"what_it_shows": "He describes the bill as enforceable accountability for companies, a targeted-rules stance; the article notes it was drafted without Democratic input."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Foreign Robocall Elimination Act (H.R. 6152)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-08-13",
+"quote": null,
+"what_it_shows": "He supports a specific fix cracking down on scam robocalls from abroad."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Americans from Foreign Adversary Controlled Applications Act (H.R. 7521, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "He backed forcing TikTok's sale or ban over Chinese control."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Children and Teens' Online Privacy Protection Act (H.R. 7890, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7890",
+"date": "2024-04-23",
+"quote": null,
+"what_it_shows": "He supported stronger privacy protections for kids and teens online."
+},
+{
+"type": "hearing",
+"title": "In the news: Dr. Joyce pushes for answers on censorship and conservative bias from Big Tech",
+"url": "https://johnjoyce.house.gov/media/in-the-news/dr-joyce-pushes-answers-censorship-conservative-bias-big-tech",
+"date": "2021-05-05",
+"quote": "Shutting down the Adams County Republican Committee Facebook page strikes me as an infringement on speech that is normally protected in the public domain.",
+"what_it_shows": "He has confronted Facebook and Twitter CEOs over content moderation, a conservative angle on holding platforms accountable."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Joyce has not spoken directly about a moratorium on state AI laws, but his privacy bill would override state privacy laws, he argues industry wants one federal standard instead of a state-by-state patchwork, and he voted for the House budget bill that carried the 10-year AI moratorium. He leans toward one national standard.",
+"evidence": [
+{
+"type": "statement",
+"title": "Roll Call: GOP data privacy bill tries again to set national standard",
+"url": "https://rollcall.com/2026/05/14/gop-data-privacy-bill-tries-again-to-set-national-standard/",
+"date": "2026-05-14",
+"quote": "They said industry came to us and said, 'Please, not one more. This should be done at a federal level. We're playing whack-a-mole. Industries cross state lines.'",
+"what_it_shows": "He makes the classic preemption argument, that a patchwork of state laws should be replaced by one federal rule, in the privacy debate that runs parallel to the AI fight."
+},
+{
+"type": "statement",
+"title": "IAPP analysis: SECURE Data Act would preempt state privacy laws",
+"url": "https://iapp.org/news/a/secure-data-act-analysis-of-the-new-federal-privacy-bill",
+"date": "2026-04-22",
+"quote": "As introduced, the SECURE Data Act would embrace a strong preemption regime, rendering moot any state law or provision that 'relates to' its provisions.",
+"what_it_shows": "His own bill takes a broad preemption approach, wiping out state consumer privacy laws and data broker registries."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 1 reconciliation bill containing the 10-year moratorium on state AI laws (House roll call 145)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House version of the budget bill that included the state AI-law moratorium; a party-line vote on a huge bill, so weak evidence on its own."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searches for Joyce with Nvidia, export controls, chips and China returned only his data-center letter, which frames AI as a race with China but does not address chip exports.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 14 Google News queries (AI, data centers, privacy working group, preemption/moratorium, chatbot/deepfake/kids, Big Tech/Section 230/TikTok, Nvidia/export controls, electricity/PJM, SECURE Data Act, Ratepayer Protection Act) plus Wayback listings of johnjoyce.house.gov and energycommerce.house.gov. Opened and quoted: Guthrie letter release, two E&C opening statements, E&C privacy working group and RFI releases, Roll Call, IAPP, HIPAA Journal, Breitbart LTF list, his Health Tech Investment Act release, his 2021 Big Tech hearing item, govtrack votes h145 and h356 and govtrack H.R. 8413. Blocked or unreachable: Politico (403), Tech Policy Press chatbot transcript (redirect), Punchbowl (paywall), York Dispatch/Chambersburg profile (403). Did not verify the state-context lead that he cosponsored a Load Forecasting Enhancement Act."
+},
+{
+"bioguide": "R000610",
+"name": "Guy Reschenthaler",
+"groups": [
+"House Republican China Task Force (member, 116th Congress)"
+],
+"signature": "No notable public AI activity found; House Chief Deputy Whip whom the Leading the Future AI super PAC named a House GOP champion in April 2026.",
+"notable_quote": null,
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026, despite searches of news and his official site for data centers, electricity costs and PJM. His only related record is a general energy-dominance message and a vote for permitting reform.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on SPEED Act permitting reform (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted to speed federal permitting for energy and infrastructure projects, but the bill is not specific to data centers."
+},
+{
+"type": "statement",
+"title": "Press release: Reschenthaler, Deluzio and Joyce introduce bill to relocate DOE fossil energy office to Pennsylvania",
+"url": "https://reschenthaler.house.gov/media/press-releases/reps-reschenthaler-deluzio-and-joyce-introduce-legislation-to-relocate-department-of-energy-office-to-the-keystone-state",
+"date": "2025-07-15",
+"quote": "Southwestern Pennsylvania is helping our nation unleash energy dominance",
+"what_it_shows": "He champions fossil-fuel energy growth in his region, but did not mention data centers or AI power demand."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on AI safety or regulation found as of Sept 2026. Searches for his name with artificial intelligence, AI and chatbots returned no relevant results. The AI industry's Leading the Future super PAC listed him as a champion, but that reflects the PAC's view, not his own words.",
+"evidence": [
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC releases list of House GOP Champions",
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"date": "2026-04-16",
+"quote": "part of a broader ecosystem of current members who have engaged with the industry",
+"what_it_shows": "The AI industry super PAC counts him as an ally on a national AI framework with basic rather than strict rules, a hint about how industry reads him."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His only relevant record is cosponsoring the 2024 House TAKE IT DOWN Act against nonconsensual and deepfake intimate images. No statements on Big Tech, Section 230, antitrust or kids' online safety were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (H.R. 8989, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8989",
+"date": "2024-08-06",
+"quote": null,
+"what_it_shows": "He supported criminalizing the posting of real or AI-faked intimate images without consent and requiring quick takedowns."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on preempting or pausing state AI laws. He voted for the House budget bill that contained the 10-year state AI-law moratorium, but that was a party-line vote on a sweeping bill and is not evidence of a position on its own.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 1 reconciliation bill containing the 10-year moratorium on state AI laws (House roll call 145)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "As Chief Deputy Whip he voted for the House bill that carried the moratorium, but he has said nothing publicly about the moratorium itself."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls. He is a longtime China hawk from the 2020 House China Task Force, but searches for Nvidia, export controls, chips and semiconductors with his name found nothing specific to AI chips.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: China Task Force releases report on countering the Chinese government",
+"url": "https://reschenthaler.house.gov/media/press-releases/china-task-force-releases-report-countering-chinese-government",
+"date": "2020-09-30",
+"quote": "Through legislative and continued administrative actions, we can fight back against the CCP's malfeasance and strengthen our nation's position on the world stage.",
+"what_it_shows": "Shows general hawkishness toward China, but the release does not address AI chips or export controls."
+}
+]
+}
+},
+"search_notes": "Ran about 12 Google News queries (artificial intelligence, AI, data centers, Nvidia/export controls/chips, Big Tech/Section 230/TikTok, deepfake/chatbot/TAKE IT DOWN, moratorium/preemption, electricity/PJM, Leading the Future, Westmoreland/Washington county data centers, crypto/TikTok) plus two Wayback listings of reschenthaler.house.gov. Nearly all results were unrelated (Somaliland, crypto holdings, local funding, personal news). Opened: his DOE office relocation release, China Task Force release, Breitbart LTF list, WESA and Broad+Liberty challenger profiles (no AI content), Quiver appropriations release (no AI content), govtrack votes h145 and h356. Record is genuinely thin on AI."
+},
+{
+"bioguide": "T000467",
+"name": "Glenn Thompson",
+"groups": [
+"House Committee on Agriculture (Chairman)"
+],
+"signature": "House Agriculture chairman who says data centers can be a plus for Pennsylvania if kept off prime farmland and sited near new power, and introduced the Not in My Barnyard Act to shield farmland from eminent domain.",
+"notable_quote": {
+"text": "I have a hog theory, a hog farm theory that we ought to treat data centers like hog farms: We put them in places where we can't see them or smell them",
+"date": "2026-08-12",
+"url": "https://www.yahoo.com/news/politics/articles/lawmakers-flock-ag-progress-days-215748639.html"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Thompson says data centers are coming and can bring real positives for rural Pennsylvania, but wants them sited near new energy sources and out of sight, never on prime farmland, with guardrails so corporations and private equity do not dictate terms. He introduced a bill to block federal eminent domain takings of farmland when alternatives exist.",
+"evidence": [
+{
+"type": "statement",
+"title": "WTAJ via Yahoo: Lawmakers at Ag Progress Days discuss data centers",
+"url": "https://www.yahoo.com/news/politics/articles/lawmakers-flock-ag-progress-days-215748639.html",
+"date": "2026-08-12",
+"quote": "I do not want to see data centers on prime farmland",
+"what_it_shows": "At his own forum he accepted that data centers will be part of life but set farmland protection as his main condition."
+},
+{
+"type": "statement",
+"title": "WZMQ/Erie News Now: Rep. Thompson unveils bill to protect farms from eminent domain as data center debate intensifies",
+"url": "https://wzmq19.com/news/368159/rep-thompson-unveils-bill-to-protect-farms-from-eminent-domain-as-data-center-debate-intensifies/",
+"date": "2026-09-04",
+"quote": "If we sit back and allow these corporations and these private equity investors to dictate without being at the table, that's a bad situation",
+"what_it_shows": "He says data centers should be embraced but with guardrails, and announced the Not in My Barnyard Act to keep farmland from being taken for data-center infrastructure."
+},
+{
+"type": "statement",
+"title": "Lancaster Farming: Pennsylvania congressmen seek silver lining on rural data centers (Farm Show listening session)",
+"url": "https://www.lancasterfarming.com/farming-news/ag-business/pennsylvania-congressmen-seek-silver-lining-on-rural-data-centers/article_7e440a03-09b1-4824-99e5-74a51c9970bc.html",
+"date": "2026-01-10",
+"quote": "It is crazy to disrupt private property just because somebody conveniently wants to have the data center one or two states away",
+"what_it_shows": "He sees data centers as an economic opportunity if built near Pennsylvania's coal refuse and stranded gas rather than drawing power across state lines."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on SPEED Act permitting reform (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted to speed federal permitting for energy and infrastructure, consistent with supporting the buildout."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on AI safety or regulation found as of Sept 2026. Searches for his name with artificial intelligence, AI, chatbots and the farm bill's technology provisions returned nothing on AI rules; his record contains no AI bills.",
+"evidence": []
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No position found. Searches for Big Tech, TikTok, Section 230 and kids' online safety with his name found no statements, and he has no relevant bills in the 118th or 119th Congress.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on preempting state AI laws. He voted for the House budget bill that included the 10-year state AI-law moratorium, but that party-line vote on a sweeping bill is not evidence of a position on its own.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 1 reconciliation bill containing the 10-year moratorium on state AI laws (House roll call 145)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House bill that carried the moratorium without any public comment on it."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls. Searches for Nvidia, export controls and chips with his name returned nothing relevant.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 12 Google News queries (artificial intelligence, data centers, Homer City, AI in agriculture/farm bill, Big Tech/TikTok, Nvidia/export controls, electricity/PJM, moratorium/preemption, Centre County forum, eminent domain, Not in My Barnyard) plus a Wayback listing of thompson.house.gov. Opened and quoted: WTAJ/Yahoo Ag Progress Days story, WZMQ eminent domain story, Lancaster Farming Farm Show story, govtrack votes h145 and h356. Blocked: Centre Daily Times forum article (timeouts, no archive), National Hog Farmer (403), his own Sept 2 2026 eminent domain press release (site listing timed out)."
+},
+{
+"bioguide": "K000376",
+"name": "Mike Kelly",
+"groups": [],
+"signature": "No notable public AI activity found beyond co-leading a July 2026 bipartisan bill to use AI in pediatric cancer research.",
+"notable_quote": null,
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026, even though the Shippingport gas-plus-data-center project sits in his region. Searches for his name with data centers, Butler, Erie, Mercer, PJM and electricity costs found nothing on the topic.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on SPEED Act permitting reform (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted to speed federal permitting for energy and infrastructure projects, but the bill is not specific to data centers."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No statements on AI safety or regulation found. His one AI item is co-leading the Accelerating Innovation (AI) for Kids Act to use AI in pediatric cancer research, which speaks to AI's promise in medicine, not to rules for AI.",
+"evidence": [
+{
+"type": "statement",
+"title": "Quiver Quantitative: McCaul, Bera and Kelly introduce bill to use AI in pediatric cancer research",
+"url": "https://www.quiverquant.com/news/Press+Release%3A+McCaul%2C+Bera+and+Kelly+Introduce+Bill+to+Use+AI+in+Pediatric+Cancer+Research",
+"date": "2026-07-09",
+"quote": null,
+"what_it_shows": "He is a co-lead on a bipartisan bill to apply AI to clinical trial design and data for childhood cancer, showing enthusiasm for AI in research; his own quote could not be retrieved because his press release was blocked."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His only relevant record is cosponsoring the 2024 bill forcing TikTok's sale or ban over Chinese control. No statements on Big Tech, privacy, Section 230 or kids' online safety were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Americans from Foreign Adversary Controlled Applications Act (H.R. 7521, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "He backed forcing TikTok's Chinese owner to sell or face a ban, a targeted national-security rule for one platform."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on preempting state AI laws. He voted for the House budget bill that included the 10-year state AI-law moratorium, but that party-line vote on a sweeping bill is not evidence of a position on its own.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 1 reconciliation bill containing the 10-year moratorium on state AI laws (House roll call 145)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House bill that carried the moratorium without any public comment on it."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China. His chip record is about building chips at home: he cosponsored the BASIC Act tax credit for chip factories and design and hosted a 2022 roundtable on the auto industry's chip shortage.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: BASIC Act (H.R. 3204), extends chip-factory tax credit and adds chip design",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-06-03",
+"quote": null,
+"what_it_shows": "He supports incentives for domestic chip manufacturing, which does not indicate a view on export controls."
+},
+{
+"type": "statement",
+"title": "Press release: Kelly issues statement on Congressional Auto Caucus semiconductor roundtable",
+"url": "https://kelly.house.gov/media/press-releases/kelly-issues-statement-congressional-auto-caucus-semiconductor-roundtable",
+"date": "2022-01-21",
+"quote": "As an automobile dealer myself, I've seen the bottlenecked supply chain and semi-conductor chip shortage shrink our inventory and hurt the consumer",
+"what_it_shows": "His interest in chips centers on supply for U.S. automakers and the CHIPS Act, not on limiting sales to China."
+}
+]
+}
+},
+"search_notes": "Ran about 12 Google News queries (Rep. Mike Kelly artificial intelligence, AI Pennsylvania, data centers, Shippingport/Bruce Mansfield, Nvidia/export controls/semiconductor, Big Tech/TikTok/Section 230, electricity/PJM, moratorium/preemption, AI for Kids bill, Butler/Erie/Mercer data centers) plus two Wayback listings of kelly.house.gov. Results were dominated by the Arizona senator of the same name, ethics stories and local funding. Opened: Quiver copy of the McCaul release, his 2022 semiconductor roundtable statement, Butler Eagle and TribLive interviews (no AI or data-center content), govtrack votes h145 and h356. Blocked: his own July 13 2026 AI for Kids press release (403, no archive), McCaul's release (403), Radiology Business (403)."
+},
+{
+"bioguide": "D000530",
+"name": "Christopher R. Deluzio",
+"groups": [
+"Congressional Monopoly Busters Caucus (Co-Chair)",
+"Congressional Lowering Utility Bills Caucus (founding member)"
+],
+"signature": "Antitrust-focused Democrat who calls superintelligence risk an emergency that needs national action, sponsors the No Robot Bosses Act on AI in the workplace, pushes ratepayer protections on data centers, and signed both House letters against preempting state AI laws.",
+"notable_quote": {
+"text": "We need to pump the brakes and get national action on superintelligence. This is an emergency and our government should act like it.",
+"date": "2026-09-09",
+"url": "https://www.usatoday.com/story/news/politics/2026/09/09/congress-reaction-anthropic-ai-warning-end-humanity/91675031007/"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Deluzio wants families shielded from data-center power costs and defended people worried about AI, electricity bills, water and union jobs when President Trump mocked data-center opponents. He is not against building: he voted for the SPEED Act permitting bill and says he wants more power on the grid.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Families from AI Data Center Energy Costs Act (H.R. 6529)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "He backs a bill to keep families' electric bills from rising to pay for the power lines and plants giant AI data centers need."
+},
+{
+"type": "statement",
+"title": "Truthout: Fetterman backs Trump's comments berating data-center opponents (Deluzio video response)",
+"url": "https://truthout.org/articles/fetterman-backs-trumps-insulting-comments-berating-opponents-of-data-centers/",
+"date": "2026-09-01",
+"quote": "so disrespectful to people who have concerns about AI's roles in our lives, or electricity costs, or whether good union jobs are part of this, or water supplies",
+"what_it_shows": "He condemned Trump's line that communities rejecting data centers would be backwards and poor, siding with residents' cost, water and jobs concerns."
+},
+{
+"type": "statement",
+"title": "Press release: Deluzio a founding member of the Lowering Utility Bills Caucus",
+"url": "https://deluzio.house.gov/media/press-releases/deluzio-focused-fighting-lower-costs-founding-member-new-lowering-utility",
+"date": "2026-01-26",
+"quote": "take on the profiteering monopolies screwing us over, work to get more power onto the grid, and fight to make life in America less of a ripoff.",
+"what_it_shows": "He frames rising electric bills as a monopoly and affordability problem, and pairs ratepayer protection with adding generation rather than blocking growth."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on SPEED Act permitting reform (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "One of a handful of Democrats to vote for faster federal permitting, showing he is not in the pause-or-block camp."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "high",
+"summary": "Deluzio treats advanced AI as a serious danger, saying superintelligence is an emergency and Congress must pump the brakes. He sponsors the No Robot Bosses Act to police AI in hiring and firing and cosponsors bills requiring bias testing of automated systems and banning AI discrimination.",
+"evidence": [
+{
+"type": "statement",
+"title": "USA Today: Congress alarmed by former AI researcher's warning that AI could end humanity",
+"url": "https://www.usatoday.com/story/news/politics/2026/09/09/congress-reaction-anthropic-ai-warning-end-humanity/91675031007/",
+"date": "2026-09-09",
+"quote": "We need to pump the brakes and get national action on superintelligence. This is an emergency and our government should act like it.",
+"what_it_shows": "He told people burying their heads in the sand about superintelligence risk to wake up and called for national action, an unusually strong position for a House member."
+},
+{
+"type": "statement",
+"title": "Press release: Deluzio, Bonamici, Moylan restart push to protect workers from AI and robot bosses",
+"url": "https://deluzio.house.gov/media/press-releases/deluzio-bonamici-moylan-restart-push-protect-workers-ai-and-robot-bosses",
+"date": "2025-12-04",
+"quote": "It's the Wild West out there for AI, and Congress should not twiddle its thumbs. It's time to take up proposals that will protect the humanity and rights of workers.",
+"what_it_shows": "His No Robot Bosses Act would require testing of workplace AI for bias, human oversight, disclosure and a new Labor Department enforcement division."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Algorithmic Accountability Act of 2025 (H.R. 5511)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-19",
+"quote": null,
+"what_it_shows": "He supports making companies test automated decision systems for bias and harm and report results to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Artificial Intelligence Civil Rights Act of 2025 (H.R. 6356)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "He backs banning discriminatory AI and requiring companies to check systems for unfair treatment before and after deployment."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Stop AI Price Gouging and Wage Fixing Act of 2025 (H.R. 4640)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "He supports banning the use of AI and personal data to charge people different prices or pay workers different wages."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "As co-chair of the Monopoly Busters Caucus, Deluzio calls for stronger antitrust enforcement against Big Tech and corporate power, pressed Uber and Lyft over AI-driven surveillance pricing, and has cosponsored the Kids Online Safety Act, Sammy's Law, robocall limits and the TikTok divestiture bill.",
+"evidence": [
+{
+"type": "letter",
+"title": "Monopoly Busters Caucus co-chairs press Uber and Lyft on AI-driven surveillance pricing",
+"url": "https://jayapal.house.gov/2026/06/23/monopoly-busters-caucus-co-chairs-press-uber-and-lyft-following-reports-of-ai-driven-surveillance-pricing/",
+"date": "2026-06-23",
+"quote": "This is not a functional, nor is it a fair marketplace",
+"what_it_shows": "He demanded the two companies controlling 95 percent of ride-hailing explain how AI algorithms use personal data to charge different riders different prices."
+},
+{
+"type": "statement",
+"title": "Press release: Deluzio a founding member of the Lowering Utility Bills Caucus (describes his antitrust role)",
+"url": "https://deluzio.house.gov/media/press-releases/deluzio-focused-fighting-lower-costs-founding-member-new-lowering-utility",
+"date": "2026-01-26",
+"quote": "a leading voice in the Congress pushing for stronger antitrust enforcement and taking on the out-of-control corporate power that is ripping off Pennsylvanians",
+"what_it_shows": "His office defines him as an antitrust hawk who wants to rein in concentrated corporate power."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (H.R. 7891, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-09-17",
+"quote": null,
+"what_it_shows": "He supports requiring apps to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Sammy's Law (H.R. 2657)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2026-05-29",
+"quote": null,
+"what_it_shows": "He backs making big social media sites let parents use safety apps to manage kids' accounts."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: QUIET Act (H.R. 1027)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-08-29",
+"quote": null,
+"what_it_shows": "He supports requiring AI robocalls to disclose themselves and raising fines for illegal robocalls."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Americans from Foreign Adversary Controlled Applications Act (H.R. 7521, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "He backed forcing TikTok's sale or ban over Chinese control."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Deluzio signed both House Democratic letters in late 2025 opposing any federal moratorium or preemption of state AI laws, in the defense bill or by executive order, and voted against the House budget bill that carried the 10-year moratorium.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter of 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Deluzio signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "He joined 80 colleagues telling congressional leaders not to revive the state AI-law moratorium or use an executive order or broadband money to override state laws."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter of 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Deluzio signer)",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "He signed a second letter to Armed Services negotiators to keep any state AI-law preemption out of the defense bill."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 1 reconciliation bill containing the 10-year moratorium on state AI laws (House roll call 145)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted against the House bill that carried the moratorium; a party-line vote on a huge bill, so weak evidence on its own but consistent with his letters."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Deluzio cosponsored the bill to remove China's DeepSeek AI app from federal devices, a China-tech hawkish signal, but no statements on Nvidia chip sales or export controls were found. The score rests on that one adjacent cosponsorship.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: No DeepSeek on Government Devices Act (H.R. 1121)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-07",
+"quote": null,
+"what_it_shows": "He supports barring the Chinese AI app from government computers and phones, a hawkish stance on Chinese AI that stops short of a position on chip exports."
+}
+]
+}
+},
+"search_notes": "Ran about 14 Google News queries (artificial intelligence, data centers, Big Tech/antitrust, Nvidia/export controls/DeepSeek, deepfake/kids online, moratorium/preemption, electricity/PJM/energy bills, worker surveillance/price gouging, superintelligence, Monopoly Busters, No Robot Bosses, Fetterman primary) plus a Wayback listing of deluzio.house.gov. Opened and quoted: USA Today, his No Robot Bosses and Lowering Utility Bills releases, Jayapal copy of the Uber/Lyft letter, Truthout, Clarke letter page, Matsui letter PDF (text extracted locally, Deluzio listed among signers), govtrack votes h145 and h356. Blocked or empty: Post-Gazette Khanna tour piece (paywall), Center Square press club story (no AI text), his Facebook video (not fetched), Matsui press page (no archive). No AI super PAC support or attacks found."
+}
+]

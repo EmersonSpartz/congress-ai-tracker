@@ -1,0 +1,684 @@
+[
+{
+"bioguide": "C001088",
+"name": "Christopher A. Coons",
+"signature": "Author of the NO FAKES Act on AI deepfakes and a leading Democratic voice for tight chip export controls on China; frames AI as a race the US must win while backing targeted guardrails.",
+"notable_quote": {
+"text": "Now, Congress needs to step up and do our job: creating clear rules that encourage and support innovation and growth, while ensuring AI can't be used to threaten Americans.",
+"url": "https://www.coons.senate.gov/news/press-releases/senator-coons-statement-on-anthropics-launch-of-project-glasswing",
+"date": "2026-04-08"
+},
+"groups": [
+"Ranking Member, Senate Appropriations Subcommittee on Defense",
+"Ranking Member, Senate Foreign Relations Subcommittee on East Asia, the Pacific, and International Cybersecurity Policy"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Coons wants the US to build out AI computing but says that should not mean higher power bills or lost ground on climate. His answer is efficiency technology, co-leading a bill to study liquid cooling for data centers, not limits on new projects. No statement found on the proposed Delaware City data center itself.",
+"evidence": [
+{
+"type": "statement",
+"title": "FedScoop: Coons and McCormick introduce the Liquid Cooling for AI Act",
+"url": "https://fedscoop.com/liquid-cool-technology-ai-data-centers-senate-house-bill/",
+"date": "2025-11-25",
+"quote": "Leading the world in AI innovation shouldn't have to mean skyrocketing energy bills for American families or giving up ground in the fight against climate change",
+"what_it_shows": "He supports the AI buildout and the AI race but wants federal research to cut data center energy use and costs for families."
+},
+{
+"type": "cosponsor",
+"title": "S.3269 Liquid Cooling for AI Act of 2025 (original co-lead with Sen. McCormick)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3269",
+"date": "2025-11-20",
+"quote": null,
+"what_it_shows": "Directs a federal assessment of liquid cooling so AI data centers use less power; an efficiency approach rather than a pause or ratepayer mandate."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Coons backs a long list of specific AI rules: a federal right against AI voice and face copies, whistleblower protections, age checks for AI companion bots, bans on deceptive election deepfakes, and human control over military AI. At the same time he calls AI a race with China that America must win and attacked the Pentagon for punishing Anthropic and the White House for pulling frontier models offline without clear rules. He wants durable rules, not a pause.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "S.4591 NO FAKES Act of 2026 (sponsor; also sponsored S.1367 in 2025 and S.4875 in 2024)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4591",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "His signature AI bill creates a legal right to stop unauthorized AI copies of a person's voice or likeness; advanced out of Senate Judiciary in June 2026."
+},
+{
+"type": "hearing",
+"title": "Roll Call: Senate Judiciary advances Coons's NO FAKES Act by voice vote",
+"url": "https://rollcall.com/2026/06/18/ai-deepfakes-bill-advanced-by-senate-judiciary-committee/",
+"date": "2026-06-18",
+"quote": "Every American should have the right to decide how their voice and likeness will be used, especially when generative AI can create highly realistic digital replicas",
+"what_it_shows": "In his own words at markup, he frames deepfake protection as a personal right that needs a binding federal law."
+},
+{
+"type": "cosponsor",
+"title": "S.1792 AI Whistleblower Protection Act (cosponsor with Grassley)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1792",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "Protects AI company employees who report safety problems to the government, a targeted safety rule."
+},
+{
+"type": "cosponsor",
+"title": "S.3062 GUARD Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"date": "2026-05-11",
+"quote": null,
+"what_it_shows": "Would require AI chatbot companies to verify ages and keep minors off AI companion bots."
+},
+{
+"type": "letter",
+"title": "Schatz-led letter from 10 senators to Meta CEO Zuckerberg on AI chatbots and children (Coons signed)",
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-leads-bipartisan-group-of-10-senators-in-pressing-meta-for-safeguards-around-childrens-engagement-with-ai-chatbots",
+"date": "2025-08-20",
+"quote": "The wellbeing of children should not be sacrificed in the race for AI development.",
+"what_it_shows": "He joined a bipartisan demand that Meta explain chatbot policies that allowed romantic talk with minors and add safeguards."
+},
+{
+"type": "sponsor",
+"title": "S.4707 Responsible Artificial Intelligence Defense Act of 2026 (sponsor with Reed)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4707",
+"date": "2026-06-08",
+"quote": null,
+"what_it_shows": "Sets rules for military AI that keep humans responsible for the use of force; the Senate Armed Services Committee folded its core into the FY2027 defense bill."
+},
+{
+"type": "statement",
+"title": "Press release: Ranking Member Coons statement on Pentagon-Anthropic dispute",
+"url": "https://www.coons.senate.gov/news/press-releases/ranking-member-coons-statement-on-pentagon-anthropic-dispute",
+"date": "2026-02-27",
+"quote": "The Trump administration's decision to label Anthropic a supply chain risk to national security weakens free enterprise, harms innovation, and makes Americans less safe.",
+"what_it_shows": "He defended Anthropic's refusal to let its models be used for mass surveillance or fully autonomous weapons without a human off switch, calling those commonsense limits."
+},
+{
+"type": "statement",
+"title": "Press release: Coons statement on Anthropic's launch of Project Glasswing",
+"url": "https://www.coons.senate.gov/news/press-releases/senator-coons-statement-on-anthropics-launch-of-project-glasswing",
+"date": "2026-04-08",
+"quote": "Now, Congress needs to step up and do our job: creating clear rules that encourage and support innovation and growth, while ensuring AI can't be used to threaten Americans.",
+"what_it_shows": "He wants Congress to write clear AI rules, pairing innovation with guardrails and keeping the technology away from China."
+},
+{
+"type": "letter",
+"title": "Fortune: Gillibrand, Coons, Kelly, Schiff and Warner letter on the administration's 'unfocused, ad hoc' approach to frontier AI",
+"url": "https://fortune.com/2026/08/04/trump-ai-regulation-china-national-security/",
+"date": "2026-08-04",
+"quote": "Without consistent policy governing American models, consumers and businesses would be incentivized to migrate to models from foreign vendors, including those based in the People's Republic of China.",
+"what_it_shows": "He criticized secret, sudden federal restrictions on frontier models and asked for a public, durable framework; his concern is predictability and competitiveness as much as safety."
+},
+{
+"type": "statement",
+"title": "Press release: Coons and Cotton introduce resolution affirming America's AI dominance",
+"url": "https://www.coons.senate.gov/news/press-releases/senators-coons-cotton-introduce-resolution-to-affirm-americas-artificial-intelligence-dominance",
+"date": "2025-11-06",
+"quote": "The United States' prosperity and safety rests on our ability to win the AI race",
+"what_it_shows": "Shows his innovation-and-China framing; he wants frontier AI built in America by American companies, which tempers his guardrail stance."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Coons favors specific fixes for big platforms rather than break-ups: he cosponsors the Kids Online Safety Act and child-abuse-material bills, sponsors a bill forcing social media companies to open their data to researchers, and joined the letter pressing Meta on chatbots and kids. No support found for repealing Section 230 or breaking up companies.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.1748 Kids Online Safety Act (cosponsor; also cosponsored S.1409 in the 118th)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-09",
+"quote": null,
+"what_it_shows": "Backs a duty of care and safety tools for minors on social media and games."
+},
+{
+"type": "statement",
+"title": "Press release: Coons and colleagues introduce the bipartisan Kids Online Safety Act",
+"url": "https://www.coons.senate.gov/news/press-releases/senator-coons-colleagues-introduce-bipartisan-kids-online-safety-act-to-protect-children-from-online-risks",
+"date": null,
+"quote": "without proper safeguards, our children are too often exposed to objectionable, harmful, or outright dangerous content",
+"what_it_shows": "In his own words, platforms have value but need mandated safeguards and more transparency about their effect on children."
+},
+{
+"type": "sponsor",
+"title": "S.3292 Platform Accountability and Transparency Act (sponsor with Cassidy; also S.1876 in the 118th)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3292",
+"date": "2025-12-01",
+"quote": null,
+"what_it_shows": "Would force large social media companies to share data with independent researchers, a transparency rule rather than a structural remedy."
+},
+{
+"type": "cosponsor",
+"title": "S.1829 STOP CSAM Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2026-06-17",
+"quote": null,
+"what_it_shows": "Would let victims sue platforms that fail to remove child sexual abuse material, a targeted carve-out from platform immunity."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Coons cosponsored the Senate GUARDRAILS Act, which would block the December 2025 executive order that pressures states to drop their AI laws. He voted with 98 other senators to strip the 10-year state AI law moratorium from the 2025 budget bill. No speech or statement in his own words on preemption was found, so this rests on his cosponsorship.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.4216 GUARDRAILS Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4216",
+"date": "2026-03-26",
+"quote": null,
+"what_it_shows": "Protects states' right to pass their own AI safety laws by stopping the executive order that would withhold federal funds from states that regulate AI."
+},
+{
+"type": "statement",
+"title": "Schatz press release: senators introduce legislation to repeal Trump's AI moratorium (lists Coons as cosponsor)",
+"url": "https://www.schatz.senate.gov/news/press-releases/schatz-colleagues-introduce-legislation-to-repeal-trumps-ai-moratorium",
+"date": "2026-03-27",
+"quote": null,
+"what_it_shows": "Confirms Coons joined the six-senator bill introduced one week after the White House renewed its call to preempt state AI laws."
+},
+{
+"type": "vote",
+"title": "Senate roll call #363: Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted to remove the moratorium, but the vote was 99 to 1 after a deal collapsed, so it is a weak signal on its own."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Coons is one of the Senate's most active Democrats on keeping advanced AI chips out of China. He condemned the H20 and H200 sales, co-led the SAFE Chips Act to lock current limits into law, cosponsored the Chip Security, GAIN AI and AI OVERWATCH Acts, and pressed Commerce Secretary Lutnick in writing when his testimony conflicted with Nvidia's CEO.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Coons statement on Trump's decision to allow export of advanced AI chips (H20) to China",
+"url": "https://www.coons.senate.gov/news/press-releases/senator-coons-statement-on-president-trumps-decision-to-allow-the-export-of-advanced-ai-chips-to-china",
+"date": "2025-07-15",
+"quote": "President Trump's decision today hands China cutting-edge technology that Beijing will use to erase our competitive advantage in artificial intelligence, undermine our military, and outpace our economy.",
+"what_it_shows": "He opposed resuming H20 sales and demanded the decision be reversed."
+},
+{
+"type": "letter",
+"title": "Press release: Top Senate Democrats (Coons, Warner, Schumer, Reed, Warren) letter to Lutnick on resumed AI chip sales to China",
+"url": "https://www.coons.senate.gov/news/press-releases/top-senate-democrats-sound-alarm-on-administrations-decision-to-resume-ai-chip-sales-to-china",
+"date": "2025-07-28",
+"quote": "restricting access to leading-edge chips has been the defining barrier for the PRC's efforts to achieve AI parity",
+"what_it_shows": "Argues export controls are the key barrier to Chinese AI parity and objects to trading them away in trade talks."
+},
+{
+"type": "statement",
+"title": "Joint statement of Coons, Shaheen, Reed, Warner, Kelly, Himes, Krishnamoorthi on Trump's UAE and Saudi AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"date": "2025-05-16",
+"quote": "AI chips must only be exported to trusted companies, in reasonable numbers, and in concert with credible security standards and assurances.",
+"what_it_shows": "Opposed large Gulf chip deals without safeguards against diversion to China."
+},
+{
+"type": "statement",
+"title": "Press release: Coons and Ricketts introduce SAFE Chips Act",
+"url": "https://www.coons.senate.gov/news/press-releases/senators-coons-ricketts-introduce-safe-chips-act",
+"date": "2025-12-04",
+"quote": "As China races to close our lead in AI, we cannot give them the technological keys to our future through advanced semiconductor chips.",
+"what_it_shows": "Co-led a bipartisan bill to write current chip export limits into law so the White House cannot loosen them alone."
+},
+{
+"type": "cosponsor",
+"title": "S.3374 SAFE Chips Act of 2025 (co-lead)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3374",
+"date": "2025-12-04",
+"quote": null,
+"what_it_shows": "Codifies limits on the most advanced AI chips to China for 30 months."
+},
+{
+"type": "letter",
+"title": "Press release: Coons letter investigating Lutnick's statements on Nvidia H200 chip exports",
+"url": "https://www.coons.senate.gov/news/press-releases/senator-coons-investigates-commerce-secretary-lutnicks-statements-on-nvidia-h200-chip-exports-in-new-letter",
+"date": "2026-05-05",
+"quote": "I believe that allowing any companies in China to purchase these products presents a serious risk to our national security and economic leadership",
+"what_it_shows": "Demanded the number of H200 chips licensed and shipped to China after Lutnick's testimony conflicted with Nvidia's CEO."
+},
+{
+"type": "cosponsor",
+"title": "S.1705 Chip Security Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2025-11-04",
+"quote": null,
+"what_it_shows": "Requires location verification on exported advanced chips to stop smuggling into China."
+},
+{
+"type": "cosponsor",
+"title": "S.3150 GAIN AI Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3150",
+"date": "2025-11-06",
+"quote": null,
+"what_it_shows": "Makes chipmakers serve American buyers before shipping advanced AI chips to China."
+},
+{
+"type": "cosponsor",
+"title": "S.4456 AI OVERWATCH Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4456",
+"date": "2026-07-28",
+"quote": null,
+"what_it_shows": "Gives Congress a say before the government approves powerful AI chip sales to China and other risky countries."
+}
+]
+}
+},
+"search_notes": "Ran about 14 Google News searches (AI, data center, chips/Nvidia/export controls, preemption/moratorium, Anthropic, chatbot/KOSA, copyright, regulation, GUARDRAILS, Delaware data center laws) plus a Wayback listing of coons.senate.gov. coons.senate.gov and other senate.gov sites return 403 to direct fetch and WebFetch; read them through the Wayback Machine, which was intermittent. Verified in his own words: H20 statement (Jul 2025), Top Democrats letter (Jul 2025), Middle East chips statement (May 2025), AI dominance resolution (Nov 2025), SAFE Chips (Dec 2025), Pentagon-Anthropic statement (Feb 2026), Project Glasswing statement (Apr 2026), Lutnick H200 letter (May 2026), KOSA release, Meta chatbot letter (Schatz site), GUARDRAILS cosponsorship (Schatz site), NO FAKES markup quotes (Roll Call), Aug 2026 Gillibrand letter (Fortune, The Hill), liquid cooling quote (FedScoop), defense AI bill (Arms Control Association). Could not reach: his Jan 2026 Foreign Relations hearing remarks on AI leadership vs China, the Oct 2025 Blackwell video page, and the Nov 2025 Cassidy PATA release. Unverified leads not used: a July 2026 Instagram post praising Delaware's data center laws; Senate AI Caucus membership (no source found). No AI super PAC support or attacks found. Delaware voter guides (WHYY Aug 22 2026) contain no Coons AI or data center statements."
+},
+{
+"bioguide": "B001303",
+"name": "Lisa Blunt Rochester",
+"signature": "Commerce Committee Democrat focused on AI scams, sexualized deepfakes and AI's effect on workers; in August 2026 she pressed OpenAI and Anthropic over AI models that autonomously hacked third parties and called for federal oversight of frontier AI.",
+"notable_quote": {
+"text": "These incidents mark the first publicly confirmed instances of a frontier AI model autonomously launching unauthorized attacks on real people and companies, underscoring the urgent need for federal oversight of frontier AI systems",
+"url": "https://www.foxnews.com/politics/dem-senator-presses-openai-anthropic-answers-ai-hacking-probe",
+"date": "2026-08-06"
+},
+"groups": [
+"Ranking Member, Senate Commerce Subcommittee on Science, Manufacturing, and Competitiveness (per Fox News, Aug 2026)",
+"Founder, bipartisan Future of Work Caucus (House, 2017)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Blunt Rochester has not taken a public position on the proposed Delaware City data center or Delaware's 2026 data center laws that we could find. Her only relevant words are from July 2025, when she said the federal government must be forceful in scaling AI infrastructure but that any AI framework must prioritize the environment and energy efficiency. A July 2026 6abc interview listed data center builds as a topic but no transcript was available.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Blunt Rochester statement on Trump administration's executive actions on AI",
+"url": "https://www.bluntrochester.senate.gov/news/press-releases/statement-senator-blunt-rochester-statement-on-trump-administrations-executive-actions-on-artificial-intelligence",
+"date": "2025-07-23",
+"quote": "any responsible AI policy framework must prioritize the environment, and should focus on resource protection and energy efficiency technologies",
+"what_it_shows": "In the same statement she said government must be forceful in scaling AI infrastructure to compete, so she supports the buildout with environmental and efficiency conditions."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "She backs specific AI rules: a new federal crime for AI impersonation fraud, demands on platforms over sexualized deepfakes, the Kids Online Safety Act, and studies of AI's effect on jobs. In August 2026 she went further, telling OpenAI and Anthropic that frontier models autonomously attacking third parties shows an urgent need for federal oversight, testing standards and disclosure. She pairs this with strong pro-innovation, win-the-AI-race language.",
+"evidence": [
+{
+"type": "letter",
+"title": "Fox News: Blunt Rochester letters to OpenAI CEO Altman and Anthropic CEO Amodei on AI agents hacking third parties",
+"url": "https://www.foxnews.com/politics/dem-senator-presses-openai-anthropic-answers-ai-hacking-probe",
+"date": "2026-08-06",
+"quote": "These incidents mark the first publicly confirmed instances of a frontier AI model autonomously launching unauthorized attacks on real people and companies, underscoring the urgent need for federal oversight of frontier AI systems",
+"what_it_shows": "She demanded timelines, model instructions, security logs and transcripts, and called for federal testing standards, containment rules and disclosure requirements for powerful AI systems."
+},
+{
+"type": "letter",
+"title": "Fox News: Blunt Rochester letter to Anthropic on repeated model attacks during evaluations",
+"url": "https://www.foxnews.com/politics/dem-senator-presses-openai-anthropic-answers-ai-hacking-probe",
+"date": "2026-08-06",
+"quote": "Anthropic models' repeated attacks on third parties with no knowledge of, or role in, Anthropic and AISI's evaluations demonstrate an alarming pattern of malicious behavior",
+"what_it_shows": "Treats autonomous model misbehavior as a serious safety problem requiring government answers, not just voluntary company review."
+},
+{
+"type": "statement",
+"title": "Press release: Blunt Rochester and Sheehy introduce AI Fraud Accountability Act",
+"url": "https://www.bluntrochester.senate.gov/news/press-releases/news-senators-blunt-rochester-and-sheehy-introduce-ai-fraud-accountability-act",
+"date": "2026-03-04",
+"quote": "With more Americans using AI every day, we need to do all we can to cut down on AI-related fraud",
+"what_it_shows": "Co-led a bipartisan bill making realistic AI impersonation to defraud people a federal offense enforced by the FTC."
+},
+{
+"type": "cosponsor",
+"title": "S.3982 AI Fraud Accountability Act of 2026 (co-lead with Sheehy)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3982",
+"date": "2026-03-04",
+"quote": null,
+"what_it_shows": "Adds criminal and civil penalties for using AI to trick or scam people."
+},
+{
+"type": "hearing",
+"title": "Press release: Blunt Rochester questions OpenAI CEO Sam Altman at Commerce hearing on winning the AI race",
+"url": "https://www.bluntrochester.senate.gov/news/press-releases/news-senator-blunt-rochester-questions-openai-ceo-sam-altman-during-commerce-hearing-on-winning-the-ai-race",
+"date": "2025-05-08",
+"quote": "making sure that we are watching out for ethics, watching out for scams, watching out that technology does not take over the human",
+"what_it_shows": "She voiced excitement about AI's opportunities while naming ethics, scams and loss of human control as concerns, and pressed Altman on OpenAI's shift to a for-profit structure."
+},
+{
+"type": "statement",
+"title": "FedScoop: Blunt Rochester, Hirono and Schiff introduce the Workforce of the Future Act",
+"url": "https://fedscoop.com/ai-workforce-bill-senate-democrats-labor-commerce-education/",
+"date": "2025-12-03",
+"quote": "Artificial intelligence is increasingly disrupting our economy, contributing to layoffs and occupational changes",
+"what_it_shows": "Wants federal agencies to study AI's job impact and fund worker training, a targeted response to AI displacement."
+},
+{
+"type": "hearing",
+"title": "FedScoop: Blunt Rochester presses Fed Chair Warsh on who sits on the Fed's AI task force",
+"url": "https://fedscoop.com/federal-reserve-ai-task-force-kevin-warsh/",
+"date": "2026-07-16",
+"quote": "I hope that there will be the inclusion of other voices beyond economic experts and tech individuals, but actually families, businesses, people that are actually both consuming and impacted by AI.",
+"what_it_shows": "Asked the Fed to give Main Street equal footing with Wall Street and tech leaders when weighing AI and jobs."
+},
+{
+"type": "statement",
+"title": "Press release: Blunt Rochester and Curtis launch Consumer Safety Technology Act",
+"url": "https://www.bluntrochester.senate.gov/news/press-releases/news-senators-blunt-rochester-curtis-launch-consumer-safety-technology-act-to-strengthen-ai-and-blockchain-safeguards",
+"date": "2025-09",
+"quote": "Our government must be able to keep up with new and emerging technologies, especially when it comes to consumer safety",
+"what_it_shows": "Shows her pro-adoption side: she wants agencies like the Consumer Product Safety Commission to use AI to protect consumers."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "She goes after platforms on specific harms rather than structure: she led eight senators demanding that X, Meta, Alphabet, Snap, Reddit and TikTok explain and remove sexualized AI deepfakes, cosponsors the Kids Online Safety Act, and backs a bill to stop fentanyl sales on social media. No calls found for breaking up Big Tech or repealing Section 230.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Blunt Rochester leads 8 senators in letter to tech companies demanding removal of sexualized AI-generated images",
+"url": "https://www.bluntrochester.senate.gov/news/press-releases/news-senator-blunt-rochester-leads-colleagues-in-letter-to-tech-companies-demanding-the-removal-of-sexualized-ai-generated-images",
+"date": "2026-01-15",
+"quote": "users are finding ways around these guardrails. Or these guardrails are failing. Even where outputs do not depict explicit nudity, they can still be non-consensual, sexualizing, and harmful. The public deserves transparency.",
+"what_it_shows": "Demanded that six platforms hand over policies, preserve documents, and explain how they remove AI undressing deepfakes and notify victims."
+},
+{
+"type": "cosponsor",
+"title": "S.1748 Kids Online Safety Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2026-01-08",
+"quote": null,
+"what_it_shows": "Supports a duty of care and safety tools for minors on social media, games and video sites."
+},
+{
+"type": "cosponsor",
+"title": "S.3618 No Fentanyl on Social Media Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3618",
+"date": "2026-01-13",
+"quote": null,
+"what_it_shows": "Pushes platforms to stop drug sales on their apps, a targeted platform rule."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Blunt Rochester has repeatedly defended states' power to regulate AI. As a Commerce Committee Democrat she signed the June 2025 letter calling the 10-year moratorium an attack on states' rights, said in July 2025 that partisanship should not shroud the ability of states and Congress to regulate AI, and cosponsored the GUARDRAILS Act to block the December 2025 executive order.",
+"evidence": [
+{
+"type": "letter",
+"title": "Cantwell and Commerce Committee Democrats letter to Chairman Cruz on the reconciliation Commerce title (Blunt Rochester signed)",
+"url": "https://www.commerce.senate.gov/press/dem/release/cantwell-commerce-committee-democrats-call-for-regular-order-on-dangerous-and-damaging-commerce-title-of-reconciliation-bill-2025-6/",
+"date": "2025-06",
+"quote": "the AI moratorium proposal tramples states' rights and holds the $42 billion BEAD program hostage, further delaying the broadband Americans desperately need",
+"what_it_shows": "Opposed the state AI law moratorium before the Senate vote, on states' rights grounds."
+},
+{
+"type": "statement",
+"title": "Press release: Blunt Rochester statement on Trump administration's executive actions on AI",
+"url": "https://www.bluntrochester.senate.gov/news/press-releases/statement-senator-blunt-rochester-statement-on-trump-administrations-executive-actions-on-artificial-intelligence",
+"date": "2025-07-23",
+"quote": "I do not believe that we should allow culture wars and deep partisanship to shroud the ability of states and Congress to regulate this rapidly evolving industry.",
+"what_it_shows": "In her own words, states should keep the ability to regulate AI alongside Congress."
+},
+{
+"type": "cosponsor",
+"title": "S.4216 GUARDRAILS Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4216",
+"date": "2026-03-26",
+"quote": null,
+"what_it_shows": "Would stop the December 2025 executive order from withholding federal funds from states that pass AI safeguards; confirmed on the Schatz press release listing cosponsors."
+},
+{
+"type": "vote",
+"title": "Senate roll call #363: Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted to remove the moratorium; consistent with her letters, though the 99 to 1 vote is weak evidence by itself."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls. We searched for statements on Nvidia, H20 or H200 sales, export controls and the Chip Security, GAIN AI and SAFE Chips Acts, and found none; she is not a cosponsor of those bills. Her March 2026 bill banning China-sourced LiDAR at the Transportation Department is about Chinese tech imports, not chip exports, and at the May 2025 Altman hearing she asked about semiconductor manufacturing policy without stating a position.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 16 Google News searches (AI, data center, deepfake/chatbot/KOSA, preemption/moratorium, Warsh, energy bills/Delmarva/PJM, Big Tech/Section 230, Nvidia/export controls, AI Action Plan, workers/jobs, Starwood/Delaware City, ranking member, kids and chatbots) plus a Wayback listing of bluntrochester.senate.gov. Her site blocks direct and WebFetch access (403); read releases via the Wayback Machine: Altman hearing (May 2025), executive order statement (Jul 2025), Consumer Safety Technology Act (Sep 2025), deepfake letter (Jan 2026), AI Fraud Accountability Act (Mar 2026). Verified via Cantwell/Commerce Democrats release, Schatz GUARDRAILS release, Fox News (Aug 2026 OpenAI/Anthropic letters), FedScoop (Workforce of the Future Act, Warsh hearing), StateScoop (RESULTS Act). Could not reach her June 2025 Powell exchange on AI and jobs, the Nov 2025 Husted AI-in-classrooms release, or the Washington Post Aug 10 2026 story. A July 28 2026 6abc Inside Story interview lists data center builds as a topic but no transcript exists. Google News link decoding hit rate limits late in the session. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "M001238",
+"name": "Sarah McBride",
+"signature": "First-term House Science Committee member who sponsors the voluntary READ AI Models Act, an AI 'nutrition label' built at NIST, and presses the administration on data center costs for Delaware ratepayers.",
+"notable_quote": {
+"text": "I've certainly heard from countless Delawareans that are worried about data centers being constructed in their communities, straining our energy and water supply and increasing the cost of utilities for all of us.",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (House)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "McBride's message on data centers is protect the ratepayer first. She told the White House science director that Delawareans fear data centers will strain power and water and raise everyone's bills, signed the November 2025 letter urging the PJM grid operator to make data centers curtail power in a crunch, is an original cosponsor of the Energy Bills Relief Act, and voted against the SPEED Act permitting bill. Her preferred fix is Delaware-made liquid cooling to shrink data centers' footprint, not a moratorium.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: House Science hearing 'Advancing America's AI Action Plan' with OSTP Director Kratsios",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14",
+"quote": "I've certainly heard from countless Delawareans that are worried about data centers being constructed in their communities, straining our energy and water supply and increasing the cost of utilities for all of us.",
+"what_it_shows": "Pressed the administration on what it is doing to mitigate data center effects on communities and asked it to fund liquid cooling; Kratsios promised to look for funding."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. McBride presses Trump administration on data center impacts, secures commitment to explore funding for liquid cooling",
+"url": "https://mcbride.house.gov/media/press-releases/rep-mcbride-presses-trump-administration-data-center-impacts-secures",
+"date": "2026-01-15",
+"quote": null,
+"what_it_shows": "Her office framed the exchange as centering Delaware communities in national AI policy and pushing innovation that lowers costs and protects local resources."
+},
+{
+"type": "letter",
+"title": "Van Hollen and Beyer letter from 12 lawmakers to the PJM Interconnection board on data center demand and electricity costs (McBride signed)",
+"url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-beyer-colleagues-urge-power-grid-operator-pjm-to-prioritize-consumers-access-to-reliable-affordable-electricity-over-large-corporate-interests",
+"date": "2025-11",
+"quote": "PJM must swiftly address the fact that data center energy demand is threatening to overwhelm the grid",
+"what_it_shows": "Urged mandatory backstop rules forcing new large loads like data centers to curtail demand so homes, schools and businesses are shielded from higher prices and blackouts."
+},
+{
+"type": "cosponsor",
+"title": "H.R.7977 Energy Bills Relief Act (original cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026",
+"quote": null,
+"what_it_shows": "Joined a Democratic bill aimed at bringing down household electric bills as data center demand pushes prices up; cosponsorship confirmed on GovTrack."
+},
+{
+"type": "cosponsor",
+"title": "H.R.5332 Liquid Cooling for AI Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5332",
+"date": "2025-09-15",
+"quote": null,
+"what_it_shows": "Backs federal study and promotion of liquid cooling so AI data centers use less energy and water."
+},
+{
+"type": "vote",
+"title": "House roll call #356: passage of H.R. 4776, the SPEED Act permitting reform bill (Nay)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against a bill to speed environmental reviews for energy and infrastructure projects, including those serving data centers; a general permitting vote, not data-center specific."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "McBride wants what she calls a Goldilocks approach: guardrails strong enough to protect people without slowing American competitiveness. Her main AI bill, the READ AI Models Act, is a voluntary NIST transparency label for AI models. She cosponsors bills against AI sexual deepfakes and says AI should never make high-stakes decisions in criminal justice, immigration or benefits on its own.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R.6461 READ AI Models Act (sponsor with Rep. Obernolte)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6461",
+"date": "2025-12-04",
+"quote": null,
+"what_it_shows": "Directs NIST to build a voluntary, modular documentation template describing what an AI model is, what data trained it and how it was tested."
+},
+{
+"type": "statement",
+"title": "Press release: McBride introduces bipartisan READ AI Models Act to bring more transparency to AI",
+"url": "https://mcbride.house.gov/media/press-releases/mcbride-introduces-bipartisan-read-ai-models-act-bring-more-transparency",
+"date": "2025-12-04",
+"quote": "The READ AI Models Act brings transparency to AI in a way that's simple, consistent and accessible. It levels the playing field and helps people make informed decisions.",
+"what_it_shows": "She stresses the bill is voluntary, bipartisan and grounded in NIST, so her signature approach is transparency and standards rather than mandates."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: McBride on national AI standards at House Science hearing with Kratsios",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14",
+"quote": "I heard Chair Babin earlier say that he supports consensus-based standards as well, and I'm happy to say I agree with that.",
+"what_it_shows": "She endorsed the AI Action Plan's call for clear national standards so people can trust AI and asked Kratsios to work with her on the READ AI bill."
+},
+{
+"type": "interview",
+"title": "American Bazaar: McBride on the RegulatingAI podcast describes a 'Goldilocks solution' for AI rules",
+"url": "https://americanbazaaronline.com/2026/01/22/ais-goldilocks-solution-congresswoman-sarah-mcbride-on-future-guidance-of-ai-473732/",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "Per the article's summary, she wants rules strong enough to provide guardrails but not so restrictive they slow US competitiveness, says AI must never make high-stakes decisions alone, and raised UBI and portable benefits as responses to job displacement."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3562 DEFIANCE Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-20",
+"quote": null,
+"what_it_shows": "Lets victims sue people who make or share AI sexual deepfakes of them."
+},
+{
+"type": "cosponsor",
+"title": "H.R.633 TAKE IT DOWN Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-04-01",
+"quote": null,
+"what_it_shows": "Criminalizes posting real or AI-faked sexual images without consent and forces fast takedowns; now law."
+},
+{
+"type": "cosponsor",
+"title": "H.R.5360 AWARE Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5360",
+"date": "2026-04-21",
+"quote": null,
+"what_it_shows": "Has the government publish public warnings and learning resources about the risks of AI tools."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Her record on tech companies is a set of targeted fixes: bills requiring AI robocalls to identify themselves, cracking down on foreign scam robocalls, cutting off abusers' remote access to a survivor's connected car, and forcing takedowns of nonconsensual sexual images. No statements found on Section 230, antitrust or breaking up Big Tech.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.1027 QUIET Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-04-24",
+"quote": null,
+"what_it_shows": "Requires AI-voiced robocalls to disclose they are AI and raises fines for illegal robocalls."
+},
+{
+"type": "cosponsor",
+"title": "H.R.6152 Foreign Robocall Elimination Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Cracks down on scam robocalls entering the US from abroad."
+},
+{
+"type": "cosponsor",
+"title": "H.R.2110 Safe Vehicle Access for Survivors Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"date": "2025-06-25",
+"quote": null,
+"what_it_shows": "Makes carmakers cut off an abuser's remote access to a car's apps and location data when a survivor asks."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "McBride signed the December 2025 letter from 44 House Democrats calling any AI moratorium wildly irresponsible and urging negotiators to keep preemption out of the defense bill, and she cosponsors the House GUARDRAILS Act to block the executive order targeting state AI laws. In a January 2026 podcast she also said a patchwork of state rules can hurt small businesses and that federal leadership is needed, while states like Delaware should keep the ability to act when Washington falls short.",
+"evidence": [
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (McBride signed)",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "Signed a letter saying state laws are the only protection consumers have until Congress acts, and that any preemption would put Americans at risk."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8031 GUARDRAILS Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Protects states' right to pass their own AI laws by stopping the federal government from wiping them out; joined the day the White House released its preemption framework."
+},
+{
+"type": "interview",
+"title": "American Bazaar: McBride on the RegulatingAI podcast on federal leadership and state AI rules",
+"url": "https://americanbazaaronline.com/2026/01/22/ais-goldilocks-solution-congresswoman-sarah-mcbride-on-future-guidance-of-ai-473732/",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "Per the article's summary, she made a case for federal leadership because a state patchwork can harm small businesses, but said states like Delaware should retain the ability to act when federal action falls short; a nuance that softens her anti-preemption record."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "McBride leans toward keeping advanced AI out of China's reach, but only through cosponsorships: she backs closing the cloud loophole that lets foreigners use restricted US chips remotely and removing the Chinese DeepSeek app from government devices. No statements found on Nvidia H20 or H200 sales or export controls.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.2683 Remote Access Security Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"date": "2025-05-08",
+"quote": null,
+"what_it_shows": "Closes a loophole so foreigners cannot use restricted American chips and AI through the cloud."
+},
+{
+"type": "cosponsor",
+"title": "H.R.1121 No DeepSeek on Government Devices Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-04-10",
+"quote": null,
+"what_it_shows": "Would remove the Chinese AI app DeepSeek from federal computers and phones."
+},
+{
+"type": "cosponsor",
+"title": "H.R.802 STAR Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2025-03-25",
+"quote": null,
+"what_it_shows": "Extends the tax credit for building chip factories in America; a domestic manufacturing measure, not an export control."
+}
+]
+}
+},
+"search_notes": "Ran about 12 Google News searches (AI, data center, chatbot/deepfake/Big Tech, preemption/moratorium, Kratsios hearing, energy bills/PJM, SPEED Act, chips/DeepSeek, Science Committee) and scanned all nine pages of press releases on mcbride.house.gov, which is reachable directly. Verified in her own words: Jan 14 2026 House Science hearing exchange with Kratsios (Tech Policy Press transcript and her Jan 15 release), READ AI Models Act release (Dec 2025), AI Caucus membership (her committees and caucuses page). Verified as signer: Nov 2025 Van Hollen/Beyer PJM letter (Wayback copy of the release), Dec 2025 Clarke NDAA letter. Verified votes and cosponsorships on GovTrack: SPEED Act Nay (roll call 356, Dec 18 2025), original cosponsor of H.R. 7977 Energy Bills Relief Act. The Jan 2026 American Bazaar article summarizes a podcast; it paraphrases her so no quotes were taken from it. Could not open: her Feb 2026 Facebook post on data centers, the Apr 19 2026 Delaware News Journal video on AI, the Jan 14 2026 News Journal op-ed, and the Delaware Business Times story on her AI bill (403 and Wayback gaps). Did not confirm whether she signed the Nov 26 2025 Matsui letter (Matsui's site not indexed). No AI super PAC support or attacks found."
+}
+]

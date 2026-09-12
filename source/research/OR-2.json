@@ -1,0 +1,584 @@
+[
+{
+"bioguide": "D000635",
+"name": "Maxine Dexter",
+"signature": "Portland freshman who treats data centers as a water and public-lands threat, won a DOE study of data center water use, and backs states' right to regulate AI.",
+"notable_quote": {
+"text": "At a time when the climate crisis is driving water insecurity across the country, that is not a trade-off our communities can afford.",
+"url": "https://dexter.house.gov/media/blog-post/big-tech-draining-our-water",
+"date": "2026-07-09"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Dexter is one of the more critical House voices on data centers. She calls them a threat to water supplies, won an amendment making the Energy Department study their water use, wants to keep them off public lands, and cosponsors a bill to put data centers in their own rate class so other customers do not pay for them. She has not called for a moratorium.",
+"evidence": [
+{
+"type": "statement",
+"title": "Blog post: Big Tech is draining our water",
+"url": "https://dexter.house.gov/media/blog-post/big-tech-draining-our-water",
+"date": "2026-07-09",
+"quote": "At a time when the climate crisis is driving water insecurity across the country, that is not a trade-off our communities can afford.",
+"what_it_shows": "In her own words she frames data centers as a water threat, points to her DOE study amendment, and says protecting public lands from data centers is next on her list."
+},
+{
+"type": "other",
+"title": "Amendment 58 to H.R. 4553 (FY2026 Energy and Water appropriations), Dexter, made in order",
+"url": "https://rules.house.gov/bill/119/hr-4553",
+"date": "2025-09",
+"quote": "conduct a study assessing current and projected water use by data centers, associated impacts on local water resources, and best practices and technologies to reduce water consumption.",
+"what_it_shows": "She used the appropriations process to force a federal study of how much water data centers use and how to cut it."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R. 8241 Power for the People Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8241",
+"date": "2026-04-09",
+"quote": "To promote the creation of data center load queues and data center-specific rate classes to mitigate the impact of data centers on other electricity consumers",
+"what_it_shows": "She backs putting data centers in their own utility rate class so households do not absorb their grid costs."
+},
+{
+"type": "vote",
+"title": "Roll call 356: Nay on H.R. 4776 SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted against a permitting-reform bill whose backers said it would speed energy and data center construction; a general environmental-review vote, so weak evidence on its own."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Dexter has not laid out her own AI safety agenda. The only signal is a December 2025 letter she signed saying a freeze on state AI laws would leave a regulatory vacuum, which implies she wants some AI protections in place.",
+"evidence": [
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats opposing an AI moratorium in the FY26 NDAA",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "She signed a letter arguing AI rules are needed and that wiping out state rules without federal ones would let Big Tech run unchecked."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. I looked for statements or bills on Section 230, privacy law, kids online safety, app stores, or antitrust and found none; her criticism of Big Tech is about data center water use.",
+"evidence": []
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Dexter clearly wants states to keep regulating AI. She is an original cosponsor of the GUARDRAILS Act and signed both major House Democratic letters against a federal moratorium or executive order overriding state AI laws.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R. 8031 GUARDRAILS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "The bill protects states' right to pass their own AI laws by blocking federal preemption."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "She signed a letter telling congressional leaders not to revive the moratorium or use an executive order and broadband money to override state AI laws."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats opposing an AI moratorium in the FY26 NDAA",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "A second letter she signed urging defense-bill negotiators to keep any state AI-law preemption out of the NDAA."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. I searched for statements on Nvidia, export controls, chip smuggling, or China AI and found nothing.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Maxine Dexter' artificial intelligence; 'Maxine Dexter' AI; 'Maxine Dexter' data center(s); 'Dexter' Oregon data center; chatbot/deepfake/Big Tech/Section 230; preemption/moratorium; DOE water amendment; NDAA amendment; site listing of dexter.house.gov (Wayback index sparse); fetched her press release listing and committees page (caucus page renders empty). Confirmed her Sept 2025 amendment in the Rules Committee list for H.R. 4553 (Energy-Water). Confirmed cosponsorship of H.R. 8241 and H.R. 8031 on govtrack (congress.gov returns 403). Confirmed her name on the Matsui letter (PDF text extracted locally) and the Clarke letter. Not a cosponsor of H.R. 9340, 9442, 7858, 6984 or 6529. No AI caucus membership found."
+},
+{
+"bioguide": "H001094",
+"name": "Val T. Hoyle",
+"signature": "Eugene-area Democrat who says AI must be regulated to protect workers, called NDAA preemption a Big Tech backroom deal, then accepted a Leading the Future endorsement.",
+"notable_quote": {
+"text": "AI must be regulated so that it does not harm labor or people",
+"url": "https://www.transformernews.ai/p/an-oregon-congresswoman-distanced-val-hoyle",
+"date": "2026-05-13"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Hoyle cosponsors a bill to keep the cost of data center power lines and plants off family electric bills and voted against the SPEED Act permitting bill. I found no speeches or statements of her own about data centers.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6529 Protecting Families from AI Data Center Energy Costs Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "She joined a bill meant to stop household electric bills from rising to pay for grid upgrades that AI data centers need."
+},
+{
+"type": "vote",
+"title": "Roll call 356: Nay on H.R. 4776 SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted against a permitting-reform bill whose backers said it would speed energy and data center construction; a general environmental-review vote, so weak evidence on its own."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Hoyle says AI must be regulated so it does not hurt workers or people, and she cosponsors bills on AI pricing, AI election deepfakes, and keeping humans in control of nuclear launches. But after the pro-industry super PAC Leading the Future endorsed her she shifted to praising a common sense federal framework and industry cooperation, so her stance is targeted guardrails with a mixed recent tone.",
+"evidence": [
+{
+"type": "interview",
+"title": "Transformer: Hoyle's first response to the Leading the Future endorsement",
+"url": "https://www.transformernews.ai/p/an-oregon-congresswoman-distanced-val-hoyle",
+"date": "2026-05-13",
+"quote": "AI must be regulated so that it does not harm labor or people",
+"what_it_shows": "Her initial statement distanced her from the anti-regulation super PAC and put worker protection first."
+},
+{
+"type": "statement",
+"title": "Transformer: Hoyle's revised statement after Leading the Future was asked for comment",
+"url": "https://www.transformernews.ai/p/an-oregon-congresswoman-distanced-val-hoyle",
+"date": "2026-05-13",
+"quote": "Workers and consumers need to be protected and we need to have a broad federal framework based on common sense.",
+"what_it_shows": "Within days she softened, saying she wants industry at the table and a federal framework; this is the main contradictory signal."
+},
+{
+"type": "pac",
+"title": "Leading the Future endorsement and Think Big spending for Hoyle",
+"url": "https://www.transformernews.ai/p/an-oregon-congresswoman-distanced-val-hoyle",
+"date": "2026-05-13",
+"quote": "$292,419 of publicly disclosed spending by Think Big, a super PAC affiliated with and funded by Leading the Future, on ads supporting Hoyle",
+"what_it_shows": "The AI industry super PAC endorsed her on May 8, 2026 (first reported by Axios) and its affiliate spent on her primary; she said she did not seek it but ultimately accepted it."
+},
+{
+"type": "pac",
+"title": "Yahoo News / NBC: AI industry super PAC ads in 2026 primaries",
+"url": "https://www.yahoo.com/news/politics/articles/got-crushed-ai-giants-funding-100000178.html",
+"date": "2026-06-21",
+"quote": "\"Standing up to big pharma, fighting for local jobs, Val Hoyle doesn't back down,\" says an ad backing the Oregon Democratic representative",
+"what_it_shows": "National coverage listed her among candidates boosted by AI-industry-funded super PAC ads ahead of her primary."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640 Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2026-01-27",
+"quote": null,
+"what_it_shows": "She backs banning companies from using AI and personal data to charge people different prices or pay workers different wages."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5272 Protect Elections from Deceptive AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5272",
+"date": "2026-06-08",
+"quote": null,
+"what_it_shows": "She supports banning AI-made fake audio or video of candidates meant to trick voters."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 2894 Block Nuclear Launch by Autonomous Artificial Intelligence Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2023-07-17",
+"quote": null,
+"what_it_shows": "Earlier support for a hard rule that a human, not an AI, must decide any nuclear launch."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Hoyle wants targeted rules on tech companies, especially privacy standards that apply to every platform and a ban on AI-driven surveillance pricing. She voted against forcing the sale of TikTok, saying singling out one company was the wrong approach.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Hoyle's statement on voting against the bill forcing the sale of TikTok",
+"url": "https://hoyle.house.gov/media/press-releases/congresswoman-hoyles-statement-following-voting-in-opposition-to-bill-containing-provisions-to-force-the-sale-of-tiktok",
+"date": "2024-04-20",
+"quote": "This is not just a TikTok problem, it's a problem with social media and tech companies across-the-board.",
+"what_it_shows": "She opposed a company-specific ban and called instead for the same data privacy and user engagement standards for all social media platforms."
+},
+{
+"type": "other",
+"title": "NW Labor Press: grocery union campaign against surveillance pricing",
+"url": "https://nwlaborpress.org/2026/04/grocery-union-campaigns-against-surveillance-pricing/",
+"date": "2026-04-17",
+"quote": "Representative Val Hoyle (D-Oregon) is a lead sponsor on a House version.",
+"what_it_shows": "Labor press identifies her as a House lead on banning personalized pricing based on consumer data, in line with her H.R. 4640 cosponsorship."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 8622 Preventing the Algorithmic Facilitation of Rental Housing Cartels Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8622",
+"date": "2024-12-16",
+"quote": null,
+"what_it_shows": "She supported outlawing landlords' use of shared pricing algorithms to push up rents."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Hoyle has strongly opposed federal preemption of state AI laws, signing the November 2025 letter against the NDAA moratorium and calling the White House effort outrageous and a Big Tech backroom deal. Her later acceptance of an endorsement from Leading the Future, which opposes state AI regulation, and her call for a broad federal framework muddy the picture but do not endorse preemption.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "She signed a letter telling congressional leaders not to revive the moratorium or use an executive order to override state AI laws."
+},
+{
+"type": "statement",
+"title": "Transformer: Hoyle's past comments on the NDAA preemption push",
+"url": "https://www.transformernews.ai/p/an-oregon-congresswoman-distanced-val-hoyle",
+"date": "2026-05-13",
+"quote": "“outrageous,” a “Big Tech backroom deal,” and “government overreach.”",
+"what_it_shows": "Transformer reports she used these words for the White House effort to preempt state AI laws through the defense bill."
+},
+{
+"type": "pac",
+"title": "Leading the Future endorsement of Hoyle and her acceptance",
+"url": "https://www.transformernews.ai/p/an-oregon-congresswoman-distanced-val-hoyle",
+"date": "2026-05-13",
+"quote": "Leading the Future endorsed me because they are working to build a broader coalition around AI regulation and I don’t believe we can put our heads in the sand and ignore the industry.",
+"what_it_shows": "Contradictory signal: the PAC says it opposes state AI regulation and backs the White House framework, and she chose to accept its support."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls as of Sept 2026. She voted against forcing TikTok's sale by its Chinese owner and welcomed CHIPS Act investment in Oregon, but neither addresses selling AI chips to China.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Val Hoyle' artificial intelligence; 'Val Hoyle' AI; 'Val Hoyle' data center(s); 'Hoyle' Leading the Future; preemption/moratorium/NDAA; 'government overreach'; surveillance pricing / electronic shelf labels; data center Eugene/Lane County/Coos; site listing of hoyle.house.gov; fetched her committees and caucuses page (no AI caucus). Read the Transformer article in full, her 2024 TikTok statement, the NW Labor Press piece, and the Yahoo/NBC PAC article. Axios (May 8, 2026 endorsement scoop) returned 403, so the endorsement is cited through Transformer. Could not resolve the June 19, 2026 KOIN interview URL. Could not find the original source of her 'outrageous' NDAA remark beyond Transformer. Confirmed her name on the Matsui letter (PDF text); she is not on the Clarke letter and not a GUARDRAILS cosponsor. Confirmed H.R. 6529 cosponsorship on govtrack."
+},
+{
+"bioguide": "B001326",
+"name": "Janelle S. Bynum",
+"signature": "Financial Services freshman focused on electricity affordability who wants data center grid costs kept off consumers; very little public AI record.",
+"notable_quote": {
+"text": "This legislation would bring transparency for consumers by requiring a detailed breakdown of what is contributing to increased electricity expenses so we can bring down costs and so that Americans know exactly where their money is going.",
+"url": "https://bynum.house.gov/media/press-releases/congresswoman-bynum-introduces-legislation-improve-electricity-price",
+"date": "2026-07-10"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Bynum approaches data centers as an electricity-bill issue. Her affordability agenda calls for shifting grid costs away from consumers when manufacturing and data centers drive price hikes, and her BILL Drivers Act would make the government spell out how data centers are pushing up bills. She also lists permitting reform for transmission and generation, so she is not against building.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Bynum unveils Affordability Agenda",
+"url": "https://bynum.house.gov/media/press-releases/rep-bynum-unveils-affordability-agenda-lower-costs",
+"date": "2026-02-12",
+"quote": "Reallocate electric grid costs to protect consumers from price hikes due to manufacturing and data center development.",
+"what_it_shows": "Her official agenda names data centers as a driver of electricity price hikes and wants their grid costs moved off consumers."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Bynum unveils Affordability Agenda (energy plank on permitting)",
+"url": "https://bynum.house.gov/media/press-releases/rep-bynum-unveils-affordability-agenda-lower-costs",
+"date": "2026-02-12",
+"quote": "Reform permitting rules to make it faster and cheaper to build energy transmission and generation infrastructure.",
+"what_it_shows": "The same agenda backs faster energy infrastructure permitting, showing she pairs consumer protection with building more supply."
+},
+{
+"type": "statement",
+"title": "Press release: Bynum introduces bipartisan BILL Drivers Act on electricity price transparency",
+"url": "https://bynum.house.gov/media/press-releases/congresswoman-bynum-introduces-legislation-improve-electricity-price",
+"date": "2026-07-10",
+"quote": "The Bill Drivers Act would give consumers the opportunity to better understand how factors, including data centers, input costs, and production challenges, are impacting energy bills for communities across Oregon.",
+"what_it_shows": "Her bill would have federal energy agencies publicly report what is driving bill increases, with data centers named first."
+},
+{
+"type": "vote",
+"title": "Roll call 356: Nay on H.R. 4776 SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted against the Republican permitting-reform bill whose backers said it would speed energy and data center projects, even though her own agenda calls for permitting reform."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Bynum's only AI-specific action found is cosponsoring the QUIET Act, which makes AI robocalls identify themselves as AI. She was herself the target of AI deepfake attack ads under state investigation in 2026, but I found no statement from her about AI safety or deepfake rules. A local TV interview in August 2026 reportedly covered AI but could not be retrieved.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1027 QUIET Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-07-10",
+"quote": null,
+"what_it_shows": "She supports requiring robocalls that use AI to imitate a person to disclose it, and higher fines for illegal robocalls."
+},
+{
+"type": "other",
+"title": "Axios Portland: AI deepfakes test Oregon election law",
+"url": "https://www.axios.com/local/portland/2026/08/12/oregon-ai-deepfake-election-law",
+"date": "2026-08-12",
+"quote": "One ad showed Bynum and Gov. Tina Kotek with glowing red eyes chasing a group of scared children.",
+"what_it_shows": "Context only: she was the target of AI-generated attack ads that triggered the first enforcement test of Oregon's AI disclosure law; no reaction from her was found."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Bynum has joined two targeted tech bills, one on AI robocall disclosure and one banning connected cars and car software from companies tied to China, Russia, Iran, or North Korea. No broader statements on Big Tech, Section 230, or privacy were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1027 QUIET Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-07-10",
+"quote": null,
+"what_it_shows": "A targeted consumer-protection rule on robocalls and AI voice imitation."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "She backs banning connected-car technology from foreign adversary companies, a national-security-driven tech restriction."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. She did not sign the Matsui or Clarke letters against the state AI-law moratorium, is not a GUARDRAILS Act cosponsor, and I found no statements on the December 2025 executive order or the March 2026 White House framework.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls as of Sept 2026. Her Connected Vehicle Security Act cosponsorship is hawkish on Chinese tech but does not address AI chips.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Janelle Bynum' artificial intelligence; 'Janelle Bynum' AI; 'Janelle Bynum' data center(s); chatbot/deepfake/Big Tech/robocall/crypto; preemption/moratorium; Electricity Price Transparency; Central Oregon Daily AI interview; semiconductor/data center state legislature record; Financial Services AI hearings; site listing of bynum.house.gov. Fetched her Affordability Agenda, BILL Drivers Act release (found the real URL from the press release listing after the guessed URL 404ed), environment issues page, and committees/caucuses page (caucuses include 5G, Build America, Taiwan; no AI caucus). Fetched the Axios and Hoodline deepfake-ad stories and the Central Oregon Daily candidate profile (AI regulation was her primary challenger's plank, not hers). The Aug 6, 2026 Central Oregon Daily TV segment 'discusses wildfire impacts, AI and reelection' could not be resolved to a URL (Google News decode failed, site search rate-limited). Not on the Matsui or Clarke letters; not a cosponsor of H.R. 8031, 8241, 9340, 9442, 6529, 9183, 7858 or 6984."
+},
+{
+"bioguide": "S001226",
+"name": "Andrea Salinas",
+"signature": "Science Committee Democrat who sponsored a federal excise tax on data center electricity and pairs AI education bills with algorithmic accountability rules.",
+"notable_quote": {
+"text": "As AI use expands and the demand for data centers grows, we need to ensure our communities aren’t left footing the bill",
+"url": "https://salinas.house.gov/media/press-releases/rep-salinas-introduces-bill-tax-data-centers-reinvest-housing-conservation-and",
+"date": "2026-08-14"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Salinas wants data centers to pay their way. She sponsored a bill taxing every kilowatt-hour data centers use to fund housing, conservation, Superfund cleanup, highways, and clean energy, cosponsored a study of AI's energy and water use, and signed a letter pressing regulators and utilities to keep grid costs off household bills. She says communities should share in data center growth, not stop it.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 10102 Data Center Community Reinvestment Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10102",
+"date": "2026-08-13",
+"quote": null,
+"what_it_shows": "Her own bill would put a 1-cent-per-kilowatt-hour federal excise tax on electricity used by data centers over 1 megawatt, raising about $1.76 billion a year for five federal funds."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Salinas introduces bill to tax data centers, reinvest in housing, conservation, and infrastructure",
+"url": "https://salinas.house.gov/media/press-releases/rep-salinas-introduces-bill-tax-data-centers-reinvest-housing-conservation-and",
+"date": "2026-08-14",
+"quote": "As AI use expands and the demand for data centers grows, we need to ensure our communities aren’t left footing the bill",
+"what_it_shows": "In her own words the goal is to make data centers, not communities, cover the costs of the AI buildout."
+},
+{
+"type": "statement",
+"title": "Data Center Knowledge: House bill would put federal electricity tax on data centers",
+"url": "https://www.datacenterknowledge.com/regulations/house-bill-would-put-federal-electricity-tax-on-data-centers",
+"date": "2026-08-19",
+"quote": "Every community deserves to drive a hard bargain with data center developers, and at the end of the day, every community deserves to share in the benefits from data center growth,",
+"what_it_shows": "She accepts data center growth but wants communities to extract benefits from it, which places her at protect-communities-first rather than pause."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9183 Artificial Intelligence Environmental Impacts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "She backs a federal study of AI's electricity, water, and pollution footprint with voluntary company reporting."
+},
+{
+"type": "letter",
+"title": "Mullin-led letter from 20 House Democrats to FERC, Edison Electric Institute, and the Data Center Coalition on data center energy costs",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"date": "2025-10-28",
+"quote": "The expansion of data centers risks creating persistent affordability challenges for households and small businesses.",
+"what_it_shows": "She signed a letter asking regulators, utilities, and the industry how they will keep grid upgrade costs off household bills and what cost-allocation tools Congress should consider."
+},
+{
+"type": "vote",
+"title": "Roll call 356: Nay on H.R. 4776 SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted against a permitting-reform bill whose backers said it would speed energy and data center construction; a general environmental-review vote, so weak evidence on its own."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Salinas is an AI optimist who wants specific guardrails. She cosponsors the Algorithmic Accountability Act, which makes companies test automated decision systems for bias and report to the FTC, wants research on how AI affects kids in classrooms, and signed a letter warning against a regulatory vacuum. At the same time her own bills push AI education, scholarships, and shared research computing.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5511 Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-10-06",
+"quote": null,
+"what_it_shows": "She supports mandatory bias and harm testing of automated decision systems with reporting to the FTC, a binding targeted rule."
+},
+{
+"type": "statement",
+"title": "Press release: Whitesides, McClain-Delaney, Salinas introduce the Understanding AI in the Classroom Act",
+"url": "https://www.hometownstation.com/santa-clarita-news/politics/reps-whitesides-mcclain-delaney-salinas-introduce-bill-to-help-study-impact-of-artificial-intelligence-in-the-classroom-604571",
+"date": "2026-08-05",
+"quote": "AI is already changing how students learn, but we still have serious questions about how it affects their attention, development, and reliance on technology",
+"what_it_shows": "She wants evidence on AI's effects on children before it spreads further in schools, while explicitly avoiding new mandates on schools."
+},
+{
+"type": "statement",
+"title": "Press release: Reps. Salinas, Fong introduce the NSF AI Education Act of 2025",
+"url": "https://salinas.house.gov/media/press-releases/reps-salinas-fong-introduces-ai-education-act-2025-strengthen-americas",
+"date": "2025-09-18",
+"quote": "Artificial intelligence technology has the potential to transform our society for good and drive economic growth across a broad range of industries, from clean energy to agriculture, to manufacturing",
+"what_it_shows": "Her lead bill treats AI as an economic opportunity to prepare workers for, showing the innovation side of her position."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2385 CREATE AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2025-04-02",
+"quote": null,
+"what_it_shows": "She backs a national shared computing and data resource so researchers and students can build and study AI without a big company's money."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats opposing an AI moratorium in the FY26 NDAA",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "She signed a letter arguing that AI rules are needed and that wiping out state rules without federal ones would let Big Tech run unchecked."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 3106 Preventing Deepfakes of Intimate Images Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2024-01-31",
+"quote": null,
+"what_it_shows": "Earlier support for making AI-made sexual deepfakes of real people illegal and letting victims sue."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Salinas consistently joins targeted tech rules: reproductive health data privacy, kids' privacy, cutting off abusers' remote access to cars, banning Chinese-linked connected-car tech, and the 2024 TikTok divestiture law. I found no statements on Section 230 repeal, break-ups, or broad antitrust.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3218 Reproductive Data Privacy and Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "She backs stopping companies from collecting or selling reproductive health data without permission."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2110 Safe Vehicle Access for Survivors Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"date": "2025-03-14",
+"quote": null,
+"what_it_shows": "A targeted rule making carmakers cut off an abuser's remote access to a car's apps and location data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-08-17",
+"quote": null,
+"what_it_shows": "She supports banning connected cars and car software from companies tied to China, Russia, Iran, or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 2801 Kids PRIVACY Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2801",
+"date": "2023-06-13",
+"quote": null,
+"what_it_shows": "Earlier support for limits on how apps and websites collect and use kids' and teens' data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 7521 Protecting Americans from Foreign Adversary Controlled Applications Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "She cosponsored the law forcing TikTok's Chinese owner to sell or face a ban."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Salinas signed the December 2025 letter from 44 House Democrats urging defense-bill negotiators to keep any preemption or moratorium on state AI laws out of the NDAA, calling a moratorium wildly irresponsible without federal legislation. She is not a GUARDRAILS Act cosponsor and did not sign the larger Matsui letter, so the record rests on one strong letter.",
+"evidence": [
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats opposing an AI moratorium in the FY26 NDAA",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "Any kind of preemption would cause a slew of unintended consequences putting all Americans at risk online",
+"what_it_shows": "She joined a letter opposing any federal preemption of state AI laws, not just the moratorium."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls as of Sept 2026. She has celebrated CHIPS Act investment in Oregon and backed China-related restrictions on TikTok and connected cars, but nothing on Nvidia sales, the Chip Security Act, or BIS rules.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Andrea Salinas' artificial intelligence; 'Andrea Salinas' AI; 'Andrea Salinas' data center(s); chatbot/deepfake/Big Tech/privacy; preemption/moratorium; Science Committee AI hearings; Nvidia/export controls/CHIPS Act; AI Caucus; site listing of salinas.house.gov. Fetched her data center tax press release, Science and Technology issues page, committees and caucuses page (no AI caucus; she is Ranking Member of the Agriculture Forestry subcommittee, not AI-relevant), NSF AI Education Act releases (2024, 2025, 2026 committee passage), the Understanding AI in the Classroom release, Data Center Knowledge and Newsweek coverage, the Mullin letter on beyer.house.gov, and the Clarke letter. KOIN's story on her data center bill returned 403 (used her release and DCK instead). The Markey-McClellan EPA letter lead from the state file could not be verified: markey.senate.gov returned 403 and Wayback failed, so it is omitted. Confirmed H.R. 9183 cosponsorship on govtrack; not a cosponsor of H.R. 8031, 8241, 9340, 9442, 6529, 7858 or 6984; not on the Matsui letter."
+}
+]

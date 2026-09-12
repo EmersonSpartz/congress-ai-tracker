@@ -1,0 +1,56 @@
+[
+{
+"bioguide": "M001219",
+"checks": [
+{
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-horsford-moylan-introduce-legislation-to-protect-workers-from-ai-driven-layoffs",
+"verdict": "confirmed",
+"corrected_quote": "As these technologies continue to evolve, Congress must ensure we have transparent and reliable data to better understand how AI is impacting workers, industries, and local economies — including communities like Guam.",
+"corrected_date": "2026-06-19",
+"note": "Quote is attributed to Rep. James Moylan and appears verbatim; the item truncates the sentence before ' — including communities like Guam.' Moylan is a co-lead of the AI-Related Job Impacts Clarity Act, a data/reporting bill, consistent with the 'targeted transparency rule' claim."
+},
+{
+"url": "https://www.postguam.com/news/local/delegate-little-impact-from-new-federal-budget/article_9ea2b4c3-e59c-4934-9d0b-b83cf0d397cb.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-28",
+"note": "Article (Jul 28, 2025) covers Moylan's office review of H.R.1 effects on Guam (Social Security, tipped income, SNAP, Medicaid/Medicare). Fetched text contains no mention of AI, artificial intelligence, or a moratorium, so the negative claim (no position taken) is accurate. Note this is absence-of-evidence, not evidence of a preemption stance; null score is appropriate."
+},
+{
+"url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-ai-overwatch-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "The release's list of measures advanced at the Jan 21, 2026 markup includes 'H.R. 6275 - China AI Power Report Act'. The page does not name Moylan; sponsorship is established by the UHRP page (item 4). Release text still has an unfilled 'XX measures' placeholder."
+},
+{
+"url": "https://uhrp.org/bill-summary/china-ai-power-report-act-h-r-6275/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-21",
+"note": "Page names Rep. James Moylan (R-GU) as introducer on Nov 21, 2025 with co-sponsors Vindman and Huizenga. Quote appears verbatim. Page lists Chinese AI chips/semiconductors, military AI models, and AI used to surveil Uyghurs as report topics, matching the claim. Bill is a Commerce reporting requirement, not itself an export control."
+},
+{
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-horsford-moylan-introduce-legislation-to-protect-workers-from-ai-driven-layoffs",
+"verdict": "confirmed",
+"corrected_quote": "As these technologies continue to evolve, Congress must ensure we have transparent and reliable data to better understand how AI is impacting workers, industries, and local economies — including communities like Guam.",
+"corrected_date": "2026-06-19",
+"note": "Same source as item 1; quote verbatim from Moylan, truncated before the Guam clause."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only evidence is the China AI Power Report Act, which requires Commerce to report annually on Chinese AI capabilities (chips, military models, surveillance). It is a monitoring/transparency bill and does not itself tighten export controls or state a position on chip sales. That supports a hawkish lean, but -2 'Tighten export controls' overstates what these sources show.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+},
+{
+"dimension": "tech_regulation",
+"objection": "No source here addresses Big Tech regulation directly. The only related evidence is co-leading a workforce-data reporting bill about AI layoffs, which is a narrow transparency requirement on employers/agencies. It is compatible with -1 'Targeted rules' but the evidence is thin; if this is the sole basis, consider whether the dimension should be scored at all.",
+"suggested_score": -1,
+"suggested_label": "Targeted rules"
+}
+]
+}
+]

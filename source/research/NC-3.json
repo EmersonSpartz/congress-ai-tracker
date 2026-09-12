@@ -1,0 +1,407 @@
+[
+{
+"bioguide": "E000246",
+"name": "Chuck Edwards",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "No statement on data centers found. He voted for the SPEED Act permitting overhaul and cosponsors a bill to loosen power-plant air permitting, which points toward building more energy infrastructure, but his campaign did not answer a July 2026 question about a federal data center moratorium.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: H.R. 4776 SPEED Act (NEPA permitting reform), voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He backed the main House permitting-reform bill, the kind of measure that speeds up energy and large-project construction, though the bill is not specific to data centers."
+},
+{
+"type": "other",
+"title": "Spectrum News survey: Edwards campaign did not respond on a federal data center moratorium; opponent Jamie Ager backs one",
+"url": "https://spectrumlocalnews.com/nc/charlotte/news/2026/07/23/data-center-moratorium-cooper-whatley",
+"date": "2026-07-23",
+"quote": "In western North Carolina the campaign of Republican congressman Chuck Edwards also didn’t get back to us",
+"what_it_shows": "When asked directly where he stands on pausing new data centers, his campaign gave no answer, while his Democratic opponent called for a short-term moratorium."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 161 New Source Review Permitting Improvement Act (Clean Air Act permitting for power plants)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/161",
+"date": "2026-02-12",
+"quote": null,
+"what_it_shows": "Supports easing permitting rules for existing power plants, part of a build-more-energy posture that helps supply new large loads but says nothing about data centers directly."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted rules against AI sexual deepfakes: he cosponsored the TAKE IT DOWN Act and the DEFIANCE Act. No statements found on frontier AI safety, chatbots, licensing or liability.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 633 TAKE IT DOWN Act (criminalizes nonconsensual real or AI-faked sexual images, forces fast takedowns)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-24",
+"quote": null,
+"what_it_shows": "Supports a binding federal rule on one specific AI harm, sexual deepfakes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 3562 DEFIANCE Act of 2025 (lets victims sue over AI sexual deepfakes)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-12",
+"quote": null,
+"what_it_shows": "Supports a civil right to sue over AI deepfake abuse, a targeted liability rule."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "A consistent record of targeted privacy and kids' online safety measures: he wrote the TOTS Act on data-collecting smart toys, co-led the bipartisan DELETE Act to let people erase data-broker records, and cosponsors the SCREEN Act age-verification bill. He also backs a bill barring federal officials from pressuring platforms to remove speech, and in an op-ed asked social media companies to rethink outrage-driven algorithms.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor, H.R. 413 TOTS Act (118th Congress): FTC labels and disclosures for internet-connected toys that collect children's data",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/413",
+"date": "2023-01-20",
+"quote": null,
+"what_it_shows": "His own bill would require the FTC to force toy makers to disclose data collection, a targeted privacy rule."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor, H.R. 4311 DELETE Act (118th Congress): FTC one-stop portal to make all data brokers delete a person's data",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4311",
+"date": "2023-06-22",
+"quote": null,
+"what_it_shows": "Co-led a bipartisan bill giving the FTC new power over data brokers."
+},
+{
+"type": "statement",
+"title": "Press release: Edwards introduces bill to protect Americans' online privacy and data (DELETE Act)",
+"url": "https://edwards.house.gov/media/press-releases/edwards-introduces-bill-protect-americans-online-privacy-and-data",
+"date": "2023-06-22",
+"quote": "Americans expect and deserve privacy, and this bipartisan bill will allow them to finally take control over their personal information.",
+"what_it_shows": "In his own words, he wants people to be able to take back control of their data from data brokers."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 1623 SCREEN Act (age verification for adult websites)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Supports a specific kids' online safety mandate."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 140 Protecting Speech from Government Interference Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/140",
+"date": "2023-02-27",
+"quote": null,
+"what_it_shows": "Backs limits on government pressure on platforms over content, a conservative anti-censorship position rather than a rule on the companies themselves."
+},
+{
+"type": "op_ed",
+"title": "Op-ed in the Asheville Citizen Times: traditional and social media amplify political division",
+"url": "https://edwards.house.gov/media/opinion-editorials/rep-chuck-edwards-says-traditional-social-media-can-amplify-political",
+"date": "2025-04-20",
+"quote": "Social media should reevaluate algorithms that reward outrage over understanding.",
+"what_it_shows": "Criticizes engagement-driven algorithms but asks platforms to fix them voluntarily rather than proposing a mandate."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searched for statements on the state AI law moratorium, the December 2025 executive order, the March 2026 White House framework and the GUARDRAILS Act; found nothing.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls, Nvidia sales to China or the Chip Security Act as of September 2026.",
+"evidence": []
+}
+},
+"signature": "Privacy-minded Republican: wrote the TOTS Act on smart-toy data, co-led the bipartisan DELETE Act on data brokers and cosponsors deepfake bills; censured in September 2026 and not seeking re-election.",
+"notable_quote": {
+"text": "Americans expect and deserve privacy, and this bipartisan bill will allow them to finally take control over their personal information.",
+"url": "https://edwards.house.gov/media/press-releases/edwards-introduces-bill-protect-americans-online-privacy-and-data",
+"date": "2023-06-22"
+},
+"groups": [
+"Build America Caucus (member, listed on his official site)"
+],
+"search_notes": "Ran 14 Google News queries (artificial intelligence, AI regulation, data center, electricity costs, TikTok, privacy, deepfake, China technology, smart toys, Big Tech/Section 230, Haywood/Asheville data center) plus a Wayback listing of edwards.house.gov and a scan of press-release pages 1 to 3, the caucus page and the energy issue page. News coverage since May 2026 is dominated by the ethics probe, censure (Sept 1, 2026) and his withdrawal from re-election. Confirmed SPEED Act Yea on govtrack. Verified DELETE Act (H.R. 4311, 118th) and TOTS Act (H.R. 413, 118th) in official bill data. Spectrum's July 2026 moratorium survey got no response from his campaign. No AI PAC support or attacks found. Not a signer of any preemption letter located."
+},
+{
+"bioguide": "A000370",
+"name": "Alma S. Adams",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "No direct statement on data centers found, even though Charlotte adopted a moratorium in 2026. She voted against the SPEED Act permitting overhaul and cosponsors a bill to measure AI's electricity, water and pollution footprint, which leans toward weighing costs before building.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: H.R. 4776 SPEED Act (NEPA permitting reform), voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She opposed the main House bill to speed up permitting for energy and large projects."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 9183 Artificial Intelligence Environmental Impacts Act of 2026 (federal study and voluntary reporting of AI's energy, water and pollution use)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-06-15",
+"quote": null,
+"what_it_shows": "Wants the government to measure the environmental cost of AI computing before anything else, a scrutiny-first stance rather than a pause."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Wants targeted federal guardrails. As ranking member at a June 2026 hearing on AI in colleges she said federal AI policy is moving in the wrong direction and called for accountability standards on transparency, data protection, auditing and oversight. Earlier she cosponsored bills against AI election deepfakes and to study AI-driven child exploitation.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Route Fifty report on House Higher Education subcommittee hearing on AI in higher education; Adams' opening statement as ranking member",
+"url": "https://www.route-fifty.com/artificial-intelligence/2026/06/lawmakers-wrestle-ais-opportunities-challenges-higher-education/414054",
+"date": "2026-06-09",
+"quote": "We need strong guardrails and infrastructure that match the scale of this technological shift",
+"what_it_shows": "She used her opening statement to call for guardrails and a stronger federal oversight role, and said current federal AI policy is moving us in the wrong direction."
+},
+{
+"type": "hearing",
+"title": "Same hearing: Adams lists the accountability standards she wants for campus AI systems",
+"url": "https://www.route-fifty.com/artificial-intelligence/2026/06/lawmakers-wrestle-ais-opportunities-challenges-higher-education/414054",
+"date": "2026-06-09",
+"quote": "It means establishing clear accountability standards around transparency, data protection, auditing, and oversight for AI systems used in higher education.",
+"what_it_shows": "Specific, targeted rules (transparency, audits, oversight) rather than a pause or a hands-off approach."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 8858 Securing Elections From AI Deception Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "Supports banning AI deepfakes that trick voters."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 8005 Child Exploitation and Artificial Intelligence Expert Commission Act of 2024 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8005",
+"date": "2024-04-15",
+"quote": null,
+"what_it_shows": "Backed an expert commission on how AI is used to exploit children."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted privacy and kids' online rules: she cosponsored the Children and Teens' Online Privacy Protection Act in the last Congress and pressed for data-protection standards for AI tools used on campuses. No positions found on Section 230, antitrust or app store bills.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 7890 Children and Teens' Online Privacy Protection Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7890",
+"date": "2024-08-27",
+"quote": null,
+"what_it_shows": "Backed the main update to the kids' online privacy law, limiting data collection and targeted ads to minors."
+},
+{
+"type": "hearing",
+"title": "June 2026 higher-ed AI hearing: called for data protection standards and rebuilding civil rights enforcement capacity",
+"url": "https://www.route-fifty.com/artificial-intelligence/2026/06/lawmakers-wrestle-ais-opportunities-challenges-higher-education/414054",
+"date": "2026-06-09",
+"quote": "moving us in the wrong direction",
+"what_it_shows": "She said federal AI policy is going the wrong way, pointing to job cuts at the Education Department and its Office for Civil Rights that handles AI discrimination and data misuse complaints."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. She did not sign the November 2025 Matsui letter or the December 2025 Clarke letter against a state AI law moratorium (checked the signer lists), and no statement on the December 2025 executive order or March 2026 framework was located.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China as of September 2026.",
+"evidence": []
+}
+},
+"signature": "Education-focused Democrat who wants federal guardrails on AI in colleges and cosponsors a bill to measure AI's energy and water footprint; quiet on data centers and preemption.",
+"notable_quote": {
+"text": "We need strong guardrails and infrastructure that match the scale of this technological shift",
+"url": "https://www.route-fifty.com/artificial-intelligence/2026/06/lawmakers-wrestle-ais-opportunities-challenges-higher-education/414054",
+"date": "2026-06-09"
+},
+"groups": [
+"Ranking Member, House Education and Workforce Subcommittee on Higher Education and Workforce Development (led Democrats at the June 2026 hearing on AI in higher education)"
+],
+"search_notes": "Ran 11 Google News queries (artificial intelligence, data center, electricity/Duke Energy, chatbot/deepfake/online safety, Big Tech/privacy/TikTok, chips/export controls, preemption/moratorium, AI jobs/HBCU, Charlotte data centers, Education and Workforce AI hearing) plus a Wayback listing of adams.house.gov and scans of her press-release pages. Opened the Route Fifty and PYMNTS reports on the June 2026 hearing for verbatim quotes. Her March 2026 AABE energy-conference speech mentions AI transforming the energy sector but is about workforce inclusion, not regulation. A July 2026 letter with Ross and Foushee to Duke Energy on an offshore wind lease does not mention data centers. Checked the Matsui, Clarke and Casar (AI CEO hearings) letters: not a signer. Also cosponsors H.R. 9134 Protecting Student Privacy Act (July 2026), text not verified so not scored. Confirmed SPEED Act Nay on govtrack. No AI PAC activity found."
+},
+{
+"bioguide": "K000405",
+"name": "Brad Knott",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "No public statement on data centers found. His only related action is a Yea vote on the SPEED Act permitting overhaul, which leans toward building infrastructure faster but is not specific to data centers.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: H.R. 4776 SPEED Act (NEPA permitting reform), voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He backed the main House bill to speed permitting for energy and large projects; no statement connects it to data centers."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searched his press releases, hearing coverage, town hall coverage and news for AI, chatbots, deepfakes and AI safety; nothing located as of September 2026.",
+"evidence": []
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on Big Tech, Section 230, kids' online safety or privacy bills. His record centers on immigration, crime and aviation supply-chain digitization.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption or a moratorium on state AI laws.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China. His only China-related item is a 2025 letter on tobacco trade.",
+"evidence": []
+}
+},
+"signature": "No notable public AI activity found; freshman former prosecutor focused on immigration, crime and border security.",
+"notable_quote": null,
+"groups": [],
+"search_notes": "Ran 12 Google News queries (artificial intelligence, data center, electricity/Duke Energy, chatbot/deepfake/social media, Big Tech/Section 230/TikTok, Nvidia/export controls/China, preemption/moratorium, surveillance/facial recognition/drones, AI Judiciary hearing, district data centers, town hall) plus a Wayback listing of knott.house.gov, all five press-release index pages, the in-the-news page, the caucus page, the energy issue page, his December 2024 Fox News interview, the 2024 North State Journal candidate Q&A and WUNC's September 2025 telephone town hall coverage. None mention AI, data centers, chips or tech regulation. Official bill data shows no AI or tech bills sponsored or cosponsored in the 118th or 119th Congress. Confirmed SPEED Act Yea on govtrack. No AI PAC activity found."
+},
+{
+"bioguide": "M001236",
+"name": "Tim Moore",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "No statement on data centers or electric bills found. He voted for the SPEED Act permitting overhaul and pitches his nuclear bill as a way to power AI, which points toward building more energy supply; he has not addressed local siting fights or ratepayer costs.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: H.R. 4776 SPEED Act (NEPA permitting reform), voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He backed the main House permitting-reform bill that speeds construction of energy and large projects."
+},
+{
+"type": "statement",
+"title": "Press release: Moore introduces Next Generation Nuclear Deployment Act",
+"url": "https://timmoore.house.gov/media/press-releases/congressman-tim-moore-introduces-bill-expand-american-nuclear-leadership-and",
+"date": "2025-12-18",
+"quote": "This bill builds on the Trump Administration’s momentum to deploy cutting-edge nuclear technology that can power our future, from artificial intelligence to space exploration, while creating good-paying jobs here at home.",
+"what_it_shows": "He treats AI's power demand as something to be met with new nuclear supply, a build-side answer rather than a limits-side one."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "Frames AI and quantum as a technology race with adversaries that the U.S. cannot afford to lose, and backs law-enforcement use of AI face-matching to find abused children. No statements found on AI safety testing, chatbots, liability or a pause.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Moore introduces Army Quantum Readiness Act (H.R. 10130), covering quantum-enabled AI",
+"url": "https://timmoore.house.gov/media/press-releases/congressman-tim-moore-introduces-army-quantum-readiness-act-advance-military",
+"date": "2026-08-21",
+"quote": "America's adversaries are investing heavily in emerging technologies, and we cannot afford to fall behind",
+"what_it_shows": "His AI framing is about staying ahead of rivals and adopting the technology in the military, not about restraining it."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 6998 Renewed Hope Act (lets investigators use face-matching technology to identify child abuse victims)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6998",
+"date": "2026-04-27",
+"quote": null,
+"what_it_shows": "Comfortable expanding government use of AI face-matching for child rescue, a pro-deployment signal on one narrow use."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted fixes on scam robocalls: he cosponsors the Foreign Robocall Elimination Act and signed a June 2026 letter urging the FCC to finish its robocall crackdown, which cites AI voice cloning. No positions found on Section 230, antitrust or kids' online safety bills.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 6152 Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-01-30",
+"quote": null,
+"what_it_shows": "Supports a specific new rule against scam robocalls from overseas."
+},
+{
+"type": "letter",
+"title": "Signer of Lawler-led bipartisan letter backing the FCC's proposed rulemaking against illegal robocalls (Moore listed among additional signers)",
+"url": "https://lawler.house.gov/news/documentsingle.aspx?documentid=6035",
+"date": "2026-06-09",
+"quote": "We commend the Commission for advancing this rulemaking and urge the FCC to incorporate enhanced interagency coordination with the U.S. Department of the Treasury and other financial regulators into the final framework.",
+"what_it_shows": "He joined 18 colleagues asking the FCC to adopt enforceable standards against robocall scams, with the letter noting AI voice cloning has made the schemes more sophisticated."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption or a moratorium on state AI laws, the December 2025 executive order or the March 2026 White House framework.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on chip export controls or Nvidia sales to China. His only related action is a critical minerals bill aimed at cutting dependence on adversarial suppliers, which is about minerals, not chips.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Moore introduces Critical Minerals Trade Security Act (H.R. 6659)",
+"url": "https://timmoore.house.gov/media/press-releases/congressman-tim-moore-introduces-critical-minerals-trade-security-act",
+"date": "2025-12-12",
+"quote": "But right now, we’re far too dependent on adversarial nations to supply them, and that puts our national security and economic future at risk.",
+"what_it_shows": "Shows a China-supply-chain hawkishness on minerals used in defense and energy, but he has said nothing about AI chip exports, so it does not set a chips score."
+}
+]
+}
+},
+"signature": "Pro-build Republican on the Financial Services AI subcommittee who sells nuclear power as fuel for AI and treats quantum and AI as a race with adversaries; targeted action on AI-enabled robocall scams.",
+"notable_quote": {
+"text": "This bill builds on the Trump Administration’s momentum to deploy cutting-edge nuclear technology that can power our future, from artificial intelligence to space exploration, while creating good-paying jobs here at home.",
+"url": "https://timmoore.house.gov/media/press-releases/congressman-tim-moore-introduces-bill-expand-american-nuclear-leadership-and",
+"date": "2025-12-18"
+},
+"groups": [
+"Member, House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence"
+],
+"search_notes": "Ran 13 Google News queries (artificial intelligence, Rep. Tim Moore AI, data center, ratepayers/Duke Energy, chatbot/deepfake/KOSA, Big Tech/Section 230/robocall, Nvidia/export controls/China, preemption/moratorium, Financial Services fintech AI, AI hearing, Gaston/Cleveland/Rutherford data center) plus a Wayback listing of timmoore.house.gov and all five press-release index pages; opened the quantum, nuclear, nuclear fuel recycling, critical minerals and Lawler robocall releases and the WBTV February 2026 candidate Q&A (no AI or data center content in his answers). The state-context lead quoting a 'Moore' on the GUARD Act House companion was Rep. Blake Moore of Utah, not Tim Moore, and the Senate Commerce KOSA lead does not apply to a House member. News about his Nvidia and Intel stock trades is not a policy position and was excluded. Also cosponsors H.R. 5549 Efficient Nuclear Licensing Hearings Act (not opened). Confirmed SPEED Act Yea on govtrack. No AI PAC activity found."
+}
+]

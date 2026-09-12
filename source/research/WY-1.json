@@ -1,0 +1,711 @@
+[
+{
+"bioguide": "B001261",
+"name": "John Barrasso",
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "medium",
+"summary": "Barrasso wants data centers and the power plants behind them built fast: he praised Trump's AI Action Plan for tearing down barriers to new data centers and is pushing a bill to break federal permitting bottlenecks. His one caveat is that data centers on federal land should get state and local input.",
+"evidence": [
+{
+"type": "statement",
+"title": "Senate floor speech: Barrasso: Whoever Powers the AI Revolution Will Win the AI Arms Race",
+"url": "https://www.barrasso.senate.gov/barrasso-whoever-powers-the-ai-revolution-will-win-the-ai-arms-race",
+"date": "2025-07-30",
+"quote": "It tears down barriers to building new data centers. It encourages more private investment. Most importantly, it recognizes that America's AI future depends on America's energy future.",
+"what_it_shows": "He celebrates the White House plan for removing obstacles to data center construction and ties it to Wyoming coal, gas and uranium."
+},
+{
+"type": "statement",
+"title": "Senate floor speech: Barrasso Calls on Senate to Fix America's Costly, Complex, and Cumbersome Permitting Process",
+"url": "https://www.barrasso.senate.gov/barrasso-calls-on-senate-to-fix-americas-costly-complex-and-cumbersome-permitting-process",
+"date": "2026-05-12",
+"quote": "I will soon introduce legislation to break the bottlenecks in federal permitting. That is the number one way to boost American energy and mineral dominance.",
+"what_it_shows": "He wants NEPA deadlines and limits on lawsuits so energy projects for the AI demand surge get built faster."
+},
+{
+"type": "statement",
+"title": "Cowboy State Daily: Developers Now Targeting Public Lands To Build Huge AI Data Centers (Barrasso comment)",
+"url": "https://cowboystatedaily.com/2026/08/23/a-data-center-is-proposed-for-public-lands-in-nevada-could-wyoming-be-next/",
+"date": "2026-08-23",
+"quote": "Development of federal land, including the construction of new data centers, deserves meaningful input from state and local governments and the public",
+"what_it_shows": "He supports the AI buildout but attaches a condition of local input when data centers go on federal land."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Barrasso treats AI as an arms race with China and applauds cutting regulations on AI developers. His stated AI worries are political bias in chatbots and Chinese theft of research, not safety rules on advanced models, though he did cosponsor the TAKE IT DOWN Act against AI sexual deepfakes.",
+"evidence": [
+{
+"type": "statement",
+"title": "Senate floor speech: Barrasso: Whoever Powers the AI Revolution Will Win the AI Arms Race",
+"url": "https://www.barrasso.senate.gov/barrasso-whoever-powers-the-ai-revolution-will-win-the-ai-arms-race",
+"date": "2025-07-30",
+"quote": "President Trump recently announced an AI Action Plan. It releases American innovators from painful, punishing regulations.",
+"what_it_shows": "He frames AI regulation as a burden to be lifted and puts winning the race with China first."
+},
+{
+"type": "hearing",
+"title": "Senate Energy Committee hearing remarks: Barrasso: With Growth of AI and Other Critical Technologies, Labs Must Take China Threat Seriously",
+"url": "https://www.energy.senate.gov/2023/9/barrasso-with-growth-of-ai-and-other-critical-technologies-labs-must-take-china-threat-seriously",
+"date": "2023-09-07",
+"quote": "We can't let political bias infiltrate development of AI. This is particularly true when taxpayer dollars are helping fund the technology's development.",
+"what_it_shows": "His AI concern is left-wing bias in chatbots like ChatGPT and security of taxpayer-funded research, not existential risk."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.146 TAKE IT DOWN Act (now law)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "He backed a targeted guardrail making AI-faked intimate images a crime, a narrow exception to his hands-off tone."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Barrasso backs targeted rules on tech companies, especially for kids: he cosponsored the Kids Online Safety Act, the Digital Age Assurance Act, the TAKE IT DOWN Act and a ban on Chinese-linked connected cars. He has not called for breaking up Big Tech or repealing Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2026-01-28",
+"quote": null,
+"what_it_shows": "He joined the major bipartisan bill requiring platforms to protect minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.5090 Digital Age Assurance Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5090",
+"date": "2026-07-22",
+"quote": null,
+"what_it_shows": "He is one of four original sponsors of a bill making operating systems send age signals to apps and websites so child protections apply."
+},
+{
+"type": "other",
+"title": "Biometric Update: US senators propose operating system-based age assurance framework",
+"url": "https://www.biometricupdate.com/202608/us-senators-propose-operating-system-based-age-assurance-framework",
+"date": "2026-08-04",
+"quote": "The Digital Age Assurance Act of 2026, introduced by Senators Andy Kim, Adam Schiff, Cynthia Lummis and John Barrasso, would make operating system providers the primary source of age signals used by apps and certain websites.",
+"what_it_shows": "Trade press confirms Barrasso as a sponsor of a new federal kids online safety mandate."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-29",
+"quote": null,
+"what_it_shows": "He supports banning connected-car software from companies tied to China and other adversaries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.483 Internet PACT Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/483",
+"date": "2023-02-16",
+"quote": null,
+"what_it_shows": "He backed platform transparency rules on content moderation, a targeted Section 230 fix rather than repeal."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1094 Journalism Competition and Preservation Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1094",
+"date": "2024-01-08",
+"quote": null,
+"what_it_shows": "He supported letting news outlets bargain collectively with Google and Facebook."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searched for statements on the 2025 AI moratorium fight, the Dec 2025 executive order and the Mar 2026 White House framework and found none; his Yea vote to strip the moratorium was cast with 98 other senators after the deal collapsed and does not show a stance.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Nearly unanimous vote after the compromise fell apart; not evidence for or against preemption on its own."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Barrasso is a China hawk on technology, warning that Beijing is trying to steal AI research from national labs and backing a ban on Chinese-linked connected cars. He has not taken a public position on Nvidia chip sales to China or the Chip Security Act.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Senate Energy Committee hearing remarks: Barrasso: With Growth of AI and Other Critical Technologies, Labs Must Take China Threat Seriously",
+"url": "https://www.energy.senate.gov/2023/9/barrasso-with-growth-of-ai-and-other-critical-technologies-labs-must-take-china-threat-seriously",
+"date": "2023-09-07",
+"quote": "The Department of Energy and our national labs must take the China threat more seriously. We can't let our technology fall into the hands of those in Beijing.",
+"what_it_shows": "He wants tighter protection of American AI technology from China, the logic behind export controls, but did not address chips."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-29",
+"quote": null,
+"what_it_shows": "Supports cutting Chinese technology out of a sensitive US market."
+}
+]
+}
+},
+"signature": "Senate Majority Whip who frames AI as an arms race with China that Wyoming coal, gas and uranium should power; pushes permitting reform and praised Trump's AI Action Plan for cutting rules on data centers.",
+"notable_quote": {
+"text": "Whoever powers the AI revolution will win the AI arms race. As we unleash affordable, reliable, American energy, America will lead the world in AI.",
+"url": "https://www.barrasso.senate.gov/barrasso-whoever-powers-the-ai-revolution-will-win-the-ai-arms-race",
+"date": "2025-07-30"
+},
+"groups": [
+"Senate Majority Whip (party leadership)"
+],
+"search_notes": "Ran 9 news searches (AI, data centers, AI energy China, chatbot/deepfake/KOSA, Nvidia/export controls, state AI laws/preemption, Big Tech/Section 230, Digital Age Assurance/TAKE IT DOWN, Project Jade/Cheyenne) plus two Wayback listings of barrasso.senate.gov. Read his July 2025 AI floor speech, May 2026 permitting speech, Sept 2023 ENR hearing remarks, Jan 2026 Washington Reporter interview (no AI content), Cowboy State Daily Dec 2025 and Aug 2026 pieces, Biometric Update and Reclaim The Net on S.5090. Verified S.5090 and KOSA cosponsorship in local bill-status data. Could not fetch his 2024/2025 release on a bill to stop foreign and AI-generated comments in energy rulemaking (site 403, Wayback refused). No statements found on data center ratepayer bills, chip export controls or preemption; no AI super PAC activity found."
+},
+{
+"bioguide": "L000571",
+"name": "Cynthia M. Lummis",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Lummis wants Wyoming to host the AI buildout and power it with coal, gas and nuclear, telling constituents the state is open for business for AI. But she also wrote the POWER Up Act, the first Republican bill to give federal regulators authority over how city-sized data centers connect to the grid, citing ratepayers. Her family sold about 3,500 acres near Cheyenne to Microsoft for a data center campus in June 2026.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.4806 POWER Up Act (FERC rules for 100 MW+ large-load grid connections)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4806",
+"date": "2026-06-17",
+"quote": null,
+"what_it_shows": "She wants uniform federal interconnection rules for data centers while leaving siting and retail rates to states."
+},
+{
+"type": "statement",
+"title": "Press release quoted by Data Center Dynamics: Republican senator introduces bill to impose federal rules on data center grid connections",
+"url": "https://www.datacenterdynamics.com/en/news/republican-senator-introduces-bill-to-impose-federal-rules-on-data-center-grid-connections/",
+"date": "2026-06-17",
+"quote": "When a facility wants to draw as much power as a city, that is not an ordinary retail question. It is a grid question.",
+"what_it_shows": "She treats giant data centers as a grid-wide issue needing clear rules, not a local retail matter."
+},
+{
+"type": "statement",
+"title": "Cowboy State Daily: Wyoming Wrestles With Unprecedented Power Demand From Massive Data Centers (POWER Up Act quotes)",
+"url": "https://cowboystatedaily.com/2026/06/18/wyoming-wrestles-with-unprecedented-power-demand-from-massive-data-centers/",
+"date": "2026-06-18",
+"quote": "Ratepayers need a clear process, informed by best practices, clear rules, and clear accountability. That is what this bill provides.",
+"what_it_shows": "She sells the bill as protecting ratepayers and grid reliability while still saying America needs more power for data centers."
+},
+{
+"type": "op_ed",
+"title": "Op-ed in Cowboy State Daily: Wyoming Baseload Energy is Trump's Secret Weapon in AI War Against China",
+"url": "https://www.lummis.senate.gov/press-releases/icymi-op-ed-from-senator-lummis-in-csd-wyoming-baseload-energy-is-trumps-secret-weapon-in-ai-war-against-china",
+"date": "2025-09-23",
+"quote": "If we don't power America's AI with Wyoming energy, China will build their AI dominance on their coal instead.",
+"what_it_shows": "She tells constituents worried about data centers that the buildout is a national security necessity Wyoming should supply."
+},
+{
+"type": "statement",
+"title": "Oil City News: Sen. Lummis talks energy, taxes, digital assets with Wyoming Legislature",
+"url": "https://oilcity.news/general/2026/02/16/sen-lummis-talks-energy-taxes-digital-assets-with-wyoming-legislature/",
+"date": "2026-02-16",
+"quote": "We are open for business for artificial intelligence.",
+"what_it_shows": "She actively invites AI data centers to Wyoming."
+},
+{
+"type": "statement",
+"title": "Cowboy State Daily: Developers Now Targeting Public Lands To Build Huge AI Data Centers (Lummis comment)",
+"url": "https://cowboystatedaily.com/2026/08/23/a-data-center-is-proposed-for-public-lands-in-nevada-could-wyoming-be-next/",
+"date": "2026-08-23",
+"quote": "while respecting and protecting Wyoming's environment",
+"what_it_shows": "She says data centers bring tax revenue and jobs and can be built with environmental protections, a build-with-conditions stance."
+},
+{
+"type": "other",
+"title": "WyoFile: Lummis family could cash in on Microsoft data center expansion through Cheyenne land sales",
+"url": "https://wyofile.com/lummis-family-could-cash-in-on-microsoft-data-center-expansion-through-cheyenne-land-sales/",
+"date": "2026-05-29",
+"quote": null,
+"what_it_shows": "Her family owns about 6,000 acres in the path of Microsoft's Cheyenne expansion, a personal financial stake in the data center boom; she declined to comment."
+},
+{
+"type": "other",
+"title": "Heatmap News: How Congress' Biggest Tech Booster Got Wrapped Up in a Data Center Land Deal",
+"url": "https://heatmap.news/plus/the-fight/spotlight/lummis-microsoft-land-deal",
+"date": "2026-07-14",
+"quote": null,
+"what_it_shows": "Microsoft told the Cheyenne council it bought the Lummis family land on June 26, 2026; the council annexed about 3,500 acres for the campus days after the Meta wastewater contamination became public."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Her signature AI bill, the RISE Act, shields AI developers from lawsuits if they publish model specs, and she says liability rules are barriers to innovation. But she also cosponsored transparency and safety bills (the 2024 AI Research, Innovation and Accountability Act, TAKE IT DOWN, a terrorism risk study), added amendments to the Youth AI Privacy Act, and demanded answers from Google over political bias in Gemini.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.2081 RISE Act of 2025 (Responsible Innovation and Safe Expertise Act)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2081",
+"date": "2025-06-12",
+"quote": null,
+"what_it_shows": "Creates a civil liability safe harbor for AI developers whose tools professionals use, conditioned on public model cards; no cosponsors."
+},
+{
+"type": "statement",
+"title": "Press release: Lummis Introduces AI Legislation to Foster Development & Strengthen Professional Responsibility",
+"url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-ai-legislation-to-foster-development-strengthen-professional-responsibility/",
+"date": "2025-06-12",
+"quote": "Wyoming values both innovation and accountability; the RISE Act creates predictable standards that encourage safer AI development while preserving professional autonomy",
+"what_it_shows": "Her framing is pro-developer: the release says current liability rules create barriers to innovation, while requiring transparency in exchange for immunity."
+},
+{
+"type": "interview",
+"title": "NBC News: New GOP bill would protect AI companies from lawsuits if they offer transparency",
+"url": "https://www.nbcnews.com/tech/tech-news/cynthia-lummis-ai-civil-liability-protections-developers-transparency-rcna212131",
+"date": "2025-06-12",
+"quote": "This legislation doesn't create blanket immunity for AI",
+"what_it_shows": "She stresses the bill demands disclosure and keeps licensed professionals responsible, not a free pass for AI firms."
+},
+{
+"type": "letter",
+"title": "Press release: Lummis, Lee and Vance Demand Answers from Google Over Woke Gemini AI",
+"url": "https://www.lummis.senate.gov/press-releases/lummis-lee-and-vance-demand-answers-from-google-over-woke-gemini-ai/",
+"date": "2024-06-03",
+"quote": "I am gravely concerned Google's Gemini is being cultivated to tilt the political scales and rewrite history.",
+"what_it_shows": "Her main worry about AI models is ideological bias, and she wants transparency from Google about how Gemini was built."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3312 Artificial Intelligence Research, Innovation, and Accountability Act of 2024 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/3312",
+"date": "2024-01-24",
+"quote": null,
+"what_it_shows": "She backed the bipartisan Thune-Klobuchar bill requiring transparency reports and safety standards for high-impact AI systems."
+},
+{
+"type": "hearing",
+"title": "Senate Commerce Committee executive session: Commerce Committee Advances Kids Online Safety Legislation (Lummis amendments to Youth AI Privacy Act)",
+"url": "https://www.commerce.senate.gov/press/rep/release/commerce-committee-advances-kids-online-safety-legislation/",
+"date": "2026-08-05",
+"quote": "S. 4199, Youth AI Privacy Act as amended by the Markey substitute, as modified, Cruz 1, as modified, Budd 1, Lummis 1, and Lummis 2.",
+"what_it_shows": "Two Lummis amendments were adopted as the committee advanced kids' AI privacy rules, KOSA and the CHATBOT Act by voice vote."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4762 Generative AI Terrorism Risk Assessment Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4762",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "Supports a government study of how terrorists could misuse generative AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.146 TAKE IT DOWN Act (now law)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Backed the deepfake intimate-image law."
+},
+{
+"type": "statement",
+"title": "Press release: Lummis Introduces Landmark Autonomous Vehicle Legislation to Accelerate Safe Deployment (S.1798)",
+"url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-landmark-autonomous-vehicle-legislation-to-accelerate-safe-deployment/",
+"date": "2025-05-20",
+"quote": "This legislation cuts through the red tape and establishes a clear path forward for getting safe autonomous vehicles on American roads",
+"what_it_shows": "On AI-driven vehicles she wants faster deployment and less red tape."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Lummis supports targeted rules on tech platforms, centered on kids and China: she cosponsored the Kids Online Safety Act in both Congresses, co-introduced the Digital Age Assurance Act, backed TAKE IT DOWN, a TikTok ban, a foreign data-sale ban and the connected-car ban. She has not backed break-ups or Section 230 repeal.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-09",
+"quote": null,
+"what_it_shows": "Supports a duty of care and safety tools for minors on platforms; she also cosponsored the 118th Congress version (S.1409)."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.5090 Digital Age Assurance Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5090",
+"date": "2026-07-22",
+"quote": null,
+"what_it_shows": "Original sponsor with Kim, Schiff and Barrasso of a bill making operating systems provide age signals to apps and websites."
+},
+{
+"type": "statement",
+"title": "Biometric Update: US senators propose operating system-based age assurance framework (Lummis quote)",
+"url": "https://www.biometricupdate.com/202608/us-senators-propose-operating-system-based-age-assurance-framework",
+"date": "2026-08-04",
+"quote": "By keeping government IDs and facial scans out of the equation, the Digital Age Assurance Act gives parents real protection for their children while giving platforms a trusted, privacy-protective way to know when those protections should apply",
+"what_it_shows": "She pitches the kids' safety mandate as privacy-protective, showing she wants rules but is wary of ID checks and face scans."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.146 TAKE IT DOWN Act (now law)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Backed forcing platforms to remove nonconsensual intimate images within 48 hours."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-09",
+"quote": null,
+"what_it_shows": "Supports banning connected-car tech from Chinese-linked companies."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.347 ANTI-SOCIAL CCP Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/347",
+"date": "2023-03-09",
+"quote": null,
+"what_it_shows": "Backed banning TikTok and other Chinese-government-controlled apps."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1974 Protecting Americans' Data From Foreign Surveillance Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1974",
+"date": "2023-06-14",
+"quote": null,
+"what_it_shows": "Supports blocking sales of Americans' personal data to adversary countries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1094 Journalism Competition and Preservation Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1094",
+"date": "2023-03-30",
+"quote": null,
+"what_it_shows": "Backed letting news outlets bargain collectively with Google and Facebook."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No clear public position found. Searched for her reaction to the 2025 moratorium fight, the Dec 2025 executive order and the Mar 2026 framework and found nothing; her RISE Act release complains about a patchwork of state liability rules, but she has not said states should be blocked from regulating AI. Her Yea vote to strip the moratorium was nearly unanimous and not informative.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Cast with 98 other senators after the deal collapsed; not evidence of a stance."
+},
+{
+"type": "statement",
+"title": "Press release: Lummis Introduces AI Legislation to Foster Development & Strengthen Professional Responsibility (RISE Act background)",
+"url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-ai-legislation-to-foster-development-strengthen-professional-responsibility/",
+"date": "2025-06-12",
+"quote": "Developers face a patchwork of state-by-state liability standards, creating legal uncertainty that discourages investment in professional-grade AI.",
+"what_it_shows": "A weak hint toward a single national liability standard, but not a statement on preempting state AI laws generally."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "low",
+"summary": "Lummis cosponsored the Chip Security Act to put location tracking on exported AI chips so they cannot be smuggled to China, and she frames AI as a war with the Chinese Communist Party. She has not commented publicly on the Nvidia H20 or H200 sales, so this rests mainly on one cosponsorship.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1705 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2025-06-04",
+"quote": null,
+"what_it_shows": "Supports building location verification into advanced chips to enforce export controls against China."
+},
+{
+"type": "op_ed",
+"title": "Op-ed in Cowboy State Daily: Wyoming Baseload Energy is Trump's Secret Weapon in AI War Against China",
+"url": "https://www.lummis.senate.gov/press-releases/icymi-op-ed-from-senator-lummis-in-csd-wyoming-baseload-energy-is-trumps-secret-weapon-in-ai-war-against-china",
+"date": "2025-09-23",
+"quote": "America will lead the artificial intelligence revolution, or we will cede our future to the Chinese Communist Party.",
+"what_it_shows": "She sees AI as a zero-sum contest with China, the rationale behind tight chip controls."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-09",
+"quote": null,
+"what_it_shows": "Another vote to wall off Chinese technology from US markets."
+}
+]
+}
+},
+"signature": "Retiring Commerce Committee member and 'crypto senator' who wrote the RISE Act AI liability shield and the first GOP bill for federal rules on data center grid hookups, while urging Wyoming coal, gas and nuclear to power the AI race against China; her family sold land to Microsoft for a Cheyenne data center campus.",
+"notable_quote": {
+"text": "When a facility wants to draw as much power as a city, that is not an ordinary retail question. It is a grid question.",
+"url": "https://www.datacenterdynamics.com/en/news/republican-senator-introduces-bill-to-impose-federal-rules-on-data-center-grid-connections/",
+"date": "2026-06-17"
+},
+"groups": [
+"Senate Western Caucus (Chair)",
+"Senate Environment and Public Works Subcommittee on Clean Air, Climate, Nuclear Innovation and Safety (Chair)"
+],
+"search_notes": "Ran 13 news searches (AI, data centers, RISE Act, Nvidia/Chip Security Act, state AI laws/preemption, chatbot/KOSA/age verification, Big Tech/Section 230, AI Caucus, executive order/moratorium, SANDBOX/AI liability, Big Tech op-ed, Gemini letter) and two Wayback listings of lummis.senate.gov. Her site blocks direct fetches (403) and Wayback refused connections intermittently; got the RISE Act, Gemini, autonomous vehicle, nuclear op-ed, subcommittee chair and China rulemaking releases via archive retries. The POWER Up Act release itself is not archived, so her quotes come from Data Center Dynamics and Cowboy State Daily reprints of it. Her 2021 Big Tech op-ed page is title-only in the archive and out of window. Could not verify the Senate AI Caucus membership lead (Rosen CES page does not name the caucus), so it is omitted. Verified S.2081, S.4806, S.5090, S.1705, S.4762 sponsorship in local bill-status XML. Benzinga Sept 2026 piece on China and data centers was 403 with no archive. No AI super PAC activity found."
+},
+{
+"bioguide": "H001096",
+"name": "Harriet M. Hageman",
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Hageman backs faster permitting and says America cannot cede the AI race to China, and her office is tracking claims that foreign money funds anti-data-center opposition. But she cosponsored the Ratepayer Protection Act, demanded answers from Mark Zuckerberg after a Meta data center contractor put rare bacteria in Cheyenne's wastewater, and says siting decisions should rest with local communities.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.9340 Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "She joined the main House bill to keep households from paying for the power big new users like data centers need."
+},
+{
+"type": "letter",
+"title": "Press release: Hageman Demands Answers from Meta Over Data Center Water Contamination (letter to Mark Zuckerberg)",
+"url": "https://hageman.house.gov/media/press-releases/hageman-demands-answers-meta-over-data-center-water-contamination",
+"date": "2026-07-09",
+"quote": "Water is a precious resource in our state, so it is of immense concern to learn the system marketed to reduce a data center's water consumption caused this contamination",
+"what_it_shows": "She pressed Meta on water safety and disclosure as the tech industry expands data centers in Wyoming."
+},
+{
+"type": "letter",
+"title": "Cowboy State Daily: Hageman Demands Answers From Zuckerberg About Cheyenne Data Center Contamination",
+"url": "https://cowboystatedaily.com/2026/07/09/hageman-demands-answers-from-zuckerberg-about-cheyenne-data-center-contamination/",
+"date": "2026-07-09",
+"quote": "Many are rightfully concerned about high water consumption rates by data centers in our communities where every drop of water is accounted for and needed",
+"what_it_shows": "She validates community concern about data center water use."
+},
+{
+"type": "social_post",
+"title": "Cap City News: Rep. Hageman says call with Meta over Cheyenne wastewater contamination was productive (Facebook post)",
+"url": "https://capcity.news/latest-news/2026/07/10/rep-hageman-says-call-with-meta-over-cheyenne-wastewater-contamination-was-productive/",
+"date": "2026-07-10",
+"quote": "I appreciate Meta's commitment to strengthening communication going forward and will keep you informed as I continue pursuing the answers to how such a failure occurred.",
+"what_it_shows": "She kept pressure on Meta but framed the company as a partner, not an opponent."
+},
+{
+"type": "statement",
+"title": "Press release: House Passes Bipartisan Permitting Reform Bill (Hageman votes for SPEED Act)",
+"url": "https://hageman.house.gov/media/press-releases/house-passes-bipartisan-permitting-reform-bill",
+"date": "2025-12-18",
+"quote": "While other nations are building out modern infrastructure, increasing energy generation, and pushing to win the AI race, America is stuck in the 20th century.",
+"what_it_shows": "She champions NEPA reform to build energy and infrastructure faster for the AI race."
+},
+{
+"type": "interview",
+"title": "Townhall interview reposted by her office: Rep. Hageman Channels the Wyoming Way on Energy, Natural Resources Issues",
+"url": "https://hageman.house.gov/media/in-the-news/rep-hageman-channels-wyoming-way-energy-natural-resources-issues",
+"date": "2026-05-23",
+"quote": "We have to continuously be innovative as to how we're going to meet those demands, and we cannot always be naysayers and doomsdayers.",
+"what_it_shows": "Asked about the backlash against data centers, she said rising power demand can be met with reliable energy without ceding the AI race to China."
+},
+{
+"type": "statement",
+"title": "Oil City News: Four GOP US Senate candidates face off at Casper's Politics in the Park (data center question)",
+"url": "https://oilcity.news/community/elections/2026/06/17/four-gop-us-senate-candidates-face-off-at-caspers-politics-in-the-park/",
+"date": "2026-06-17",
+"quote": null,
+"what_it_shows": "Per the report, Hageman said decisions on data centers and independent power generation should lie with local communities through bodies like the state Industrial Siting Council."
+},
+{
+"type": "statement",
+"title": "Cowboy State Daily: Some Claim Foreign 'Dark Money' Is Funding Anti-Data Center Sentiment Across U.S. (Hageman comment)",
+"url": "https://cowboystatedaily.com/2026/05/05/foreign-dark-money-claims-collide-with-anger-over-wyoming-data-centers/",
+"date": "2026-05-05",
+"quote": "Foreign dark money has been seeking to sow chaos in the U.S. for decades",
+"what_it_shows": "Her office is monitoring claims that foreign interests are stoking opposition to data centers, a sign of skepticism toward the anti-data-center movement."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "low",
+"summary": "Hageman's AI agenda is about ideology and censorship, not safety: her bills require government-bought AI to be politically neutral, let citizens sue federal employees who pressure AI companies to filter viewpoints, and study AI transcription in courts. She has warned since 2024 that AI needs oversight so it is not weaponized against conservative speech, but has not taken a position on safety testing, licensing or liability for advanced AI, and an AI industry super PAC spent to support her.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.9279 Preventing AI Censorship Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9279",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "Creates a right to sue federal employees who coerce AI providers to suppress or distort outputs by viewpoint; targets government, not AI developers."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Hageman Introduces Bill to Hold Federal Employees Accountable for AI Censorship",
+"url": "https://hageman.house.gov/media/press-releases/rep-hageman-introduces-bill-hold-federal-employees-accountable-ai-censorship",
+"date": "2026-06-11",
+"quote": "The First Amendment does not have an AI exemption. Federal employees who pressure AI companies to filter viewpoints, distort content, or spy on users based on their beliefs will face real legal consequences.",
+"what_it_shows": "Her AI risk is government censorship through AI; the release also criticizes efforts to import the EU's AI regulations."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.5315 FAIR Act (Fair Artificial Intelligence Realization Act)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5315",
+"date": "2025-09-11",
+"quote": null,
+"what_it_shows": "Requires federally procured AI to be truthful and politically neutral, codifying Trump's woke AI executive order."
+},
+{
+"type": "statement",
+"title": "Press release: Congresswoman Harriet Hageman Introduces the FAIR Act to Safeguard Truth and Objectivity in Federal AI Procurement",
+"url": "https://hageman.house.gov/media/press-releases/congresswoman-harriet-hageman-introduces-fair-act-safeguard-truth-and",
+"date": "2025-09-16",
+"quote": "AI is advancing faster than our institutions are prepared for, and we either allow technology to become a tool for propaganda or insist it serves the truth",
+"what_it_shows": "She sees AI moving faster than government but her remedy is a neutrality rule for government AI, not safety regulation."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.7997 Research and Oversight of AI in Courts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7997",
+"date": "2026-03-19",
+"quote": null,
+"what_it_shows": "Bipartisan task force to study accuracy, privacy and cybersecurity risks of AI speech-to-text in federal courts."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Hageman Introduces Bipartisan Bill with Sens. Wicker, Welch to Examine Use of AI Speech-to-Text Technologies in Federal Courts",
+"url": "https://hageman.house.gov/media/press-releases/rep-hageman-introduces-bipartisan-bill-sens-wicker-welch-examine-use-ai-speech",
+"date": "2026-03-19",
+"quote": "Congress must protect the integrity of our courts with vigorous oversight that remains up to date with emerging technologies.",
+"what_it_shows": "She supports oversight of AI in a specific high-stakes setting."
+},
+{
+"type": "statement",
+"title": "Video statement: Without adequate oversight, AI will be a ruthless weapon to censor conservative Americans",
+"url": "https://hageman.house.gov/media/videos/without-adequate-oversight-ai-will-be-ruthless-weapon-censor-conservative-americans",
+"date": "2024-02-06",
+"quote": "As artificial intelligence continues to develop, it is likely bad actors will try to convert this tool into yet another weapon against conservative speech.",
+"what_it_shows": "Early statement that AI needs oversight, framed entirely around censorship of conservatives."
+},
+{
+"type": "letter",
+"title": "Just the News reposted by her office: Congress probing whether IRS using AI to invade Americans' financial privacy (Jordan-Hageman letter to Treasury)",
+"url": "https://hageman.house.gov/media/in-the-news/congress-probing-whether-irs-using-ai-invade-americans-financial-privacy",
+"date": "2024-03-23",
+"quote": null,
+"what_it_shows": "She demanded records on IRS use of AI to monitor bank accounts, a civil liberties concern about government AI surveillance."
+},
+{
+"type": "pac",
+"title": "Transformer AI Campaign Finance Tracker: WY Senate race (American Mission super PAC spending)",
+"url": "https://elections.transformernews.ai/races/wy-s",
+"date": "2026-07",
+"quote": null,
+"what_it_shows": "American Mission, the Republican arm of the Leading the Future network that opposes strict AI rules, spent $333,254 supporting her in the August 2026 Senate primary, which she won; this reflects the PAC's view of her, not her own statement."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "medium",
+"summary": "Hageman wants to rein in Big Tech's power over speech: she sponsored a bill to sunset Section 230 to force reform, cosponsored the Stop the Censorship Act to strip liability protection for removing merely objectionable posts, voted to force TikTok's sale, and has fought government-pressured content moderation since before she was elected. Her focus is censorship rather than kids' safety or privacy.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.6746 Sunset To Reform Section 230 Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6746",
+"date": "2025-12-16",
+"quote": null,
+"what_it_shows": "Puts an expiration date on Section 230 so Congress must rewrite Big Tech's liability shield."
+},
+{
+"type": "statement",
+"title": "Press release: Congresswoman Hageman Introduces the Sunset to Reform Section 230 Act to Curb Big Tech Censorship",
+"url": "https://hageman.house.gov/media/press-releases/congresswoman-hageman-introduces-sunset-reform-section-230-act-curb-big-tech",
+"date": "2025-12-16",
+"quote": "After years of censorship and abuse, it is now time for Congress to reform this authority and constrain the essentially limitless power that we have granted to these companies.",
+"what_it_shows": "She wants to narrow platforms' immunity to removals of unlawful content and constrain their power."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.908 Stop the Censorship Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/908",
+"date": "2025-02-04",
+"quote": null,
+"what_it_shows": "Would remove Section 230 protection when platforms take down posts they merely find objectionable."
+},
+{
+"type": "statement",
+"title": "Press release: Hageman Votes to Force ByteDance to Divest from TikTok",
+"url": "https://hageman.house.gov/media/press-releases/hageman-votes-force-bytedance-divest-tiktok",
+"date": "2024-03-13",
+"quote": "With user data on millions of Americans and over 210 million downloads in the United States, TikTok is a clear and present danger to our national security.",
+"what_it_shows": "She backed forcing a Chinese-controlled app to divest, a hard-edged tech regulation on national security grounds."
+},
+{
+"type": "interview",
+"title": "Cowboy State Daily: Biden-Era Social Media Censorship Lawsuit Ends; Hageman: 'It Was Pretty Blatant'",
+"url": "https://cowboystatedaily.com/2026/03/26/biden-era-social-media-censorship-lawsuit-ends/",
+"date": "2026-03-26",
+"quote": "It was pretty blatant what was going on",
+"what_it_shows": "Her long-running fight is against government coercion of social media platforms, the root of her Section 230 push."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searched for statements on the 2025 state AI law moratorium, the Dec 2025 executive order and the Mar 2026 White House framework; her only touchpoint is citing the framework's censorship pillar as the basis for her Preventing AI Censorship Act, without addressing preemption. She was not a signer of the Democratic Matsui or Clarke letters, and the House has not held a recorded vote on preemption.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Hageman Introduces Bill to Hold Federal Employees Accountable for AI Censorship (cites March 2026 framework)",
+"url": "https://hageman.house.gov/media/press-releases/rep-hageman-introduces-bill-hold-federal-employees-accountable-ai-censorship",
+"date": "2026-06-11",
+"quote": "President Trump's March 2026 National Policy Framework for AI explicitly called on Congress to prevent the federal government from coercing AI providers to alter content based on partisan or ideological agendas",
+"what_it_shows": "She embraces the White House AI framework's free-speech plank but says nothing about its call to preempt state AI laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls. Searched for statements on Nvidia, export controls, the Chip Security Act and chips to China and found none; her only China-tech action found is the 2024 vote to force TikTok's divestiture, which is about apps and data, not chips.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Hageman Votes to Force ByteDance to Divest from TikTok",
+"url": "https://hageman.house.gov/media/press-releases/hageman-votes-force-bytedance-divest-tiktok",
+"date": "2024-03-13",
+"quote": "The potential for nefarious uses, spying, and manipulation of data is of significant concern.",
+"what_it_shows": "Shows a hawkish view of Chinese technology, but does not address semiconductor exports."
+}
+]
+}
+},
+"signature": "Trump-aligned House member and 2026 GOP Senate nominee whose AI bills target 'woke' and censoring AI and who wants to sunset Section 230; pressed Meta over Cheyenne data center water contamination and cosponsored the Ratepayer Protection Act while championing permitting reform.",
+"notable_quote": {
+"text": "Water is a precious resource in our state, so it is of immense concern to learn the system marketed to reduce a data center's water consumption caused this contamination",
+"url": "https://hageman.house.gov/media/press-releases/hageman-demands-answers-meta-over-data-center-water-contamination",
+"date": "2026-07-09"
+},
+"groups": [
+"House Judiciary Subcommittee on the Administrative State, Regulatory Reform, and Antitrust (member)",
+"House Natural Resources Subcommittee on Water, Wildlife and Fisheries (Chair)",
+"Congressional Coal Caucus (Co-Chair)",
+"Congressional Western Caucus (Vice Chair)"
+],
+"search_notes": "Ran 12 news searches (AI, data centers, Section 230/Big Tech, Nvidia/export controls, state AI laws/preemption, chatbot/deepfake/KOSA, Leading the Future/American Mission PAC, ratepayers, AI executive order/woke AI, Preventing AI Censorship/FAIR Act, Microsoft/Meta/Project Jade Cheyenne, TikTok/censorship 2026, Reliable Grid Act) plus two Wayback listings of hageman.house.gov, which fetched directly without trouble. Read her Meta letter release, AI censorship, AI in courts, Section 230 sunset, FAIR Act, SPEED Act and TikTok releases, her 2024 AI video statement and IRS letter coverage, Cap City News, Cowboy State Daily (Zuckerberg letter, dark money, censorship lawsuit), WyoFile, Mother Jones, Oil City News forum, FedSmith, and the Transformer PAC tracker. Verified H.R.9340, H.R.5315, H.R.3751 sponsorship in local bill-status XML. Her July 2026 Washington Times op-ed on the censorship industrial complex in the age of AI was 403 with no archive; the Politico Sept 2026 AI PAC primaries piece could not be decoded (Google 429). Her July 2026 No vote on the FY27 NDAA was not used because it is a whole-bill vote with no AI-specific statement. No statements found on chip export controls or preemption."
+}
+]

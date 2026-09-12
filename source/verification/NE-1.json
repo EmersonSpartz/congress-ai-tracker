@@ -1,0 +1,388 @@
+[
+{
+"bioguide": "F000463",
+"checks": [
+{
+"url": "https://www.norfolkneradio.com/news/fischer-chairs-senate-hearing-on-ai/article_3ef4bda9-502e-441c-a4d4-762003168c5d.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-30",
+"note": "Page (dated 2026-07-30) names Fischer as subcommittee chair convening the AI-and-networks hearing; quote appears verbatim. Article text contains no mention of 'safe' or 'regulat', consistent with the claim, though it is a short local brief, so absence of safety discussion reflects the coverage more than a full hearing transcript."
+},
+{
+"url": "https://www.networkworld.com/article/4204576/cisco-exec-testifies-at-us-senate-panel-on-ais-network-impact.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-30",
+"note": "Quote appears verbatim, attributed to Fischer's opening statement at the July 30, 2026 'Intelligent Networks' hearing (article published 2026-08-03). Framing matches claim: AI adoption treated as given, focus on network capacity."
+},
+{
+"url": "https://www.meritalk.com/articles/telecom-leaders-say-permitting-reform-is-key-to-ai-ready-fiber-networks/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-30",
+"note": "Quote verbatim, attributed to Subcommittee Chair Deb Fischer; page paraphrases her 'warning that growing AI demand requires removing barriers to broadband deployment' at the permitting-reform-focused hearing. Page carries no visible date; hearing was July 30, 2026 per the other sources."
+},
+{
+"url": "https://www.nextgov.com/emerging-tech/2026/04/ai-capabilities-are-needed-counter-drone-threats-senator-says/412987/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-20",
+"note": "Quote verbatim. Page also quotes her saying adopting AI-powered drones is 'going to have to happen very, very quickly, and if we aren't ready for the future, we're in trouble,' supporting the claim."
+},
+{
+"url": "https://nebraskapublicmedia.org/en/news/news-articles/us-senate-passes-child-online-safety-legislation-co-sponsored-by-fischer-ricketts/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-07-31",
+"note": "Article (July 31, 2024) states Fischer and Ricketts cosponsored KOSA when the Senate passed it; only Ricketts is quoted, as the claim says."
+},
+{
+"url": "https://www.meritalk.com/articles/telecom-leaders-say-permitting-reform-is-key-to-ai-ready-fiber-networks/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-30",
+"note": "Headline quote appears verbatim and is attributed to Fischer."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the six cited sources touches chip export controls or China semiconductor policy; the -1 'Leans hawkish' score has no supporting evidence in this item set.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "R000618",
+"checks": [
+{
+"url": "https://nebraskapublicmedia.org/en/news/news-articles/money-power-take-center-stage-during-ricketts-and-osborns-state-fair-debate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim and continues: 'They should make sure, yes, you shouldn't impact my power rates. You should conserve water – closed-loop systems. But then they can ask for more [in property taxes].' Article frames it as developing data centers to beat China without compromising public resources. Page carries no explicit date in fetch; debate coverage is early Sept 2026 (Osborn release dated 2026-09-02)."
+},
+{
+"url": "https://ruralradio.com/krvn/news/ricketts-discusses-data-centers-agriculture-and-rural-development-during-broken-bow-stop/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-26",
+"note": "Quote verbatim. Article says data centers matter for AI competition with China, that water conservation and no utility-rate increases 'should be basic requirements for any development', that federal permitting reform could cut infrastructure costs (raised in context of Broken Bow's power plant, not data centers specifically), and that regulations raising transformer costs should be reviewed."
+},
+{
+"url": "https://panhandle.newschannelnebraska.com/story/322177873/ricketts-classifies-ai-data-centers-as-matter-of-national-security",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-08",
+"note": "Headline 'Ricketts classifies AI data centers as matter of national security' and subhead 'Senator welcomes local zoning safegaurds' confirmed; body text again did not render (only nav/related stories), so the claim rests on headline/subhead only, as the item already discloses."
+},
+{
+"url": "https://chadronradio.com/google-invested-more-than-930-million-in-nebraska-in-2024/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-11-26",
+"note": "Quote verbatim, attributed to Senator Pete Ricketts, followed by 'These are the jobs of the future – and they're coming here to Nebraska.' It is a canned quote in a Google press release, not a Ricketts-authored statement."
+},
+{
+"url": "https://chadronradio.com/dan-osborn-calls-out-pete-ricketts-corruption-at-state-fair-debate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-02",
+"note": "Osborn campaign release; quote verbatim. Also documents his tech holdings and the 2017 Facebook Papillion data center recruitment as governor. Correctly labelled as opponent claim, not Ricketts' words."
+},
+{
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-introduces-bill-to-combat-deepfakes-require-watermarks-on-a-i-generated-content",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "ricketts.senate.gov returns 403 to the fetch tool, curl with browser UA, and WebFetch; Wayback Machine was refusing connections / 503 / 429 throughout the session and archive.ph has no snapshot. Could not verify the quote or the FTC enforcement detail."
+},
+{
+"url": "https://www.ricketts.senate.gov/news/in-the-news/china-aiming-for-chaos-and-confusion-by-weaponizing-ai-warns-gop-senator",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Same 403 block on ricketts.senate.gov; Wayback unavailable (503/429). Not verified. The original Fox News article would be an alternative source if a URL can be located."
+},
+{
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-at-ai-expo-innovation-and-adoption-is-the-key-to-ai-competition-for-america",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Same 403 block on ricketts.senate.gov; Wayback timed out / 429. Not verified."
+},
+{
+"url": "https://nebraskapublicmedia.org/en/news/news-articles/us-senate-passes-child-online-safety-legislation-co-sponsored-by-fischer-ricketts/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim: 'Companies in every other industry must take steps to prevent users from being hurt. Social media companies should do the same. Our bill makes that a reality.' Article says he 'is not concerned about the political effects' after noting ACLU and Sen. Lee censorship criticisms. Senate KOSA vote was 91-3 (July 30, 2024); page shows no date in fetch."
+},
+{
+"url": "https://www.aljazeera.com/economy/2025/12/4/us-senators-unveil-bill-to-keep-trump-from-allowing-ai-chip-sales-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-04",
+"note": "Quote verbatim including Al Jazeera's brackets, 'Ricketts said in a statement.' Bill filed by Ricketts and Coons; article calls it 'a rare effort led in part by Trump's own party to stop him from further relaxing tech export restrictions on China.'"
+},
+{
+"url": "https://www.cnbc.com/video/2025/12/05/sen-ricketts-safe-chips-act-codifies-what-the-trump-administrations-current-policy-already-is.html",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Video page: Ricketts on Squawk Box discussing legislation 'that aims to block the Trump administration from easing curbs on AI chip sales to China, impact on Nvidia and the chips sector.' Nvidia's H200 is not mentioned on the page; the video itself was not transcribed, so the H200 detail is unverified."
+},
+{
+"url": "https://www.nbcnews.com/tech/tech-news/senate-bill-ban-sale-key-ai-chipmaking-machines-china-rcna265186",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-02",
+"note": "Quote verbatim; Ricketts identified as 'the leader of the upcoming Senate companion bill' to Baumgartner's House MATCH Act, which bans more chipmaking tools, restricts servicing, and engages allies to align controls."
+},
+{
+"url": "https://www.pymnts.com/cpi-posts/republican-lawmakers-urge-reversal-of-bidens-ai-export-controls/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-04-14",
+"note": "Quote verbatim from the letter. Article lists Ricketts first among seven signatories (Ricketts, Tillis, Mullin, Budd, Wicker, Schmitt, Tuberville) but does not say he led it; it also does not mention allied-country caps, only that a revised framework should still prevent China from gaining dominance. 'Led' is not supported by this page."
+},
+{
+"url": "https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-12",
+"note": "Quote verbatim. Article says Ricketts 'introduced legislation this year to limit advanced U.S. chips from being sold to China' as the reason for the ad buy. Note this is a PAC-spending item, not a Ricketts statement."
+},
+{
+"url": "https://elections.transformernews.ai/races/ne-s",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Page shows Defending Our Values PAC (Pro-safety) supporting Ricketts $274,485 in the primary, Ricketts 'Won', Google employees 6 contributions $18,500, Microsoft 4 contributions $13,600. Page itself does not state that Defending Our Values is the Republican arm of Public First; that link comes from elsewhere. Data as of Sep 12, 2026."
+},
+{
+"url": "https://chadronradio.com/dan-osborn-calls-out-big-tech-super-pac-propping-up-deeply-unpopular-pete-ricketts/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-18",
+"note": "Osborn release; quote verbatim, plus 'when a Silicon Valley company wants to buy Senate votes on A.I. policy, Private Equity Pete is their guy.' Names Anthropic's $20M to Public First Action and a $200,000 ad buy."
+},
+{
+"url": "https://nebraskapublicmedia.org/en/news/news-articles/money-power-take-center-stage-during-ricketts-and-osborns-state-fair-debate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Headline quote appears verbatim in the article, attributed to Ricketts."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "F000474",
+"checks": [
+{
+"url": "https://www.tradingview.com/news/benzinga:2eac767c6094b:0-trump-backs-data-centers-now-house-republicans-are-moving-to-stop-them-from-driving-up-americans-electricity-bills/",
+"verdict": "unsupported",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Page loads (Benzinga via TradingView, Sept 11, 2026) and accurately describes the Ratepayer Protection Act: floor vote 'next week' per Speaker Johnson's spokesperson, bill would require state utility regulators to consider rules making data centers cover some new-generation costs, cleared E&C in July. But the article never mentions Mike Flood; grep for 'Flood' returned no match. It cannot support 'the bill he joined'. Flood's cosponsorship needs a separate source (e.g., congress.gov)."
+},
+{
+"url": "https://siliconprairienews.com/2025/09/from-ai-to-stablecoins-flyover-fintech-positions-nebraska-as-a-fintech-player/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-26",
+"note": "Quote appears verbatim attributed to Flood. Immediately after, the reporter writes: 'Both lawmakers stressed the need to regulate AI through existing anti-discrimination frameworks rather than creating duplicative rules.' Matches the claim. Note this is the reporter's paraphrase, not a direct Flood quote on AI."
+},
+{
+"url": "https://flood.house.gov/media/blog-post/congressman-flood-announces-flyover-fintech-panel-ai-and-banking",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-02",
+"note": "Quote verbatim from Flood. Page features Zest AI (expand access to credit, protect against fraud risks), Synovus, FNBO, Dynamo AI; no call for limits. Event-announcement framing, so it is weak evidence of a regulatory position."
+},
+{
+"url": "https://flood.house.gov/media/press-releases/congressman-flood-announces-flyover-fintech-panel-ai-housing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-09-12",
+"note": "Quote verbatim. Flood continues: industry leaders 'using AI to break down barriers and make the dream of homeownership possible for more Americans.' Supports claim."
+},
+{
+"url": "https://siliconprairienews.com/2025/09/from-ai-to-stablecoins-flyover-fintech-positions-nebraska-as-a-fintech-player/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-26",
+"note": "Quote verbatim, in the context of Flood saying bipartisan cooperation is critical to sustaining innovation, with the GENIUS Act and forthcoming CLARITY Act cited (by Steil) as steps toward regulatory certainty. Supports the certainty/innovation framing. Note the certainty framing is about passing crypto/stablecoin legislation, i.e., building rules, not deregulation."
+},
+{
+"url": "https://flood.house.gov/media/press-releases/congressman-flood-xi-grabbing-more-power-de-facto-emperor-china-0",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-10-24",
+"note": "Quote verbatim. Page also references his letter asking Commerce to investigate Huawei hardware in Nebraska cell towers. Nothing on AI chip exports, as the claim states."
+},
+{
+"url": "https://flood.house.gov/media/blog-post/congressman-flood-announces-flyover-fintech-panel-ai-and-banking",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-02",
+"note": "Headline quote appears verbatim, attributed to Congressman Flood."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only data_centers source does not name Flood at all, so his cosponsorship of the Ratepayer Protection Act is unsourced in this record. -1 'Protect ratepayers first' is plausible if cosponsorship is verified on congress.gov, but as it stands the evidence is too thin to assign a position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "B001298",
+"checks": [
+{
+"url": "https://chadronradio.com/google-invested-more-than-930-million-in-nebraska-in-2024/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-11-26",
+"note": "Quote verbatim. Page also carries the preceding Bacon sentence: 'Google is a powerful driver for secure, U.S. infrastructure, and we are grateful for their continued investments in Nebraska,' which supports the claim. Note it is a Google press release reprint; the quote is Bacon's blurb inside it."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-bipartisan-colleagues-sound-the-alarm-over-grok-ais-antisemitic-and-violent-posts",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-11",
+"note": "Quote verbatim. Release says the letter was led by Suozzi, Gottheimer and Bacon; letter asks 'what specifically had xAI altered' in model parameters, training data, fine-tuning, moderation, so the 'internal decisions' claim holds."
+},
+{
+"url": "https://www.meritalk.com/articles/bacon-walkinshaw-push-congress-to-strengthen-cisa-amid-rising-ai-cyber-threats/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-21",
+"note": "Quote verbatim, attributed to Bacon as CITI chairman; article frames it around AI-accelerated cyber threats."
+},
+{
+"url": "https://www.meritalk.com/articles/house-unveils-1-15-trillion-defense-bill-for-fiscal-2027/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-05-27",
+"note": "Quote verbatim and the article attributes the AI incident reporting program and AI model rapid deployment framework to the CITI subcommittee, but Bacon is never named on the page; the link to him relies on outside knowledge that he chairs CITI."
+},
+{
+"url": "https://breakingdefense.com/2025/08/whos-who-in-defense-don-bacon-chairman-house-armed-services-subcommittee-hasc-on-cyber-innovative-technologies-and-information-systems/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-07",
+"note": "Quote verbatim from the profile's Quote section; continues with complaint about strategies and pilots yielding 'no meaningful follow-on production contracts', supporting the impatience-with-studies reading. Subcommittee oversight of AI is stated on the page."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-bacon-adl-announce-legislation-to-combat-terrorists-disinformation-on-social-media",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-23",
+"note": "Quote verbatim, attributed to Bacon. Bill summary: require reports of terms-of-service violations for FTO/SDGT content, explain the standard, $5M/day fine for noncompliance. Release dated Jul 24 for a Jul 23 event."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-bipartisan-colleagues-sound-the-alarm-over-grok-ais-antisemitic-and-violent-posts",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-11",
+"note": "Letter co-led by Bacon states Grok's outputs are 'the latest chapter in X's long and troubling record of enabling antisemitism and incitement to spread unchecked' and demands posts be removed; matches the accountability claim."
+},
+{
+"url": "https://thehill.com/homenews/administration/5449275-us-china-ai-chip-deal/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-13",
+"note": "Quote verbatim, attributed to Rep. Don Bacon (R-Neb.) on NewsNation; he adds 'China getting our chips is not a good deal.' Article is about the Trump deal allowing Nvidia/AMD sales with a 15% cut."
+},
+{
+"url": "https://thehill.com/homenews/administration/5449275-us-china-ai-chip-deal/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-13",
+"note": "Same page as item 8; quote verbatim."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only data_centers source is a one-line blurb in a Google press release thanking Google for investments in Nebraska. It shows general enthusiasm for building but says nothing about conditions, ratepayers, siting, or grid impact. Evidence is too thin to distinguish 'Build with conditions' from 'Build faster'; if a score is kept, +1 is defensible but weakly supported. Suggest keeping +1 only with a thin-evidence flag, or no position.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "Sources are mixed: Grok letter and CISA push lean toward accountability/guardrails, but the NDAA item and the Breaking Defense quote show a chairman focused on faster AI fielding at DoD, and the incident-reporting program is an internal Pentagon process, not regulation of industry. None of the sources shows support for binding rules on AI developers. -1 'Targeted guardrails' is defensible but 0 'Mixed' fits the evidence at least as well; flag as low confidence rather than clearly wrong.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+},
+{
+"bioguide": "S001172",
+"checks": [
+{
+"url": "https://broadbandbreakfast.com/lawmakers-warn-digital-trade-rules-will-shape-u-s-ai-leadership/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Page (Jan 14, 2026) quotes Rep. Adrian Smith, R-Neb., saying digital services move 'through fiber and data centers rather than ports and containers.' Quote verbatim. Context is digital trade infrastructure, not data-center siting policy, so the claim's framing is accurate. Weak basis for any data_centers score."
+},
+{
+"url": "https://waysandmeans.house.gov/2026/01/16/four-key-moments-hearing-on-maintaining-american-innovation-and-technology-leadership/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-16",
+"note": "Page names Trade Subcommittee Chairman Adrian Smith (NE-03) and quotes his opening statement verbatim. Page text contains no mention of AI or artificial intelligence at all, consistent with the claim that he frames the issue around innovation/trade with no AI-risk content. Note the quote is about innovation generally (agriculture, pharma, small business), not specifically technology."
+},
+{
+"url": "https://adriansmith.house.gov/media/press-releases/smith-miller-ask-trump-administration-address-digital-trade-barriers-south",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-30",
+"note": "Press release (June 30, 2025): Smith and Carol Miller led 41 colleagues in a letter to USTR Greer, Bessent and Lutnick. Quote appears verbatim. Letter also criticizes KFTC 'excessive and arbitrary competition law enforcement' (dawn raids, criminal threats), supporting the second half of the claim."
+},
+{
+"url": "https://adriansmith.house.gov/media/press-releases/smith-colleagues-urge-president-address-digital-trade-barriers-japan",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-27",
+"note": "Press release (Oct 27, 2025): Smith led 20 House Republicans urging Trump to raise Japan's MSCA. Quote verbatim; letter says MSCA draws 'direct inspiration from the European Union's highly problematic Digital Markets Act (DMA).'"
+},
+{
+"url": "https://chadronradio.com/smith-leads-effort-to-address-brazils-discriminatory-digital-regulations/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Local radio story (July 24, 2026) reproducing Smith's release: Smith led a letter with Judiciary Chairman Jim Jordan and 18 Republican colleagues to USTR Jamieson Greer on Brazil's Bill No. 4675/2025 (Fair Competition Act for Digital Markets). Quote appears verbatim, and letter says the law would be 'undermining America's global technological leadership.'"
+},
+{
+"url": "https://adriansmith.house.gov/media/press-releases/smith-statement-canadas-rescission-digital-services-tax",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-30",
+"note": "Statement (June 30, 2025) by Smith as Trade Subcommittee chairman. Quote verbatim; he calls the withdrawal 'a fair deal for our world-leading digital services providers and innovators.'"
+},
+{
+"url": "https://adriansmith.house.gov/media/press-releases/smith-aggressive-engagement-critical-get-fair-deal-digital-trade",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-21",
+"note": "Statement (Feb 21, 2025) released after Trump signed an executive order directing USTR to act on foreign digital taxes/regulations. Quote verbatim. Claim accurately describes it."
+},
+{
+"url": "https://waysandmeans.house.gov/2026/01/16/four-key-moments-hearing-on-maintaining-american-innovation-and-technology-leadership/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-16",
+"note": "Same page as item 2; quote appears verbatim attributed to Rep. Adrian Smith (NE-03)."
+}
+],
+"score_objections": []
+}
+]

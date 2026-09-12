@@ -2,7 +2,7 @@
 """research_tools.py: search and fetch helpers for research agents (WebSearch budget is exhausted in this session).
 
 Usage:
-  research_tools.py news "<query>" [--n 12] [--decode 8]      Google News RSS search; decodes the first --decode article links to real URLs
+  research_tools.py news "<query>" [--n 12] [--decode 5]      Google News RSS search; decodes the first --decode article links to real URLs (about 5-30 s per call)
   research_tools.py site <domain-or-url> [--match REGEX] [--from 2025] [--limit 80]
                                                               List archived URLs on a site (Wayback CDX), filtered by a regex on the URL (default: AI/tech words)
   research_tools.py fetch <url> [--max 15000] [--grep "phrase"] Fetch a page as plain text with a browser UA; falls back to the Wayback Machine when blocked.
@@ -163,7 +163,8 @@ def cmd_fetch(url, maxc=15000, grep=None):
         if len(text) > maxc:
             print(f'\n[... truncated {len(text) - maxc} more characters; use --grep to find passages]')
 
-def cmd_news(query, n=12, decode=8):
+def cmd_news(query, n=12, decode=5, budget=60):
+    t0 = time.time()
     key = 'news:' + query
     c = _cache_get(key)
     if c is None:
@@ -186,6 +187,8 @@ def cmd_news(query, n=12, decode=8):
             gnewsdecoder = None
         for it in out[:decode]:
             if it.get('url'): continue
+            if time.time() - t0 > budget:
+                it['url'] = None; it['note'] = 'not decoded (time budget); run: research_tools.py decode <gnews_url>'; continue
             if gnewsdecoder and it['gnews_url']:
                 dk = 'decode:' + it['gnews_url']
                 dc = _cache_get(dk)
@@ -260,7 +263,7 @@ def main(argv):
         if multi: return [cast(v) for v in vals] if vals else default
         return cast(vals[-1]) if vals else default
     if cmd == 'news':
-        n = opt('--n', 12, int); dec = opt('--decode', 8, int); cmd_news(' '.join(args), n, dec)
+        n = opt('--n', 12, int); dec = opt('--decode', 5, int); cmd_news(' '.join(args), n, dec)
     elif cmd == 'site':
         match = opt('--match'); since = opt('--from', '2025'); limit = opt('--limit', 80, int); cmd_site(args[0], match, since, limit)
     elif cmd == 'fetch':

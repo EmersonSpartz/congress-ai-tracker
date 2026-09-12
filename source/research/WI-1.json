@@ -1,0 +1,788 @@
+[
+{
+"bioguide": "B001230",
+"name": "Tammy Baldwin",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Baldwin wants data center developers to commit that local communities will not pay for the energy and water the projects use, and wants residents' questions answered before projects move ahead. She has not called for a pause, and says any moratorium is a question for the state Legislature first.",
+"evidence": [
+{
+"type": "statement",
+"title": "Wisconsin Watch: Data centers become a flashpoint in Wisconsin politics",
+"url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+"date": "2026-01-22",
+"quote": "The developers of these need to have commitments to the local community that they won't see, that they won't have to shoulder the costs of the energy use and water use by these data centers",
+"what_it_shows": "She puts ratepayer and water protections first, while saying a moratorium should be considered by the state Legislature rather than Congress."
+},
+{
+"type": "statement",
+"title": "Wisconsin Watch / NOTUS: Foxconn is moving to AI. It's giving lawmakers some pause.",
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"date": "2025-12-05",
+"quote": "I want my constituents to get their questions answered before these projects move ahead",
+"what_it_shows": "She points to local public input processes and wants community concerns resolved before AI data center projects proceed."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Baldwin backs specific AI guardrails: she signed the January 2026 letter demanding platforms stop sexualized AI deepfakes, cosponsored bills requiring bias testing and transparency for high-stakes AI systems, and says health care AI must start from a do-no-harm standard. She has not called for licensing or a pause on advanced AI.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Senator Baldwin, colleagues demand Big Tech remove sexualized, AI-generated images (letter to Alphabet, Meta, X, TikTok, Snap and Reddit)",
+"url": "https://www.baldwin.senate.gov/news/press-releases/senator-baldwin-colleagues-demand-big-tech-remove-sexualized-ai-generated-images",
+"date": "2026-01-15",
+"quote": "In practice, however, as seen in the examples above, users are finding ways around these guardrails. Or these guardrails are failing.",
+"what_it_shows": "She joined eight Democratic senators pressing platforms to explain how they will remove nonconsensual AI deepfakes, including of minors, and notify victims."
+},
+{
+"type": "interview",
+"title": "Punchbowl News: The AI Innovators: Health Care",
+"url": "https://punchbowl.news/ai-innovators/health-care/",
+"date": "2026-03-04",
+"quote": "I think just like doctors take the Hippocratic Oath to first do no harm…we have to make sure that that is the place we start with AI",
+"what_it_shows": "She frames AI rules in health care around patient safety first and said Congress has not begun to scratch the surface of protecting patient safety."
+},
+{
+"type": "cosponsor",
+"title": "Algorithmic Accountability Act of 2023 (S.2892, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2892",
+"date": "2023-09-21",
+"quote": null,
+"what_it_shows": "She cosponsored a bill making big companies test automated decision systems for bias and harm and report results to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "Artificial Intelligence Research, Innovation, and Accountability Act of 2024 (S.3312, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/3312",
+"date": "2024-01-24",
+"quote": null,
+"what_it_shows": "She cosponsored a bill requiring transparency reports and safety standards for companies using AI in high-stakes decisions."
+},
+{
+"type": "hearing",
+"title": "Senate Commerce subcommittee hearing on deploying AI for workforce, health care and industry (Baldwin as ranking member)",
+"url": "https://www.commerce.senate.gov/2026/3/senator-budd-chairs-subcommittee-hearing-to-evaluate-innovative-deployment-of-ai-to-support-workforce-healthcare-and-industry",
+"date": "2026-03-03",
+"quote": null,
+"what_it_shows": "As the subcommittee's top Democrat she helped convene a hearing on how AI should be deployed in the workforce and health care; the page carries the chairman's remarks and thanks Ranking Member Baldwin."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Baldwin has a long record of targeted tech rules: she voted for and cosponsored the Kids Online Safety Act, backed reproductive data privacy and content moderation transparency bills, and sponsors measures to keep Chinese-linked cars and sensors out of US infrastructure. She has not pushed break-ups or a repeal of Section 230.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Baldwin votes to hold Big Tech accountable and protect kids and teens online (Senate passage of KOSA, 91-3)",
+"url": "https://www.baldwin.senate.gov/news/press-releases/baldwin-votes-to-hold-big-tech-accountable-and-protect-kids-and-teens-online",
+"date": "2024-07-30",
+"quote": "Big Tech has shown us time and again that they are putting their bottom lines ahead of the well-being of our kids, and we cannot ignore the devastating toll it has taken on our children's mental and physical well-being",
+"what_it_shows": "She voted for the Kids Online Safety and Privacy Act and framed it as holding Big Tech accountable for harm to children."
+},
+{
+"type": "cosponsor",
+"title": "Kids Online Safety Act (S.1409, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409",
+"date": "2023-05-02",
+"quote": null,
+"what_it_shows": "She cosponsored the main kids' online safety bill requiring platforms to protect minors from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Connected Vehicle Security Act of 2026 (S.4429)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-09",
+"quote": null,
+"what_it_shows": "She cosponsored a bill banning internet-connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "statement",
+"title": "Press release: Baldwin, Budd lead bipartisan bill to prevent DOT from using technologies China uses to spy on America (Securing Infrastructure from Adversaries Act)",
+"url": "https://www.baldwin.senate.gov/news/press-releases/baldwin-budd-lead-bipartisan-bill-to-prevent-dot-from-using-technologies-china-uses-to-spy-on-america",
+"date": "2026-03-06",
+"quote": "We cannot allow our adversaries like China to get their hands on Americans' sensitive data. Period.",
+"what_it_shows": "She introduced a bill barring the Transportation Department from buying or funding Chinese LiDAR sensors, part of a pattern of restricting Chinese technology in US infrastructure."
+},
+{
+"type": "cosponsor",
+"title": "Internet PACT Act (S.483, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/483",
+"date": "2023-02-16",
+"quote": null,
+"what_it_shows": "She cosponsored a Section 230 reform requiring large platforms to publish content rules, report takedowns and remove court-ordered illegal content."
+},
+{
+"type": "cosponsor",
+"title": "My Body, My Data Act of 2023 (S.1656, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1656",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "She cosponsored a bill limiting collection and sale of reproductive health data by apps and companies."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Baldwin signed the June 2025 Commerce Committee Democrats' letter calling the state AI law moratorium a move that tramples states' rights, and she voted to strip it from the budget bill. She has also said any data center moratorium belongs with the state Legislature first.",
+"evidence": [
+{
+"type": "letter",
+"title": "Cantwell and Commerce Committee Democrats letter to Chairman Cruz demanding regular order on the reconciliation Commerce title, flagging the AI moratorium",
+"url": "https://www.commerce.senate.gov/press/dem/release/cantwell-commerce-committee-democrats-call-for-regular-order-on-dangerous-and-damaging-commerce-title-of-reconciliation-bill-2025-6/",
+"date": "2025-06-11",
+"quote": "the AI moratorium proposal tramples states' rights and holds the $42 billion BEAD program hostage, further delaying the broadband Americans desperately need",
+"what_it_shows": "Baldwin is listed among the twelve Commerce Democrats who signed the letter opposing the 10-year freeze on state AI laws."
+},
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "She voted Yea to remove the moratorium, consistent with the letter she had signed weeks earlier."
+},
+{
+"type": "statement",
+"title": "Wisconsin Watch: Data centers become a flashpoint in Wisconsin politics",
+"url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "The article reports she said any moratorium on data centers must be considered by the state Legislature first, a states-first instinct on AI infrastructure."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls as of Sept 2026. Searches for Baldwin with Nvidia, H20 or H200 sales, the Chip Security Act, GAIN AI and export controls returned nothing. Her China-tech record (RESTRICT Act, Connected Vehicle Security Act, the LiDAR bill) is about keeping Chinese technology out of the US, not about chip exports, so it is listed under tech regulation instead.",
+"evidence": []
+}
+},
+"signature": "Commerce Committee Democrat who backs kids' online safety, deepfake crackdowns and algorithm accountability, and wants data center developers to shield Wisconsin ratepayers and water.",
+"notable_quote": {
+"text": "I think just like doctors take the Hippocratic Oath to first do no harm…we have to make sure that that is the place we start with AI",
+"url": "https://punchbowl.news/ai-innovators/health-care/",
+"date": "2026-03-04"
+},
+"groups": [
+"Ranking Member, Senate Commerce Subcommittee on Science, Manufacturing, and Competitiveness",
+"Ranking Member, Senate Appropriations Subcommittee on Labor, Health and Human Services, Education"
+],
+"search_notes": "Google News searches: Baldwin + artificial intelligence; data center; chatbot/deepfake; moratorium/preemption; Kids Online Safety; Nvidia/export controls/semiconductor; Big Tech/Section 230/antitrust; Microsoft/Port Washington; Chip Security Act/GAIN AI/H20; TAKE IT DOWN/DEFIANCE/NO FAKES; AI workers/jobs; Budd DOT China bill. Site listing of baldwin.senate.gov (180 archived URLs). baldwin.senate.gov and commerce.senate.gov return 403 directly; read the deepfake letter, KOSA statement, LiDAR release, Budd hearing and Cantwell letter through Wayback copies. Opened Wisconsin Watch Dec 2025 and Jan 2026, TechCrunch (letter cosigners), Punchbowl, UWM visit story, govtrack s363. No AI super PAC activity found. Baldwin's sports-streaming bill and CHIPS Act subsidy letters were judged off-topic."
+},
+{
+"bioguide": "J000293",
+"name": "Ron Johnson",
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Johnson calls data centers' strain on Wisconsin's grid a very serious concern and doubts local officials have fully factored it in, but he treats energy and water demands as a local permitting matter and has not proposed federal action either way.",
+"evidence": [
+{
+"type": "statement",
+"title": "Wisconsin Watch: Data centers become a flashpoint in Wisconsin politics",
+"url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+"date": "2026-01-22",
+"quote": "very serious concern",
+"what_it_shows": "He called the grid impact of data centers a very serious concern and said he is unsure local officials have really factored it in properly, without endorsing a policy fix."
+},
+{
+"type": "statement",
+"title": "Wisconsin Watch / NOTUS: Foxconn is moving to AI. It's giving lawmakers some pause.",
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"date": "2025-12-05",
+"quote": "I'd be concerned about that, as well",
+"what_it_shows": "He said constituents' energy and water worries are real but described them as ultimately a local permitting issue."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Johnson calls AI an enormously complex problem and is skeptical that Congress can write good rules for it, saying the country would be better off passing far fewer laws. He is also wary of trusting industry experts with vested interests, so he has not embraced any specific AI guardrail bill.",
+"evidence": [
+{
+"type": "interview",
+"title": "Fox News: State-level AI rules survive as Senate sinks moratorium despite White House pressure",
+"url": "https://www.foxnews.com/politics/state-level-ai-rules-survive-now-senate-sinks-moratorium-despite-white-house-pressure",
+"date": "2025-12-06",
+"quote": "And I think we'd be far better off if we passed a lot fewer laws. I'm not sure how often we get it right.",
+"what_it_shows": "Asked about a federal AI framework, he doubted Congress should legislate much on AI at all."
+},
+{
+"type": "interview",
+"title": "Fox News: State-level AI rules survive as Senate sinks moratorium despite White House pressure",
+"url": "https://www.foxnews.com/politics/state-level-ai-rules-survive-now-senate-sinks-moratorium-despite-white-house-pressure",
+"date": "2025-12-06",
+"quote": "And again, I'm concerned, the real experts on this have got vested interests. Whatever they're advising is, can you really trust them?",
+"what_it_shows": "He is skeptical of the AI industry's advice as well, so his light-touch stance is not a pro-industry one."
+}
+]
+},
+"tech_regulation": {
+"score": 0,
+"confidence": "low",
+"summary": "Johnson has long attacked what he calls Big Tech censorship, cosponsoring bills to expose government pressure on platforms and joining a 2022 call to ban TikTok from state devices. But his fixes target government rather than the companies, and he says Congress should pass fewer laws, so his record is mixed.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Sen. Johnson joins Sen. Hagerty, colleagues in reintroducing the Disclose Government Censorship Act",
+"url": "https://www.ronjohnson.senate.gov/2023/05/18/2023-5-sen-johnson-joins-sen-hagerty-colleagues-in-reintroducing-legislation-to-end-government-collusion-with-big-tech-to-censor-americans-speech",
+"date": "2023-05-18",
+"quote": null,
+"what_it_shows": "He cosponsored a bill requiring transparency when the government asks platforms to suppress speech, his main approach to Big Tech."
+},
+{
+"type": "interview",
+"title": "Fox Business: Sen. Ron Johnson demands answers from Biden on administration's work with Big Tech to censor online posts",
+"url": "https://www.foxbusiness.com/politics/gop-senators-demand-answers-biden-administration-big-tech-censor-speech",
+"date": "2021-07-26",
+"quote": "Big Tech has now become Big Brother",
+"what_it_shows": "He frames platforms as a censorship threat, which is hostile to Big Tech but focused on speech rather than privacy or antitrust rules."
+},
+{
+"type": "letter",
+"title": "Press release: Steil, delegation call for Evers to ban TikTok from state government devices (Johnson listed as a signer)",
+"url": "https://steil.house.gov/media/press-releases/steil-delegation-call-for-evers-to-ban-tiktok-from-state-government-devices",
+"date": "2022-12-06",
+"quote": null,
+"what_it_shows": "He joined Wisconsin Republicans urging the governor to ban TikTok on state devices, a targeted restriction on a Chinese-owned app."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Johnson was one of the Senate Republicans who fought the 10-year moratorium on state AI laws, saying Congress should not set a federal standard now and should let the states experiment. He voted to strip the moratorium and later cheered its defeat in the defense bill.",
+"evidence": [
+{
+"type": "interview",
+"title": "The Hill: AI moratorium sparks GOP battle over states' rights",
+"url": "https://thehill.com/policy/technology/5355684-ai-moratorium-sparks-gop-battle-over-states-rights/",
+"date": "2025-06-18",
+"quote": "I personally don't think we should be setting a federal standard right now and prohibiting the states from doing what we should be doing in a federated republic. Let the states experiment",
+"what_it_shows": "He came out against the moratorium before the Senate vote on federalism grounds."
+},
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He voted Yea to remove the moratorium, matching his stated opposition."
+},
+{
+"type": "interview",
+"title": "Fox News: State-level AI rules survive as Senate sinks moratorium despite White House pressure",
+"url": "https://www.foxnews.com/politics/state-level-ai-rules-survive-now-senate-sinks-moratorium-despite-white-house-pressure",
+"date": "2025-12-06",
+"quote": "enormously complex problem. It's my definition of a problem.",
+"what_it_shows": "The article names him with Hawley and Blackburn as the trio who blocked the moratorium and reports they cheered its exclusion from the NDAA."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls as of Sept 2026. Searches for Johnson with Nvidia, export controls, chips and China turned up only his 2022 vote against CHIPS Act manufacturing subsidies, which is about spending, not export limits, and that article could not be opened.",
+"evidence": []
+}
+},
+"signature": "Helped block the 10-year moratorium on state AI laws ('Let the states experiment'), doubts Congress can regulate AI well, and is a longtime critic of Big Tech 'censorship'.",
+"notable_quote": {
+"text": "I personally don't think we should be setting a federal standard right now and prohibiting the states from doing what we should be doing in a federated republic. Let the states experiment",
+"url": "https://thehill.com/policy/technology/5355684-ai-moratorium-sparks-gop-battle-over-states-rights/",
+"date": "2025-06-18"
+},
+"groups": [
+"Chairman, Senate Homeland Security Permanent Subcommittee on Investigations"
+],
+"search_notes": "Google News searches: Johnson + artificial intelligence; data center Wisconsin; AI moratorium states; Nvidia/export controls/chips China; Big Tech/censorship/Section 230; Kids Online Safety/TikTok/deepfake; AI executive order/framework/preemption; electricity/ratepayers. Site listing of ronjohnson.senate.gov (2025-2026 items are almost all COVID, Iran and oversight; tech items are 2020-2023 censorship releases). ronjohnson.senate.gov returns 403 directly; the 2023 Hagerty bill release was read via Wayback, but the Feb 2025 letter to Zuckerberg, Punchbowl and Politico pieces could not be retrieved. Opened The Hill, Fox News, Fox Business, Wisconsin Watch Dec 2025 and Jan 2026, govtrack s363, Steil TikTok letter release. No AI super PAC activity found."
+},
+{
+"bioguide": "S001213",
+"name": "Bryan Steil",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Steil, whose district includes Microsoft's Mount Pleasant campus, praised Microsoft's January 2026 pledge to cover its own energy, water and infrastructure costs so families are not stuck with the bill, and reportedly said it could set a national standard. He did not respond to Wisconsin Watch's December 2025 request for comment, and the WTMJ story could not be opened, so this rests on thin evidence.",
+"evidence": [
+{
+"type": "interview",
+"title": "WTMJ: Steil: Don't stick families with AI costs",
+"url": "https://wtmj.com/news/2026/01/13/steil-dont-stick-families-with-ai-costs/",
+"date": "2026-01-13",
+"quote": null,
+"what_it_shows": "Headline seen in Google News results; the page returned 403 and no archive copy exists. A first-pass summary says he attended Microsoft's Washington announcement of its community-first plan shifting costs onto the company and said it could set a national standard."
+},
+{
+"type": "other",
+"title": "Microsoft On the Issues: Building Community-First AI Infrastructure (the plan Steil praised)",
+"url": "https://blogs.microsoft.com/on-the-issues/2026/01/13/community-first-ai-infrastructure/",
+"date": "2026-01-13",
+"quote": null,
+"what_it_shows": "Microsoft's pledge to pay full electricity costs for data centers, back Wisconsin's very-large-customer rate class, and use closed-loop cooling; it is the plan Steil endorsed rather than any limit on building."
+},
+{
+"type": "statement",
+"title": "Wisconsin Watch / NOTUS: Foxconn is moving to AI. It's giving lawmakers some pause.",
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"date": "2025-12-05",
+"quote": null,
+"what_it_shows": "A spokesperson for Steil, whose district includes Racine County, did not return a request for comment on Foxconn's AI data center plans and their energy use."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Steil chairs the House Financial Services subcommittee on AI and digital assets and frames AI in finance as an innovation opportunity needing rules of the road. He cosponsored a bill letting banks test AI with some rules turned off, and has not backed AI safety mandates.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Unleashing AI Innovation in Financial Services Act (H.R.4801)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4801",
+"date": "2025-07-29",
+"quote": null,
+"what_it_shows": "He cosponsored a bill creating regulatory sandboxes so financial firms can try AI projects with some normal rules suspended."
+},
+{
+"type": "statement",
+"title": "Press release: Steil named chairman of the Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
+"url": "https://steil.house.gov/media/press-releases/steil-named-chairman-of-the-subcommittee-on-digital-assets-financial-technology-and-artificial-intelligence",
+"date": "2025-01-09",
+"quote": "Innovation in the financial services sector provides an exciting opportunity for consumers and entrepreneurs, as technologies like financial apps, digital assets, and machine learning revolutionize our economy",
+"what_it_shows": "His framing on taking the AI gavel is pro-innovation, promising rules of the road rather than new restrictions."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Steil supports targeted online safety measures: he introduced a bill to build a federal strategy on social media's harm to children's mental health, led a 2022 letter to ban TikTok from Wisconsin state devices, and voted for the 2024 TikTok divestiture law.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Steil introduces nonpartisan bill to protect kids' mental health online (Protecting Young Minds Online Act, with Rep. Balint)",
+"url": "https://steil.house.gov/media/press-releases/steil-introduces-nonpartisan-bill-to-protect-kids-mental-health-online",
+"date": "2025-09-02",
+"quote": "Social media and emerging technologies can have a harmful impact on children, driving depression, anxiety, and in worst cases, self-harm and suicide",
+"what_it_shows": "He wants the federal government to develop a strategy on how social media and new technologies affect kids' mental health."
+},
+{
+"type": "letter",
+"title": "Press release: Steil, delegation call for Evers to ban TikTok from state government devices",
+"url": "https://steil.house.gov/media/press-releases/steil-delegation-call-for-evers-to-ban-tiktok-from-state-government-devices",
+"date": "2022-12-06",
+"quote": "TikTok presents clear national security risks. To protect Wisconsin's government data and our personal data, we should not be using TikTok on government devices.",
+"what_it_shows": "He led Wisconsin Republicans in urging a state-device TikTok ban on data security grounds."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (2024): H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divestiture)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "He voted Yea to force TikTok's sale or ban, a targeted restriction on a foreign-controlled app."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "Steil voted for the House budget bill that carried a 10-year moratorium on state AI laws, but that vote was on the whole package and no statement from him on preempting state AI laws was found.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: passage of H.R. 1 (One Big Beautiful Bill Act) including the 10-year moratorium on state and local AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted Yea on the bill containing the moratorium; a vote on a large reconciliation bill is weak evidence of his view on preemption itself."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls as of Sept 2026. Searches for Steil with Nvidia, export controls and chips found only his 2022 push for domestic semiconductor manufacturing and faster fab permitting, which is about building chips at home, not restricting sales abroad.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Racine Journal Times column: Steil: U.S. cannot depend on foreign semiconductor chip production",
+"url": "https://steil.house.gov/media/columns/racine-journal-times-steil-us-cannot-depend-on-foreign-semiconductor-chip-production",
+"date": "2022-06-02",
+"quote": "At the top of the list of what needs to be produced in the United States is semiconductor chips.",
+"what_it_shows": "He wants more domestic chip production for supply chain and defense reasons; the column takes no position on export controls to China."
+}
+]
+}
+},
+"signature": "Chairs the House Financial Services AI and digital assets subcommittee; pro-innovation on AI in finance, backs kids' online safety and TikTok restrictions, and praised Microsoft's plan to keep data center costs off families.",
+"notable_quote": {
+"text": "Innovation in the financial services sector provides an exciting opportunity for consumers and entrepreneurs, as technologies like financial apps, digital assets, and machine learning revolutionize our economy",
+"url": "https://steil.house.gov/media/press-releases/steil-named-chairman-of-the-subcommittee-on-digital-assets-financial-technology-and-artificial-intelligence",
+"date": "2025-01-09"
+},
+"groups": [
+"Chairman, House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
+"Future of Work Caucus (member)"
+],
+"search_notes": "Google News searches: Steil + artificial intelligence; data center/Microsoft/Mount Pleasant; kids/Kids Online Safety/chatbot/deepfake; AI hearing chairman; state AI laws/moratorium/preemption; Microsoft data center Wisconsin; Unleashing AI Innovation in Financial Services Act; Microsoft community-first coverage. Site listing of steil.house.gov plus press release pages 1-6 scanned for AI, Microsoft and data center items (only crypto and stablecoin hearings mention the AI subcommittee). Opened his chairman, kids' mental health, TikTok letter, permitting and chips column pages, govtrack h86 and h145, Legis1 CLARITY hearing, Microsoft blog, CAP Action report (does not name him). WTMJ Jan 13 2026 story blocked (403) with no Wayback or archive.today copy; Politico battleground data center piece blocked. No AI super PAC activity found."
+},
+{
+"bioguide": "P000607",
+"name": "Mark Pocan",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Pocan says data center builders should pay for all the infrastructure they need, including power lines, and he cosponsored a bill banning AI data centers on federal land. He says Sanders' call for a pause points at the right problems but will not pass this Congress, and he sees siting fights as mostly state and local.",
+"evidence": [
+{
+"type": "statement",
+"title": "Wisconsin Watch: Data centers become a flashpoint in Wisconsin politics",
+"url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+"date": "2026-01-22",
+"quote": "The focus should be more on if they're going to build something, they should have to pay for all the infrastructure costs related to it",
+"what_it_shows": "He wants developers, not ratepayers or towns, to carry the full cost of power lines and other infrastructure."
+},
+{
+"type": "cosponsor",
+"title": "No AI Data Centers on Federal Lands Act (H.R.9939)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "He is an original cosponsor of Rep. Tlaib's bill to ban AI data centers on federal land, a partial block on new sites."
+},
+{
+"type": "statement",
+"title": "Rep. Tlaib press release: introduces a bill to ban AI data centers on federal lands (lists Pocan as cosponsor)",
+"url": "https://tlaib.house.gov/posts/rep-tlaib-introduces-a-bill-to-ban-ai-data-centers-on-federal-lands",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "The release names Pocan among the original cosponsors and frames the bill as protecting public land, water and neighborhoods from Big Tech data centers."
+},
+{
+"type": "interview",
+"title": "Business Insider: Bernie Sanders's AI data center pause isn't catching on in Congress yet",
+"url": "https://www.businessinsider.com/bernie-sanders-ai-data-center-moratorium-reaction-2026-1",
+"date": "2026-01-19",
+"quote": "He's pointing out the right problems.",
+"what_it_shows": "He agrees with Sanders' concerns about data centers but said this Congress is not going to enact a pause, stopping short of endorsing a moratorium himself."
+},
+{
+"type": "statement",
+"title": "Wisconsin Watch: Data centers become a flashpoint in Wisconsin politics",
+"url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+"date": "2026-01-22",
+"quote": "We don't have as much, in fact very little to do with it at a federal level",
+"what_it_shows": "He sees data center decisions as mainly a state and gubernatorial issue, which tempers how far he pushes federal action."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Pocan wants Congress to write real AI rules and backs specific guardrails: a ban on AI discrimination with mandatory bias checks, a ban on AI-driven personalized pricing and wage setting, keeping humans in control of nuclear launches, and stopping AI-based prior authorization in Medicare. He has not called for licensing or a pause on advanced AI.",
+"evidence": [
+{
+"type": "statement",
+"title": "Wisconsin Watch / NOTUS: Foxconn is moving to AI. It's giving lawmakers some pause.",
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"date": "2025-12-05",
+"quote": "All the more reason Congress should get its act together because we need to do the proper regulation that's good on all fronts related to AI, and I feel like we're not even crawling at this point",
+"what_it_shows": "He wants broad federal AI regulation and faults the Republican-led Congress for not moving."
+},
+{
+"type": "statement",
+"title": "Press release: Pocan, Schakowsky introduce resolution condemning prior authorization use in Medicare (WISeR model using AI)",
+"url": "https://pocan.house.gov/media-center/press-releases/pocan-schakowsky-introduce-resolution-condemning-prior-authorization",
+"date": "2025-09-11",
+"quote": "Not only that, but the use of AI in determining whether or not treatment is necessary is extremely reckless.",
+"what_it_shows": "He opposes letting AI decide whether Medicare patients get care, a specific guardrail on high-stakes AI use."
+},
+{
+"type": "cosponsor",
+"title": "Artificial Intelligence Civil Rights Act of 2025 (H.R.6356)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "He cosponsored a bill banning discriminatory AI and requiring companies to test systems for unfair treatment before and after use."
+},
+{
+"type": "cosponsor",
+"title": "Stop AI Price Gouging and Wage Fixing Act of 2025 (H.R.4640)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "He cosponsored a bill banning companies from using AI and personal data to set individualized prices or wages."
+},
+{
+"type": "cosponsor",
+"title": "Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023 (H.R.2894, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2023-06-05",
+"quote": null,
+"what_it_shows": "He cosponsored a bill requiring a human, not AI, to make any decision to launch nuclear weapons."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Pocan backs targeted privacy rules such as limits on reproductive health data and cutting off abusers' remote access to cars, and has a long record against NSA surveillance. He voted against the 2024 TikTok divestiture law, so he does not support every tech restriction.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "My Body, My Data Act of 2023 (H.R.3420, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "He cosponsored a bill stopping apps and companies from collecting or sharing reproductive health data without a good reason."
+},
+{
+"type": "cosponsor",
+"title": "Safe Vehicle Access for Survivors Act (H.R.2110)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"date": "2026-03-26",
+"quote": null,
+"what_it_shows": "He cosponsored a bill requiring carmakers to cut off an abuser's remote access to a car's apps and location data."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (2024): H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divestiture)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "He voted Nay on forcing TikTok's sale or ban, a contrary data point showing he opposed that particular tech restriction."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Pocan signed the November 2025 letter from 81 House Democrats opposing any revival of the state AI law moratorium in the defense bill and opposing an executive order or BEAD funding threats to override state AI laws. He also voted against the House budget bill that carried the moratorium.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter of 81 House Democrats to Johnson, Thune, Jeffries and Schumer opposing an AI moratorium in the NDAA and the planned preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "Pocan's name appears among the signers of a letter that explicitly opposes preempting state AI laws by statute, executive order or funding conditions."
+},
+{
+"type": "vote",
+"title": "House roll call 145: passage of H.R. 1 (One Big Beautiful Bill Act) including the 10-year moratorium on state and local AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted Nay on the bill that contained the moratorium, consistent with the letter, though the vote covered the whole package."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls as of Sept 2026. A search for Pocan with Nvidia, chips, export controls and China returned no results, and none of his AI bills touch chip exports.",
+"evidence": []
+}
+},
+"signature": "Progressive who wants data centers to pay their full infrastructure costs, backs AI civil rights and anti-price-gouging bills, and signed the House Democratic letter against preempting state AI laws.",
+"notable_quote": {
+"text": "All the more reason Congress should get its act together because we need to do the proper regulation that's good on all fronts related to AI, and I feel like we're not even crawling at this point",
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"date": "2025-12-05"
+},
+"groups": [],
+"search_notes": "Google News searches: Pocan + artificial intelligence; data center(s); Big Tech/antitrust/Section 230/surveillance; AI regulation/deepfake/chatbot/moratorium; Nvidia/chips/export controls (no results); prior authorization Medicare AI; price gouging/surveillance pricing (no results). Site listing of pocan.house.gov plus press release pages 1-8 scanned for AI, data center, algorithm and Foxconn terms (only the prior authorization release mentions AI). Opened the Matsui letter PDF (Pocan on signature list), Tlaib H.R. 9939 release, Business Insider, Wisconsin Watch Dec 2025 and Jan 2026, govtrack h86 and h145, Badger Herald primary guide. Wisconsin Examiner Aug 12 2026 piece blocked. No AI super PAC activity found."
+},
+{
+"bioguide": "V000135",
+"name": "Derrick Van Orden",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Van Orden says data centers are welcome only on strict conditions: local buy-in, no farmland, zero increase in electric rates, closed-loop cooling, and no construction until developers sign agreements to pay for new grid infrastructure. He wants them on military bases like Fort McCoy instead of rural land and cosponsored the Ratepayer Protection Act.",
+"evidence": [
+{
+"type": "interview",
+"title": "WEAU: Cooke, Van Orden split on affordability, immigration and data centers in Wisconsin's 3rd District",
+"url": "https://www.weau.com/2026/08/16/decision-2026-cooke-van-orden-agree-pocketbook-pressures-split-over-causes-solutions/",
+"date": "2026-08-16",
+"quote": "There must be local buy-in, data centers cannot cover our farmland, there must be zero increase in electric rates for families, and facilities must utilize closed-loop cooling systems",
+"what_it_shows": "He does not support stopping development altogether but calls these conditions non-negotiable, and says Wisconsin can still compete for AI investment without higher electric bills."
+},
+{
+"type": "statement",
+"title": "Y100 WNCY: Van Orden reaffirms non-negotiables for data center development in Wisconsin",
+"url": "https://wncy.com/2026/09/09/van-orden-reaffirms-non-negotiables-for-data-center-development-in-wisconsin/",
+"date": "2026-09-09",
+"quote": "Data centers will not begin construction until they have signed agreements with local utilities and communities to cover the new energy and grid infrastructure their facilities require, ensuring Wisconsin families are not left paying the bill.",
+"what_it_shows": "His written principles put ratepayer protection, water, farmland, local control and existing sites like military bases ahead of speed."
+},
+{
+"type": "interview",
+"title": "WXOW: Rep. Van Orden campaigns at West Salem diner and addresses data center concerns",
+"url": "https://www.wxow.com/news/top-stories/rep-van-orden-campaigns-at-west-salem-diner-and-addresses-data-center-concerns/article_d80d8267-6e3f-416e-87d7-25248701438a.html",
+"date": "2026-08-28",
+"quote": "I support putting these on military bases and the requests for proposals that we worked with the Department of War to do so have all of those conditions in them",
+"what_it_shows": "He favors siting data centers on military bases and said he will not stand for any company raising electric rates."
+},
+{
+"type": "cosponsor",
+"title": "Ratepayer Protection Act (H.R.9340)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "He cosponsored the main House bill aimed at keeping residential electric bills from rising to serve large new users like data centers."
+},
+{
+"type": "statement",
+"title": "Wisconsin Watch / NOTUS: Foxconn is moving to AI. It's giving lawmakers some pause.",
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"date": "2025-12-05",
+"quote": "The average Wisconsinite should not have to subsidize the power or water for a commercial entity",
+"what_it_shows": "Early statement that data centers must self-power or pay for rising utility rates rather than shift costs to residents."
+},
+{
+"type": "statement",
+"title": "Vernon Reporter: Rare coming together of political reps at transmission line town hall",
+"url": "https://vernonreporter.com/rare-coming-together-of-political-representatives-at-transmission-line-town-hall-to-answer-questions/",
+"date": "2026-08-20",
+"quote": "No way in hell should we be using this eminent domain to take people's private property so a single company can profit",
+"what_it_shows": "He opposes eminent domain for transmission lines serving a single tech company and wants more baseload power (nuclear, coal, gas) instead of long-distance lines."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "low",
+"summary": "Van Orden has no clear stance on AI safety rules. He cosponsored modest bills on responsible AI use at the VA and AI education, while his campaign posted AI-generated deepfake videos of his opponent and defended them as labeled satire.",
+"evidence": [
+{
+"type": "statement",
+"title": "WPR: Video in competitive congressional race spotlights challenge of regulating AI-generated political content (Van Orden campaign statement)",
+"url": "https://www.wpr.org/news/social-media-deepfakes-ai-grok-rebecca-cooke-derrick-van-orden",
+"date": "2026-08-28",
+"quote": "Democrats seem to be awfully upset that the Congressman is satirizing things that are grounded in reality",
+"what_it_shows": "His campaign defended posting AI deepfakes of Rebecca Cooke as disclaimer-labeled satire, while Cooke called for a federal ban on deceptive AI in elections; he took no position on such a law."
+},
+{
+"type": "cosponsor",
+"title": "Responsible Artificial Intelligence for Veterans Act of 2026 (H.R.9862)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9862",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "He cosponsored a small bill setting rules for how the VA uses AI in veterans' care."
+},
+{
+"type": "cosponsor",
+"title": "NSF AI Education Act of 2025 (H.R.5351)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
+"date": "2026-04-21",
+"quote": null,
+"what_it_shows": "He cosponsored a bill funding AI scholarships and teacher training, a neutral pro-workforce measure."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Van Orden voted for the 2024 law forcing TikTok's sale or ban and voted against reauthorizing FISA surveillance on civil liberties grounds. No statements on kids' online safety, privacy law or antitrust were found.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 86 (2024): H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divestiture)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "He voted Yea on the targeted restriction forcing TikTok's sale or ban."
+},
+{
+"type": "statement",
+"title": "Press release: Van Orden votes to protect Americans' right to privacy (against FISA reauthorization)",
+"url": "https://vanorden.house.gov/media/press-releases/van-orden-votes-protect-americans-right-privacy",
+"date": "2024-04-12",
+"quote": "As a Member of Congress, it is now my duty to protect American citizens' civil liberties.",
+"what_it_shows": "He opposed government surveillance reauthorization on privacy grounds; this is about government, not tech companies, so it is weak evidence for this dimension."
+}
+]
+},
+"preemption": {
+"score": 0,
+"confidence": "low",
+"summary": "Van Orden voted for the House budget bill that carried a 10-year moratorium on state and local AI laws, yet his data center principles say local communities must have the final say. No direct statement on preempting state AI laws was found, so the record is mixed.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: passage of H.R. 1 (One Big Beautiful Bill Act) including the 10-year moratorium on state and local AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted Yea on the bill containing the moratorium; the vote was on the whole package."
+},
+{
+"type": "other",
+"title": "Center for American Progress Action: Almost every House Republican voted to block state and local governments' ability to protect residents from AI data centers",
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"date": "2026-08-24",
+"quote": "conditions for data centers have not changed and are not negotiable: 1) must have local buy in.",
+"what_it_shows": "The report quotes his August 2026 X post and argues the moratorium he voted for would have preempted the local control he now promises."
+},
+{
+"type": "statement",
+"title": "Y100 WNCY: Van Orden reaffirms non-negotiables for data center development in Wisconsin",
+"url": "https://wncy.com/2026/09/09/van-orden-reaffirms-non-negotiables-for-data-center-development-in-wisconsin/",
+"date": "2026-09-09",
+"quote": "Wisconsin families and local communities must have the final say over what gets built in their communities.",
+"what_it_shows": "His first non-negotiable is local control over data center siting, a pro-local-authority stance on AI infrastructure."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Van Orden cosponsored the AI OVERWATCH Act, which would let Congress block advanced AI chip sales to China, and a bill to punish Chinese firms that steal American AI models. No statements from him on Nvidia sales were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "AI OVERWATCH Act (H.R.6875)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "He cosponsored the main House bill giving Congress power to stop sales of advanced AI chips to China and other risky countries."
+},
+{
+"type": "cosponsor",
+"title": "Deterring American AI Model Theft Act of 2026 (H.R.8283)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "He cosponsored a bill penalizing foreign companies, especially Chinese ones, that steal or copy American AI models."
+}
+]
+}
+},
+"signature": "WI-3 Republican in a tight race who set 'non-negotiable' conditions for data centers (no farmland, no rate hikes, local buy-in, military-base siting), cosponsored the Ratepayer Protection Act, and backs blocking AI chip sales to China.",
+"notable_quote": {
+"text": "There must be local buy-in, data centers cannot cover our farmland, there must be zero increase in electric rates for families, and facilities must utilize closed-loop cooling systems",
+"url": "https://www.weau.com/2026/08/16/decision-2026-cooke-van-orden-agree-pocketbook-pressures-split-over-causes-solutions/",
+"date": "2026-08-16"
+},
+"groups": [],
+"search_notes": "Google News searches: Van Orden + data center(s); artificial intelligence/AI; non-negotiable/Fort McCoy; chips China/Nvidia/export controls/AI OVERWATCH (nothing); Leading the Future/super PAC AI (nothing AI-related); ratepayer/electric rates/Ratepayer Protection Act; deepfake/chatbot/Kids Online. Site listing of vanorden.house.gov plus the press release index (no data center or AI releases posted there; the non-negotiables appeared via WNCY). Opened WEAU, WXOW, WNCY, Vernon Reporter, WPR and Spectrum deepfake stories, Wisconsin Watch Dec 2025, CAP Action report, govtrack h86 and h145, his FISA and Rural Domestic Energy Council releases, caucus page. Politico Pentagon data center story blocked. No AI super PAC spending found; a Musk-aligned PAC story did not involve AI PACs."
+}
+]

@@ -1,0 +1,141 @@
+[
+{
+"bioguide": "P000610",
+"name": "Stacey E. Plaskett",
+"signature": "Co-chair and founder of the Congressional Caucus on Black Innovation who has repeatedly cosponsored deepfake and intimate-image bills (TAKE IT DOWN, SHIELD, Securing Elections From AI Deception) and, as top Democrat on the House Weaponization panel, defended social media companies' misinformation standards against Republican pressure; no public record found on data centers, chips, or state AI law preemption.",
+"notable_quote": {
+"text": "Our goal is to create policies that foster transparency, accountability, and fairness in AI applications.",
+"url": "https://plaskett.house.gov/news/documentsingle.aspx?DocumentID=4500",
+"date": "2024-06-26"
+},
+"groups": [
+"Congressional Caucus on Black Innovation (co-chair and founder)",
+"Ranking Member, Select Subcommittee on the Weaponization of the Federal Government (118th Congress)",
+"Congressional Black Caucus",
+"New Democrat Coalition"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. Searches of Google News and her official site for data centers, electricity bills, ratepayers, WAPA, and AI energy use turned up nothing; her only digital infrastructure work is the DiasporaLink undersea cable bill, which does not take a position on data centers.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Plaskett backs targeted rules against specific AI harms. She has cosponsored the TAKE IT DOWN Act in two Congresses, the SHIELD Act three times, and a bill banning AI deepfakes that trick voters, and in 2024 she said the goal of her Black Innovation Caucus is policies for transparency, accountability, and fairness in AI. She has not spoken about frontier AI dangers, licensing, or a pause.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Plaskett joins colleagues for panel discussion on AI and Black innovators",
+"url": "https://plaskett.house.gov/news/documentsingle.aspx?DocumentID=4500",
+"quote": "Our goal is to create policies that foster transparency, accountability, and fairness in AI applications.",
+"date": "2024-06-26",
+"what_it_shows": "In her own words she wants AI policy built around transparency, accountability, and fairness, a targeted-guardrails stance rather than a hands-off one."
+},
+{
+"type": "statement",
+"title": "Press release: Plaskett on equitable access to AI at the Future of AI panel with Microsoft and the Black Innovation Alliance",
+"url": "https://plaskett.house.gov/news/documentsingle.aspx?DocumentID=4500",
+"quote": "my colleagues and I are committed to driving initiatives that ensure equitable access to technology, funding, and education in AI and other emerging technologies",
+"date": "2024-06-26",
+"what_it_shows": "Her AI focus is equity and access for Black innovators, paired with fairness rules, not restricting AI development itself."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (H.R. 633, 119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"quote": null,
+"date": "2025-01-22",
+"what_it_shows": "She signed on as an original cosponsor of the major bill criminalizing AI-faked intimate images and forcing fast platform takedowns, now law."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Securing Elections From AI Deception Act (H.R. 8858, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"quote": null,
+"date": "2024-06-27",
+"what_it_shows": "She backed a ban on using AI-made fake images, audio, or video to deceive voters in federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (H.R. 8989, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8989",
+"quote": null,
+"date": "2024-07-10",
+"what_it_shows": "She supported the earlier version of the deepfake intimate-image bill, showing a consistent position across two Congresses."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: SHIELD Act of 2025 (H.R. 1218, 119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1218",
+"quote": null,
+"date": "2025-02-11",
+"what_it_shows": "Third time cosponsoring the bill making nonconsensual sharing of private intimate images a federal crime (also H.R. 3686 in 2023 and H.R. 10329 in 2024)."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Plaskett supports specific rules for online platforms, such as the TAKE IT DOWN Act's takedown mandate, and as ranking member of the Weaponization subcommittee she defended social media companies' misinformation standards and the FTC's scrutiny of Twitter against Republican pressure. She has not called for breaking up Big Tech or repealing Section 230, so the record supports only a targeted-rules lean.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Plaskett letter to Chairman Jordan on his letters to Amazon, Apple, Alphabet, Meta and Microsoft",
+"url": "https://plaskett.house.gov/news/documentsingle.aspx?DocumentID=4446",
+"quote": "With the timing of a presidential election so near, one cannot wonder if your motivation is not in fact to open Americans up to foreign influence operations in service of Donald Trump's 2024 presidential campaign,",
+"date": "2024-04-11",
+"what_it_shows": "She accused Republicans of bullying tech companies into relaxing standards that protect voters from foreign disinformation, siding with platform content moderation."
+},
+{
+"type": "statement",
+"title": "Press release: Plaskett describes Jordan's letters to tech companies as bullying",
+"url": "https://plaskett.house.gov/news/documentsingle.aspx?DocumentID=4446",
+"quote": "bullying and cajoling these companies to relax their standards when protecting American voters from disinformation and misinformation from our foreign adversaries.",
+"date": "2024-04-11",
+"what_it_shows": "Her office framed the dispute as protecting platforms' anti-disinformation standards from government pressure, not as a call to deregulate or break up Big Tech."
+},
+{
+"type": "hearing",
+"title": "VI Consortium: Plaskett opening statement at tenth Weaponization hearing on social media pressure",
+"url": "https://viconsortium.com/mobile/vi-politics/virgin-islands-plaskett-blasts-house-republicans-for-trump-alignment--alleged-bullying-of-social-media",
+"quote": "In truth, these arguments are operating in the interest of securing an open season, where Russia and China can destabilize our democracy at will in the 2024 election,",
+"date": "2024-05-16",
+"what_it_shows": "She argued that Republican pressure on social media companies would let foreign adversaries spread misinformation, again backing platform moderation."
+},
+{
+"type": "hearing",
+"title": "VI Consortium: Plaskett questions Musk's Twitter funding at Twitter Files hearing",
+"url": "https://viconsortium.com/vi-politics/virgin-islands-elon-musks-says-plaskett-peddling-lame-propaganda-following-committee-statements-about-source-of-twitter-funding",
+"quote": "Musk is helping you out politically",
+"date": "2023-03-10",
+"what_it_shows": "At a hearing where Republicans attacked the FTC's investigation of Twitter, she questioned the source of Musk's funding and whether hostile states could access Americans' data, defending government scrutiny of the platform."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (H.R. 633, 119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"quote": null,
+"date": "2025-01-22",
+"what_it_shows": "The bill imposes a legal takedown duty on websites, a targeted platform regulation she supported."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting state AI laws. As a non-voting delegate she had no vote on the July 2025 Senate roll call. She did not sign the Nov 26, 2025 Matsui letter (81 signers) or the Dec 3, 2025 Clarke letter (44 signers) against an AI moratorium, is not on the GUARDRAILS Act, and issued no statement on the Dec 2025 executive order or the Mar 2026 White House framework.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China. Searches for Plaskett with Nvidia, export controls, chips, China, and semiconductors returned no results, and she has not cosponsored any chips bill in the record.",
+"evidence": []
+}
+},
+"search_notes": "About 30 Google News queries plus direct reads. Queries covered: artificial intelligence, AI congress, data center(s), electricity bills/ratepayers/WAPA, chatbot/deepfake, Big Tech/Section 230/antitrust/KOSA, Nvidia/export controls/chips/semiconductor, state AI laws/preemption/moratorium, TAKE IT DOWN, broadband/viNGN, CBC tech, crypto, TikTok/social media, Intelligence Committee AI, Weaponization/Jordan letter, Black Innovation Caucus, AI super PACs (Leading the Future etc., none), election deepfakes, undersea cable/DiasporaLink, data privacy/facial recognition, kids online, 2025-2026 AI coverage, energy and AI, Delegate Plaskett AI, AI Caucus, Microsoft/Google/OpenAI. Official site: fetched plaskett.house.gov news index, the Technology issue tag listing (8 releases since 2024, only two about AI or tech policy: the June 26 2024 AI panel release and the April 11 2024 Jordan letter release, both read in full), caucuses page (Black Innovation Caucus co-chair confirmed) and committees page. Read the Feb 28 2025 DiasporaLink release (undersea cable, no AI or data center content). Read VI Consortium May 16 2024 and Mar 10 2023 articles and the Medill Feb 6 2024 hearing report (her remarks there were about the panel's politics, not AI substance). Democrats' Judiciary site: 5 Plaskett releases found (Taibbi letter, staff report, subpoenas, Project 2025, Russian interference), none stating an AI or tech regulatory position. Verified she is absent from the Matsui Nov 26 2025 letter PDF (81 signers listed) and the Clarke Dec 3 2025 letter (44 signers listed). Could not verify Congressional AI Caucus membership (caucus sites unreachable; no news evidence of membership). stthomassource.com blocked all fetches (Cloudflare), so the June 27 2024 and Apr 14 2024 St. Thomas Source stories were replaced by the identical official releases. The state context file's clerk.house.gov roll356 link is a placeholder; delegates cannot vote on the House floor. No AI super PAC support or attacks found. Recent national coverage (Nov 2025 to Feb 2026) is about the Epstein texts censure fight, not tech."
+}
+]

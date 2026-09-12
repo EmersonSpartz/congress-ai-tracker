@@ -1,0 +1,170 @@
+[
+{
+"bioguide": "M001219",
+"name": "James C. Moylan",
+"signature": "Sponsor of the China AI Power Report Act and co-lead of a bipartisan bill to track AI-driven layoffs; a China hawk on chips with a thin public record on everything else in AI.",
+"groups": [],
+"notable_quote": {
+"text": "As these technologies continue to evolve, Congress must ensure we have transparent and reliable data to better understand how AI is impacting workers, industries, and local economies",
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-horsford-moylan-introduce-legislation-to-protect-workers-from-ai-driven-layoffs",
+"date": "2026-06-19"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. His official press release archive from Aug 2025 to Sept 2026 has no data center or energy items, and Guam press coverage of the Pipefish data center approval and the governor's data center pitch does not mention him.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Moylan backs targeted transparency rules rather than broad AI limits. He co-led a bipartisan bill making companies report AI-driven layoffs and cosponsored bills requiring labels and standards for AI-made images, video and audio. He has not spoken about advanced AI as a major danger or called for licensing or a pause.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Jacobs, Horsford, Moylan introduce the AI-Related Job Impacts Clarity Act",
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-horsford-moylan-introduce-legislation-to-protect-workers-from-ai-driven-layoffs",
+"date": "2026-06-19",
+"quote": "As these technologies continue to evolve, Congress must ensure we have transparent and reliable data to better understand how AI is impacting workers, industries, and local economies",
+"what_it_shows": "In his own words he wants Congress to require data on how AI is hitting workers, a targeted transparency rule rather than a broad AI limit."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.9352 AI-Related Job Impacts Clarity Act (119th)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9352",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Makes large companies and federal agencies report AI-related layoffs to the Labor Department; he is one of the three original leads."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.8479 Protecting Consumers from Deceptive AI Act (119th)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8479",
+"date": "2026-04-23",
+"quote": null,
+"what_it_shows": "Requires AI-made pictures, video and audio to be labeled so people know they are not real; a targeted guardrail on deepfakes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.8893 Protecting Consumers from Deceptive AI Act (119th)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8893",
+"date": "2026-05-19",
+"quote": null,
+"what_it_shows": "Has the government set standards for telling when content was made by AI; a second version of the same labeling idea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.7766 Protecting Consumers from Deceptive AI Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7766",
+"date": "2024-04-15",
+"quote": null,
+"what_it_shows": "He backed AI content labeling in the prior Congress too, so this is a repeated position, not a one-off."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.5077 CREATE AI Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5077",
+"date": "2024-06-28",
+"quote": null,
+"what_it_shows": "Supported a national shared computing resource for AI research; shows he is not anti-AI, he pairs guardrails with support for building the technology."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Thin record. He cosponsored a 2023 bill making online companies report child abuse material more fully, but no statements were found on Section 230, antitrust, kids online safety, or privacy law. The score rests on that single cosponsorship.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.5182 Child Online Safety Modernization Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2023-10-25",
+"quote": null,
+"what_it_shows": "Backs making online platforms report child abuse material more fully and keep the evidence longer; a targeted rule on tech companies."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on whether states should be allowed to write their own AI laws. As a non-voting delegate he had no vote on the Senate roll call. Searches for his views on the H.R.1 moratorium, the Dec 2025 executive order, the Mar 2026 White House framework, and the GUARDRAILS Act turned up nothing; his July 2025 review of H.R.1 for Guam covered SNAP, Medicaid and tipped income and did not mention the AI provision.",
+"evidence": [
+{
+"type": "statement",
+"title": "Guam Daily Post: Delegate says little impact on Guam from new federal budget (H.R.1)",
+"url": "https://www.postguam.com/news/local/delegate-little-impact-from-new-federal-budget/article_9ea2b4c3-e59c-4934-9d0b-b83cf0d397cb.html",
+"date": "2025-07-28",
+"quote": null,
+"what_it_shows": "His detailed review of the reconciliation bill's effects on Guam did not mention the AI moratorium fight, so he took no public side on preemption."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Moylan is a China hawk on AI chips. He wrote the China AI Power Report Act, which orders yearly reports on China's AI chips and military AI and was approved by the Foreign Affairs Committee in Jan 2026. He also cosponsored the AI OVERWATCH Act to let Congress block AI chip sales to China and the STRIDE Act to tighten chip export rules. No statements from him backing looser controls were found.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.6275 China AI Power Report Act (119th)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6275",
+"date": "2025-11-21",
+"quote": null,
+"what_it_shows": "His own bill orders the Commerce Department to report every year on China's AI chips, supply chains and military AI models; he introduced it with Reps. Vindman (D) and Huizenga (R)."
+},
+{
+"type": "other",
+"title": "House Foreign Affairs Committee release: committee advances AI Overwatch Act and other measures at Jan 21, 2026 markup",
+"url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-ai-overwatch-act",
+"date": "2026-01-21",
+"quote": null,
+"what_it_shows": "The committee's list of bills approved that day includes H.R. 6275, the China AI Power Report Act, so his bill moved past the committee stage."
+},
+{
+"type": "other",
+"title": "Uyghur Human Rights Project bill summary: China AI Power Report Act (H.R.6275)",
+"url": "https://uhrp.org/bill-summary/china-ai-power-report-act-h-r-6275/",
+"date": "2025-11-21",
+"quote": "The bill requires the U.S. Department of Commerce to report annually on China’s AI capabilities",
+"what_it_shows": "An outside group endorsing the bill describes it as tracking Chinese AI chips, military AI models, and AI used to surveil Uyghurs."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6875 AI OVERWATCH Act (119th)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-01-16",
+"quote": null,
+"what_it_shows": "Gives Congress the power to block sales of advanced AI chips to China and other risky countries before they happen; he signed on the day it was introduced."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6058 STRIDE Act (119th)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6058",
+"date": "2025-11-17",
+"quote": null,
+"what_it_shows": "Tightens the rules on shipping advanced chips and chipmaking tools to China and other rivals."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.5289 Semiconductor Sovereignty Act (119th)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5289",
+"date": "2025-09-10",
+"quote": null,
+"what_it_shows": "Bipartisan Vindman bill ordering Commerce Department reports on strategies to keep America in control of advanced chips."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.5288 AI Sovereignty Act (119th)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5288",
+"date": "2025-09-10",
+"quote": null,
+"what_it_shows": "Companion Vindman bill on keeping America ahead of rivals in AI and controlling who gets access to American AI technology."
+}
+]
+}
+},
+"search_notes": "About 25 Google News queries plus direct fetches. Queries covered: 'James Moylan' artificial intelligence; Moylan Guam AI; Moylan data center(s); Moylan Nvidia/export controls/chips; Moylan deepfake/chatbot; Moylan Big Tech/Section 230/antitrust/KOSA; Moylan preemption/state AI laws/moratorium; Moylan Sovereignty Act/AI OVERWATCH/STRIDE; Moylan electricity/ratepayers/GPA; Moylan TikTok/social media; Moylan AI caucus; Moylan China AI Power Report; Moylan One Big Beautiful Bill; AI super PACs Guam; Pipefish Guam data center; site-restricted searches of postguam.com and guampdn.com. Read: his official press release archive (7 pages, Aug 2025 to Sept 2026, no AI, data center, chip or preemption titles), his committees-and-caucuses page (no caucuses listed), votes-and-legislation and issues pages, the Jacobs press release with his verbatim quote, the HFAC markup and AI OVERWATCH intro releases, the UHRP bill summary, GovTrack pages for HR 6275, 5288, 5289, 6058, 6875, 8479, 8893, the Guam Daily Post H.R.1 article, and the Guam PDN Pipefish data center article (no Moylan mention). Caveats: many 'Moylan' hits were about Douglas Moylan, Guam's Attorney General, and were excluded; guampdn.com returned HTTP 429 for the governor's data center article and the Aug 2025 reelection/nuclear article, so those could not be read; Google News link decoding was rate limited late in the session. No AI super PAC spending for or against him was found. Delegates have no floor vote, so no roll call evidence exists."
+}
+]

@@ -1,0 +1,394 @@
+[
+{
+"bioguide": "B001230",
+"checks": [
+{
+"url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Quote appears verbatim attributed to Baldwin. Article says she 'echoed Tiffany's call for protecting ratepayers, though she said any moratorium on data centers must be considered by the state Legislature first.' Claim matches."
+},
+{
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Quote verbatim ('Baldwin told NOTUS'); article says she 'pointed to public input processes taking place in local government.' Claim matches."
+},
+{
+"url": "https://www.baldwin.senate.gov/news/press-releases/senator-baldwin-colleagues-demand-big-tech-remove-sexualized-ai-generated-images",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Loaded via Wayback (2026-06-12 snapshot). Quote appears verbatim in the letter text. Release confirms she joined colleagues asking platforms how they will remove images, prevent distribution and notify victims. The specific count of 'eight Democratic senators' was not visible in the fetched excerpts and could not be verified."
+},
+{
+"url": "https://punchbowl.news/ai-innovators/health-care/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-04",
+"note": "Loaded via Wayback. Hippocratic Oath quote verbatim, attributed to Baldwin. Page also has her saying 'I don't think we have even begun to scratch the surface of protecting patient safety yet,' supporting the second half of the claim."
+},
+{
+"url": "https://www.commerce.senate.gov/2026/3/senator-budd-chairs-subcommittee-hearing-to-evaluate-innovative-deployment-of-ai-to-support-workforce-healthcare-and-industry",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-03-03",
+"note": "Loaded via Wayback. Page carries Budd's prepared remarks which open 'Thank you, Ranking Member Baldwin...'. It confirms her role as ranking member but contains no Baldwin statement, so it is weak evidence for any ai_risk position; the claim's description of the page is accurate."
+},
+{
+"url": "https://www.baldwin.senate.gov/news/press-releases/baldwin-votes-to-hold-big-tech-accountable-and-protect-kids-and-teens-online",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-07-30",
+"note": "Loaded via Wayback. Quote verbatim, attributed to Senator Baldwin. Release confirms vote for Kids Online Safety & Privacy Act, passed 91-3."
+},
+{
+"url": "https://www.baldwin.senate.gov/news/press-releases/baldwin-budd-lead-bipartisan-bill-to-prevent-dot-from-using-technologies-china-uses-to-spy-on-america",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-06",
+"note": "Loaded via Wayback. Quote verbatim. Release confirms she and Budd introduced the Securing Infrastructure from Adversaries Act barring DOT from purchasing or deploying LiDAR from malign foreign actors including China. Note this is a China/national-security item, not really evidence about regulating US Big Tech."
+},
+{
+"url": "https://www.commerce.senate.gov/press/dem/release/cantwell-commerce-committee-democrats-call-for-regular-order-on-dangerous-and-damaging-commerce-title-of-reconciliation-bill-2025-6/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-11",
+"note": "Loaded via Wayback. Baldwin is listed among the 11 Democrats joining Cantwell (12 total). Quote verbatim in the letter text: 'Lastly, the AI moratorium proposal tramples states' rights and holds the $42 billion BEAD program hostage...'."
+},
+{
+"url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Article does say any moratorium on data centers 'must be considered by the state Legislature first.' But this is about data center siting, a traditionally state/local matter, not about federal preemption of state AI laws, so it is thin evidence for the preemption dimension."
+},
+{
+"url": "https://punchbowl.news/ai-innovators/health-care/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-04",
+"note": "Quote verbatim on the Wayback copy, including the ellipsis, attributed to Sen. Tammy Baldwin (D-Wis.)."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "Evidence for -2 rests on one co-signed group letter (one clause among many objections to the reconciliation Commerce title) plus a data-center comment that concerns state/local siting, not state AI law. She has no individual statement championing state AI regulation. That supports leaning states rather than the strongest position.",
+"suggested_score": -1,
+"suggested_label": "Leans states"
+}
+]
+},
+{
+"bioguide": "J000293",
+"checks": [
+{
+"url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Page: Johnson said data centers' grid impact is a 'very serious concern,' adding he is unsure local officials have 'really factored it in properly.' No policy fix mentioned. Matches claim."
+},
+{
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Page paraphrases Johnson: energy/water demands are 'ultimately a local permitting issue' but constituents' concerns are very real; direct quote 'I'd be concerned about that, as well' appears verbatim."
+},
+{
+"url": "https://www.foxnews.com/politics/state-level-ai-rules-survive-now-senate-sinks-moratorium-despite-white-house-pressure",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-06",
+"note": "Quote verbatim. Article says he was 'more skeptical about Congress producing a framework that he would be comfortable with' and quotes 'I'm not a real fan of this place' preceding the quoted lines."
+},
+{
+"url": "https://www.foxnews.com/politics/state-level-ai-rules-survive-now-senate-sinks-moratorium-despite-white-house-pressure",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-06",
+"note": "Quote verbatim as the closing lines of the article. Claim's interpretation (skeptical of industry experts' vested interests) is fair."
+},
+{
+"url": "https://www.ronjohnson.senate.gov/2023/05/18/2023-5-sen-johnson-joins-sen-hagerty-colleagues-in-reintroducing-legislation-to-end-government-collusion-with-big-tech-to-censor-americans-speech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-05-18",
+"note": "Live site returned 403; Wayback (2026-06-07) copy loaded. Johnson joined Hagerty and four colleagues in reintroducing the Disclose Government Censorship Act, requiring transparency when government attempts to control speech and restricting the government-Big Tech revolving door. 'His main approach to Big Tech' is the tracker's characterization, not the page's."
+},
+{
+"url": "https://www.foxbusiness.com/politics/gop-senators-demand-answers-biden-administration-big-tech-censor-speech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-07-26",
+"note": "Quote verbatim: 'Big Tech has now become Big Brother,' followed by 'It's the Big Brother arm of big government and it should concern and frighten every American.' Context is Biden administration flagging posts; speech-focused."
+},
+{
+"url": "https://steil.house.gov/media/press-releases/steil-delegation-call-for-evers-to-ban-tiktok-from-state-government-devices",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-12-06",
+"note": "Page lists Sen. Ron Johnson among the signers of the letter to Gov. Evers calling for a TikTok ban on state government devices."
+},
+{
+"url": "https://thehill.com/policy/technology/5355684-ai-moratorium-sparks-gop-battle-over-states-rights/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-18",
+"note": "Quote verbatim, attributed to Johnson speaking to The Hill; article dated June 18, 2025, before the July Senate vote-a-rama. Also quotes him as 'not a real fan of the federal government' and against the provision."
+},
+{
+"url": "https://www.foxnews.com/politics/state-level-ai-rules-survive-now-senate-sinks-moratorium-despite-white-house-pressure",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-06",
+"note": "Article names Hawley, Blackburn and Johnson as the trio who banded together to block the original proposal and says they 'cheered' the provision's exclusion from the NDAA. Quote verbatim."
+},
+{
+"url": "https://thehill.com/policy/technology/5355684-ai-moratorium-sparks-gop-battle-over-states-rights/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-18",
+"note": "Headline quote appears verbatim in The Hill article."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "S001213",
+"checks": [
+{
+"url": "https://wtmj.com/news/2026/01/13/steil-dont-stick-families-with-ai-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-13",
+"note": "Live page 403s but a Wayback copy (20260115) exists, contrary to the item's note. Article (Alex Mazurek, Jan 13 2026) says Steil joined Wisconsin's Midday News after attending Microsoft's DC announcement, pointed to a plan shifting energy, water and infrastructure costs onto the company rather than homeowners, and said the approach could set a national standard. Claim supported; update the item to drop 'no archive copy exists'."
+},
+{
+"url": "https://blogs.microsoft.com/on-the-issues/2026/01/13/community-first-ai-infrastructure/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-01-13",
+"note": "Page does not mention Steil at all. It does describe the plan as claimed: 'We'll pay our way to ensure our datacenters don't increase your electricity prices', support for a Wisconsin 'Very Large Customers' rate structure, and a closed-loop cooling design deployed in Wisconsin. Fine as background context, but it is not evidence about the member himself."
+},
+{
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Page says: 'A spokesperson for Rep. Bryan Steil, whose district includes Racine County, did not immediately return a request for comment Thursday.' Matches the claim. Note this is a non-statement; it carries no positional weight."
+},
+{
+"url": "https://steil.house.gov/media/press-releases/steil-named-chairman-of-the-subcommittee-on-digital-assets-financial-technology-and-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-09",
+"note": "Quote appears verbatim. He also says the subcommittee will 'continue to provide the rules of the road to move our economy into the future.' The release is about fintech/digital assets; AI is only in the subcommittee title, so it is weak evidence for a general AI-risk position."
+},
+{
+"url": "https://steil.house.gov/media/press-releases/steil-introduces-nonpartisan-bill-to-protect-kids-mental-health-online",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-02",
+"note": "Quote verbatim. Bill requires the Center for Mental Health Services to develop and disseminate a strategy on effects of new technologies like social media on children's mental health. Co-lead is Rep. Becca Balint (VT-AL)."
+},
+{
+"url": "https://steil.house.gov/media/press-releases/steil-delegation-call-for-evers-to-ban-tiktok-from-state-government-devices",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2022-12-06",
+"note": "Quote is verbatim, but the claim that he 'led' Wisconsin Republicans is wrong: the release says Steil 'joined alongside Rep. Mike Gallagher, Sen. Ron Johnson, and Reps. Grothman, Fitzgerald, and Tiffany', and Steil himself says 'Thank you Rep. Gallagher for leading this effort.' Change 'led' to 'joined'."
+},
+{
+"url": "https://steil.house.gov/media/columns/racine-journal-times-steil-us-cannot-depend-on-foreign-semiconductor-chip-production",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-06-02",
+"note": "Quote verbatim. Column argues for domestic chip production for supply chain and defense reasons, mentions Taiwan/Japan/South Korea dominance and the CHIPS Act; no mention of China export controls, consistent with the claim."
+},
+{
+"url": "https://steil.house.gov/media/press-releases/steil-named-chairman-of-the-subcommittee-on-digital-assets-financial-technology-and-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-09",
+"note": "Verbatim on the page, dated January 9, 2025."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "None of the eight items touches state-vs-federal AI preemption (no vote, statement, or letter on a moratorium or national standard for AI law). The 'could set a national standard' remark in the WTMJ piece is about a voluntary Microsoft corporate plan, not preempting state regulation. Evidence is too thin for a +1.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "The only source is a fintech subcommittee release whose quote is about financial apps, digital assets and machine learning, plus a promise of 'rules of the road'. It says nothing about AI safety, frontier models, or AI regulation generally. A +1 'Light touch' is a plausible reading but rests on a single indirect statement; consider no position or flag as low confidence.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "P000607",
+"checks": [
+{
+"url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Quote appears verbatim, attributed to Pocan, followed by 'That means power lines, that means a lot of other infrastructure.' Claim matches."
+},
+{
+"url": "https://tlaib.house.gov/posts/rep-tlaib-introduces-a-bill-to-ban-ai-data-centers-on-federal-lands",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Release lists 'Mark Pocan (WI-02)' among cosponsors of the No AI Data Centers on Federal Lands Act and frames it as safeguarding public lands and protecting neighborhoods from water and light pollution and Big Tech. Page shows no publication date."
+},
+{
+"url": "https://www.businessinsider.com/bernie-sanders-ai-data-center-moratorium-reaction-2026-1",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-19",
+"note": "Verbatim: 'I mean, this Congress isn't going to do that,' ... 'He's pointing out the right problems.' Article does not quote him explicitly endorsing or rejecting a moratorium; 'stopping short of endorsing' is a fair reading of the piece's framing that the pause is not catching on, but is inference."
+},
+{
+"url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Verbatim, preceded by 'It's going to be more (of) a challenge in gubernatorial races and state races because that's where those decisions are made.' The 'tempers how far he pushes federal action' part is interpretive but consistent with the article's framing that Hill lawmakers feel insulated."
+},
+{
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Quote verbatim; article says Pocan called the data sector 'a wake-up call to the Republican-led Congress.' Claim matches."
+},
+{
+"url": "https://pocan.house.gov/media-center/press-releases/pocan-schakowsky-introduce-resolution-condemning-prior-authorization",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-11",
+"note": "Quote verbatim in Pocan's own statement about the CMS WISeR prior-authorization model using AI in traditional Medicare."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned empty text for the PDF; downloaded and extracted with pdftotext. 'Mark Pocan' appears in the signer list; quote verbatim; letter opposes NDAA moratorium, the preemption executive order, and conditioning federal funding (BEAD) on state preemption."
+},
+{
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Verbatim, attributed to Pocan."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the eight items addresses Big Tech regulation, antitrust, platform or privacy rules. The only Big Tech mention is the Tlaib release's framing (not Pocan's words). Evidence in this dossier is too thin to assign -1; either add a Pocan-specific source or leave the dimension unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "V000135",
+"checks": [
+{
+"url": "https://www.weau.com/2026/08/16/decision-2026-cooke-van-orden-agree-pocketbook-pressures-split-over-causes-solutions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-16",
+"note": "Quote verbatim, attributed to Van Orden, followed by 'Those conditions are not negotiable.' Article states he does not support stopping development and quotes him saying Wisconsin can compete for AI investment 'without ... forcing families to pay higher electric bills.'"
+},
+{
+"url": "https://wncy.com/2026/09/09/van-orden-reaffirms-non-negotiables-for-data-center-development-in-wisconsin/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-09",
+"note": "Quote verbatim under the RATEPAYER PROTECTION heading. Page lists principles for local control, farmland, ratepayers, water (closed-loop/air-cooled), and existing infrastructure including military bases. 'Ahead of speed' is the tracker's characterization, not stated on the page, but consistent with it."
+},
+{
+"url": "https://www.wxow.com/news/top-stories/rep-van-orden-campaigns-at-west-salem-diner-and-addresses-data-center-concerns/article_d80d8267-6e3f-416e-87d7-25248701438a.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-28",
+"note": "Quote verbatim. Page also has him saying 'if any company is going to increase the electric rates, I will not stand for it.'"
+},
+{
+"url": "https://wisconsinwatch.org/2025/12/wisconsin-foxconn-data-center-energy-trump-ai-congress-lawmakers-republican-democrat/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Quote verbatim, attributed to Republican Rep. Derrick Van Orden. The self-power-or-pay claim is supported by a second quote: 'you're either going to help pay for those utility rates (that) are rising, or you're going to self-power.'"
+},
+{
+"url": "https://vernonreporter.com/rare-coming-together-of-political-representatives-at-transmission-line-town-hall-to-answer-questions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim. Page says he condemned taking private land 'for the benefit of a single private corporation' and quotes him wanting more baseload from nuclear, 'clean burning coal' and natural gas rather than long lines. 'Tech company' is an inference; the article is about the MariBell transmission line and discusses data centers, but the quote itself says 'a single company.' Page has no publication date; context (fall 2026 application deadline approaching) suggests 2026."
+},
+{
+"url": "https://www.wpr.org/news/social-media-deepfakes-ai-grok-rebecca-cooke-derrick-van-orden",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-28",
+"note": "Quote verbatim but spoken by campaign spokesperson Grace Kim, not Van Orden himself (the item is correctly labeled as a campaign statement). Page confirms the AI disclaimer/satire defense and that Cooke backed the Protect Elections from Deceptive AI bill, which would ban such videos. Page shows no Van Orden position on the bill, so 'took no position' is an absence-of-evidence inference."
+},
+{
+"url": "https://vanorden.house.gov/media/press-releases/van-orden-votes-protect-americans-right-privacy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-04-12",
+"note": "Quote verbatim from his statement after voting against FISA reauthorization. As the item itself notes, this concerns government surveillance, not tech companies."
+},
+{
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Quote verbatim (fragment of his X post, footnoted to an Aug 7, 2026 post). Page argues the House OBBBA moratorium he voted for (Roll Call 145, May 22, 2025) would have preempted local control over data centers. Note this is an advocacy group's framing, not a neutral report."
+},
+{
+"url": "https://wncy.com/2026/09/09/van-orden-reaffirms-non-negotiables-for-data-center-development-in-wisconsin/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-09",
+"note": "Quote verbatim under the first heading, LOCAL CONTROL, LOCAL BUY-IN."
+},
+{
+"url": "https://www.weau.com/2026/08/16/decision-2026-cooke-van-orden-agree-pocketbook-pressures-split-over-causes-solutions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-16",
+"note": "Same verbatim quote as item 1, attributed to Van Orden."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the ten sourced items mentions China, chips, semiconductors, or export controls. A -2 'Tighten export controls' score has no supporting evidence in the checked sources; unless other unlisted evidence exists, it should be withdrawn.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "The only tech_regulation item is a 2024 FISA vote about government surveillance, which the item itself concedes is weak evidence and does not concern regulating tech companies. His data-center conditions (rate agreements, closed-loop cooling) impose some obligations on tech firms, but that is thin support for a directional -1. A neutral 0 fits the sourced evidence better.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+}
+]

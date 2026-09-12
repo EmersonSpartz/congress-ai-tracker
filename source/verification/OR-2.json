@@ -1,0 +1,256 @@
+[
+{
+"bioguide": "D000635",
+"checks": [
+{
+"url": "https://dexter.house.gov/media/blog-post/big-tech-draining-our-water",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim on Dexter's own blog post. Page also says she 'secured an amendment requiring the Department of Energy to study how data centers strain our water supply' and that work ahead includes 'protecting our public lands from data centers.' Date caveat: page metadata says July 9, 2026, but the body references a town hall 'this Sunday, March 15,' suggesting the post was actually written in March 2026; the amendment was 'last September' (Sept 2025)."
+},
+{
+"url": "https://rules.house.gov/bill/119/hr-4553",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Rules Committee amendment table lists #58 Dexter (OR) Democrat, Made in Order, with the quoted description verbatim. 'Force a federal study' is slightly strong for an increases/decreases directive amendment made in order, but the substance matches."
+},
+{
+"url": "https://clarke.house.gov/?p=102767",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Redirects to Clarke press release (Dec 3, 2025). Quote appears verbatim. Maxine Dexter is listed among the 44 signers. Letter also says preemption 'would create an unnecessary regulatory vacuum that lets Big Tech run rampant,' matching the claim. Note the letter's core subject is preemption, not AI safety rules per se."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned 0 chars for the PDF; downloaded and extracted text directly. Letter dated Nov 26, 2025 to Johnson/Thune/Jeffries/Schumer, quote appears verbatim, opposes NDAA moratorium and an executive order that would withhold BEAD broadband funds from states with 'onerous' AI laws. 'Maxine Dexter, M.D., Member of Congress' appears in the 81 signatures."
+},
+{
+"url": "https://clarke.house.gov/?p=102767",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Same Clarke letter as item 3; Dexter is a listed signer and the letter urges leaders 'to prevent any AI moratorium or preemption from being included in the final FY26 NDAA.' Duplicate source of item 3, so it should not be counted as independent evidence."
+},
+{
+"url": "https://dexter.house.gov/media/blog-post/big-tech-draining-our-water",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Verbatim on her blog post; same date caveat as item 1 (metadata July 9, 2026 vs. internal March 15 town hall reference)."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "H001094",
+"checks": [
+{
+"url": "https://www.transformernews.ai/p/an-oregon-congresswoman-distanced-val-hoyle",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "Quote appears verbatim as Hoyle's first response to Transformer about the Leading the Future endorsement; article frames it as distancing from the PAC and says she added 'I am all for innovation, but not at the cost of people's well-being.'"
+},
+{
+"url": "https://www.transformernews.ai/p/an-oregon-congresswoman-distanced-val-hoyle",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "Verbatim. Article says Hoyle and her spokesperson 'appeared to backtrack' after Transformer contacted Leading the Future for comment; the statement then went through several further revisions. Exact interval is not given but the article describes the reversal as hasty."
+},
+{
+"url": "https://www.transformernews.ai/p/an-oregon-congresswoman-distanced-val-hoyle",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Spending quote is verbatim. But the article does not date the endorsement to May 8; it says it was 'first reported in Axios last week' (article dated May 13), and the 'May 8' visible on the page is the date of an unrelated embedded story. Spokesperson said she 'did not seek out the endorsement' and claimed 'we have not received any money from this PAC'; 'ultimately accepted it' is an inference from her later statement defending the endorsement. Article also cites a separate $275,555 affiliate-PAC disclosure."
+},
+{
+"url": "https://www.yahoo.com/news/politics/articles/got-crushed-ai-giants-funding-100000178.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-21",
+"note": "Quote verbatim; NBC News piece syndicated on Yahoo lists the Hoyle ad among AI-industry super PAC ads, run 'ahead of her primary victory last month.'"
+},
+{
+"url": "https://hoyle.house.gov/media/press-releases/congresswoman-hoyles-statement-following-voting-in-opposition-to-bill-containing-provisions-to-force-the-sale-of-tiktok",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-04-20",
+"note": "Quote verbatim. Next sentence: 'ensure all social media platforms are held to the same standards of data privacy and ethical user engagement.' She also objected to singling out one company."
+},
+{
+"url": "https://nwlaborpress.org/2026/04/grocery-union-campaigns-against-surveillance-pricing/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-17",
+"note": "Verbatim. Page names her as lead sponsor of a House version of the Stop Price Gouging in Grocery Stores Act (ban on electronic shelf labels and personalized pricing). Page does not cite a bill number; the H.R. 4640 link is the tracker's own."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned empty text for the PDF; downloaded and extracted directly. Quote is verbatim; letter opposes reviving the moratorium in the NDAA or via executive order; 'Val Hoyle, Member of Congress' appears in the signer list."
+},
+{
+"url": "https://www.transformernews.ai/p/an-oregon-congresswoman-distanced-val-hoyle",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "Verbatim: Transformer says she called the White House NDAA preemption effort 'outrageous,' a 'Big Tech backroom deal,' and 'government overreach.' These are Transformer's report of her past words, not new statements in the article."
+},
+{
+"url": "https://www.transformernews.ai/p/an-oregon-congresswoman-distanced-val-hoyle",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "Verbatim as her most recent statement. Article says Leading the Future 'maintains that it only opposes state regulation' and that its affiliated 501(c)(4) 'has voiced support for the White House AI framework.'"
+},
+{
+"url": "https://www.transformernews.ai/p/an-oregon-congresswoman-distanced-val-hoyle",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "Verbatim."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "None of the ten sources address Hoyle's position on data centers; the only data-center reference is her primary opponent Melissa Bird's pledge to fight them. Evidence for -1 'Protect ratepayers first' is absent from the cited material.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "B001326",
+"checks": [
+{
+"url": "https://bynum.house.gov/media/press-releases/rep-bynum-unveils-affordability-agenda-lower-costs",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-12",
+"note": "Quote appears verbatim under the Energy plank of her Affordability Agenda press release (published 2026-02-12). Supports the claim that she names data center development as a driver of price hikes and wants grid costs reallocated to protect consumers."
+},
+{
+"url": "https://bynum.house.gov/media/press-releases/rep-bynum-unveils-affordability-agenda-lower-costs",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-12",
+"note": "Quote appears verbatim as the first Energy bullet, immediately before the grid-cost bullet. Supports the claim that she pairs consumer protection with faster permitting for transmission and generation."
+},
+{
+"url": "https://bynum.house.gov/media/press-releases/congresswoman-bynum-introduces-legislation-improve-electricity-price",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-10",
+"note": "Quote appears verbatim. Page says the bipartisan Bill Drivers Act (with Rep. Mackenzie) directs FERC and the Energy Information Administration... to study and publicly report on what is driving electricity bill increases; data centers are the first factor listed. Release dated 2026-07-10."
+},
+{
+"url": "https://www.axios.com/local/portland/2026/08/12/oregon-ai-deepfake-election-law",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Axios returned HTTP 403 on four attempts (fetch tool, curl, WebFetch); Wayback Machine refused connections / rate-limited (429) and archive.ph has no snapshot. Could not verify the quote or the claim. Even if accurate, the item itself says no reaction from Bynum was found, so it carries no positional evidence."
+},
+{
+"url": "https://bynum.house.gov/media/press-releases/congresswoman-bynum-introduces-legislation-improve-electricity-price",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-10",
+"note": "Quote appears verbatim and is attributed to Congresswoman Janelle Bynum in the 2026-07-10 press release."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only ai_risk item is an unreachable Axios piece in which Bynum is the target of AI deepfake ads, and the item itself concedes no reaction from her was found. There is no statement, vote, or bill from her on AI risk in the sources, so -1 'Targeted guardrails' is not evidenced. Suggest no position until a source with her own words or votes on AI is found.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "None of the five items touches Big Tech regulation; the verified sources are about electricity bills, grid cost allocation, and energy permitting. A -1 'Targeted rules' score has no supporting evidence in this set. Suggest no position unless a tech-regulation source is added.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "S001226",
+"checks": [
+{
+"url": "https://salinas.house.gov/media/press-releases/rep-salinas-introduces-bill-tax-data-centers-reinvest-housing-conservation-and",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-14",
+"note": "Quote appears verbatim, attributed to Rep. Salinas, in her own press release announcing the Data Center Community Reinvestment Act (tax on data center electricity use, reinvested in housing, conservation, etc.)."
+},
+{
+"url": "https://www.datacenterknowledge.com/regulations/house-bill-would-put-federal-electricity-tax-on-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-19",
+"note": "Quote appears verbatim, attributed to Salinas via press statement; article frames the bill as making communities share in benefits of data center growth rather than blocking it."
+},
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-28",
+"note": "Andrea Salinas (OR-06) is listed among the 20 signers of the Mullin-led letters to FERC, EEI, and the Data Center Coalition. Quote appears verbatim in the letter text. Letter asks how grid costs will be kept off households and what cost-allocation approaches Congress should consider."
+},
+{
+"url": "https://www.hometownstation.com/santa-clarita-news/politics/reps-whitesides-mcclain-delaney-salinas-introduce-bill-to-help-study-impact-of-artificial-intelligence-in-the-classroom-604571",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-05",
+"note": "Quote verbatim, attributed to Rep. Salinas. Her statement continues that the bill works 'without imposing new mandates on schools,' supporting the claim."
+},
+{
+"url": "https://salinas.house.gov/media/press-releases/reps-salinas-fong-introduces-ai-education-act-2025-strengthen-americas",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-18",
+"note": "Quote verbatim, attributed to Rep. Salinas (OR-06), who leads the bipartisan NSF AI Education Act with Rep. Fong."
+},
+{
+"url": "https://clarke.house.gov/?p=102767",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Andrea Salinas is listed among the 44 signers. Quote appears verbatim; letter also says preemption would create 'an unnecessary regulatory vacuum that lets Big Tech run rampant.'"
+},
+{
+"url": "https://clarke.house.gov/?p=102767",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim. Letter urges excluding 'any AI moratorium or preemption' from the FY26 NDAA, supporting the claim that it opposes preemption broadly, not just the moratorium."
+},
+{
+"url": "https://salinas.house.gov/media/press-releases/rep-salinas-introduces-bill-tax-data-centers-reinvest-housing-conservation-and",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-14",
+"note": "Headline quote appears verbatim in her own press release."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the eight sourced items is tagged to tech_regulation. The only related evidence is one clause in the Clarke letter warning preemption would let 'Big Tech run rampant,' which is about state AI-law preemption rather than platform regulation. Evidence is too thin to assign -1 without an additional source (e.g., KOSA, antitrust, or privacy positions).",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

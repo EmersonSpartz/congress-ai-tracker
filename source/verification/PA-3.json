@@ -1,0 +1,277 @@
+[
+{
+"bioguide": "J000302",
+"checks": [
+{
+"url": "https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=391066",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-04",
+"note": "Joyce named as co-signer (O&I chairman). Quote verbatim. Page calls Sanders' bill 'Senator Bernie Sander's disastrous AI Data Center Moratorium Act' and frames data centers as infrastructure in the race with China."
+},
+{
+"url": "https://www.datacenterdynamics.com/en/news/trio-of-republicans-call-for-fbi-investigation-into-data-center-opposition/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "403 on direct fetch (3 tries) and WebFetch; Wayback returned 429/empty. Could not verify quote. The underlying letter (item 1) does support the same framing, so the claim is plausible but this source is unverified."
+},
+{
+"url": "https://energycommerce.house.gov/posts/chairman-joyce-delivers-opening-statement-at-subcommittee-on-oversight-and-investigations-hearing-on-artificial-intelligence-ai-chatbots",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-18",
+"note": "Quote verbatim. Statement discusses suicide cases, mental-illness vulnerability, and says he is 'hopeful' the FTC inquiry sheds light; explicitly frames the goal as a 'balanced, frank conversation'."
+},
+{
+"url": "https://energycommerce.house.gov/posts/chairman-joyce-delivers-opening-statement-at-subcommittee-on-oversight-and-investigations-hearing-on-ai-and-biotechnology",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-17",
+"note": "Quote verbatim. Page says convergence 'introduces profound new risks' and that DURC oversight 'may not apply' to AI-designed organisms."
+},
+{
+"url": "https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=391066",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-04",
+"note": "Same page as item 1. Letter frames AI as a race against China and asks FBI/PCAST to probe efforts to slow AI development; supports the competition/light-touch signal reading."
+},
+{
+"url": "https://johnjoyce.house.gov/media/press-releases/dr-joyce-introduces-legislation-improve-access-ai-healthcare-devices",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-21",
+"note": "Quote verbatim. Bill assigns AI-enabled devices a New Technology APC under Medicare OPPS for at least five years so CMS pays for them; 'faster' is a fair gloss."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Joyce (R-PA) listed by name among the champions; quote verbatim. LTF statement says members will advance 'a national framework in Congress that sets basic safety standards', matching the claim."
+},
+{
+"url": "https://energycommerce.house.gov/posts/chairman-guthrie-and-vice-chairman-joyce-announce-creation-of-privacy-working-group",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-12",
+"note": "Joint Guthrie/Joyce statement, quote verbatim, ties national privacy standard to AI leadership. Page announces creation; Joyce's leadership of the group and the resulting bill are confirmed by the Roll Call and IAPP pages."
+},
+{
+"url": "https://www.hipaajournal.com/house-republicans-introduce-federal-data-privacy-legislation/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-24",
+"note": "Quote verbatim, attributed to a Guthrie/Joyce joint statement. Article states the bill is not bipartisan and 'No input was sought from Democratic committee members.' (Article contains a copy error calling Joyce E&C chairman.)"
+},
+{
+"url": "https://johnjoyce.house.gov/media/in-the-news/dr-joyce-pushes-answers-censorship-conservative-bias-big-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-05-05",
+"note": "Quote verbatim (page has a garbled character before it). He questioned Zuckerberg and Dorsey at the March 2021 'Disinformation Nation' hearing about political bias in moderation."
+},
+{
+"url": "https://rollcall.com/2026/05/14/gop-data-privacy-bill-tries-again-to-set-national-standard/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-14",
+"note": "Quote verbatim, attributed to Joyce (relaying a colleague's account of industry asking for a federal rule). Subhead: 'Measure by House Republicans would preempt state laws.'"
+},
+{
+"url": "https://iapp.org/news/a/secure-data-act-analysis-of-the-new-federal-privacy-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "Joyce named as sponsor of HR 8413. Quote verbatim (straight vs curly quotes only). Page says it 'would likely preempt state consumer privacy laws, data broker registries and possibly some sectoral state laws.'"
+},
+{
+"url": "https://energycommerce.house.gov/posts/chairman-joyce-delivers-opening-statement-at-subcommittee-on-oversight-and-investigations-hearing-on-artificial-intelligence-ai-chatbots",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-18",
+"note": "Verbatim from the Nov 18, 2025 chatbot hearing opening statement."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only data-center evidence is a letter he co-signed calling the Sanders moratorium bill 'disastrous', casting local/state pauses as possibly foreign-directed, and asking the FBI to investigate opponents of buildout. There is no ratepayer-protection or conditions language anywhere in the sources. That is 'Build faster', not 'Build with conditions'.",
+"suggested_score": 2,
+"suggested_label": "Build faster"
+}
+]
+},
+{
+"bioguide": "R000610",
+"checks": [
+{
+"url": "https://reschenthaler.house.gov/media/press-releases/reps-reschenthaler-deluzio-and-joyce-introduce-legislation-to-relocate-department-of-energy-office-to-the-keystone-state",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-15",
+"note": "Quote appears verbatim, attributed to Rep. Guy Reschenthaler. Release is about relocating DOE's Office of Fossil Energy and Carbon Management to Pennsylvania; it mentions coal, oil and natural gas jobs but says nothing about data centers or AI power demand, exactly as the claim states."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Reschenthaler is named on Leading the Future's list of House GOP champions; the quote is verbatim. The PAC's Zac Moffatt describes the members as critical to 'a national framework in Congress that sets basic safety standards,' which supports the claim's 'basic rather than strict rules' reading. Note this is the PAC's characterization, not Reschenthaler's own statement."
+},
+{
+"url": "https://reschenthaler.house.gov/media/press-releases/china-task-force-releases-report-countering-chinese-government",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2020-09-30",
+"note": "Quote is verbatim from Reschenthaler's statement on the China Task Force report. Release covers general CCP countermeasures (steel, farmland, national and economic security) and does not mention AI chips, semiconductors or export controls, matching the claim. Dated 2020, so it predates the current chip-export debate."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the three sources checked concerns Big Tech regulation, platform rules, antitrust, or kids' online safety. The only AI-related source (Leading the Future PAC list) points, if anything, toward an industry-friendly 'basic safety standards' posture rather than targeted rules. Unless other evidence not listed here supports -1, the assigned score rests on nothing in this file.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "T000467",
+"checks": [
+{
+"url": "https://www.yahoo.com/news/politics/articles/lawmakers-flock-ag-progress-days-215748639.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-12",
+"note": "Quote appears verbatim, attributed to Rep. Glenn 'GT' Thompson at his Ag Progress Days forum. Article also says he 'went on to say that data centers will be a part of life moving forward,' matching the claim. Published 2026-08-12."
+},
+{
+"url": "https://wzmq19.com/news/368159/rep-thompson-unveils-bill-to-protect-farms-from-eminent-domain-as-data-center-debate-intensifies/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-04",
+"note": "Quote verbatim. Article says Thompson believes data centers could bring 'real positives' and should be embraced 'but with guardrails,' and that he recently introduced the Not in My Barnyard Act to shield agricultural land from federal eminent domain when a feasible alternative exists. Note the bill targets federal eminent domain generally, not data-center infrastructure specifically, though the article frames it in the data-center context. Dateline September 4, 2026 (Erie News Now DC Bureau via WZMQ)."
+},
+{
+"url": "https://www.lancasterfarming.com/farming-news/ag-business/pennsylvania-congressmen-seek-silver-lining-on-rural-data-centers/article_7e440a03-09b1-4824-99e5-74a51c9970bc.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-10",
+"note": "Quote verbatim. Article says Thompson thinks it makes more sense to build data centers in Pennsylvania than transfer PA-produced energy out of state, and cites ample coal refuse and flared, unpiped gas wells as siting opportunities. Farm Show town hall, Jan. 10, 2026."
+},
+{
+"url": "https://www.yahoo.com/news/politics/articles/lawmakers-flock-ag-progress-days-215748639.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-12",
+"note": "Hog-farm quote appears verbatim, attributed to Thompson ('he said')."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "K000376",
+"checks": [
+{
+"url": "https://www.quiverquant.com/news/Press+Release%3A+McCaul%2C+Bera+and+Kelly+Introduce+Bill+to+Use+AI+in+Pediatric+Cancer+Research",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-09",
+"note": "Page (posted July 9, 2026) names Rep. Mike Kelly as a co-introducer with McCaul and Bera of the 'Accelerating Innovation (AI) for Kids Act', described as using AI to improve clinical trial design, data access and personalized treatment for pediatric cancer. No Kelly quote on the page, matching the item's note. Supports the claim; it is a pro-AI-adoption signal, not a stance on AI risk regulation."
+},
+{
+"url": "https://kelly.house.gov/media/press-releases/kelly-issues-statement-congressional-auto-caucus-semiconductor-roundtable",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-01-21",
+"note": "Quote appears verbatim (apostrophe is curly in source). Release dated Jan 21, 2022 frames chips entirely around auto-industry supply shortages and passing the CHIPS for America Act; China and export controls are not mentioned, so the claim that his chip interest is supply-side rather than about limiting sales to China is accurate."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "Neither source provided speaks to tech regulation at all: one is a pro-AI pediatric cancer research bill, the other a 2022 auto-supply semiconductor statement. Nothing here supports a -1 'Targeted rules' placement; unless the tracker has separate Kelly evidence on Big Tech regulation, this should be left unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "D000530",
+"checks": [
+{
+"url": "https://truthout.org/articles/fetterman-backs-trumps-insulting-comments-berating-opponents-of-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": "so disrespectful to people who have concerns about AI's roles in our lives, or electricity costs, or whether good union jobs are part of this, or water supplies — you name it",
+"corrected_date": "2026-09-01",
+"note": "Page names Deluzio, says he condemned Trump's data-center post in a video, quote appears verbatim (item truncates the trailing 'you name it'); also quotes him: 'It certainly isn't because they want to be backwards and poor.'"
+},
+{
+"url": "https://deluzio.house.gov/media/press-releases/deluzio-focused-fighting-lower-costs-founding-member-new-lowering-utility",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-26",
+"note": "Quote verbatim from Deluzio's statement; release frames utility costs as monopoly profiteering and explicitly pairs it with 'get more power onto the grid'. Data centers are not mentioned by name on the page."
+},
+{
+"url": "https://www.usatoday.com/story/news/politics/2026/09/09/congress-reaction-anthropic-ai-warning-end-humanity/91675031007/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-09",
+"note": "Quote verbatim, attributed to Rep. Chris Deluzio, D-Pennsylvania, preceded by 'For those still burying their heads in the sand about the risks of superintelligence to humanity: wake up.' The 'unusually strong for a House member' characterization is the tracker's editorial gloss, not on the page."
+},
+{
+"url": "https://deluzio.house.gov/media/press-releases/deluzio-bonamici-moylan-restart-push-protect-workers-ai-and-robot-bosses",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-04",
+"note": "Quote verbatim. Bill summary on the page lists pre-deployment testing for discrimination and bias, independent human oversight, timely disclosures, and a new Technology and Worker Protection Division at the Department of Labor."
+},
+{
+"url": "https://jayapal.house.gov/2026/06/23/monopoly-busters-caucus-co-chairs-press-uber-and-lyft-following-reports-of-ai-driven-surveillance-pricing/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-23",
+"note": "Deluzio (PA-17) named as one of four Monopoly Busters Caucus co-chairs who wrote the letter; quote verbatim; page states Uber and Lyft control ~95 percent of the ride-hailing market and the letter demands transparency about AI-driven pricing using personal data."
+},
+{
+"url": "https://deluzio.house.gov/media/press-releases/deluzio-focused-fighting-lower-costs-founding-member-new-lowering-utility",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-26",
+"note": "Verbatim boilerplate on his own release: 'Congressman Deluzio, co-Chair of the Monopoly Busters Caucus, is a leading voice in the Congress pushing for stronger antitrust enforcement and taking on the out-of-control corporate power that is ripping off Pennsylvanians and Americans across the country.'"
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned zero text for the PDF; downloaded and extracted it directly. Quote verbatim; letter dated Nov 26, 2025 to Johnson/Thune/Jeffries/Schumer; 81 'Member of Congress' signature blocks including Chris Deluzio; opposes NDAA moratorium, a preemption executive order, and conditioning BEAD/broadband funds on states abandoning AI laws."
+},
+{
+"url": "https://clarke.house.gov/?p=102767",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Redirects to the Clarke release; quote verbatim; Chris Deluzio listed among the 44 signers; letter urges negotiators to keep any AI moratorium or preemption out of the final FY26 NDAA."
+},
+{
+"url": "https://www.usatoday.com/story/news/politics/2026/09/09/congress-reaction-anthropic-ai-warning-end-humanity/91675031007/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-09",
+"note": "Same source as item 3; quote appears verbatim and is attributed to Deluzio."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the nine sources mentions chips, export controls, China, or Nvidia. There is no evidence in this file for any china_chips position, so a -1 'Leans hawkish' score is unsupported; record no position until a source exists.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

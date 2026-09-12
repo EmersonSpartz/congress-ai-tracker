@@ -1,0 +1,680 @@
+[
+{
+"bioguide": "M000355",
+"name": "Mitch McConnell",
+"signature": "Former Senate GOP leader (retiring, sidelined by health since June 2026) who championed the Paducah DOE-site AI data center campus and the TikTok divest-or-ban law; almost no other public AI record.",
+"notable_quote": {
+"text": "This is great news for the Paducah community, and I want to thank President Trump for selecting the Paducah site to host new AI infrastructure",
+"date": "2025-07-24",
+"url": "https://www.kentuckytoday.com/news/mcconnell-praises-selection-of-paducah-as-future-home-of-ai-infrastructure/article_c18818b9-b64e-4c75-b276-a1cd5be702a2.html"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "medium",
+"summary": "McConnell cheered the Trump administration's choice of the DOE Paducah site for a giant AI data center and power campus, and had pushed the Energy Department on the site for years. He has not publicly raised electric-bill, water or local-control conditions as of Sept 2026.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: McConnell praises Trump's selection of Paducah DOE site as future home of AI infrastructure",
+"url": "https://www.kentuckytoday.com/news/mcconnell-praises-selection-of-paducah-as-future-home-of-ai-infrastructure/article_c18818b9-b64e-4c75-b276-a1cd5be702a2.html",
+"date": "2025-07-24",
+"quote": "This is great news for the Paducah community, and I want to thank President Trump for selecting the Paducah site to host new AI infrastructure",
+"what_it_shows": "He celebrated a hyperscale AI campus coming to Kentucky and thanked the president for it, with no mention of ratepayer or community conditions."
+},
+{
+"type": "statement",
+"title": "Press release: McConnell statement on confirmation of Energy Secretary Chris Wright",
+"url": "https://www.mcconnell.senate.gov/public/index.cfm/2025/2/mcconnell-proud-to-confirm-wright-as-energy-secretary",
+"date": "2025-02-03",
+"quote": "I look forward to working with Secretary Wright to move our country toward greater energy dominance and to support the agency’s job-creating policies, like their work at the Department of Energy site in Paducah, Kentucky.",
+"what_it_shows": "Months before the AI site selection he was already lobbying the new Energy Secretary to develop the Paducah DOE site, the project that became the $100B AI hub."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on AI safety rules, chatbots, deepfakes or AI regulation as of Sept 2026. Searches of his press releases, floor remarks and Kentucky press turned up only coverage of a disputed July 2026 hospital photo that critics claimed was AI-generated, which is not a policy position.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "McConnell backed the 2024 law forcing TikTok's Chinese owner to sell or face a ban and filed a Supreme Court brief defending it, framing it as a national-security rule on conduct, not speech. Beyond that one China-focused fix, no positions found on Section 230, antitrust or kids' online safety in this period.",
+"evidence": [
+{
+"type": "statement",
+"title": "Senate floor speech: McConnell endorses TikTok divest-or-ban bill",
+"url": "https://www.mcconnell.senate.gov/public/index.cfm/2024/4/mcconnell-on-tiktok-take-tool-of-prc-coercion-espionage-off-the-table",
+"date": "2024-04-08",
+"quote": "This is a matter that deserves Congress’ urgent attention. And I’ll support commonsense, bipartisan steps to take one of Beijing’s favorite tools of coercion and espionage off the table.",
+"what_it_shows": "As Senate Republican leader he threw his weight behind forcing a Chinese-owned platform to divest, a targeted rule on one company rather than broad Big Tech regulation."
+},
+{
+"type": "other",
+"title": "Amicus brief: McConnell urged the Supreme Court to uphold the TikTok ban-or-divest law",
+"url": "https://www.mcconnell.senate.gov/public/index.cfm/2025/1/icymi-mcconnell-urged-scotus-to-uphold-tiktok-ban-or-divestment",
+"date": "2025-01-17",
+"quote": "The right to free speech enshrined in the First Amendment does not apply to a corporate agent of the Chinese Communist Party.",
+"what_it_shows": "He kept pushing the TikTok law through the courts and argued it does not violate the First Amendment."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "He voted Yea on the July 1, 2025 amendment that struck the 10-year moratorium on state AI laws, as did 98 other senators after the deal collapsed, so the vote alone shows no stance. No statements found on federal preemption of state AI laws, the December 2025 executive order or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year moratorium on state AI laws (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He voted to remove the moratorium along with nearly the whole Senate; he made no public statement explaining the vote, so it does not establish a position."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on chip export controls or Nvidia sales to China. His China-tech record in this period is the TikTok divest-or-ban law, which concerns a social media app, not semiconductors.",
+"evidence": []
+}
+},
+"search_notes": "About 14 Google News searches (AI, data center, Paducah, TikTok, Section 230, Big Tech, kids online safety, chatbot/deepfake, Nvidia/export controls, CHIPS, state AI/preemption, defense AI) plus a site listing of mcconnell.senate.gov. Results were dominated by his 2026 hospitalization and the AI-photo controversy. mcconnell.senate.gov blocks the fetch helper and Wayback was rate-limited, so the TikTok speech, amicus release and Wright statement were read through the browser pane. The Paducah Sun and WHAS11 articles on the Paducah project could not be read (paywall/bot wall). Kentucky Today carried the full Paducah press release text, which was verified word for word."
+},
+{
+"bioguide": "P000603",
+"name": "Rand Paul",
+"signature": "Libertarian chairman of Senate Homeland Security: local control on data centers, fought the 2025 moratorium on state AI laws, opposed KOSA and the TikTok ban as censorship, warns about government AI surveillance, and in 2026 flipped to favor stripping Section 230 protections.",
+"notable_quote": {
+"text": "I think AI will bring benefits, particularly in the private industry and private world, but where I see potential problems with AI are in government's use in spying or surveilling on its citizenry.",
+"date": "2026-06-24",
+"url": "https://www.pmg-ky1.com/oldham_era/news/senator-weighs-in-on-data-centers-kentucky-s-economy/article_e8f109ae-1e1d-5012-a360-cee0889433b6.html"
+},
+"groups": [
+"Chairman, Senate Committee on Homeland Security and Governmental Affairs (119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "high",
+"summary": "Paul says whether to allow a data center should be a local or state decision, not Washington's. He opposes a federal ban and federal subsidies alike, calls the boom overhyped, and wants more nuclear power to feed it.",
+"evidence": [
+{
+"type": "interview",
+"title": "Bowling Green Daily News interview: Paul on data centers",
+"url": "https://bgdailynews.com/2026/06/18/paul-speaks-on-iran-deal-data-centers/",
+"date": "2026-06-18",
+"quote": "I think people won’t be very satisfied with someone who’s so distant from the problem making the decision",
+"what_it_shows": "He wants siting decided locally; the paper reports he opposes both a federal ban on data centers and federal funding for them, and will not dictate local zoning."
+},
+{
+"type": "interview",
+"title": "Oldham Era interview: Senator weighs in on data centers",
+"url": "https://www.pmg-ky1.com/oldham_era/news/senator-weighs-in-on-data-centers-kentucky-s-economy/article_e8f109ae-1e1d-5012-a360-cee0889433b6.html",
+"date": "2026-06-24",
+"quote": "Nobody in Washington can know as well or feel as strongly about these types of issues as the people who are close to them so I would keep these decisions local",
+"what_it_shows": "Repeats that data center decisions belong to local jurisdictions, while voicing concern about federal moves to expand data centers."
+},
+{
+"type": "statement",
+"title": "WLKY: Paul at Fort Knox on data centers after Gov. Beshear's executive order",
+"url": "https://www.wlky.com/article/sen-rand-paul-affordability-fauci-mitch-mcconnell-health/73396013",
+"date": "2026-08-10",
+"quote": "We shouldn't tell them they have to, nor should we tell them they can't. I think the decision should be made the more local, the better",
+"what_it_shows": "Neither a federal push nor a federal block; he also called the data center rush hype that will cool and said fewer may be needed than claimed."
+},
+{
+"type": "statement",
+"title": "Kentucky Lantern: Paul says states will decide AI and data center policy, wants more nuclear power",
+"url": "https://kentuckylantern.com/2026/01/22/kentuckys-paul-says-states-will-decide-policies-on-the-future-of-artificial-intelligence/",
+"date": "2026-01-22",
+"quote": "You can’t just have data centers without energy, so we’re going to need more energy",
+"what_it_shows": "Ties data center growth to new power supply, backs nuclear and coal, and expects state legislatures to make most of these calls."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Paul treats AI as inevitable and mostly beneficial in private hands and opposes new federal mandates on platforms. His AI worry is government using AI to surveil and censor citizens, where he wants hard limits. Mixed, but leans light touch on industry.",
+"evidence": [
+{
+"type": "interview",
+"title": "Oldham Era interview: Paul on AI's future and government surveillance",
+"url": "https://www.pmg-ky1.com/oldham_era/news/senator-weighs-in-on-data-centers-kentucky-s-economy/article_e8f109ae-1e1d-5012-a360-cee0889433b6.html",
+"date": "2026-06-24",
+"quote": "I think AI will bring benefits, particularly in the private industry and private world, but where I see potential problems with AI are in government's use in spying or surveilling on its citizenry.",
+"what_it_shows": "Locates the danger in government use of AI, not in the technology or the companies building it."
+},
+{
+"type": "op_ed",
+"title": "National Review op-ed: Keep Artificial Intelligence out of Government Surveillance",
+"url": "https://www.paul.senate.gov/op_eds/keep-artificial-intelligence-out-of-government-surveillance",
+"date": "2023-05",
+"quote": "Artificial intelligence is only going to make it easier for the government to do this and harder to detect.",
+"what_it_shows": "Calls for getting to the bottom of federal AI-driven disinformation monitoring, a civil-liberties guardrail on government rather than industry regulation."
+},
+{
+"type": "hearing",
+"title": "HSGAC hearing on Artificial Intelligence in Government: Paul warns of AI surveillance threat to free expression",
+"url": "https://www.hsgac.senate.gov/media/reps/dr-paul-warns-of-threat-to-freedom-of-thought-and-expression-posed-by-artificial-intelligence-surveillance-in-government/",
+"date": "2023-05-16",
+"quote": null,
+"what_it_shows": "As ranking member he used the committee's AI hearing to attack federal use of AI tools to flag and suppress speech, and sought limits on that use."
+}
+]
+},
+"tech_regulation": {
+"score": 0,
+"confidence": "high",
+"summary": "Mixed. Paul was one of three senators to vote against the Kids Online Safety Act and sponsored a bill to repeal the TikTok ban, calling both censorship. But in January 2026 he reversed on Section 230 and vowed legislation to strip Google and YouTube's liability shield, and he backs limits on the government buying Americans' data.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 221 (2024): passage of S.2073 Kids Online Safety and Privacy Act (Nay)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/s221",
+"date": "2024-07-30",
+"quote": null,
+"what_it_shows": "One of only three senators against the kids' online safety package that passed 91-3."
+},
+{
+"type": "op_ed",
+"title": "Courier Journal op-ed against KOSA, as quoted by The Hill",
+"url": "https://thehill.com/homenews/senate/4800884-senate-approves-bills-online-children/",
+"date": "2024-07-30",
+"quote": "This requirement will not only stifle free speech, but it will deprive Americans of the benefits of our technological advancements.",
+"what_it_shows": "He objected to KOSA's duty of care as a speech restriction; the quote is from The Hill's report on his op-ed."
+},
+{
+"type": "interview",
+"title": "New York Post: Paul says KOSA will lead to censorship",
+"url": "https://nypost.com/2024/08/02/us-news/rand-paul-bizarre-kids-online-safety-act-wont-save-any-lives/",
+"date": "2024-08-02",
+"quote": "But I’m afraid it will lead to censorship.",
+"what_it_shows": "Sympathetic to the goal but argues a vague anxiety standard enforced by the FTC would let government censor content."
+},
+{
+"type": "sponsor",
+"title": "S.153 Repeal the TikTok Ban Act (119th)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/153",
+"date": "2025-01-20",
+"quote": null,
+"what_it_shows": "Would undo the law forcing TikTok's sale or ban, the opposite of his Kentucky colleague McConnell."
+},
+{
+"type": "statement",
+"title": "Press release: Paul and Khanna introduce Repeal the TikTok Ban Act",
+"url": "https://www.paul.senate.gov/dr-rand-paul-rep-ro-khanna-introduce-bipartisan-bicameral-repeal-the-tiktok-ban-act",
+"date": "2025-01-20",
+"quote": "A government that can ban an app, can ban a book. A government that can silence a platform, can silence a person.",
+"what_it_shows": "Frames the TikTok ban as government control of speech rather than a China security measure."
+},
+{
+"type": "op_ed",
+"title": "New York Post op-ed reversing on Section 230, as quoted by Broadband Breakfast",
+"url": "https://broadbandbreakfast.com/irate-sen-rand-paul-ready-to-strip-youtubes-legal-immunity-over-controversial-maduro-video/",
+"date": "2026-01-21",
+"quote": "The arrogance of Google to continue hosting this defamatory video and the resultant threats on my life have caused me to rethink Congress’ blind allegiance to liability shields",
+"what_it_shows": "After YouTube refused to remove a video he calls defamatory, he pledged to pursue legislation ending Section 230 protections, a sharp turn toward reining in Big Tech."
+},
+{
+"type": "sponsor",
+"title": "S.2425 Free Speech Protection Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2425",
+"date": "2023-07-20",
+"quote": null,
+"what_it_shows": "Bars officials from pressuring platforms to take down posts; a restraint on government, not a platform rule."
+},
+{
+"type": "cosponsor",
+"title": "S.2576 Fourth Amendment Is Not For Sale Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2576",
+"date": "2023-07-27",
+"quote": null,
+"what_it_shows": "Would stop police and spy agencies from buying Americans' location and phone data from brokers without a warrant."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Paul opposed the 2025 attempt to freeze state AI laws for ten years, signing a letter to strip it from the reconciliation bill and saying he would back an amendment to remove it. He says most AI and data center decisions will be made by state legislatures, not Washington.",
+"evidence": [
+{
+"type": "letter",
+"title": "Punchbowl News: Blackburn letter to Leader Thune asking to remove the AI moratorium, signed by Paul and Hawley",
+"url": "https://punchbowl.news/article/tech/gop-ai-resistance/",
+"date": "2025-06-25",
+"quote": null,
+"what_it_shows": "He joined the effort to pull the 10-year freeze on state AI laws out of the GOP reconciliation bill before it reached the floor."
+},
+{
+"type": "statement",
+"title": "Texas Tribune: Paul among most ardent GOP opponents of Cruz's AI moratorium, would support an amendment to strip it",
+"url": "https://www.texastribune.org/2025/06/27/ted-cruz-ai-moratorium-reconciliation-republicans-congress-trump/",
+"date": "2025-06-27",
+"quote": null,
+"what_it_shows": "Named with Blackburn, Hawley and Johnson as the leading Republican opponents of the moratorium; told the paper he would back an amendment to remove it."
+},
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year moratorium on state AI laws (Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted to strike the moratorium; unlike most colleagues, he had opposed it publicly beforehand."
+},
+{
+"type": "statement",
+"title": "Kentucky Lantern: Paul says states will decide policies on the future of AI",
+"url": "https://kentuckylantern.com/2026/01/22/kentuckys-paul-says-states-will-decide-policies-on-the-future-of-artificial-intelligence/",
+"date": "2026-01-22",
+"quote": "a lot of these decisions will be made by the state legislature",
+"what_it_shows": "Asked how federal AI decisions would affect state policy, he pointed to state legislatures as the deciders."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on chip export controls or Nvidia sales to China. He attacked the government's 10 percent stake in Intel as a step toward socialism, but that is about industrial policy, not export rules.",
+"evidence": [
+{
+"type": "social_post",
+"title": "The Hill: Paul calls Trump's Intel stake a terrible idea and a step toward socialism",
+"url": "https://thehill.com/homenews/senate/5469740-gop-criticizes-trump-intel-deal/",
+"date": "2025-08-26",
+"quote": "If socialism is government owning the means of production, wouldn’t the government owning part of Intel be step toward socialism?",
+"what_it_shows": "Shows his free-market stance on chip industrial policy; it says nothing about export controls, so it does not set a china_chips score."
+}
+]
+}
+},
+"search_notes": "About 16 Google News searches (AI, data centers, AI regulation/moratorium, chatbot/KOSA, Section 230/Big Tech, Nvidia/export controls, surveillance, Intel, CHIPS Act, Dartmouth, executive order) plus a site listing of paul.senate.gov. Read: BG Daily News, Oldham Era, WLKY, Kentucky Lantern, The Hill (KOSA and Intel), NY Post (KOSA), Reason and Broadband Breakfast (Section 230 reversal), Paul's TikTok release, National Review op-ed and HSGAC release (via browser pane), Punchbowl and Texas Tribune (moratorium letter), govtrack s221. Not readable: WHAS11 Aug 10 2026 (bot wall; WLKY covered the same Fort Knox remarks), Courier Journal KOSA op-ed (paywall; quoted via The Hill), News-Enterprise Aug 2026 (body not loaded). The Punchbowl letter itself was not found online; Punchbowl and Texas Tribune both report his signature/opposition."
+},
+{
+"bioguide": "C001108",
+"name": "James Comer",
+"signature": "House Oversight chairman who welcomes the $100B Paducah AI hub but says data centers must pay their own way with no incentives and be a local call; probes AI surveillance pricing and OpenAI's Altman; longtime crusader against government-driven censorship on social media.",
+"notable_quote": {
+"text": "I think as long as the community wants a data center, as long as the data center pays for everything, and they don't get incentivized, then I think it can be a good thing for the community.",
+"date": "2026-08-28",
+"url": "https://www.wpsdlocal6.com/news/comer-discusses-ai-data-centers-potential-governor-bid-at-paducah-chamber-event/article_6cb39d77-a127-48f0-8bc3-ca3036c65d2a.html"
+},
+"groups": [
+"Chairman, House Committee on Oversight and Government Reform (119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Comer celebrates the $100 billion Paducah AI hub in his district and says America must build data centers or China will. But he wants them to be a local decision, pay for everything themselves and receive no incentives.",
+"evidence": [
+{
+"type": "interview",
+"title": "WPSD Local 6: Kentucky officials weigh in on Paducah American Energy Hub",
+"url": "https://www.wpsdlocal6.com/news/kentucky-officials-weigh-in-on-paducah-american-energy-hub/article_0f209089-9708-41e3-b790-537d904a9519.html",
+"date": "2026-07-29",
+"quote": "We certainly are very happy about the the progress with the data center and the investment that's been made and the jobs that are being created.",
+"what_it_shows": "Welcomed the $100B hyperscale campus in his district and credited the president's support for nuclear power."
+},
+{
+"type": "statement",
+"title": "WPSD Local 6: Comer discusses AI data centers at Paducah Chamber event",
+"url": "https://www.wpsdlocal6.com/news/comer-discusses-ai-data-centers-potential-governor-bid-at-paducah-chamber-event/article_6cb39d77-a127-48f0-8bc3-ca3036c65d2a.html",
+"date": "2026-08-28",
+"quote": "I think as long as the community wants a data center, as long as the data center pays for everything, and they don't get incentivized, then I think it can be a good thing for the community.",
+"what_it_shows": "Sets conditions: local consent, full cost coverage and no tax incentives; he called data centers controversial."
+},
+{
+"type": "statement",
+"title": "WPSD Local 6: Comer on data centers and China at Paducah Chamber event",
+"url": "https://www.wpsdlocal6.com/news/comer-discusses-ai-data-centers-potential-governor-bid-at-paducah-chamber-event/article_6cb39d77-a127-48f0-8bc3-ca3036c65d2a.html",
+"date": "2026-08-28",
+"quote": "If we don't have them in the United States, they're going to be built in China, and we don't want data centers built in China",
+"what_it_shows": "Frames data centers as a national necessity in the race with China, which keeps him on the pro-build side despite his conditions."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Comer's AI concerns run through government: he sponsored a bill making agencies disclose the AI they use, and in 2026 demanded answers on D.C.'s plan to use AI cameras to flag property violations and on OpenAI CEO Sam Altman's finances. No position found on frontier AI safety rules, licensing or a pause.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R.7532 Federal A.I. Governance and Transparency Act of 2024 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7532",
+"date": "2024-03-05",
+"quote": null,
+"what_it_shows": "Would make federal agencies track the AI they use and tell the public how they use it, a transparency rule aimed at government rather than industry."
+},
+{
+"type": "letter",
+"title": "Oversight press release: Comer letter to D.C. Department of Buildings on AI surveillance of property owners",
+"url": "https://oversight.house.gov/release/comer-sounds-alarm-on-d-c-plan-to-use-ai-surveillance-to-target-district-property-owners/",
+"date": "2026-09-10",
+"quote": "the Committee is concerned about the potential of this initiative to ensnare District property owners in a regime of excessive fees, external property maintenance violations, and unpayable tax debt",
+"what_it_shows": "Raised alarm about a government using AI camera surveillance to generate fines, an oversight-of-government use of AI rather than an industry rule."
+},
+{
+"type": "letter",
+"title": "PYMNTS: Oversight Chairman Comer letter to OpenAI CEO Sam Altman on potential conflicts of interest",
+"url": "https://www.pymnts.com/news/artificial-intelligence/2026/sam-altmans-investments-face-scrutiny-from-oversight-committee/",
+"date": "2026-05-12",
+"quote": "The Committee aims to ensure that funds donated for charitable purposes are not diverted for unintended uses, such as artificially increasing the market value of other companies in which an executive or board member may hold an interest",
+"what_it_shows": "Scrutiny of the leading AI lab focused on nonprofit money and executive conflicts, not model safety."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Comer backs targeted checks on tech platforms: a probe of AI-driven surveillance pricing at Uber, Lyft, Expedia and others, and the App Store Freedom Act to open Apple and Google's app stores. His longest-running tech fight is against government pressure on platforms to censor, which restrains government rather than companies, so he is no Big Tech trust-buster.",
+"evidence": [
+{
+"type": "letter",
+"title": "American Bazaar (citing Reuters): Comer letters to five travel and delivery companies on AI surveillance pricing",
+"url": "https://americanbazaaronline.com/2026/03/06/us-house-committee-asks-travel-companies-to-disclose-ai-based-surveillance-pricing-476434/",
+"date": "2026-03-05",
+"quote": "for companies to weaponize personal data and pad their profit margins at the expense of providing transparency to consumers",
+"what_it_shows": "Opened an investigation into AI-driven personalized pricing, a consumer-protection push against tech platforms."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3209 App Store Freedom Act (119th)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3209",
+"date": "2025-10-28",
+"quote": null,
+"what_it_shows": "Would force Apple and Google to allow outside apps and app stores, a targeted rule on the two gatekeepers."
+},
+{
+"type": "sponsor",
+"title": "H.R.140 Protecting Speech from Government Interference Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/140",
+"date": "2023-01-09",
+"quote": null,
+"what_it_shows": "Bans federal workers from pressuring social media companies to remove posts; a restraint on government, not a platform mandate."
+},
+{
+"type": "statement",
+"title": "Press release: Comer applauds House passage of bill to protect Americans from censorship",
+"url": "https://comer.house.gov/2023/3/comer-applauds-house-passage-of-bill-to-protect-americans-from-censorship",
+"date": "2023-03-09",
+"quote": "The Biden Administration has eroded Americans’ First Amendment rights by bullying social media companies to censor certain views and news on their platforms.",
+"what_it_shows": "His signature Big Tech issue is government-driven censorship, which does not translate into support for breaking up or regulating the companies."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on federal preemption of state AI laws, the 2025 moratorium fight, the December 2025 executive order or the March 2026 White House framework. He was not among the House signers of the Matsui or Clarke letters or the Johnson-Scalise-Guthrie statement.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on chip export controls or Nvidia H20/H200 sales to China. His China framing on AI is that data centers must be built in America rather than China, which is not a chips position.",
+"evidence": []
+}
+},
+"search_notes": "About 12 Google News searches (AI, data center, Oversight AI hearings, App Store/Big Tech/Section 230, TikTok, chatbot/deepfake, preemption, chips) plus site listings of comer.house.gov and oversight.house.gov. Read: two WPSD Local 6 articles (Paducah quotes verified), Oversight press release on D.C. AI surveillance (also via browser pane), PYMNTS on the Altman letter, American Bazaar on surveillance pricing letters (Reuters itself blocked), Comer's 2023 censorship release, NY Post on the Power the Future letter addressed to him (a request to him, not his position). Oversight AI hearing pages (Apr 2025 data center economics, May 2025 federal AI, Sept 2025 future of AI) list witnesses only; no Comer statements found on them. WHAS11 Aug 4 2026 roundup of KY leaders' reactions was not readable."
+},
+{
+"bioguide": "G000558",
+"name": "Brett Guthrie",
+"signature": "House Energy and Commerce chairman driving the Ratepayer Protection Act (data centers pay their own way), the KIDS Act with AI chatbot safeguards, a preemptive national privacy bill and a national AI framework to override state laws; frames all of it as beating China.",
+"notable_quote": {
+"text": "We are not in a race with Europe to regulate. We are in a race with China to innovate.",
+"date": "2026-02-02",
+"url": "https://energycommerce.house.gov/posts/icymi-chairman-guthrie-essay-dominance-deployment-and-safeguards-the-path-for-american-ai-leadership"
+},
+"groups": [
+"Chairman, House Committee on Energy and Commerce (119th Congress)",
+"Founder of the House Energy and Commerce Republican Data Privacy Working Group (established Feb 2025; not a listed member)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Guthrie is the House's main mover on data center power costs: his committee passed the Ratepayer Protection Act 52-0 to make data centers pay for the grid upgrades they cause, and he is pushing for a floor vote. He is firmly pro-buildout, calls moratoriums harmful, says communities may opt out, and asked the FBI to probe whether China funds anti-data-center campaigns.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement: Guthrie leads efforts to lower energy costs, protect ratepayers (AI and the Grid legislative hearing)",
+"url": "https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=391028",
+"date": "2026-04-29",
+"quote": "We are also ensuring that data centers are paying their fair share. Data centers should pay for the load that comes into the data centers.",
+"what_it_shows": "Opened a hearing on seven data center and grid bills with the principle that data centers cover their own load costs."
+},
+{
+"type": "statement",
+"title": "E&C press release: Ratepayer Protection Act advances from committee 52-0",
+"url": "https://energycommerce.house.gov/posts/ratepayer-protection-act-advances-from-house-committee-on-energy-and-commerce",
+"date": "2026-07-21",
+"quote": "The Ratepayer Protection Act will ensure that data centers pay their own way, instead of passing costs onto hardworking families.",
+"what_it_shows": "Shepherded H.R. 9340 through his committee unanimously despite data center industry objections."
+},
+{
+"type": "statement",
+"title": "E&C press release: Guthrie, Latta and Evans on introduction of the Ratepayer Protection Act",
+"url": "https://energycommerce.house.gov/posts/chairman-guthrie-chairman-latta-and-rep-evans-on-the-introduction-of-the-ratepayer-protection-act",
+"date": "2026-06-18",
+"quote": "Winning the race to AI dominance is essential to securing America’s future global leadership, and that means expeditiously building the power infrastructure needed to support new technologies, while doing so in a responsible way",
+"what_it_shows": "Pairs a build-fast goal with the condition that families not foot the bill."
+},
+{
+"type": "interview",
+"title": "E&C ICYMI: Guthrie on Fox Business on AI policy, data center moratoriums and the Ratepayer Protection Act",
+"url": "https://energycommerce.house.gov/posts/icymi-chairman-guthrie-joins-fox-business-network-to-talk-ai-policy-and-the-ratepayer-protection-act",
+"date": "2026-07-23",
+"quote": "We're about six months ahead of China and AI, people predict. If we had a year moratorium, let's say that's nationwide, and we get behind China, we'll never catch up.",
+"what_it_shows": "Opposes data center moratoriums, criticized New York's, and says his bill helps states adopt the ratepayer pledge rather than imposing a one-size-fits-all federal rule."
+},
+{
+"type": "letter",
+"title": "E&C letter: Chairmen Guthrie, Joyce and Latta request investigation of foreign adversaries' efforts to block American data center buildout",
+"url": "https://energycommerce.house.gov/posts/chairmen-guthrie-joyce-and-latta-request-investigation-of-foreign-adversaries-efforts-to-block-american-data-center-buildout",
+"date": "2026-06-04",
+"quote": "Americans deserve to know who is bankrolling the disinformation campaign that seeks to block critical infrastructure investments",
+"what_it_shows": "Asked PCAST and the FBI to investigate whether China-backed entities fund anti-data-center campaigns, treating organized opposition as possible foreign disinformation."
+},
+{
+"type": "interview",
+"title": "Bowling Green Daily News: Guthrie calls for investigations into AI and data center opposition, says local leaders decide",
+"url": "https://bgdailynews.com/2026/06/13/guthrie-calls-for-investigations-into-ai-data-center-opposition/",
+"date": "2026-06-13",
+"quote": "The local concerns are real, and should be always taken into consideration",
+"what_it_shows": "Says communities may choose not to participate and that questions about taxes and jobs are fair, while insisting America must build or China will."
+},
+{
+"type": "statement",
+"title": "Roll Call: Guthrie pushes September floor vote on Ratepayer Protection Act despite industry pushback",
+"url": "https://rollcall.com/2026/09/04/gop-consensus-elusive-on-timing-scope-of-data-centers-bill/",
+"date": "2026-09-04",
+"quote": "protects local communities and, I think, allows data centers to be successful",
+"what_it_shows": "Acknowledged data center industry opposition downtown but kept pressing leadership to bring the bill to the floor."
+},
+{
+"type": "statement",
+"title": "Politico: Guthrie says his data center bill aligns with Trump's Ratepayer Protection Pledge",
+"url": "https://www.politico.com/news/2026/09/02/republicans-data-center-response-midterms-01060606",
+"date": "2026-09-02",
+"quote": "Our model is the Ratepayer Protection Pledge",
+"what_it_shows": "Positions the bill as bridging Trump's pro-data-center stance and vulnerable Republicans' constituent backlash."
+},
+{
+"type": "statement",
+"title": "E&C press release: Guthrie applauds White House announcement of $500 billion AI infrastructure investment",
+"url": "https://energycommerce.house.gov/posts/chairman-guthrie-applauds-white-house-announcement-of-500-billion-investment-in-ai-infrastructure",
+"date": "2025-01-22",
+"quote": "This massive investment in American infrastructure makes clear that the United States is prepared to lead the world in next-generation technologies.",
+"what_it_shows": "Celebrated the Stargate data center build-out while flagging energy demand and permitting as challenges his committee would address."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "high",
+"summary": "Guthrie's AI doctrine is dominance, deployment and safeguards: beat China, avoid Europe-style rules, and add protections only where existing law falls short. The exception is kids and AI chatbots, where he backed the FTC inquiry, held a hearing and wrote chatbot safeguards into his KIDS Act.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Hatch Center essay by Guthrie: Dominance, Deployment, and Safeguards: The Path for American AI Leadership",
+"url": "https://energycommerce.house.gov/posts/icymi-chairman-guthrie-essay-dominance-deployment-and-safeguards-the-path-for-american-ai-leadership",
+"date": "2026-02-02",
+"quote": "We are not in a race with Europe to regulate. We are in a race with China to innovate.",
+"what_it_shows": "Rejects EU-style AI regulation as growth-killing and puts innovation and China competition first."
+},
+{
+"type": "hearing",
+"title": "Opening statement: full committee hearing on AI and American Global Competitiveness",
+"url": "https://energycommerce.house.gov/posts/chairman-guthrie-delivers-opening-statement-at-full-committee-hearing-on-ai-and-american-global-competitiveness",
+"date": "2025-04-09",
+"quote": "What I hear from people in this space, is that we have the brain power and we have the capital, what we need is the energy and the correct regulatory framework.",
+"what_it_shows": "Frames AI as a war with China the US must win and says the committee's job is energy plus a light regulatory framework."
+},
+{
+"type": "statement",
+"title": "E&C press release: Guthrie on President Trump's AI Action Plan",
+"url": "https://energycommerce.house.gov/posts/chairman-guthrie-on-president-trump-s-ai-action-plan-the-future-of-american-competitiveness-depends-on-investments-in-ai-1",
+"date": "2025-07-23",
+"quote": "aligns with our Committee’s work to unleash infrastructure development and advanced manufacturing, promote a national AI framework, and safeguard Americans where existing protections fall short",
+"what_it_shows": "Endorsed the deregulatory action plan; new guardrails only where existing protections fall short."
+},
+{
+"type": "statement",
+"title": "E&C joint statement: Guthrie and Pallone applaud FTC inquiry into AI companion chatbots",
+"url": "https://energycommerce.house.gov/posts/chairman-guthrie-and-ranking-member-pallone-applaud-ftc-decision-to-investigate-safety-of-ai-chatbots",
+"date": "2025-09-11",
+"quote": "Artificial intelligence has unleashed exponential levels of innovation, yet we are alarmed by recent incidents concerning the use of AI chatbots by minors.",
+"what_it_shows": "Supports targeted action on companion chatbots and children, the one area where he backs new rules."
+},
+{
+"type": "hearing",
+"title": "E&C announcement: Oversight and Investigations hearing on the safety of AI chatbots",
+"url": "https://energycommerce.house.gov/posts/chairmen-guthrie-and-joyce-announce-oversight-and-investigations-hearing-on-the-safety-of-artificial-intelligence-ai-chatbots",
+"date": "2025-11-12",
+"quote": "additional oversight is needed to better understand risks to users when interacting with these technologies",
+"what_it_shows": "Convened a hearing on chatbot risks to children and teens while stressing AI's promise."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Guthrie wrote and passed the House's KIDS Act, which sets design, privacy and AI chatbot rules for platforms serving minors but drops the Senate's duty of care, and he is pushing a national privacy law that would override state laws without letting people sue. Targeted rules, not a Big Tech crackdown.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R.7757 KIDS Act (Kids Internet and Digital Safety Act), 119th",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7757",
+"date": "2026-03-03",
+"quote": null,
+"what_it_shows": "His omnibus kids' online safety bill passed the House 267-117 on June 29, 2026 with chatbot disclosure, age verification and privacy rules but no duty of care."
+},
+{
+"type": "statement",
+"title": "Guthrie floor remarks on the KIDS Act",
+"url": "https://republicans-energycommerce.house.gov/posts/chairman-guthrie-delivers-floor-remarks-on-the-kids-act",
+"date": "2026-06-29",
+"quote": "The bill requires platforms to protect kids by default, including limiting addictive and dangerous design features and risky messaging functions.",
+"what_it_shows": "Describes binding design and default rules on platforms plus AI chatbot safeguards, framed as holding Big Tech accountable."
+},
+{
+"type": "statement",
+"title": "TechPolicy.Press: House GOP moves ahead with kids online safety package as Democrats balk (Guthrie markup remarks)",
+"url": "https://www.techpolicy.press/house-gop-moves-ahead-with-kids-online-safety-package-as-democrats-balk/",
+"date": "2026-03-05",
+"quote": "the absence of a bipartisan consensus cannot be an excuse for inaction",
+"what_it_shows": "Pushed the package through committee 28-24 on party lines when talks broke down, then cut a bipartisan deal with Pallone in June."
+},
+{
+"type": "statement",
+"title": "Politico: House Republicans roll out landmark data privacy push (SECURE Data Act), Guthrie joint statement",
+"url": "https://www.politico.com/news/2026/04/22/house-republicans-roll-out-landmark-data-privacy-push-00886800",
+"date": "2026-04-22",
+"quote": null,
+"what_it_shows": "Backs a national privacy standard from his working group that would preempt dozens of state privacy laws and bars private lawsuits; Pallone called it a bill written at the behest of Big Tech."
+},
+{
+"type": "hearing",
+"title": "Opening statement: full committee hearing on AI and American Global Competitiveness (privacy remarks)",
+"url": "https://energycommerce.house.gov/posts/chairman-guthrie-delivers-opening-statement-at-full-committee-hearing-on-ai-and-american-global-competitiveness",
+"date": "2025-04-09",
+"quote": "We can’t do it in a heavy-handed way that stifles innovation",
+"what_it_shows": "Wants privacy and kids' protections but warns against heavy-handed regulation, pointing to Europe as the cautionary example."
+}
+]
+},
+"preemption": {
+"score": 2,
+"confidence": "high",
+"summary": "Guthrie is a leading House voice for one national AI rulebook. He signed the March 2026 leadership pledge to enact the White House framework preempting state AI laws, calls a patchwork of state laws a gift to adversaries, and said state preemption should come in the end even after his KIDS Act dropped it. His privacy bill would also override state privacy laws.",
+"evidence": [
+{
+"type": "statement",
+"title": "Joint statement: Johnson, Scalise, Guthrie, Jordan, Babin: House will work to implement National AI Framework",
+"url": "https://www.speaker.gov/johnson-scalise-guthrie-jordan-babin-house-will-work-to-implement-national-ai-framework/",
+"date": "2026-03-20",
+"quote": "House Republicans look forward to working across the aisle to enact a national framework that unleashes the full potential of AI, cements the U.S. as the global leader, and provides important protections for American families.",
+"what_it_shows": "Committed as E&C chairman to legislate the White House framework, which calls for broad preemption of state AI laws."
+},
+{
+"type": "op_ed",
+"title": "Hatch Center essay by Guthrie: Dominance, Deployment, and Safeguards",
+"url": "https://energycommerce.house.gov/posts/icymi-chairman-guthrie-essay-dominance-deployment-and-safeguards-the-path-for-american-ai-leadership",
+"date": "2026-02-02",
+"quote": "A patchwork of state laws here at home would have the same effect, stalling AI development and deployment and providing our adversaries with opportunity to advance",
+"what_it_shows": "Equates state AI laws with Europe's growth-killing rules and argues for one national standard."
+},
+{
+"type": "statement",
+"title": "Record of Record: Guthrie signals state preemption remains the end goal after House kids' package",
+"url": "https://recordofrecord.com/articles/2026-07-15-cruz-sets-july-29-target-for-senate-ai-markup-as-industry-states-brace-for-preem/",
+"date": "2026-07-15",
+"quote": "We’re still gonna work it, and hopefully we’re gonna have to have state preemption in the end.",
+"what_it_shows": "Even after his bipartisan KIDS Act omitted AI preemption to win Democratic votes, he said preemption should be the final outcome."
+},
+{
+"type": "statement",
+"title": "Politico: House kids' safety deal complicates AI talks (KIDS Act omits AI preemption)",
+"url": "https://www.politico.com/news/2026/06/22/house-kids-safety-deal-complicates-ai-talks-00971213",
+"date": "2026-06-22",
+"quote": null,
+"what_it_shows": "His June 2026 deal with Pallone left out AI preemption and let states go further on kids' safety, a pragmatic exception to his preemption push."
+},
+{
+"type": "interview",
+"title": "E&C ICYMI: Guthrie on Fox Business on helping states adopt the Ratepayer Protection Pledge",
+"url": "https://energycommerce.house.gov/posts/icymi-chairman-guthrie-joins-fox-business-network-to-talk-ai-policy-and-the-ratepayer-protection-act",
+"date": "2026-07-23",
+"quote": "So we're not sending a federal statute out, we're assisting states to do so.",
+"what_it_shows": "On data center power costs he chose to help states rather than preempt them, so his preemption drive is about AI and privacy rules, not energy siting."
+},
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC endorses second slate of House Republicans including Guthrie",
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"date": "2026-05-22",
+"quote": null,
+"what_it_shows": "The AI industry super PAC that campaigns for federal preemption of state AI laws endorsed him for reelection."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on chip export controls or Nvidia H20/H200 sales to China, despite constant China-race framing. His China focus is on data centers, energy, supply chains and alleged foreign-funded opposition, not semiconductor export rules.",
+"evidence": []
+}
+},
+"search_notes": "About 16 Google News searches (AI, data center/ratepayer, preemption/national framework, KIDS Act/chatbot, Leading the Future, chips/export controls, privacy/Section 230, executive order, AI hearings) plus site listings of guthrie.house.gov and energycommerce.house.gov (22 Guthrie AI posts found). Read and verified: guthrie.house.gov 391028 and 391099, E&C posts (ratepayer advance and introduction, Fox Business ICYMI, foreign adversaries letter, Hatch essay, AI Action Plan, chatbot FTC statement and hearing notice, Apr 2025 opening statement, Stargate, floor remarks), speaker.gov statement, Breitbart, Roll Call Sept 4 and Apr 14, The Hill, E&E News, Broadband Breakfast, TechPolicy.Press, Crowell, IAPP, Bowling Green Daily News, WNKY, recordofrecord, Politico Sept 2, June 22 and Apr 22 (via browser pane). Not readable: Owensboro Times June 18 2026, Courier Journal July 20 2026, Punchbowl July 2 2026, Politico June 16 2026 and July 27 2026. No chip export control statements found in any source."
+}
+]

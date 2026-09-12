@@ -1,0 +1,76 @@
+[
+{
+"bioguide": "B001324",
+"checks": [
+{
+"url": "https://bell.house.gov/media/press-releases/bell-bacon-lead-bipartisan-letter-denouncing-inflammatory-content-social-media",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-06",
+"note": "Page is Bell's own press release (with Rep. Bacon) dated 2025-06-06; quote appears verbatim as part of the lawmakers' letter. Letter explicitly criticizes Meta's rollback of trust and safety policies and calls for terror-supporting/inciting content to be identified and removed from platforms, so the content-moderation claim holds. Note the letter is about antisemitic/pro-terror content after the DC Jewish museum shooting; it is not about AI."
+},
+{
+"url": "https://bell.house.gov/media/press-releases/bell-bacon-lead-bipartisan-letter-denouncing-inflammatory-content-social-media",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-06",
+"note": "Verbatim match in the press release. Attributed to 'the lawmakers' collectively (letter language), not to Bell individually in his own voice, though Bell led the letter."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "Only one source, and it is a letter urging platforms to voluntarily moderate hate/terror content, not a call for legislation or regulation of tech or AI. A -1 (pro-regulation lean) is defensible but thin; the source does not mention AI at all.",
+"suggested_score": -1
+},
+{
+"dimension": "ai_risk",
+"objection": "Neither checked source says anything about AI or AI risk. The -1 ai_risk score has no support in the items provided.",
+"suggested_score": null
+},
+{
+"dimension": "china_chips",
+"objection": "Neither checked source touches China, chips, or export controls. The -1 china_chips score has no support in the items provided.",
+"suggested_score": null
+}
+]
+},
+{
+"bioguide": "W000812",
+"checks": [
+{
+"url": "https://lawler.house.gov/news/documentsingle.aspx?documentid=6035",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-09",
+"note": "Lawler press release (June 9, 2026) lists Ann Wagner among additional signers of a letter urging the FCC to adopt clear and enforceable standards against illegal robocalls. Supports the claim that she backed stronger federal enforcement against robocalls. Item lacked a date; page gives 2026-06-09."
+},
+{
+"url": "https://www.nextgov.com/policy/2026/04/tech-bills-week-limiting-adversaries-access-us-tech-and-boosting-cyber-apprenticeships/412624/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-03",
+"note": "Nextgov (Apr 3, 2026) covers Wagner's Export Control Enforcement and Enhancement Act, which creates a 30-day process for Entity List modifications; the article separately notes China has used U.S.-made semiconductors to build AI capabilities. The claim's framing (coverage ties it to chips/AI, bill itself targets the Entity List process) is accurate."
+},
+{
+"url": "https://wagner.house.gov/media-center/press-releases/wagner-introduces-enforce-act-combat-ai-generated-child-sexual-abuse",
+"verdict": "confirmed",
+"corrected_quote": "The rise in Artificial Intelligence (AI) has made these horrific crimes easier to commit, and it’s time we made sure prosecutors have the necessary tools to fight back against the predators who are exploiting innocent victims.",
+"corrected_date": "2025-08-04",
+"note": "Quote appears verbatim in Wagner's own press release (Aug 4, 2025) on the ENFORCE Act; only difference is a curly apostrophe in 'it’s'. Attributed directly to Wagner."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "Both sourced items show Wagner favoring MORE government action on tech: she signed a letter urging the FCC to adopt enforceable robocall rules, and she introduced the ENFORCE Act creating federal criminal penalties for AI-generated CSAM. Neither source supports a deregulatory (-1) lean; absent other evidence the sources point toward neutral or mildly pro-regulation.",
+"suggested_score": 0
+},
+{
+"dimension": "china_chips",
+"objection": "The only source is her bill to tighten and speed up Entity List export-control designations against adversaries like China. If negative means 'against restricting chip/tech flows to China', this is backwards; she is clearly hawkish on export controls. If the scale codes hawkishness as negative, the -1 is consistent but note the bill is about the Entity List process, not chips specifically, so the evidence for a chips-specific score is indirect.",
+"suggested_score": null
+}
+]
+}
+]

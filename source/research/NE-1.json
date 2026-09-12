@@ -1,0 +1,850 @@
+[
+{
+"bioguide": "F000463",
+"name": "Deb Fischer",
+"signature": "Chairs the Senate Commerce telecom subcommittee; treats AI mainly as a driver of broadband demand and a defense tool, and backs kids' online safety rules.",
+"notable_quote": {
+"text": "AI runs on infrastructure, and infrastructure runs on fiber",
+"date": "2026-07-30",
+"url": "https://www.meritalk.com/articles/telecom-leaders-say-permitting-reform-is-key-to-ai-ready-fiber-networks/"
+},
+"groups": [
+"Senate Commerce Subcommittee on Telecommunications and Media (Chair)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on data centers as of Sept 2026. Searches for Fischer with data center, ratepayer, electricity and grid terms turned up nothing; her July 2026 AI hearing was about network capacity and fiber permitting, not data center power or water.",
+"evidence": []
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "Fischer talks about AI as a reason to build more broadband and as a tool the military must adopt quickly to counter drones. She has not taken a public position on AI safety rules, so no score is given.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Hearing: Fischer chairs Senate Commerce telecom subcommittee hearing on AI in communications networks",
+"url": "https://www.norfolkneradio.com/news/fischer-chairs-senate-hearing-on-ai/article_3ef4bda9-502e-441c-a4d4-762003168c5d.html",
+"date": "2026-07-30",
+"quote": "This is not connectivity for the sake of checking a box or hitting a milestone. Nebraska’s hardest-to-reach communities include farms and ranches that are at the leading edge of connectivity-based ag solutions",
+"what_it_shows": "Her AI hearing framed AI as a reason to expand rural networks, with no discussion of AI safety rules."
+},
+{
+"type": "hearing",
+"title": "Network World: Fischer opening statement at hearing on AI and networks",
+"url": "https://www.networkworld.com/article/4204576/cisco-exec-testifies-at-us-senate-panel-on-ais-network-impact.html",
+"date": "2026-08-03",
+"quote": "We will explore how widespread AI use has forced networks to evolve, requiring more capacity and more complex designs so that AI can run efficiently on those networks",
+"what_it_shows": "She treats AI growth as a given and focuses on making infrastructure keep up rather than on limits."
+},
+{
+"type": "hearing",
+"title": "MeriTalk: Fischer says AI demand requires removing barriers to broadband deployment",
+"url": "https://www.meritalk.com/articles/telecom-leaders-say-permitting-reform-is-key-to-ai-ready-fiber-networks/",
+"date": "2026-07-30",
+"quote": "AI runs on infrastructure, and infrastructure runs on fiber",
+"what_it_shows": "She used the hearing to push permitting reform so networks can carry AI traffic."
+},
+{
+"type": "interview",
+"title": "Nextgov: Fischer at CSIS panel says AI is needed to counter drone threats",
+"url": "https://www.nextgov.com/emerging-tech/2026/04/ai-capabilities-are-needed-counter-drone-threats-senator-says/412987/",
+"date": "2026-04-20",
+"quote": "When you see a swarm of drones coming in, AI can identify what maybe the pattern is there, and then allow our drones to identify that pattern and how they should respond to it",
+"what_it_shows": "She wants the military to adopt AI quickly and said being unready for AI-driven warfare means trouble."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Fischer backs targeted rules: she cosponsored the Kids Online Safety Act in two Congresses and bills to keep Chinese-linked tech out of US apps and cars. Mixed note: she also cosponsored the repeal of a rule that let regulators watch big payment apps.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act (119th)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-11-10",
+"quote": null,
+"what_it_shows": "Supports making social media and gaming apps build in safety tools for kids under 17."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1409 Kids Online Safety Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409",
+"date": "2024-04-19",
+"quote": null,
+"what_it_shows": "Backed the kids online safety bill before it passed the Senate 91-3 in July 2024."
+},
+{
+"type": "statement",
+"title": "Nebraska Public Media: Senate passes child online safety legislation co-sponsored by Fischer, Ricketts",
+"url": "https://nebraskapublicmedia.org/en/news/news-articles/us-senate-passes-child-online-safety-legislation-co-sponsored-by-fischer-ricketts/",
+"date": "2024-07-31",
+"quote": null,
+"what_it_shows": "Local coverage confirms she cosponsored KOSA when it passed the Senate; the article quotes Ricketts, not Fischer."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.686 RESTRICT Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-07",
+"quote": null,
+"what_it_shows": "Supported letting the government review and block apps and tech from rival countries like China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-09",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.J.Res.28 disapproving CFPB rule on large digital payment apps",
+"url": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/28",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "Cuts the other way: she helped cancel a rule that let the CFPB supervise big payment apps like Venmo and Apple Pay."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found for or against federal preemption of state AI laws. Her only related action is the near-unanimous July 2025 vote to strip the state AI law moratorium from H.R. 1, which nearly every senator supported and is not evidence of a position by itself.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1 (roll call 363, 99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "She joined 98 other senators in removing the moratorium after the deal collapsed; the vote alone does not show where she stands on preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "No statement found on AI chip export controls or Nvidia sales to China. Her record leans hawkish on Chinese technology in a different way: she cosponsored bills to block Chinese-linked apps and connected cars from the US market.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.686 RESTRICT Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-07",
+"quote": null,
+"what_it_shows": "Supports government power to block technology from adversary nations, the bill behind the TikTok debate."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-09",
+"quote": null,
+"what_it_shows": "Supports keeping Chinese-made connected car tech out of the US; this is about inbound tech, not chip exports."
+}
+]
+}
+},
+"search_notes": "Ran 20+ Google News searches (Fischer + artificial intelligence, AI, data center, ratepayers, chatbot/deepfake, Big Tech/Section 230, Nvidia/export controls/chips, preemption/moratorium, KOSA, TikTok, privacy, AI defense, AI regulation) plus a full listing of fischer.senate.gov archived releases. fischer.senate.gov returns 403 and the Wayback Machine was rate-limiting/refusing connections during this session, so her July 30 2026 hearing release and her Sept 2023 federal data privacy video page could not be opened directly; hearing quotes come from norfolkneradio (reprint of her office release), Network World, MeriTalk and Broadband Breakfast. No data center, preemption or chip export statements found. Her May 2026 Omaha World-Herald China trip op-ed (chadronradio reprint) covered agriculture and fentanyl, not AI or chips."
+},
+{
+"bioguide": "R000618",
+"name": "Pete Ricketts",
+"signature": "Leading Senate Republican for locking in AI chip export limits on China (SAFE Chips Act, MATCH Act); calls data centers a national security need but says communities should demand rate and water protections first; backed by the Anthropic-funded Public First network in 2026.",
+"notable_quote": {
+"text": "When it comes to data centers, local control is the name of the game. If communities are considering a data center, what they should do is negotiate first. They are in charge. They're in the driver's seat.",
+"date": "2026-09-01",
+"url": "https://nebraskapublicmedia.org/en/news/news-articles/money-power-take-center-stage-during-ricketts-and-osborns-state-fair-debate/"
+},
+"groups": [
+"Senate Foreign Relations Subcommittee on East Asia, the Pacific, and International Cybersecurity Policy (Chairman)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Ricketts wants data centers built as part of beating China in AI and welcomed Google's Nebraska investments, but he says towns should be in the driver's seat and should lock in protections for electric rates and water before approving a project. His opponent Dan Osborn says he promotes data centers because he is invested in tech companies.",
+"evidence": [
+{
+"type": "statement",
+"title": "Nebraska Public Media: State Fair debate, Ricketts on data centers and AI",
+"url": "https://nebraskapublicmedia.org/en/news/news-articles/money-power-take-center-stage-during-ricketts-and-osborns-state-fair-debate/",
+"date": "2026-09-01",
+"quote": "When it comes to data centers, local control is the name of the game. If communities are considering a data center, what they should do is negotiate first. They are in charge. They're in the driver's seat.",
+"what_it_shows": "He supports building data centers to beat China in AI but says communities should first secure protections on power rates and water (closed-loop systems) and ask for property tax benefits."
+},
+{
+"type": "interview",
+"title": "KRVN: Ricketts discusses data centers during Broken Bow campaign stop",
+"url": "https://ruralradio.com/krvn/news/ricketts-discusses-data-centers-agriculture-and-rural-development-during-broken-bow-stop/",
+"date": "2026-08-26",
+"quote": "They should decide, before they allow the data center to come in, what they want to be able to get from that data center.",
+"what_it_shows": "He called data centers important for AI competition with China but said conserving water and preventing utility rate increases should be basic requirements; he also pushed federal permitting reform and flagged transformer shortages."
+},
+{
+"type": "statement",
+"title": "Panhandle News Channel Nebraska: Ricketts classifies AI data centers as matter of national security; welcomes local zoning safeguards",
+"url": "https://panhandle.newschannelnebraska.com/story/322177873/ricketts-classifies-ai-data-centers-as-matter-of-national-security",
+"date": "2026-07-08",
+"quote": null,
+"what_it_shows": "Headline and subhead say he frames AI data centers as national security while welcoming local zoning safeguards; the article body did not load."
+},
+{
+"type": "statement",
+"title": "Google press release (chadronradio reprint): Google invested more than $930 million in Nebraska in 2024",
+"url": "https://chadronradio.com/google-invested-more-than-930-million-in-nebraska-in-2024/",
+"date": "2024-11-26",
+"quote": "Google’s investment in Nebraska’s technology infrastructure, including AI, gives us a competitive global advantage",
+"what_it_shows": "He celebrated Google's data center and AI infrastructure spending in Nebraska as the jobs of the future."
+},
+{
+"type": "other",
+"title": "Osborn campaign release (chadronradio): Dan Osborn calls out Pete Ricketts' corruption at State Fair debate",
+"url": "https://chadronradio.com/dan-osborn-calls-out-pete-ricketts-corruption-at-state-fair-debate/",
+"date": "2026-09-02",
+"quote": "Ricketts is invested in tech companies, so he happily promotes building data centers.",
+"what_it_shows": "His opponent attacks him as pro-data-center because of his tech holdings and his 2017 recruitment of Facebook's Papillion data center as governor; this is a campaign claim, not Ricketts' words."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Ricketts backs specific guardrails: he wrote a 2023 bill requiring watermarks on AI-generated content, cosponsored the GUARD Act to keep kids away from AI companion chatbots, and warns about deepfakes. At the same time he frames AI mainly as a race with China and says the job is to let American innovators innovate, so his record is targeted rules rather than broad regulation.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Ricketts introduces bill to combat deepfakes, require watermarks on AI-generated content",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-introduces-bill-to-combat-deepfakes-require-watermarks-on-a-i-generated-content",
+"date": "2023-09-12",
+"quote": "Deepfakes generated by artificial intelligence can ruin lives, impact markets, and even influence elections. We must take these threats seriously.",
+"what_it_shows": "He sponsored a mandatory watermark requirement on AI-generated content enforced by the FTC, a binding transparency rule."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3062 GUARD Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"date": "2026-03-05",
+"quote": null,
+"what_it_shows": "Supports requiring AI chatbot companies to verify ages and keep minors away from AI companion bots."
+},
+{
+"type": "hearing",
+"title": "Fox News (Ricketts site repost): China aiming for chaos and confusion by weaponizing AI, warns GOP senator",
+"url": "https://www.ricketts.senate.gov/news/in-the-news/china-aiming-for-chaos-and-confusion-by-weaponizing-ai-warns-gop-senator",
+"date": "2023-05-04",
+"quote": "Deep fakes are the newest chapter in disinformation operations used to weaken the United States and our allies. We must remain vigilant. We must develop a cross-government strategy to combat these threats.",
+"what_it_shows": "He treats AI deepfakes as a national security threat that needs a government strategy."
+},
+{
+"type": "statement",
+"title": "Press release: Ricketts at AI+ Expo: Innovation and adoption is the key to AI competition for America",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-at-ai-expo-innovation-and-adoption-is-the-key-to-ai-competition-for-america",
+"date": "2025-06-04",
+"quote": "What we have to do is create an environment where American innovators are the ones who can continue to innovate",
+"what_it_shows": "Cuts the other way: he frames AI as a contest with China's state-run system and stresses innovation and adoption over new rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1110 Leveraging Artificial Intelligence to Streamline the Code of Federal Regulations Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1110",
+"date": "2025-04-04",
+"quote": null,
+"what_it_shows": "Wants the government to use AI to find outdated federal rules; shows enthusiasm for AI as a deregulation tool."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Ricketts co-led the Kids Online Safety Act and cosponsored the EARN IT Act, Protecting Kids on Social Media Act and GUARD Act, saying social media companies should have to prevent harm like every other industry. He also sponsored the repeal of a rule that let the CFPB supervise big payment apps, so he is not a broad Big Tech hawk.",
+"evidence": [
+{
+"type": "statement",
+"title": "Nebraska Public Media: Senate passes child online safety legislation co-sponsored by Fischer, Ricketts",
+"url": "https://nebraskapublicmedia.org/en/news/news-articles/us-senate-passes-child-online-safety-legislation-co-sponsored-by-fischer-ricketts/",
+"date": "2024-07-31",
+"quote": "Companies in every other industry must take steps to prevent users from being hurt",
+"what_it_shows": "He said KOSA holds social media companies to the same standard as other industries and dismissed censorship concerns."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act (119th)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Continues to back the main kids online safety bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1207 EARN IT Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1207",
+"date": "2023-05-10",
+"quote": null,
+"what_it_shows": "Supported stripping platforms' legal shield when they let child abuse material spread."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1291 Protecting Kids on Social Media Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1291",
+"date": "2023-06-07",
+"quote": null,
+"what_it_shows": "Supported age checks, keeping kids under 13 off social media, and limits on algorithmic feeds for teens."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.J.Res.28 disapproving CFPB rule on large digital payment apps",
+"url": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/28",
+"date": "2025-02-27",
+"quote": null,
+"what_it_shows": "Cuts the other way: he led the effort to cancel federal oversight of big payment apps like Venmo and Apple Pay."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-05-19",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and software from companies tied to China and other adversaries."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on whether Washington should override state AI laws. He voted with 98 other senators to strip the state AI law moratorium from H.R. 1 in July 2025, which does not show a position by itself. No reaction found to the Dec 2025 executive order or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1 (roll call 363, 99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Near-unanimous vote after the deal collapsed; not evidence of opposing preemption on its own."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Ricketts wrote the SAFE Chips Act to lock in limits on advanced AI chip sales to China so the White House cannot loosen them, cosponsored the Chip Security Act and AI OVERWATCH Act, and leads the MATCH Act to cut off chipmaking tools. He did lead a 2025 letter asking Commerce to scrap Biden's AI diffusion rule, arguing it hurt US firms selling to allies, but he wanted China restrictions kept.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.3374 SAFE Chips Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3374",
+"date": "2025-12-04",
+"quote": null,
+"what_it_shows": "His bill freezes current limits on advanced AI chip exports to China for 30 months so the administration cannot ease them alone."
+},
+{
+"type": "statement",
+"title": "Al Jazeera: US senators unveil bill to keep Trump from allowing AI chip sales to China",
+"url": "https://www.aljazeera.com/economy/2025/12/4/us-senators-unveil-bill-to-keep-trump-from-allowing-ai-chip-sales-to-china",
+"date": "2025-12-04",
+"quote": "Denying Beijing access to [the best US] AI chips is essential to our national security",
+"what_it_shows": "His statement introducing the SAFE Chips Act; brackets are Al Jazeera's. He led a rare Republican effort to stop the Trump administration from relaxing chip curbs."
+},
+{
+"type": "interview",
+"title": "CNBC Squawk Box: Sen. Ricketts says SAFE Chips Act codifies what the Trump administration's current policy already is",
+"url": "https://www.cnbc.com/video/2025/12/05/sen-ricketts-safe-chips-act-codifies-what-the-trump-administrations-current-policy-already-is.html",
+"date": "2025-12-05",
+"quote": null,
+"what_it_shows": "He went on TV to defend the bill as blocking any easing of AI chip sales to China, including Nvidia's H200."
+},
+{
+"type": "statement",
+"title": "NBC News: Senate bill would ban sale of key AI chipmaking machines to China (MATCH Act)",
+"url": "https://www.nbcnews.com/tech/tech-news/senate-bill-ban-sale-key-ai-chipmaking-machines-china-rcna265186",
+"date": "2026-04-02",
+"quote": "For too long, our export controls have been a patchwork of entity-based restrictions that Beijing easily bypasses using front companies",
+"what_it_shows": "He leads the Senate MATCH Act to bar sales and servicing of chipmaking tools to China and align allies' controls."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1705 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2025-10-30",
+"quote": null,
+"what_it_shows": "Supports location verification on exported advanced chips so they cannot be smuggled to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4456 AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4456",
+"date": "2026-04-30",
+"quote": null,
+"what_it_shows": "Supports giving Congress a say before advanced AI chips are approved for sale to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.765 No DeepSeek on Government Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/765",
+"date": "2025-02-27",
+"quote": null,
+"what_it_shows": "Supports banning the Chinese AI app DeepSeek from government devices."
+},
+{
+"type": "letter",
+"title": "PYMNTS/CPI: Republican lawmakers urge reversal of Biden's AI export controls (Ricketts-led letter to Commerce Secretary Lutnick)",
+"url": "https://www.pymnts.com/cpi-posts/republican-lawmakers-urge-reversal-of-bidens-ai-export-controls/",
+"date": "2025-04-14",
+"quote": "Every day this rule remains in place, American companies face mounting uncertainty, stalled investments, and the risk of losing critical global partnerships that cannot be easily regained",
+"what_it_shows": "Cuts partly the other way: he led seven GOP senators asking Commerce to withdraw Biden's AI diffusion rule, which capped chip sales to many allied countries, while still keeping China from dominating."
+},
+{
+"type": "pac",
+"title": "CNBC: Anthropic gives $20 million to Public First Action, which launched ad buys backing Ricketts",
+"url": "https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html",
+"date": "2026-02-12",
+"quote": "The group has just launched six-figure ad buys to back pro-AI regulation candidates Marsha Blackburn of Tennessee and Pete Ricketts from Nebraska, both Republicans.",
+"what_it_shows": "The Anthropic-funded pro-guardrails network chose him for one of its first ad buys, citing his bill to limit advanced chip sales to China."
+},
+{
+"type": "pac",
+"title": "Transformer AI campaign finance tracker: NE Senate race",
+"url": "https://elections.transformernews.ai/races/ne-s",
+"date": "2026-09-12",
+"quote": null,
+"what_it_shows": "FEC data show Defending Our Values PAC (the Republican arm of the Public First network) spent $274,485 supporting Ricketts in the primary, which he won; Google and Microsoft employees gave $18,500 and $13,600."
+},
+{
+"type": "pac",
+"title": "Osborn campaign release (chadronradio): Dan Osborn calls out Big Tech super PAC propping up Pete Ricketts",
+"url": "https://chadronradio.com/dan-osborn-calls-out-big-tech-super-pac-propping-up-deeply-unpopular-pete-ricketts/",
+"date": "2026-02-18",
+"quote": "It’s no surprise Pete Ricketts is being propped up by an A.I. tech company",
+"what_it_shows": "His independent opponent attacked the Anthropic-backed $200,000 ad buy as Big Tech buying Senate votes on AI policy."
+}
+]
+}
+},
+"search_notes": "Ran 25+ Google News searches (Ricketts + artificial intelligence, data center(s), chatbot/deepfake/GUARD Act, Nvidia/export controls/SAFE Chips/H200, MATCH Act, preemption/moratorium, Big Tech/Section 230/KOSA, Public First/Defending Our Values, Osborn super PAC) and two listings of ricketts.senate.gov archived releases. ricketts.senate.gov returns 403 and Wayback was refusing connections, so the SAFE Chips, diffusion rule letter, Dec 3 2025 AI leadership hearing, MATCH Act, and KOSA passage releases plus his Aug 10 2026 MATCH Act op-ed could not be opened; quotes for those items come from Al Jazeera, NBC News, PYMNTS/CPI and Nebraska Public Media. Two Ricketts site pages did load via cached copies (watermark bill 2023, AI+ Expo 2025, Fox 2023 repost). Panhandle NCN data center story body did not render. Flatwater Free Press, Politico, Reuters and Central Nebraska Today were blocked. No GUARD Act statement or preemption statement found. Subcommittee chairmanship is from the committee roster plus the title of his Dec 2025 hearing release."
+},
+{
+"bioguide": "F000474",
+"name": "Mike Flood",
+"signature": "Hosts the Flyover Fintech conference in Lincoln, promotes AI in banking and housing, and in Sept 2026 cosponsored the Ratepayer Protection Act on data center power costs.",
+"notable_quote": {
+"text": "Artificial intelligence (AI) is reshaping the future of virtually every aspect of life, including banking",
+"date": "2025-09-02",
+"url": "https://flood.house.gov/media/blog-post/congressman-flood-announces-flyover-fintech-panel-ai-and-banking"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Flood cosponsored the Ratepayer Protection Act on Sept 10, 2026, a bill meant to keep families' electric bills from rising to pay for power that data centers need. No speech, press release or interview from him on data centers was found, even though Google runs data centers in his Lincoln-area district.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.9340 Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "Signed onto the leading House bill to make data centers cover the cost of new power rather than ordinary ratepayers."
+},
+{
+"type": "other",
+"title": "Benzinga (TradingView): House Republicans move to bring the Ratepayer Protection Act to the floor",
+"url": "https://www.tradingview.com/news/benzinga:2eac767c6094b:0-trump-backs-data-centers-now-house-republicans-are-moving-to-stop-them-from-driving-up-americans-electricity-bills/",
+"date": "2026-09-11",
+"quote": null,
+"what_it_shows": "The bill he joined is set for a House vote the week of Sept 14, 2026; it would have state regulators consider rules making data centers pay for new generation."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "Flood promotes AI as a positive force in banking, lending and housing through his Flyover Fintech conference, and a reporter summarized him and Rep. Bryan Steil as favoring regulating AI through existing anti-discrimination law rather than new duplicative rules. He has backed study bills on AI bank scams and AI education, not binding AI safety rules.",
+"evidence": [
+{
+"type": "interview",
+"title": "Silicon Prairie News: From AI to stablecoins, Flyover Fintech positions Nebraska as a fintech player",
+"url": "https://siliconprairienews.com/2025/09/from-ai-to-stablecoins-flyover-fintech-positions-nebraska-as-a-fintech-player/",
+"date": "2025-09-26",
+"quote": "Certainty builds markets. Certainty grows wealth.",
+"what_it_shows": "In a fireside chat, the reporter says Flood and Steil stressed regulating AI through existing anti-discrimination frameworks rather than creating duplicative rules."
+},
+{
+"type": "statement",
+"title": "Blog post: Congressman Flood announces Flyover Fintech panel on AI and Banking",
+"url": "https://flood.house.gov/media/blog-post/congressman-flood-announces-flyover-fintech-panel-ai-and-banking",
+"date": "2025-09-02",
+"quote": "Artificial intelligence (AI) is reshaping the future of virtually every aspect of life, including banking",
+"what_it_shows": "He showcases companies using AI to expand credit and fight fraud, an upbeat framing with no call for new limits."
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Flood announces Flyover Fintech panel on AI & Housing",
+"url": "https://flood.house.gov/media/press-releases/congressman-flood-announces-flyover-fintech-panel-ai-housing",
+"date": "2024-09-12",
+"quote": "Artificial intelligence is changing the world, including the future of home ownership and renting",
+"what_it_shows": "He presents AI as a way to break down barriers to homeownership."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.1734 Preventing Deep Fake Scams Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1734",
+"date": "2025-02-27",
+"quote": null,
+"what_it_shows": "Co-led with Rep. Pettersen a bill creating a task force to study AI deepfake scams at banks; a study, not a mandate."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.5351 NSF AI Education Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
+"date": "2026-04-20",
+"quote": null,
+"what_it_shows": "Supports federal scholarships and training so more people learn AI."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.8671 Bank Fraud Technology Advancement Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8671",
+"date": "2026-05-07",
+"quote": null,
+"what_it_shows": "His bill asks bank regulators to study how banks use AI and other tech to catch fraud."
+}
+]
+},
+"tech_regulation": {
+"score": 1,
+"confidence": "low",
+"summary": "Flood voted to cancel a rule letting the CFPB supervise big payment apps and uses his fintech conference to call for regulatory certainty for the industry. He has not backed the major kids online safety or Big Tech antitrust bills, though he did cosponsor a bill letting investigators use face-matching to identify abused children.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on S.J.Res.28 disapproving CFPB rule on large digital payment apps (House roll call 95, 219-211)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h95",
+"date": "2025-04-09",
+"quote": null,
+"what_it_shows": "He voted with all Republicans to strip federal oversight of big payment apps like Venmo and Apple Pay."
+},
+{
+"type": "interview",
+"title": "Silicon Prairie News: Flood fireside chat with Rep. Bryan Steil at Flyover Fintech",
+"url": "https://siliconprairienews.com/2025/09/from-ai-to-stablecoins-flyover-fintech-positions-nebraska-as-a-fintech-player/",
+"date": "2025-09-26",
+"quote": "Certainty builds markets. Certainty grows wealth.",
+"what_it_shows": "He frames tech policy around giving fintech firms regulatory certainty and bipartisan support for innovation."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6998 Renewed Hope Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6998",
+"date": "2026-03-25",
+"quote": null,
+"what_it_shows": "Supports letting investigators use facial recognition to identify children in abuse images."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws. He did not sign the Nov 2025 Matsui or Dec 2025 Clarke letters (Democratic letters) and no reaction from him to the Dec 2025 executive order or March 2026 White House framework was found.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China. In 2022 he asked the Commerce Department to investigate Huawei gear in Nebraska cell towers and called for protecting intellectual property from China, but that concerns Chinese tech coming in, not chips going out.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Congressman Flood: Xi grabbing more power as de facto emperor of China",
+"url": "https://flood.house.gov/media/press-releases/congressman-flood-xi-grabbing-more-power-de-facto-emperor-china-0",
+"date": "2022-10-24",
+"quote": "the United States must be strategic and take action to re-shore supply chains, protect our intellectual property, and strengthen our ability to defend our interests in the Pacific Rim",
+"what_it_shows": "General China hawkishness and a Huawei cell tower letter; nothing specific on AI chip exports."
+}
+]
+}
+},
+"search_notes": "Ran 15+ Google News searches (Flood + artificial intelligence, AI, data center(s), Ratepayer Protection Act, electricity bills, chatbot/deepfake/Big Tech, Nvidia/export controls, preemption/moratorium, Financial Services AI working group) plus a listing of flood.house.gov archived releases and his committees page. Found no Flood statement on the Ratepayer Protection Act or data centers; the July 28 2026 KLKN town hall story and Aug 2026 Washington Post chatbots story could not be opened (Google News URL decoding stopped working mid-session). The landscape lead that he sat on the House Financial Services bipartisan AI Working Group (118th) could not be confirmed at a URL (committee release and Husch Blackwell pages unavailable), so it is not listed. Pettersen's Feb 2025 deepfake scams release was not reachable; the cosponsorship is from the official record. flood.house.gov pages loaded fine."
+},
+{
+"bioguide": "B001298",
+"name": "Don Bacon",
+"signature": "Retiring chairman of the House Armed Services cyber and innovation subcommittee; China hawk on AI chips who called Nvidia sales to China a mistake and co-led the letter to Musk over Grok's antisemitic posts.",
+"notable_quote": {
+"text": "We’ve got to realize we’re in an intellectual war, a technology war with China, and we’re in an AI competition. Having Nvidia providing this technology to China is a mistake",
+"date": "2025-08-13",
+"url": "https://thehill.com/homenews/administration/5449275-us-china-ai-chip-deal/"
+},
+"groups": [
+"House Armed Services Subcommittee on Cyber, Information Technologies, and Innovation (Chairman)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Bacon welcomed Google's data center and AI investments in Nebraska as good for national security and innovation. No statements found from him on data center power bills, water or the Nebraska county moratoriums.",
+"evidence": [
+{
+"type": "statement",
+"title": "Google press release (chadronradio reprint): Google invested more than $930 million in Nebraska in 2024",
+"url": "https://chadronradio.com/google-invested-more-than-930-million-in-nebraska-in-2024/",
+"date": "2024-11-26",
+"quote": "The importance of innovation in national security and AI between the public and private sectors cannot be understated, and we’re working on that right here in Nebraska.",
+"what_it_shows": "He called Google a powerful driver for secure US infrastructure and thanked it for continued data center investments in Nebraska."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Bacon co-led a bipartisan letter demanding answers from Elon Musk after the Grok chatbot posted antisemitic content, cosponsored a commission to study AI and child exploitation, and warns that AI is making cyberattacks faster while the government cuts CISA. As a defense subcommittee chairman he also pushes the Pentagon to adopt new technology faster, so his guardrails are targeted, not sweeping.",
+"evidence": [
+{
+"type": "letter",
+"title": "Gottheimer release: bipartisan letter to Elon Musk over Grok AI's antisemitic and violent posts, co-led by Bacon",
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-bipartisan-colleagues-sound-the-alarm-over-grok-ais-antisemitic-and-violent-posts",
+"date": "2025-07-11",
+"quote": "That your work product Grok would embrace Hitler and his ideology marks a new low for AI development and a profound betrayal of public trust.",
+"what_it_shows": "He led a letter holding an AI company accountable for its chatbot's harmful output and asking what internal decisions caused it."
+},
+{
+"type": "statement",
+"title": "MeriTalk: Bacon, Walkinshaw push Congress to strengthen CISA amid rising AI cyber threats",
+"url": "https://www.meritalk.com/articles/bacon-walkinshaw-push-congress-to-strengthen-cisa-amid-rising-ai-cyber-threats/",
+"date": "2026-05-21",
+"quote": "Instead of cutting CISA, we should be expanding CISA’s capabilities to protect our domestic, our non-military cyber systems",
+"what_it_shows": "He treats AI-accelerated cyberattacks as a serious threat that needs more government defensive capacity."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.8005 Child Exploitation and Artificial Intelligence Expert Commission Act of 2024 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8005",
+"date": "2024-04-15",
+"quote": null,
+"what_it_shows": "Supported an expert commission on how AI is used to exploit children."
+},
+{
+"type": "other",
+"title": "MeriTalk: House unveils $1.15 trillion defense bill for fiscal 2027 (CITI subcommittee AI provisions)",
+"url": "https://www.meritalk.com/articles/house-unveils-1-15-trillion-defense-bill-for-fiscal-2027/",
+"date": "2026-05-27",
+"quote": "the bill directs the creation of an AI incident and vulnerability reporting program to report, track, analyze, and remediate AI-related incidents and vulnerabilities",
+"what_it_shows": "The subcommittee he chairs wrote NDAA provisions for AI incident reporting alongside a framework to deploy AI models faster at the Pentagon."
+},
+{
+"type": "interview",
+"title": "Breaking Defense: Who's Who in Defense, Don Bacon, CITI subcommittee chairman",
+"url": "https://breakingdefense.com/2025/08/whos-who-in-defense-don-bacon-chairman-house-armed-services-subcommittee-hasc-on-cyber-innovative-technologies-and-information-systems/",
+"date": "2025-08-07",
+"quote": "Time and time again, DoD and Congress reinvent the wheel with strategies and roadmaps for critical technology areas, and what do we really have to show for it?",
+"what_it_shows": "Cuts the other way: he is impatient with studies and wants faster production and fielding of new technology, including AI, at the Pentagon."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Bacon co-introduced the STOP HATE Act to make social media companies report and act on terrorist and extremist content, cosponsored a bill making online companies report child abuse material more fully, and joined the Grok letter to Musk. He also voted to cancel CFPB oversight of big payment apps.",
+"evidence": [
+{
+"type": "statement",
+"title": "Gottheimer release: Gottheimer, Bacon, ADL announce STOP HATE Act to combat terrorists and disinformation on social media",
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-bacon-adl-announce-legislation-to-combat-terrorists-disinformation-on-social-media",
+"date": "2025-07-24",
+"quote": "We need to hold these companies accountable and work with them to take it off the airwaves.",
+"what_it_shows": "He co-introduced a bill requiring platforms to report violations of their own terms of service on terrorist content, with penalties."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.5182 Child Online Safety Modernization Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2023-08-08",
+"quote": null,
+"what_it_shows": "Supported stronger reporting duties for online companies on child abuse material."
+},
+{
+"type": "letter",
+"title": "Gottheimer release: bipartisan letter to Elon Musk over Grok AI's antisemitic posts, co-led by Bacon",
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-bipartisan-colleagues-sound-the-alarm-over-grok-ais-antisemitic-and-violent-posts",
+"date": "2025-07-11",
+"quote": null,
+"what_it_shows": "Pressed X and xAI on their record of letting antisemitism spread, an accountability push aimed at a major platform."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on S.J.Res.28 disapproving CFPB rule on large digital payment apps (House roll call 95, 219-211)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h95",
+"date": "2025-04-09",
+"quote": null,
+"what_it_shows": "Cuts the other way: he voted to strip federal supervision of big payment apps."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws, the Dec 2025 executive order or the March 2026 White House framework. Searches for Bacon with state AI laws, preemption and moratorium returned nothing relevant.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Bacon says letting Nvidia sell AI chips to China is a mistake in a technology war, and he cosponsored both the Chip Security Act (location tracking on exported chips) and the AI OVERWATCH Act (Congress can block chip sales to China).",
+"evidence": [
+{
+"type": "interview",
+"title": "The Hill: Trump's China deal on AI chips prompts significant security concerns (Bacon on NewsNation)",
+"url": "https://thehill.com/homenews/administration/5449275-us-china-ai-chip-deal/",
+"date": "2025-08-13",
+"quote": "We’ve got to realize we’re in an intellectual war, a technology war with China, and we’re in an AI competition. Having Nvidia providing this technology to China is a mistake",
+"what_it_shows": "He publicly opposed the Trump administration's deal allowing Nvidia and AMD AI chip sales to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3447 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2026-05-12",
+"quote": null,
+"what_it_shows": "Supports built-in location verification on advanced AI chips to catch smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6875 AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-05-14",
+"quote": null,
+"what_it_shows": "Supports giving Congress power to block advanced AI chip sales to China and other risky countries."
+}
+]
+}
+},
+"search_notes": "Ran 15+ Google News searches (Bacon + artificial intelligence, data center(s), Nvidia/export controls/chips, chatbot/deepfake/Big Tech, preemption/moratorium, CITI NDAA AI, AI Pentagon/national security, Grok/Musk, Google Lincoln/Omaha data center, Anthropic, CISA). bacon.house.gov had no archived AI/tech releases. Nebraska Examiner pages (Jan 2025 Lindstrom commentary quoting Bacon on Google, July 2025 Grok probe story) were blocked; the same Bacon quote was verified in Google's Nov 2024 press release reprinted by chadronradio, and the Grok letter was verified on Gottheimer's site. Nextgov June 30 2026 'fetishization of Silicon Valley startups' story and UNO NCITE Sept 2026 AI demonstration story could not be opened (URL decoding failed). No preemption or data center power statements found."
+},
+{
+"bioguide": "S001172",
+"name": "Adrian Smith",
+"signature": "Ways and Means Trade Subcommittee chairman who fights foreign digital taxes and EU-style rules aimed at US tech companies; little else on AI beyond a bill to study AI at the IRS.",
+"notable_quote": {
+"text": "When we create an environment conducive to innovation, all sectors succeed.",
+"date": "2026-01-16",
+"url": "https://waysandmeans.house.gov/2026/01/16/four-key-moments-hearing-on-maintaining-american-innovation-and-technology-leadership/"
+},
+"groups": [
+"House Ways and Means Subcommittee on Trade (Chairman)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on data centers as of Sept 2026. His only mention was describing digital exports as moving through fiber and data centers rather than ports, in a January 2026 trade hearing. Searches with data center, ratepayer and electricity terms found nothing else.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Broadband Breakfast: Lawmakers warn digital trade rules will shape US AI leadership",
+"url": "https://broadbandbreakfast.com/lawmakers-warn-digital-trade-rules-will-shape-u-s-ai-leadership/",
+"date": "2026-01-14",
+"quote": "through fiber and data centers rather than ports and containers",
+"what_it_shows": "He mentioned data centers only as the infrastructure carrying US digital exports, not as a policy issue."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI safety rules. His only AI bill is a cosponsorship of the DETECT Act, which asks for a study on using AI to catch tax cheats, and his hearing remarks are about protecting US innovation from foreign taxes.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.4974 DETECT Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4974",
+"date": "2025-08-26",
+"quote": null,
+"what_it_shows": "Supports studying whether AI could help the IRS catch tax fraud; neutral on AI rules."
+},
+{
+"type": "hearing",
+"title": "Ways and Means: Four key moments from hearing on maintaining American innovation and technology leadership",
+"url": "https://waysandmeans.house.gov/2026/01/16/four-key-moments-hearing-on-maintaining-american-innovation-and-technology-leadership/",
+"date": "2026-01-16",
+"quote": "When we create an environment conducive to innovation, all sectors succeed.",
+"what_it_shows": "As Trade Subcommittee chairman he frames technology policy around innovation and trade, with no mention of AI risks."
+}
+]
+},
+"tech_regulation": {
+"score": 1,
+"confidence": "low",
+"summary": "Smith repeatedly defends US tech companies against foreign regulation, calling the EU's Digital Markets Act blatantly discriminatory and leading letters against Japan, South Korea and Brazil rules that target American digital firms. He also voted to cancel CFPB oversight of big payment apps. This is a pro-industry lean drawn from trade fights; no domestic Big Tech bills either way were found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Smith, Miller ask Trump administration to address digital trade barriers with South Korea (letter with 41 colleagues)",
+"url": "https://adriansmith.house.gov/media/press-releases/smith-miller-ask-trump-administration-address-digital-trade-barriers-south",
+"date": "2025-06-30",
+"quote": "The legislation mirrors the European Union’s blatantly discriminatory Digital Markets Act and would impose disparate legal and enforcement standards designed to undermine innovative business models and disadvantage successful American companies.",
+"what_it_shows": "He opposes Korean platform rules modeled on the EU's Big Tech law and criticizes aggressive competition enforcement against US firms."
+},
+{
+"type": "letter",
+"title": "Press release: Smith, colleagues urge President to address digital trade barriers in Japan",
+"url": "https://adriansmith.house.gov/media/press-releases/smith-colleagues-urge-president-address-digital-trade-barriers-japan",
+"date": "2025-10-27",
+"quote": "Japan’s Mobile Software Competition Act (MSCA) targets solely U.S. companies for special rules and obligations that restrict how these companies can conduct business and interact with customers in Japan",
+"what_it_shows": "Led 20 House Republicans against Japan's app store competition law, which he ties to the EU's problematic DMA."
+},
+{
+"type": "letter",
+"title": "Chadronradio: Smith leads effort to address Brazil's discriminatory digital regulations (letter with Jim Jordan and 18 colleagues)",
+"url": "https://chadronradio.com/smith-leads-effort-to-address-brazils-discriminatory-digital-regulations/",
+"date": "2026-07-24",
+"quote": "would empower foreign bureaucrats to dictate changes to the business model of our leading companies, and potentially force them to relinquish valuable intellectual property",
+"what_it_shows": "He asked USTR to act against a Brazilian digital platform law he says undermines America's global technological leadership."
+},
+{
+"type": "statement",
+"title": "Press release: Smith statement on Canada's rescission of digital services tax",
+"url": "https://adriansmith.house.gov/media/press-releases/smith-statement-canadas-rescission-digital-services-tax",
+"date": "2025-06-30",
+"quote": "the DST was discriminatory toward American job creators and contrary to Canada's USMCA commitments",
+"what_it_shows": "He celebrated Canada dropping its tax on US digital companies as a fair deal for world-leading digital providers."
+},
+{
+"type": "statement",
+"title": "Press release: Smith: Aggressive engagement is critical to get a fair deal in digital trade",
+"url": "https://adriansmith.house.gov/media/press-releases/smith-aggressive-engagement-critical-get-fair-deal-digital-trade",
+"date": "2025-02-21",
+"quote": "To continue leading the world in innovation, we must compete on equal footing with our trade partners.",
+"what_it_shows": "He backed Trump's executive order targeting foreign digital taxes and regulations on American tech."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on S.J.Res.28 disapproving CFPB rule on large digital payment apps (House roll call 95, 219-211)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h95",
+"date": "2025-04-09",
+"quote": null,
+"what_it_shows": "He voted to strip federal supervision of big payment apps like Venmo and Apple Pay."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws, the Dec 2025 executive order or the March 2026 White House framework. Searches for Smith with state AI laws, preemption and moratorium returned no results.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China. He has pushed tax breaks for rare earth mining and warned that weak digital trade policy cedes leadership to the Chinese Communist Party, but nothing on chips.",
+"evidence": []
+}
+},
+"search_notes": "Ran 15+ Google News searches (Smith + artificial intelligence, Nebraska AI congressman, data center(s), Nvidia/export controls/chips/semiconductor, chatbot/deepfake/Big Tech/Section 230, preemption/moratorium, AI tax/Ways and Means technology, digital trade/digital services tax, Korea platform law, DETECT Act) plus a listing of adriansmith.house.gov archived releases; most name hits were for the Iron Maiden guitarist or the architect. Opened five of his digital trade releases and the Ways and Means hearing summary. Reuters July 21 2026 story on the EU tech rules letter and the Nebraska Examiner rare earth story were blocked; FedScoop DETECT Act story and Vern Buchanan's release could not be located. No data center, AI safety, preemption or chip export statements found."
+}
+]

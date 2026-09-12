@@ -1,0 +1,138 @@
+[
+{
+"bioguide": "E000246",
+"checks": [
+{
+"url": "https://spectrumlocalnews.com/nc/charlotte/news/2026/07/23/data-center-moratorium-cooper-whatley",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Page (published 2026-07-23) contains the quote verbatim and says Democratic opponent Jamie Ager backs a 'short term moratorium on new data centers until we have clear rules in place.' Note this is a non-response, not a position statement by Edwards."
+},
+{
+"url": "https://edwards.house.gov/media/press-releases/edwards-introduces-bill-protect-americans-online-privacy-and-data",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-06-22",
+"note": "Quote appears verbatim in Edwards' statement on the bipartisan DELETE Act (with Rep. Trahan), published 2023-06-22. Bill creates a centralized deletion request to data brokers and a do-not-track list."
+},
+{
+"url": "https://edwards.house.gov/media/opinion-editorials/rep-chuck-edwards-says-traditional-social-media-can-amplify-political",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-20",
+"note": "Quote appears verbatim in the Citizen Times op-ed (posted 2025-04-20). The piece uses 'should' language directed at social media, journalists and readers; no legislation or mandate is proposed, so the claim's characterization is accurate."
+},
+{
+"url": "https://edwards.house.gov/media/press-releases/edwards-introduces-bill-protect-americans-online-privacy-and-data",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-06-22",
+"note": "Same press release as item 2; quote verbatim."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only data-center source is a campaign non-response to a survey. A refusal to answer is not evidence of a 'Build with conditions' stance; nothing here shows Edwards' actual position on data center buildout, ratepayers, or a moratorium.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "None of the four sources concern AI risk or AI safety regulation at all (data privacy bill, media/algorithm op-ed, data-center survey non-response). The evidence is too thin to place him at 'Targeted guardrails'.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "A000370",
+"checks": [
+{
+"url": "https://www.route-fifty.com/artificial-intelligence/2026/06/lawmakers-wrestle-ais-opportunities-challenges-higher-education/414054",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-09",
+"note": "Article (published 2026-06-09) names Rep. Alma Adams as subcommittee ranking member, quotes her opening statement verbatim: 'We need strong guardrails and infrastructure that match the scale of this technological shift.' Also says she called current federal AI policy 'moving us in the wrong direction' and that others said the federal government should play a stronger oversight role, with her statement calling to restore federal ed-tech leadership. Claim fully supported."
+},
+{
+"url": "https://www.route-fifty.com/artificial-intelligence/2026/06/lawmakers-wrestle-ais-opportunities-challenges-higher-education/414054",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-09",
+"note": "Quote appears verbatim in the article: 'It means establishing clear accountability standards around transparency, data protection, auditing, and oversight for AI systems used in higher education.' Followed by call for coordinated federal guidance. Supports targeted-rules characterization."
+},
+{
+"url": "https://www.route-fifty.com/artificial-intelligence/2026/06/lawmakers-wrestle-ais-opportunities-challenges-higher-education/414054",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-09",
+"note": "Article: Adams said federal AI policy is 'moving us in the wrong direction,' including by cutting jobs at the Department of Education and its Office of Civil Rights; her statement calls for rebuilding OCR's capacity so complaints involving AI discrimination and data misuse can be investigated, and for data protection standards. Claim matches."
+},
+{
+"url": "https://www.route-fifty.com/artificial-intelligence/2026/06/lawmakers-wrestle-ais-opportunities-challenges-higher-education/414054",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-09",
+"note": "Headline quote appears verbatim, attributed to Adams' opening statement at the June 2026 House Higher Education subcommittee hearing."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "None of the listed sources mention data centers, energy, or ratepayers; the only evidence is a higher-education AI hearing. A -1 'Protect ratepayers first' score has no supporting item in this record, so the evidence is too thin for a position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "M001236",
+"checks": [
+{
+"url": "https://timmoore.house.gov/media/press-releases/congressman-tim-moore-introduces-bill-expand-american-nuclear-leadership-and",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Quote appears verbatim in Moore's statement on the Next Generation Nuclear Deployment Act; AI is named as one use case for new nuclear power. Page dated Dec 18, 2025."
+},
+{
+"url": "https://timmoore.house.gov/media/press-releases/congressman-tim-moore-introduces-army-quantum-readiness-act-advance-military",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-21",
+"note": "Quote appears verbatim; release describes H.R. 10130 covering quantum computing, sensing, networking and quantum-enabled AI for the Army. Framing is competitiveness/military adoption; the page says nothing about AI regulation either way."
+},
+{
+"url": "https://lawler.house.gov/news/documentsingle.aspx?documentid=6035",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-09",
+"note": "Quote appears verbatim as the lawmakers' letter text. Moore is listed first among the additional signers; release says Lawler led the letter with 18 colleagues and notes AI and voice-cloning advances have made scams more sophisticated, urging clear and enforceable FCC standards."
+},
+{
+"url": "https://timmoore.house.gov/media/press-releases/congressman-tim-moore-introduces-critical-minerals-trade-security-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-12",
+"note": "Quote appears verbatim. Release concerns critical minerals supply chains and a USTR negotiator post; it does not mention China by name (says 'adversarial nations') and says nothing about AI chips, consistent with the item's own caveat that it sets no chips score."
+},
+{
+"url": "https://timmoore.house.gov/media/press-releases/congressman-tim-moore-introduces-bill-expand-american-nuclear-leadership-and",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Same page as item 1; quote verbatim."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only ai_risk source is a press release on an Army quantum-readiness bill that mentions quantum-enabled AI as a military technology to adopt. It contains no position on AI safety rules, guardrails, or regulation of civilian AI, so it does not support a 'Light touch' score; the evidence is too thin to place him on the scale.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]
