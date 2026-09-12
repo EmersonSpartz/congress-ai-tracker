@@ -3,6 +3,7 @@
   'use strict';
   const $ = (sel, el) => (el || document).querySelector(sel);
   const app = $('#app');
+  // BUILD_STAMP is replaced by build.py with a content hash so browsers refetch data.json after each deploy.
   let D = null; // data
   let byId = {};
   const DIMS = () => D.dimensions;
@@ -438,7 +439,8 @@
   }
 
   // ---------- boot
-  fetch('data.json').then(r => r.json()).then(data => {
+  const DATA_URL = 'data.json?v=21ad678454';
+  fetch(DATA_URL).then(r => r.json()).then(data => {
     D = data;
     D.members.forEach(m => { byId[m.id] = m; });
     $('#foot-updated').textContent = `Data updated ${fmtDate(D.generated)} · ${D.members.length} members · ${Object.keys(D.bills).length} bills · ${D.votes.length} key votes`;

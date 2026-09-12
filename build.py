@@ -279,8 +279,21 @@ def main():
         'votes': votes_out, 'bills': bills_out, 'members': out_members, 'stats': stats,
         'landscape': {'explainers': landscape.get('explainers', {})},
     }
+    payload = json.dumps(data, ensure_ascii=False, separators=(',', ':'))
     with open(os.path.join(SITE, 'data.json'), 'w') as f:
-        json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
+        f.write(payload)
+    import hashlib
+    stamp = hashlib.sha1(payload.encode('utf-8')).hexdigest()[:10]
+    js_path = os.path.join(SITE, 'app.js')
+    js = open(js_path).read()
+    js = re.sub(r"data\.json\?v=[A-Za-z0-9_]+", f"data.json?v={stamp}", js)
+    open(js_path, 'w').write(js)
+    idx_path = os.path.join(SITE, 'index.html')
+    idx = open(idx_path).read()
+    idx = re.sub(r'app\.js(\?v=[A-Za-z0-9_]+)?', f'app.js?v={stamp}', idx)
+    idx = re.sub(r'styles\.css(\?v=[A-Za-z0-9_]+)?', f'styles.css?v={stamp}', idx)
+    open(idx_path, 'w').write(idx)
+    print('build stamp', stamp)
     print(f"wrote docs/data.json: {len(out_members)} members, {len(bills_out)} bills, {len(votes_out)} key votes, {len(research)} researched, {len(verification)} verified")
     print('stats', json.dumps(stats))
 
