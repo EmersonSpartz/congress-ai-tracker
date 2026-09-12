@@ -1,0 +1,547 @@
+[
+{
+"bioguide": "H001061",
+"name": "John Hoeven",
+"signature": "Energy-first senator who sponsors the GRID Power Act to fast-track baseload power for rising demand and cosponsors the Kids Online Safety Act; no notable AI-specific record found.",
+"notable_quote": {
+"text": "This legislation takes responsible, measured steps to hold online platforms accountable for the content that minors can access on their sites, while better empowering parents to ensure their children remain safe online.",
+"url": "https://www.hoeven.senate.gov/news/news-releases/hoeven-senate-passes-legislation-to-enhance-safety-privacy-of-minors-online",
+"date": "2024-07-31"
+},
+"groups": [],
+"search_notes": "About 16 Google News queries (Hoeven + AI, data centers, GRID Power Act, chatbot/deepfake/KOSA, Big Tech/Section 230/TikTok, Nvidia/export controls, AI moratorium/preemption, ratepayers, autonomous/drones, FERC large load, Applied Digital/Ellendale) plus two Wayback listings of hoeven.senate.gov and fetches of about 10 pages. His AI-adjacent record is almost entirely energy (baseload power, transmission cost allocation) and drones (Project ULTRA, counter-UAS). Daily Energy Insider's July 2026 summary of the Senate ENR hearing with FERC commissioners on large-load interconnection was blocked (403, no archive), so any Hoeven questions there are unverified. Reuters' Nov 2025 story on GOP lawmakers applauding the Nvidia chip hold was blocked; no evidence he was quoted. No statements found on AI safety, state AI law preemption, or chip export controls.",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Hoeven has not spoken directly about data centers in anything we found. His related record is pro-build: he sponsors a bill to move coal, gas and nuclear plants to the front of the grid connection line to meet rising demand, and he wants states and existing ratepayers shielded from transmission cost shifts.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Press release: Hoeven, Young introduce GRID Power Act (S. 465) to fast-track baseload power projects",
+"url": "https://www.hoeven.senate.gov/news/news-releases/hoeven-young-introduce-legislation-to-fast-track-development-of-new-baseload-power-projects-to-improve-grid-reliability",
+"date": "2025-02-06",
+"quote": "Our legislation seeks to reverse this trend by empowering grid operators to put baseload power generation projects at the front of the line for approval.",
+"what_it_shows": "His answer to rising electricity demand, which the bill's backers tie to AI data centers, is to build more always-on generation faster."
+},
+{
+"type": "cosponsor",
+"title": "Press release: Cramer, Fedorchak introduce FAIR Act; Hoeven cosponsors the Senate companion (S. 3287)",
+"url": "https://www.cramer.senate.gov/news/press-releases/cramer-fedorchak-introduce-fair-act-to-stop-states-from-being-forced-to-pay-for-other-states-green-energy-mandates",
+"date": "2025-12-02",
+"quote": "North Dakotans shouldn’t be forced to pay higher energy costs to help other states meet their unworkable energy mandates",
+"what_it_shows": "He wants electric bills protected from cost shifting, a ratepayer-first instinct he applies to transmission built for other states rather than to data centers specifically."
+},
+{
+"type": "letter",
+"title": "E&E News: North Dakota delegation letter to FERC on transmission cost allocation; delegation guards state planning authority",
+"url": "https://www.eenews.net/articles/wrights-data-center-push-draws-republican-scrutiny-2/",
+"date": "2025-10-30",
+"quote": null,
+"what_it_shows": "E&E reports Hoeven joined a September 2025 letter urging FERC not to assign regional transmission costs to North Dakotans who do not benefit, and describes the delegation as steadfast in preserving state planning autonomy as Washington pushes faster data center grid hookups."
+},
+{
+"type": "hearing",
+"title": "Press release: Hoeven presses FERC nominees on baseload power and states' rights",
+"url": "https://www.hoeven.senate.gov/news/news-releases/hoeven-stresses-need-for-reliable-baseload-power-and-energy-infrastructure-respect-for-property-rights-at-ferc-nomination-hearing",
+"date": "2025-09-04",
+"quote": "We need policies that support a diverse mix of energy resources to ensure grid stability and resilience, while also respecting the rights of states and private landowners.",
+"what_it_shows": "He ties meeting rising electricity demand to coal-fired baseload power and to respecting state regulators and landowners."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on AI safety, chatbots, deepfakes, or new AI rules as of Sept 2026. We searched his press releases, hearing remarks, and North Dakota news coverage.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Hoeven backs targeted rules for online platforms: he cosponsored the Kids Online Safety Act in two Congresses and called it responsible, measured steps, and he pushed the forced sale of TikTok. No sign he wants broader Big Tech breakups or Section 230 repeal.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (119th S. 1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-09",
+"quote": null,
+"what_it_shows": "He signed on to the main bill making platforms build in safety tools for kids under 17."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (118th S. 1409)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409",
+"date": "2024-07-29",
+"quote": null,
+"what_it_shows": "He also cosponsored the earlier version that passed the Senate in July 2024."
+},
+{
+"type": "statement",
+"title": "Press release: Hoeven on Senate passage of KOSA and COPPA 2.0",
+"url": "https://www.hoeven.senate.gov/news/news-releases/hoeven-senate-passes-legislation-to-enhance-safety-privacy-of-minors-online",
+"date": "2024-07-31",
+"quote": "This legislation takes responsible, measured steps to hold online platforms accountable for the content that minors can access on their sites, while better empowering parents to ensure their children remain safe online.",
+"what_it_shows": "In his own words he supports holding platforms accountable for harms to minors, framed as measured rather than sweeping."
+},
+{
+"type": "interview",
+"title": "KFYR-TV: Where does TikTok stand in the US Senate?",
+"url": "https://www.kfyrtv.com/2024/03/31/where-does-tiktok-stand-us-senate/",
+"date": "2024-03-31",
+"quote": "People will still have their TikTok, it’s just that it should not be owned and controlled by the Chinese Communist Party.",
+"what_it_shows": "He pushed the Senate to pass the forced-sale TikTok bill on national security grounds."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Hoeven voted with 98 colleagues to strip the 10-year moratorium on state AI laws from the 2025 budget bill, but we found no statement, letter, or bill showing where he stands on federal preemption of state AI laws, the December 2025 executive order, or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Nearly every senator voted Yea after the deal collapsed, so this vote alone does not show his view on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on AI chip export controls, the Chip Security Act, or Nvidia sales to China as of Sept 2026. His China-related work has been on TikTok and a Chinese-owned project near Grand Forks Air Force Base, not chips.",
+"evidence": []
+}
+}
+},
+{
+"bioguide": "C001096",
+"name": "Kevin Cramer",
+"signature": "Data center booster who calls AI 'the fourth industrial revolution' and a race with China, wants states to keep grid authority, opposed the Cruz state AI law moratorium, and sponsors export-control bureau reform.",
+"notable_quote": {
+"text": "This is a race right now, it is the fourth industrial revolution.",
+"url": "https://www.wdayradionow.com/news/regional-news/senator-cramer-urges-urgency-local-power-to-fuel-north-dakotas-ai-revolution/",
+"date": "2025-10-27"
+},
+"groups": [
+"Chair, Senate Armed Services Subcommittee on Airland (oversees unmanned and semi-autonomous aircraft programs)",
+"Member, Senate Banking Committee (jurisdiction over the Bureau of Industry and Security, which runs chip export controls)"
+],
+"search_notes": "About 15 Google News queries (Cramer + AI, data centers, chips/Nvidia/export controls, chatbot/KOSA, Section 230/Big Tech/TikTok, AI moratorium/preemption, ratepayers/FERC large load, permitting op-ed, Armed Services AI, OpenAI/Brockman, Applied Digital, Chip Security/H20/H200, Andy Kim BIS, diffusion rule) plus a Wayback listing of cramer.senate.gov and about 14 page fetches. Two pages were blocked with no Wayback copy: The Flag's Aug 7, 2026 'Cramer addresses Russian sanctions, voting legislation, and North Dakota data centers' and his June 10, 2026 permitting reform op-ed release; both may contain more data center remarks. The Punchbowl item on his opposition to the Cruz moratorium is a reporter's account with no direct quote, and no other outlet was found repeating it. CNBC's 'Cramer backs Nvidia selling AI chips in China' is about Jim Cramer, not the senator, and was excluded. The record file's S. 4835 is classified fewer_rules, but his own framing of the bill is China-hawkish; both are reflected.",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Cramer is an enthusiastic booster of AI data centers in North Dakota, calling it a race with China and telling companies to bring their own on-site power. He pairs that with conditions: states must keep their planning authority over grid hookups, and other ratepayers should not be stuck with the bill.",
+"evidence": [
+{
+"type": "interview",
+"title": "WDAY Radio: Senator Cramer urges urgency, local power to fuel North Dakota's AI revolution",
+"url": "https://www.wdayradionow.com/news/regional-news/senator-cramer-urges-urgency-local-power-to-fuel-north-dakotas-ai-revolution/",
+"date": "2025-10-27",
+"quote": "This is a race right now, it is the fourth industrial revolution.",
+"what_it_shows": "He wants North Dakota to build AI data centers fast, calls it data farming, and urges companies to put power generation on site behind the meter rather than lean on regulated utilities."
+},
+{
+"type": "interview",
+"title": "The Flag (AM 1100): Cramer on Armada's modular AI data center arriving at GrandSKY",
+"url": "https://www.am1100theflag.com/news/north-dakota-just-unveiled-a-secret-weapon-to-beat-china-in-the-ai-race/",
+"date": "2026-07-20",
+"quote": "We have to be careful not to go too slow",
+"what_it_shows": "He celebrated a new data center project he helped recruit, framed the buildout as a technology race with China, and said modular designs can answer public concerns about energy use."
+},
+{
+"type": "interview",
+"title": "E&E News: Wright's data center push draws Republican scrutiny",
+"url": "https://www.eenews.net/articles/wrights-data-center-push-draws-republican-scrutiny-2/",
+"date": "2025-10-30",
+"quote": "We have to strike a balance that doesn’t completely dismiss a state’s rights or, you know, reduce the importance of or diminish the importance of a planning process.",
+"what_it_shows": "As a former state utility regulator he is uncertain about a federal push to speed data center grid hookups if it sidelines state planning, and wants states a path to appeal FERC decisions."
+},
+{
+"type": "sponsor",
+"title": "Press release: Cramer, Fedorchak introduce FAIR Act (Cramer sponsors Senate companion S. 3287)",
+"url": "https://www.cramer.senate.gov/news/press-releases/cramer-fedorchak-introduce-fair-act-to-stop-states-from-being-forced-to-pay-for-other-states-green-energy-mandates",
+"date": "2025-12-02",
+"quote": "Too often, ratepayers in North Dakota are left holding the bag after the dust settles on failed energy policies enacted by other states.",
+"what_it_shows": "He wants a user-pay rule so electric bills are not shifted onto people who do not benefit from new transmission lines."
+},
+{
+"type": "statement",
+"title": "Grand Forks Herald: AI firm unveils mobile data center at Grand Sky event (Cramer remarks)",
+"url": "https://www.grandforksherald.com/news/ai-firm-unveils-mobile-data-center-at-grand-sky-event",
+"date": "2026-07-18",
+"quote": null,
+"what_it_shows": "Speaking at the unveiling, he called the data center one more tool to attract defense firms and inventors to Grand Forks, showing he treats these projects as economic wins."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "Cramer talks about AI as a race with China that America must win by building faster and getting government out of the way; we found no statements treating advanced AI as a danger needing new federal rules. He did oppose blocking states from regulating AI, so he is not purely hands-off.",
+"evidence": [
+{
+"type": "interview",
+"title": "WDAY Radio: Cramer on the AI revolution and North Dakota's role",
+"url": "https://www.wdayradionow.com/news/regional-news/senator-cramer-urges-urgency-local-power-to-fuel-north-dakotas-ai-revolution/",
+"date": "2025-10-27",
+"quote": "This is a race right now, it is the fourth industrial revolution.",
+"what_it_shows": "He frames AI as an economic race to win, not a risk to contain, and says the state should get out of its own way."
+},
+{
+"type": "letter",
+"title": "Ricketts-led letter to Commerce Secretary Lutnick calling for a stable regulatory environment to win the AI race (Cramer signed)",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-colleagues-call-for-a-stable-regulatory-environment-to-win-the-a-i-race/",
+"date": "2025-07-16",
+"quote": "The Trump administration should not return to Biden’s tiers and caps that confused close allies and partners.",
+"what_it_shows": "He joined senators praising the administration for unshackling AI and asking for lighter, predictable rules so American AI can spread abroad."
+},
+{
+"type": "statement",
+"title": "Punchbowl News: GOP resistance to AI moratorium intensifies (Cramer against Cruz proposal)",
+"url": "https://punchbowl.news/article/tech/gop-ai-resistance/",
+"date": "2025-06-26",
+"quote": null,
+"what_it_shows": "Counterpoint: he told Punchbowl he opposed forcing states to choose between regulating AI and getting federal AI infrastructure money, so he did not want state AI guardrails wiped out."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Cramer supports targeted tech rules aimed at kids' safety and China: he cosponsored the Kids Online Safety Act in two Congresses, the RESTRICT Act behind the TikTok fight, and a ban on Chinese connected-car technology. His criticism of Big Tech centers on censorship of speech, not breakups or antitrust.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (119th S. 1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "He backs the main bill requiring platforms to protect kids under 17."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (118th S. 1409)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409",
+"date": "2024-02-27",
+"quote": null,
+"what_it_shows": "He also cosponsored the earlier version that passed the Senate in 2024."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: RESTRICT Act (118th S. 686)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-14",
+"quote": null,
+"what_it_shows": "He supported letting the government review and block apps and tech from rival countries, the bill behind the TikTok debate."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (119th S. 4429)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-09",
+"quote": null,
+"what_it_shows": "He backs banning connected cars and car software from companies tied to China, Russia, Iran, or North Korea."
+},
+{
+"type": "interview",
+"title": "Press release: Cramer discusses potential TikTok ban on Fox Business' Kudlow",
+"url": "https://www.cramer.senate.gov/news/press-releases/senator-cramer-discusses-potential-tiktok-ban-president-bidens-8-billion-request-for-climate-corps-on-kudlow",
+"date": "2024-03-18",
+"quote": "Eliminating TikTok, or at least making TikTok an American company, will not rob anybody of their First Amendment rights. It'll just help secure the United States of America",
+"what_it_shows": "He supported forcing TikTok's sale on national security grounds."
+},
+{
+"type": "letter",
+"title": "Press release: Cramer joins letter to President Biden on White House working with Big Tech to flag Americans' posts",
+"url": "https://www.cramer.senate.gov/news/press-releases/sen-cramer-colleagues-send-letter-to-president-biden-on-white-house-working-with-big-tech-to-flag-americans-social-media-posts",
+"date": "2021-07-27",
+"quote": "Big tech, the corporate media, and the Administration have no credibility in determining what is and isn’t ‘misinformation,’",
+"what_it_shows": "His Big Tech concern is about platforms working with government to censor speech, not about market power."
+}
+]
+},
+"preemption": {
+"score": -1,
+"confidence": "medium",
+"summary": "Before the Senate vote, Cramer told Punchbowl News he opposed Sen. Cruz's plan to make states choose between regulating AI and getting federal AI infrastructure money, then voted to strip the 10-year moratorium. We found no later statement on the December 2025 executive order or a national AI standard, and he has not cosponsored the States' Right to Regulate AI Act.",
+"evidence": [
+{
+"type": "statement",
+"title": "Punchbowl News: GOP resistance to AI moratorium intensifies",
+"url": "https://punchbowl.news/article/tech/gop-ai-resistance/",
+"date": "2025-06-26",
+"quote": "Sen. Kevin Cramer (R-N.D.) told us he’s also against Sen. Ted Cruz’s (R-Texas) proposal, which would make states choose between regulating AI or accepting federal funding for AI infrastructure.",
+"what_it_shows": "This is the reporter's account, not a direct quote, but it places him among the Republicans opposing the state AI law moratorium alongside Blackburn, Hawley and Paul."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He voted with 98 colleagues to strip the moratorium; the vote alone proves little, but it matches his stated opposition a week earlier."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Cramer leans hawkish on China but wants chips flowing to allies: he cosponsored the Chip Security Act, wrote a bipartisan bill to reform the export-control bureau in the name of keeping chips from China, and signed a letter to scrap Biden's AI Diffusion Rule caps on allies. No statement found on Nvidia H20 or H200 sales.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Chip Security Act (119th S. 1705)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2026-02-26",
+"quote": null,
+"what_it_shows": "He backs requiring advanced chips sold overseas to carry built-in location checks so they cannot be smuggled into China."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Bureau of Industry and Security License Administration Enhancement Act (119th S. 4835), with Sen. Andy Kim",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4835",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "His bill adds technical advisory committees on chips and AI and orders a review of the 2025 anti-smuggling rule, but also limits the informal letters BIS uses to block sales, a procedural loosening."
+},
+{
+"type": "statement",
+"title": "Press release: Cramer, Kim introduce legislation to ensure American export security",
+"url": "https://www.cramer.senate.gov/news/press-releases/cramer-kim-introduce-legislation-to-ensure-american-export-security",
+"date": "2026-06-18",
+"quote": "Reforming the bureau is a critical element to make sure our exports aren’t ending up in the hands of adversaries like China.",
+"what_it_shows": "In his own words the goal of export-control reform is keeping sensitive chips and AI tech away from China."
+},
+{
+"type": "letter",
+"title": "Ricketts-led letter to Commerce Secretary Lutnick urging rescission of the AI Diffusion Rule (Cramer signed)",
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-colleagues-call-for-a-stable-regulatory-environment-to-win-the-a-i-race/",
+"date": "2025-07-16",
+"quote": "The Trump administration should not return to Biden’s tiers and caps that confused close allies and partners.",
+"what_it_shows": "He wanted the Biden diffusion rule's caps on allies scrapped so American AI tech can spread abroad, while keeping know-your-customer controls on frontier chips and limiting China's access."
+}
+]
+}
+}
+},
+{
+"bioguide": "F000482",
+"name": "Julie Fedorchak",
+"signature": "Former utility regulator who leads the House AI and Energy Working Group: 'to be AI dominant, we must first be energy dominant', with data centers paying their own way and local governments deciding siting.",
+"notable_quote": {
+"text": "To be AI dominant, we must first be energy dominant.",
+"url": "https://fedorchak.house.gov/media/press-releases/fedorchak-announces-working-group-establish-legislative-framework-power-future",
+"date": "2025-02-13"
+},
+"groups": [
+"Founder and leader, House AI and Energy Working Group (announced Feb. 13, 2025)",
+"Member, House Energy and Commerce Republican Privacy Working Group (formed Feb. 2025)",
+"Member, House Energy and Commerce Subcommittee on Communications and Technology",
+"Endorsed by Leading the Future AI super PAC, second House GOP slate (May 22, 2026)"
+],
+"search_notes": "About 18 Google News queries (Fedorchak + AI, data centers, preemption/moratorium/national standard, chatbot/deepfake/TAKE IT DOWN, KOSA/privacy/Section 230/App Store, Nvidia/chips/export controls, Leading the Future, ratepayers/Ratepayer Protection, executive order/framework, AI hearing, privacy working group, Applied Digital/Harwood/Mandan, Watford City NDA, Taiwan, AI in schools, Obernolte/AI framework) plus a Wayback listing of fedorchak.house.gov and about 22 page fetches, including the Tech Policy Press hearing transcript. Blocked with no archive copy: KX News 'Dakota Download' Aug 28, 2026 (AI in schools segment), Dakota News Network Aug 31, 2026 data center piece, and Politico's June 25, 2026 data center bill story. No statement found on state AI law preemption, the Dec 2025 executive order, or the Mar 2026 White House framework; the record shows no cosponsorship of the GUARDRAILS Act or H.R. 5388. No statement found on chip export controls. Leading the Future endorsement confirmed at Breitbart; no PAC spending or attacks found.",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Fedorchak, a former utility regulator, wants North Dakota to host the AI data center boom but insists data centers pay their full grid costs, local governments make siting decisions, and companies drop secrecy agreements. She voted for the Ratepayer Protection Act in committee and sponsors grid bills meant to carry more power without raising bills.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Fedorchak applauds Committee passage of bipartisan Ratepayer Protection Act (H.R. 9340, 52-0)",
+"url": "https://fedorchak.house.gov/media/press-releases/fedorchak-applauds-committee-passage-bipartisan-ratepayer-protection-act",
+"date": "2026-07-27",
+"quote": "No American should pay higher utility bills because of the infrastructure needed to serve new, large electricity users like data centers.",
+"what_it_shows": "She backs a federal bill making data centers cover their full cost of service, citing North Dakota's large-load rate model that she says saved customers $30 million."
+},
+{
+"type": "interview",
+"title": "KFYR-TV: Fedorchak weighs in on data centers",
+"url": "https://www.kfyrtv.com/2026/08/29/fedorchak-weighs-data-centers/",
+"date": "2026-08-29",
+"quote": "The decision-making should be local because the local people are best able to ferret out what is right and what is wrong for their community",
+"what_it_shows": "She wants siting and permitting decided locally, not in Washington or Bismarck, and says companies must be transparent about noise, roads and energy."
+},
+{
+"type": "interview",
+"title": "KFGO: Rep. Fedorchak believes Congress should have input on data centers",
+"url": "https://kfgo.com/2026/08/14/rep-fedorchak-believes-congress-should-have-input-on-data-centers-the-war-in-iran-needs-to-end/",
+"date": "2026-08-14",
+"quote": "That just causes suspicion with the general public. There’s nothing to hide on these conversations. People deserve answers about what the impact these projects may have on their community",
+"what_it_shows": "She urged Watford City officials not to sign non-disclosure agreements with data center developers and says Congress has a national security role."
+},
+{
+"type": "statement",
+"title": "Axios Live: Data center boom forces U.S. policymakers to rethink power costs",
+"url": "https://www.axios.com/2026/04/15/axios-live-data-center-boom-forces-us-policymakers-to-rethink-power-costs",
+"date": "2026-04-15",
+"quote": "The people who need the energy need to pay for the energy, and they're willing to do it",
+"what_it_shows": "She says data center operators should and will pay for their own power, so bills do not rise for others."
+},
+{
+"type": "statement",
+"title": "Press release and floor remarks: Fedorchak announces AI and Energy Working Group",
+"url": "https://fedorchak.house.gov/media/press-releases/fedorchak-announces-working-group-establish-legislative-framework-power-future",
+"date": "2025-02-13",
+"quote": "To be AI dominant, we must first be energy dominant.",
+"what_it_shows": "She created a House working group to write a framework for powering AI data centers reliably and affordably, positioning North Dakota to host them."
+},
+{
+"type": "statement",
+"title": "North Dakota Monitor: Fedorchak pushes for North Dakota to lead on energy for AI in address to Legislature",
+"url": "https://northdakotamonitor.com/2025/02/18/fedorchak-pushes-data-centers-fiscal-accountability-in-address-to-north-dakota-legislature/",
+"date": "2025-02-18",
+"quote": "We don’t want to bring on data centers that create a bunch of noise and are a nuisance for people living around them",
+"what_it_shows": "She backs the boom and says zoning and permitting can head off nuisance impacts on neighbors."
+},
+{
+"type": "sponsor",
+"title": "Press release: Fedorchak's High-Capacity Grid Act (H.R. 6633) advances out of Energy and Commerce 49-0",
+"url": "https://fedorchak.house.gov/media/press-releases/fedorchaks-high-capacity-grid-act-advances-out-energy-and-commerce-committee",
+"date": "2026-07-21",
+"quote": "America's electricity demand is growing at the fastest pace in decades. To meet this demand, we must optimize our existing transmission infrastructure",
+"what_it_shows": "Her grid bills aim to move more power for data centers and manufacturing over existing lines without new corridors or higher bills."
+},
+{
+"type": "statement",
+"title": "E&E News: Wright's data center push draws Republican scrutiny",
+"url": "https://www.eenews.net/articles/wrights-data-center-push-draws-republican-scrutiny-2/",
+"date": "2025-10-30",
+"quote": "While I’m still evaluating the details of this proposal, I fully support testing new approaches to large-load interconnection",
+"what_it_shows": "She welcomed the Energy Department's push to speed data center grid hookups while still defending state authority."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Fedorchak's AI message is to take the handcuffs off the industry and beat China, and the pro-innovation Leading the Future super PAC endorsed her. She backs narrow protections against AI deepfake sexual images and online predators, but has not called for broad AI safety rules.",
+"evidence": [
+{
+"type": "statement",
+"title": "Floor remarks announcing AI and Energy Working Group",
+"url": "https://fedorchak.house.gov/media/press-releases/fedorchak-announces-working-group-establish-legislative-framework-power-future",
+"date": "2025-02-13",
+"quote": "It’s time to take the handcuffs off our AI industry and unleash the full potential of American ingenuity.",
+"what_it_shows": "She praised Trump's order revoking Biden's AI rules and frames AI policy as beating China; she leaves regulation and speech issues to colleagues."
+},
+{
+"type": "op_ed",
+"title": "Washington Times op-ed: Powering the future: Why AI can't succeed without reliable American energy",
+"url": "https://fedorchak.house.gov/media/op-eds/powering-future-why-ai-cant-succeed-without-reliable-american-energy",
+"date": "2025-04-29",
+"quote": "While America uses technology to invent and innovate, China weaponizes it.",
+"what_it_shows": "Her stated AI danger is China using AI to censor and oppress, not risks from American AI systems."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: House Energy and Commerce hearing on American AI leadership (Fedorchak questioning)",
+"url": "https://techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate",
+"date": "2025-04-09",
+"quote": "Dr. Schmidt, you said you think the AI, the importance of AI and the challenges we face has been under hyped. I agree with you.",
+"what_it_shows": "She agrees AI's importance is underplayed, but spent her time on grid reliability, not AI safety."
+},
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC expands House GOP endorsements to include Fedorchak",
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"date": "2026-05-22",
+"quote": "These House members will be instrumental in advancing a national framework in Congress that builds on the Trump Administration’s bold vision for AI",
+"what_it_shows": "The AI super PAC funded by Andreessen Horowitz and OpenAI's Greg Brockman counts her as a pro-innovation ally; the quote is the PAC strategist's, not hers."
+},
+{
+"type": "statement",
+"title": "Press release: House passes TAKE IT DOWN Act, cosponsored by Rep. Fedorchak",
+"url": "https://fedorchak.house.gov/media/press-releases/house-passes-take-it-down-act-cosponsored-rep-fedorchak",
+"date": "2025-04-28",
+"quote": "The TAKE IT DOWN Act is a strong, commonsense step to give individuals greater control over their personal images, hold bad actors accountable, and make the internet a safer place for everyone",
+"what_it_shows": "Counterpoint: she does support a narrow federal rule against AI-faked and non-consensual intimate images."
+},
+{
+"type": "vote",
+"title": "Press release: Fedorchak votes to protect kids online, hold online predators accountable (three bills including AI-manipulated imagery)",
+"url": "https://fedorchak.house.gov/media/press-releases/fedorchak-votes-protect-kids-online-hold-online-predators-accountable",
+"date": "2026-01-13",
+"quote": "Unfortunately, online predators are adapting just as fast as the technology our kids use every day.",
+"what_it_shows": "She voted for bills updating child exploitation law to cover AI-manipulated images, another targeted guardrail."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Fedorchak favors targeted fixes: she cosponsored the TAKE IT DOWN Act against non-consensual and AI-faked intimate images, voted for bills on online child exploitation, and sits on the House GOP working group drafting a federal privacy law. We found no calls for antitrust action or Section 230 repeal.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (119th H.R. 633), now law",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-04-08",
+"quote": null,
+"what_it_shows": "She backed making it a crime to post real or AI-faked sexual images without consent and forcing platforms to remove them quickly."
+},
+{
+"type": "statement",
+"title": "Press release: House passes TAKE IT DOWN Act, cosponsored by Rep. Fedorchak",
+"url": "https://fedorchak.house.gov/media/press-releases/house-passes-take-it-down-act-cosponsored-rep-fedorchak",
+"date": "2025-04-28",
+"quote": "No one should have their privacy violated or their life upended by malicious actions like this",
+"what_it_shows": "In her own words she supports platform takedown duties to protect victims, especially children and teens."
+},
+{
+"type": "vote",
+"title": "Press release: Fedorchak votes for Combating Online Predators Act, CSAFE Act and Child Predators Accountability Act",
+"url": "https://fedorchak.house.gov/media/press-releases/fedorchak-votes-protect-kids-online-hold-online-predators-accountable",
+"date": "2026-01-13",
+"quote": "As a mom of three, I know how hard it is to keep children safe in our rapidly changing digital world",
+"what_it_shows": "She supports updating federal law to reach online sextortion, coercion, and AI-manipulated exploitative imagery."
+},
+{
+"type": "other",
+"title": "MeriTalk: House Republicans form privacy working group; Fedorchak listed as member",
+"url": "https://www.meritalk.com/articles/house-republicans-form-task-force-to-tackle-data-privacy-standards/",
+"date": "2025-02",
+"quote": null,
+"what_it_shows": "She is one of nine Energy and Commerce Republicans working on a federal data privacy standard, confirmed also by IAPP."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found from Fedorchak on preempting or pausing state AI laws, the December 2025 executive order, or the March 2026 White House framework, and she has not cosponsored bills on either side. She supported the 2025 GOP megabill whose House version carried the moratorium, and the Leading the Future PAC that pushes a national AI framework endorsed her, but neither shows her own view. Her local-control statements concern data center siting, not AI laws.",
+"evidence": [
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC endorses Fedorchak; PAC says endorsees will advance a national AI framework",
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"date": "2026-05-22",
+"quote": null,
+"what_it_shows": "The PAC's stated goal is a national framework in Congress; this is the PAC's agenda, not a statement by Fedorchak, so it is context rather than proof of her position."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls, the Chip Security Act, or Nvidia sales to China as of Sept 2026. She visited Taiwan in April 2026 and called its chip industry vital to the U.S., and she cites China's DeepSeek as a reason to move faster on AI, but has not weighed in on export rules.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Fedorchak participates in national security and trade-focused congressional delegation to Taiwan",
+"url": "https://fedorchak.house.gov/media/press-releases/fedorchak-participates-national-security-and-trade-focused-congressional",
+"date": "2026-04-10",
+"quote": "Taiwan is also home to a majority of the world’s semiconductor chip manufacturing and is clearly a vital ally for the U.S. in Asia and beyond",
+"what_it_shows": "She treats Taiwan's chip industry as a strategic asset and China as the threat, but says nothing about export controls or chip sales."
+}
+]
+}
+}
+}
+]

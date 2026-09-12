@@ -328,8 +328,8 @@ def main():
                         sug = coerce_score(obj.get('suggested_score')) if obj.get('suggested_score') is not None else None
                         lab = (obj.get('suggested_label') or '').strip().lower()
                         lab_score = next((sc for sc, name in d['scale'].items() if name.lower() == lab), None)
-                        if lab_score is not None: sug = lab_score          # the label is authoritative over the number (sign mistakes)
-                        elif sug is not None and lab: sug = None           # number without a recognisable label: do not trust it
+                        # the label is authoritative; a bare number is not trusted (fact-checkers have flipped the sign)
+                        sug = lab_score if lab_score is not None else None
                         if sug is not None and sug != score:
                             score = sug
                             if conf == 'high': conf = 'medium'
@@ -412,10 +412,10 @@ def main():
         n119 = sum(1 for it in mbills if it['id'].startswith('119'))
         nspon = sum(1 for it in mbills if it['role']=='sponsor' and it['id'].startswith('119'))
         n_ai = sum(1 for it in mbills if bills_out[it['id']]['lane'] in ('ai_risk_control','data_centers_energy','preemption_state_laws','deepfakes_likeness_copyright','ai_government_research','workers_jobs','chips_china_export'))
-        leader_role = any(re.search(r'\b(chair(man|woman|person)?|ranking member|co-chair|vice-chair|lead sponsor|author|negotiators?)\b', g, re.I) for g in groups)
-        if nspon >= 3 or (leader_role and (nspon >= 1 or n_statements >= 4)) or n_statements >= 8:
+        leader_role = any(re.search(r'\b(chair(man|woman|person)?|ranking member|co-chair|vice-chair|lead sponsor|author|negotiators?|founder|leader|convener)\b', g, re.I) for g in groups)
+        if nspon >= 3 or (leader_role and (nspon >= 1 or n_statements >= 4)) or n_statements >= 12:
             level = 'Leader'
-        elif n119 >= 8 or n_statements >= 3 or nspon >= 1:
+        elif n119 >= 8 or n_statements >= 4 or nspon >= 1:
             level = 'Active'
         elif n119 >= 1 or n_statements >= 1:
             level = 'Some'

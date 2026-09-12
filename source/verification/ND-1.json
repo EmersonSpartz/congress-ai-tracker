@@ -1,0 +1,303 @@
+[
+{
+"bioguide": "H001061",
+"checks": [
+{
+"url": "https://www.eenews.net/articles/wrights-data-center-push-draws-republican-scrutiny-2/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-30",
+"note": "Article (published 2025-10-30) names Hoeven as part of the ND delegation 'steadfast in preserving the state's planning autonomy' and says 'last month' (i.e., September 2025) the trio sent a letter to then-FERC Chair Rosner urging FERC to avoid assigning regional transmission costs to North Dakotans who would not directly benefit. Note the letter is not directly about data centers; the data-center framing is the article's context (Wright's push for faster grid hookups)."
+},
+{
+"url": "https://www.hoeven.senate.gov/news/news-releases/hoeven-stresses-need-for-reliable-baseload-power-and-energy-infrastructure-respect-for-property-rights-at-ferc-nomination-hearing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-04",
+"note": "Loaded via Wayback (live site blocked). Quote appears verbatim. Release says Hoeven questioned nominees on 'the need to meet rising electricity demand and the critical role of coal-fired baseload generation' and pressed them to respect states' rights and landowners. Data centers are not mentioned by name."
+},
+{
+"url": "https://www.hoeven.senate.gov/news/news-releases/hoeven-senate-passes-legislation-to-enhance-safety-privacy-of-minors-online",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-07-31",
+"note": "Loaded via Wayback. Quote appears verbatim, attributed to Hoeven, in a release on Senate passage of KOSA/COPPA 2.0 dated 2024-07-31."
+},
+{
+"url": "https://www.kfyrtv.com/2024/03/31/where-does-tiktok-stand-us-senate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-31",
+"note": "Quote appears verbatim (continues: 'They need to sell it to an entity that we know is not spying on Americans...'). Article says Hoeven 'says they are pushing to get this done' and quotes him: 'This is something that myself and others are pushing to take action on... we are going to continue to push to do it.' National security framing (CCP control, spying, propaganda) is explicit. He also says the Senate is weighing changes to the House bill, so 'pushed the Senate to pass' is fair but he was open to amendments."
+},
+{
+"url": "https://www.hoeven.senate.gov/news/news-releases/hoeven-senate-passes-legislation-to-enhance-safety-privacy-of-minors-online",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-07-31",
+"note": "Same page as item 3; quote verbatim."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "Both sourced items show Hoeven actively supporting tech regulation: he voted for and praised KOSA/COPPA 2.0 (holding platforms accountable) and pushed the Senate to pass the TikTok forced-sale bill. If negative scores mean anti-regulation, -1 is inverted; the evidence points to a mild pro-regulation stance (+1). His 'measured, responsible' framing keeps it from being +2.",
+"suggested_score": 1
+},
+{
+"dimension": "data_centers",
+"objection": "Neither source mentions data centers directly from Hoeven's mouth. The FERC letter is about transmission cost allocation and state planning autonomy; the hearing release is about coal baseload and states' rights. The +1 is defensible as pro-supply/pro-baseload-to-meet-demand, but it rests on E&E's contextual framing rather than a Hoeven statement about data centers. Consider keeping +1 with lower confidence, or scoring null if the dimension requires explicit data-center positions.",
+"suggested_score": null
+}
+]
+},
+{
+"bioguide": "C001096",
+"checks": [
+{
+"url": "https://www.wdayradionow.com/news/regional-news/senator-cramer-urges-urgency-local-power-to-fuel-north-dakotas-ai-revolution/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-27",
+"note": "Item 1. Wayback copy (2025-10-27). Quote verbatim. Page uses 'data farming', quotes him telling companies to put power 'on the spot' and go 'behind the meter' rather than hook up to 'legacy utilities' under a 'highly regulated model'. Fully supports the claim."
+},
+{
+"url": "https://www.am1100theflag.com/news/north-dakota-just-unveiled-a-secret-weapon-to-beat-china-in-the-ai-race/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-20",
+"note": "Item 2. Quote verbatim. Article says he encouraged Armada leadership to consider GrandSKY after meeting them in DC, framed the buildout as a technology race with China, and said modular infrastructure stays responsive to public energy concerns. Supports the claim."
+},
+{
+"url": "https://www.eenews.net/articles/wrights-data-center-push-draws-republican-scrutiny-2/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-30",
+"note": "Item 3. Quote verbatim. Identifies him as a former ND Public Service Commission member, 'Whether FERC is hitting that spot? I'm not certain', and says he wants states a pathway to appeal FERC decisions. Also note he called the move 'a good opening salvo' and 'I trust this FERC', so his skepticism is mild."
+},
+{
+"url": "https://www.grandforksherald.com/news/ai-firm-unveils-mobile-data-center-at-grand-sky-event",
+"verdict": "confirmed",
+"corrected_quote": "This just becomes one more tool to attract, not just another Northrop Grumman or General Atomics, but another inventor — another college student",
+"corrected_date": "2026-07-18",
+"note": "Item 4. Cramer quoted in his remarks at the event; supports the 'one more tool to attract' framing. Corrected_quote supplies the exact wording since the item had none."
+},
+{
+"url": "https://www.wdayradionow.com/news/regional-news/senator-cramer-urges-urgency-local-power-to-fuel-north-dakotas-ai-revolution/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-27",
+"note": "Item 5. Same article as item 1. Quote verbatim; he says the state should 'get out of our own way and let farmers farm... farm oil and farm data'. No risk framing anywhere in the piece, so 'race not risk' is fair."
+},
+{
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-colleagues-call-for-a-stable-regulatory-environment-to-win-the-a-i-race/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-07-16",
+"note": "Item 6. Cramer listed as signer; quote verbatim. But the letter says the cabinet is 'unshackling American energy', not AI, and it explicitly asks for know-your-customer and security controls on frontier-model chips, so 'lighter rules' is only half the letter. Also this is an export-control letter, weak evidence for an ai_risk dimension."
+},
+{
+"url": "https://punchbowl.news/article/tech/gop-ai-resistance/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-26",
+"note": "Item 7. Wayback copy. Reporter says Cramer 'told us he's also against' Cruz's proposal making states choose between regulating AI and federal AI infrastructure funding, and counts him with Hawley, Blackburn, Paul. The 'did not want state guardrails wiped out' clause is the tracker's inference, not stated by him."
+},
+{
+"url": "https://www.cramer.senate.gov/news/press-releases/senator-cramer-discusses-potential-tiktok-ban-president-bidens-8-billion-request-for-climate-corps-on-kudlow",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-18",
+"note": "Item 8. Wayback copy of his own release. Quote verbatim; he cites CCP ownership of ByteDance and says 'we need to do something'. Supports forced-sale on national-security grounds."
+},
+{
+"url": "https://www.cramer.senate.gov/news/press-releases/sen-cramer-colleagues-send-letter-to-president-biden-on-white-house-working-with-big-tech-to-flag-americans-social-media-posts",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-07-27",
+"note": "Item 9. Wayback copy (direct fetch 403). Ron Johnson-led letter, Cramer joined. Quote verbatim. Entirely about government-platform coordination to flag 'misinformation'; no antitrust or market-power angle. Note this is from 2021, pre-AI-era."
+},
+{
+"url": "https://punchbowl.news/article/tech/gop-ai-resistance/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-26",
+"note": "Item 10. Quote verbatim (reporter's paraphrase, as the item acknowledges). Article places him among Republican opponents alongside Blackburn, Hawley, Paul."
+},
+{
+"url": "https://www.cramer.senate.gov/news/press-releases/cramer-kim-introduce-legislation-to-ensure-american-export-security",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-18",
+"note": "Item 11. Wayback copy. Quote verbatim. Release describes BIS as regulating chips/software flow to China, creates TACs for chips and AI, and orders review of the 2025 AI-chip smuggling rule. Note the bill is bipartisan (with Andy Kim) and largely about licensing clarity/process for exporters, not new restrictions."
+},
+{
+"url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-colleagues-call-for-a-stable-regulatory-environment-to-win-the-a-i-race/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-16",
+"note": "Item 12. Cramer named as signer; quote verbatim. Letter asks for KYC and security controls on frontier-training tech, free flow of other tech, and 'limiting China's ability to develop frontier AI'. Claim matches. Minor: the July letter follows the April rescission letter; page notes the rule was rescinded May 7."
+},
+{
+"url": "https://www.wdayradionow.com/news/regional-news/senator-cramer-urges-urgency-local-power-to-fuel-north-dakotas-ai-revolution/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-27",
+"note": "Item 13. Headline quote verbatim on the page."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "Every ai_risk source shows him framing AI purely as an economic/national-security race to win faster ('be careful not to go too slow', 'get out of our own way'); the only counterpoint is opposing the state-law moratorium, which is a federalism position, not a safety one. If +1 means 'leans toward taking AI risk seriously', the evidence does not support it; if the scale's positive pole means 'accelerationist', fine. The Ricketts letter (item 6) is an export-control document and should not count toward ai_risk at all.",
+"suggested_score": null
+},
+{
+"dimension": "china_chips",
+"objection": "Sources are mixed rather than one-directional: he co-sponsors BIS reform explicitly to keep chips out of China's hands and signs a letter asking for KYC/security controls on frontier chips (hawkish), while also wanting the diffusion rule's allied caps scrapped and 'other American technologies to flow freely' (looser). A -1 only fits if the scale's negative pole means 'favors selling more chips abroad'; if negative means 'soft on China', the BIS bill and the 'limiting China's ability to develop frontier AI' language argue for 0 or +1.",
+"suggested_score": 0
+},
+{
+"dimension": "preemption",
+"objection": "Punchbowl (items 7 and 10) shows him opposing the Cruz moratorium, i.e. against federal preemption of state AI laws, and E&E (item 3) shows him defending state planning autonomy against FERC. -1 is consistent only if the negative pole means 'opposes preemption'; if negative means 'supports preemption', the sources point the other way.",
+"suggested_score": null
+}
+]
+},
+{
+"bioguide": "F000482",
+"checks": [
+{
+"url": "https://fedorchak.house.gov/media/press-releases/fedorchak-applauds-committee-passage-bipartisan-ratepayer-protection-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-27",
+"note": "Quote verbatim. Page confirms 52-0 committee vote, full-cost-of-service requirement, ND large-load model and 'over $30 million in savings for customers'."
+},
+{
+"url": "https://www.kfyrtv.com/2026/08/29/fedorchak-weighs-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-29",
+"note": "Quote verbatim. Page says siting/permitting choices 'shouldn't come from Washington or Bismarck' and that companies must be 'completely transparent with local leaders about their impact on noise, roads and energy'."
+},
+{
+"url": "https://kfgo.com/2026/08/14/rep-fedorchak-believes-congress-should-have-input-on-data-centers-the-war-in-iran-needs-to-end/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-14",
+"note": "Quote verbatim. Page confirms Watford City meeting urging no NDAs and her line that national policy 'has national security implications'; she also calls it 'largely a local issue and a state issue'."
+},
+{
+"url": "https://www.axios.com/2026/04/15/axios-live-data-center-boom-forces-us-policymakers-to-rethink-power-costs",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-15",
+"note": "First fetch attempt returned 403, retry loaded the page. Quote verbatim and attributed to Fedorchak at an April 14 Axios Live event sponsored by EEI."
+},
+{
+"url": "https://fedorchak.house.gov/media/press-releases/fedorchak-announces-working-group-establish-legislative-framework-power-future",
+"verdict": "partially_supported",
+"corrected_quote": "Today, I want to talk about AI. But to be AI dominant, we must first be energy dominant.",
+"corrected_date": "2025-02-13",
+"note": "Quote is verbatim as a clause (page reads 'But to be AI dominant, we must first be energy dominant.'). Working-group framework claim supported. Nothing on the page positions North Dakota to host data centers; ND is not mentioned in the body at all, so that part of the claim is unsupported."
+},
+{
+"url": "https://northdakotamonitor.com/2025/02/18/fedorchak-pushes-data-centers-fiscal-accountability-in-address-to-north-dakota-legislature/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-18",
+"note": "Loaded via Wayback (May 2025 capture). Quote verbatim; she adds 'I think you can zone things, I think you can permit them and construct them in ways that they don't.' Page frames her as a strong supporter of local control who hopes concerns get addressed 'on the front end'."
+},
+{
+"url": "https://www.eenews.net/articles/wrights-data-center-push-draws-republican-scrutiny-2/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-30",
+"note": "Quote verbatim. E&E describes her as 'a strong proponent of state autonomy' who 'largely welcomed Wright's plan'; the state-authority defense is the reporter's characterization plus a prior delegation letter to FERC, not her quoted words here."
+},
+{
+"url": "https://fedorchak.house.gov/media/press-releases/fedorchak-announces-working-group-establish-legislative-framework-power-future",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-13",
+"note": "Quote verbatim from floor remarks. Page praises EO 14179 overturning Biden 'mandates that had stifled' AI, frames the issue as outpacing China (DeepSeek), and says 'While my colleagues are thankfully working hard on regulation, speech, and other components of AI, this working group will focus exclusively on AI and the energy.'"
+},
+{
+"url": "https://fedorchak.house.gov/media/op-eds/powering-future-why-ai-cant-succeed-without-reliable-american-energy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-29",
+"note": "Quote verbatim. Next sentence: 'AI will give China the most powerful tool we've ever seen to censor and oppress at home and abroad.' No mention of risks from US AI systems; the op-ed is about energy supply."
+},
+{
+"url": "https://techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-11",
+"note": "Loaded via Wayback. Quote verbatim in transcript. Her remaining questions are about grid underpowering, halting retirements of existing generation, and transmission cost of renewables; no AI-safety content. Hearing was April 9, 2025; transcript published April 11."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "Fedorchak is listed among ten endorsees. Quote verbatim and attributed to Zac Moffatt, LTF co-strategist. Page confirms $100M+ backing from Andreessen Horowitz and Greg Brockman. No Fedorchak statement on the page."
+},
+{
+"url": "https://fedorchak.house.gov/media/press-releases/house-passes-take-it-down-act-cosponsored-rep-fedorchak",
+"verdict": "confirmed",
+"corrected_quote": "The TAKE IT DOWN Act is a strong, commonsense step to give individuals greater control over their personal images, hold bad actors accountable, and make the internet a safer place for everyone—especially children and teens.",
+"corrected_date": "2025-04-28",
+"note": "Quote is verbatim but truncated before '—especially children and teens.' Cosponsorship confirmed. Note the page does not mention AI or deepfakes explicitly; it speaks of non-consensual intimate images generally."
+},
+{
+"url": "https://fedorchak.house.gov/media/press-releases/house-passes-take-it-down-act-cosponsored-rep-fedorchak",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-28",
+"note": "Quote verbatim. The platform notice-and-takedown requirement is described in the release body, not in her quoted words; her own words address privacy, accountability and safety for children and teens. Cosponsorship of the bill supports the claim."
+},
+{
+"url": "https://www.meritalk.com/articles/house-republicans-form-task-force-to-tackle-data-privacy-standards/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-18",
+"note": "Fedorchak listed as one of nine E&C Republicans in the data privacy working group led by Rep. Joyce, aiming at 'a comprehensive national data privacy standard'. Article dated Feb 18, 2025; committee announcement Feb 12, 2025. IAPP confirmation not checked (no URL given)."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "PAC strategist speaks of 'advancing a national framework in Congress'; no Fedorchak statement on the page. Correctly framed as context only."
+},
+{
+"url": "https://fedorchak.house.gov/media/press-releases/fedorchak-participates-national-security-and-trade-focused-congressional",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-10",
+"note": "Quote verbatim. Page frames China as the aggressor and Taiwan chips as vital; the only 'export' mention is ND agricultural exports to Taiwan. Nothing on export controls or chip sales."
+},
+{
+"url": "https://fedorchak.house.gov/media/press-releases/fedorchak-announces-working-group-establish-legislative-framework-power-future",
+"verdict": "confirmed",
+"corrected_quote": "But to be AI dominant, we must first be energy dominant.",
+"corrected_date": "2025-02-13",
+"note": "Verbatim apart from the leading 'But'. Suitable headline quote."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "Sources show she cosponsored the TAKE IT DOWN Act (which imposes platform notice-and-takedown duties) and sits on the E&C working group drafting a national data privacy standard. That is a mild pro-regulation record on tech, and the only anti-regulation evidence is AI-energy 'handcuffs off' rhetoric aimed at Biden AI rules, not tech platforms. -1 is defensible only if the scale treats a light-touch national standard as deregulatory; otherwise 0 fits better.",
+"suggested_score": 0
+},
+{
+"dimension": "preemption",
+"objection": "Null is right. The privacy working group's goal of a single national standard and the Leading the Future endorsement hint at preemption-friendliness, but neither is a statement by Fedorchak, and her data-center remarks stress local and state control. Keep null rather than inferring.",
+"suggested_score": null
+}
+]
+}
+]
