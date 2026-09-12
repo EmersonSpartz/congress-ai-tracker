@@ -1,0 +1,450 @@
+[
+{
+"bioguide": "S001184",
+"name": "Tim Scott",
+"signature": "Senate Banking chair who welcomes AI data centers as long as tech companies pay their own power bills, and frames AI as a race the U.S. must win against China.",
+"notable_quote": {
+"text": "The real question we should ask is how do we make sure that these data centers pay their own way as it relates to electricity and water use.",
+"date": "2026-07-14",
+"url": "https://www.cnbc.com/2026/07/14/tim-scott-kevin-warsh-data-centers-artificial-intelligence.html"
+},
+"groups": [
+"Chair, Senate Committee on Banking, Housing, and Urban Affairs (held the June 2026 hearing 'AI and the American Dream'; committee has jurisdiction over export controls)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Scott wants South Carolina to welcome AI data centers like Google's $9 billion Lowcountry expansion and rejects calls to ban them, but insists the companies build or buy their own power so families do not see higher electric bills. He points to the Trump Ratepayer Protection Pledge and says a pledge is only as good as its execution.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Sen. Tim Scott applauds Google's $9 billion investment in South Carolina",
+"url": "https://www.scott.senate.gov/media-center/press-releases/sen-tim-scott-applauds-googles-9-billion-investment-in-south-carolina",
+"date": "2025-10-14",
+"quote": "Google's investment in South Carolina is a testament to our state's vital role as a hub for America's digital economy and a global leader in AI innovation",
+"what_it_shows": "He celebrated a major AI data center expansion in his state without raising cost or water concerns."
+},
+{
+"type": "interview",
+"title": "CNBC: Sen. Tim Scott wants to hear from Warsh on data centers and artificial intelligence",
+"url": "https://www.cnbc.com/2026/07/14/tim-scott-kevin-warsh-data-centers-artificial-intelligence.html",
+"date": "2026-07-14",
+"quote": "The real question we should ask is how do we make sure that these data centers pay their own way as it relates to electricity and water use.",
+"what_it_shows": "He supports data centers but conditions that support on making the companies cover their own electricity and water costs; CNBC notes he raised this as some in South Carolina push to ban data centers."
+},
+{
+"type": "op_ed",
+"title": "Post and Courier op-ed: Scott: How SC can encourage American innovation without punishing families",
+"url": "https://www.postandcourier.com/opinion/commentary/tim-scott-google-ai-data-center-electricity/article_1d0b0933-9c98-4188-b9d7-e783fdce8166.html",
+"date": "2026-07-23",
+"quote": "Hardworking families and small businesses should not have higher electric bills because of the energy demands of massive global corporations. Rather, these companies should be self-reliant so ratepayers from the Lowcountry to the Upstate are not footing the bill.",
+"what_it_shows": "His own words: build the data centers, but the companies, not ratepayers, must absorb the energy costs, and Google must be held to its Ratepayer Protection Pledge."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Scott treats AI mainly as a contest the U.S. must win against China and titled his committee's AI hearing around innovation and American dominance. He acknowledges South Carolinians' concerns and says AI should be integrated responsibly, but he has not backed binding safety rules or licensing.",
+"evidence": [
+{
+"type": "interview",
+"title": "CNBC: Sen. Tim Scott wants to hear from Warsh on data centers and artificial intelligence",
+"url": "https://www.cnbc.com/2026/07/14/tim-scott-kevin-warsh-data-centers-artificial-intelligence.html",
+"date": "2026-07-14",
+"quote": "When you zoom out, the most important question is who wins the future? Is it China or is it America? Artificial intelligence will be that which threads that needle",
+"what_it_shows": "He frames AI policy as winning a race with China rather than as a danger needing strict rules."
+},
+{
+"type": "op_ed",
+"title": "Post and Courier op-ed: Scott: How SC can encourage American innovation without punishing families",
+"url": "https://www.postandcourier.com/opinion/commentary/tim-scott-google-ai-data-center-electricity/article_1d0b0933-9c98-4188-b9d7-e783fdce8166.html",
+"date": "2026-07-23",
+"quote": "South Carolinians are rightfully concerned about how AI will affect our lives. But I'm confident that as a nation, we will discover ways to responsibly address AI's potential dangers while tapping into its possibilities to better our lives.",
+"what_it_shows": "He recognizes AI dangers in general terms but offers optimism rather than specific guardrails."
+},
+{
+"type": "hearing",
+"title": "Senate Banking Committee hearing: AI and the American Dream: Promoting Innovation, Affordability, and American Dominance (chaired by Scott)",
+"url": "https://www.banking.senate.gov/hearings/ai-and-the-american-dream-promoting-innovation-affordability-and-american-dominance",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "As chair he framed the committee's first big AI hearing around innovation, affordability and American dominance, with witnesses from ITI, Hudson, AEI and AI Now; his opening statement could not be retrieved."
+}
+]
+},
+"tech_regulation": {
+"score": 1,
+"confidence": "low",
+"summary": "The only clear signal found is his cosponsorship of a resolution to cancel a CFPB rule supervising big payment apps, a vote for fewer rules on tech-driven finance. No statements on Section 230, kids online safety or Big Tech antitrust were found, and he did not vote on the 2024 Kids Online Safety Act passage.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.J.Res.28: Disapproving the CFPB rule on larger participants in digital consumer payment apps",
+"url": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/28",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "He backed cancelling a rule that let the government supervise big payment apps like Venmo and Apple Pay, a fewer-rules stance on tech in finance."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on whether Washington should override state AI laws. He voted Yea on the July 2025 amendment that struck the 10-year state AI law moratorium, as did 98 other senators, which by itself shows no position. Leads tying him to the Great American AI Act were wrong; the Roll Call story names Reps. Scott Franklin and Scott Peters.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363 (July 1, 2025): Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1, Scott voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote to remove the moratorium after the deal collapsed; nearly every senator did, so this is not evidence of opposing preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Scott leans hawkish on China technology. He cosponsored the FIGHT China Act to restrict U.S. investment in Chinese military and surveillance tech firms, and as Banking chair he pushed China-focused provisions on chips, AI and investment into the December 2025 defense bill. No specific position on Nvidia H20 or H200 sales was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.1053: FIGHT China Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1053",
+"date": "2025-03-13",
+"quote": null,
+"what_it_shows": "He backed a bill making Americans report, and potentially blocking, investments in Chinese companies building military or surveillance technology."
+},
+{
+"type": "interview",
+"title": "Fox Business: Scott pushes 'aggressive posture against China,' focusing on chips, AI in defense bill now heading to Trump",
+"url": "https://www.foxbusiness.com/politics/scott-pushes-aggressive-posture-against-china-focusing-chips-ai-defense-bill-now-heading-trump",
+"date": "2025-12-18",
+"quote": "I think it's really important for us to realize that we still have the high ground and maintaining the high ground means having an aggressive posture against China",
+"what_it_shows": "He highlighted NDAA measures on sanctions, chips, AI and investment restrictions aimed at China and said the U.S. must dominate in AI and semiconductors."
+}
+]
+}
+},
+"search_notes": "Google News queries run: 'Tim Scott' artificial intelligence; 'Tim Scott' 'data center'; 'Tim Scott' Nvidia OR export controls OR chips China; 'Tim Scott' state AI laws OR preemption OR moratorium; 'Tim Scott' Big Tech OR Section 230 OR Kids Online Safety OR antitrust; 'Tim Scott' chatbot OR deepfake OR AI scams; Scott 'AI and the American Dream' hearing; Senate Banking chips markup; 'Tim Scott' Google 9 billion; 'Tim Scott' AI national standard OR patchwork. Pages read: scott.senate.gov Google press release (via r.jina.ai proxy after 403), CNBC July 14 2026, Post and Courier July 23 2026 op-ed (via proxy), Fox Business Dec 18 2025, Banking Committee hearing page (Wayback), Roll Call June 4 2026 (confirmed the 'Scott' there is Franklin/Peters, not Tim Scott), GovTrack KOSA vote s221 (Scott did not vote). Could not retrieve: Scott's Banking opening statements (403/410), Legis1 and Punchbowl pieces (Google News decoder rate-limited). Landscape leads about Aging Committee, S.4762 and the House AI Task Force belong to Rick Scott and House members and were dropped."
+},
+{
+"bioguide": "G000608",
+"name": "Darline Graham",
+"signature": "New senator (appointed July 2026) who says South Carolina needs data centers to compete with China but only with local input and guardrails, and who told a debate audience she is 'personally very scared of AI'.",
+"notable_quote": {
+"text": "I don't think these data centers should be built in people's backyards without community involvement and guardrails and regulations in place",
+"date": "2026-08-19",
+"url": "https://www.thestate.com/news/politics-government/article316764467.html"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Graham says the U.S. needs to build data centers here to compete with China and ties them to national security, but insists on local community input, guardrails, and that tech companies supply their own power and water so ratepayers are not charged more. She has not backed a moratorium.",
+"evidence": [
+{
+"type": "interview",
+"title": "WJCL: Graham talks Senate race, national security and data centers in call with reporters",
+"url": "https://www.wjcl.com/article/graham-south-carolina-reporters-senate-call/73386272",
+"date": "2026-08-09",
+"quote": "I'm not saying that we should just go around building data centers in everybody's backyard",
+"what_it_shows": "She said communities should have input before projects are approved while also calling data centers a national security and China competition issue."
+},
+{
+"type": "statement",
+"title": "WYFF: Darline Graham, Ralph Norman take part in forum ahead of runoff (post-forum interview)",
+"url": "https://www.wyff4.com/article/darline-graham-ralph-norman-live-forum/73453143",
+"date": "2026-08-17",
+"quote": "There needs to be guidelines, guardrails. Big tech companies need to be responsible for supplying their own power, water or subsidizing utilities so it doesn't raise rates for people.",
+"what_it_shows": "Her own words: build with conditions, with companies covering power and water so residents' rates do not rise."
+},
+{
+"type": "statement",
+"title": "The State: Data centers, war, national debt: Where do SC Senate GOP candidates differ?",
+"url": "https://www.thestate.com/news/politics-government/article316764467.html",
+"date": "2026-08-19",
+"quote": "I don't think these data centers should be built in people's backyards without community involvement and guardrails and regulations in place",
+"what_it_shows": "She pairs support for building data centers with community involvement and regulation; the paper also reports she said 'I think we need to build data centers here' at a primary debate."
+},
+{
+"type": "interview",
+"title": "WYFF: Sen. Darline Graham says data centers important to economy and national security but with restrictions",
+"url": "https://www.wyff4.com/article/sen-darline-graham-data-centers-important/73392137",
+"date": "2026-08-10",
+"quote": null,
+"what_it_shows": "In her first sit-down with SC media she elaborated on supporting data centers with restrictions such as local involvement in siting and no utility bill increases for average customers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "At the August 2026 runoff debate Graham said she is personally very scared of AI, said AI should be regulated, and supported federal bans regarding the technology without saying which. Her stance is clearly pro-guardrail but not yet specific.",
+"evidence": [
+{
+"type": "statement",
+"title": "South Carolina Public Radio: Darline Graham and Ralph Norman exchange jabs, make cases to voters in US Senate debate",
+"url": "https://www.southcarolinapublicradio.org/sc-news/2026-08-19/darline-graham-and-ralph-norman-throw-jabs-make-cases-to-voters-in-us-senate-debate",
+"date": "2026-08-19",
+"quote": "I'm personally very scared of AI.",
+"what_it_shows": "She expressed fear of AI and, per the report, supported federal bans regarding the technology without specifying which bans."
+},
+{
+"type": "statement",
+"title": "The State: Data centers, war, national debt: Where do SC Senate GOP candidates differ?",
+"url": "https://www.thestate.com/news/politics-government/article316764467.html",
+"date": "2026-08-19",
+"quote": null,
+"what_it_shows": "The paper reports both Graham and Norman said artificial intelligence should be regulated."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Searched for Section 230, Big Tech, kids online safety, chatbot and deepfake statements; her Senate press releases so far cover Israel, nominations, Russia sanctions, veterans, immigration, guns and abortion.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on federal preemption of state AI laws. She joined the Senate on July 14, 2026, after the July 2025 moratorium vote, and has not sponsored bills in this lane.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "No position on chip export controls found. At the August 2026 debate she backed a federal ban on Chinese companies building AI data centers in the U.S. and called China leading in AI a scary situation, a hawkish signal on China technology but not about chips.",
+"evidence": [
+{
+"type": "statement",
+"title": "Tech Times: Darline Graham Backs Chinese AI Data Center Ban; Says National Security Not Her Thing",
+"url": "https://www.techtimes.com/articles/324993/20260819/darline-graham-backs-chinese-ai-data-center-ban-says-national-security-not-her-thing.htm",
+"date": "2026-08-19",
+"quote": "I think we need to build data centers here, and I think… the tech companies should build the power plants to supply the data centers, because that way it doesn't drive up utility costs.",
+"what_it_shows": "The report says she voiced support for a federal ban on Chinese companies constructing AI data centers in the U.S., a China-hawkish stance on AI infrastructure rather than on chip exports."
+}
+]
+}
+},
+"search_notes": "Google News queries run: 'Darline Graham' artificial intelligence OR AI; 'Darline Graham' data center(s); 'Darline Graham' chatbot OR deepfake OR Big Tech OR Section 230; 'Darline Graham' China chips OR Nvidia OR export controls OR Taiwan; 'Darline Graham' AI scared OR bans OR regulation; 'Darline Graham' bill cosponsor; 'Darline Graham' Chinese data center ban; Graham Fry Norman debate data centers. Pages read: WJCL Aug 9 2026, WYFF Aug 17 forum, WYFF Aug 10 interview, SC Public Radio Aug 19 debate story, The State Aug 19 (via r.jina.ai proxy after timeouts), Tech Times Aug 19, WPDE Aug 19 (no relevant text), dgraham.senate.gov press release index (no AI or tech items). Wayback had no captures of her Senate site; Washington Times Aug 23 was blocked."
+},
+{
+"bioguide": "M000194",
+"name": "Nancy Mace",
+"signature": "The only South Carolina Republican calling for a one-year statewide data center moratorium; chairs the House Oversight IT subcommittee, sits in the AI Caucus, and sponsors deepfake-porn crime bills while urging the U.S. to win the AI race.",
+"notable_quote": {
+"text": "South Carolina is not Big Tech's personal power grid",
+"date": "2026-05-18",
+"url": "https://mace.house.gov/media/press-releases/rep-nancy-mace-calls-one-year-moratorium-new-data-centers-south-carolina"
+},
+"groups": [
+"Congressional AI Caucus (member)",
+"Chair, House Oversight Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
+"Congressional Cybersecurity Caucus (member)",
+"Congressional Blockchain Caucus (member)"
+],
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "high",
+"summary": "Mace called for a one-year moratorium on new data center construction in South Carolina in May 2026 and renewed it in July 2026, saying data centers must pay their own way or not come. This is a reversal from January 2025, when she praised Trump's $500 billion Stargate data center plan, and she voted for the SPEED Act permitting bill in December 2025.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Nancy Mace Calls For One-Year Moratorium On New Data Centers In South Carolina",
+"url": "https://mace.house.gov/media/press-releases/rep-nancy-mace-calls-one-year-moratorium-new-data-centers-south-carolina",
+"date": "2026-05-18",
+"quote": "These companies are planting massive data centers across our state, driving up energy demand, and leaving families and small businesses to pick up the tab.",
+"what_it_shows": "She asked for a statewide pause on new data centers so lawmakers can require the companies to cover all energy and grid upgrade costs."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Nancy Mace Renews Call for One-Year Moratorium as New Report Ranks South Carolina Among Top States for AI Data Center Deals",
+"url": "https://mace.house.gov/media/press-releases/rep-nancy-mace-renews-call-one-year-moratorium-new-report-ranks-south-carolina",
+"date": "2026-07-10",
+"quote": "The moratorium sets the terms for what comes next: data centers pay their own way, or they don't come here",
+"what_it_shows": "She repeated the moratorium call and tied it to grid, water and family bill impacts as AI data center interest in the state grew."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Nancy Mace Statement on President Donald Trump's Investment in Artificial Intelligence Technology (Stargate)",
+"url": "https://mace.house.gov/media/press-releases/rep-nancy-mace-statement-president-donald-trumps-investment-artificial",
+"date": "2025-01-21",
+"quote": "Building out state-of-the-art data centers and ensuring we lead the global AI race will drive innovation, create jobs, and keep us competitive against nations like China.",
+"what_it_shows": "Contradictory earlier stance: she celebrated a massive national data center build-out before turning against new projects in her state."
+},
+{
+"type": "vote",
+"title": "House roll call 356 (Dec. 18, 2025): passage of H.R. 4776, the SPEED Act permitting reform bill, Mace voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted for a bill to speed federal permitting of energy and infrastructure projects, which cuts against a pause on building."
+},
+{
+"type": "statement",
+"title": "MeriTalk: Mace Calls for a Statewide Pause on New Data Centers",
+"url": "https://www.meritalk.com/articles/mace-calls-for-a-statewide-pause-on-new-data-centers/",
+"date": "2026-05-22",
+"quote": "South Carolina is not Big Tech's personal power grid",
+"what_it_shows": "National coverage placing her among a growing list of lawmakers seeking data center moratoriums over electricity costs."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Mace sponsors and cosponsors bills to criminalize AI deepfake pornography and pressed Hertz over AI damage scanners, which are targeted guardrails. But as Oversight IT subcommittee chair she frames AI as a race the U.S. must win, warns against stifling innovation, and notes rivals have no guardrails, while saying AI should be developed responsibly.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Oversight Committee release: Mace Opens Hearing on the Future of Artificial Intelligence",
+"url": "https://oversight.house.gov/release/mace-opens-hearing-on-the-future-of-artificial-intelligence/",
+"date": "2025-09-17",
+"quote": "It is essential the United States lead, not just in building these technologies, but in ensuring they are developed responsibly, deployed safely, and used in ways which advance American values.",
+"what_it_shows": "She compares AI to the space and nuclear races, raises the possibility of artificial general intelligence within years, and says the future is too important to leave to chance, but proposes no binding rules."
+},
+{
+"type": "hearing",
+"title": "Oversight Committee hearing wrap-up: The U.S. Must Develop and Advance Artificial Intelligence to Dominate the Tech Race",
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"date": "2025-09-18",
+"quote": "But also we don't want to stifle innovation.",
+"what_it_shows": "She stressed not stifling AI innovation and noted China, Russia and Iran have no guardrails, a light-touch framing."
+},
+{
+"type": "statement",
+"title": "Press release: Mace: Deepfake Porn Is Digital Rape, Congress Must Act (reintroducing the Protect Victims of Digital Exploitation and Manipulation Act)",
+"url": "https://mace.house.gov/media/press-releases/mace-deepfake-porn-digital-rape-congress-must-act",
+"date": "2025-04-03",
+"quote": "My bill puts predators on notice: you do this, you're going to prison.",
+"what_it_shows": "She wants federal criminal penalties for creating or sharing AI-generated sexual deepfakes, a specific AI guardrail."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3562: DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2025-05-21",
+"quote": null,
+"what_it_shows": "She backed letting victims sue people who make or share AI sexual deepfakes of them."
+},
+{
+"type": "sponsor",
+"title": "H.R.4600: RESPECT Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4600",
+"date": "2025-07-22",
+"quote": null,
+"what_it_shows": "Her own bill adds prison time for sharing or threatening to share private explicit images, including AI deepfakes, building on the TAKE IT DOWN Act."
+},
+{
+"type": "letter",
+"title": "New York Post: Rep. Nancy Mace demands answers from Hertz over AI scanners charging hundreds of dollars for minor scratches",
+"url": "https://nypost.com/2025/08/20/business/nancy-mace-demands-answers-from-hertz-over-ai-scanners-charging-hundreds-of-dollars-for-minor-scratches/",
+"date": "2025-08-20",
+"quote": null,
+"what_it_shows": "As subcommittee chair she wrote Hertz's CEO seeking answers about AI damage scanners billing renters with no human review, an oversight push on a specific AI use."
+},
+{
+"type": "sponsor",
+"title": "H.R.3775: AI Training Extension Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3775",
+"date": "2025-06-05",
+"quote": null,
+"what_it_shows": "Her bill extends AI training for federal workers; her press release said it gives them the tools, training, and guardrails to securely use AI and protect citizens' privacy."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Mace backs targeted rules: bills criminalizing non-consensual intimate images and deepfakes, tougher child abuse material reporting, a crackdown on Chinese-controlled apps, and scrutiny of Hertz's AI scanners, and she calls out Big Tech's energy grab. But she opposed the 2024 TikTok ban as government overreach and cosponsored a bill barring officials from pressuring platforms to remove posts.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Nancy Mace Opposes Government Overreach In TikTok Ban",
+"url": "https://mace.house.gov/media/press-releases/rep-nancy-mace-opposes-government-overreach-tiktok-ban",
+"date": "2024-03-13",
+"quote": "Representative Nancy Mace condemns the proposal to ban TikTok as an alarming trend toward government overreach reminiscent of authoritarian regimes.",
+"what_it_shows": "Contradictory evidence: she opposed one of the biggest tech restrictions Congress passed, calling it overreach."
+},
+{
+"type": "cosponsor",
+"title": "H.R.5182: Child Online Safety Modernization Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2023-09-18",
+"quote": null,
+"what_it_shows": "She backed making online companies report child abuse material more fully and keep evidence longer."
+},
+{
+"type": "cosponsor",
+"title": "H.R.1218: SHIELD Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1218",
+"date": "2025-02-11",
+"quote": null,
+"what_it_shows": "She backed a federal crime for sharing private nude images without consent, a targeted online rule."
+},
+{
+"type": "cosponsor",
+"title": "H.R.4927: ACES Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4927",
+"date": "2023-08-01",
+"quote": null,
+"what_it_shows": "She backed cracking down on TikTok and other Chinese-controlled apps over spying, months before opposing the TikTok ban."
+},
+{
+"type": "cosponsor",
+"title": "H.R.140: Protecting Speech from Government Interference Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/140",
+"date": "2023-02-27",
+"quote": null,
+"what_it_shows": "She backed banning federal workers from pressuring social media companies to take down posts, a limit on government rather than on platforms."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Nancy Mace Files Bill To Crack Down On Revenge Porn And Deepfake Predators (RESPECT Act)",
+"url": "https://mace.house.gov/media/press-releases/rep-nancy-mace-files-bill-crack-down-revenge-porn-and-deepfake-predators",
+"date": "2025-07-24",
+"quote": "For too long, predators have exploited technology to harass, threaten, and destroy lives, without facing real consequences",
+"what_it_shows": "She wants stiffer criminal penalties layered on the TAKE IT DOWN Act's platform takedown rules."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "At a September 2025 hearing she chaired, Mace said AI regulation is a federal issue because it is commerce across state lines and that a patchwork of state rules makes it hard to operate, while also asking how states' rights should be balanced. She has not signed the House letters against preemption.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Oversight Committee hearing wrap-up: The U.S. Must Develop and Advance Artificial Intelligence to Dominate the Tech Race",
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"date": "2025-09-18",
+"quote": "And it is a federal issue because it's commerce across state lines. And having all those that regulatory environment that's a patchwork. And every state does make it very difficult to operate.",
+"what_it_shows": "Her own words lean toward one national standard over state-by-state AI laws, in an exchange about the proposed ten-year moratorium on state AI laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position on chip export controls or Nvidia sales to China found as of Sept 2026. At her September 2025 hearing she said China has stolen U.S. data and asked about grid capacity while a witness discussed export controls, but she took no stance on them. Her China tech record is about apps and data, not chips.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Oversight Committee hearing wrap-up: The U.S. Must Develop and Advance Artificial Intelligence to Dominate the Tech Race",
+"url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+"date": "2025-09-18",
+"quote": "They've stolen a bunch of our data.",
+"what_it_shows": "She pressed the China competition angle, but the export-control point in the exchange came from the witness, not from her."
+}
+]
+}
+},
+"search_notes": "Google News queries run: 'Nancy Mace' artificial intelligence; 'Nancy Mace' data center moratorium; 'Nancy Mace' chatbot OR deepfake OR Take It Down OR Section 230 OR Big Tech; 'Nancy Mace' preemption OR state AI laws OR AI moratorium; 'Nancy Mace' Nvidia OR export controls OR TikTok OR DeepSeek; 'Nancy Mace' Leading the Future OR super PAC OR AI Caucus; 'Nancy Mace' Hertz AI scanners; Mace data centers national security. Pages read: mace.house.gov press releases (May 18 2026 moratorium, July 10 2026 renewal, Jan 2025 Stargate statement, Mar 2024 TikTok ban opposition, Apr 2025 and Jul 2025 deepfake bills, Jun 2025 AI hearing), mace.house.gov committees and caucuses page, oversight.house.gov Sept 17 and 18 2025 hearing releases, MeriTalk May 22 2026, Spectrum News May 20 2026, NY Post Aug 20 2025 Hertz letter, GovTrack roll call h356. No AI super PAC support or attacks found for Mace. A Sept 7 2026 primetimer.com item reporting she called data centers a national security issue could not be opened (site blocked automated access)."
+}
+]

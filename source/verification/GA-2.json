@@ -1,0 +1,214 @@
+[
+{
+"bioguide": "J000311",
+"checks": [
+{
+"url": "https://thecitizen.com/2026/06/08/brian-jack-talks-data-centers-trump-policies-and-iran-on-ride-to-tyrone/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-08",
+"note": "Quote appears verbatim. Article explicitly says Jack 'did not take a simple pro-data center or anti-data-center position' and focused on residents having a greater voice, matching the procedural claim."
+},
+{
+"url": "https://thecitizen.com/2026/06/08/brian-jack-talks-data-centers-trump-policies-and-iran-on-ride-to-tyrone/",
+"verdict": "confirmed",
+"corrected_quote": "I think data centers offer an opportunity for rural, impoverished counties that may benefit from some of the tax advantages that will come to it, but I'm not sure that our counties — I guess I would dispute the notion that our county is in desperate need of economic growth and development, because so many businesses want to come here on their own.",
+"corrected_date": "2026-06-08",
+"note": "Quote is a verbatim truncation of a longer sentence; full sentence supplied. He also said 'We've got tons of business that flock to our counties because they want to be here,' supporting the claim."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Brian Jack (R-GA) is named on the Leading the Future 'House GOP Champions' list and the 'broader ecosystem' quote appears verbatim. Note the claim itself concedes this is a PAC signal, not Jack's own statement; the article contains no words from Jack."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Quote appears verbatim in Zac Moffatt's statement that these House members 'will be critical to advancing a national framework in Congress.' The article does not itself say 'alternative to a patchwork of state laws'; that is the tracker's gloss, but the national-framework claim is supported. Jack is named but does not speak."
+},
+{
+"url": "https://thecitizen.com/2026/06/08/brian-jack-talks-data-centers-trump-policies-and-iran-on-ride-to-tyrone/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-08",
+"note": "Headline quote appears verbatim, attributed to Jack."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only evidence is a super PAC listing him as a supported incumbent; the article contains no statement from Jack on AI risk, and the PAC's own framing includes 'basic safety standards' and protecting children. A +1 Light touch score rests on inference about a third party's motives, not on anything he has said or voted on. Evidence is too thin for a position.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "preemption",
+"objection": "Same thin basis: the PAC, not Jack, says its champions will advance a national framework. Jack has no quoted position on preempting state AI laws in either source. The endorsement is a weak signal of leaning national, so at most 0 Mixed or conditional until his own statement or vote is found.",
+"suggested_score": 0,
+"suggested_label": "Mixed or conditional"
+}
+]
+},
+{
+"bioguide": "J000288",
+"checks": [
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/subcommittee-ranking-member-johnson-s-opening-statement-at-subcommittee-hearing-on-protecting-creators-in-the-age-of-ai-and-the-internet",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-30",
+"note": "Quote appears verbatim. Statement (June 30, 2026) ties data centers to utility costs, grid strain and appliance degradation, and next sentence says seniors choose between utility bills and prescriptions; claim supported. Page references the internet's 'midlife crisis' consistent with the hearing title."
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/subcommittee-ranking-member-johnson-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-18",
+"note": "Quote verbatim. Statement (Sept 18, 2025 hearing 'AI at a Crossroads: A Nationwide Strategy or Californication?') cites Hawley hearing on children harmed or killed after chatbot interactions and names bereaved parents in the room; frames common law as the floor preemption must not remove."
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/subcommittee-ranking-member-johnson-s-opening-statement-at-hearing-on-fostering-ai-innovation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-07",
+"note": "Quote verbatim. Hearing title on page is 'Protecting Our Edge: Trade Secrets and the Global AI Arms Race', May 7, 2025. He explicitly calls for 'minimum standards for system cybersecurity' and asks 'what types of transparency are necessary'; rejects colleagues' 'forget regulations' argument."
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/subcommittee-ranking-member-johnson-s-opening-statement-at-subcommittee-hearing-on-protecting-creators-in-the-age-of-ai-and-the-internet",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-30",
+"note": "Quote verbatim; claim (compensate creators, worker protections) directly supported."
+},
+{
+"url": "https://hankjohnson.house.gov/media-center/speeches/ranking-member-johnsons-opening-statement-hearing-ai-and-right-publicity",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-02-02",
+"note": "Quote verbatim. He adds 'Many states protect a right of publicity, but no such right exists at a federal level,' supporting the federal-right framing. Page dated Feb 2, 2024."
+},
+{
+"url": "https://hankjohnson.house.gov/media-center/press-releases/rep-johnson-holds-tech-titans-accountable-consumers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2020-07-29",
+"note": "Quote verbatim from his July 29, 2020 exchange with Tim Cook on App Store rules that are arbitrary, changed to benefit Apple, and discriminate among developers."
+},
+{
+"url": "https://hankjohnson.house.gov/media-center/press-releases/what-they-are-saying-tech-and-consumer-groups-voice-support-open-app",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-08-19",
+"note": "Page (Aug 19, 2021) states Reps. Hank Johnson, Ken Buck and David Cicilline introduced the Open App Markets Act in the House alongside Senators Blackburn, Blumenthal, Klobuchar; Spotify quote commends Johnson, Buck and Cicilline for bipartisan bill."
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/subcommittee-ranking-member-johnson-s-opening-statement-at-subcommittee-hearing-on-protecting-creators-in-the-age-of-ai-and-the-internet",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-30",
+"note": "Quote verbatim. He then names Zuckerberg ($220B), Musk (first trillionaire) and Bezos ($50M wedding) against Georgia income, grocery and housing figures, and says 'Americans are clearly facing an affordability crisis.'"
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/subcommittee-ranking-member-johnson-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-18",
+"note": "Both sentences verbatim and consecutive. Hearing title on page matches 'AI at a Crossroads: A Nationwide Strategy or Californication?'. Claim supported."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned empty text for the PDF; downloaded and extracted directly. Letter dated Nov 26, 2025 to Johnson/Thune/Jeffries/Schumer opposes reviving the AI moratorium in the NDAA and a Trump executive order that would withhold BEAD/broadband funds from states; 81 'Member of Congress' signatures including 'Henry C. \"Hank\" Johnson, Jr.'"
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/subcommittee-ranking-member-johnson-s-opening-statement-at-hearing-on-fostering-ai-innovation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-07",
+"note": "Quote verbatim. Statement discusses IP theft and cybersecurity standards re China; no mention of chip export controls, so the claim's framing is accurate. Evidence too thin to score china_chips; null assignment is appropriate."
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/subcommittee-ranking-member-johnson-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-18",
+"note": "Headline quote appears verbatim in the Sept 18, 2025 statement."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "W000788",
+"checks": [
+{
+"url": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-votes-no-on-tiktok-legislation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-13",
+"note": "Page loaded directly (status 200). It is Williams's own press release on her no vote on H.R. 7521 (Protecting Americans from Foreign Adversary Controlled Applications Act), dated Mar 13, 2024. The quote appears verbatim; the preceding sentence calls the bill 'only a piecemeal approach to solving a serious, industry-wide concern about protecting the personal data of social media users', which directly supports the claim that she favors comprehensive, industry-wide legislation over singling out one company."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "The fetch tool returned 0 chars of text for the PDF, so I downloaded it and extracted text directly. Letter dated November 26, 2025 to Johnson, Thune, Jeffries (and Schumer), urging leaders to oppose reinserting an AI moratorium in the NDAA, and objecting to a reported executive order that would create a DOJ AI Litigation Task Force and withhold BEAD/broadband funds from states with 'onerous' AI laws. 'Nikema Williams, Member of Congress' appears in the signature block (page 8); 81 'Member of Congress' signature lines counted, matching the '81 House Democrats' description. Claim fully supported."
+},
+{
+"url": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-votes-no-on-tiktok-legislation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-13",
+"note": "Same press release as item 1; quote verbatim on the page, attributed to Williams. Note the quote is about TikTok/data privacy, not AI specifically, which is fine for a headline quote but worth knowing."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "M001208",
+"checks": [
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/subcommittee-ranking-member-mcbath-s-opening-statement-at-hearing-on-protecting-americans-from-abuses-of-ai-technology",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-16",
+"note": "Quote appears verbatim (sentence continues ', not to the detriment of law-abiding members of our communities'). Context is law-enforcement use of AI; she calls for guardrails, neither ban nor free hand. Page dated 2025-07-16."
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/subcommittee-ranking-member-mcbath-s-opening-statement-at-hearing-on-protecting-americans-from-abuses-of-ai-technology",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-16",
+"note": "Quote verbatim; follows the Porcha Woodruff Detroit wrongful-arrest example and is followed by 'A.I. is only as good as the data it is trained on... exacerbates racial disparities'. Supports civil-rights framing."
+},
+{
+"url": "https://mcbath.house.gov/2024/5/i-m-a-mom-to-my-core-mcbath-celebrates-signing-of-bipartisan-online-child-protection-law",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-05-07",
+"note": "Quote verbatim. Page states her END Child Exploitation Act, folded into the REPORT Act signed by Biden, raises platforms' CSAM evidence retention from 90 days to 1 year. Dated May 7, 2024."
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/subcommittee-ranking-member-mcbath-s-opening-statement-at-hearing-on-protecting-americans-from-abuses-of-ai-technology",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-16",
+"note": "Quote verbatim (continues '...to explore what those guardrails should look like and put them in place'). She calls the attempted moratorium on state/local AI regulation in the 'Big Ugly Bill' 'alarming', notes 17 GOP governors opposed it, and criticizes continued pursuit of a moratorium. Supports the claim; the page does not explicitly say '10-year' but that was the provision at issue."
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/subcommittee-ranking-member-mcbath-s-opening-statement-at-hearing-on-protecting-americans-from-abuses-of-ai-technology",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-16",
+"note": "Verbatim; suitable headline quote."
+}
+],
+"score_objections": []
+}
+]

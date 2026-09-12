@@ -1,0 +1,140 @@
+[
+{
+"bioguide": "W000437",
+"checks": [
+{
+"url": "https://www.wicker.senate.gov/2026/08/12/wicker-armstrong-builds-senate-momentum-for-permitting-reform-as-12-new-cosponsors-join-his-american-energy-mineral-infrastructure-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-12",
+"note": "Direct fetch returned 403 and Wayback was unreachable; verified via the in-app browser. Wicker quote appears verbatim; page lists him among 13 newly added cosponsors of S. 4944 for a total of 17 cosponsors. Page never mentions data centers or ratepayers, as the claim concedes."
+},
+{
+"url": "https://guest.house.gov/media/in-the-news/amazon-breaks-ground-site-here",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-05-22",
+"note": "Article (dated 2024-05-22, event Monday May 20, 2024) lists Sen. Roger Wicker among dignitaries at the AWS MegaSite groundbreaking in Madison County; no statement from him is recorded, matching the claim."
+},
+{
+"url": "https://www.wicker.senate.gov/2025/5/wicker-helping-maintain-america-s-ai-edge",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-19",
+"note": "Fetch tool 403'd; verified via in-app browser (redirects to /2025/05/19/...). Quote verbatim. Column is headed 'Beat China in the AI Arms Race' and says the light-touch approach mirrors how government treated the internet."
+},
+{
+"url": "https://www.wicker.senate.gov/2026/3/wicker-s-2026-armed-services-priorities",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-04",
+"note": "Verified via in-app browser. Column names 'the systems that will dominate 21st century warfare—small drones, unmanned ships, artificial intelligence, and low-cost munitions' and backs the $150B infusion plus a $1.5T defense budget. AI is one item in a list; weak as an ai_risk signal."
+},
+{
+"url": "https://www.wicker.senate.gov/2024/4/senator-wicker-votes-yes-to-make-tiktok-american-owned",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-04-23",
+"note": "Verified via in-app browser. Quote verbatim; release says he voted to divest TikTok from ByteDance and notes the bill does not ban TikTok outright."
+},
+{
+"url": "https://www.wicker.senate.gov/2021/1/wicker-big-tech-has-crossed-a-red-line",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-01-19",
+"note": "Verified via in-app browser. Quote verbatim. Column headed 'Wave of Censorship Confirms Need to Confront Tech Monopolies'; he says he drafted Section 230 legislation and that Congress should look at antitrust."
+},
+{
+"url": "https://www.wicker.senate.gov/2022/12/wicker-calls-for-big-tech-investigations",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-12-26",
+"note": "Verified via in-app browser. Quote verbatim; column headed 'Twitter Files Reveal Systemic Bias Against Conservatives'."
+},
+{
+"url": "https://www.govtech.com/policy/white-house-continues-push-for-ai-regulations-ban",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-21",
+"note": "Page says Senate Armed Services Chair Roger Wicker said Thursday he hasn't 'been focusing on' the issue of inserting a state AI-law moratorium in the NDAA. Matches claim; it is a non-position, so it supports no preemption score."
+},
+{
+"url": "https://www.wicker.senate.gov/2025/4/wicker-colleagues-send-letter-calling-for-reform-to-biden-ai-diffusion-rule",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-16",
+"note": "Verified via in-app browser. Wicker joined Ricketts-led letter to Commerce Secretary Lutnick; quote verbatim; letter urges withdrawal while preventing Communist China from capturing the market."
+},
+{
+"url": "https://www.wicker.senate.gov/2025/5/wicker-helping-maintain-america-s-ai-edge",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-19",
+"note": "Verified via in-app browser. Quote verbatim; preceding sentence calls the Biden-era chip rule one that 'would have handicapped the supply chain for chips and semiconductors'."
+},
+{
+"url": "https://www.wicker.senate.gov/2025/5/wicker-helping-maintain-america-s-ai-edge",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-19",
+"note": "Headline quote appears verbatim in the May 19, 2025 column."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "Neither source shows any conditions: the permitting quote is 'the government must get out of the way' and the AWS item is attendance at a groundbreaking. Nothing about ratepayers, siting, or grid conditions. The evidence, while indirect (no data-center-specific statement), points to 'Build faster' rather than 'Build with conditions'.",
+"suggested_score": 2,
+"suggested_label": "Build faster"
+}
+]
+},
+{
+"bioguide": "H001079",
+"checks": [
+{
+"url": "https://picayuneitem.com/2026/07/hyde-smith-examines-affordability-as-data-centers-proliferate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-28",
+"note": "Page loaded directly (published 2026-07-28). Quote appears verbatim, attributed to Hyde-Smith, followed by her question to FERC about upfront payments and minimum financial contributions from large load customers to keep rates from rising. Context references Trump's Ratepayer Protection Pledge Proclamation. Claim accurately describes the page."
+},
+{
+"url": "https://guest.house.gov/media/in-the-news/amazon-breaks-ground-site-here",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-05-22",
+"note": "Article (dated 2024-05-22, groundbreaking May 20, 2024) lists 'Rep. Cindy Hyde-Smith' among dignitaries at the AWS MegaSite groundbreaking in Madison County, described as the largest capital investment in Mississippi history. No statement from her is recorded, matching the claim. Note the article mislabels her as 'Rep.' rather than Sen.; 'celebrated' is a slight gloss on mere attendance."
+},
+{
+"url": "https://www.newsweek.com/medicare-update-list-of-senators-voting-against-repeal-of-major-ai-change-12205466",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Newsweek (2026-07-16) lists Cindy Hyde-Smith (Mississippi) among the Republicans who voted against the resolution to overturn the CMS WISeR pilot; article states the vote was along party lines, 46 Democrats for repeal and 50 Republican votes blocking it. Claim matches."
+},
+{
+"url": "https://www.hydesmith.senate.gov/hyde-smith-cosponsors-kids-online-safety-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-05-03",
+"note": "Live site returns 403 to all fetchers; verified via a direct Wayback Machine snapshot. Press release dated Wednesday, May 3, 2023, subhead 'Measure Holds Big Tech Accountable'. Quote appears verbatim attributed to Hyde-Smith; she is one of 32 original cosponsors of S.1409."
+},
+{
+"url": "https://www.hydesmith.senate.gov/hyde-smith-votes-against-chips-act",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "hydesmith.senate.gov returns 403 to the fetch tool, curl with browser UA, and WebFetch. Wayback Machine became unreachable (connection refused / failed to connect) on repeated retries, archive.ph has no copy. Could not verify the quote. The item's own framing (subsidies, not export controls; no china_chips score set) is reasonable and does not affect scoring."
+},
+{
+"url": "https://picayuneitem.com/2026/07/hyde-smith-examines-affordability-as-data-centers-proliferate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-28",
+"note": "Same page as item 1; quote appears verbatim (page ends the sentence with a comma before 'Hyde-Smith said' rather than a period, trivial)."
+}
+],
+"score_objections": []
+}
+]

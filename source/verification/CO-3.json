@@ -1,0 +1,224 @@
+[
+{
+"bioguide": "P000620",
+"checks": [
+{
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "PDF (fetch tool returned 0 chars; downloaded and extracted with pdftotext). Letter dated March 19, 2026 to Cole/DeLauro/Fleischmann/Kaptur; quote appears verbatim; requested report language covers grid reliability, consumer electricity costs, water-efficient operations. Exactly 14 signers listed, Brittany Pettersen among them."
+},
+{
+"url": "https://fedscoop.com/ai-data-centers-canceled-energy-projects-colorado-democrats/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-15",
+"note": "FedScoop article (Oct 15, 2025) names Pettersen among six Colorado Democrats (Bennet, Hickenlooper, Neguse, DeGette, Crow, Pettersen) who signed the letter to Wright on the $7.56B cancellation; quote appears verbatim as a quote from the letter."
+},
+{
+"url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=974",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12-19",
+"note": "Press release Dec 19, 2024. Quote verbatim (curly apostrophe in I'm). Preceding sentence names 'fraud and identity theft to election integrity' as threats, supporting the claim."
+},
+{
+"url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1044",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-27",
+"note": "Quote verbatim; next sentence says the bill harnesses 'AI's potential to strengthen our financial sector', matching the claim. Bill establishes a task force on AI in financial services."
+},
+{
+"url": "https://aimoneywatch.org/people/brittany-pettersen-co-7",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Page headed 'ENDORSED BY LEADING THE FUTURE', CO-7 2026 primary; quote verbatim. The 'guardrails seen as moderate' part of the claim is the tracker's inference, not stated on the page; page carries no date."
+},
+{
+"url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1188",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-23",
+"note": "Press release June 23, 2025: House 'unanimously passed H.R. 2481'; bill requires dating apps to issue fraud ban notifications; introduced with Valadao, Suozzi, Goldman. Quote verbatim."
+},
+{
+"url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1606",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-09",
+"note": "Reposted Gazette story dated Feb 9, 2026: federal bill requiring responses to warrants/subpoenas on 'credible threats' within three days versus 35 now; quote 'devastating and glaring policy failure' appears verbatim attributed to her."
+},
+{
+"url": "https://tsscolorado.com/colorado-congressional-delegation-finds-some-bipartisan-agreement-on-ai-tax-credit-extensions",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-12",
+"note": "Fetch tool failed (TLS error, no wayback); retrieved directly with curl. Article published Aug 12, 2025. Text: Pettersen and Hurd 'prefer that Colorado let Congress take the driver's seat', Pettersen 'admitted it would be complicated to get something passed', a state-by-state patchwork 'could be \"incredibly problematic\" for an emerging national industry', states 'don't have the personnel needed to regulate'. All parts of the claim supported."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF extracted: 81 'Member of Congress' signatures, dated Nov 26, 2025; 'Pettersen' appears 0 times, 'Diana DeGette' appears once. The Matsui-letter half of the claim is confirmed by the source. The Dec 3, 2025 Clarke letter half cannot be verified from this URL (no URL given), so the item as a whole is only partially supported by its cited source."
+},
+{
+"url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=974",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2024-12-19",
+"note": "Page confirms she was a Task Force member and helped release the report, but contains no mention of preemption, moratorium, or state laws (grep for 'preempt' returned nothing). The characterization of the report's preemption stance is not supported by this source; cite the report itself."
+},
+{
+"url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=974",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12-19",
+"note": "Headline quote appears verbatim on the Dec 19, 2024 press release, attributed to Pettersen."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "E000300",
+"checks": [
+{
+"url": "https://gabeevans.house.gov/media/press-releases/evans-bipartisan-ratepayer-protection-act-set-house-vote",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Quote appears verbatim in Evans' statement; release frames bill as keeping energy affordable while 'American innovation can move forward'. 41 cosponsors, 52-0 committee vote."
+},
+{
+"url": "https://www.cbsnews.com/colorado/news/gabe-evans-chris-wright-data-centers-grid-expansion-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-29",
+"note": "Quote verbatim. Article confirms Weld County welcoming data centers, Evans saying paying-their-own-way data centers 'flatten the demand curve' and drive costs down, and that critics treat them as a 'boogie man'."
+},
+{
+"url": "https://gabeevans.house.gov/media/press-releases/congressman-gabe-evans-bipartisan-ratepayer-protection-act-passes-energy-and",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-21",
+"note": "Quote verbatim; full sentence: 'America must build the energy infrastructure necessary to win the global AI race... but hardworking families should never be forced to subsidize that growth through higher electric bills.' Companies creating demand pay."
+},
+{
+"url": "https://www.eenews.net/articles/data-center-lobby-grumbles-about-reworked-ratepayer-protection-act-2",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Quote verbatim, but the article says the pre-markup narrowing was in scope (from all 100 MW+ loads to data centers specifically), which is what angered the Data Center Coalition. The 'states consider adopting a federal standard' structure is described as the proposal, not as the narrowing. Claim conflates the two."
+},
+{
+"url": "https://heatmap.news/politics/ratepayer-protection-act-explained",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-23",
+"note": "Quote verbatim: 'Evans, Castor, Guthrie, and and the rest appear to be acting not out of hostility towards the AI industry, but rather from a desire to protect it from public backlash fed by rising electricity prices.'"
+},
+{
+"url": "https://gabeevans.house.gov/media/press-releases/evans-peters-unveil-bill-address-transmission-project-bottlenecks-and-lower",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Quote verbatim. Release describes CLEAR Act as fixing ambiguity that leaves DOE-coordinated transmission projects 'prone to excessive litigation and outright obstructionism', citing rising demand."
+},
+{
+"url": "https://gabeevans.house.gov/media/press-releases/reps-crank-and-evans-join-secretary-wright-tour-ray-d-nixon-power-plant",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-04",
+"note": "Quote verbatim; Evans cites 'electricity demand skyrocketing' and thanks Wright and Crank for 'an all-of-the-above strategy'."
+},
+{
+"url": "https://gabeevans.house.gov/media/press-releases/congressman-gabe-evans-bill-combating-colorados-skyrocketing-energy-costs",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Quote verbatim. Release blames Colorado Democrats' policies for rising bills and cites outages hurting 'advanced technology companies requiring constant power to compete in fields like quantum computing and AI'."
+},
+{
+"url": "https://coloradotimesrecorder.com/2026/02/theyre-afraid-the-ai-might-misgender-someone-says-congressman-of-ai-regulations/76835",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-25",
+"note": "Quote verbatim. Article has Evans calling the law an 'incredibly onerous regulatory framework', mocking fears the AI 'might misgender someone', and saying it drives jobs to communist China."
+},
+{
+"url": "https://gabeevans.house.gov/media/press-releases/reps-gabe-evans-and-nick-langworthy-send-letter-department-commerce-secretary",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-19",
+"note": "Quote verbatim. Letter excerpt supports 'a coherent, pro-innovation national AI policy framework... and ensures children and communities remain safeguarded'."
+},
+{
+"url": "https://riponadvance.com/featured/evans-urges-administration-to-develop-national-ai-approach",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Direct fetch 403, WebFetch 403, Wayback returned connection refused / 429 / empty on three attempts. Could not verify 'general applicability' or 'minimally burdensome' wording; the house.gov release for the same letter does not contain those phrases."
+},
+{
+"url": "https://gabeevans.house.gov/media/press-releases/rep-gabe-evans-open-source-ai-leadership-act-passes-energy-commerce",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Quote verbatim including the typo 'creates safeguard'. Release says 'We should be making it easier for our nation's innovators and startups to build, compete, and lead.'"
+},
+{
+"url": "https://gabeevans.house.gov/media/press-releases/rep-evans-and-deputy-secretary-labor-highlight-co-08s-ai-workforce-innovation",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-07-31",
+"note": "Quote verbatim, and the release's background text does describe the AI Action Plan as 'removing burdensome regulations' and part of an effort 'to remove AI guardrails imposed by the previous administration'. But Evans' own quote praises the administration's embrace of AI generally; he does not name or explicitly praise the Action Plan."
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-21",
+"note": "Quote verbatim. Evans approvingly cites Polis backing the federal moratorium, and asks Sean Heather about 'fiscal or revenue data on the benefits of having a national, just general rules of the road policy' versus a patchwork."
+},
+{
+"url": "https://gabeevans.house.gov/media/press-releases/reps-gabe-evans-and-nick-langworthy-send-letter-department-commerce-secretary",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-19",
+"note": "Quote verbatim from letter excerpt; letter flags Colorado SB 205 and NY RAISE Act for the Commerce report under the President's EO. Release does not itself state the Dec 11, 2025 EO date, but the EO reference is clear."
+},
+{
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Quote verbatim. Article names Evans voting against Pallone's COMM19 amendment to strike the moratorium (29-24), for transmitting Title IV with the moratorium, and for transmitting the full committee recommendations, in the May 13-14, 2025 markup."
+},
+{
+"url": "https://coloradotimesrecorder.com/2026/02/theyre-afraid-the-ai-might-misgender-someone-says-congressman-of-ai-regulations/76835",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-25",
+"note": "Quote verbatim: 'or are we gonna strangle ourselves with red tape, poorly thought out laws like this one.' He calls the framework 'incredibly damaging' and frames the question as maintaining 'global leadership in the AI space'."
+},
+{
+"url": "https://gabeevans.house.gov/media/press-releases/reps-gabe-evans-and-nick-langworthy-send-letter-department-commerce-secretary",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-19",
+"note": "Headline quote verbatim, attributed to Congressman Gabe Evans in the release."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the 18 sources addresses Big Tech or platform regulation; the only regulation-related evidence is the Open-Source AI Leadership Act's 'common sense consumer protections' and letter language about keeping children safeguarded, set against consistent anti-regulation rhetoric and votes for the state AI moratorium. Evidence is too thin to place him at -1 'Targeted rules'; without a source on tech regulation specifically, 0 is the defensible default.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+}
+]

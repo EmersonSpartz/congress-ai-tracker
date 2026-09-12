@@ -1,0 +1,392 @@
+[
+{
+"bioguide": "J000310",
+"name": "Julie Johnson",
+"signature": "First-term Dallas-area Democrat who sponsored a bill banning deceptive AI deepfakes of federal candidates and pushed whistleblower rewards for export-control violations; lost her May 2026 primary runoff to Colin Allred.",
+"notable_quote": {
+"text": "The health of our democracy is on the line as deepfakes and AI-generated content are being used to manipulate voters. If we don’t act now, our elections will be flooded with increased misinformation",
+"url": "https://juliejohnson.house.gov/media/press-releases/johnson-introduces-bipartisan-bill-protect-elections-deceptive-artificial",
+"date": "2025-09-11"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers, electric bills or grid strain as of Sept 2026. Her official energy issues page does not mention data centers, and she has not sponsored or cosponsored any data center or ratepayer bill.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Johnson wants targeted rules, especially against AI deepfakes in elections, and says Congress should set a balanced framework that protects the public and kids while keeping the U.S. ahead of other nations. She has not called for broad safety testing or licensing of advanced AI.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 5272, Protect Elections from Deceptive AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5272",
+"date": "2025-09-10",
+"quote": null,
+"what_it_shows": "She wrote the House bill banning materially deceptive AI audio or video of federal candidates, a targeted guardrail."
+},
+{
+"type": "statement",
+"title": "Press release: Johnson introduces bipartisan bill to protect elections from deceptive AI",
+"url": "https://juliejohnson.house.gov/media/press-releases/johnson-introduces-bipartisan-bill-protect-elections-deceptive-artificial",
+"date": "2025-09-11",
+"quote": "The health of our democracy is on the line as deepfakes and AI-generated content are being used to manipulate voters. If we don’t act now, our elections will be flooded with increased misinformation",
+"what_it_shows": "In her own words she frames AI deepfakes as an urgent threat that needs a legal ban with civil remedies."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9922, AI Transparency in Elections Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9922",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "Backs requiring political ads to disclose when they were made with AI."
+},
+{
+"type": "statement",
+"title": "Official website issue page: Artificial Intelligence (AI)",
+"url": "https://juliejohnson.house.gov/issues/artificial-intelligence-ai",
+"date": "2026-03-23",
+"quote": "Congress must take action to prepare the workforce and establish a smart, balanced regulatory framework",
+"what_it_shows": "Her stated approach mixes guardrails (protecting the public, keeping children safe, retraining workers, blocking AI-driven Medicare prior authorization) with a warning that the U.S. cannot afford to fall behind other nations."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Johnson supports specific fixes such as kids online safety, reproductive health data privacy and blocking Chinese-linked connected cars. No calls for breaking up Big Tech or repealing Section 230 were found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7757, KIDS Act (House roll call 228, passed 267-117)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "She voted for the kids online safety package while House Democrats split 104 to 85 on it."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3218, Reproductive Data Privacy and Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-09-03",
+"quote": null,
+"what_it_shows": "Supports limits on companies collecting or selling reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "Backs banning connected cars and software from companies tied to China, Russia, Iran or North Korea."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. She did not sign the Nov 26, 2025 Matsui letter or the Dec 3, 2025 Clarke letter against a state AI-law moratorium, and no statement on the Dec 2025 executive order or the March 2026 White House framework was found.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Johnson is hawkish on enforcing export controls: she wrote a whistleblower-reward bill for defense export violations, cosponsored a similar bill for chip export violations, pressed the Commerce Department on enforcement, and voted to close the cloud-access loophole. She has not taken a public position on Nvidia H20 or H200 sales to China.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6322, Stop Stealing our Chips Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6322",
+"date": "2025-11-28",
+"quote": null,
+"what_it_shows": "Backs paying and protecting whistleblowers who report chip export-control violations to the Bureau of Industry and Security."
+},
+{
+"type": "statement",
+"title": "Press release: Johnson introduces bipartisan bills to protect whistleblowers, safeguard U.S. defense technology",
+"url": "https://juliejohnson.house.gov/media/press-releases/johnson-introduces-bipartisan-bills-protect-whistleblowers-safeguard-us",
+"date": "2025-12-03",
+"quote": "Foreign adversaries like China, Russia, and Iran are constantly seeking to steal our most sensitive military systems and data, and these transgressions are not just a compliance issue",
+"what_it_shows": "She sponsored the Whistleblowers Aiding National Security Act and framed export-control violations as a national security threat from China."
+},
+{
+"type": "hearing",
+"title": "Video: Johnson in Committee: Why Is BIS Ignoring Export Control Violations? (House Foreign Affairs hearing with BIS Under Secretary Jeffrey Kessler)",
+"url": "https://juliejohnson.house.gov/media/videos/johnson-committee-why-bis-ignoring-export-control-violations",
+"date": "2026-07-14",
+"quote": null,
+"what_it_shows": "She used a Foreign Affairs hearing to press the Commerce export-control agency on its lack of whistleblower protections for export violations."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 2683, Remote Access Security Act (House roll call 13, passed 369-22)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h13",
+"date": "2026-01-12",
+"quote": null,
+"what_it_shows": "Voted to let export controls cover remote cloud access to controlled chips and AI; the vote was lopsided so it is a weak signal on its own."
+}
+]
+}
+},
+"search_notes": "Searches run: news queries on 'Julie Johnson' with artificial intelligence, AI/chatbot/deepfake, data center, Big Tech/Section 230/privacy, export controls/chips, workforce/retraining, Homeland Security AI, moratorium/preemption, runoff/super PAC; site listing of juliejohnson.house.gov (two filters) and fetches of her AI issue page, energy page, press index, deepfake bill release, whistleblower bills release, BIS hearing video page, 6G bill release and DOGE privacy release. Checked the Matsui (Nov 26, 2025), Clarke (Dec 3, 2025) and Casar (Aug 10, 2026) letters: not a signer of any. Pulled Clerk roll calls 228 (KIDS Act, Yea), 13 (Remote Access Security Act, Yea) and 278 (FY27 NDAA, Nay; not used because the vote turned on many non-AI issues). Could not open the Texas Tribune Apr 1, 2026 story on AI super PACs in Texas House races (URL not decodable), so no PAC evidence for her TX-33 runoff, which she lost to Colin Allred on May 26, 2026. Her USA 6G Global Leadership Act (Apr 2026) is China-hawkish on telecom standards but not about chips, so it was left out of evidence. No AI caucus membership found."
+},
+{
+"bioguide": "V000131",
+"name": "Marc A. Veasey",
+"signature": "Fort Worth Democrat on Energy and Commerce who cheers the DFW data center boom while backing limits on police facial recognition, algorithmic accountability and the Chip Security Act; not seeking reelection in 2026.",
+"notable_quote": {
+"text": "But as we lean into the future, we have to be clear out about what comes with it because AI just doesn't run on code and it runs on power.",
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"date": "2025-04-09"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Veasey celebrates the data centers going up around Fort Worth as generational job creators, but says AI runs on power and pressed to keep clean-energy incentives so electricity comes online fast and affordably. No statement found on the 2026 Texas backlash or on ratepayer bills, and he has not cosponsored any data center bill.",
+"evidence": [
+{
+"type": "hearing",
+"title": "E&C hearing 'Converting Energy into Intelligence': Veasey on DFW data centers (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"date": "2025-04-09",
+"quote": "you can see the new facilities going up and the jobs that they're bringing along with them, which is very, very important. It is generational and it's really helping the DFW area lead the charge",
+"what_it_shows": "He describes new data centers in the Alliance corridor, Crowley and Fort Worth as a good thing for jobs and regional leadership."
+},
+{
+"type": "hearing",
+"title": "E&C hearing 'Converting Energy into Intelligence': Veasey on power demand and incentives (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"date": "2025-04-09",
+"quote": "But as we lean into the future, we have to be clear out about what comes with it because AI just doesn't run on code and it runs on power.",
+"what_it_shows": "He flags the strain data centers put on the grid and asked a former DOE official to keep tax incentives, grants and loans so new power can be added quickly and affordably."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Veasey backs targeted guardrails: he has cosponsored the Algorithmic Accountability Act and the Facial Recognition Act in two Congresses and used a 2025 hearing to warn about police misuse of face-scanning tools. He pairs this with a push for the U.S., not China, to lead in AI.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5511, Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-19",
+"quote": null,
+"what_it_shows": "Supports requiring companies to test automated decision systems for bias and harm and report to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4695, Facial Recognition Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4695",
+"date": "2025-07-23",
+"quote": null,
+"what_it_shows": "Supports limits on police use of facial recognition; he also cosponsored the 2023 version (H.R. 6092)."
+},
+{
+"type": "hearing",
+"title": "E&C Commerce subcommittee hearing 'AI Regulation and the Future of US Leadership': Veasey on facial recognition (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"date": "2025-05-21",
+"quote": "One of the things that I've been interested in is obviously concerned about, and I do think that there's some benefits to it, but we have to be careful, is facial recognition tool.",
+"what_it_shows": "He entered a Washington Post report on secret police facial recognition in New Orleans into the record and asked what Congress should do to protect civil liberties."
+},
+{
+"type": "hearing",
+"title": "E&C Commerce subcommittee hearing 'AI Regulation and the Future of US Leadership': Veasey on U.S. leadership (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"date": "2025-05-21",
+"quote": "we want to be the leaders in any sort of new technologies that are coming to the market. We don't want the Chinese to be the leaders in these areas.",
+"what_it_shows": "He balances his civil-liberties concerns with wanting rules that build consumer confidence while keeping the U.S. ahead of China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8858 (118th), Securing Elections From AI Deception Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-07-22",
+"quote": null,
+"what_it_shows": "Backed banning AI-made fakes used to deceive voters in federal elections."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Veasey favors specific rules: kids online safety, federal privacy law, reproductive and servicemember data protections, and forcing TikTok's sale. He has not called for Section 230 repeal or breaking up Big Tech.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7757, KIDS Act (House roll call 228, passed 267-117)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He voted for the kids online safety package while House Democrats split 104 to 85."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Veasey demands answers from TikTok CEO on election disinformation, privacy concerns",
+"url": "https://veasey.house.gov/media-center/press-releases/rep-veasey-demands-answers-from-tiktok-ceo-on-election-disinformation",
+"date": "2023-03-23",
+"quote": "I remain committed to working with my colleagues on both sides of the aisle to enact federal privacy legislation that counters malicious campaigns of any kind that continue to thrive on this platform",
+"what_it_shows": "He wants a federal privacy law and pressed TikTok's CEO on data privacy, disinformation and child welfare."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7521 (118th), Protecting Americans from Foreign Adversary Controlled Applications Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "Backed forcing TikTok's Chinese owner to sell or face a U.S. ban."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 (118th), My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Supports limits on apps collecting or sharing reproductive health data."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI-law moratorium. At a May 2025 hearing he praised Fort Worth and Dallas rules on facial recognition and a witness told him the moratorium would wipe away state progress, but he did not state his own view on preemption.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Veasey cosponsored the Chip Security Act, which would put location tracking on advanced AI chips to catch smuggling to China, voted to close the cloud-access loophole, and warned in a hearing that losing chip leadership means China rules the world. No statement found on Nvidia H20 or H200 sales.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3447, Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-08-22",
+"quote": null,
+"what_it_shows": "Backs the main House bill for tightening AI chip export controls with built-in location verification."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 2683, Remote Access Security Act (House roll call 13, passed 369-22)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h13",
+"date": "2026-01-12",
+"quote": null,
+"what_it_shows": "Voted to let export controls cover remote cloud access to controlled chips and AI; lopsided vote, weak signal alone."
+},
+{
+"type": "hearing",
+"title": "E&C hearing 'Converting Energy into Intelligence': Veasey on CHIPS Act and China (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"date": "2025-04-09",
+"quote": "Which means China rules the world. Very scary.",
+"what_it_shows": "He framed any rollback of CHIPS Act semiconductor incentives as handing AI and chip leadership to China; this is about domestic chip manufacturing rather than export rules."
+}
+]
+}
+},
+"search_notes": "Searches run: news queries on 'Marc Veasey'/'Veasey' with artificial intelligence, AI/chatbot/deepfake/algorithm, data center(s), electricity/ratepayers/grid, Energy and Commerce AI hearing, E&C markup data center July 2026, preemption/moratorium, chatbot/kids/Section 230/TikTok/privacy, Nvidia/export controls/Chip Security Act, nuclear licensing (Sept 2026 Griffith/Guthrie/Veasey release, URL not decodable), FERC/affordability hearings; site listings of veasey.house.gov (two filters), energycommerce.house.gov, democrats-energycommerce.house.gov and morgangriffith.house.gov (no hits). Fetched Tech Policy Press transcripts of the Apr 9, 2025 full committee AI-energy hearing and the May 21, 2025 CMT subcommittee AI regulation hearing (both with Veasey remarks), plus the Nov 18, 2025 AI chatbots hearing, the Apr 1, 2025 Oversight data center economics hearing and the Feb 3, 2026 FERC hearing page (no Veasey remarks). Checked Matsui, Clarke and Casar letters: not a signer. Clerk roll calls: 228 KIDS Act Yea, 13 Remote Access Security Act Yea, 278 FY27 NDAA Nay (not used, omnibus vote). He announced in Dec 2025 he would not seek reelection to Congress and then dropped a Tarrant County judge bid. No AI caucus membership or AI super PAC activity found."
+},
+{
+"bioguide": "G000581",
+"name": "Vicente Gonzalez",
+"signature": "South Texas Blue Dog Democrat who says he opposes new data centers in the Rio Grande Valley until the region has enough water and a reliable grid; cosponsor of the Ratepayer Bill of Rights and the Protecting Communities from Data Center Impacts Act.",
+"notable_quote": {
+"text": "Until we have an abundance of water, a reliable energy grid, and a well-thought-out-plan for the future, I continue to oppose the development of these facilities.",
+"url": "https://www.krgv.com/news/fluidstack-breaks-ground-on-4-billion-data-center-project-in-cameron-county/",
+"date": "2026-09"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "high",
+"summary": "Gonzalez says he opposes building data centers in South Texas until the region has enough water, a reliable grid and a real plan, and he has cosponsored two bills to shield ratepayers and neighborhoods from data center costs. He also cosponsored the SPEED Act permitting-reform bill in 2025, a mild counter-signal on infrastructure generally.",
+"evidence": [
+{
+"type": "statement",
+"title": "KRGV report on Fluidstack's $4 billion Cameron County AI data center groundbreaking, with Gonzalez statement",
+"url": "https://www.krgv.com/news/fluidstack-breaks-ground-on-4-billion-data-center-project-in-cameron-county/",
+"date": "2026-09",
+"quote": "Until we have an abundance of water, a reliable energy grid, and a well-thought-out-plan for the future, I continue to oppose the development of these facilities.",
+"what_it_shows": "Asked about a $4 billion AI data center in his own district, he said he supports economic growth but opposes these facilities until water and grid capacity exist."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 10139, Ratepayer Bill of Rights Act of 2026 (Cuellar)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10139",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "Backs making data centers pay their own grid costs so families do not see higher electric bills."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9629, Protecting Communities from Data Center Impacts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9629",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "Backs protections for neighborhoods from data center noise, power and water problems."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4776, SPEED Act (permitting reform, Westerman)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4776",
+"date": "2025-09-09",
+"quote": null,
+"what_it_shows": "He backed a broad federal permitting-streamlining bill in 2025, which cuts against a pure block-everything stance, though it is not data center specific."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Searched for statements on chatbots, deepfakes, AI safety and AI bills; the only lead was an Aug 2026 headline about a Rally Credit Union event on rising fraud and AI scams, which could not be opened. He has not sponsored or cosponsored any AI risk bill.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "The only recent signal is his vote for the KIDS Act kids online safety package in June 2026. No statements on Big Tech, Section 230 or privacy law were found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 7757, KIDS Act (House roll call 228, passed 267-117)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He voted for the kids online safety bill while House Democrats split 104 to 85."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI-law moratorium, and no statement on the executive order or White House framework was found.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "His only recorded position is a Yea vote on the Remote Access Security Act, which extends export controls to cloud access to advanced chips. That vote passed 369 to 22, so it is a weak signal. No statements on Nvidia sales or export controls were found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 2683, Remote Access Security Act (House roll call 13, passed 369-22)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h13",
+"date": "2026-01-12",
+"quote": null,
+"what_it_shows": "Voted to close the loophole letting foreign users reach controlled chips and AI through the cloud; near-unanimous vote."
+}
+]
+}
+},
+"search_notes": "Searches run: news queries on 'Vicente Gonzalez' with artificial intelligence, AI/chatbot/deepfake/scams, data center(s), electricity/ratepayers/Ratepayer Bill of Rights, Nvidia/export controls/chips/China, Financial Services AI/fintech, SPEED Act/permitting, Fluidstack/Harlingen/Cameron County, Rally Credit Union AI scams, online travel agents, Talarico AI event, moratorium/preemption; site listings of gonzalez.house.gov (two filters) and fetches of his press index and older FTC scam-related releases (2019 and 2021, not AI related). Confirmed SPEED Act cosponsorship on congress.gov (Sept 9, 2025). Fetched KRGV stories on the Fluidstack groundbreaking (his full statement) and the Harlingen drainage vote (no comment from him). Could not open the CU Today Aug 10, 2026 article on his AI scams event (404) or the Rio Grande Guardian Fluidstack story. Checked Matsui, Clarke and Casar letters: not a signer. Clerk roll calls: 228 KIDS Act Yea, 13 Remote Access Security Act Yea, 278 FY27 NDAA Yea (not used, omnibus vote). No AI caucus membership or AI super PAC activity found; the Texas Tribune Apr 1, 2026 AI super PAC story could not be opened."
+}
+]

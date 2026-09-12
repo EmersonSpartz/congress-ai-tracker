@@ -1,0 +1,236 @@
+[
+{
+"bioguide": "R000617",
+"checks": [
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-28",
+"note": "Beyer release lists Delia Ramirez (IL-03) among the 20 Democratic signers of the Mullin-led letters to FERC/EEI/Data Center Coalition; the quote appears verbatim in the letter text. Letter language is about grid-upgrade costs being passed to customers, consistent with the claim."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Release names Ramirez as co-lead (Ranking Member, Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection). Quote is verbatim; letter also says CEOs 'should answer questions under oath' and that Congress has 'completely failed to respond to the threats posed by AI development.' Release cites models escaping test environments as context, supporting the 'model failures' part of the claim."
+},
+{
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"verdict": "confirmed",
+"corrected_quote": "This whole move fast and break things is not acceptable innovation strategy when we know that the things that end up being broken are not just a computer, a laptop, a cell phone. It's people's lives, their rights and their privacy.",
+"corrected_date": "2026-07-06",
+"note": "Quote verbatim, attributed to Ramirez ('a Chicago Democrat'); the item's quote omits the closing sentence about lives, rights and privacy, which the claim paraphrases. Article also notes she says she has never used AI."
+},
+{
+"url": "https://legis1.com/news/frontier-ai-cybersecurity-threat-poses-urgent",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-09",
+"note": "Legis1 write-up: 'Ranking Member Rep. Delia Ramirez (D-IL) pressed Guariglia on accountability for autonomous AI systems managing critical infrastructure. Asked directly who would be legally responsible if an agentic AI managing a city's water system made a catastrophic error, Guariglia replied flatly: \"I don't know who's responsible under current law.\"' Matches claim. Note Legis1 is a secondary summary of the hearing, not the official transcript."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned 0 chars for the PDF; downloaded directly and extracted text. Letter dated November 26, 2025 opposes an NDAA state-AI-law moratorium and a preemption executive order; quote appears verbatim; 'Delia C. Ramirez, Member of Congress' appears in the signature block."
+},
+{
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"verdict": "confirmed",
+"corrected_quote": "This whole move fast and break things is not acceptable innovation strategy when we know that the things that end up being broken are not just a computer, a laptop, a cell phone. It's people's lives, their rights and their privacy.",
+"corrected_date": "2026-07-06",
+"note": "Same article as item 3; quote verbatim and attributed to Ramirez. Full sentence continues with 'It's people's lives, their rights and their privacy.'"
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the six sources addresses Big Tech regulation generally (antitrust, platform rules, privacy law, kids online safety). All evidence is AI-specific (AI CEOs under oath, AI safety, state AI laws). The -1 'Targeted rules' score is plausible given her posture but is not supported by any cited source; either add a source or mark as no position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "G000586",
+"checks": [
+{
+"url": "https://broadbandbreakfast.com/ocasio-cortez-introduces-ai-data-center-moratorium-act/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-26",
+"note": "Article (Jun 26, 2026) accurately describes the AOC House companion to Sanders' AI Data Center Moratorium Act as halting new development pending federal safeguards with worker protections and community approval. But it never names García; it only says the bill has nine unnamed Democratic co-sponsors. His membership on the bill is not supported by this page and needs a congress.gov cosponsor list."
+},
+{
+"url": "https://chuygarcia.house.gov/media/press-releases/icymi-congressman-garcia-criticizes-republicans-at-subcommittee-hearing-on-artificial-intelligence-ai-innovation-and-competition-for-their-complicity-in-trump-and-musk-s-dangerous-weaponization-of-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-02",
+"note": "Quote appears verbatim (curly apostrophe only) in his April 2, 2025 hearing remarks; he explicitly calls it absurd to oppose common-sense regulation of the AI industry and criticizes Republicans."
+},
+{
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-garcia-and-grijalva-demand-answers-from-dhs-on-use-of-ai-in-immigration-decision-making",
+"verdict": "confirmed",
+"corrected_quote": "We must ensure that no algorithm undermines their rights or introduces bias into life-altering decisions. The use of artificial intelligence by DHS must be transparent and accountable to ensure it does not perpetuate bias or injustice.",
+"corrected_date": "2024-12-19",
+"note": "Verbatim quote attributed to Rep. García; item quote truncates the final clause. Letter with Grijalva to DHS on AI in immigration decisions."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Casar/Ramirez letter to Speaker Johnson (Aug 10, 2026) states advanced AI models pose a clear risk to safety and security and calls for CEOs to testify under oath; Jesús G. \"Chuy\" García (IL-04) listed among signers (distinct from Sylvia R. Garcia)."
+},
+{
+"url": "https://chuygarcia.house.gov/media/press-releases/congressman-jesus-chuy-garcia-introduces-bill-keep-big-tech-companies-out",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2019-10-23",
+"note": "Oct 23, 2019 release: García says regulators should be considering how to break up Facebook and introduces the Keep Big Tech Out of Finance Act. Quote verbatim. Note this is pre-AI-era (2019) and about Libra/Facebook, not AI."
+},
+{
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-garcia-nadler-lead-house-colleagues-in-demanding-answers-from-delta-ceo-about-ai-use-in-ticket-pricing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-05",
+"note": "Nov 5, 2025 letter led by García and Nadler; quote verbatim from the members' letter, which frames Delta/Fetcherr AI pricing as concentration and surveillance-based price discrimination."
+},
+{
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-jesus-chuy-garcia-and-becca-balint-introduce-legislation-to-crack-down-on-companies-exacerbating-rental-housing-crisis-through-price-fixing-algorithms",
+"verdict": "confirmed",
+"corrected_quote": "I'm proud to join my colleague Rep. Balint in introducing this bill to ban algorithmic price-fixing and protect renters from this new frontier of anticompetitive, anti-consumer behavior",
+"corrected_date": "2024-06-06",
+"note": "June 6, 2024 release; quote verbatim (source uses curly apostrophe and the sentence begins mid-clause after 'today,'). Bill bans algorithmic rental price-fixing."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF (fetch tool returned 0 chars; downloaded and extracted directly). Nov 26, 2025 letter opposes an NDAA state-AI-law moratorium and the proposed preemption EO; quote appears verbatim; Jesús G. \"Chuy\" García listed among signers."
+},
+{
+"url": "https://chuygarcia.house.gov/media/press-releases/icymi-congressman-garcia-criticizes-republicans-at-subcommittee-hearing-on-artificial-intelligence-ai-innovation-and-competition-for-their-complicity-in-trump-and-musk-s-dangerous-weaponization-of-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-02",
+"note": "Same page as item 2; quote verbatim."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only data_centers source does not name García; it says the AOC moratorium bill has nine unnamed Democratic co-sponsors. A -2 'Pause or block' score rests entirely on his cosponsorship, which is unverified from the cited page. Keep -2 only if congress.gov confirms him as a cosponsor of the AI Data Center Moratorium Act; otherwise the evidence is too thin for any position.",
+"suggested_score": -2,
+"suggested_label": "Pause or block"
+}
+]
+},
+{
+"bioguide": "Q000023",
+"checks": [
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-28",
+"note": "Beyer press release (published 2025-10-28) lists Mike Quigley (IL-05) among the signers of the letters led by Rep. Kevin Mullin to FERC, EEI and the Data Center Coalition. Quote appears verbatim in the letter text. Letter asks how ratepayers will be protected from data-center-driven grid costs, matching the claim."
+},
+{
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-20",
+"note": "Jacobs press release (published 2026-03-20) on the GUARDRAILS Act to repeal Trump's AI-moratorium executive order lists Mike Quigley (D-IL) among the House cosponsors. Quote appears verbatim. Supports the claim that he joined the bill at introduction, siding with states' ability to regulate AI."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "Neither checked source addresses Big Tech or platform regulation generally; item 1 is about data-center ratepayer costs and item 2 is about federal preemption of state AI laws. Unless other evidence exists outside these items, the tech_regulation score of -1 is not supported by the sources reviewed here.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "C001117",
+"checks": [
+{
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405148",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-18",
+"note": "Castor release (Mar 18, 2026) praising SEEC leaders Casten and Levin's Energy Bills Relief Act; bill summary contains the quote verbatim (curly apostrophe only)."
+},
+{
+"url": "https://www.utilitydive.com/news/casten-house-energy-bill-trump-electricity/761447/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-30",
+"note": "Casten interview on draft Cheap Energy Act; quote verbatim, preceded by 'surging demand [from data centers and other loads]' and lack of competitive markets leading to 'upward pressure on electric prices'."
+},
+{
+"url": "https://www.eenews.net/articles/trump-ai-directive-could-spur-congressional-action-on-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-23",
+"note": "Article states the Casten/Levin Energy Bills Relief Act (H.R. 7977) 'includes provisions to make sure data centers pay for their energy.'"
+},
+{
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"verdict": "confirmed",
+"corrected_quote": "Every time they come and present to us in Congress, they say, 'We have to move really fast, because otherwise the Chinese will, and I can't be held accountable for whatever this does, because the important thing is that we build it,'",
+"corrected_date": "2026-07-06",
+"note": "Quote is verbatim but truncated mid-sentence; full sentence continues 'because the important thing is that we build it.' Casten then says 'That's fundamentally the same argument that led us to the Cold War.' Article also notes his concern about lack of liability for AI companies."
+},
+{
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-06",
+"note": "Quote verbatim; he adds 'unemployed young men is sort of a recipe for a political crisis.' Article also says he uses AI in his office and sees its value for research and the private sector."
+},
+{
+"url": "https://casten.house.gov/media/press-releases/casten-trahan-schiff-demand-answers-from-x-on-social-media-watchdog-intimidation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-08-02",
+"note": "Release describes letter to X/Musk over decisions 'calculated to harass, silence, and suppress research' by watchdogs like the Center for Countering Digital Hate studying hate on the platform."
+},
+{
+"url": "https://casten.house.gov/media/press-releases/casten-leads-letter-demanding-social-media-platforms-do-more-stop-spread",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2020-04-08",
+"note": "Casten led letter to Facebook, Google, LinkedIn, Reddit and Twitter on COVID-19 misinformation. Claim omits LinkedIn but is otherwise accurate."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF (fetch tool returned empty text; extracted directly) dated November 26, 2025; quote verbatim; 'Sean Casten, Member of Congress' appears among signers on page 5."
+},
+{
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-20",
+"note": "Quote verbatim; Casten (D-IL) listed among House cosponsors of the GUARDRAILS Act in the Mar 20, 2026 introduction release."
+},
+{
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"verdict": "confirmed",
+"corrected_quote": "Every time they come and present to us in Congress, they say, 'We have to move really fast, because otherwise the Chinese will, and I can't be held accountable for whatever this does, because the important thing is that we build it,'",
+"corrected_date": "2026-07-06",
+"note": "Same quote as item 4; verbatim but truncated before 'because the important thing is that we build it.'"
+}
+],
+"score_objections": []
+}
+]

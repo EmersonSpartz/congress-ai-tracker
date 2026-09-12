@@ -1,0 +1,222 @@
+[
+{
+"bioguide": "P000197",
+"checks": [
+{
+"url": "https://pelosi.house.gov/news/press-releases/pelosi-statement-opposition-california-senate-bill-1047",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-08-16",
+"note": "Quote appears verbatim. Page cites Fei-Fei Li's warning that SB 1047 'would have significant unintended consequences that would stifle innovation.' Note she does not frame herself as siding with 'AI industry'; she cites Congress members, Eshoo/Khanna letter, and academia, and explicitly says 'not big tech'."
+},
+{
+"url": "https://pelosi.house.gov/news/press-releases/pelosi-statement-opposition-california-senate-bill-1047",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-08-16",
+"note": "Quote verbatim. Closing line: 'enable small entrepreneurs and academia – not big tech – to dominate.' She also says 'We must have legislation that is a model for the nation and the world,' so the claim's 'rather than strict rules' is an inference, not her words."
+},
+{
+"url": "https://sfstandard.com/2026/08/06/wiener-built-ai-chatbot-mock-chan-s-politics-pelosi-says-s-sexist-racist/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-06",
+"note": "Letter signed by Pelosi, Lofgren, Meng, Tokuda, Chu, Supervisors Fielder and Chen; quote verbatim. Article contains no call for regulation from the signers; Wiener's reply notes Pelosi's role in killing SB 1047."
+},
+{
+"url": "https://pelosi.house.gov/news/press-releases/pelosi-statement-house-passage-protecting-americans-foreign-adversary",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-13",
+"note": "Quote verbatim. Page: 'this legislation is not a ban on TikTok' and frames it as 'security of our country and privacy of our data.'"
+},
+{
+"url": "https://pelosi.house.gov/news/press-releases/speaker-emerita-pelosi-floor-speech-protecting-americans-foreign-adversary",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-13",
+"note": "Quote verbatim. She cites entertainment, educational, communication and business value and being 'a grandmother of teenagers.' The word 'divestiture' is not used on the page but the bill she supports is the divest-or-ban law."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF fetched directly (extracted text). Quote verbatim; letter cites the Senate's 'overwhelming bipartisan 99-1 vote' and lists 'Nancy Pelosi Member of Congress' among 81 signers."
+},
+{
+"url": "https://pelosi.house.gov/news/press-releases/pelosi-statement-opposition-california-senate-bill-1047",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-08-16",
+"note": "Verbatim on page."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "Light touch (+1) overstates the record. She opposed one strict frontier-model bill (SB 1047), but in the same statement calls for AI legislation that 'protects consumers, data, intellectual property' and is 'a model for the nation and the world,' wants small entrepreneurs and academia 'not big tech' to dominate, and in Nov 2025 signed a letter defending 'state and local AI safeguards' against a federal moratorium. That is opposition to a specific rule set, not a hands-off posture; Mixed fits better.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+},
+{
+"bioguide": "S001231",
+"checks": [
+{
+"url": "https://www.dailycal.org/news/national/it-s-not-a-yes-or-no-question-congresswoman-lateefah-simon-declines-to-support-data/article_c2fde2ca-ffa6-4fb7-b8f6-f5f9ca8b5739.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Quote appears verbatim. Article (Alameda High School town hall) says she called a ban 'not a yes or no question', wouldn't shut down Berkeley data centers, cited Berkeley Lab's renewable-energy requirement, and said reviewing moratorium proposals is important. Claim matches."
+},
+{
+"url": "https://www.dailycal.org/news/national/it-s-not-a-yes-or-no-question-congresswoman-lateefah-simon-declines-to-support-data/article_c2fde2ca-ffa6-4fb7-b8f6-f5f9ca8b5739.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Verbatim: 'Do we shut down Berkeley's data centers? I don't think so,' followed by 'Do we shut down Lawrence labs? No. But what we've demanded of (Berkeley Lab) is that they use renewable energy from beginning to end.' Claim is supported."
+},
+{
+"url": "https://www.dailycal.org/news/national/it-s-not-a-yes-or-no-question-congresswoman-lateefah-simon-declines-to-support-data/article_c2fde2ca-ffa6-4fb7-b8f6-f5f9ca8b5739.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Article states verbatim that she 'is primarily concerned with gentrification, a lack of guardrails around AI and resource overextraction.' This is the reporter's paraphrase, not a direct quote, and it is framed in the context of data centers rather than AI safety broadly."
+},
+{
+"url": "https://simon.house.gov/media/press-releases/congresswoman-simon-votes-no-fisa-reauthorization",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Quote appears verbatim in the April 30, 2026 press release on her no vote on S. 1318 (FISA Section 702 reauthorization). Claim that she links surveillance reform to data brokers/privacy is supported; note the release is primarily about Fourth Amendment/surveillance, with data brokers mentioned once."
+},
+{
+"url": "https://www.dailycal.org/news/national/it-s-not-a-yes-or-no-question-congresswoman-lateefah-simon-declines-to-support-data/article_c2fde2ca-ffa6-4fb7-b8f6-f5f9ca8b5739.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Headline quote is verbatim in the article."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only evidence is a reporter's one-clause paraphrase ('a lack of guardrails around AI') in a data-center interview; there is no statement from her on AI regulation, frontier models, or specific AI legislation. Direction is plausibly pro-guardrail but the evidence is too thin to anchor a score.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "G000605",
+"checks": [
+{
+"url": "https://gray.house.gov/media/press-releases/gray-introduces-bipartisan-bill-speed-central-valley-infrastructure-projects",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Page loaded directly (status 200, published 2026-07-22). Quote appears verbatim, attributed to Gray. Release describes the CURRENT Act (introduced with Rep. Rouzer) as limiting California's use of Clean Water Act Section 401 to hold up permits; Gray's own framing is about farmers, water districts and water deliveries, not energy or AI. The 'race for AI' language is verbatim in a supporting-group quote lower in the release, as the claim says. Note the page does not mention data centers at all."
+},
+{
+"url": "https://gray.house.gov/media/press-releases/reps-gray-and-kim-introduce-bipartisan-bill-secure-reliable-clean-energy-and",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-26",
+"note": "Page loaded directly (status 200, published 2025-09-26). Quote appears verbatim, attributed to Rep. Gray. Release is about the HEATS Act exempting geothermal on state/private land from federal drilling permits and waiving some NEPA provisions to lower costs and add supply. Nothing about data centers or large power users, consistent with the claim's framing."
+},
+{
+"url": "https://gray.house.gov/media/press-releases/reps-gray-and-kim-introduce-bipartisan-bill-secure-reliable-clean-energy-and",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-26",
+"note": "Same page as item 2; headline quote is verbatim and correctly attributed to Gray."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "Neither source mentions data centers, AI compute, or ratepayer protections tied to large loads. The only AI link is a third-party supporter's 'race for AI' line in a release Gray framed around Central Valley water deliveries; the HEATS Act release is generic geothermal permitting. A +1 'Build with conditions' rests entirely on inference from general permitting-reform positions, which is too thin to assign a data-center position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "W000832",
+"checks": [
+{
+"url": "https://contracosta.news/2025/02/14/wahab-bill-would-limit-rate-increases-for-investor-owned-utilities/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-14",
+"note": "Article (dated 2025-02-14) reports Wahab introduced SB 332, the Investor-Owned Utility Accountability Act, capping residential IOU rate increases at CPI; quote appears verbatim. Page contains no mention of data centers, consistent with the claim that the bill does not address data center load."
+},
+{
+"url": "https://www.gov.ca.gov/2024/09/29/governor-newsom-announces-new-initiatives-to-advance-safe-and-responsible-ai-protect-californians/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-09-29",
+"note": "Release lists SB 926 (new crime for creating/distributing realistic AI sexual images), SB 981 (platform reporting/removal mechanism) and SB 1381 (extends child pornography statutes to AI-generated matter), all by Senator Aisha Wahab. Quote is verbatim. SB 926 and SB 981 are marked 'previously signed'."
+},
+{
+"url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB1047",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Vote record lists Wahab among Ayes on Senate Third Reading (32-1) and on Concurrence 08/29/24 (30-9), plus Aye in Judiciary and Appropriations. The vetoed-by-Newsom part of the claim is not on this page but is public record."
+},
+{
+"url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB53",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Vote record lists Wahab among Ayes on Senate Third Reading and on Concurrence (29-8), plus committee Ayes in Governmental Organization, Judiciary and Appropriations."
+},
+{
+"url": "https://sanjosespotlight.com/california-lawmakers-celebrate-ai-moratorium-stripped-from-bill/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-02",
+"note": "Article (2025-07-02) attributes the quote verbatim to State Sen. Aisha Wahab and also quotes her on the need to 'balance necessary guardrails while encouraging innovation.'"
+},
+{
+"url": "https://www.techtimes.com/articles/325243/20260823/aisha-wahab-wins-congress-first-afghan-american-signed-ai-safety-laws.htm",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-23",
+"note": "Profile details the three-bill AI Safety Package (SB 926, SB 981, SB 1381, effective Jan 1 2025) and says she passed two 2025 consumer protection bills on hidden, unfair and algorithm-driven pricing; frames these as her tech record entering Congress."
+},
+{
+"url": "https://www.gov.ca.gov/2024/09/29/governor-newsom-announces-new-initiatives-to-advance-safe-and-responsible-ai-protect-californians/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-09-29",
+"note": "SB 981 by Senator Aisha Wahab described verbatim as requiring social media platforms to establish a reporting and removal mechanism; supports the claim of a new duty on platforms."
+},
+{
+"url": "https://www.techtimes.com/articles/325243/20260823/aisha-wahab-wins-congress-first-afghan-american-signed-ai-safety-laws.htm",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-23",
+"note": "Profile states she 'passed two consumer protection bills in 2025 targeting hidden, unfair, and algorithm-driven pricing tactics' as chair of the Senate Business, Professions and Economic Development Committee. Bill numbers are not given."
+},
+{
+"url": "https://sanjosespotlight.com/california-lawmakers-celebrate-ai-moratorium-stripped-from-bill/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-02",
+"note": "Article says Wahab signed onto the May 2025 letter asking Congress to strike the moratorium and quotes her statement verbatim opposing the moratorium as stifling California's ability to establish oversight."
+},
+{
+"url": "https://sanjosespotlight.com/california-lawmakers-celebrate-ai-moratorium-stripped-from-bill/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-02",
+"note": "Quote appears verbatim, attributed to Wahab, in the 2025-07-02 article."
+}
+],
+"score_objections": []
+}
+]

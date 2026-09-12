@@ -1,0 +1,305 @@
+[
+{
+"bioguide": "S001150",
+"checks": [
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-unveils-major-legislation-to-ensure-fair-and-affordable-energy-costs-for-americans-amid-data-center-buildouts",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-18",
+"note": "Quote appears verbatim in Schiff's statement announcing the Energy Cost Fairness and Reliability Act; he pairs 'maintain our international leadership' with ratepayer guardrails. research_tools fetch returned 403 and Wayback refused connections; page read via the browser tool instead."
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-senate-democrats-urge-trump-admin-to-balance-technological-innovation-with-longstanding-environmental-protections-in-permitting-of-ai-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-10",
+"note": "Schiff led seven Senate Democrats; quote is verbatim in the letter. Letter is framed as a request for information but explicitly argues a nationwide permit would let large data centers 'bypass the environmental review and public scrutiny' required by the Clean Water Act, while also saying America needs adequate data center infrastructure built 'swiftly and responsibly'."
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-joins-sen-markey-colleagues-in-urging-federal-energy-regulator-to-prevent-data-centers-from-dramatically-hiking-energy-costs-for-american-families",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-17",
+"note": "Quote verbatim. Letter asks FERC to reject transmission filings that spread data-center-driven costs across the region and to investigate cost allocation so households do not pay more than their share."
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-joined-senators-mccormick-and-coons-to-introduce-bill-to-boost-u-s-ai-leadership-with-energy-efficient-liquid-cooling-technology",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-20",
+"note": "Quote verbatim in Schiff's statement on the Liquid Cooling for AI Act of 2025 (with McCormick, Coons, Budd). Bill is study/advisory only (GAO assessment, DOE report, advisory organization)."
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/news-schiff-introduces-comprehensive-legislation-to-enact-commonsense-guardrails-for-defense-departments-use-of-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-08",
+"note": "Quote verbatim. HALO Act of 2026 codifies human chain-of-command for autonomous/semi-autonomous lethal systems, pre-fielding review, bans on AI profiling based on constitutional rights, whistleblower protections."
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/icymi-axios-sen-schiff-drafting-ai-guardrails-for-autonomous-weapons-domestic-spying",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-13",
+"note": "Quote verbatim. Reprinted Axios story explicitly ties the drafting to the Trump administration's standoff with Anthropic over Pentagon access to its models and the supply-chain-risk designation."
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/watch-at-punchbowl-news-conference-sen-schiff-talks-iran-war-tackling-ai-in-congress-and-democrats-2026-agenda",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-11",
+"note": "Quote verbatim in the excerpts. He calls the administration's action a 'death sentence' for a company that 'dared insist on something that ought to be common sense' and says 'I admire what Anthropic is doing'. The page itself does not spell out the surveillance/autonomous-weapons refusal; that context is in the companion Axios ICYMI page."
+},
+{
+"url": "https://fortune.com/2026/08/04/trump-ai-regulation-china-national-security/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-04",
+"note": "Fortune reports the Gillibrand-led letter was signed by Coons, Kelly, Schiff and Warner, pressed the administration on its 'unpredictable approach' to frontier AI oversight, and demanded 'clear rules'. Note the letter's thrust is against opaque government restrictions (the Commerce export-control order pulling Anthropic models) as much as for oversight; it reads as pro-predictability rather than pro-stricter rules."
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sens-schiff-curtis-introduce-bipartisan-bill-to-protect-creators-work-implement-transparency-safeguards-in-ai-model-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-10",
+"note": "Quote verbatim. CLEAR Act requires pre-release disclosure of copyrighted training data to the Copyright Office with civil penalties, applied retroactively."
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-rep-khanna-reintroduce-landmark-bill-to-combat-fraudulent-ai-generated-campaign-ads",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-27",
+"note": "Quote verbatim. But the AI Ads Act prohibits fraudulent misrepresentation of candidates/committees via AI-generated content (extending existing FECA fraud rules), not a blanket ban on AI deepfake political ads; the claim overstates scope. Suggest: 'Wants a legal ban on AI-generated ads that fraudulently misrepresent candidates.'"
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-questions-panel-on-child-protections-law-privacy-rights-online",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-19",
+"note": "Quote verbatim. He says the nascent-industry rationale and the content-moderation rationale no longer hold ('those days seem to be over') and asks witnesses whether to repeal, narrow, or convert Section 230 to a defense; he does not commit to an option."
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/watch-at-punchbowl-news-conference-sen-schiff-talks-iran-war-tackling-ai-in-congress-and-democrats-2026-agenda",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-11",
+"note": "Quote verbatim: 'we proved utterly incapable of regulating tech' followed by the Section 230/social media comparison."
+},
+{
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-schiff-urge-federal-trade-commission-to-address-ai-chatbots-risks-to-children-and-teens",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-22",
+"note": "Quote verbatim in the Padilla-Schiff letter to FTC Chair Ferguson; asks FTC to broaden its chatbot review and 'impose clear consequences for companies that fail to protect minors'."
+},
+{
+"url": "https://www.biometricupdate.com/202608/us-senators-propose-operating-system-based-age-assurance-framework",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-04",
+"note": "Article names Kim, Schiff, Lummis and Barrasso as introducing the Digital Age Assurance Act of 2026 (OS-level age-bracket signals to apps/covered sites, FTC and state AG enforcement). Bill number S. 5090 is not stated in the article and was not verified. Note the bill preempts conflicting state laws while preserving stronger ones."
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/statement-sen-schiff-statement-on-trump-ai-executive-order-preempting-state-safeguards-meant-to-protect-consumers-and-workers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-12",
+"note": "Quote verbatim; 'The so-called party of states' rights should oppose this gross overreach from the president' also verbatim. Same statement says 'Congress and the federal government should certainly take the lead on crafting the rules of the road'."
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-leads-hearing-on-addressing-inequity-in-music-royalties-calls-out-trump-administrations-reported-plans-to-target-california-and-other-states-with-ai-guardrails",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-09",
+"note": "Quote verbatim in his opening statement at the Judiciary IP subcommittee hearing; preceded by 'the Congress and the federal government should certainly take the lead'. Claim matches."
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/watch-at-punchbowl-news-conference-sen-schiff-talks-iran-war-tackling-ai-in-congress-and-democrats-2026-agenda",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-11",
+"note": "Quote verbatim. He says 'We shouldn't preempt certain basic protections that states want to put in place' and conditions any 'back off' on Congress first demonstrating it can act."
+},
+{
+"url": "https://www.straitstimes.com/world/united-states/nvidias-ceo-jensen-huang-defends-open-weight-ai-models",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Bloomberg/Straits Times: Huang spoke to reporters July 28 after visits with Senators Warner and Schiff about open-weight models; only Warner's reaction is quoted. No chip-export position from Schiff on the page, so the item correctly supports a null china_chips score."
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-unveils-major-legislation-to-ensure-fair-and-affordable-energy-costs-for-americans-amid-data-center-buildouts",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-18",
+"note": "Headline quote appears verbatim as the opening of Schiff's statement (May 18, 2026)."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "All three preemption sources have Schiff saying Congress and the federal government 'should certainly take the lead in crafting rules of the road' and that states must act only 'in the absence of federal leadership'; at Punchbowl he conditions telling states to 'back off' on Congress first passing something. He also co-led the Digital Age Assurance Act, which preempts conflicting state laws (with a floor). That is a conditional, states-until-Washington-acts stance rather than a categorical 'let states regulate' position. Given the scale's own wording, -1 'Leans states' fits better than -2; a case could even be made for 0 'Mixed or conditional', but his vehement opposition to the EO and 'we shouldn't preempt' language tilt it to -1.",
+"suggested_score": -1,
+"suggested_label": "Leans states"
+}
+]
+},
+{
+"bioguide": "P000145",
+"checks": [
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-senate-democrats-urge-trump-admin-to-balance-technological-innovation-with-longstanding-environmental-protections-in-permitting-of-ai-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-10",
+"note": "Wayback copy (schiff.senate.gov blocks direct fetch). Padilla listed among signers. Quote appears verbatim in the letter body; the press-release paraphrase above it reads 'With responsible policy changes'. Letter says data center/energy infrastructure is needed but must be developed in accordance with federal environmental statutes, questioning Trump's data-center permitting EO."
+},
+{
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/watch-padilla-unveils-new-effort-to-lower-energy-costs-strengthen-transmission-lines",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-25",
+"note": "Wayback copy. Quote verbatim from Padilla's Energy Committee remarks on grid/transmission/permitting reform. Grep for 'data cent' returns nothing, matching the claim that the release does not mention data centers."
+},
+{
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-welch-probe-ai-chatbot-apps-on-safeguards-for-children",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-03",
+"note": "Wayback copy. Quote verbatim from letters to CEOs of Character.AI, Chai and Replika; release frames chatbots as mental health and suicide risks to young users and demands safety practices."
+},
+{
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-schiff-urge-federal-trade-commission-to-address-ai-chatbots-risks-to-children-and-teens",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-22",
+"note": "Wayback copy. Quote verbatim. Letter asks FTC to broaden chatbot review to crisis detection, parental supervision tools, transparency, deceptive marketing and sexual exploitation risks, and penalties."
+},
+{
+"url": "https://rollcall.com/2026/04/30/ban-on-kids-companion-chatbots-advanced-by-senate-committee/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Direct fetch. Reports 22-0 Judiciary vote; Padilla voted yes but had 'questions and concerns' about data privacy and security of age verification; quote verbatim including the ellipsis."
+},
+{
+"url": "https://www.merkley.senate.gov/merkley-padilla-lead-effort-to-fight-back-against-voter-suppression-and-misuse-of-artificial-intelligence-in-u-s-elections",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-11",
+"note": "Wayback copy. Quote verbatim, attributed to Padilla, on the FAIR Elections Act."
+},
+{
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-introduces-legislation-to-protect-against-ai-generated-election-disinformation",
+"verdict": "confirmed",
+"corrected_quote": "We must address the threat of AI-related voter suppression head on and redouble our efforts to protect every American’s fundamental right to vote in a free and fair electoral process.",
+"corrected_date": "2024-07-12",
+"note": "Wayback copy. Quote is an accurate but truncated excerpt of Padilla's sentence; full sentence supplied. Supports claim that his AI focus on elections/voting dates to 2024."
+},
+{
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-schiff-urge-federal-trade-commission-to-address-ai-chatbots-risks-to-children-and-teens",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-22",
+"note": "Same page as item 4; release explicitly lists crisis detection, parental supervision tools, deceptive marketing and sexual exploitation risks among items the FTC should review."
+},
+{
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-welch-probe-ai-chatbot-apps-on-safeguards-for-children",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-03",
+"note": "Same page as item 3; letters to CEOs of Character.AI, Chai and Replika (Luka) pressing on safety practices for minors."
+},
+{
+"url": "https://thehill.com/policy/technology/5858006-senate-panel-advances-bill-to-curb-ai-chatbot-companions-for-kids/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Direct fetch. Padilla voted yes, cited 'potential privacy and security risks' with age verification, suggested it may need to be 'fine-tuned'."
+},
+{
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-statement-on-trumps-executive-order-undermining-californias-ai-leadership",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-12",
+"note": "Wayback copy. Quote verbatim; statement also says 'California will continue to lead the A.I. revolution.' Clear opposition to the EO targeting state AI laws."
+},
+{
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-delivers-keynote-address-at-ai-biotechnology-summit",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-10",
+"note": "Wayback copy. Quote verbatim. Speech frames AI/biotech as competition with China; grep for 'chip' and 'export' returns nothing, so no position on chip export controls, consistent with null score."
+},
+{
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-statement-on-trumps-executive-order-undermining-californias-ai-leadership",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-12",
+"note": "Headline quote verbatim on the page."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "G000607",
+"checks": [
+{
+"url": "https://gallagher.house.gov/issues/science-space-and-technology",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Quote appears verbatim on the official issue page. Page is generic innovation-first framing ('without being held back by excessive federal red tape, while ensuring new technologies are developed responsibly'); no specific AI rules endorsed, matching the claim. Page metadata date 2026-07-22."
+},
+{
+"url": "https://gallagher.house.gov/issues/science-space-and-technology",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Quote appears verbatim. Page mentions China as a competitor in AI/science investment but says nothing about chips or export controls, so the claim (competition framing, no export-control position) is accurate and a null china_chips score is appropriate."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "H001068",
+"checks": [
+{
+"url": "https://huffman.house.gov/media-center/press-releases/ranking-member-huffman-blasts-gops-big-tech-handout",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-11",
+"note": "Quote appears verbatim in Huffman's Feb 11, 2026 floor speech opposing the Undersea Cable Protection Act. Page supports the claim that he wants tech giants' infrastructure on public resources to pay fair share and undergo study/mitigation. The item itself correctly flags this is about undersea cables in marine sanctuaries, not data centers."
+},
+{
+"url": "https://huffman.house.gov/media-center/press-releases/ranking-member-huffman-blasts-gops-big-tech-handout",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-11",
+"note": "Quote verbatim: 'another corporate handout, this time to the biggest tech oligarchs in the world.' Release describes the bill as handing Meta and Amazon exemptions and savings to run cables through National Marine Sanctuaries for free while skipping safety checks, matching the claim."
+},
+{
+"url": "https://huffman.house.gov/media-center/press-releases/ranking-member-huffman-blasts-gops-big-tech-handout",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-11",
+"note": "Headline quote appears verbatim in the release."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only source is about undersea fiber cables in marine sanctuaries, not data centers, electricity, or ratepayers. The item itself notes 'about cables, not data centers.' Inferring a -1 'Protect ratepayers first' position from a cable-fee dispute is too thin; the evidence supports no data-center position.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "None of the three items address AI risk or AI safety at all; all point to the same cable-fee floor speech. The evidence does not support any ai_risk score.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

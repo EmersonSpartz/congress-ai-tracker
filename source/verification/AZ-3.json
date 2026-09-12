@@ -1,0 +1,176 @@
+[
+{
+"bioguide": "G000606",
+"checks": [
+{
+"url": "https://tlaib.house.gov/posts/rep-tlaib-introduces-a-bill-to-ban-ai-data-centers-on-federal-lands",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Release dated Jul 23, 2026 lists 'Adelita Grijalva (AZ-07)' among five cosponsors; bill 'permanently bans large AI data centers... on land owned or managed by the U.S.' and 'requires the removal of existing qualifying AI data centers'."
+},
+{
+"url": "https://www.eenews.net/articles/bill-would-mandate-a-hard-look-at-data-center-safety/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-10",
+"note": "E&E News (03/10/2026) names 'Adelita Grijalva of Arizona' among co-sponsors of Watson Coleman's Data Center Community Impact Act, which 'would analyze the environmental, economic and public health impacts of data centers on surrounding residents'."
+},
+{
+"url": "https://azluminaria.org/2025/08/26/grijalva-vs-butierez-cd7-debate-live/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-26",
+"note": "Article: 'Grijalva said there should be federal regulations for data centers, as well as artificial intelligence. Asked if she would intervene if Project Blue were to go forward despite Tucson's rejection, she said, \"If I can, I would.\"' Quote verbatim."
+},
+{
+"url": "https://azluminaria.org/2026/08/26/live-debate-adelita-grijalva-and-daniel-butierez-in-district-7/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-08-26",
+"note": "Quote is verbatim, but the page only says the two 'staked out different positions' on 'how much oversight data centers should face over their water use'; it does not state which candidate wanted more oversight. The claim that she argued for stronger oversight is an inference (plausible given her 2025 positions) not made explicit on this page."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Release (Aug 10, 2026) lists 'Adelita S. Grijalva (AZ-07)' among signers; letter text includes the quote verbatim, 'Congress has so far completely failed to respond to the threats posed by AI development', CEOs 'should answer questions under oath', and cites models that 'escaped test environments to hack other organizations'."
+},
+{
+"url": "https://azluminaria.org/2025/08/26/grijalva-vs-butierez-cd7-debate-live/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-26",
+"note": "Page states: 'Grijalva said there should be federal regulations for data centers, as well as artificial intelligence.'"
+},
+{
+"url": "https://azluminaria.org/2025/08/26/grijalva-vs-butierez-cd7-debate-live/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-26",
+"note": "'If I can, I would.' appears verbatim, in answer to whether she would intervene against Project Blue."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "H001098",
+"checks": [
+{
+"url": "https://hamadeh.house.gov/news/documentsingle.aspx?DocumentID=582",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Quote appears verbatim, attributed to Hamadeh. Page dated Jan 15, 2026. Bill creates a subsidized veteran training program in AI/semiconductors, framed as workforce/anti-H-1B measure; nothing about AI risk or regulation either way."
+},
+{
+"url": "https://hamadeh.house.gov/news/documentsingle.aspx?DocumentID=942",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Quote appears verbatim, attributed to Hamadeh. Page dateline Washington, July 16, 2026 (an additional $100B TSMC investment, total $265B). Pure onshoring/competitiveness framing; the page never mentions export controls or China."
+},
+{
+"url": "https://hamadeh.house.gov/news/documentsingle.aspx?DocumentID=942",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Same page as item 2; quote verbatim."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only source is a press release celebrating TSMC onshoring in his district; it says nothing about export controls, China, or chip sales abroad. Competitiveness cheerleading is not evidence of a hawkish export-control stance.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "The only source is a veterans job-training bill that treats AI as a growth industry; it contains no statement about AI safety rules or guardrails. Nothing supports 'Targeted guardrails'; if anything the framing leans pro-growth, but the evidence is too thin for any position.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "data_centers",
+"objection": "No item cites any data-center statement or vote; assigned +1 has no supporting evidence in the checked sources.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No item cites any Big Tech regulation statement or vote; assigned -1 has no supporting evidence in the checked sources.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "preemption",
+"objection": "No item cites any state-vs-federal AI preemption statement or vote; assigned +1 has no supporting evidence in the checked sources.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "G000565",
+"checks": [
+{
+"url": "https://gosar.house.gov/news/documentsingle.aspx?DocumentID=8767",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-03-11",
+"note": "Quote appears verbatim in Gosar's statement on the Public Lands Renewable Energy Act (published 2025-03-11). Page does not mention data centers; the claim itself acknowledges this."
+},
+{
+"url": "https://massie.house.gov/news/documentsingle.aspx?DocumentID=395851",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-02",
+"note": "Release names H.R. 10221, the Flock-Off Act, lists Rep. Paul Gosar (R-AZ) among original cosponsors, and describes the funding prohibition on ALPRs and biometric surveillance cameras with border (1 mile) and toll exceptions."
+},
+{
+"url": "https://reason.com/2026/09/03/a-new-bill-reflects-the-bipartisan-backlash-against-flock-enabled-mass-surveillance/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Reason lists Gosar as one of four Republican cosponsors alongside Boebert, Roy, and Spartz, and calls the systems 'AI-assisted ALPRs'."
+},
+{
+"url": "https://oversight.house.gov/release/wrap-up-congress-must-ensure-the-federal-government-has-tools-to-deploy-artificial-intelligence-effectively-and-efficiently/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-06",
+"note": "Quote appears verbatim, attributed to Rep. Gosar; committee wrap-up frames it as using AI to root out waste and fraud in Medicare/Medicaid. Hearing wrap-up dated 2025-06-06."
+},
+{
+"url": "https://gosar.house.gov/news/documentsingle.aspx?DocumentID=8728",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-04",
+"note": "Quote appears verbatim in Gosar's statement. Background section also says Section 230 affords immunity 'against anticompetitive conduct', supporting the anticompetitive framing. Published 2025-02-04."
+},
+{
+"url": "https://gosar.house.gov/news/documentsingle.aspx?DocumentID=8728",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-04",
+"note": "Headline quote is verbatim from the Stop the Censorship Act release."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only source is a renewable-energy-on-public-lands bill that never mentions data centers, grid load, or ratepayers. A generic 'meet growing energy demand' line is too thin to assign a data-center position; the claim text itself concedes the gap.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "preemption",
+"objection": "None of the six sources touches federal preemption of state AI laws or state-vs-federal authority at all. There is no evidence for 'Leans national rule'; if anything, his cosponsorship of a bill restricting federal surveillance funding to localities is orthogonal to preemption.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

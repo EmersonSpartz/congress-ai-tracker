@@ -1,0 +1,436 @@
+[
+{
+"bioguide": "P000620",
+"name": "Brittany Pettersen",
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Pettersen treats data centers as important to the economy but wants their growth managed so families do not pick up the tab. She cosponsored a bill to make data centers pay their own way on the grid, signed letters asking for a national data center plan and for federal energy investment, and voted against a Republican permitting fast-track bill. No statement in her own words on data centers was found as of Sept 2026.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8241 Power for the People Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8241",
+"quote": null,
+"date": "2026-09-01",
+"what_it_shows": "She joined a bill to set up data center load queues and data center-specific electric rate classes so other customers are shielded from data center costs (cosponsorship confirmed on govtrack)."
+},
+{
+"type": "letter",
+"title": "Letter: New Democrat Coalition members ask appropriators to direct DOE to write a National Strategic Data Center Plan",
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"quote": "Rapidly increasing demand for data centers, driven by cloud computing and AI, is vital for America's economy and competitiveness. However, this expansion strains electricity grids, land, water, and community infrastructure",
+"date": "2026-03-19",
+"what_it_shows": "She signed as one of 14 New Democrats framing data centers as vital but in need of a national plan covering consumer costs, grid reliability and water use."
+},
+{
+"type": "letter",
+"title": "Letter: Colorado Democrats to Energy Secretary Wright on $7.56 billion in canceled DOE project funding (reported by FedScoop)",
+"url": "https://fedscoop.com/ai-data-centers-canceled-energy-projects-colorado-democrats/",
+"quote": "In an era where artificial intelligence and data centers are driving a rise in energy demand, we must meet these challenges by investing in responsible and affordable energy solutions, rather than destabilizing them.",
+"date": "2025-10-14",
+"what_it_shows": "She co-signed a letter that treats AI and data center demand as a reason to keep investing in affordable energy rather than cancel projects."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"date": "2025-12-18",
+"what_it_shows": "She voted against the Republican permitting fast-track bill that backers pitched as speeding energy and data center buildout; a Nay vote is weak evidence since the bill covered many issues."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Pettersen backs targeted guardrails: she sponsors a bill on AI deepfake bank scams, cosponsors bills letting victims of AI sexual deepfakes sue and banning AI election lies, and served on the House AI Task Force. She pairs this with pro-innovation language, and the AI industry super PAC Leading the Future has endorsed her.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Pettersen announces bipartisan House AI Task Force report",
+"url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=974",
+"quote": "After months of bipartisan collaboration, I'm proud to help release this report which will serve as a blueprint for Congress to enact policies that help harness the potential of this emerging technology while ensuring strong guardrails and consumer protections.",
+"date": "2024-12-19",
+"what_it_shows": "Her framing is guardrails plus innovation; she names fraud, identity theft and election integrity as the AI threats she worries about."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 1734 Preventing Deep Fake Scams Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1734",
+"quote": null,
+"date": "2025-02-27",
+"what_it_shows": "Her lead AI bill creates a task force to study how AI deepfakes are used to scam bank customers and report fixes to Congress."
+},
+{
+"type": "statement",
+"title": "Press release: Pettersen and Flood introduce the Preventing Deep Fake Scams Act",
+"url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1044",
+"quote": "As AI continues to evolve, our policies must keep up in order to get ahead of scammers who want to use this technology to take advantage of people.",
+"date": "2025-02-27",
+"what_it_shows": "She sees AI-enabled fraud as a live threat that policy must catch up with, while also calling AI a way to strengthen the financial sector."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3562 DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"quote": null,
+"date": "2025-05-21",
+"what_it_shows": "She supports letting people sue anyone who makes or shares AI-generated sexual images of them without consent."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4894 Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"quote": null,
+"date": "2025-08-05",
+"what_it_shows": "She supports making it illegal to spread false voting information, including AI-made content, before federal elections."
+},
+{
+"type": "pac",
+"title": "AI Money Watch: Leading the Future endorsement of Pettersen (CO-7, 2026)",
+"url": "https://aimoneywatch.org/people/brittany-pettersen-co-7",
+"quote": "Leading the Future has publicly endorsed this candidate but has not yet reported any independent expenditures in this race.",
+"date": null,
+"what_it_shows": "The AI industry super PAC that opposes strict AI regulation counts her as a friendly candidate, a sign her guardrails are seen as moderate."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Pettersen favors specific fixes rather than a Big Tech crackdown: her Romance Scam Prevention Act passed the House, she proposed a three-day deadline for social media companies to answer warrants about credible threats, and she cosponsored the Kids Online Safety Act, reproductive data privacy limits, and a ban on Chinese-linked connected car tech.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: House passes Pettersen's Romance Scam Prevention Act",
+"url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1188",
+"quote": "Notifying users if they have been in contact with a potential scammer is a basic security feature that every online dating service should provide.",
+"date": "2025-06-23",
+"what_it_shows": "She led a bipartisan bill requiring dating apps to warn users about banned scammers, and it passed the House unanimously."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2481 Romance Scam Prevention Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2481",
+"quote": null,
+"date": "2025-03-31",
+"what_it_shows": "Official record of her support for a targeted platform safety rule (she is listed as an original backer of the bill)."
+},
+{
+"type": "statement",
+"title": "In the news (Colorado Springs Gazette, reposted on her site): Pettersen proposes three-day deadline for social media warrant responses after Evergreen shooting",
+"url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1606",
+"quote": "devastating and glaring policy failure",
+"date": "2026-02-09",
+"what_it_shows": "She unveiled a federal bill requiring social media companies to answer warrants and subpoenas about credible threats within three days instead of up to 35."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7891 Kids Online Safety Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"quote": null,
+"date": "2024-09-19",
+"what_it_shows": "She backed the House version of KOSA, which would require apps to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"quote": null,
+"date": "2026-09-08",
+"what_it_shows": "She supports banning sales of connected car software and parts from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"quote": null,
+"date": "2023-05-17",
+"what_it_shows": "She supported limits on how apps and companies collect and share reproductive health data."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Pettersen leans toward one national AI standard. At an August 2025 Colorado Chamber event she called a state-by-state patchwork of AI rules incredibly problematic and said she would rather Congress lead, and she did not sign the two big House Democratic letters opposing federal preemption. She has not endorsed a moratorium.",
+"evidence": [
+{
+"type": "statement",
+"title": "The Sum and Substance: Colorado delegation finds bipartisan agreement on AI at Colorado Chamber luncheon",
+"url": "https://tsscolorado.com/colorado-congressional-delegation-finds-some-bipartisan-agreement-on-ai-tax-credit-extensions",
+"quote": "incredibly problematic",
+"date": "2025-08-12",
+"what_it_shows": "The paper reports she said a state-by-state patchwork of AI rules could be incredibly problematic for a national industry, that states lack the staff to regulate it, and that she would prefer Congress take the lead even though passing a federal law is hard."
+},
+{
+"type": "other",
+"title": "Matsui letter opposing an AI moratorium in the NDAA and the preemption executive order (81 House Democrats)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"quote": null,
+"date": "2025-11-26",
+"what_it_shows": "Pettersen is not among the signers of this anti-preemption letter, unlike fellow Coloradan Diana DeGette; she also does not appear on the Dec 3, 2025 Clarke letter."
+},
+{
+"type": "statement",
+"title": "Press release: Pettersen announces bipartisan House AI Task Force report",
+"url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=974",
+"quote": null,
+"date": "2024-12-19",
+"what_it_shows": "As a Task Force member she signed on to a report that treated preemption as a question needing study and did not endorse a moratorium on state laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls as of Sept 2026. Searches for Pettersen with Nvidia, export controls, chips and China turned up nothing, and none of her bills touch chip exports; her Connected Vehicle Security Act cosponsorship concerns Chinese-linked car technology, not chips.",
+"evidence": []
+}
+},
+"signature": "House AI Task Force member focused on AI scams and deepfakes; sponsor of the Preventing Deep Fake Scams Act and the Romance Scam Prevention Act, endorsed by the AI super PAC Leading the Future.",
+"notable_quote": {
+"text": "After months of bipartisan collaboration, I'm proud to help release this report which will serve as a blueprint for Congress to enact policies that help harness the potential of this emerging technology while ensuring strong guardrails and consumer protections.",
+"url": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=974",
+"date": "2024-12-19"
+},
+"groups": [
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress, member)"
+],
+"search_notes": "Ran about 14 Google News queries (AI, data centers, chatbot/deepfake, Big Tech/Section 230, KOSA, Nvidia/export controls, preemption/moratorium, utility bills, Leading the Future, fintech/AI hearings, Colorado AI Act). Google's link decoder was rate-limited, so I reached articles by guessing outlet URLs, Wayback CDX listings and her site's documentquery index; read her press releases on the AI Task Force report, the Deep Fake Scams Act, the Romance Scam Prevention Act, the FY26 Energy-Water vote, and a reposted Gazette story on her social media warrant bill; verified the Oct 2025 DOE letter via FedScoop, the New Dem data center letter PDF, H.R. 8241 cosponsorship and the OBBBA and SPEED Act roll calls via govtrack, the LTF endorsement on aimoneywatch, and the Sum and Substance luncheon report via curl. Checked the Matsui and Clarke anti-preemption letters: she signed neither. Not found: any statement in her own words on data centers, anything on chips or export controls, a Dec 2024 CPR story on KOSA (URL not reachable), and HFSC AI subcommittee hearing remarks. Congress.gov returned 403, so cosponsorships were confirmed on govtrack and the group file."
+},
+{
+"bioguide": "E000300",
+"name": "Gabe Evans",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Evans wants data centers built, on the condition that they pay their own grid costs. His Ratepayer Protection Act, headed for a House floor vote, asks state regulators to make 100 megawatt-plus users cover the plants and lines they need; he says well-run data centers can lower prices for everyone. He pairs this with permitting and transmission fast-track bills, keeping coal plants open, a Yea vote on the SPEED Act, and committee votes in 2025 for a moratorium that would have blocked state and local data center rules.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 9340 Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"quote": null,
+"date": "2026-06-18",
+"what_it_shows": "His flagship bill sets a federal standard for states to consider so large-load customers like data centers pay for the generation and transmission built to serve them; it cleared Energy and Commerce 52-0."
+},
+{
+"type": "statement",
+"title": "Press release: Evans' bipartisan Ratepayer Protection Act set for House vote",
+"url": "https://gabeevans.house.gov/media/press-releases/evans-bipartisan-ratepayer-protection-act-set-house-vote",
+"quote": "As the United States competes to win the global AI race and outcompete adversaries like Communist China, we must ensure that growth does not come at the expense of hardworking families.",
+"date": "2026-09-10",
+"what_it_shows": "He frames the bill as protecting families while letting the AI buildout proceed, not as slowing data centers."
+},
+{
+"type": "interview",
+"title": "CBS Colorado interview: Evans and Energy Secretary Wright call on data centers to cover grid expansion costs",
+"url": "https://www.cbsnews.com/colorado/news/gabe-evans-chris-wright-data-centers-grid-expansion-costs/",
+"quote": "Data centers, they can either be a negative draw on the grid if they are done poorly. But, if you do them right, they can actually lower prices for everyone",
+"date": "2026-06-29",
+"what_it_shows": "He welcomes Weld County's data center push, argues data centers paying their own way can flatten demand and cut costs, and says some critics treat them as a boogie man."
+},
+{
+"type": "statement",
+"title": "Press release: Ratepayer Protection Act passes Energy and Commerce Committee",
+"url": "https://gabeevans.house.gov/media/press-releases/congressman-gabe-evans-bipartisan-ratepayer-protection-act-passes-energy-and",
+"quote": "hardworking families should never be forced to subsidize that growth through higher electric bills",
+"date": "2026-07-21",
+"what_it_shows": "He says America must build the energy infrastructure to win the AI race, with the companies creating the demand paying for it."
+},
+{
+"type": "other",
+"title": "E&E News: Data center lobby grumbles about reworked Ratepayer Protection Act",
+"url": "https://www.eenews.net/articles/data-center-lobby-grumbles-about-reworked-ratepayer-protection-act-2",
+"quote": "The proposal would require states to consider adopting a federal standard directing data centers to pay the full cost of new generation and transmission upgrades needed to serve them.",
+"date": "2026-07-22",
+"what_it_shows": "The bill was narrowed before markup so states only have to consider the standard, a sign the protections are softer than a mandate."
+},
+{
+"type": "other",
+"title": "Heatmap News: The Mystery of the Ratepayer Protection Act",
+"url": "https://heatmap.news/politics/ratepayer-protection-act-explained",
+"quote": "appear to be acting not out of hostility towards the AI industry, but rather from a desire to protect it from public backlash fed by rising electricity prices",
+"date": "2026-06-23",
+"what_it_shows": "A reporter's read that Evans and his co-sponsors are trying to shield the data center buildout from a ratepayer revolt rather than restrict it."
+},
+{
+"type": "statement",
+"title": "Press release: Evans and Peters unveil CLEAR Act to speed transmission projects",
+"url": "https://gabeevans.house.gov/media/press-releases/evans-peters-unveil-bill-address-transmission-project-bottlenecks-and-lower",
+"quote": "The CLEAR Act will boost energy production, cut red tape and expedite project timelines, and reduce costs related to transmission projects across our country.",
+"date": "2026-09-10",
+"what_it_shows": "He wants to limit lawsuits against big power line projects so the grid can grow faster to meet rising demand."
+},
+{
+"type": "statement",
+"title": "Press release: Reps. Crank and Evans join Secretary Wright for tour of the Ray D. Nixon coal plant",
+"url": "https://gabeevans.house.gov/media/press-releases/reps-crank-and-evans-join-secretary-wright-tour-ray-d-nixon-power-plant",
+"quote": "Keeping Ray Nixon online longer will protect grid reliability and save ratepayers hundreds of millions of dollars.",
+"date": "2026-09-04",
+"what_it_shows": "With demand rising, he backs keeping coal baseload online and an all-of-the-above energy strategy rather than limiting load growth."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 4776 SPEED Act (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"date": "2025-12-18",
+"what_it_shows": "He voted for the permitting overhaul that backers pitched as speeding energy and data center construction."
+},
+{
+"type": "statement",
+"title": "Press release: Evans' State Planning for Reliability and Affordability Act passes the House",
+"url": "https://gabeevans.house.gov/media/press-releases/congressman-gabe-evans-bill-combating-colorados-skyrocketing-energy-costs",
+"quote": "This legislation puts Coloradans first by holding state regulatory entities like Colorado Public Utilities Commission accountable by new federal standards, to ensure they are focused on considering energy reliability and affordability.",
+"date": "2025-12-11",
+"what_it_shows": "He blames Colorado's clean energy mandates for rising bills and wants states to plan for enough reliable generation, including for AI and quantum firms that need constant power."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "high",
+"summary": "Evans takes a light-touch view: he calls Colorado's AI law incredibly onerous, says over-regulating AI hands leadership to China, praises the Trump AI Action Plan, and sponsors a bill to promote American open-source AI. He accepts some common sense consumer protections and a minimally burdensome national framework, and cosponsored a bill for DHS reports on terrorists' use of generative AI.",
+"evidence": [
+{
+"type": "interview",
+"title": "Colorado Times Recorder: Evans on Ryan Schuling Live says AI regulation efforts are misguided",
+"url": "https://coloradotimesrecorder.com/2026/02/theyre-afraid-the-ai-might-misgender-someone-says-congressman-of-ai-regulations/76835",
+"quote": "If you're nervous about AI, you need to be terrified about communist China becoming the global leader in AI because it was driven out of places like Colorado as a result of Colorado's AI law.",
+"date": "2026-02-25",
+"what_it_shows": "He calls Colorado's AI law an incredibly onerous regulatory framework, mocks its anti-discrimination aims, and argues red tape drives AI jobs out of the state and toward China."
+},
+{
+"type": "letter",
+"title": "Press release: Evans and Langworthy send letter to Commerce Secretary Lutnick on AI overregulation in Colorado and New York",
+"url": "https://gabeevans.house.gov/media/press-releases/reps-gabe-evans-and-nick-langworthy-send-letter-department-commerce-secretary",
+"quote": "Like it or not, artificial intelligence is here to stay. The U.S. can choose to lead the world in this transformative technology or we can regulate it into the hands of Communist China.",
+"date": "2026-02-19",
+"what_it_shows": "His core argument is that new AI rules are a competitive risk; he supports only a coherent, pro-innovation national framework that keeps children and communities safeguarded."
+},
+{
+"type": "letter",
+"title": "Ripon Advance: Evans urges administration to develop national AI approach (Feb 19 letter excerpts)",
+"url": "https://riponadvance.com/featured/evans-urges-administration-to-develop-national-ai-approach",
+"quote": "existing laws of general applicability already protect consumers from many AI risks",
+"date": "2026-02-23",
+"what_it_shows": "The letter argues current general laws already cover most AI harms and endorses the president's minimally burdensome national policy framework."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 10152 Open-Source AI Leadership Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10152",
+"quote": null,
+"date": "2026-08-27",
+"what_it_shows": "His bill directs Commerce to promote adoption of American open AI models and assess risks from foreign adversary models; it cleared the E&C Commerce subcommittee Sept 1, 2026."
+},
+{
+"type": "statement",
+"title": "Press release: Evans' Open-Source AI Leadership Act passes Energy and Commerce subcommittee",
+"url": "https://gabeevans.house.gov/media/press-releases/rep-gabe-evans-open-source-ai-leadership-act-passes-energy-commerce",
+"quote": "This bill helps unleash American open-source AI while implementing common sense consumer protections. It also creates safeguard to identify and counter national security threats from foreign adversaries.",
+"date": "2026-09-01",
+"what_it_shows": "He pushes to make it easier for innovators and startups to build, while accepting consumer protections and national security screening of adversary models."
+},
+{
+"type": "statement",
+"title": "Press release: Evans and Deputy Labor Secretary Sonderling highlight CO-08's AI workforce innovation",
+"url": "https://gabeevans.house.gov/media/press-releases/rep-evans-and-deputy-secretary-labor-highlight-co-08s-ai-workforce-innovation",
+"quote": "This administration is embracing the future of AI while keeping American workers at the center of innovation.",
+"date": "2025-07-31",
+"what_it_shows": "He praised the Trump AI Action Plan, which his release describes as removing burdensome regulations and AI guardrails from the prior administration."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1736 Generative AI Terrorism Risk Assessment Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1736",
+"quote": null,
+"date": "2025-02-27",
+"what_it_shows": "He supports regular DHS reports to Congress on how terrorists could use generative AI, a study-and-report approach rather than new rules on developers."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Evans sponsors the No Fentanyl on Social Media Act, a targeted rule making platforms report and crack down on drug sales. No position was found on Section 230, antitrust, kids online safety bills, or a broad privacy law, and his general rhetoric is against red tape on tech.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 6259 No Fentanyl on Social Media Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6259",
+"quote": null,
+"date": "2025-11-21",
+"what_it_shows": "His one platform-regulation bill would require social media companies to report and act against fentanyl and drug sales; a single notable bill supports only a low-confidence lean toward targeted rules."
+}
+]
+},
+"preemption": {
+"score": 2,
+"confidence": "high",
+"summary": "Evans is a leading House Republican voice for one national AI rule. He voted three times in committee and once on the floor for the 2025 moratorium on state AI laws, told a hearing he opposed Colorado's AI law as a state legislator and backed the federal moratorium, and in February 2026 asked the Commerce Department to target Colorado's law under the December 2025 preemption executive order.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Hearing: E&C Commerce subcommittee, AI Regulation and the Future of US Leadership (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"quote": "I voted against the law when I was in a state legislature because I agreed with those statements and I saw this as dampening the ability to innovate and bring jobs to Colorado and fostering that patchwork across the country.",
+"date": "2025-05-21",
+"what_it_shows": "He praised Gov. Polis for backing the federal moratorium and asked witnesses about the revenue gains from national rules of the road versus a patchwork of state laws."
+},
+{
+"type": "letter",
+"title": "Press release: Evans and Langworthy letter to Commerce Secretary Lutnick on Colorado SB 205 and New York's RAISE Act",
+"url": "https://gabeevans.house.gov/media/press-releases/reps-gabe-evans-and-nick-langworthy-send-letter-department-commerce-secretary",
+"quote": "we nonetheless urge you to include them in the Department's report, as they exemplify the conflicting, burdensome, and imprudent state regulations that the President's EO seeks to address.",
+"date": "2026-02-19",
+"what_it_shows": "He asked the administration to list his own state's AI law among those to be challenged under the Dec 11, 2025 executive order on preempting state AI laws."
+},
+{
+"type": "other",
+"title": "Center for American Progress Action: Almost every House Republican voted to block state and local governments' ability to protect residents from AI data centers",
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers",
+"quote": "voted three times during this markup for the state and local AI moratorium",
+"date": "2026-08-24",
+"what_it_shows": "The group documents that Evans voted against the Pallone amendment to strike the 10-year moratorium and twice more to advance the text containing it during the May 2025 Energy and Commerce markup."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 1 One Big Beautiful Bill Act, House passage (roll call 145)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"quote": null,
+"date": "2025-05-22",
+"what_it_shows": "The House version he voted for contained the 10-year moratorium on enforcing state and local AI laws; the Senate later stripped it 99-1."
+},
+{
+"type": "interview",
+"title": "Colorado Times Recorder: Evans says efforts to rein in AI are misguided",
+"url": "https://coloradotimesrecorder.com/2026/02/theyre-afraid-the-ai-might-misgender-someone-says-congressman-of-ai-regulations/76835",
+"quote": "are we gonna strangle ourselves with red tape, poorly thought out laws like this one",
+"date": "2026-02-25",
+"what_it_shows": "He attacks Colorado's first-in-the-nation AI law as damaging and says the question is whether the U.S. keeps global AI leadership."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls as of Sept 2026. Searches for Evans with Nvidia, export controls, semiconductors and China found only his Open-Source AI Leadership Act, which targets foreign adversary AI models rather than chip sales, and an E&C subcommittee hearing notice on the semiconductor supply chain with no remarks from him.",
+"evidence": []
+}
+},
+"signature": "Lead sponsor of the House Ratepayer Protection Act on data center grid costs and a top Republican critic of Colorado's state AI law who wants one national AI standard.",
+"notable_quote": {
+"text": "Like it or not, artificial intelligence is here to stay. The U.S. can choose to lead the world in this transformative technology or we can regulate it into the hands of Communist China.",
+"url": "https://gabeevans.house.gov/media/press-releases/reps-gabe-evans-and-nick-langworthy-send-letter-department-commerce-secretary",
+"date": "2026-02-19"
+},
+"groups": [],
+"search_notes": "Ran about 14 Google News queries (AI, Ratepayer Protection Act, data centers, chatbot/deepfake/Big Tech, preemption/moratorium, Nvidia/export controls/semiconductors, AI super PACs, open-source AI, Xcel/electricity bills, Colorado AI law/Polis) plus Wayback listings of gabeevans.house.gov, riponadvance.com, coloradotimesrecorder.com, americanprogressaction.org, eenews.net and heatmap.news. Read his press releases on the Ratepayer Protection Act (introduction to floor scheduling), the Langworthy letter to Commerce, the Open-Source AI Leadership Act, the CLEAR and CERTAIN permitting bills, the Ray Nixon coal tour, H.R. 3628, and the AI workforce event; the CBS Colorado interview; the Colorado Times Recorder radio-interview writeup; the Tech Policy Press hearing transcript; the CAP Action vote analysis; E&E News and Heatmap coverage; and govtrack roll calls 145 and 356. His caucus page lists Problem Solvers, Main Street, For Country and the Congressional Hispanic Conference, none AI-specific. Not reachable: Politico's Aug 26, 2026 data center story (403), the Denver Post and Colorado Politics July 2026 CO-8 AI poll stories (URLs could not be located), Ripon Advance pages beyond one Wayback copy, and aimoneywatch's Evans page (loads dynamically), so no AI super PAC activity for or against him could be confirmed. Nothing found on chip export controls or Section 230."
+}
+]

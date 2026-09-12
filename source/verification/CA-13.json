@@ -1,0 +1,285 @@
+[
+{
+"bioguide": "M001241",
+"checks": [
+{
+"url": "https://min.house.gov/media/press-releases/watch-rep-dave-min-passes-amendment-lower-electricity-costs-modernize-energy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Page loaded directly (status 200). Quote appears verbatim in Min's statement about load growth, grid bottlenecks and energy bills. Grep for 'data center' returned no match, so the claim that the release never mentions data centers and does not establish a data center position is accurate."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF downloaded and text extracted (fetch tool returned 0 chars; pdftotext used). Quote verbatim: 'Against this backdrop, it would be especially irresponsible to tell states they cannot act when there are no meaningful federal protections in place.' Letter cites 'tragic suicides encouraged by AI chatbots—like that of 16-year-old Adam Raine', deepfakes and targeted scams, and says 'setting common-sense guardrails' is compatible with US AI leadership, opposing efforts to 'freeze state and local AI safeguards'. Dave Min listed as signer."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Opening sentence of the letter matches the quote verbatim ('...enforce their own artificial intelligence (AI) laws and regulations'). 'Dave Min / Member of Congress' appears in the signature block. Letter dated November 26, 2025, addressed to Johnson, Jeffries, Thune, Schumer; also opposes the proposed preemption executive order."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Headline quote appears verbatim in the letter body. Note it is a co-signed letter (81 Democrats, led by Matsui), not Min's own individually authored words; tracker should attribute it as a letter he signed."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "I000056",
+"checks": [
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Quote appears verbatim. Issa says federally America can 'deploy[] modular nuclear reactors, but you cannot make the stupidity of Sacramento change' and wants nuclear self-reliance at Camp Pendleton. The word 'data center' does not appear in his remarks, so the claim is accurate; this item does not support any data_centers score."
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Quote verbatim. Page also has him calling for AI leaders to set standards, Commerce Dept possibly 'facilitating' standard-setting, and rewarding companies 'by giving them liability limitation.' Claim matches."
+},
+{
+"url": "https://issa.house.gov/media/press-releases/issa-selected-congressional-ai-task-force",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-02-20",
+"note": "Quote appears verbatim in Issa's statement on being named to the Speaker's AI Task Force."
+},
+{
+"url": "https://issa.house.gov/media/press-releases/congressman-issa-introduces-landmark-legislation-stop-misuse-ai-generated",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12-20",
+"note": "Quote verbatim. Bullet says PADRA would 'Empower individuals to enforce their own rights against bad actors without the need for new federal government authority or bureaucracy ... avoiding burdensome regulations that would hinder U.S. innovation or competitiveness in AI technology.' Claim matches."
+},
+{
+"url": "https://thehill.com/policy/technology/5699863-congress-ai-overwatch-act-chips-export/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Quote verbatim. Article says Issa voted present after suggesting the bill would put Congress in the 'position of being a regulator' and calling for changes. Note the bill concerns chip export oversight, not AI safety rules per se; the general skepticism-of-Congress-as-regulator claim is fairly stated."
+},
+{
+"url": "https://issa.house.gov/media/press-releases/issa-need-more-apologies-after-big-tech-censorship",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-11-16",
+"note": "Quote verbatim. He also pledges to 'lead this and further reforms' toward 'fair and justified legal changes that will empower speech and stop censorship.' Claim matches."
+},
+{
+"url": "https://issa.house.gov/media/press-releases/issa-us-technology-companies-uphold-free-speech-dont-tip-political-scale",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-12-06",
+"note": "Quote verbatim: 'Technology companies wield unprecedented power—and for too long, they have abused this power to control information on their platforms.' Note the ask is a voluntary commitment from companies, not legislation; 'needs a check' is a mild extrapolation but fair."
+},
+{
+"url": "https://issa.house.gov/media/in-the-news",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-17",
+"note": "Listing text matches verbatim (letter to AG Bondi and AAG Slater, Nov 17, 2025). Caveat: the same page (July 13, 2026) shows Issa urging Newsom and Bonta not to 'weaponize antitrust law' against the Paramount Skydance/WBD merger, so his antitrust posture is deal-specific rather than consistently pro-enforcement. Listing page is not stable; the underlying item URL would be a better citation."
+},
+{
+"url": "https://washingtonreporter.news/scoop-rep-darrell-issa-on-foreign-regulations-the-relevant-market-in-antitrust-is-now-the-world/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-19",
+"note": "Quote verbatim. He criticizes Korea, EU, Australia, Brazil for using regulation against US firms and says market share does not matter 'if in fact foreign nations, in jealousy...' target US innovators. Claim matches."
+},
+{
+"url": "https://judiciary.house.gov/committee-activity/hearings/ai-crossroads-nationwide-strategy-or-californication",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-09-18",
+"note": "Hearing notice text matches verbatim and the preemption framing is exactly as claimed. But the page itself does not name Issa; that he chairs the Subcommittee on Courts, IP, AI and the Internet is confirmed only from his own site (in-the-news page). Hearing date is Sept 18, 2025 (notice posted Sept 15)."
+},
+{
+"url": "https://www.rstreet.org/commentary/testimony-in-review-adam-thierers-september-2025-testimony-before-the-house-judiciarys/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-25",
+"note": "Page: 'Rep. Darrell Issa (R-Calif.) asked about the regulation of AI inputs versus outputs with regard to the scope of federal preemption.' Claim matches; 'treating preemption as the working premise' is a reasonable characterization of a scope question."
+},
+{
+"url": "https://www.speaker.gov/wp-content/uploads/2024/12/AI-Task-Force-Report-FINAL.pdf",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2024-12",
+"note": "PDF (10MB, extracted via pypdf) confirms the preemption chapter's key findings ('Federal preemption of state law on AI issues is complex', 'has benefits and drawbacks') and its only recommendation is 'Study applicable AI regulations across sectors.' Issa's name did not appear in the extracted text (member roster likely rendered as an image); his membership is confirmed separately by his Feb 2024 press release. The comparative inference about his 2025 lean is the tracker's, not the document's."
+},
+{
+"url": "https://thehill.com/policy/technology/5699863-congress-ai-overwatch-act-chips-export/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Article: committee advanced the bill; Barr and McCormick were the only no votes; Issa 'voted present after suggesting the bill would put Congress in the position of being a regulator and calling for changes.' Quote verbatim. Claim matches. Article does not report a 42-2-1 tally in the fetched text but the described votes are consistent with it."
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Verbatim: 'every day, many of the largest organizations in communications self-regulate, and AI has to be the same way.'"
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "L000593",
+"checks": [
+{
+"url": "https://levin.house.gov/media/press-releases/rep-mike-levin-introduces-new-bill-to-stop-data-centers-from-driving-up-electricity-prices-for-consumers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Page loaded directly (200). Quote appears verbatim (including the stray space before the comma after 'data centers'). Release describes the SHIELD Act making large energy users pay for grid upgrades and incentivizing zero-emission power; supports claim he does not oppose data centers but wants large users to bear costs."
+},
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-28",
+"note": "Beyer.house.gov mirror of the Oct 28, 2025 Mullin-led letter to FERC, EEI and Data Center Coalition. Quote is verbatim in the letter text. Mike Levin (CA-49) is listed among the 19 co-signers. Letter asks how grid infrastructure costs for data centers are kept from being passed to households and small businesses."
+},
+{
+"url": "https://levin.house.gov/media/press-releases/reps-levin-and-casten_seec-clean-energy-deployment-task-force-introduce-the-energy-bills-relief-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-18",
+"note": "Quote appears verbatim in Levin's statement on the Energy Bills Relief Act (introduced with Casten and SEEC task force). Supports the claim."
+},
+{
+"url": "https://www.sandiegouniontribune.com/2026/05/07/qa-meet-rep-mike-levin-candidate-for-californias-49th-congressional-district/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-07",
+"note": "Quote appears verbatim in his answer to the 'first priority if your party wins control' question; he frames it under 'bringing down costs' with the Energy Bills Relief Act as the first item. Claim is supported."
+},
+{
+"url": "https://levin.house.gov/media/press-releases/rep-mike-levins-statement-on-the-tiktok-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-13",
+"note": "Quote verbatim. Statement says he is 'a strong supporter of free speech' and that the bill requires ByteDance to divest rather than banning TikTok outright. Supports the claim."
+},
+{
+"url": "https://levin.house.gov/media/press-releases/rep-mike-levin-introduces-new-bill-to-stop-data-centers-from-driving-up-electricity-prices-for-consumers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Headline quote appears verbatim, attributed to Rep. Levin in the Jan 14, 2026 SHIELD Act release."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the six sourced items addresses AI safety, model regulation or frontier-AI guardrails. The only AI mention is 'clear rules' about electricity bills and emissions from data centers, which is already captured by data_centers. Evidence is too thin to assign an ai_risk position; recommend leaving it unscored unless an AI-specific source is added.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "P000608",
+"checks": [
+{
+"url": "https://scottpeters.house.gov/press-releases/reps-peters-and-barr-introduce-bill-to-slash-permitting-times-lower-energy-costs-and-prevent-blackouts",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-26",
+"note": "Peters quote appears verbatim (curly apostrophe in don't). Immediately following paragraph is Barr's quote opening 'AI data centers and advanced manufacturing are at the core of America's economic future', so the co-lead/data-center framing claim holds."
+},
+{
+"url": "https://gabeevans.house.gov/media/press-releases/evans-peters-unveil-bill-address-transmission-project-bottlenecks-and-lower",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Quote verbatim, attributed to Peters; same quote ends 'along with relief for ratepayers from rising costs', supporting the ratepayer half of the claim."
+},
+{
+"url": "https://www.eenews.net/articles/how-republicans-saved-the-speed-act-from-oblivion/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-12-17",
+"note": "Quote verbatim and page says he 'has long been a proponent of changing NEPA' and was pleased to see the bill move forward. But the article predates the floor vote and says nothing about how Peters voted; the 'ultimately voted no' claim is not supported by this source and needs a roll-call citation."
+},
+{
+"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-04",
+"note": "Page lists Peters among the members releasing the Great American AI Act discussion draft; his statement calls it an encouraging first step toward bipartisan legislation to keep pace with AI, consistent with govern-not-pause framing."
+},
+{
+"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Peters named as co-introducer; both sentences of the quote appear verbatim. Bill title (Frontier Risk Oversight, National Transparency, Independent Evaluation, and Reporting Act) and description cover transparency, independent evaluation and incident reporting."
+},
+{
+"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-04",
+"note": "Quote verbatim, attributed to Congressman Peters."
+},
+{
+"url": "https://www.lowellsun.com/2026/08/03/lori-trahan-pushes-for-action-on-frontier-act-after-anthropic-discloses-breaches-by-its-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-03",
+"note": "Names Peters as co-filer of the FRONTIER Act and quotes him saying he supported the initial draft so Congress 'could develop a better bill that reflects how this technology works and where it's headed.'"
+},
+{
+"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Quote verbatim from Peters; supports single-federal-standard framing."
+},
+{
+"url": "https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-04",
+"note": "Confirms Peters joined in releasing the draft and that it includes a three-year preemption of state AI development laws. However, the pushback described comes from AI-safety groups (e.g., Americans for Responsible Innovation's Brad Carson, a former Democratic rep) and the preemption idea 'previously generated significant pushback for Trahan'; the page does not say sitting Democrats objected to this draft. Soften 'from other Democrats' to 'from AI-safety groups'."
+},
+{
+"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-04",
+"note": "Quote verbatim, closing line of Peters's statement."
+},
+{
+"url": "https://iapp.org/news/a/a-view-from-dc-a-bipartisan-blockbuster-bill-on-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-05",
+"note": "Page names Peters among those signing onto the release and notes only Houchin and Peters are on Energy and Commerce."
+},
+{
+"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Quote verbatim, attributed to Congressman Scott Peters (CA-50)."
+}
+],
+"score_objections": []
+}
+]

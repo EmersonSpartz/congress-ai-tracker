@@ -1,0 +1,794 @@
+[
+{
+"bioguide": "T000486",
+"name": "Ritchie Torres",
+"signature": "Bronx Democrat who filed a 2023 bill requiring labels on all AI-generated content, sits on the Financial Services AI subcommittee and the China Select Committee, and won his 2026 primary with about $1.1 million in support from the AI industry super PAC network Leading the Future.",
+"notable_quote": {
+"text": "Artificial intelligence is the most revolutionary technology of our time. It has the potential to be a weapon of mass disinformation, dislocation, and destruction",
+"url": "https://ritchietorres.house.gov/posts/u-s-rep-ritchie-torres-introduces-federal-legislation-requiring-mandatory-disclaimer-for-material-generated-by-artificial-intelligence",
+"date": "2023-06-05"
+},
+"groups": [
+"Member, House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
+"Member, House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "No statements on data centers found as of Sept 2026. He is an original cosponsor of the House Democrats' Energy Bills Relief Act, which would make data centers and other very large power users pay for the grid upgrades they cause, and he has fought Con Edison rate hikes.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: Energy Bills Relief Act (H.R.7977), the House Democratic energy affordability package",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Section 603 of the bill makes large load facilities such as data centers their own customer class that must fully pay for grid upgrades built to serve them, so his cosponsorship leans toward protecting ratepayers."
+},
+{
+"type": "vote",
+"title": "Voted Nay on the SPEED Act permitting reform bill (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the Republican permitting overhaul that backers say would speed energy and data center construction; a party-line vote, so a weak signal on its own."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Mixed but leaning toward targeted rules. His own 2023 bill would require a disclaimer on all AI-generated content and he called managing AI's existential risks a central challenge for Congress, while warning against over-regulation. In 2025 he cosponsored a bill letting financial firms test AI with some rules waived, and the AI industry super PAC backed his 2026 primary.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Torres introduces the AI Disclosure Act of 2023 requiring a disclaimer on AI-generated material",
+"url": "https://ritchietorres.house.gov/posts/u-s-rep-ritchie-torres-introduces-federal-legislation-requiring-mandatory-disclaimer-for-material-generated-by-artificial-intelligence",
+"date": "2023-06-05",
+"quote": "Carefully crafting a regulatory framework for managing the existential risks of AI will be one of the central challenges confronting Congress in the years and decades to come. There is danger in both under-regulating and over-regulating.",
+"what_it_shows": "He treats AI as a serious risk and wants a federal regulatory framework, starting with mandatory disclosure enforced by the FTC, but says over-regulation is also a danger."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Unleashing AI Innovation in Financial Services Act (H.R.4801)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4801",
+"date": "2025-07-29",
+"quote": null,
+"what_it_shows": "He backed a regulatory sandbox letting banks and other financial firms test AI projects with some normal rules turned off, a lighter-touch signal."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Securing Elections From AI Deception Act (H.R.8858, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "He supported banning AI-made fake media meant to trick voters, a targeted guardrail."
+},
+{
+"type": "pac",
+"title": "AI Money Watch and Transformer trackers: Leading the Future endorsed Torres; its Think Big arm spent $1.12 million supporting him in the NY-15 primary",
+"url": "https://elections.transformernews.ai/races/ny-h-15",
+"date": "2026-06",
+"quote": null,
+"what_it_shows": "The industry-funded super PAC network that fights strict AI regulation chose to back him, which suggests it sees him as friendly to a lighter-touch approach; this is the PAC's view, not his own statement."
+},
+{
+"type": "pac",
+"title": "Washington Reporter: Leading the Future backs Democratic incumbents including Torres",
+"url": "https://washingtonreporter.news/exclusive-pro-ai-super-pac-spending-big-for-sen-lindsey-graham-and-rep-kevin-hern/",
+"date": "2026-06-02",
+"quote": "Leading the Future has also backed Democratic incumbents, like Reps. Richie Torres (D., N.Y.), Val Hoyle (D., Ore.), and Rob Menendez (D., N.J.).",
+"what_it_shows": "Independent confirmation that the pro-industry AI super PAC supported his re-election."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted rules: he cosponsored the Kids Online Safety Act, the TikTok divest-or-ban law, a reproductive health data privacy bill and a 2026 bill pushing face-scan age checks to keep kids off adult products. He voted against the House Republican kids online safety package in June 2026, though I did not find his own explanation.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (H.R.7891, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-06-18",
+"quote": null,
+"what_it_shows": "He backed a duty-of-care law requiring platforms to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Americans from Foreign Adversary Controlled Applications Act (H.R.7521, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-05",
+"quote": null,
+"what_it_shows": "He supported forcing TikTok's Chinese owner to sell or face a ban."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Facial Recognition to Protect Children Act (H.R.9706)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9706",
+"date": "2026-07-15",
+"quote": null,
+"what_it_shows": "He backed pushing online services to use face-scan age checks to keep children out of adult accounts."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: My Body, My Data Act (H.R.3420, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "He supported limits on how apps collect and share reproductive health data."
+},
+{
+"type": "vote",
+"title": "Voted Nay on the KIDS Act, the House Republican kids online safety package (House roll call 228)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He was among 85 Democrats who voted against the package; most Democratic opponents said it lacked a duty of care and was too soft on platforms, but I found no statement from Torres explaining his vote."
+},
+{
+"type": "statement",
+"title": "Press release: Torres files the Social Media Bank Run Act after the Silicon Valley Bank collapse",
+"url": "https://ritchietorres.house.gov/posts/u-s-rep-ritchie-torres-files-federal-legislation-to-address-impact-and-risk-of-social-media-on-stability-of-americas-financial-sector",
+"date": "2023-03-29",
+"quote": "Digital platforms enable financial panic to spread on a scale and at a pace we've never before seen",
+"what_it_shows": "He wants federal regulators to monitor social media for signs of bank runs, a narrow new oversight role rather than broad platform regulation."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. I checked the Nov 2025 Matsui letter (81 signers) and the Dec 2025 Clarke letter (44 signers) against state AI law preemption; he signed neither, and I found no statement on the Dec 2025 executive order or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Voted Nay on House passage of H.R.1, which then contained the 10-year moratorium on state AI laws (House roll call 145)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A party-line vote against the whole Republican budget bill; it does not by itself show a view on state AI law preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans hawkish on Chinese AI but has not spoken on chip export controls. He cosponsored bills to remove DeepSeek from government devices and bar adversary-built AI from federal use, and in Jan 2026 asked Treasury to review a China-linked takeover of iRobot's data and AI technology.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: No DeepSeek on Government Devices Act (H.R.1121)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-07",
+"quote": null,
+"what_it_shows": "He backed banning the Chinese AI app from all federal devices."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: No Adversarial AI Act (H.R.4142)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4142",
+"date": "2025-06-25",
+"quote": null,
+"what_it_shows": "He backed barring the federal government from using AI made by companies in China and other rival countries."
+},
+{
+"type": "letter",
+"title": "Press release: Torres and Nunn ask Treasury for a national security review of iRobot's sale to a China-linked buyer",
+"url": "https://ritchietorres.house.gov/posts/reps-torres-and-nunn-call-for-national-security-review-of-irobot-bankruptcy-and-foreign-acquisition",
+"date": "2026-01-09",
+"quote": "We cannot allow bankruptcy proceedings to become a back door for hostile foreign actors to gain access to sensitive American data and critical technology",
+"what_it_shows": "He wants CFIUS to scrutinize or block transfers of American AI and robotics technology and household data to entities tied to China."
+}
+]
+}
+},
+"search_notes": "Searches run: Google News for Torres with AI, data center, Leading the Future/Think Big, chatbot/deepfake/AI regulation, Big Tech/Section 230/antitrust, Nvidia/export controls/DeepSeek, state AI laws/preemption/moratorium, electricity/ratepayers/Con Edison, plus his official site listing and RSS feed, the Matsui and Clarke letters, the Casar AI CEO letter, govtrack cosponsor and vote pages (H.R.7977, H.R.8241, roll calls 145, 356, 228), the Transformer and AI Money Watch PAC trackers. Google News link decoding was rate-limited and the Wayback Machine was unreachable, so the Axios May 8 2026 endorsement story, The Hill's June 23 2026 NY primary piece and a Politico story on the $26M tech spending could not be opened; the endorsement was confirmed instead through Washington Reporter, aimoneywatch.org and the Transformer FEC tracker. No statement by Torres about the PAC support was found. His site's press page returns 'No press releases found' for the standard listing; only the Wayback CDX index surfaced older AI posts, so 2025-2026 AI statements may exist that I could not reach."
+},
+{
+"bioguide": "L000606",
+"name": "George Latimer",
+"signature": "Freshman Westchester Democrat who signed the 81-member House letter against overriding state AI laws and cosponsors bills that make data centers pay for their own grid costs.",
+"notable_quote": {
+"text": "There will be dislocation of career paths because of this. How do we anticipate and respond to that? That is an issue for business, ethicists and for government.",
+"url": "https://yonkerstimes.com/pace-u-panel-explores-the-ethical-frontier-of-ai/",
+"date": "2025-09-22"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Protect ratepayers first, based on bills rather than speeches. He cosponsored three 2026 bills aimed at keeping data center power costs off household electric bills (the SHIELD Act, the Power for the People Act and the Energy Bills Relief Act). No public remarks on data centers or the Hochul pause were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: SHIELD Act (H.R.7066), shielding families from data center driven electric bill increases",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7066",
+"date": "2026-01-14",
+"quote": null,
+"what_it_shows": "He backed a bill to stop regular customers from being stuck with higher bills caused by power-hungry data centers."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Power for the People Act (H.R.8241), Tonko's data center cost allocation bill",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8241",
+"date": "2026-04-20",
+"quote": null,
+"what_it_shows": "He joined the main House Democratic bill making data centers pay for the electricity demand and grid upgrades they cause; confirmed on govtrack's cosponsor list."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: Energy Bills Relief Act (H.R.7977)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "The House Democratic energy affordability package includes a section making large load facilities such as data centers their own customer class that fully pays for related grid upgrades."
+},
+{
+"type": "vote",
+"title": "Voted Nay on the SPEED Act permitting reform bill (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the Republican permitting overhaul meant to speed energy and data center construction; a party-line vote and a weak signal on its own."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward targeted guardrails. At a Sept 2025 Pace University panel he warned AI will disrupt careers and said government must help respond, and he cosponsored bills against AI-driven election lies and AI voice robocalls, plus a bill making the SBA report on its AI use and risks. He has not called for broad AI licensing or safety testing.",
+"evidence": [
+{
+"type": "statement",
+"title": "Yonkers Times: Latimer speaks at Pace University panel on the ethics of AI",
+"url": "https://yonkerstimes.com/pace-u-panel-explores-the-ethical-frontier-of-ai/",
+"date": "2025-09-22",
+"quote": "There will be dislocation of career paths because of this. How do we anticipate and respond to that? That is an issue for business, ethicists and for government.",
+"what_it_shows": "He frames AI mainly as a job disruption problem that government shares responsibility for managing, not as an existential danger."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Deceptive Practices and Voter Intimidation Prevention Act of 2025 (H.R.4894)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-10-17",
+"quote": null,
+"what_it_shows": "He backed making it illegal to spread voting lies, including AI-made fake content, before federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: QUIET Act (H.R.1027), requiring AI robocalls to disclose they use AI",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2026-05-13",
+"quote": null,
+"what_it_shows": "He supported a disclosure rule for AI-generated voices in robocalls and higher fines."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: SBA Artificial Intelligence Utilization Act of 2026 (H.R.8881), which passed the House June 23 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8881",
+"date": "2026-05-19",
+"quote": null,
+"what_it_shows": "As the sole cosponsor of Republican Brad Finstad's bill, he backed annual reporting on how the Small Business Administration uses AI and the risks involved, a transparency measure for government AI."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Targeted rules. He cosponsored bills cracking down on foreign scam robocalls, banning Chinese and Russian linked connected car technology, and protecting taxpayer data from Elon Musk's DOGE team. He voted against the House Republican kids online safety package in June 2026, though I found no statement explaining his vote.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Foreign Robocall Elimination Act (H.R.6152)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-05-13",
+"quote": null,
+"what_it_shows": "He backed a crackdown on scam robocalls entering the country from abroad."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (H.R.8730)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "He supported banning internet-connected cars and car software tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "statement",
+"title": "Press release: Latimer helps introduce the Taxpayer Data Protection Act",
+"url": "https://latimer.house.gov/media/press-releases/rep-latimer-helps-introduce-new-bill-stop-musk-invading-americans-privacy",
+"date": "2025-02-06",
+"quote": "prevent Musk and his minions from rifling through the private data of everyday Americans",
+"what_it_shows": "He framed access to Americans' personal data by Musk's DOGE team as a privacy threat needing new legal limits."
+},
+{
+"type": "vote",
+"title": "Voted Nay on the KIDS Act, the House Republican kids online safety package (House roll call 228)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He was among 85 Democrats voting no; most Democratic opponents said the package lacked a duty of care, but I found no statement from Latimer on his reasons."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Wants states to keep regulating. He signed the Nov 26 2025 letter from 81 House Democrats telling congressional leaders not to revive the state AI law moratorium in the defense bill and not to use an executive order to override state AI laws.",
+"evidence": [
+{
+"type": "letter",
+"title": "Signer: Matsui-led letter of 81 House Democrats opposing an AI moratorium in the NDAA and the planned preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "He put his name on a clear statement against federal preemption or a moratorium on state AI laws; his name appears in the letter's signature list."
+},
+{
+"type": "vote",
+"title": "Voted Nay on House passage of H.R.1, which then contained the 10-year moratorium on state AI laws (House roll call 145)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A party-line vote against the whole Republican budget bill; on its own it says little about preemption, but it is consistent with the letter he later signed."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position on chip export controls or Nvidia sales to China found as of Sept 2026. I searched for export control, Nvidia, H20 and H200 statements and found none; his only China technology bill is the Connected Vehicle Security Act, which is about cars, not chips.",
+"evidence": []
+}
+},
+"search_notes": "Searches run: Google News for Latimer with AI, artificial intelligence, data center, robocall/state AI/preemption/chatbot, Power for the People/energy bills/SBA AI, Finstad SBA AI, SHIELD Act; his official site press release and in-the-news listings (two pages each), committees and caucuses page, the citizen task forces release; the Matsui letter PDF (downloaded and text-extracted, his name confirmed), the Clarke letter (not a signer), govtrack cosponsor pages for H.R.7977 and H.R.8241 and roll calls 145, 356 and 228; the Yonkers Times Pace panel article. FedScoop's two SBA AI bill stories returned 404 and the Wayback Machine was unreachable, so no Latimer quote on the SBA bill was captured. His press release page appears not to have been updated since March 2026, so recent statements may be missing. His caucus list (Labor, Reproductive Freedom, Equality, New Democrat Coalition, SEEC) shows no AI caucus."
+},
+{
+"bioguide": "L000599",
+"name": "Michael Lawler",
+"signature": "Hudson Valley Republican who sponsors the Remote Access Security Act closing the cloud loophole in chip export controls, wrote the CHAT Act on kids and AI chatbots, co-leads the Stop Rogue AI Act on AI agents, and attacked Hochul's data center pause while cosponsoring ratepayer protection bills.",
+"notable_quote": {
+"text": "The federal government, state governments and local municipalities need to be working together collaboratively to address the concerns, to make sure that these large-scale data centers are not taking away power from the people",
+"url": "https://nypost.com/2026/09/06/us-news/how-ai-and-data-centers-are-dominating-new-yorks-key-midterm-races/",
+"date": "2026-09-06"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Build, with conditions. He attacked Gov. Hochul's July 2026 pause on new hyperscale data centers as stifling investment and pushing the industry toward China, and he backs permitting reform. But he also says the state must control energy use, that local governments should extract public benefits, and he cosponsored the Ratepayer Protection Act and the Data Center Transparency Act.",
+"evidence": [
+{
+"type": "interview",
+"title": "Fox Business clip: 'Banning data centers will only hurt New York's economy, says Rep Mike Lawler'",
+"url": "https://www.foxbusiness.com/video/6401434122112",
+"date": "2026-07-17",
+"quote": null,
+"what_it_shows": "Per Fox's summary, he criticized Hochul's executive order pausing new AI data centers as stifling American innovation and investment and pushing the sector toward rivals like China."
+},
+{
+"type": "statement",
+"title": "New York Post: 'How AI and data centers are dominating New York's key midterm races' (Lawler remarks at a Dutchess County forum)",
+"url": "https://nypost.com/2026/09/06/us-news/how-ai-and-data-centers-are-dominating-new-yorks-key-midterm-races/",
+"date": "2026-09-06",
+"quote": "The federal government, state governments and local municipalities need to be working together collaboratively to address the concerns, to make sure that these large-scale data centers are not taking away power from the people",
+"what_it_shows": "The Post describes him as backing data centers with limits: he said the state needs controls on energy usage and local governments should extract public benefits from new projects."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Ratepayer Protection Act (H.R.9340)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "He joined the bipartisan bill meant to keep household electric bills from rising to pay for power that big new users like data centers need."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Data Center Transparency Act (H.R.6984)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6984",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "He backed requiring data centers to publicly report their electricity and water use."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Unleashing Low-Cost Rural AI Act (H.R.5227)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5227",
+"date": "2026-02-02",
+"quote": null,
+"what_it_shows": "He supported steering AI computing to rural areas with cheap local energy, a pro-buildout measure."
+},
+{
+"type": "statement",
+"title": "Press release: Lawler introduces bipartisan tech-neutral permitting certainty legislation (FREEDOM Act)",
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=5425",
+"date": "2026-02-04",
+"quote": "America's energy security depends on our ability to build critical infrastructure efficiently and responsibly. The FREEDOM Act cuts through regulatory delays that have stalled vital energy projects across the country.",
+"what_it_shows": "He wants faster, more predictable permitting for energy projects of all kinds, the supply side of the data center power debate."
+},
+{
+"type": "vote",
+"title": "Voted Yea on the SPEED Act permitting reform bill (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He supported the Republican permitting overhaul that backers say would speed energy and data center construction."
+},
+{
+"type": "other",
+"title": "Center for American Progress Action report on House Republicans and state and local data center authority",
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"date": "2026-08-24",
+"quote": "Rep. Mike Lawler (R-NY) has attacked the governor for these actions",
+"what_it_shows": "A progressive group singles him out for attacking Hochul's moratorium and for voting for the House budget bill that contained a state and local AI law moratorium; a critic's characterization, not his words."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Targeted guardrails paired with pro-innovation language. He wrote the CHAT Act to put age checks and safety rules on AI companion chatbots for kids, co-leads the Stop Rogue AI Act setting security standards for AI agents, cosponsored a foundation model transparency bill and deepfake bills, and pressed AI companies and federal agencies on election-year misinformation. He has not called for licensing or a pause.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: CHAT Act (H.R.7218), safety rules for AI chatbots that talk with kids",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7218",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "His own bill would impose enforceable safeguards on AI companion chatbots used by minors."
+},
+{
+"type": "statement",
+"title": "Press release: Lawler introduces legislation to protect children from harmful AI companion chatbots",
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=5383",
+"date": "2026-01-27",
+"quote": "The CHAT Act puts families first and ensures innovation never comes at the expense of our children's safety",
+"what_it_shows": "He calls for age verification, parental consent and clear boundaries for AI chatbots interacting with kids while framing it as compatible with innovation."
+},
+{
+"type": "statement",
+"title": "Axios (reposted on Lawler's site): 'New bill cracks down on AI agents after Hugging Face breach' (Stop Rogue AI Act with Gottheimer)",
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6424",
+"date": "2026-09-03",
+"quote": null,
+"what_it_shows": "His bipartisan bill directs NIST to write security standards for deploying AI agents, with tamper-proof logs and agent inventories, and pushes federal contractors to meet them after incidents of rogue AI agents."
+},
+{
+"type": "statement",
+"title": "Inside AI Policy (reposted on Lawler's site): Gottheimer-Lawler bill rejects self-attestation alone for agentic AI standards",
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6446",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "The Stop Rogue AI Act would require cryptographically verifiable identity for AI agents rather than trusting companies' own claims, using federal procurement as the lever."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI Foundation Model Transparency Act of 2026 (H.R.8094)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8094",
+"date": "2026-03-26",
+"quote": null,
+"what_it_shows": "He backed making big AI companies publicly explain training data and testing for their models."
+},
+{
+"type": "letter",
+"title": "Press release: Lawler and Gottheimer letter to CEOs of OpenAI, Google, Microsoft, Anthropic, Meta, Perplexity and X on the 2026 elections",
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=5910",
+"date": "2026-05-13",
+"quote": "AI is going to play a defining role in this election cycle, whether the industry is ready for it or not.",
+"what_it_shows": "He asked AI companies how they handle political bias, misinformation and source reliability in chatbots ahead of the midterms, an accountability push short of regulation."
+},
+{
+"type": "letter",
+"title": "Press release: Lawler and Gottheimer urge CISA, DOJ, FEC and DHS to coordinate against AI election threats",
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6180",
+"date": "2026-07-09",
+"quote": "Providing voters with accurate, neutral, and verifiable information is not optional, but a democratic imperative.",
+"what_it_shows": "He wants federal agencies actively managing AI-related risks to election information."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: DEFIANCE Act of 2025 (H.R.3562)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2025-05-21",
+"quote": null,
+"what_it_shows": "He backed letting victims sue over AI-made sexual deepfakes."
+},
+{
+"type": "statement",
+"title": "Press release: Lawler and Gottheimer introduce the AI Workforce Training Act",
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=5496",
+"date": "2026-02-20",
+"quote": "If quantum computing and AI are the future, our workforce can't be left behind.",
+"what_it_shows": "He treats AI as inevitable and wants a tax credit for worker retraining rather than limits on the technology."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Targeted rules. He cosponsored the Kids Online Safety Act in 2024, the TikTok divest-or-ban law, a dating app scam warning bill and a ban on Chinese DJI drones, and voted for the House Republican kids online safety package in June 2026. No calls for breaking up Big Tech or repealing Section 230 were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (H.R.7891, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-10-11",
+"quote": null,
+"what_it_shows": "He backed a duty-of-care law for platforms serving minors."
+},
+{
+"type": "vote",
+"title": "Voted Yea on the KIDS Act, the House kids online safety package (House roll call 228)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He supported the House Republican package covering age verification, AI chatbots and data protections that many Democrats and child safety groups called too weak."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Romance Scam Prevention Act (H.R.2481)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2481",
+"date": "2025-06-06",
+"quote": null,
+"what_it_shows": "He supported requiring dating apps to warn users about banned scammers."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Americans from Foreign Adversary Controlled Applications Act (H.R.7521, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "He backed forcing TikTok's Chinese owner to sell or face a ban."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Countering CCP Drones Act (H.R.2864, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2864",
+"date": "2024-04-10",
+"quote": null,
+"what_it_shows": "He supported blocking new DJI drones from U.S. airwaves over spying concerns."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "Weak signal toward a national standard. He voted for the House budget bill in May 2025 while it carried the 10-year moratorium on state AI laws, and a progressive group has criticized him for it, but I found no statement from him for or against preempting state AI laws. On data centers he says federal, state and local governments should work together.",
+"evidence": [
+{
+"type": "vote",
+"title": "Voted Yea on House passage of H.R.1 with the 10-year moratorium on state AI laws (House roll call 145)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A party-line vote for the whole budget package that included the state AI law moratorium; it shows he did not object to the provision but is not a stated position."
+},
+{
+"type": "other",
+"title": "Center for American Progress Action: nearly every House Republican voted to block state and local data center protections",
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"date": "2026-08-24",
+"quote": null,
+"what_it_shows": "The group argues that if the moratorium he voted for had become law, Hochul's data center pause would likely have been blocked; a critic's reading of his vote."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Tighten export controls. He sponsors the Remote Access Security Act, which passed the House 369-22 in January 2026 to stop Chinese firms from using restricted chips through the cloud, and cosponsors the Chip Security Act, the AI OVERWATCH Act giving Congress a veto over chip sales to China, and a dozen other bills toughening export enforcement.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: Remote Access Security Act (H.R.2683)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"date": "2025-04-07",
+"quote": null,
+"what_it_shows": "His own bill closes the loophole letting foreign buyers barred from purchasing American chips use them remotely through cloud services."
+},
+{
+"type": "statement",
+"title": "Press release: Lawler statement after the Remote Access Security Act passes the House 369-22",
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=5306",
+"date": "2026-01-13",
+"quote": "Our export controls are only as strong as the weakest link, and right now, the CCP has a real tool to sidestep these prohibitions. We need action now.",
+"what_it_shows": "He frames cloud access to controlled chips as a national security gap that needs stricter federal control."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Chip Security Act (H.R.3447)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-06-06",
+"quote": null,
+"what_it_shows": "He backed requiring location tracking in advanced AI chips to catch smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI OVERWATCH Act (H.R.6875)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-01-20",
+"quote": null,
+"what_it_shows": "He supported giving Congress the power to block advanced AI chip sales to China before they happen, the main congressional response to the Nvidia H200 approvals."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: STRIDE Act (H.R.6058)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6058",
+"date": "2025-11-21",
+"quote": null,
+"what_it_shows": "He backed tighter rules on shipping advanced chips to China and other rivals."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Stop Stealing our Chips Act (H.R.6322)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6322",
+"date": "2026-04-21",
+"quote": null,
+"what_it_shows": "He supported paying and protecting whistleblowers who report chip export violations."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Deterring American AI Model Theft Act of 2026 (H.R.8283)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"date": "2026-04-20",
+"quote": null,
+"what_it_shows": "He backed penalties on foreign companies, especially Chinese ones, that steal or copy American AI models."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Export Controls Enforcement Act (H.R.4505)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4505",
+"date": "2025-07-23",
+"quote": null,
+"what_it_shows": "He supported putting at least 20 export control officers overseas to catch chip smuggling."
+}
+]
+}
+},
+"search_notes": "Searches run: Google News for Lawler with artificial intelligence, data center/Hochul/moratorium, CHAT Act, Remote Access Security Act/Chip Security/Nvidia, H200/AI OVERWATCH, state AI laws/preemption, Stop Rogue AI Act, Grid Expansion and Reliability Act; his official site's press release listing (22 pages parsed for links), RSS feed and seven individual releases; the Fox Business July 17 2026 video page; the NY Post Sept 6 2026 article; the CAP Action Aug 24 2026 report; govtrack roll calls 145, 356 and 228. Not opened: Fox Business/Fox News Aug 18 2026 pieces on Hochul's energy policies and the Sept 2 2026 Varney clip (URLs could not be recovered because Google News link decoding was rate-limited and the Wayback Machine was unreachable), so his most recent moratorium remarks are represented by the July 17 clip and the NY Post forum quotes. His committees-and-caucuses page returned 404, so caucus memberships could not be checked; no AI caucus membership surfaced elsewhere. No AI super PAC spending for or against him was found in the Transformer or AI Money Watch trackers."
+},
+{
+"bioguide": "R000579",
+"name": "Patrick Ryan",
+"signature": "Hudson Valley Democrat and Monopoly Busters Caucus co-chair who voted against the House kids online safety package for lacking a duty of care and calls for breaking up Big Tech monopolies; no statements found on the East Fishkill data center fight in his district.",
+"notable_quote": {
+"text": "Without a duty of care provision, the KIDS Act gives Big Tech a free pass to keep putting profits over the safety of our kids.",
+"url": "https://www.dailyfreeman.com/2026/07/02/ryan-votes-against-online-safety-bill-says-it-doesnt-go-far-enough/",
+"date": "2026-07-02"
+},
+"groups": [
+"Co-Chair, Monopoly Busters Caucus",
+"Member, House Armed Services Subcommittee on Cyber, Information Technologies, and Innovation"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "No public statements on data centers found as of Sept 2026, even though the 1,000 MW East Fishkill proposal and the town's three-year moratorium are in his district. He is an original cosponsor of the House Democrats' Energy Bills Relief Act, which would make data centers and other large power users pay for the grid upgrades they cause.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: Energy Bills Relief Act (H.R.7977)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "The House Democratic energy affordability package includes a section making large load facilities such as data centers their own customer class that fully pays for related grid upgrades."
+},
+{
+"type": "vote",
+"title": "Voted Nay on the SPEED Act permitting reform bill (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the Republican permitting overhaul meant to speed energy and data center construction; a party-line vote and a weak signal on its own."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Targeted guardrails with populist framing. His campaign says AI will be the biggest transformation of our lifetime and Congress needs to step up and regulate the industry, against a handful of tech oligarchs. As a Monopoly Busters co-chair he warned Big Tech is rushing out surveillance AI with disregard for child safety, and in 2024 he cosponsored a ban on AI election deception.",
+"evidence": [
+{
+"type": "statement",
+"title": "Daily Freeman: Ryan campaign statement on AI after his vote against the KIDS Act",
+"url": "https://www.dailyfreeman.com/2026/07/02/ryan-votes-against-online-safety-bill-says-it-doesnt-go-far-enough/",
+"date": "2026-07-02",
+"quote": "Pat believes AI will bring the biggest economic and social transformation of our lifetime, and Congress needs to step up and regulate the industry.",
+"what_it_shows": "His campaign calls for Congress to regulate the AI industry and frames the fight as tech oligarchs versus working people."
+},
+{
+"type": "statement",
+"title": "Press release: Monopoly Busters Caucus chairs on the $16.68 billion Meta settlement",
+"url": "https://patryan.house.gov/media/press-releases/monopoly-busters-caucus-chairs-meta-settlement-confirms-danger-big-tech",
+"date": "2026-08-28",
+"quote": "Meta and other Big Tech companies are rushing out surveillance AI with the exact same disregard for child safety and human life. It is time to break up their monopolies and stop their personalized predation before another child gets hurt.",
+"what_it_shows": "He ties AI rollouts by large platforms to child safety harms and wants structural action, not voluntary standards."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Securing Elections From AI Deception Act (H.R.8858, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "He backed banning AI-made fake media used to trick voters."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: CREATE AI Act of 2023 (H.R.5077, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5077",
+"date": "2024-07-23",
+"quote": null,
+"what_it_shows": "He supported a national shared computing resource so researchers and students, not just big companies, can build and study AI, a pro-research measure."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "Rein in Big Tech. He co-chairs the Monopoly Busters Caucus, voted against the House kids online safety package in June 2026 because it dropped a duty of care and, in his words, gave Big Tech a free pass, and after the Meta settlement said it is time to break up their monopolies. In 2023 he cosponsored a bill requiring age checks and parental consent on social media.",
+"evidence": [
+{
+"type": "vote",
+"title": "Voted Nay on the KIDS Act, the House kids online safety package (House roll call 228)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He opposed the package that passed 267-117, saying it was too weak on platforms."
+},
+{
+"type": "statement",
+"title": "Daily Freeman: Ryan explains his no vote on the KIDS Act",
+"url": "https://www.dailyfreeman.com/2026/07/02/ryan-votes-against-online-safety-bill-says-it-doesnt-go-far-enough/",
+"date": "2026-07-02",
+"quote": "Without a duty of care provision, the KIDS Act gives Big Tech a free pass to keep putting profits over the safety of our kids.",
+"what_it_shows": "He wants a legal duty of care on platforms and says lobbyists watered down the bill; he called it a gift to Big Tech."
+},
+{
+"type": "statement",
+"title": "Press release: Monopoly Busters Caucus chairs on the Meta settlement",
+"url": "https://patryan.house.gov/media/press-releases/monopoly-busters-caucus-chairs-meta-settlement-confirms-danger-big-tech",
+"date": "2026-08-28",
+"quote": "It is time to break up their monopolies and stop their personalized predation before another child gets hurt.",
+"what_it_shows": "As a caucus co-chair he explicitly calls for breaking up Big Tech monopolies."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Kids on Social Media Act (H.R.6149, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6149",
+"date": "2023-11-01",
+"quote": null,
+"what_it_shows": "He backed age verification, a ban on young kids, and parental consent for teens on social media."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI law moratorium, and I found no statement on the Dec 2025 executive order or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "Voted Nay on House passage of H.R.1, which then contained the 10-year moratorium on state AI laws (House roll call 145)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A party-line vote against the whole Republican budget bill; it does not by itself show a view on state AI law preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Despite sitting on the Armed Services cyber and innovation subcommittee, I found no statements or bills from him on chip export controls, Nvidia sales to China, or Chinese AI.",
+"evidence": []
+}
+},
+"search_notes": "Searches run: Google News for Pat Ryan with artificial intelligence/AI, data center/East Fishkill, Monopoly Busters/Big Tech/Meta/antitrust, Hochul data center moratorium, Palantir/AI stock, Bores endorsement, tech oligarchs; his official site press release listing (three pages), committees and caucuses page and the Meta settlement release; Daily Freeman articles of July 2 and Aug 18 2026; the Matsui and Clarke letters (not a signer of either); govtrack roll calls 145, 356 and 228 and the H.R.7977 cosponsor list. Not opened: Politico's May 11 2026 story 'Ryan backs Bores to replace Rep. Nadler, citing the battle over AI's future' and the Times Union's July 10 2026 'Stakes in AI companies create dilemma for U.S. Rep. Pat Ryan' (Google News link decoding was rate-limited and the Wayback Machine was unreachable), so his AI-themed endorsement of Alex Bores is not cited. The state context lead listing him in the Congressional AI Caucus carried a PA-07 tag that matches Rep. Ryan Mackenzie, so I treated it as a data mix-up and did not include it. No AI super PAC spending for or against him was found."
+}
+]

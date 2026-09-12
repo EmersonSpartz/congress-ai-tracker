@@ -1,0 +1,226 @@
+[
+{
+"bioguide": "F000468",
+"checks": [
+{
+"url": "https://dailyenergyinsider.com/hearing-summaries/52090-house-subcommittee-hears-bipartisan-agreement-on-data-center-cost-allocation-sharp-split-on-interregional-transmission-bill/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Site returns Cloudflare 403 on direct fetch, curl with browser UA, and WebFetch; Wayback Machine has no capture of this URL (404) and archive.ph has no snapshot. Could not verify the Fletcher FAIR Act characterization."
+},
+{
+"url": "https://www.techpolicy.press/transcript-house-hearing-on-proposal-to-sunset-section-230-of-the-communications-decency-act/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-05-22",
+"note": "Transcript (published 2024-05-23; hearing was May 22, 2024) has Fletcher's five-minute round: she thanks witness Tummarello for her miscarriage/reproductive-health testimony, praises access to courts, asks Carrie Goldberg to explain how Section 230 operates 'as an immunity from suit as opposed to say a defense or an affirmative defense' and its effect on discovery, and closes saying it is 'something for us to consider as we look to the Section 230 reform.' She does not endorse repeal/sunset."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": "We write to express our strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws and regulations.",
+"corrected_date": "2025-11-26",
+"note": "PDF (extracted locally via pdftotext; the fetch tool returned 0 chars) is dated November 26, 2025; quote appears verbatim in the opening sentence; 'Lizzie Fletcher, Member of Congress' is in the signer list; letter cites the Senate's 99-1 vote rejecting the moratorium and also opposes the planned preemption executive order."
+},
+{
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-20",
+"note": "Press release dated March 20, 2026 announces introduction of the GUARDRAILS Act to repeal Trump's AI preemption executive order and lists 'Lizzie Fletcher (D-TX)' among House cosponsors at introduction."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": "We write to express our strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws and regulations.",
+"corrected_date": "2025-11-26",
+"note": "Same letter as item 3; quote is verbatim (a fragment of the full sentence beginning 'We write to express our...'). Note this is a group letter text, not words attributed individually to Fletcher, though she is a signer."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "L000603",
+"checks": [
+{
+"url": "https://luttrell.house.gov/media/press-releases/luttrell-birds-eye-view-cybersecurity",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-08-20",
+"note": "Quote appears verbatim. Page also confirms the DOE AI and Technology Office reference and the 'race against China and Russia' framing. Published 2024-08-20."
+},
+{
+"url": "https://iapp.org/news/a/us-house-subcommittees-explore-cybersecurity-implications-of-ai-quantum-computing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-17",
+"note": "Quote appears verbatim (parenthetical is IAPP's). Article confirms joint Homeland Security subcommittee hearing on 17 Dec 2025 about the Anthropic Claude cyberattack; Luttrell asked Anthropic's Graham about risks of AI removing the human element. No rules proposed in the reported remarks. Article published 2025-12-19."
+},
+{
+"url": "https://luttrell.house.gov/media/press-releases/house-passes-luttrell-correa-bipartisan-emerging-innovative-border-0",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-03-10",
+"note": "Quote verbatim. Bill requires DHS to submit a plan to Congress on integrating AI/ML/nanotech at the border; co-led with Correa. Note the bill mandates a plan, not direct deployment, but 'pro-adoption' framing is fair."
+},
+{
+"url": "https://luttrell.house.gov/media/press-releases/luttrell-secures-key-fy27-ndaa-wins-committee",
+"verdict": "partially_supported",
+"corrected_quote": "accelerating critical technologies like hypersonics and autonomous systems",
+"corrected_date": "2026-06-05",
+"note": "Quote verbatim, but the release says 'autonomous systems', not 'autonomous weapons systems'; the claim adds 'weapons'. Also the release does not mention AI by name. Fair as weak pro-adoption-in-defense signal only."
+},
+{
+"url": "https://iapp.org/news/a/us-house-subcommittees-explore-cybersecurity-implications-of-ai-quantum-computing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-17",
+"note": "Same source as item 2; quote verbatim, attributed to Luttrell at the 17 Dec 2025 hearing."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "G000553",
+"checks": [
+{
+"url": "https://www.texastribune.org/2026/05/01/texas-greg-casar-congress-bill-utility-costs-affordability-2026-midterms/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-01",
+"note": "Quote appears verbatim. Article names Green as one of 21 co-sponsors of Casar's Lowering Utility Bills Act and places the bill among a slew of ratepayer bills, with the House Energy Subcommittee taking up seven AI/data-center grid bills the same week. Green is not quoted, as the claim says. Note the Casar bill itself targets utility profit margins, not data centers directly."
+},
+{
+"url": "https://algreen.house.gov/media/press-releases/congressman-al-green-introduces-resolution-condemning-president-donald-j-trump",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-03",
+"note": "Quote appears verbatim. Release describes the April 12, 2026 Truth Social post as disrespectful and offensive for using AI to depict Trump in sacred religious imagery. It is a religious-dignity objection to one image, not a statement about AI risk or regulation."
+},
+{
+"url": "https://algreen.house.gov/media/press-releases/icymi-bpr-business-and-politics-article-below-titled-ai-crypto-industries",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-08",
+"note": "Quote appears verbatim; the entire release is that one sentence plus a link. Reposting an article about AI/crypto industries getting hooks in lawmakers reasonably signals distrust of industry influence, but Green adds no commentary of his own."
+},
+{
+"url": "https://www.texastribune.org/2026/05/22/texas-18th-congressional-district-democratic-primary-corporate-super-pacs-crypto-christian-menefee-al-green/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "Quote appears verbatim (House floor self-introduction). Article confirms Protect Progress, a Fairshake affiliate, spent over $4 million for Menefee and that Green called Menefee aligned with 'Trump crypto cronies.' Claim accurately says this is hostility to tech-industry money, not a regulatory plan."
+},
+{
+"url": "https://www.texastribune.org/2026/05/22/texas-18th-congressional-district-democratic-primary-corporate-super-pacs-crypto-christian-menefee-al-green/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "Verbatim: Green introduced himself on the House floor as an 'unbought, liberated, unafraid Democrat, unbought by crypto cash.'"
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only ai_risk source is a resolution condemning an AI-generated image of Trump as Jesus on religious-dignity grounds. It says nothing about AI safety, frontier models, or any guardrail or regulatory approach. Evidence is too thin to assign -1 Targeted guardrails; no position should be recorded.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "Sources show hostility to crypto super PAC money and a one-line repost of an article about AI/crypto lobbying influence. Neither states a position on regulating tech companies or platforms. This is campaign-finance grievance, not a tech regulation stance; -1 Targeted rules is a stretch from this evidence and the item should be null or at most 0 Mixed.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "M001157",
+"checks": [
+{
+"url": "https://mccaul.house.gov/media-center/press-releases/mccaul-praises-trump-announcement-ai-investment-texas",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-21",
+"note": "Quote appears verbatim. Release dated Jan 21, 2025 praises Trump's AI investment announcement with first project in Texas; page does not literally use the word 'Stargate' but the date and description match the Stargate announcement."
+},
+{
+"url": "https://mccaul.house.gov/media-center/press-releases/mccaul-praises-trump-announcement-ai-investment-texas",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-21",
+"note": "Quote verbatim: 'we stand ready to help President Trump turn our nation into an AI superpower, out-compete our adversaries, and keep Americans safe.' Innovation-first, beat-adversaries framing is accurate."
+},
+{
+"url": "https://mccaul.house.gov/media-center/press-releases/mccaul-discusses-effort-secure-ai-supply-chains-under-secretary-helberg",
+"verdict": "confirmed",
+"corrected_quote": "obviously semiconductors, but [also] AI, which is the future of warfare",
+"corrected_date": "2026-02-25",
+"note": "Quote verbatim (brackets are in the original transcript). He asks Helberg to explain how Pax Silica works 'to accelerate the core AI race against China' and calls it a valuable economic alliance against adversaries."
+},
+{
+"url": "https://ari.us/ari-recognizes-2024-responsible-ai-champions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-10-17",
+"note": "Quote verbatim. Page credits McCaul for the ENFORCE Act (H.R. 8315, export controls on closed AI systems 'without stifling U.S. innovation') and the CREATE AI Act (H.R. 5077), and calls him AI Caucus co-chair. The 'not domestic rules' part of the claim is the tracker's interpretation, but consistent with the page."
+},
+{
+"url": "https://mccaul.house.gov/media-center/press-releases/mccaul-discusses-importance-keeping-american-ai-out-ccps-hands-hfac",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Quote verbatim. He criticizes 'this agreement with NVIDIA' and says Nvidia 'sold them the very chips that they used to create DeepSeek AI.' He says 'I commend the chairman for his bill, and I support it' but the page never names the AI OVERWATCH Act; the bill name is an inference from the hearing context."
+},
+{
+"url": "https://mccaul.house.gov/media-center/press-releases/mccaul-remarks-hearing-semiconductor-export-controls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-20",
+"note": "Quote verbatim. He says he is 'working on legislation' (not a 'rule') setting a statutory standard banning any affiliate 50% or more owned by a blocked entity, and opposes selling manufacturing tools usable for military-grade AI chips."
+},
+{
+"url": "https://mccaul.house.gov/media-center/press-releases/mccaul-advocates-stronger-export-controls-foreign-affairs-committee",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-24",
+"note": "Quote verbatim. Page says his BIS License Administration Enhancement Act (H.R. 8284) enforces a 'presumption of denial' standard, and he spoke for Baumgartner's MATCH Act (H.R. 8170) requiring allies to match U.S. tool controls within 150 days. Remarks delivered Apr 23, release dated Apr 24, 2026."
+},
+{
+"url": "https://freerepublic.com/focus/f-chat/4393700/posts",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Free Republic excerpt of the NY Post article; quote verbatim and attributed to McCaul telling The Post. He also says companies 'must stop working for China if they want government contracts.' Secondary repost, no date visible in fetched text; original is nypost.com."
+},
+{
+"url": "https://mccaul.house.gov/media-center/press-releases/mccaul-discusses-importance-keeping-american-ai-out-ccps-hands-hfac",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Headline quote appears verbatim on the Jan 14, 2026 release."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the nine sourced items touches Big Tech or consumer tech regulation; every item is about AI investment or export controls. The -1 score has no supporting evidence in this file.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "Evidence for 'Light touch' is thin: the sources show innovation-first, beat-China rhetoric but also an ARI 'Responsible AI Champion' award for AI safeguard legislation (ENFORCE Act, CREATE AI Act). He has said nothing in these sources for or against domestic AI safety rules, so the record is mixed rather than clearly light-touch.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "data_centers",
+"objection": "The single data-center source is unconditional praise for a private-sector AI buildout with no ratepayer, grid, or siting conditions mentioned; 'Build with conditions' implies conditions that do not appear. Either +2 fits the source better, or the evidence (one press release) is too thin to score.",
+"suggested_score": 2,
+"suggested_label": "Build faster"
+}
+]
+}
+]

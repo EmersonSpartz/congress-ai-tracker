@@ -1,0 +1,607 @@
+[
+{
+"bioguide": "M001216",
+"name": "Cory Mills",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Mills has not said whether America should build more data centers or who should pay for their power. His one data center action is a defense bill provision that lets companies build data centers on military bases only if they keep Chinese-made chips and parts out, and he voted for the SPEED Act permitting bill. The Army said his provision would scare off private data center investment on its land.",
+"evidence": [
+{
+"type": "social_post",
+"title": "Federal News Network: Mills amendment in FY27 NDAA bars Chinese components in data centers on military installations (quoting his X post)",
+"url": "https://federalnewsnetwork.com/army/2026/06/house-ndaa-provision-could-derail-army-data-center-projects/",
+"date": "2026-06",
+"quote": "Honored to pass this amendment to protect our military installations from Chinese components being used in data centers on our installations",
+"what_it_shows": "He treats data centers on military land as acceptable so long as they carry no Chinese, Russian, Iranian or North Korean chips and circuit boards, a security condition rather than a limit on building."
+},
+{
+"type": "statement",
+"title": "Federal News Network: Congress ramps up scrutiny of Pentagon AI data center plans (Mills provision in House-passed NDAA)",
+"url": "https://federalnewsnetwork.com/congress/2026/07/congress-ramps-up-scrutiny-of-pentagon-ai-data-center-plans/",
+"date": "2026-07-24",
+"quote": "This bill protects national security, promotes American businesses, and builds industry capability.",
+"what_it_shows": "His provision survived into the House-passed FY27 defense bill even though the Army warned it would create an unworkable standard and drive over $1.3 billion in private capital away from Army land."
+},
+{
+"type": "vote",
+"title": "Roll call 356: voted Yea on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for a permitting reform bill meant to speed approval of energy and infrastructure projects, the build-faster lane on data center power."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on AI safety rules, chatbots, deepfakes or AI regulation as of Sept 2026. Searched his press releases, his committee remarks, local and national news coverage, and his bill record.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Mills backed a set of targeted, security-driven tech rules in the last Congress: the House Kids Online Safety Act, forcing TikTok to be sold or banned, blocking new DJI drones from US airwaves, and stopping data brokers from selling troops' data to hostile countries. No broader Big Tech or Section 230 statements found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 7891 (118th), Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-10-11",
+"quote": null,
+"what_it_shows": "He signed onto the House version of the Kids Online Safety Act, which requires apps to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 7521 (118th), Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divest-or-ban)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "He supported forcing TikTok's Chinese owner to sell or face a US ban."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 2864 (118th), Countering CCP Drones Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2864",
+"date": "2023-09-21",
+"quote": null,
+"what_it_shows": "He backed banning new DJI drones from American airwaves over spying concerns."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 6573 (118th), Protecting Military Servicemembers' Data Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2023-12-04",
+"quote": null,
+"what_it_shows": "He backed a data broker restriction to stop sales of troops' personal information to hostile countries."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on the state AI law moratorium, the Dec 2025 executive order, or the Mar 2026 White House framework. He did not sign the Matsui or Clarke letters and has no preemption bills.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Mills leans toward tighter limits on technology flowing to China and other adversaries. He backed bills to stop US money from funding Chinese AI and chip firms and to keep US chips out of Iranian weapons, and he wrote a defense provision barring Chinese-made chips from data centers on military bases. No statement found on Nvidia H20 or H200 sales.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 6349 (118th), Preventing Adversaries from Developing Critical Capabilities Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6349",
+"date": "2024-01-11",
+"quote": null,
+"what_it_shows": "He backed blocking American investment in AI, chip and other high-tech companies in China and other rival countries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 6603 (118th), No Technology for Terror Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6603",
+"date": "2024-02-01",
+"quote": null,
+"what_it_shows": "He backed tightening rules so American chips and parts cannot reach Iran's drones and weapons."
+},
+{
+"type": "social_post",
+"title": "Federal News Network: Mills NDAA amendment bars adversary-made semiconductors and circuit boards in data centers on military land",
+"url": "https://federalnewsnetwork.com/army/2026/06/house-ndaa-provision-could-derail-army-data-center-projects/",
+"date": "2026-06",
+"quote": "Honored to pass this amendment to protect our military installations from Chinese components being used in data centers on our installations",
+"what_it_shows": "His amendment targets advanced semiconductors, chipsets and printed circuit boards made in China, Russia, Iran or North Korea."
+},
+{
+"type": "hearing",
+"title": "House Foreign Affairs Oversight and Intelligence Subcommittee hearing: U.S. Economic Security and Investment Abroad: Assessing Economic Security Zones",
+"url": "https://foreignaffairs.house.gov/committee-activity/hearings/us-economic-security-and-investment-abroad-assessing-economic-security-zones",
+"date": "2026-07",
+"quote": null,
+"what_it_shows": "As subcommittee chairman he convened a July 2026 hearing on protecting US economic security in investment abroad; his opening remarks were not retrievable."
+}
+]
+}
+},
+"signature": "Defense-focused China hawk who wrote the FY27 NDAA provision barring Chinese-made chips from data centers on military bases; lost his Aug 2026 primary.",
+"notable_quote": {
+"text": "Honored to pass this amendment to protect our military installations from Chinese components being used in data centers on our installations",
+"url": "https://federalnewsnetwork.com/army/2026/06/house-ndaa-provision-could-derail-army-data-center-projects/",
+"date": "2026-06"
+},
+"groups": [
+"House Foreign Affairs Committee, Subcommittee on Oversight and Intelligence (Chairman, 119th Congress)"
+],
+"search_notes": "Ran 10 Google News queries (artificial intelligence; AI; data center; chips/Nvidia/export controls; Big Tech/Section 230/TikTok/KOSA; deepfake/chatbot; state AI laws/preemption/moratorium; NDAA amendment; economic security hearing; defense AI/drones) plus Wayback listings of mills.house.gov, foreignaffairs.house.gov and floridianpress.com. Opened his FY27 NDAA release, press release index, the HFAC hearing page, both Federal News Network stories, GovTrack roll call 356 and cosponsor pages. Coverage of Mills in 2025-26 is dominated by ethics and misconduct stories and his Aug 18, 2026 primary loss to Ryan Elijah; almost no AI content. Could not open: Politico Pentagon data center story (blocked), Floridian Press and Data Center Dynamics pieces on the amendment (Google News decoder rate-limited, DCD 403), his HFAC opening remarks page (404). No AI super PAC support or attacks found."
+},
+{
+"bioguide": "H001099",
+"name": "Mike Haridopolos",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "No direct statement found on data centers or who pays for their power as of Sept 2026. He voted for the SPEED Act permitting reform bill, and his office promoted a Fox appearance headlined on Trump's praise for $90 billion in AI and energy investment, which points to a build-friendly lean but is thin.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: voted Yea on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for a bill to speed federal permits for energy and infrastructure projects, the build-faster lane on data center power."
+},
+{
+"type": "interview",
+"title": "Haridopolos office posting: Fox and Friends First appearance, 'Trump praises more than $90 billion investment in AI, energy'",
+"url": "https://haridopolos.house.gov/media/in-the-news/trump-praises-more-90-billion-investment-ai-energy",
+"date": "2025-07-16",
+"quote": null,
+"what_it_shows": "His office highlighted a TV appearance tied to Trump's AI and energy investment summit; the video content could not be reviewed, so it shows attention, not a stated position."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found for or against AI safety rules. His AI bills are about teaching people to use AI and sizing up foreign AI threats, and the pro-industry Leading the Future super PAC named him a 'House GOP Champion.' Searched his releases, hearings and news coverage for chatbot, deepfake and regulation positions and found none.",
+"evidence": [
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC names Haridopolos on its first list of 'House GOP Champions'",
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"date": "2026-04-16",
+"quote": "part of a broader ecosystem of current members who have engaged with the industry",
+"what_it_shows": "The AI industry-funded super PAC that opposes a patchwork of state AI laws counts him as an ally, which is the PAC's judgment rather than his own stated position."
+},
+{
+"type": "sponsor",
+"title": "Sponsor, H.R. 9907, LEARN AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9907",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "His own AI bill helps schools and job programs teach people to use AI, not regulate it."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 5351, NSF AI Education Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
+"date": "2026-01-07",
+"quote": null,
+"what_it_shows": "He backed NSF scholarships, teacher training and community college centers for AI education."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Haridopolos backs targeted rules to protect kids online. He cosponsored the STOP CSAM Act, which makes platforms report and remove child sexual abuse material and lets victims sue, and he hosted a 2025 symposium on child online safety and trafficking. No broader Big Tech or Section 230 statements found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 3921, STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-04-27",
+"quote": null,
+"what_it_shows": "He signed onto a bill forcing online platforms to do more against child sexual abuse material and opening them to lawsuits for failing."
+},
+{
+"type": "other",
+"title": "Haridopolos-hosted 2025 Human Trafficking Symposium: Fight for Child Online Safety",
+"url": "https://haridopolos.house.gov/media/in-the-news/watch-2025-human-trafficking-symposium-fight-child-online-safety",
+"date": "2025-08-26",
+"quote": "This informative symposium is dedicated to raising awareness about child trafficking and online safety.",
+"what_it_shows": "He convened prosecutors, NCMEC and survivors on protecting children online, showing kids' online safety is a priority issue for him."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on the state AI law moratorium, the Dec 2025 executive order or the Mar 2026 White House framework, and no preemption bills. Leading the Future's endorsement is the only signal and it is the PAC's view, not his.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Haridopolos leans hawkish on AI chips and China. He cosponsored the AI OVERWATCH Act, which would give Congress power to block sales of advanced AI chips to China before they happen, and a bill having the State Department assess the dangers of AI built by rival countries. No statement found on Nvidia H20 or H200 sales.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 6875, AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "He backed giving Congress an arms-sale-style veto over advanced AI chip exports to China and other risky countries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 7058, Foreign Adversary AI Risk Assessment and Diplomacy Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7058",
+"date": "2026-01-23",
+"quote": null,
+"what_it_shows": "He backed having the State Department size up the dangers of AI built by China and other adversaries and coordinate with allies."
+}
+]
+}
+},
+"signature": "Freshman on the Financial Services AI subcommittee who sponsors AI education bills, cosponsors the AI OVERWATCH chip-export bill, and was named a 'House GOP Champion' by the Leading the Future AI super PAC.",
+"notable_quote": null,
+"groups": [
+"House Financial Services Committee, Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence (Member, 119th Congress)"
+],
+"search_notes": "Ran 11 Google News queries (artificial intelligence; AI; data center; chatbot/deepfake/kids online; AI regulation/preemption/state AI laws; LEARN AI/AI literacy/AI education; Financial Services AI hearing; Nvidia/chips/export controls/China; Big Tech/Section 230/TikTok; electricity/FPL/ratepayers; robot tax) plus Wayback listings of haridopolos.house.gov, theinvadingsea.com, c-span.org, foxbusiness.com and floridatoday.com. Opened his committees page (confirms the AI subcommittee seat and Space and Aeronautics chairmanship), press release and in-the-news indexes, the robot tax and $90B AI investment postings (video only, no text), the child online safety symposium page, the Breitbart LTF list, the Invading Sea permitting op-ed (written by a Citizens' Climate Lobby volunteer urging him to act, not by him), GovTrack roll call 356 and cosponsor pages for H.R. 6875 and H.R. 3921. Could not open: Florida Politics delegation pieces (403, no Wayback), Fox Business China piece and C-SPAN Washington Journal appearance (URLs not resolvable), his Florida Today op-eds. His 2025-26 public record centers on space, NASA infrastructure and Space Coast issues; AI appears only through bills and the PAC endorsement."
+},
+{
+"bioguide": "S001200",
+"name": "Darren Soto",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Soto wants data centers built only with strong protections. At the July 2026 Energy and Commerce markup he voted for the Ratepayer Protection Act and said local communities should decide whether data centers go in their neighborhoods and ratepayers must be shielded from power and water rate hikes. He also signed a New Democrat letter calling data centers vital but in need of a national plan, and voted against the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "social_post",
+"title": "Facebook video: Soto on voting for citizen protections for data centers at the Energy and Commerce markup",
+"url": "https://www.facebook.com/RepDarrenSoto/videos/in-the-energy-and-commerce-committee-i-voted-in-favor-of-strong-citizen-protecti/1470918495055796/",
+"date": "2026-07",
+"quote": "We must empower local communities to decide if these centers are located in their neighborhoods, protect ratepayers from energy and water rate hikes, and improve essential infrastructure.",
+"what_it_shows": "In his own words he ties support for data centers to local control over siting and protection of household electric and water bills."
+},
+{
+"type": "letter",
+"title": "New Democrat Coalition letter to House appropriators requesting a DOE National Strategic Data Center Plan (Soto signer)",
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"date": "2026-03-19",
+"quote": "Rapidly increasing demand for data centers, driven by cloud computing and AI, is vital for America's economy and competitiveness. However, this expansion strains electricity grids, land, water, and community infrastructure",
+"what_it_shows": "He joined 13 other New Democrats asking for an 18-month federal plan on data center power demand, consumer costs and water use, framing growth as necessary but needing management."
+},
+{
+"type": "vote",
+"title": "Roll call 356: voted Nay on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the Republican permitting reform bill that would speed approvals for energy projects, including those serving data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Soto supports specific guardrails rather than sweeping AI rules. He is an original cosponsor of the CHATBOT Act, backs bills on AI fraud and AI robocall disclosure, and joined a letter questioning Florida's rush to use unproven AI in SNAP decisions. At the same time his own bill has the product safety agency use AI to catch dangerous products, so he also wants government to use the technology.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor, H.R. 7985, CHATBOT Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7985",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "He backed requiring AI chatbot companies to be upfront and transparent so people are not harmed by talking to a bot."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 7786, AI Fraud Accountability Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7786",
+"date": "2026-03-04",
+"quote": null,
+"what_it_shows": "He backed going after people who use AI to run scams."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 1027, QUIET Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-02-12",
+"quote": null,
+"what_it_shows": "He backed requiring AI-voiced robocalls to disclose they are AI and raising fines for illegal robocalls."
+},
+{
+"type": "letter",
+"title": "Frost-led Florida Democrats' letter to DeSantis administration on using AI in SNAP eligibility (Soto signer)",
+"url": "https://frost.house.gov/media/press-releases/congressman-maxwell-alejandro-frost-and-florida-democrats-press-desantis-administration-for-answers-on-planned-use-of-ai-in-snap-eligibility-determinations",
+"date": "2026-08-04",
+"quote": "we are concerned with one of the state's proposed solutions: the appropriation of $4 million in state funds for the new and relatively unproven technology of AI to identify the SNAP error rate",
+"what_it_shows": "He joined a demand for safeguards and transparency before Florida lets an AI vendor shape food aid decisions."
+},
+{
+"type": "statement",
+"title": "Press release: House passes Soto's Consumer Safety Technology Act (floor remarks)",
+"url": "https://soto.house.gov/media/press-releases/house-passes-sotos-consumer-safety-technology-act",
+"date": "2025-07-16",
+"quote": "See, the reality is the crooks are already using AI. The cops on the beat need to be able to use this too.",
+"what_it_shows": "His own bill directs the Consumer Product Safety Commission to pilot AI for spotting hazards and recalls, showing he sees AI as a tool for regulators too."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Soto has a long list of targeted tech rules: the Kids Online Safety Act, the Kids PRIVACY Act, face-scan age checks to keep kids out of adult products, the App Store Freedom Act forcing Apple and Google to allow outside app stores, tougher robocall penalties, and a ban on Chinese-linked connected car tech. He has not called for breaking up Big Tech or repealing Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 7891 (118th), Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-06-11",
+"quote": null,
+"what_it_shows": "He signed onto the House KOSA requiring apps to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 3209, App Store Freedom Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3209",
+"date": "2025-09-10",
+"quote": null,
+"what_it_shows": "He backed forcing Apple and Google to let people install apps and app stores from outside their official stores."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 9706, Facial Recognition to Protect Children Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9706",
+"date": "2026-07-15",
+"quote": null,
+"what_it_shows": "He backed pushing online services to use face-scanning age checks to keep kids out of adult accounts and products."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-13",
+"quote": null,
+"what_it_shows": "He backed banning connected cars and car software tied to China, Russia, Iran or North Korea from the US market."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 2801 (118th), Kids PRIVACY Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2801",
+"date": "2023-05-11",
+"quote": null,
+"what_it_shows": "He backed limits on how apps and websites collect and use data from kids and teens."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Soto opposes Washington wiping out state AI laws. He signed the Nov 2025 letter from 81 House Democrats urging congressional leaders not to revive the state AI law moratorium in the defense bill and not to use an executive order to override state AI laws.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Soto signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "He put his name to a clear statement that states should keep regulating AI until Congress passes real federal protections."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on export controls or Nvidia chip sales to China as of Sept 2026. His chip work is about building semiconductors at home: he cosponsored the STAR Act tax credit for US chip factories and championed Central Florida's NeoCity semiconductor hub.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 802, STAR Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2025-02-10",
+"quote": null,
+"what_it_shows": "He backed extending and expanding the tax break for companies that build chip factories in America, a domestic manufacturing measure rather than an export control stance."
+}
+]
+}
+},
+"signature": "Energy and Commerce Democrat and AI Caucus member who voted to make data centers pay their own way and let local communities decide siting; backs chatbot, robocall and kids' online safety bills and opposes preempting state AI laws.",
+"notable_quote": {
+"text": "We must empower local communities to decide if these centers are located in their neighborhoods, protect ratepayers from energy and water rate hikes, and improve essential infrastructure.",
+"url": "https://www.facebook.com/RepDarrenSoto/videos/in-the-energy-and-commerce-committee-i-voted-in-favor-of-strong-citizen-protecti/1470918495055796/",
+"date": "2026-07"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (Member, 119th Congress)",
+"New Democrat Coalition Technology Task Force (Co-Chair)"
+],
+"search_notes": "Ran 10 Google News queries (artificial intelligence; AI 2026; data center/Ratepayer Protection Act; chatbot/deepfake/kids online/App Store; preemption/state AI laws/moratorium; Nvidia/export controls/semiconductor/CHIPS; Big Tech/Section 230/antitrust/privacy; AI Caucus; KOSA/COPPA markup) plus Wayback listing of soto.house.gov. Opened his committees and caucuses page (confirms AI Caucus and NDC Technology Task Force co-chair), 2026 press release index, the Consumer Safety Technology Act release, his May 2025 E&C markup remarks (Medicaid only, no AI), the Facebook video post (quote taken from the post title), the New Democrat and Matsui letter PDFs (downloaded and text-extracted, Soto confirmed as signer of both), the Frost SNAP AI letter release, GovTrack roll call 356 and cosponsor pages for H.R. 9340 (he is not a cosponsor), H.R. 9442 (not a cosponsor), H.R. 7985 and 118th H.R. 7891. Could not open: Florida Politics delegation pieces (403), Politico and Washington Times kids-bill stories, Tech Policy Press markup coverage (JavaScript-only page). No AI super PAC activity found for or against him."
+},
+{
+"bioguide": "F000476",
+"name": "Maxwell Frost",
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "high",
+"summary": "Frost wants a pause on new AI data centers. He endorsed David Jolly for governor specifically because Jolly called for a statewide data center moratorium, he was named by E&E News among progressives joining Bernie Sanders in wanting to pause new projects, and he cosponsors a ban on AI data centers on federal land. He also co-led a bill to shield families from higher energy bills and voted against the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "statement",
+"title": "The Capitolist: Frost endorses Jolly-Graham ticket, citing Jolly's call for a data center moratorium",
+"url": "https://thecapitolist.com/u-s-rep-maxwell-frost-endorses-jolly-graham-ticket-in-governors-race/",
+"date": "2026-07-28",
+"quote": "As he travels the state, he is hearing from people on the left and the right and turning those concerns into action, including his call for a moratorium on data centers. That is what leadership looks like.",
+"what_it_shows": "He made opposition to expanding AI data centers, and support for a statewide pause, a stated reason for his endorsement in the governor's race."
+},
+{
+"type": "interview",
+"title": "E&E News: Data center moratorium gains traction among Hill progressives (Frost quoted)",
+"url": "https://www.eenews.net/articles/data-center-moratorium-gains-traction-among-hill-progressives/",
+"date": "2026-03-10",
+"quote": "This doesn't mean we're anti-innovation",
+"what_it_shows": "E&E News counted him among the handful of lawmakers joining Sanders in wanting to pause new data center projects, and he framed the pause as compatible with innovation."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 9939, No AI Data Centers on Federal Lands Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "He backed banning AI data centers on land owned by the federal government."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor, H.R. 7977, Energy Bills Relief Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "He was an original cosponsor of a Democratic bill to provide relief from high energy bills as data center demand pushes rates up."
+},
+{
+"type": "vote",
+"title": "Roll call 356: voted Nay on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the Republican permitting reform bill meant to speed energy projects, including those serving data centers."
+},
+{
+"type": "hearing",
+"title": "Oversight subcommittee hearing 'America's AI Moonshot: The Economics of AI, Data Centers, and Power Consumption' (Frost, ranking member, delivered Democratic opening remarks)",
+"url": "https://oversight.house.gov/hearing/americas-ai-moonshot-the-economics-of-ai-data-centers-and-power-consumption/",
+"date": "2025-04-01",
+"quote": null,
+"what_it_shows": "As ranking member he led the Democratic side of the first House hearing on data center economics and power use; his office titled his remarks as being about Trump's efforts to rush AI without guardrails, though the text page has since been removed."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Frost backs targeted AI guardrails, especially on prices, wages, discrimination and deepfakes. He cosponsors bills banning AI-driven price and wage discrimination and requiring disclosure when software sets prices, previously backed bills on algorithmic discrimination and AI election deepfakes, and led Florida Democrats in questioning the state's rush to use unproven AI in food aid decisions. He has not called for licensing or a pause on AI itself.",
+"evidence": [
+{
+"type": "letter",
+"title": "Frost-led letter from Florida Democrats to DeSantis administration on planned use of AI in SNAP eligibility",
+"url": "https://frost.house.gov/media/press-releases/congressman-maxwell-alejandro-frost-and-florida-democrats-press-desantis-administration-for-answers-on-planned-use-of-ai-in-snap-eligibility-determinations",
+"date": "2026-08-04",
+"quote": "The state is moving on an extraordinarily accelerated timeline to procure an AI vendor by September 1, yet Floridians have received little information about how that vendor will be selected or what safeguards will be in place",
+"what_it_shows": "He demanded safeguards, vendor transparency and answers before Florida lets an AI system influence who keeps food assistance."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-10-21",
+"quote": null,
+"what_it_shows": "He backed banning companies from using AI and personal data to charge people different prices or pay workers different wages."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 9371, SLASH Prices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9371",
+"date": "2026-07-09",
+"quote": null,
+"what_it_shows": "He backed requiring companies to tell people when a computer program is setting the prices they pay."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 4624 (118th), Algorithmic Justice and Online Platform Transparency Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4624",
+"date": "2023-09-01",
+"quote": null,
+"what_it_shows": "He backed making platforms explain how their algorithms pick content and banning algorithms that discriminate."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 8858 (118th), Securing Elections From AI Deception Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "He backed banning AI-made fake images, audio or video used to trick voters in federal elections."
+},
+{
+"type": "hearing",
+"title": "Oversight subcommittee hearing 'America's AI Moonshot' (Frost's opening remarks titled by his office as on Trump's efforts to rush AI without guardrails)",
+"url": "https://oversight.house.gov/hearing/americas-ai-moonshot-the-economics-of-ai-data-centers-and-power-consumption/",
+"date": "2025-04-01",
+"quote": null,
+"what_it_shows": "As subcommittee ranking member he framed the Trump administration's AI push as lacking guardrails; the remarks text could not be retrieved."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Frost says he wants comprehensive reform to rein in Big Tech and protect people's data, but he voted against the TikTok divest-or-ban bill as a free speech and livelihood issue. He cosponsors privacy protections for reproductive health data and accessibility rules for websites and apps. Mixed on method, consistent on wanting privacy rules.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Frost slams TikTok bill ahead of House vote",
+"url": "https://frost.house.gov/media/press-releases/congressman-maxwell-frost-slams-tiktok-bill-ahead-of-scheduled-house-vote",
+"date": "2024-03-12",
+"quote": "this bill is not the comprehensive reform we need to reign in Big Tech and protect Americans from harm and manipulation.",
+"what_it_shows": "He voted no on the TikTok divest-or-ban bill while saying the real answer is broad data privacy and Big Tech reform, not a single-app ban."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 3218, Reproductive Data Privacy and Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-05-06",
+"quote": null,
+"what_it_shows": "He backed stopping companies from collecting or selling reproductive health data like period-tracker information without permission."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor, H.R. 5813 (118th), Websites and Software Applications Accessibility Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5813",
+"date": "2024-02-01",
+"quote": null,
+"what_it_shows": "He backed requiring websites and apps to follow rules so people with disabilities can use them."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Frost opposes a federal freeze on state AI laws. He signed the Dec 2025 letter from 44 House Democrats asking defense bill negotiators to keep any state AI law preemption or moratorium out of the FY26 NDAA, calling a moratorium irresponsible when no federal AI law exists.",
+"evidence": [
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Frost signer)",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "He put his name to a demand that Congress not override state AI laws through the defense bill."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls, Nvidia sales to China or related bills as of Sept 2026. Searched his releases, bill record and news coverage for Nvidia, chips, export controls and China AI and found nothing.",
+"evidence": []
+}
+},
+"signature": "Gen Z progressive who backs a pause on new AI data centers, cosponsors the No AI Data Centers on Federal Lands Act, and as Oversight subcommittee ranking member led Democrats at the House's first AI data center hearing.",
+"notable_quote": {
+"text": "As he travels the state, he is hearing from people on the left and the right and turning those concerns into action, including his call for a moratorium on data centers. That is what leadership looks like.",
+"url": "https://thecapitolist.com/u-s-rep-maxwell-frost-endorses-jolly-graham-ticket-in-governors-race/",
+"date": "2026-07-28"
+},
+"groups": [
+"House Oversight and Government Reform Committee, Subcommittee on Economic Growth, Energy Policy, and Regulatory Affairs (Ranking Member, 119th Congress)"
+],
+"search_notes": "Ran 12 Google News queries (artificial intelligence; data center/data centers; Trump data centers; chatbot/deepfake/kids online/social media; preemption/state AI laws/moratorium; Nvidia/chips/export controls/China; Big Tech/TikTok/Section 230/antitrust; SNAP AI letter; AI guardrails hearing; AI jobs/price gouging/surveillance; Jolly endorsement; federal lands data centers) plus Wayback listings of frost.house.gov, oversightdemocrats.house.gov, oversight.house.gov, thecapitolist.com and miamitimesonline.com. Opened his committees page (confirms ranking member role), press release index, the SNAP AI letter release, the TikTok statement, the Capitolist endorsement story, E&E News moratorium coverage (three stories; only the March 10 piece quotes him), the Clarke letter (Frost listed among 44 signers; he is not on the Matsui letter or the Casar AI-CEO letter), the Oversight hearing page, GovTrack roll call 356 and cosponsor pages for H.R. 7977, H.R. 9939, H.R. 9442 (not a cosponsor), H.R. 9340 (not a cosponsor) and H.R. 4640. Could not open: his April 1, 2025 opening remarks page on oversightdemocrats.house.gov (moved, HTTP 410; Google News decoder rate-limited), Florida Politics and Miami Times endorsement stories (403/paywall), Tech Policy Press hearing transcript (JavaScript-only), Washington Post April 2026 AI angst piece. A first-pass lead that he blasted Trump's data center push in Sept 2026 could not be confirmed at a URL. No AI super PAC activity found for or against him."
+}
+]

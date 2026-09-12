@@ -1,0 +1,198 @@
+[
+{
+"bioguide": "S001201",
+"checks": [
+{
+"url": "https://suozzi.house.gov/media/in-the-news",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Quote appears verbatim on the In the News page (Chicago Tribune op-ed with Scott Galloway, dated August 24, 2026). The sentence does frame 'technology platforms engineered to polarize us' as a social harm, but the page says nothing about kids' online safety rules, so the second half of the claim ('consistent with his support for kids' online safety rules') is not supported by this source. Note also the URL is a rolling news listing page, so the excerpt may scroll off it over time."
+},
+{
+"url": "https://suozzi.house.gov/media/press-releases/suozzi-appointed-select-committee-strategic-competition-chinese-communist",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-08",
+"note": "Press release dated June 8, 2026 confirms the appointment (succeeding Mikie Sherrill) and the quote appears verbatim. The release frames China as a strategic competitor on economy, security and geopolitics and highlights his Uyghur human rights work; it does not mention chips or export controls."
+},
+{
+"url": "https://suozzi.house.gov/media/in-the-news",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Verbatim match on the In the News listing page; attributed to Rep. Tom Suozzi and Scott Galloway, Chicago Tribune, August 24, 2026."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only source is a generic 'strategic competition with the CCP' appointment statement that never mentions semiconductors, export controls, or chip sales. A committee seat plus a boilerplate competition line is too thin to assign a direction on chip export policy.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "None of the items checked touches AI risk, AI safety, or AI rules at all; the -1 'Targeted guardrails' score has no supporting evidence in the sources provided.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "The -1 'Targeted rules' score rests on a single op-ed sentence calling platforms polarizing; the item's stated basis (support for kids' online safety rules) is not documented in any source here. Direction is plausible but the evidence is thin; keep -1 only if a KOSA or similar co-sponsorship source is added.",
+"suggested_score": -1,
+"suggested_label": "Targeted rules"
+}
+]
+},
+{
+"bioguide": "G000602",
+"checks": [
+{
+"url": "https://gillen.house.gov/media/press-releases/rep-gillen-pushes-energy-secretary-pursue-energy-policies-lower-costs-long",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-10",
+"note": "Page loaded directly (status 200). Quote appears verbatim as Rep. Gillen's opening remark to Sec. Wright at the House Science Committee hearing. Page confirms the claim: she supports the NESE natural gas pipeline ('all-of-the-above approach') and clean energy tax credits/renewables, all framed as lowering Long Island costs. The page contains no mention of data centers, so it supports no data_centers score."
+},
+{
+"url": "https://gillen.house.gov/media/press-releases/rep-gillen-pushes-energy-secretary-pursue-energy-policies-lower-costs-long",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-10",
+"note": "Same page as item 1; headline quote is verbatim, attributed to Rep. Gillen, dated June 10, 2026."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "M001137",
+"checks": [
+{
+"url": "https://meng.house.gov/media-center/press-releases",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-10",
+"note": "Meng press-release index shows the July 10, 2026 item: Meng and Meeks urged Con Edison CEO Timothy Cawley to issue bill credits to Queens residents hit by heatwave outages. Page names Meeks; as the claim itself says, it concerns outage credits and never mentions data centers, so it is weak evidence for the data_centers dimension (currently null, which is appropriate)."
+},
+{
+"url": "https://democrats-foreignaffairs.house.gov/2025/12/meeks-introduces-bill-to-block-sales-of-advanced-ai-chips-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Quote appears verbatim. Release says his legislation would prohibit the sale of these advanced chips to China while creating a license-free pathway for trusted US data-center operators abroad."
+},
+{
+"url": "https://democrats-foreignaffairs.house.gov/2025/12/meeks-and-warren-invoke-power-under-statute-to-require-trump-administration-turn-over-information-on-its-decision-to-greenlight-the-sale-of-h200-chips-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-22",
+"note": "Quote verbatim. Meeks (HFAC Ranking Member) and Warren invoked ECRA to demand Commerce turn over H200 license information. Page supports scrutiny; 'slow' approvals is a mild inference but consistent with the release."
+},
+{
+"url": "https://www.nextgov.com/emerging-tech/2026/01/lawmakers-worry-over-new-rule-will-allow-sales-nvidias-h200-chips-china/410696/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Quote verbatim, attributed to Meeks. Article states he called the new policy a strategic mistake that degrades national security, matching the claim."
+},
+{
+"url": "https://thehill.com/policy/technology/5699863-congress-ai-overwatch-act-chips-export/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Quote verbatim, attributed to Meeks as top Democrat on HFAC. Article says the AI Overwatch Act secured Democratic support at the markup; Meeks' individual vote is implied rather than itemized, but the statement supports the claim."
+},
+{
+"url": "https://democrats-foreignaffairs.house.gov/2026/3/meeks-warren-statement-on-trump-administration-s-approval-of-advanced-ai-chip-sales-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-16",
+"note": "Quote verbatim. Statement continues: Congress must pass bipartisan legislation to prevent China from obtaining our advanced technology, matching the claim."
+},
+{
+"url": "https://democrats-foreignaffairs.house.gov/2025/7/meeks-and-krishnamoorthi-to-trump-administration-export-controls-should-not-be-bargaining-chips-in-china-trade-talks",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-28",
+"note": "Quote verbatim. Release explicitly cites the reversal three months after restricting the H20 chip and raises the timing 'just days after NVIDIA CEO Je[nsen Huang]' met with the President, supporting the claim."
+},
+{
+"url": "https://democrats-foreignaffairs.house.gov/2025/5/meeks-lofgren-send-letter-to-secretary-lutnick-on-multilateral-export-controls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-28",
+"note": "Quote verbatim. Letter argues US controls alone are insufficient and urges continued multilateral coordination on chips and SME with allies like the Netherlands and Japan."
+},
+{
+"url": "https://legis1.com/news/china-export-controls-face-enforcement-scrutiny",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Article (published July 17, 2026) on the July 14 HFAC BIS budget hearing says Meeks pressed from the left over the use of controls as trade leverage, and that the hearing was the first official confirmation that H200 shipments to China have begun. Meeks coverage is one sentence, no direct quote."
+},
+{
+"url": "https://api.open.fec.gov/v1/schedules/schedule_b/?api_key=DEMO_KEY&committee_id=C00946111&recipient_committee_id=C00430991",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "FEC API returned HTTP 429 OVER_RATE_LIMIT for DEMO_KEY on three attempts over several minutes; Wayback had no copy. Could not verify the $2,500 AnthroPAC contribution or the June 2026 date. Recheck with a personal API key."
+},
+{
+"url": "https://democrats-foreignaffairs.house.gov/2025/12/meeks-introduces-bill-to-block-sales-of-advanced-ai-chips-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Headline quote appears verbatim in the Dec 18, 2025 release."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "M001188",
+"checks": [
+{
+"url": "https://meng.house.gov/media-center/press-releases",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-10",
+"note": "Press release listing (dated July 10, 2026) names Meng and Meeks calling on Con Edison CEO Timothy Cawley to consider bill credits for Queens residents hit by heatwave outages. Page supports the claim exactly as framed: it is about outage compensation, not data center load. No quote to verify. Note the URL is a rolling listing page, so the item may scroll off; the individual release URL would be more durable."
+},
+{
+"url": "https://www.qchron.com/editions/queenswide/meng-sees-national-issues-as-very-local/article_f3bb3297-0748-53dd-ad70-e8981987072c.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Article (published 2026-01-22) says Meng told the editorial board Queens has the opportunity to become a hub of artificial intelligence research and application in its schools, and the quote about Queens College computer science majors appears verbatim. Frames AI as local economic opportunity; the article contains no statement about AI risk or regulation, so it is weak evidence for an ai_risk score by itself."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF (dated November 26, 2025) contains the quote verbatim (line break aside). Letter opposes the NDAA state-AI-law moratorium, a preemption executive order, and conditioning BEAD or other federal funds on states dropping AI laws. 'Grace Meng, Member of Congress' appears in the signer list. Fetch tool returned 0 chars for the PDF; verified by downloading and extracting text directly."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Same letter; quote appears verbatim. It is letter text authored by Matsui's office and co-signed by Meng, not Meng's own words, so the headline quote should be attributed as a signed letter rather than a personal statement."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the four sources mentions China, chips, semiconductors, or export controls. There is no evidence in this item set for any china_chips position, so -1 'Leans hawkish' is unsupported by the cited material; either add a source or leave the dimension unscored.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No cited source addresses Big Tech regulation directly. The only indirect support is the Matsui letter's language about states addressing 'documented harms that AI is causing' and the value of 'reasonable safeguards', which is consistent with -1 but thin. Keep -1 only if a Meng-specific tech regulation source is added; otherwise the evidence is weak.",
+"suggested_score": -1,
+"suggested_label": "Targeted rules"
+}
+]
+}
+]

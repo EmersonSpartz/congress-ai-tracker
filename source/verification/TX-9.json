@@ -1,0 +1,125 @@
+[
+{
+"bioguide": "J000310",
+"checks": [
+{
+"url": "https://juliejohnson.house.gov/media/press-releases/johnson-introduces-bipartisan-bill-protect-elections-deceptive-artificial",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-11",
+"note": "Quote appears verbatim, attributed to Johnson. Page describes the Protect Elections from Deceptive AI Act as prohibiting distribution of materially deceptive AI media about federal candidates and allowing civil actions for injunctive relief or damages, with satire/parody/news exceptions. Claim is accurate."
+},
+{
+"url": "https://juliejohnson.house.gov/issues/artificial-intelligence-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-23",
+"note": "Quote appears verbatim (continues '...framework-one that encourages innovation while protecting the public and keeping children safe'). Page also states 'The United States cannot afford to fall behind,' covers workforce training, and lists cosponsorship of the Seniors Deserve SMARTER Care Act blocking the WISeR AI prior-authorization model. All elements of the claim are supported."
+},
+{
+"url": "https://juliejohnson.house.gov/media/press-releases/johnson-introduces-bipartisan-bills-protect-whistleblowers-safeguard-us",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote appears verbatim, attributed to Johnson (full sentence continues '– they are critical to our national security'). Page confirms she introduced the Whistleblowers Aiding National Security Act and also the Stop Stealing Our Chips Act (with Rep. Kean) creating a BIS whistleblower incentive program for export-control violations. Claim supported."
+},
+{
+"url": "https://juliejohnson.house.gov/media/videos/johnson-committee-why-bis-ignoring-export-control-violations",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Page (posted 2026-07-16) says that on July 14, 2026 Johnson questioned BIS Under Secretary Jeffrey Kessler at a Foreign Affairs hearing about the agency's lack of whistleblower protections for export control violations. Matches claim. Note the page has a typo listing her as TX-23; she represents TX-32."
+},
+{
+"url": "https://juliejohnson.house.gov/media/press-releases/johnson-introduces-bipartisan-bill-protect-elections-deceptive-artificial",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-11",
+"note": "Same page as item 1; quote appears verbatim and is attributed to Johnson."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "V000131",
+"checks": [
+{
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-11",
+"note": "Quote appears verbatim in Veasey's remarks (transcript spells him 'Mark Veasey (D-TX)'). He names the Facebook data center, groundbreakings in the Alliance corridor, Crowley and Fort Worth, and calls the jobs 'generational' and DFW leading the charge. Transcript published 2025-04-11."
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-11",
+"note": "Quote verbatim. Immediately after, he says data center growth is 'putting a tremendous strain on the grid' and consumers could foot the bill. Witness David Turk (former DOE deputy secretary) answers by urging Congress to 'keep those tax incentives, keep those grants, keep those loans in place' to add electrons quickly and affordably; Veasey agrees. Claim slightly compresses this: the incentives point came from the witness in response to Veasey's question, and Veasey endorsed it."
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-21",
+"note": "Quote verbatim. He asks unanimous consent to insert the Washington Post article 'police secretly monitored New Orleans with facial recognition cameras' and asks Amba Kak what Congress should do so these technologies are used ethically 'without infringing on civil liberties.'"
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-21",
+"note": "Quote verbatim. He follows with asking how to ensure 'consumer confidence in these areas of facial recognition and AI technology' while civil liberties are met and the US remains the leader. Claim matches."
+},
+{
+"url": "https://veasey.house.gov/media-center/press-releases/rep-veasey-demands-answers-from-tiktok-ceo-on-election-disinformation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-03-23",
+"note": "Quote verbatim. Release says he questioned CEO Shou Zi Chew about data privacy, election disinformation, harmful content and child welfare, and commits to bipartisan federal privacy legislation. Dated March 23, 2023."
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-11",
+"note": "Quote verbatim ('Which means China rules the world. Very scary. Mr. Chairman.'), said after Turk warns that rescinding CHIPS Act funding would leave the US beholden to other countries' chip supply chains. As the item itself notes, this is about domestic semiconductor manufacturing incentives, not export controls."
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-11",
+"note": "Headline quote appears verbatim in the transcript."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only china_chips source is a CHIPS Act exchange about domestic manufacturing incentives; the item itself concedes it is 'about domestic chip manufacturing rather than export rules.' Nothing in the sources shows Veasey calling for tighter export controls on chips. His China framing (CHIPS Act, TikTok/CCP concern) is hawkish in tone, which supports a lean but not the strongest position.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+}
+]
+},
+{
+"bioguide": "G000581",
+"checks": [
+{
+"url": "https://www.krgv.com/news/fluidstack-breaks-ground-on-4-billion-data-center-project-in-cameron-county/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-12",
+"note": "KRGV article (published 2026-09-12) attributes the statement in full to Congressman Vicente Gonzalez, reached for comment on Fluidstack's $4B Cameron County groundbreaking. Quote appears verbatim, preceded by 'While I fully support commercial growth and economic development, it cannot come at the expense of resources our region urgently needs.' Claim matches: supports growth, opposes these facilities until water/grid/plan exist."
+},
+{
+"url": "https://www.krgv.com/news/fluidstack-breaks-ground-on-4-billion-data-center-project-in-cameron-county/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-12",
+"note": "Same article; headline quote appears verbatim and is attributed to Gonzalez in a full statement to KRGV."
+}
+],
+"score_objections": []
+}
+]

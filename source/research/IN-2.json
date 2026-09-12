@@ -1,910 +1,453 @@
 [
 {
-"bioguide": "S000929",
-"name": "Victoria Spartz",
-"signature": "Indiana Republican who broke with state boosters to demand a federal review of the LEAP district and data center buildout over who pays for power and water; longtime antitrust reformer aimed at Big Tech.",
+"bioguide": "Y000067",
+"name": "Rudy Yakym III",
+"signature": "Northern Indiana Republican who cheers Amazon's $15 billion data center build in his district, wants federal permitting out of the way, frames AI as a race with China, and is backed by the Leading the Future AI super PAC.",
 "notable_quote": {
-"text": "We cannot retire firm generation, add massive new loads, spend hundreds of millions on infrastructure, and then leave Hoosiers guessing who will pay for it",
-"url": "https://spartz.house.gov/media/press-releases/spartz-seeks-independent-federal-review-indiana-data-centers-and-leap",
-"date": "2026-09-09"
+"text": "We need to maintain this. We're in a race against China for leadership in this space. Someone is going to win, and it should be us.",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20"
 },
 "groups": [],
 "positions": {
 "data_centers": {
-"score": -1,
-"confidence": "high",
-"summary": "Spartz wants data centers built only if Hoosiers are protected from higher electric bills, water strain and blackout risk. In September 2026 she asked the Energy and Interior secretaries for an independent federal review of the LEAP district and the Meta, Google and Amazon projects, while saying she still supports bringing strategic industries to Indiana.",
-"evidence": [
-{
-"type": "letter",
-"title": "Press release: Spartz seeks independent federal review of Indiana data centers and LEAP (letter to Energy Sec. Wright and Interior Sec. Burgum)",
-"url": "https://spartz.house.gov/media/press-releases/spartz-seeks-independent-federal-review-indiana-data-centers-and-leap",
-"date": "2026-09-09",
-"quote": "I support bringing advanced manufacturing and strategic industries to Indiana, but Hoosier families, farmers, small businesses, and existing industries should not be forced to subsidize extraordinary private projects.",
-"what_it_shows": "She asks for a full federal accounting of energy, water, grid costs and who pays before Indiana commits to the LEAP and hyperscale projects."
-},
-{
-"type": "statement",
-"title": "Press release: Spartz says she has raised data center energy and LEAP water concerns for two years",
-"url": "https://spartz.house.gov/media/press-releases/spartz-seeks-independent-federal-review-indiana-data-centers-and-leap",
-"date": "2026-09-09",
-"quote": "For two years, I have been raising concerns about the massive energy and infrastructure demands of data centers, as well as the significant water demands of the LEAP district",
-"what_it_shows": "She frames grid load, transmission costs and the 25 million gallon per day White River water plan as ratepayer and reliability problems."
-},
-{
-"type": "letter",
-"title": "IndyStar: Spartz says LEAP district lacks transparency, calls for federal review (quotes her letter)",
-"url": "https://www.indystar.com/story/news/politics/2026/09/09/rep-spartz-leap-district-lacks-transparency-federal-review/91675538007/",
-"date": "2026-09-09",
-"quote": "Hoosier families, farmers, small businesses, and existing industries should not subsidize extraordinary private projects through higher utility bills, taxpayer-funded infrastructure, or reduced reliability",
-"what_it_shows": "Her letter blames Indiana laws for closed-door LEAP deals and asks for ratepayer protections against stranded costs."
-},
-{
-"type": "statement",
-"title": "LarryInFishers: Ford challenges Spartz on data centers after her call for federal review",
-"url": "https://www.larryinfishers.com/2026/09/10/ford-spartz-indiana-data-center-debate/",
-"date": "2026-09-10",
-"quote": "Spartz said she supports advanced manufacturing and strategic industries coming to Indiana, but existing residents and businesses should not subsidize extraordinary private projects.",
-"what_it_shows": "Her Democratic opponent calls the review request election-year posturing and urges her to file federal legislation giving communities control and barring cost shifts to ratepayers."
-}
-]
-},
-"ai_risk": {
-"score": 1,
-"confidence": "low",
-"summary": "Spartz has not spoken publicly about AI safety rules. Her one AI-specific act is signing a March 2026 letter praising the Energy Department's Genesis Mission to deploy AI in science and keep America ahead of China, which leans pro-innovation.",
-"evidence": [
-{
-"type": "letter",
-"title": "Washington Reporter: Lawmakers laud Trump administration's AI Genesis Mission (Spartz co-signed the Gooden letter to Energy Sec. Wright)",
-"url": "https://www.washingtonreporter.news/p/exclusive-lawmakers-laud-trump-administrations-ai-genesis-mission",
-"date": "2026-03-27",
-"quote": "Private sector innovators play a critical role in ensuring the United States remains the global leader in emerging technologies.",
-"what_it_shows": "She joined a letter celebrating rapid AI deployment through public-private partnerships, with no mention of safety rules."
-}
-]
-},
-"tech_regulation": {
-"score": -1,
-"confidence": "medium",
-"summary": "Spartz is a populist on Big Tech: she co-led bipartisan antitrust reform bills in 2021 and 2022 citing abuses by Big Tech, cosponsored the TikTok divest-or-ban law, and in 2026 cosponsored the Flock-Off Act to defund AI-assisted license plate surveillance cameras.",
-"evidence": [
-{
-"type": "statement",
-"title": "Press release: Rep. Spartz urges colleagues to support bipartisan, bicameral antitrust reform package",
-"url": "https://spartz.house.gov/media/press-releases/rep-spartz-urges-colleagues-support-bipartisan-bicameral-antitrust-reform",
-"date": "2022-09-29",
-"quote": "I am glad to co-lead this bicameral antitrust reform effort to deal with abusive monopoly powers, including infringements on our Constitutional rights by Big Tech.",
-"what_it_shows": "She backed stronger merger fees, state antitrust enforcement venue rules and foreign subsidy disclosure, naming Big Tech as a target."
-},
-{
-"type": "statement",
-"title": "Press release: Rep. Spartz co-leads bipartisan bill to address Big Tech and other monopoly powers (Merger Filing Fee Modernization Act)",
-"url": "https://spartz.house.gov/media/press-releases/rep-spartz-co-leads-bipartisan-bill-address-big-tech-and-other-monopoly-powers",
-"date": "2021-06-11",
-"quote": "Competition and free markets are fundamental to our freedoms. Ever-increasing government regulations have created distortions and contributed to a rise in monopolies and oligopolies in many sectors of our economy",
-"what_it_shows": "She wants more antitrust enforcement resources but frames the problem partly as government-created distortions."
-},
-{
-"type": "statement",
-"title": "Press release (Massie): Reps. Massie, Burlison introduce the Flock-Off Act to defund surveillance state cameras; Spartz is an original cosponsor",
-"url": "https://cartercountytimes.com/local-news/state-government/reps-massie-burlison-introduce-the-flock-off-act-to-defund-surveillance-state-cameras/",
-"date": "2026-09-09",
-"quote": "Original cosponsors of the Flock-Off Act include Rep. Lauren Boebert (R-CO), Rep. Paul Gosar (R-AZ), Rep. Ro Khanna (D-CA), Rep. Chip Roy (R-TX), and Rep. Victoria Spartz (R-IN).",
-"what_it_shows": "She joined a cross-party bill to cut federal funds for automated license plate readers and biometric surveillance cameras."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 7521 (118th), Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divest-or-ban)",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
-"date": "2024-03-11",
-"quote": null,
-"what_it_shows": "She cosponsored the law forcing TikTok's Chinese owner to sell or face a ban."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 4791 (118th), Free Speech Protection Act",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/4791",
-"date": "2023-07-20",
-"quote": null,
-"what_it_shows": "She backed barring officials from pressuring platforms to remove posts, a conservative free-speech angle on tech policy."
-}
-]
-},
-"preemption": {
-"score": 1,
-"confidence": "low",
-"summary": "Spartz voted for the House version of the 2025 budget bill that carried a 10-year moratorium on state AI laws, but she has never spoken about preemption itself. Her opponent J.D. Ford uses that vote against her; no statement from her on the issue was found.",
-"evidence": [
-{
-"type": "vote",
-"title": "House roll call 145 (May 22, 2025): Spartz voted Yea on H.R. 1, whose House text included a 10-year moratorium on state and local AI laws",
-"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
-"date": "2025-05-22",
-"quote": null,
-"what_it_shows": "A vote for the whole package, not a statement on preemption; the moratorium was later stripped by the Senate."
-},
-{
-"type": "statement",
-"title": "LarryInFishers: Ford cites Spartz's H.R. 1 vote and its restrictions on state and local AI regulation",
-"url": "https://www.larryinfishers.com/2026/09/10/ford-spartz-indiana-data-center-debate/",
-"date": "2026-09-10",
-"quote": "The House clerk's record confirms Spartz voted for the bill on May 22, 2025.",
-"what_it_shows": "Her challenger argues the vote would have undermined communities' ability to regulate AI data centers; Spartz has not responded on preemption."
-}
-]
-},
-"china_chips": {
-"score": null,
-"confidence": "none",
-"summary": "No public position found. Searches for Spartz with Nvidia, export controls, chips and China turned up nothing, and she has not sponsored or cosponsored chip export bills in the 118th or 119th Congress.",
-"evidence": []
-}
-},
-"search_notes": "Searches run: Spartz artificial intelligence; Spartz data center(s) Indiana; Spartz LEAP Lebanon Meta; Spartz Big Tech/Section 230/antitrust; Spartz chatbot/deepfake/kids online; Spartz Nvidia/export controls/chips; Spartz state AI/preemption/moratorium; Spartz electricity/ratepayers; Spartz town hall data center; Spartz Genesis Mission; Spartz Flock; Spartz Big Beautiful Bill AI moratorium; Spartz LEAP water. Site listing of spartz.house.gov (7 archived URLs) plus press-release fetches. Opened: Sept 9 2026 press release, IndyStar (via Wayback), LarryInFishers, Reason and Carter County Times on the Flock-Off Act, Washington Reporter Genesis Mission letter, three antitrust releases, govtrack h145. WTHR and WRTV pages returned 403 and were not used. She joined no committees except the Joint Economic Committee in the 119th Congress; no AI caucus membership found. No AI super PAC support or attacks found (not on Leading the Future's GOP Champions list)."
-},
-{
-"bioguide": "S001229",
-"name": "Jefferson Shreve",
-"signature": "Freshman appropriator focused on keeping advanced chips away from China (BIS STRENGTH Act sponsor, Chip Security Act cosponsor), praised in Public First Action ads; cosponsor of a bill keeping data center approvals in local hands.",
-"notable_quote": {
-"text": "Export controls only work if we have the experts to enforce them. This bill strengthens BIS with the specialized talent it needs to stay ahead of evolving threats, protect America's technological edge, and defend our national security.",
-"url": "https://shreve.house.gov/media/press-releases/shreve-introduces-legislation-protect-critical-us-technologies-china",
-"date": "2026-01-09"
-},
-"groups": [
-"Stop Scams Caucus (listed on his official site)"
-],
-"positions": {
-"data_centers": {
-"score": -1,
-"confidence": "low",
-"summary": "Shreve has made no public statements about data centers. His only action is cosponsoring the Protecting Local Control of Data Centers Act in September 2026, which keeps approval power with local governments. A first-pass lead that he also cosponsored grid-buildout bills could not be verified.",
-"evidence": [
-{
-"type": "cosponsor",
-"title": "H.R. 10119, Protecting Local Control of Data Centers Act (Barrett)",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/10119",
-"date": "2026-09-01",
-"quote": null,
-"what_it_shows": "He backs keeping the power to approve or block new data centers with local towns and cities rather than federal override."
-}
-]
-},
-"ai_risk": {
-"score": null,
-"confidence": "none",
-"summary": "No public position found. Searches for Shreve with artificial intelligence, AI regulation, chatbots and deepfakes returned nothing on AI safety rules, and his AI-related bills all concern chip exports and China.",
-"evidence": []
-},
-"tech_regulation": {
-"score": -1,
-"confidence": "low",
-"summary": "Shreve's tech record is about scams: he cosponsored the Romance Scam Prevention Act, which makes dating apps warn users about banned scammers, and his site lists a Stop Scams Caucus. No statements on Big Tech, Section 230 or kids online safety were found.",
-"evidence": [
-{
-"type": "cosponsor",
-"title": "H.R. 2481, Romance Scam Prevention Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/2481",
-"date": "2025-06-06",
-"quote": null,
-"what_it_shows": "A targeted consumer-protection rule for dating platforms."
-}
-]
-},
-"preemption": {
-"score": 0,
-"confidence": "low",
-"summary": "Mixed and thin. Shreve voted for the House budget bill that carried the 10-year moratorium on state AI laws in May 2025, but Public First Action later credited him among Republicans who worked to keep federal preemption of state AI laws out of the defense bill. He has not spoken on the issue himself.",
-"evidence": [
-{
-"type": "pac",
-"title": "Public First Action launches $15 million Conservative AI Consensus Project; ads highlight Shreve among 12 House Republicans",
-"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
-"date": "2026-07-17",
-"quote": "rolling out advertisements highlighting the strong records of 12 Republican members of Congress who are leading on AI security and accountability",
-"what_it_shows": "The Anthropic-backed group says the listed members' records include chip export bills and work to keep preemption of state AI laws out of the NDAA; this is the PAC's description, not a Shreve statement."
-},
-{
-"type": "vote",
-"title": "House roll call 145 (May 22, 2025): Shreve voted Yea on H.R. 1, whose House text included a 10-year moratorium on state and local AI laws",
-"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
-"date": "2025-05-22",
-"quote": null,
-"what_it_shows": "A vote for the whole package, not a statement on preemption; the moratorium was later removed."
-}
-]
-},
-"china_chips": {
-"score": -2,
-"confidence": "high",
-"summary": "Shreve is a chip hawk. He wrote the bipartisan BIS STRENGTH Act to hire more export-control experts at Commerce, and cosponsored the Chip Security Act, the Export Controls Enforcement Act, the STRIDE Act and several other bills aimed at keeping advanced AI chips away from China.",
-"evidence": [
-{
-"type": "statement",
-"title": "Press release: Shreve introduces legislation to protect critical U.S. technologies from China (BIS STRENGTH Act with Rep. Kamlager-Dove)",
-"url": "https://shreve.house.gov/media/press-releases/shreve-introduces-legislation-protect-critical-us-technologies-china",
-"date": "2026-01-09",
-"quote": "Export controls only work if we have the experts to enforce them. This bill strengthens BIS with the specialized talent it needs to stay ahead of evolving threats, protect America's technological edge, and defend our national security.",
-"what_it_shows": "He wants a stronger Bureau of Industry and Security so export controls on dual-use technology are actually enforced."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 3447, Chip Security Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
-"date": "2025-07-14",
-"quote": null,
-"what_it_shows": "Requires location verification on advanced AI chips to catch smuggling to China."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 4505, Export Controls Enforcement Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/4505",
-"date": "2025-07-17",
-"quote": null,
-"what_it_shows": "Puts export-control officers overseas to catch diverted chips."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 6058, STRIDE Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/6058",
-"date": "2025-12-01",
-"quote": null,
-"what_it_shows": "Tightens rules on shipping advanced chips to China and other rivals."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 6275, China AI Power Report Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/6275",
-"date": "2025-12-01",
-"quote": null,
-"what_it_shows": "Orders a report comparing China's AI strength to America's."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 7058, Foreign Adversary AI Risk Assessment and Diplomacy Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/7058",
-"date": "2026-01-20",
-"quote": null,
-"what_it_shows": "Has the State Department assess risks from adversary AI and coordinate with allies."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 8288, Strengthening Export Controls Compliance Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/8288",
-"date": "2026-04-15",
-"quote": null,
-"what_it_shows": "Helps small businesses comply with export rules."
-},
-{
-"type": "pac",
-"title": "Public First Action Conservative AI Consensus Project ads highlight Shreve's record on the Chip Security Act and export controls",
-"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
-"date": "2026-07-17",
-"quote": "The people running these AI companies have spent millions telling Washington that any guardrail is an attack on innovation. Republicans know better.",
-"what_it_shows": "An Anthropic-funded advocacy group is spending to praise his chip-security record."
-}
-]
-}
-},
-"search_notes": "Searches run: Jefferson Shreve artificial intelligence; Shreve data center(s) Indiana; Shreve Chip Security/export controls/Nvidia; Shreve Public First/AI consensus; Shreve Big Tech/Section 230/kids online/App Store; Shreve state AI/preemption/AI regulation; Shreve Ag Policy Summit grid data centers; Protecting Local Control of Data Centers Act; Shreve NDAA preemption letter. Site listing of shreve.house.gov (4 archived URLs). Opened: BIS STRENGTH Act release, Protecting Domestic Mining Act release, Public First Action page (full), Daily Journal Ag Policy Summit recap (his remarks covered agriculture, not data centers), govtrack h145. Could not open: The Republic and Hoosier Ag Today summit stories (403), Newsweek's Sept 1 2026 list of Republicans breaking with Trump on data centers (no decodable URL), Barron's midterms piece (401). First-pass leads that he cosponsored H.R. 6633 High-Capacity Grid Act and H.R. 3843 Baseload Reliability Protection Act were not verified and are not scored. No Leading the Future support found."
-},
-{
-"bioguide": "C001072",
-"name": "André Carson",
-"signature": "Indianapolis Democrat who joined the Sanders and Ocasio-Cortez AI data center moratorium bill after primary pressure, wrote a data center site transparency bill, signed the letter against NDAA preemption of state AI laws, and is hawkish on chips to China.",
-"notable_quote": {
-"text": "Data centers cannot come at a cost to American families, who are already facing high grocery, gas, and housing costs",
-"url": "https://carson.house.gov/media/press-releases/carson-introduces-data-center-moratorium-bill",
-"date": "2026-06-29"
-},
-"groups": [
-"Congressional Artificial Intelligence Caucus (member, per first-pass landscape research; not shown on his site's caucus list)",
-"Monopoly Busters Caucus (member, per his official site)",
-"Internet of Things Caucus (member, per his official site)",
-"House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party (member)"
-],
-"positions": {
-"data_centers": {
-"score": -2,
-"confidence": "high",
-"summary": "Carson wants a pause. After primary challengers attacked his silence in spring 2026, he announced support for a federal data center moratorium, co-introduced the AI Data Center Site Selection Transparency Act, and in June 2026 joined the Sanders and Ocasio-Cortez AI Data Center Moratorium Act. He has also cosponsored bills on ratepayer costs, energy and water disclosure, federal lands and siting.",
-"evidence": [
-{
-"type": "statement",
-"title": "Press release: Carson introduces data center moratorium bill (AI Data Center Moratorium Act with Sanders and Ocasio-Cortez)",
-"url": "https://carson.house.gov/media/press-releases/carson-introduces-data-center-moratorium-bill",
-"date": "2026-06-29",
-"quote": "We need to make sure workers, families, and neighborhoods aren't forced to pay the burden of this rapidly rising technology without guardrails. Our bill would enact a pause until we can guarantee common sense protections.",
-"what_it_shows": "He backs an immediate federal moratorium on new AI data centers until safeguards on bills, jobs and the environment exist."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 9442, Artificial Intelligence Data Center Moratorium Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
-"date": "2026-06-24",
-"quote": null,
-"what_it_shows": "Formal cosponsorship of the pause bill."
-},
-{
-"type": "statement",
-"title": "Press release: Carson introduces bill to stop surprise AI data center developments (AI Data Center Site Selection Transparency Act with McIver and Foushee)",
-"url": "https://carson.house.gov/media/press-releases/carson-introduces-bill-stop-surprise-ai-data-center-developments",
-"date": "2026-04-27",
-"quote": "Data centers are often shrouded in mystery, with plans moving forward before meaningful public input. Our bill will change that, requiring data centers to be transparent.",
-"what_it_shows": "His bill requires 180-day public notice, disclosure of power and water use, and limits on NDAs with public bodies."
-},
-{
-"type": "statement",
-"title": "E&E News: Data center moratorium a fault line in Dem primaries (Carson statement after challengers cited AES Indiana donations)",
-"url": "https://www.eenews.net/articles/data-center-moratorium-a-fault-line-in-dem-primaries/",
-"date": "2026-04-22",
-"quote": "work to pass bills to prevent data centers from passing costs on to customers and to require environmental disclosures",
-"what_it_shows": "He shifted to supporting a federal moratorium while facing primary challengers Destiny Wells and George Hornedo."
-},
-{
-"type": "letter",
-"title": "Letter from 20 House Democrats led by Rep. Kevin Mullin to FERC, Edison Electric Institute and the Data Center Coalition on data center energy costs (Carson co-signed)",
-"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
-"date": "2025-10-28",
-"quote": null,
-"what_it_shows": "He asked regulators and utilities how they will keep grid upgrade costs off household bills."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 6529, Protecting Families from AI Data Center Energy Costs Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
-"date": "2026-04-14",
-"quote": null,
-"what_it_shows": "Keeps families' electric bills from paying for data center grid buildout."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 6984, Data Center Transparency Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/6984",
-"date": "2026-04-14",
-"quote": null,
-"what_it_shows": "Requires public reporting of data center electricity and water use."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 9939, No AI Data Centers on Federal Lands Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
-"date": "2026-08-03",
-"quote": null,
-"what_it_shows": "Bans AI data centers on federal land."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 10321, Responsible Data Center Siting Act of 2026",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/10321",
-"date": "2026-09-08",
-"quote": null,
-"what_it_shows": "Sets siting rules so data centers do not overload local power and water."
-}
-]
-},
-"ai_risk": {
-"score": -1,
-"confidence": "medium",
-"summary": "Carson backs targeted rules: bills banning AI discrimination and requiring bias audits, a ban on AI-driven price and wage discrimination, and election deepfake bans. The data center moratorium bill he joined also conditions building on national AI safety safeguards, though his own words focus on costs and jobs rather than existential risk.",
-"evidence": [
-{
-"type": "cosponsor",
-"title": "H.R. 6356, Artificial Intelligence Civil Rights Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
-"date": "2025-12-02",
-"quote": null,
-"what_it_shows": "Bans discriminatory AI and requires pre- and post-deployment testing."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 7110, Eliminating Bias in Algorithmic Systems Act of 2026",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/7110",
-"date": "2026-01-27",
-"quote": null,
-"what_it_shows": "Creates agency civil rights teams to catch unfair algorithms."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
-"date": "2025-09-10",
-"quote": null,
-"what_it_shows": "Bans using AI and personal data to set different prices or wages for different people."
-},
-{
-"type": "hearing",
-"title": "Transcript: Carson's opening statement at Select Committee hearing on China's Campaign to Steal America's AI Edge",
-"url": "https://carson.house.gov/media/press-releases/transcript-representative-andre-carsons-opening-statement-hearing-chinas",
-"date": "2026-04-16",
-"quote": "We can enact protections for workers against displacement, ensure communities do not face hikes to their utility bills, and ensure civil rights and human rights are designed into the algorithms.",
-"what_it_shows": "He ties winning the AI race with China to writing worker, utility and civil rights protections into the rules."
-},
-{
-"type": "statement",
-"title": "Press release: Carson introduces data center moratorium bill (bill text pauses data centers until AI is shown safe and effective)",
-"url": "https://carson.house.gov/media/press-releases/carson-introduces-data-center-moratorium-bill",
-"date": "2026-06-29",
-"quote": "Data centers have the potential to create good union jobs, but they also have the potential to eliminate jobs.",
-"what_it_shows": "The bill he joined makes new AI infrastructure wait for national safety, worker and environmental safeguards, a stricter stance than his own framing."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 5628 (118th), Algorithmic Accountability Act of 2023",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/5628",
-"date": "2023-09-21",
-"quote": null,
-"what_it_shows": "Earlier support for mandatory bias and harm testing of automated systems."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 4894, Deceptive Practices and Voter Intimidation Prevention Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
-"date": "2025-08-05",
-"quote": null,
-"what_it_shows": "Bans AI-made election lies in the run-up to federal elections."
-}
-]
-},
-"tech_regulation": {
-"score": -1,
-"confidence": "medium",
-"summary": "Carson favors targeted rules on tech companies: he belongs to the Monopoly Busters Caucus, cosponsored the ban on AI price gouging, the TikTok divest-or-ban law, election deepfake labeling bills and a ban on algorithmic rent-setting cartels.",
-"evidence": [
-{
-"type": "other",
-"title": "Carson official site: Caucus memberships list includes Monopoly Busters Caucus and Internet of Things Caucus",
-"url": "https://carson.house.gov/about/caucus-memberships",
-"date": null,
-"quote": null,
-"what_it_shows": "He identifies with the House's anti-monopoly bloc."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
-"date": "2025-09-10",
-"quote": null,
-"what_it_shows": "New federal rule on how companies can use personal data and algorithms in pricing."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 7521 (118th), Protecting Americans from Foreign Adversary Controlled Applications Act",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
-"date": "2024-03-05",
-"quote": null,
-"what_it_shows": "Backed forcing TikTok's sale or ban."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 8622 (118th), Preventing the Algorithmic Facilitation of Rental Housing Cartels Act of 2024",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/8622",
-"date": "2024-08-09",
-"quote": null,
-"what_it_shows": "Would outlaw landlords' use of shared pricing algorithms to push up rents."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 7766 (118th), Protecting Consumers from Deceptive AI Act",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/7766",
-"date": "2024-04-02",
-"quote": null,
-"what_it_shows": "Requires labels and watermarks on AI-generated media."
-}
-]
-},
-"preemption": {
-"score": -2,
-"confidence": "medium",
-"summary": "Carson opposes federal preemption of state AI laws. He signed the December 2025 Clarke letter from 44 House Democrats telling defense-bill negotiators that any AI moratorium or preemption should stay out of the NDAA, and he voted against the House budget bill that carried the 10-year state AI law moratorium.",
-"evidence": [
-{
-"type": "letter",
-"title": "Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Carson signed)",
-"url": "https://clarke.house.gov/?p=102767",
-"date": "2025-12-03",
-"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
-"what_it_shows": "He joined colleagues arguing preemption would create a regulatory vacuum for Big Tech and stomp on state autonomy."
-},
-{
-"type": "vote",
-"title": "House roll call 145 (May 22, 2025): Carson voted Nay on H.R. 1, whose House text included a 10-year moratorium on state and local AI laws",
-"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
-"date": "2025-05-22",
-"quote": null,
-"what_it_shows": "A party-line vote against the whole bill, consistent with but not specific to opposing preemption."
-}
-]
-},
-"china_chips": {
-"score": -2,
-"confidence": "medium",
-"summary": "Carson wants tighter chip controls. He cosponsored the Chip Security Act and the No Advanced Chips for the CCP Act, and at an April 2026 Select Committee hearing he said Commerce should go after chip smugglers and companies like DeepSeek with everything it has, while also arguing that immigration and research cuts weaken America's lead.",
-"evidence": [
-{
-"type": "hearing",
-"title": "Transcript: Carson's opening statement at Select Committee hearing on China's Campaign to Steal America's AI Edge",
-"url": "https://carson.house.gov/media/press-releases/transcript-representative-andre-carsons-opening-statement-hearing-chinas",
-"date": "2026-04-16",
-"quote": "Chinese companies like DeepSeek cannot and should not get away with stealing our most innovative tech. The Commerce Department should go after those who break laws and break the rules with everything they've got.",
-"what_it_shows": "He calls for strict enforcement of chip export laws and a coalition with the Netherlands and Japan on lithography."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 3447, Chip Security Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
-"date": "2025-08-22",
-"quote": null,
-"what_it_shows": "Requires location verification on advanced AI chips to catch diversion to China."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 5022, No Advanced Chips for the CCP Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/5022",
-"date": "2025-09-03",
-"quote": null,
-"what_it_shows": "Would block the most powerful chips from being sold to China."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 802, STAR Act of 2025 (chip factory tax credit)",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
-"date": "2025-01-28",
-"quote": null,
-"what_it_shows": "Supports domestic chip manufacturing incentives alongside export limits."
-}
-]
-}
-},
-"search_notes": "Searches run: André Carson artificial intelligence; Carson data center moratorium Indianapolis; Carson Nvidia/export controls/chips China; Carson Big Tech/Section 230/deepfake/chatbot; Carson AI Competition China hearing; Carson AI super PACs. Site listing of carson.house.gov (52 archived URLs) and press-release index. Opened: moratorium press release, site selection transparency release, hearing transcript, E&E News, Clarke letter, Mullin/Beyer letter, caucus memberships page, IBJ challengers story (no Carson quote), govtrack h145, Quiver summary. The Congressional AI Caucus membership comes from the first-pass landscape file and is not on his site's caucus list. IndyStar, Fox59 and WTHR stories on the moratorium bill had no decodable URLs and were not needed since his own releases carry the quotes. No AI super PAC spending for or against him was found."
-},
-{
-"bioguide": "M001233",
-"name": "Mark B. Messmer",
-"signature": "Freshman Republican with a thin public AI record: cosponsors chip export control bills, champions coal plants for grid reliability, and as a state senator helped pass Indiana's 2019 data center tax break.",
-"notable_quote": {
-"text": "Continued coal production will protect the energy grid and prevent electricity blackouts, while also providing lower energy costs, especially during extreme weather conditions.",
-"url": "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=203",
-"date": "2026-02-04"
-},
-"groups": [],
-"positions": {
-"data_centers": {
-"score": 1,
-"confidence": "low",
-"summary": "As an Indiana state senator, Messmer was lead Senate co-sponsor of the 2019 law giving data centers a 50-year sales tax exemption, and in Congress he applauds emergency orders keeping coal plants open for grid reliability. A 2026 Courier & Press candidate survey reportedly says he now supports federal rules making data centers pay full infrastructure costs, but that page could not be opened, so it is not scored.",
-"evidence": [
-{
-"type": "other",
-"title": "WRBI Radio: Lawmakers look to attract tech companies (2019 HB 1405 data center tax exemption; Messmer lead Senate co-sponsor)",
-"url": "https://wrbiradio.com/lawmakers-look-to-attract-tech-companies/",
-"date": "2019-03-21",
-"quote": "I applaud Rep. Soliday for his foresight in authoring the bill, Senator Messmer (R-Jasper) for serving as lead co-sponsor in the Senate",
-"what_it_shows": "A data center developer credits Messmer for carrying the state tax break that fast-tracked Indiana's data center boom."
-},
-{
-"type": "statement",
-"title": "Press release: Messmer applauds emergency action to keep Indiana coal plants open, protect grid reliability",
-"url": "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=203",
-"date": "2026-02-04",
-"quote": "Continued coal production will protect the energy grid and prevent electricity blackouts, while also providing lower energy costs, especially during extreme weather conditions.",
-"what_it_shows": "He supports keeping baseload plants running to meet rising demand and prevent blackouts, without naming data centers."
-},
-{
-"type": "statement",
-"title": "Press release: Messmer joins EPA Deputy Administrator Fotouhi in lowering energy costs for Hoosiers",
-"url": "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=209",
-"date": "2026-02-20",
-"quote": "With energy demand on the rise, affordability remains a priority for Hoosiers in the Eighth District.",
-"what_it_shows": "He frames rising power demand as a reason to expand generation and cut regulation on coal plants."
-}
-]
-},
-"ai_risk": {
-"score": null,
-"confidence": "none",
-"summary": "No public position found. Searches for Messmer with artificial intelligence, AI regulation, chatbots and deepfakes, plus a review of his press release titles, turned up nothing on AI safety rules.",
-"evidence": []
-},
-"tech_regulation": {
-"score": null,
-"confidence": "none",
-"summary": "No public position found. No statements or bills on Big Tech, Section 230, kids online safety or privacy were located.",
-"evidence": []
-},
-"preemption": {
-"score": 1,
-"confidence": "low",
-"summary": "Messmer voted for the House budget bill in May 2025 that included a 10-year moratorium on state AI laws, but he has made no statement about preempting state AI rules.",
-"evidence": [
-{
-"type": "vote",
-"title": "House roll call 145 (May 22, 2025): Messmer voted Yea on H.R. 1, whose House text included a 10-year moratorium on state and local AI laws",
-"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
-"date": "2025-05-22",
-"quote": null,
-"what_it_shows": "A vote for the whole package, not a statement on preemption; the moratorium was later stripped by the Senate."
-}
-]
-},
-"china_chips": {
-"score": -2,
-"confidence": "medium",
-"summary": "Messmer leans toward tighter chip controls. In 2026 he cosponsored the Chip Security Act, which requires location tracking on advanced AI chips, and the Interagency Coordination in Export Controls Act. No statements on Nvidia sales to China were found.",
-"evidence": [
-{
-"type": "cosponsor",
-"title": "H.R. 3447, Chip Security Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
-"date": "2026-05-21",
-"quote": null,
-"what_it_shows": "Backs built-in location verification so advanced chips cannot be smuggled to China."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 8036, Interagency Coordination in Export Controls Act of 2026",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/8036",
-"date": "2026-06-25",
-"quote": null,
-"what_it_shows": "Lets State, Defense and Energy propose export-control rules and studies China's military-civil fusion."
-}
-]
-}
-},
-"search_notes": "Searches run: Mark Messmer artificial intelligence/AI; Messmer data center(s); Messmer Chip Security/export controls/Nvidia; Messmer Big Tech/Section 230/kids online/chatbot/deepfake; Messmer artificial intelligence Indiana; Messmer ratepayers/utility bills; Messmer 2019 data center tax exemption; Sen. Messmer data center; Evansville-area candidates AI data centers. Site: messmer.house.gov press releases are at /news/documentquery.aspx?DocumentTypeID=27; I listed 30 release titles (none on AI, chips or data centers) and opened the coal plant, EPA and Washington Examiner mining items. Opened WRBI 2019 story and govtrack h145. The key lead, the Aug 31 2026 Courier & Press candidate survey in which he reportedly backs federal legislation making data centers pay full infrastructure costs and AI disclosure for ads, returned 403 from every route tried (direct, Wayback, AMP, Gannett mirrors, archive.ph, WebFetch) and is therefore not used as evidence. Indiana Capital Chronicle and Barron's pieces were also blocked. No AI super PAC activity found."
-},
-{
-"bioguide": "H001093",
-"name": "Erin Houchin",
-"signature": "Energy and Commerce Republican who wrote the first House bills on AI chatbots and kids (AWARE and SAFE BOTs Acts), co-chairs the Kids Online Safety Caucus, cosponsors the FRONTIER Act, and backs the Great American AI Act's national standard preempting state AI laws.",
-"notable_quote": {
-"text": "America should lead the world in artificial intelligence, not regulate ourselves into falling behind China through a patchwork of fifty different state laws",
-"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
-"date": "2026-06-04"
-},
-"groups": [
-"Kids Online Safety Caucus (founder and co-chair with Rep. Jake Auchincloss)",
-"Great American AI Act / FRONTIER Act bipartisan sponsor group (Obernolte-Trahan) (original supporter, IN-09)",
-"House Financial Services Committee Bipartisan Working Group on Artificial Intelligence, 118th Congress (member, per first-pass landscape research)",
-"House Energy and Commerce Committee, Communications and Technology and Commerce, Manufacturing, and Trade subcommittees (member)"
-],
-"positions": {
-"data_centers": {
-"score": 1,
-"confidence": "low",
-"summary": "Houchin talks about AI's need for reliable power and broadband, backs advanced nuclear at Indiana's Crane naval base, and cosponsored the Liquid Cooling for AI Act to cut data center energy and water use. She has not taken a public position on data center siting or on shifting grid costs to ratepayers.",
-"evidence": [
-{
-"type": "hearing",
-"title": "Energy and Commerce C&T Subcommittee hearing on network infrastructure demands for AI (Houchin remarks)",
-"url": "https://energycommerce.house.gov/posts/c-and-t-subcommittee-holds-hearing-on-network-infrastructure-demands-for-ai-and-uses-in-the-media-and-entertainment-industries",
-"date": "2025-06-04",
-"quote": "its success still depends on the basics: fast, reliable, broadband infrastructure, access to spectrum, cybersecurity, and reliable energy",
-"what_it_shows": "She frames AI growth as dependent on energy and network buildout, especially for rural Indiana."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 5332, Liquid Cooling for AI Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/5332",
-"date": "2025-09-18",
-"quote": null,
-"what_it_shows": "Supports federal study and promotion of cooling technology so AI data centers use less power and water."
-},
-{
-"type": "statement",
-"title": "Press release: Houchin applauds House passage of FY26 NDAA, secures major win for advanced nuclear technology",
-"url": "https://houchin.house.gov/media/press-releases/houchin-applauds-house-passage-fy26-ndaa-secures-major-win-advanced-nuclear",
-"date": "2025-12-10",
-"quote": "It is a strategic win for America's long-term security, our energy independence, and our military readiness.",
-"what_it_shows": "Her amendment pushes small modular reactors at installations like NSC Crane, a build-more-power stance."
-}
-]
-},
-"ai_risk": {
-"score": -1,
-"confidence": "high",
-"summary": "Houchin supports specific AI guardrails while insisting innovation comes first. She wrote the AWARE Act and SAFE BOTs Act on AI chatbots and minors, cosponsored the FRONTIER Act requiring transparency, audits and incident reporting from the largest AI developers, and says innovation and guardrails are not opposites.",
-"evidence": [
-{
-"type": "statement",
-"title": "Press release (Obernolte): Obernolte, Trahan introduce bipartisan FRONTIER Act to strengthen oversight of advanced AI (Houchin is an original cosponsor)",
-"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
-"date": "2026-07-23",
-"quote": "This is exactly the kind of incident that shouldn't stay behind closed doors. The FRONTIER Act delivers transparency and accountability from the largest AI developers.",
-"what_it_shows": "After an advanced AI system escaped its developer's test environment, she backed mandatory model cards, risk frameworks, independent audits and incident reporting for frontier labs."
-},
-{
-"type": "statement",
-"title": "Press release: Houchin, Auchincloss introduce first House bill on AI chatbot companions (AWARE Act)",
-"url": "https://houchin.house.gov/media/press-releases/houchin-auchincloss-introduce-first-house-bill-ai-chatbot-companions",
-"date": "2025-09-25",
-"quote": "parents deserve clear tools to make sure their children are using it safely and at age-appropriate times",
-"what_it_shows": "Her first AI bill has the FTC publish guidance on chatbot risks for families."
-},
-{
-"type": "statement",
-"title": "Press release: Houchin bills to protect children from AI dangers pass Energy and Commerce Committee (AWARE and SAFE BOTs Acts in the KIDS Act)",
-"url": "https://houchin.house.gov/media/press-releases/houchin-bills-protect-children-ai-dangers-pass-energy-commerce-committee",
-"date": "2026-03-06",
-"quote": "Without these reforms, parents are outmatched by new technology powered by Big Tech.",
-"what_it_shows": "Her SAFE BOTs Act requires chatbots to disclose they are AI to minors, bars posing as licensed professionals, and mandates crisis referrals and break prompts."
-},
-{
-"type": "sponsor",
-"title": "H.R. 6489, SAFE BOTs Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/6489",
-"date": "2025-12-05",
-"quote": null,
-"what_it_shows": "Binding rules on AI chatbots that interact with teens."
-},
-{
-"type": "sponsor",
-"title": "H.R. 5360, AWARE Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/5360",
-"date": "2025-09-15",
-"quote": null,
-"what_it_shows": "Public warnings and resources about AI chatbot risks."
-},
-{
-"type": "op_ed",
-"title": "The Hill op-ed by Rep. Houchin: Big Tech designed it to keep your child scrolling. Congress is finally fighting back.",
-"url": "https://thehill.com/opinion/technology/5840484-kids-internet-digital-safety-act/",
-"date": "2026-04-21",
-"quote": "As a Republican who believes strongly in limited government and free markets, regulation should never be the first solution, but markets function best when consumers can make informed choices.",
-"what_it_shows": "She limits her case for rules to children, who she says cannot consent to having their vulnerabilities monetized."
-},
-{
-"type": "statement",
-"title": "Press release (Trahan): Trahan, Obernolte unveil Great American AI Act discussion draft (Houchin statement)",
-"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
-"date": "2026-06-04",
-"quote": "It strikes the right balance between innovation and consumer pro",
-"what_it_shows": "She frames the federal AI framework as balancing innovation and consumer protection rather than as strict regulation."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 4873, To codify Executive Order 14319 (preventing woke AI in the federal government)",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/4873",
-"date": "2025-08-05",
-"quote": null,
-"what_it_shows": "She wants government AI purchases limited to tools deemed politically neutral, a conservative content angle rather than safety."
-}
-]
-},
-"tech_regulation": {
-"score": -1,
-"confidence": "high",
-"summary": "Houchin is one of the House's leading kids-online-safety Republicans. She founded and co-chairs the Kids Online Safety Caucus, cosponsored KOSA and COPPA 2.0, sponsored the RESET (now GUARDIAN) Act on parental consent and the 16 & Up Social Media Act, and says Congress must hold Big Tech accountable and stop platforms hiding behind Section 230.",
-"evidence": [
-{
-"type": "statement",
-"title": "Press release: Houchin launches bipartisan Kids Online Safety Caucus",
-"url": "https://houchin.house.gov/media/press-releases/houchin-launches-bipartisan-kids-online-safety-caucus",
-"date": "2025-11-20",
-"quote": "Congress must hold Big Tech accountable when their platforms put children at risk.",
-"what_it_shows": "She created a caucus focused on platform transparency, parental tools and AI-driven risks to minors."
-},
-{
-"type": "statement",
-"title": "Joint statement from Kids Online Safety Caucus co-chairs Houchin and Auchincloss on Meta, YouTube verdict",
-"url": "https://houchin.house.gov/media/press-releases/joint-statement-kids-online-safety-caucus-co-chairs-houchin-and-auchincloss",
-"date": "2026-03-25",
-"quote": "continue to hide their exploitation of children behind bad-faith Section 230 defenses",
-"what_it_shows": "She calls for a federal age assurance law setting internet adulthood at 16 with liability for apps."
-},
-{
-"type": "statement",
-"title": "Press release: Reps. Houchin, Auchincloss introduce bipartisan 16 & Up Social Media Act",
-"url": "https://houchin.house.gov/media/press-releases/reps-houchin-auchincloss-introduce-bipartisan-16-social-media-act-keep-kids",
-"date": "2026-09-11",
-"quote": "These platforms were engineered by the smartest people in the world to hold attention, and they are winning that fight against our kids.",
-"what_it_shows": "Her newest bill bans under-16 accounts on platforms with addictive design features."
-},
-{
-"type": "statement",
-"title": "Press release: Rep. Houchin bills to protect children online, combat scams advance subcommittee markup (GUARDIAN Act, formerly RESET Act)",
-"url": "https://houchin.house.gov/media/press-releases/rep-houchin-bills-protect-children-online-combat-scams-advance-subcommittee",
-"date": "2026-09-01",
-"quote": "Parents—not social media companies—should be in the driver's seat when it comes to their children's online lives",
-"what_it_shows": "Requires verifiable, revocable parental consent before platforms process a child's data."
-},
-{
-"type": "sponsor",
-"title": "H.R. 6488, RESET Act (renamed GUARDIAN Act)",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/6488",
-"date": "2025-12-05",
-"quote": null,
-"what_it_shows": "Her bill on teen exploitation and parental consent on social media."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 7891 (118th), Kids Online Safety Act",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
-"date": "2024-04-09",
-"quote": null,
-"what_it_shows": "Backed the main kids online safety bill."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 7890 (118th), Children and Teens' Online Privacy Protection Act",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/7890",
-"date": "2024-05-16",
-"quote": null,
-"what_it_shows": "Backed updating kids' privacy law."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 3149, App Store Accountability Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/3149",
-"date": "2025-12-10",
-"quote": null,
-"what_it_shows": "Age checks and parental approval at the app store level."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 3562, DEFIANCE Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
-"date": "2026-01-21",
-"quote": null,
-"what_it_shows": "Civil right to sue over nonconsensual AI sexual deepfakes."
-}
-]
-},
-"preemption": {
 "score": 2,
 "confidence": "high",
-"summary": "Houchin wants one national AI rule. She was an original supporter of the Obernolte-Trahan Great American AI Act discussion draft, which preempts state AI development laws for three years, warning against a patchwork of fifty state laws, and she cosponsored the FRONTIER Act, which sets a uniform national standard to prevent state patchwork rules. She also voted for the House budget bill carrying the 10-year state AI law moratorium.",
+"summary": "Yakym celebrates the Amazon data center campuses in his district as jobs and tax base, cosponsors a bill to speed new power plants onto the grid, and says the fix for AI's energy appetite is more energy production and less federal permitting review. No statements found raising ratepayer, water, or community concerns.",
 "evidence": [
 {
 "type": "statement",
-"title": "Press release (Trahan): Trahan, Obernolte unveil federal AI framework discussion draft (Great American AI Act; Houchin statement)",
-"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
-"date": "2026-06-04",
-"quote": "America should lead the world in artificial intelligence, not regulate ourselves into falling behind China through a patchwork of fifty different state laws",
-"what_it_shows": "She endorses a federal framework that includes a three-year preemption of state AI development laws."
+"title": "Quoted in WNDU on Amazon's $15 billion northern Indiana data center announcement",
+"url": "https://www.wndu.com/2025/11/24/amazon-announces-15-billion-investment-data-center-campuses-northern-indiana/",
+"date": "2025-11-24",
+"quote": "As our country races to lead in artificial intelligence and advanced computing, investments like this ensure we are building that future here at home and delivering new opportunities for hardworking Hoosier families.",
+"what_it_shows": "He welcomed the Amazon data center expansion in his district as good-paying jobs and a bigger tax base, with no conditions attached."
+},
+{
+"type": "interview",
+"title": "Washington Reporter interview: eight GOP lawmakers on an AI deal with KOSA and how to lower energy costs",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20",
+"quote": "I just got a bill passed that reforms NEPA, which has gone way too far. Previously, we were prevented from building pipelines and transmission lines.",
+"what_it_shows": "Asked how to lower energy costs as AI demand grows, he called for more energy exploration and getting the federal government out of the way of pipelines and transmission lines."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 1047, the GRID Power Act (joined May 15, 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1047",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "The bill tells federal regulators to speed dispatchable power plants through the interconnection queue, a supply-side answer to load growth from data centers."
 },
 {
 "type": "statement",
-"title": "Press release (Obernolte): Obernolte, Trahan release discussion draft of the Great American AI Act (Houchin statement)",
-"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act",
-"date": "2026-06-04",
-"quote": "This bill creates a clear national standard for how AI models are developed while preserving the ability of states and parents to protect children.",
-"what_it_shows": "She accepts preemption of state model-development rules while carving out state child-protection laws."
+"title": "Press release: Rep. Yakym Votes for Government Efficiency and Energy Dominance (SPEED Act)",
+"url": "https://yakym.house.gov/media-center/press-releases/rep-yakym-votes-for-government-efficiency-and-energy-dominance",
+"date": "2025-12-18",
+"quote": "For years, NEPA has imposed unnecessary red tape that delays critical infrastructure projects, slows economic growth, and limits domestic energy production",
+"what_it_shows": "He backs permitting reform so energy and infrastructure projects get built faster."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Asked about AI rules, Yakym put winning the AI race with China first and limited the guardrails he wants to kids' online safety and AI-enabled crime. He also pressed Medicare to use predictive AI tools more, and the industry-backed Leading the Future super PAC and Anthropic's PAC both support him.",
+"evidence": [
+{
+"type": "interview",
+"title": "Washington Reporter interview: asked whether he would back an AI bill preempting states if it included KOSA-style kids protections",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20",
+"quote": "Someone is going to win, and it should be us. We've also got to ensure we protect our kids as they go online and make sure that there are some guardrails so you can't have people committing crimes with AI.",
+"what_it_shows": "He treats AI mainly as a race the United States must win, with guardrails narrowed to children and crime rather than broad safety rules."
+},
+{
+"type": "pac",
+"title": "Leading the Future super PAC names Yakym a 'House GOP Champion'",
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"date": "2026-04-16",
+"quote": "these House members will be critical to advancing a national framework in Congress that sets basic safety standards, protects children and families, and ensures America leads with confidence",
+"what_it_shows": "The AI industry's main super PAC, which backs a light national framework, lists him among 12 House Republicans it supports as having engaged with the industry."
+},
+{
+"type": "pac",
+"title": "FEC filing: AnthroPAC (Anthropic's PAC) gave $1,000 to Rudy for Indiana",
+"url": "https://api.open.fec.gov/v1/schedules/schedule_b/?api_key=DEMO_KEY&committee_id=C00946111&recipient_name=RUDY",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Anthropic's corporate PAC contributed $1,000 to his campaign committee on June 29, 2026."
 },
 {
 "type": "statement",
-"title": "Roll Call: Bipartisan AI draft proposes three-year preemption of state laws (Houchin among six members releasing the draft)",
-"url": "https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/",
-"date": "2026-06-04",
-"quote": "Notably, it includes a three-year preemption of state laws related to AI development that has previously generated significant pushback for Trahan.",
-"what_it_shows": "Independent confirmation that the draft she backed preempts state AI development laws."
+"title": "Press release: Yakym Calls Out $60 Billion of Fraud (Ways and Means hearing)",
+"url": "https://yakym.house.gov/media-center/press-releases/yakym-calls-out-60-billion-of-fraud",
+"date": "2026-04-21",
+"quote": "pushed for answers on whether federal law or regulation prevents CMS from deploying the same real-time claims analytics and predictive AI tools that Medicare Advantage plans and private insurers routinely use",
+"what_it_shows": "He wants government to adopt AI tools faster and framed existing rules as a possible obstacle, not a safeguard."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Yakym cosponsored the House Kids Online Safety Act in 2024 and says any AI deal must protect kids online. No positions found on Section 230, antitrust, or broad privacy law.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7891, Kids Online Safety Act (118th Congress), joined Sept 17, 2024",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-09-17",
+"quote": null,
+"what_it_shows": "He signed on to the main kids' online safety bill, which requires apps to protect minors from harmful content and addictive design."
 },
 {
-"type": "statement",
-"title": "Press release (Obernolte): FRONTIER Act introduced with Houchin as original cosponsor; creates a uniform national standard",
-"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
-"date": "2026-07-23",
-"quote": "It also creates a uniform national standard for transparency, auditing, and reporting of catastrophic risk to prevent a patchwork of state regulations.",
-"what_it_shows": "The frontier-AI bill she cosponsored is designed to displace state-by-state rules."
+"type": "interview",
+"title": "Washington Reporter interview on an AI deal with KOSA",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20",
+"quote": "We've also got to ensure we protect our kids as they go online and make sure that there are some guardrails so you can't have people committing crimes with AI.",
+"what_it_shows": "He ties kids' online protections to any federal AI package."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "Asked point-blank in January 2026 whether he would support preempting state AI laws in exchange for KOSA-style kids protections, Yakym did not object and stressed winning the AI race, which the interviewer read as openness to the deal. He also voted for H.R. 1 when it carried the 10-year state AI-law moratorium and is backed by a super PAC pushing a national framework, but he has not stated a clear position in his own words.",
+"evidence": [
+{
+"type": "interview",
+"title": "Washington Reporter interview: eight GOP lawmakers on an AI deal with KOSA",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20",
+"quote": "Both Yakym and Harrigan sounded willing to consider a potential legislative compromise that would include federal preemption of state-based AI regulations as well as protections for children like what had been in versions of the KOSA.",
+"what_it_shows": "This is the reporter's characterization; his own answer to the preemption question was about staying ahead of China and protecting kids, without endorsing or rejecting preemption."
 },
 {
 "type": "vote",
-"title": "House roll call 145 (May 22, 2025): Houchin voted Yea on H.R. 1, whose House text included a 10-year moratorium on state and local AI laws",
+"title": "Voted Yea on H.R. 1 (May 22, 2025), which then included a 10-year moratorium on state AI laws",
 "url": "https://www.govtrack.us/congress/votes/119-2025/h145",
 "date": "2025-05-22",
 "quote": null,
-"what_it_shows": "Consistent with her later support for a national standard."
+"what_it_shows": "The House-passed budget bill carried the state AI-law moratorium; a Yea on the whole package is weak evidence on preemption by itself."
+},
+{
+"type": "pac",
+"title": "Leading the Future super PAC 'House GOP Champions' list",
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"date": "2026-04-16",
+"quote": null,
+"what_it_shows": "The PAC backing him says these members will be critical to passing a national AI framework in Congress, the industry's preferred alternative to state laws."
 }
 ]
 },
 "china_chips": {
 "score": null,
 "confidence": "none",
-"summary": "No public position found. Searches for Houchin with Nvidia, export controls, chips and China turned up nothing, and she has not sponsored or cosponsored chip export bills; her China references are about winning the AI race, not chip sales.",
+"summary": "Looked for statements on Nvidia sales, chip export controls, or the GAIN AI, Chip Security, and AI OVERWATCH bills and found none. His China comments are about trade overcapacity and tariffs, not AI chips.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Yakym Urges Coordination to Hold China Accountable (Ways and Means hearing with USTR)",
+"url": "https://yakym.house.gov/media-center/press-releases/rep-yakym-urges-coordination-to-hold-china-accountable",
+"date": "2025-04-10",
+"quote": "China's promise to shift to a consumption economy remains just that, a promise",
+"what_it_shows": "He is hawkish on Chinese trade practices but has not taken a position on AI chip exports."
+}
+]
+}
+},
+"search_notes": "Searched Google News for Yakym with: artificial intelligence; data center; chatbot/deepfake/KOSA; Nvidia/export controls; Leading the Future/AnthroPAC; Amazon New Carlisle; energy costs/GRID Power Act; TikTok/Section 230/Big Tech; One Big Beautiful Bill AI moratorium; Washington Reporter; Fulton County data center. Paginated all 14 pages of his press releases at yakym.house.gov/media-center/press-releases (site keyword filter does not work) and read the SPEED Act, Times Union year-in-review, HHS hearing, fraud hearing, and China trade releases. Read the Washington Reporter Jan 20, 2026 interview in full (his transcript includes the direct preemption/KOSA question). Verified the Leading the Future endorsement at Breitbart and the AnthroPAC $1,000 contribution through the FEC API. Verified GRID Power Act cosponsorship in the govinfo BILLSTATUS XML and the H.R. 1 Yea vote on govtrack. Google News link decoding was rate-limited for most of the session, so some hits (Legis1, South Bend Tribune opinion, WSBT Fulton County) could not be opened. Did not find him on any AI caucus roster; committee assignment is Ways and Means."
+},
+{
+"bioguide": "S001188",
+"name": "Marlin A. Stutzman",
+"signature": "Financial Services member who sits on the digital assets, fintech and AI subcommittee; his FUTURES Act to modernize bank regulators' technology passed committee 52-0, but he has said almost nothing publicly about AI policy or data centers.",
+"notable_quote": {
+"text": "The modernization of the regulatory technology our American financial systems rely on is essential. The FUTURES Act will help Congress better understand the red tape keeping our regulators in the past while our financial institutions race into the future.",
+"url": "https://stutzman.house.gov/media/press-releases/rep-stutzmans-bipartisan-futures-act-unanimously-passes-house-financial",
+"date": "2026-05-13"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026, even though Google and Amazon projects around Fort Wayne sit in his district. Searched his press releases, Google News, and local Fort Wayne coverage for data centers, electric rates, and Indiana Michigan Power.",
+"evidence": []
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No stance found on AI safety rules. The closest item is his FUTURES Act, which orders bank regulators to assess and upgrade their technology; his Democratic co-lead framed it around AI-driven bank-run risk, but Stutzman's own words did not mention AI.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Stutzman and Rep. Foster introduce the FUTURES Act",
+"url": "https://stutzman.house.gov/media/press-releases/rep-stutzman-and-rep-foster-introduce-futures-act",
+"date": "2026-04-14",
+"quote": "New threats to our financial institutions arise daily, and Congress must be proactive in our approach to stopping them.",
+"what_it_shows": "His bill has regulators report on modernizing their supervision technology; only co-lead Bill Foster tied it to AI accelerating bank runs."
+},
+{
+"type": "statement",
+"title": "Press release: Stutzman's bipartisan FUTURES Act passes House Financial Services Committee 52-0",
+"url": "https://stutzman.house.gov/media/press-releases/rep-stutzmans-bipartisan-futures-act-unanimously-passes-house-financial",
+"date": "2026-05-13",
+"quote": "The FUTURES Act will help Congress better understand the red tape keeping our regulators in the past while our financial institutions race into the future.",
+"what_it_shows": "He frames the issue as regulators lagging technologically behind the firms they oversee, not as a case for new AI rules."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His only tech-rules action found is cosponsoring a small bill giving car owners control over the data their connected cars collect. No positions found on Section 230, antitrust, kids online safety, or broader privacy law.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6734, Auto Data Privacy and Autonomy Act (joined Sept 2, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6734",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "A narrow data-privacy bill for connected cars; a single minor cosponsorship, so confidence is low."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on preempting or pausing state AI laws. He voted for H.R. 1 when it carried the 10-year moratorium, but his statement on that vote talked only about taxes, Medicaid, the border and the budget, so the vote alone is not treated as a position.",
+"evidence": [
+{
+"type": "vote",
+"title": "Voted Yea on H.R. 1 (May 22, 2025), which then included a 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "The House-passed budget bill carried the state AI-law moratorium; a Yea on the whole package is weak evidence on preemption by itself."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Stutzman votes to pass the One Big Beautiful Bill Act",
+"url": "https://stutzman.house.gov/media/press-releases/rep-stutzman-votes-pass-one-big-beautiful-bill-act",
+"date": "2025-05-22",
+"quote": "The One Big Beautiful Bill Act is the start of America's return to fiscal sanity",
+"what_it_shows": "His explanation of the vote never mentions the AI moratorium, so it cannot be read as a preemption stance."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "Searched for Nvidia, chip export controls, TikTok, and China technology statements and found nothing; his China-related activity is on foreign policy and trade, not AI chips.",
 "evidence": []
 }
 },
-"search_notes": "Searches run: Erin Houchin artificial intelligence; Houchin data center(s); Houchin state AI/preemption/patchwork/Great American AI; Houchin Nvidia/export controls/chips China; Houchin SAFE BOTs/RESET Act; Houchin AI executive order/state laws/national standard; Liquid Cooling for AI Act Houchin; FRONTIER Act Obernolte Trahan Houchin. Site listing of houchin.house.gov (11 archived URLs) plus a crawl of four press-release index pages (40 release URLs). Opened: AWARE Act release, Kids Online Safety Caucus launch, three kids bills subcommittee release, KIDS Act committee passage release, joint Meta/YouTube verdict statement, Sept 1 2026 markup release, 16 & Up Social Media Act release, NDAA advanced nuclear release, E&C C&T hearing page, Trahan and Obernolte Great American AI Act releases, Obernolte FRONTIER Act release, Roll Call, MLex, The Hill op-ed, IDS District 9 forum story (she did not attend), govtrack h145. Could not open: Punchbowl News 2024 interview, Politico FRONTIER Act story, Ripon Advance chip export story (all 403). The 118th Congress Financial Services AI working group membership comes from the first-pass landscape file. No AI super PAC support or attacks found."
+"search_notes": "Searched Google News for Stutzman with: artificial intelligence; data center Indiana; fintech/Financial Services AI hearing; deepfake/chatbot/Section 230/Big Tech; electricity/utility bills/Indiana Michigan Power/ratepayers; China chips/TikTok/export controls/Nvidia; Leading the Future/Public First; Google/Amazon Fort Wayne data center; nuclear/energy demand/grid reliability; the AI subcommittee by name; primary opponent Kenworthy and Journal Gazette coverage. Read all 5 pages of press releases at stutzman.house.gov (Jan 2025 to Jul 2026), the committees and caucuses page (member of the Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence; no AI caucus), the In the News page (empty), and both FUTURES Act releases plus the OBBB vote release. Checked the Dec 10, 2025 HFSC AI hearing page on C-SPAN for his remarks (none listed). Verified the H.R. 1 Yea vote on govtrack. No AI super PAC support or attacks found. Google News link decoding was rate-limited, so the South Bend Tribune opinion piece and a CBA fraud-legislation statement could not be opened."
+},
+{
+"bioguide": "B001307",
+"name": "James R. Baird",
+"signature": "Science and Foreign Affairs member who wrote a voluntary NIST AI-guidelines bill and an export-control reform bill, cosponsors the AI OVERWATCH Act to block advanced chip sales to China, and says local zoning should decide data center siting.",
+"notable_quote": {
+"text": "The bills we passed today are critical to addressing the security challenges with AI, providing Congress with oversight over the sale of advanced AI chips to our adversaries, and supercharging American AI leadership to beat China.",
+"url": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2523",
+"date": "2026-01-21"
+},
+"groups": [
+"Research & Development Caucus (Co-Chair)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Baird says data centers have value and will raise energy needs, and he trusts local planning and zoning to sort out where they go rather than Washington. His answer to rising power demand is more baseload generation like coal, not limits on new load. No statements found on who pays for grid upgrades.",
+"evidence": [
+{
+"type": "interview",
+"title": "E&E News: Data center boom creates political conundrum for the GOP (Baird quoted)",
+"url": "https://www.eenews.net/articles/data-center-boom-creates-political-conundrum-for-the-gop-2/",
+"date": "2025-12-11",
+"quote": "We know the value of data centers. We know it's going to increase the energy needs, and so I have great faith in our local people to take care of that.",
+"what_it_shows": "He supports data centers, acknowledges the power demand, and wants local officials rather than the federal government to manage the tradeoffs; the article notes a local group in his district organizing against two proposed facilities."
+},
+{
+"type": "interview",
+"title": "E&E News: Baird on local authority over data center siting",
+"url": "https://www.eenews.net/articles/data-center-boom-creates-political-conundrum-for-the-gop-2/",
+"date": "2025-12-11",
+"quote": "This is why we have these planning and zoning processes. The local people have a chance to put in their say.",
+"what_it_shows": "He backs local governments' power to approve or reject data centers that do not fit community needs."
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Baird joins President Trump for White House clean coal executive order event",
+"url": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2530",
+"date": "2026-02-12",
+"quote": "As energy demand continues to grow, we need dependable energy sources like coal to protect our grid reliability.",
+"what_it_shows": "His response to growing electricity demand is keeping coal plants running for reliability, not slowing new load."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Baird wrote a bill for voluntary, non-binding NIST guidelines on AI development and stressed it gives NIST no regulatory power, and he frames AI as a race to beat China. But he also cosponsors the DEFIANCE Act, a binding rule letting victims sue over AI sexual deepfakes, and backs age verification and child-safety bills.",
+"evidence": [
+{
+"type": "hearing",
+"title": "House Science Committee markup remarks on his AI Development Practices Act (transcript via Tech Policy Press)",
+"url": "https://www.techpolicy.press/nine-ai-bills-pass-us-house-science-space-and-technology-committee/",
+"date": "2024-09-11",
+"quote": "If we hope to do further research and development in the AI technology then I think we also need appropriate guidelines for its development. So that's why I introduced the AI Development Practices Act.",
+"what_it_shows": "He wants guidelines for AI developers, but through NIST studying industry practice rather than mandates."
+},
+{
+"type": "hearing",
+"title": "House Science Committee markup: Baird stresses his bill is voluntary and non-regulatory",
+"url": "https://www.techpolicy.press/nine-ai-bills-pass-us-house-science-space-and-technology-committee/",
+"date": "2024-09-11",
+"quote": "It simply tasks them with studying the standards of AI development and any guidelines they publish will be entirely voluntary with no force of law behind them",
+"what_it_shows": "He deliberately kept the bill from giving NIST any regulatory power, the light-touch approach."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 9466, AI Development Practices Act of 2024 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9466",
+"date": "2024-09-06",
+"quote": null,
+"what_it_shows": "Has NIST catalog voluntary practices for communicating an AI system's transparency, robustness, security, and safety characteristics; passed committee by voice vote."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3562, DEFIANCE Act of 2025 (joined Aug 27, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "Lets people sue anyone who makes or shares AI-generated sexual images of them without consent, a binding rule for a specific AI harm."
+},
+{
+"type": "statement",
+"title": "Press release: Baird applauds House Foreign Affairs Committee passage of AI security bills including the AI OVERWATCH Act",
+"url": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2523",
+"date": "2026-01-21",
+"quote": "providing Congress with oversight over the sale of advanced AI chips to our adversaries, and supercharging American AI leadership to beat China",
+"what_it_shows": "He frames AI policy as national security and beating China rather than as model-safety regulation."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Baird supports targeted rules aimed at kids and foreign-controlled apps: he voted to force TikTok's Chinese owner to sell, cosponsored the ACES Act against Chinese-controlled social media, and cosponsors the SCREEN Act age-verification bill and the STOP CSAM Act. No positions found on Section 230 repeal, antitrust, or comprehensive privacy law.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Baird votes to protect Americans from the influence of Communist China (H.R. 7521 TikTok divestiture)",
+"url": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=371",
+"date": "2024-03-13",
+"quote": "Communist China cannot have free rein to push its agenda on the American people and manipulate our children",
+"what_it_shows": "He backed forcing TikTok's parent to divest, framing it as protecting children and public discourse from a foreign adversary."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 1623, SCREEN Act (joined Aug 26, 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-08-26",
+"quote": null,
+"what_it_shows": "Requires adult websites to verify users' ages so kids cannot get in."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3921, STOP CSAM Act of 2025 (joined June 15, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-06-15",
+"quote": null,
+"what_it_shows": "Makes platforms do more to report and remove child sexual abuse material and lets victims sue them for failing."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 4927, ACES Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4927",
+"date": "2023-07-26",
+"quote": null,
+"what_it_shows": "Cracks down on TikTok and other Chinese-controlled social media apps over spying concerns."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on preempting or pausing state AI laws. He voted for H.R. 1 when it carried the 10-year moratorium, but that vote alone is not treated as a position, and his local-control comments to E&E News were about data center zoning, not AI rules.",
+"evidence": [
+{
+"type": "vote",
+"title": "Voted Yea on H.R. 1 (May 22, 2025), which then included a 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "The House-passed budget bill carried the state AI-law moratorium; a Yea on the whole package is weak evidence on preemption by itself."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Baird wants tighter export controls on advanced technology to China. He sponsored a bill letting the State, Defense, and Energy departments propose export-control rules and requiring review of China's military-civil fusion strategy, cosponsors the AI OVERWATCH Act giving Congress power to block advanced AI chip sales to China, and says chips must not give China the upper hand.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 8036, Interagency Coordination in Export Controls Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8036",
+"date": "2026-03-24",
+"quote": null,
+"what_it_shows": "Ends Commerce's monopoly on writing export-control rules, requires three of four departments to agree, and orders review of China's military-civil fusion; passed the Foreign Affairs Committee in April 2026."
+},
+{
+"type": "statement",
+"title": "Press release: Baird's Interagency Coordination in Export Controls Act passes House Foreign Affairs Committee",
+"url": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2554",
+"date": "2026-04-22",
+"quote": "China is notorious for importing and stealing American and allied civilian technologies and maliciously using them in support of its military. We cannot allow our advanced technologies to give China the upper hand.",
+"what_it_shows": "In his own words, the goal of his export-control bill is keeping advanced American technology away from China's military."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6875, AI OVERWATCH Act (joined Jan 16, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-01-16",
+"quote": null,
+"what_it_shows": "Gives Congress the power to block sales of advanced AI chips to China and other risky countries before they happen."
+},
+{
+"type": "statement",
+"title": "Press release: Baird applauds passage of legislation to improve AI security in House Foreign Affairs Committee",
+"url": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2523",
+"date": "2026-01-21",
+"quote": "The bills we passed today are critical to addressing the security challenges with AI, providing Congress with oversight over the sale of advanced AI chips to our adversaries, and supercharging American AI leadership to beat China.",
+"what_it_shows": "He celebrated committee passage of the AI OVERWATCH Act, which he cosponsors, as curbing chip sales to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6603, No Technology for Terror Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6603",
+"date": "2024-02-01",
+"quote": null,
+"what_it_shows": "Tightens rules so American chips and components cannot reach Iran's drone and weapons programs."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 802, STAR Act of 2025 (joined Feb 10, 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2025-02-10",
+"quote": null,
+"what_it_shows": "Extends the tax credit for building chip factories in America; supports domestic chipmaking rather than an export position."
+}
+]
+}
+},
+"search_notes": "Searched Google News for Baird with: artificial intelligence; data center Indiana; export controls/chips/Nvidia; Interagency Coordination in Export Controls; AI Development Practices Act/NIST; AI OVERWATCH; LEAP/Lebanon/Boone County data center; Science Committee AI hearings; Purdue AI; data centers/electricity; Leading the Future/Public First. Pulled all 13 pages of press-release titles from baird.house.gov (Jan 2023 to Sept 2026) and read the Jan 21, 2026 AI security release, the Apr 22, 2026 export-controls release, the Tech Diplomacy Training Act release, the FY26 NDAA statement, the clean coal EO release, the SMR bill release, the appropriations release, and the Mar 13, 2024 TikTok vote release. Read his quotes in E&E News (Dec 11, 2025) and his Sept 2024 Science Committee markup remarks in the Tech Policy Press transcript. Checked his caucus page (co-chairs the Research & Development Caucus and Agriculture Research Caucus; no AI caucus). Verified the H.R. 1 Yea vote on govtrack. Congress.gov blocked direct fetches, so bill roles rely on the verified record. No AI super PAC support or attacks found. Google News decoding was rate-limited, so the Nextgov export-controls roundup and Daily Signal chip-smuggling piece could not be opened."
 }
 ]

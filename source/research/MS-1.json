@@ -1,0 +1,424 @@
+[
+{
+"bioguide": "W000437",
+"name": "Roger F. Wicker",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "No direct statement from Wicker on data centers, electric bills, or the xAI gas turbines in Southaven was found as of Sept 2026. He attended the 2024 Amazon groundbreaking in Madison County and cosponsors a sweeping energy permitting bill that says government must get out of the way, which points toward a build-friendly stance without stated conditions.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Wicker joins 17 cosponsors of Armstrong's American Energy and Mineral Infrastructure Act (S. 4944)",
+"url": "https://www.wicker.senate.gov/2026/08/12/wicker-armstrong-builds-senate-momentum-for-permitting-reform-as-12-new-cosponsors-join-his-american-energy-mineral-infrastructure-act",
+"date": "2026-08-12",
+"quote": "If we hope to secure America's energy future, the government must get out of the way. This legislation would reduce unnecessary permitting rules, providing greater certainty for those investing in American energy.",
+"what_it_shows": "He backs cutting federal permitting rules for energy projects, the kind of buildout data centers depend on, though his quote does not mention data centers or ratepayers."
+},
+{
+"type": "other",
+"title": "News report: Wicker among dignitaries at the AWS $10 billion data center groundbreaking in Madison County (reposted on Rep. Guest's site)",
+"url": "https://guest.house.gov/media/in-the-news/amazon-breaks-ground-site-here",
+"date": "2024-05-20",
+"quote": null,
+"what_it_shows": "He showed up to celebrate the state's largest data center project; the article lists him as a dignitary but records no statement from him."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Wicker says AI rules should start with a light touch so American companies can win the AI race against China. At the same time he backs narrow laws against AI sexual deepfakes and AI scams, cosponsored a 2023 bill requiring transparency reports for high-risk AI, and sponsored a study of AI in the courts.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Weekly column: Senator Wicker Helping Maintain America's AI Edge",
+"url": "https://www.wicker.senate.gov/2025/5/wicker-helping-maintain-america-s-ai-edge",
+"date": "2025-05-19",
+"quote": "Any government regulations on AI must begin with a \"light touch\" so that innovators can experiment, prototype, and compete.",
+"what_it_shows": "In his own words he wants AI regulation to start light, modeled on the early internet, and frames AI mainly as a national security race with China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Artificial Intelligence Research, Innovation, and Accountability Act of 2024 (118th S.3312)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/3312",
+"date": "2023-11-15",
+"quote": null,
+"what_it_shows": "He signed on to a Republican-led bill that would make companies using AI for high-stakes decisions file transparency reports and follow new standards."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (119th S.146), now law",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "He supports criminal penalties and takedown duties for AI-generated sexual deepfakes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI Fraud Accountability Act of 2026 (119th S.3982)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3982",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "He backs added penalties for people who use AI to scam others, a targeted guardrail."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Research and Oversight of AI in Courts Act of 2026 (119th S.4154)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4154",
+"date": "2026-03-19",
+"quote": null,
+"what_it_shows": "He wrote a bill ordering a study of how courts use AI and what problems it may cause, a cautious study-first approach."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Future of Artificial Intelligence Innovation Act of 2024 (118th S.4178)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/4178",
+"date": "2024-07-08",
+"quote": null,
+"what_it_shows": "He supported creating a government AI Safety Institute that writes voluntary testing standards, consistent with a voluntary rather than mandatory approach."
+},
+{
+"type": "statement",
+"title": "Weekly column: Wicker's 2026 Armed Services Priorities",
+"url": "https://www.wicker.senate.gov/2026/3/wicker-s-2026-armed-services-priorities",
+"date": "2026-03-04",
+"quote": null,
+"what_it_shows": "As Armed Services chairman he lists artificial intelligence among the systems that will dominate 21st century warfare and wants defense money flowing to build it."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Wicker has long pushed targeted rules on Big Tech: kids' online safety, a federal privacy law, forcing TikTok out of Chinese ownership, and letting news outlets bargain with Google and Facebook. He accuses the platforms of censoring conservatives and has called for congressional investigations, but has not backed breaking companies up.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (119th S.1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-07-31",
+"quote": null,
+"what_it_shows": "He supports making social media and gaming platforms build in safety tools for children."
+},
+{
+"type": "statement",
+"title": "Press release: Senator Wicker votes yes to make TikTok American-owned",
+"url": "https://www.wicker.senate.gov/2024/4/senator-wicker-votes-yes-to-make-tiktok-american-owned",
+"date": "2024-04-24",
+"quote": "TikTok is not an ordinary social media app. The CCP-influenced platform can use our own data against us and seeks to influence American public opinion,",
+"what_it_shows": "He voted to force ByteDance to sell TikTok, a hard-edged rule aimed at a Chinese-owned platform."
+},
+{
+"type": "op_ed",
+"title": "Weekly column: Wicker: Big Tech Has Crossed a Red Line",
+"url": "https://www.wicker.senate.gov/2021/1/wicker-big-tech-has-crossed-a-red-line",
+"date": "2021-01-19",
+"quote": "I am concerned these acts of censorship will set a dangerous trend that could threaten free speech and divide our nation further.",
+"what_it_shows": "He argues tech monopolies must be challenged because they censor speech, a conservative case for reining in the platforms."
+},
+{
+"type": "op_ed",
+"title": "Weekly column: Wicker Calls for Big Tech Investigations",
+"url": "https://www.wicker.senate.gov/2022/12/wicker-calls-for-big-tech-investigations",
+"date": "2022-12-26",
+"quote": "Congress needs to follow up with wider investigations into Big Tech companies, including Facebook and Google.",
+"what_it_shows": "He wants Congress to investigate the major platforms for bias against conservatives."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Journalism Competition and Preservation Act of 2023 (118th S.1094)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1094",
+"date": "2023-03-30",
+"quote": null,
+"what_it_shows": "He backed letting news outlets team up to make Google and Facebook pay for their stories."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: ANTI-SOCIAL CCP Act (118th S.347)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/347",
+"date": "2023-03-09",
+"quote": null,
+"what_it_shows": "He supported banning TikTok and other Chinese-government-controlled apps outright."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No stated position found on whether Washington should override state AI laws. He voted with 98 other senators to strip the 10-year state AI moratorium from the 2025 budget bill, and when House leaders tried to put a moratorium in the defense bill he chairs, he told reporters he had not been focusing on it. The final NDAA did not include it.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call #363: Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (99 Yea, 1 Nay)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He voted Yea to remove the moratorium, as did nearly every senator after the deal collapsed, so the vote alone does not show his view."
+},
+{
+"type": "statement",
+"title": "GovTech report: White House Continues Push for AI Regulations Ban",
+"url": "https://www.govtech.com/policy/white-house-continues-push-for-ai-regulations-ban",
+"date": "2025-11-21",
+"quote": null,
+"what_it_shows": "As Armed Services chairman he said he had not \"been focusing on\" adding a state AI law moratorium to the NDAA, signaling he was not a driver of the effort."
+}
+]
+},
+"china_chips": {
+"score": 1,
+"confidence": "medium",
+"summary": "Wicker joined Republican senators asking Commerce to scrap Biden's AI Diffusion Rule, which limited chip sales to most countries, and cheered when Trump did. He says China should stay restricted but wants American chipmakers free to sell to allies and partners.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Wicker, colleagues send letter calling for reform to Biden AI Diffusion Rule",
+"url": "https://www.wicker.senate.gov/2025/4/wicker-colleagues-send-letter-calling-for-reform-to-biden-ai-diffusion-rule",
+"date": "2025-04-17",
+"quote": "we urge you to withdraw this rule and propose an alternative that is effective in preventing Communist China from capturing the world market in a leading technology without compromising American advantages.",
+"what_it_shows": "He signed a Ricketts-led letter to Secretary Lutnick to withdraw the broad export rule as harmful to U.S. companies, while saying China should remain restricted."
+},
+{
+"type": "op_ed",
+"title": "Weekly column: Senator Wicker Helping Maintain America's AI Edge",
+"url": "https://www.wicker.senate.gov/2025/5/wicker-helping-maintain-america-s-ai-edge",
+"date": "2025-05-19",
+"quote": "My Republican colleagues and I encouraged President Trump to block the heavy-handed rule, and he did so this month.",
+"what_it_shows": "In his own words he calls the Biden chip export rule heavy-handed and takes credit for its repeal."
+}
+]
+}
+},
+"signature": "Senate Armed Services chairman who frames AI as a race with China: wants regulation to start with a light touch and helped kill Biden's chip export diffusion rule, while cosponsoring targeted laws on deepfakes, AI scams and kids' online safety.",
+"notable_quote": {
+"text": "Any government regulations on AI must begin with a \"light touch\" so that innovators can experiment, prototype, and compete.",
+"url": "https://www.wicker.senate.gov/2025/5/wicker-helping-maintain-america-s-ai-edge",
+"date": "2025-05-19"
+},
+"groups": [
+"Chairman, Senate Committee on Armed Services (119th Congress)"
+],
+"search_notes": "Ran about 16 news searches (AI, data centers, Big Tech, Section 230, Nvidia/export controls, moratorium/NDAA, Anthropic/Pentagon, chatbots/deepfakes, xAI/ratepayers, executive order) plus two site listings of wicker.senate.gov and the SASC press page. Opened and verified: May 2025 AI column, April 2025 AI Diffusion Rule letter release, Aug 2026 permitting release, Mar 2026 Armed Services priorities, 2024 TikTok vote release, 2021 and 2022 Big Tech columns, GovTech Nov 2025 NDAA moratorium piece, guest.house.gov AWS groundbreaking article, Newsweek WISeR piece (Wicker did not vote), SASC FY27 NDAA filing release (no AI text). Could NOT open: Axios Feb 27 2026 scoop that Wicker and Reed intervened in the Pentagon-Anthropic dispute and the Politico Sep 2025 story on a chip export provision in the Senate NDAA (Google News URL decoder rate-limited, Wayback intermittent, search engines blocked bots), so those are not cited. Senate.gov pages block direct fetches; several were read through Wayback via curl when the helper's Wayback fallback refused connections. No Mississippi statement on the Southaven xAI turbines found. No AI super PAC spending on Wicker found (aimoneywatch page did not render)."
+},
+{
+"bioguide": "H001079",
+"name": "Cindy Hyde-Smith",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Hyde-Smith welcomes the data centers and large factories coming to Mississippi but wants them to pay their own way. At a July 2026 FERC oversight hearing she pressed regulators on upfront payments and minimum financial commitments so families' electric bills do not rise, and praised Mississippi as a model for making large loads pay their fair share.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Press release reprinted by Picayune Item: Hyde-Smith examines affordability as data centers proliferate (Senate ENR FERC oversight hearing)",
+"url": "https://picayuneitem.com/2026/07/hyde-smith-examines-affordability-as-data-centers-proliferate/",
+"date": "2026-07-22",
+"quote": "Mississippi, my home state, continues to be at the forefront of safeguarding ratepayers by ensuring companies, like data centers, pay their fair share for large loads,",
+"what_it_shows": "She supports the projects but conditions them on ratepayer protection, asking FERC what mechanisms make large load customers pay upfront and keep rates from rising."
+},
+{
+"type": "other",
+"title": "News report: Hyde-Smith among dignitaries at the AWS $10 billion data center groundbreaking in Madison County (reposted on Rep. Guest's site)",
+"url": "https://guest.house.gov/media/in-the-news/amazon-breaks-ground-site-here",
+"date": "2024-05-20",
+"quote": null,
+"what_it_shows": "She attended and celebrated the state's largest data center project; the article records no statement from her."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No clear public position on AI safety rules found as of Sept 2026. She cosponsored a study of AI use in the courts and voted with Republicans to keep a Medicare pilot that uses AI in prior authorization decisions, but has not said whether advanced AI needs binding rules.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Research and Oversight of AI in Courts Act of 2026 (119th S.4154)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4154",
+"date": "2026-03-26",
+"quote": null,
+"what_it_shows": "She joined Wicker's bill to study how courts use AI and what could go wrong, a modest study-first step."
+},
+{
+"type": "other",
+"title": "Newsweek: List of senators voting against repeal of the Medicare WISeR AI prior authorization pilot",
+"url": "https://www.newsweek.com/medicare-update-list-of-senators-voting-against-repeal-of-major-ai-change-12205466",
+"date": "2026-07-16",
+"quote": null,
+"what_it_shows": "She is listed among the 50 Republicans who voted to keep the CMS pilot that lets contractors use AI to review Medicare treatment requests, a party-line vote against blocking that AI use."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Hyde-Smith is a steady cosponsor of targeted rules on tech platforms to protect children: the Kids Online Safety Act, EARN IT, STOP CSAM and the ECCHO Act. She frames it as holding Big Tech accountable. She also backs banning Chinese-linked connected car technology.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Hyde-Smith cosponsors Kids Online Safety Act",
+"url": "https://www.hydesmith.senate.gov/hyde-smith-cosponsors-kids-online-safety-act",
+"date": "2023-05-03",
+"quote": "The Kids Online Safety Act begins to balance the scales for parents and their children, while holding these tech companies more accountable.",
+"what_it_shows": "In her own words she wants social media companies held accountable for harm to kids."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (119th S.1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "She signed on again in the 119th Congress to the main kids' online safety bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: STOP CSAM Act of 2025 (119th S.1829)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2025-06-10",
+"quote": null,
+"what_it_shows": "She supports letting victims sue platforms that fail to remove child sexual abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: ECCHO Act (119th S.3397)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3397",
+"date": "2026-06-01",
+"quote": null,
+"what_it_shows": "She backs a new federal crime for pressuring kids online into hurting themselves or others."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: EARN IT Act of 2023 (118th S.1207)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1207",
+"date": "2023-04-19",
+"quote": null,
+"what_it_shows": "She supported stripping platforms' Section 230 shield when they let child abuse material spread."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (119th S.4429)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-28",
+"quote": null,
+"what_it_shows": "She backs banning connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on whether federal law should override state AI laws. Her only record is the near-unanimous July 2025 vote to strip the state AI moratorium from the budget bill, which does not by itself show her view. Searched for reactions to the Dec 2025 executive order and Mar 2026 White House framework and found none.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call #363: Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (99 Yea, 1 Nay)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "She voted Yea to remove the moratorium along with nearly every senator, so the vote alone is not evidence of opposing preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China. Her one related vote was against the 2022 CHIPS Act on fiscal grounds, and that bill was about subsidies for U.S. chip factories, not export rules.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Hyde-Smith votes against CHIPS Act",
+"url": "https://www.hydesmith.senate.gov/hyde-smith-votes-against-chips-act",
+"date": "2022-07-27",
+"quote": "The massive CHIPS Act has good provisions, but it perpetuates more deficit spending to support profitable industries that already plan to expand without taxpayer subsidies,",
+"what_it_shows": "She opposed chip factory subsidies as deficit spending and cited weak safeguards against China benefiting; this concerns subsidies, not export controls, so it does not set a china_chips score."
+}
+]
+}
+},
+"signature": "Appropriator and Energy Committee member who backs Mississippi's data center boom but presses FERC to make large loads pay their own way; a longtime kids' online safety cosponsor who has said little about AI itself.",
+"notable_quote": {
+"text": "Mississippi, my home state, continues to be at the forefront of safeguarding ratepayers by ensuring companies, like data centers, pay their fair share for large loads.",
+"url": "https://picayuneitem.com/2026/07/hyde-smith-examines-affordability-as-data-centers-proliferate/",
+"date": "2026-07-22"
+},
+"groups": [],
+"search_notes": "Ran about 12 news searches (AI, data centers, chatbots/deepfakes/KOSA, Nvidia/export controls/Section 230/preemption, xAI/Southaven/Amazon, agriculture AI, TAKE IT DOWN/scams, WISeR/Medicare AI, FERC large load) plus a site listing of hydesmith.senate.gov. Opened and verified: Picayune Item reprint of her July 2026 FERC hearing release (verbatim quote confirmed), 2023 KOSA cosponsor release, 2022 CHIPS Act vote release, Newsweek WISeR vote list, guest.house.gov AWS groundbreaking article. Her own site's July 23 2026 FERC release, 2024 KOSA passage release, and a 2026 release with AG Fitch on KOSA could not be opened (site blocks direct fetch; Wayback intermittent). A hydesmith.senate.gov page titled Tech-Enabled Modern Agriculture: AI and Remote Sensing is a reposted third-party article, not her words, so it is not cited. Legis1 and Daily Energy Insider coverage of the FERC hearing could not be decoded. She was previously lead Republican on the ENR Energy Subcommittee (press releases exist) but I could not confirm any 119th Congress subcommittee leadership, so no group is listed. No statement found on the Southaven xAI turbines or the Vicksburg Amazon protest. No AI super PAC activity found."
+},
+{
+"bioguide": "K000388",
+"name": "Trent Kelly",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on data centers as of Sept 2026, even though his district includes Southaven, where xAI ran dozens of unpermitted gas turbines and residents, the NAACP and a noise class action pushed back. Searched his press releases, newsletters and local coverage for xAI, turbines, Amazon, electricity bills and data centers and found nothing.",
+"evidence": []
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement or bill found on AI safety, chatbots, deepfakes or AI regulation as of Sept 2026. His press releases for 2024 to 2026 cover farm aid, shipbuilding, service academy appointments and disaster declarations.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His only tech record is national security votes against Chinese-linked technology: he voted to force TikTok's sale in 2024 and cosponsors a ban on connected cars and software from companies tied to China, Russia, Iran or North Korea. No statements on kids' online safety, privacy or Section 230 found.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call #86 (2024): H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divest-or-ban)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "He voted Yea to force ByteDance to sell TikTok or face a ban."
+},
+{
+"type": "vote",
+"title": "House roll call #145 (2024): H.R. 8038, 21st Century Peace through Strength Act (included TikTok divestiture)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h145",
+"date": "2024-04-20",
+"quote": null,
+"what_it_shows": "He voted Yea on the package that carried the TikTok divestiture into law."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (119th HR.8730)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "He backs banning internet-connected cars and car software made by companies tied to China and other adversaries."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws. He did not sign the House Democratic letters against preemption and no reaction to the Dec 2025 executive order or Mar 2026 White House framework was found.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China. He cosponsored a 2024 bill giving tax breaks to companies that make circuit boards in America, which is about domestic manufacturing, not export rules.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Circuit Boards and Substrates Act (118th HR.3249)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3249",
+"date": "2024-07-22",
+"quote": null,
+"what_it_shows": "He supported incentives to build circuit boards in the U.S. instead of overseas; this is a supply chain measure and does not show a view on export controls."
+}
+]
+}
+},
+"signature": "No notable public AI activity found; a retired National Guard general focused on defense and farm policy whose only tech record is votes and cosponsorships against Chinese-linked technology.",
+"notable_quote": null,
+"groups": [],
+"search_notes": "Ran about 12 news searches (artificial intelligence, AI, data center/xAI/Southaven, chatbot/deepfake/TikTok/Big Tech, NDAA AI, China chips/semiconductors, Big Beautiful Bill/AI moratorium, Section 230/social media, DeSoto turbines, intelligence authorization) and read his official site's press release listings for 2024, 2025 and 2026, his newsletter listing, and his legislation page. Nothing on AI, data centers, or the Southaven xAI turbines appeared. Verified his TikTok votes on GovTrack. The leads under his name in the state context file (S. 4682, S. 5117, SASC hearings on AI targeting, Anthropic) concern Sen. Mark Kelly of Arizona, not Trent Kelly, and were disregarded. He chairs the House Armed Services Subcommittee on Seapower and Projection Forces and sits on the Intelligence Committee, but neither role is AI-specific so no group is listed. No AI super PAC activity found (aimoneywatch page did not render)."
+}
+]

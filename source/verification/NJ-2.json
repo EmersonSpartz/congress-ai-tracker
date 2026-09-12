@@ -1,0 +1,436 @@
+[
+{
+"bioguide": "C001136",
+"checks": [
+{
+"url": "https://www.booker.senate.gov/imo/media/doc/pjm_letter_5225final.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-02",
+"note": "booker.senate.gov returns 403 to fetches; retrieved via Wayback Machine (3-page PDF). Quote appears verbatim. Letter dated May 2, 2025, signed by Booker, Kim, Norcross, Pallone, McIver, Herbert C. Conaway Jr., Gottheimer, Sherrill, Pou (nine NJ members). It attributes the capacity auction spike to data center demand plus insufficient new generation, asks PJM to speed interconnection/new supply and avoid price spikes, and does not call for limits on data centers. Claim accurately characterized."
+},
+{
+"url": "https://conaway.house.gov/media/press-releases/conaway-and-murphy-introduce-bill-protect-patients-ai-assisted-insurance",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Page loaded directly (200), published 2026-07-24. Quote appears verbatim, attributed to Congressman Conaway, MD. Page describes physician attestation of independent medical judgement for denials and HHS authority to audit AI use in prior authorization (denial data, algorithms, overturn rates). Claim supported."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF fetched directly (fetch tool returned 0 chars; extracted with pypdf). Quote appears verbatim. Letter dated November 26, 2025; Herbert C. Conaway, Jr. listed among signers. Letter states it is 'simply wrong to accept the premise that identifying and addressing AI-specific risks, and setting common-sense guardrails, is incompatible with U.S. leadership in AI,' matching the claim."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Same PDF. Addressed to Speaker Johnson, Leaders Thune, Jeffries and Schumer; expresses 'strong opposition' to an NDAA moratorium on state/local AI law enforcement and to a proposed executive order preempting state AI laws and conditioning federal funds. Conaway is a signer. Claim supported."
+},
+{
+"url": "https://conaway.house.gov/media/press-releases/conaway-and-murphy-introduce-bill-protect-patients-ai-assisted-insurance",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Quote appears verbatim on the page as Conaway's own words (2026-07-24 press release). Suitable as headline quote."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "S000522",
+"checks": [
+{
+"url": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=415797",
+"verdict": "confirmed",
+"corrected_quote": "AI data centers pose critical environmental risks and impose undue stresses on local resources—including water and electricity—which place significant financial burdens on ratepayers and residents",
+"corrected_date": "2026-08-24",
+"note": "Press release (dated 2026-08-24, meeting Aug 20) uses the exact phrase 'mutual opposition to the development of AI data centers in the Township—and Ocean County overall' and says Smith 'strongly supports' the county commissioners' resolution urging land-use safeguards before approving data centers. Quote is a verbatim fragment of a longer sentence."
+},
+{
+"url": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=415797",
+"verdict": "confirmed",
+"corrected_quote": "The reasonable concerns of local residents must no longer be steamrolled by tech companies seeking profit over Americans’ quality of life—not on my watch.",
+"corrected_date": "2026-08-24",
+"note": "Quote is verbatim except it omits the closing '—not on my watch.' Page also says residents 'deserve to have their voices heard.' Claim matches."
+},
+{
+"url": "https://patch.com/new-jersey/manchester-nj/data-center-ban-introduced-manchester",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-26",
+"note": "Patch (2026-08-26) reports Manchester Twp. introduced a data-center ban ordinance after resident pushback, notes the mayor met with Commissioner Arace and Rep. Chris Smith, and reprints both Smith quotes. Smith is not quoted endorsing the ban itself; the article just ties his statement to the ordinance story, which is what the claim says."
+},
+{
+"url": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=415797",
+"verdict": "confirmed",
+"corrected_quote": "The reasonable concerns of local residents must no longer be steamrolled by tech companies seeking profit over Americans’ quality of life—not on my watch.",
+"corrected_date": "2026-08-24",
+"note": "Same quote as item 2; verbatim apart from the dropped '—not on my watch.' ending."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the four items touches AI safety or AI risk regulation; the assigned -1 has no supporting evidence in the sources provided.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "Only evidence is a single 'tech companies seeking profit' line about data-center siting; nothing on platform/Big Tech regulation. Too thin for a -1 unless other sources exist.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "preemption",
+"objection": "No source addresses federal preemption of state AI laws. The only evidence here shows him siding with local/county control against tech developers, which if anything cuts against a 'leans national rule' +1.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "china_chips",
+"objection": "No source mentions chip export controls or China; the -1 is unsupported by the items provided.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "G000583",
+"checks": [
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-announces-plan-and-bipartisan-legislation-to-lower-utility-bills-for-jersey-families",
+"verdict": "confirmed",
+"corrected_quote": "All of those data centers today will open up a host of new doors we haven’t even thought of – and they’ll take energy.",
+"corrected_date": null,
+"note": "Quote verbatim (item truncates before the dash clause). Page repeatedly discusses permitting reform and lost generation capacity; frames AI/data center demand as coming growth to be served with more supply."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-hosts-more-energy-lower-utility-bills-roundtable-calls-for-all-of-the-above-approach-to-bring-down-skyrocketing-energy-costs",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Direct fetch 404, WebFetch 404, Wayback fallback connection refused / 404. Slug may be wrong; the release could not be located via the site press search either."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-statement-on-pjms-cost-increasing-electricity-auction-raising-rates-again-for-jersey-families",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-24",
+"note": "Quote verbatim. Statement blames PJM's 'disastrous auction failure', PJM delaying supply projects, and Trump's reconciliation bill; data centers are not mentioned at all, so 'not data centers' is an inference from silence."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-ahead-of-power-grid-operator-pjms-2025-electricity-auction-gottheimer-demands-answers-to-prevent-another-rate-hike-for-jersey-families",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-10",
+"note": "Quote verbatim in the Gottheimer-Smucker letter to PJM ahead of the 2026/2027 capacity auction."
+},
+{
+"url": "https://www.booker.senate.gov/imo/media/doc/pjm_letter_5225final.pdf",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "booker.senate.gov returns 403 to both fetch tool and WebFetch; Wayback fallback connection refused. Could not verify quote or Gottheimer's signature."
+},
+{
+"url": "https://gottheimer.house.gov/posts/statement-gottheimer-supports-pacing-the-frontier-petition-future-of-responsible-ai-innovation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-04",
+"note": "Quote verbatim; 'deeply concerning' and support for international effort to manage rate of automated AI development both on page."
+},
+{
+"url": "https://gottheimer.house.gov/posts/statement-gottheimer-statement-on-white-house-ai-framework",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim. Page calls framework a 'half-measure', says it 'fails to address ... strong accountability for AI companies' and lacks protections around 'AI models and agent safety'. Date not captured."
+},
+{
+"url": "https://www.transformernews.ai/p/fable-anthropic-trump-mythos-export-controls-white-house-amodei",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-19",
+"note": "Quote verbatim in the bullet roundup. Article says 'mandatory testing of frontier AI models for national security risks' but does not itself say 'pre-deployment'; minor overreach in claim wording."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-introduces-bipartisan-bill-to-stop-rogue-ai-agents-and-keep-people-in-control",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim. Bill directs NIST to develop standards for discovering, verifying, controlling AI agents and requires federal contractors and agencies to build them in."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-announces-bipartisan-legislation-to-require-labels-on-ai-generated-content",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-01",
+"note": "Quote verbatim. FTC with NIST sets metadata label rules and enforces them; applies to all AI-generated content."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-lawler-urge-ftc-to-protect-anti-discrimination-safeguards-in-ai-as-proposed-rule-threatens-civil-rights-protections",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-04",
+"note": "Quote verbatim; letter asks FTC to 'add an explicit civil-rights safe harbor'."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-helps-lead-bipartisan-bicameral-bill-to-promote-artificial-intelligence-innovation-in-financial-services",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-30",
+"note": "Quote verbatim; Unleashing AI Innovation in Financial Services Act with Chairman French Hill."
+},
+{
+"url": "https://www.cnbc.com/2026/04/15/ai-2026-elections-midterms-campaign-donations.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-15",
+"note": "Quote verbatim; Tech Oversight Project-led coalition letter asks the five to 'disavow' Leading the Future."
+},
+{
+"url": "https://www.transformernews.ai/p/fable-anthropic-trump-mythos-export-controls-white-house-amodei",
+"verdict": "confirmed",
+"corrected_quote": "who has been endorsed by both pro-industry PAC Leading the Future and pro-safety group Public First Action",
+"corrected_date": "2026-06-19",
+"note": "Quote fragment appears verbatim. Article does not say he is 'one of the few' so endorsed; that characterization is the tracker's."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-announces-bipartisan-parents-decide-act-to-protect-kids-online",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim. Bill requires OS developers like Apple and Google to verify ages at device setup and flow parental settings to apps and AI platforms, including chatbots."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-announces-new-bipartisan-legislation-to-ban-ai-surveillance-pricing-at-grocery-stores-delivery-services",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-18",
+"note": "Quote verbatim; bill prohibits grocery retailers and third-party delivery platforms from AI surveillance pricing."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-leads-letter-demanding-president-trump-crack-down-on-ccp-linked-tech-companies-tiktok-and-deepseek",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-05",
+"note": "Quote verbatim; 'U.S. technology companies are not above scrutiny' also on page."
+},
+{
+"url": "https://gottheimer.house.gov/posts/statement-gottheimer-statement-on-white-house-ai-framework",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim; opening line says the framework 'broadly blocks state AI laws'."
+},
+{
+"url": "https://gottheimer.house.gov/posts/statement-house-ai-commission-on-ai-discussion-draft",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-04",
+"note": "Quote verbatim and statement is hosted on Gottheimer's site. But the statement never mentions preemption or the three-year freeze, and does not itself state Gottheimer's co-chair role; those details come from Roll Call, not this page."
+},
+{
+"url": "https://rollcall.com/2026/06/10/rush-to-regulate-ai-divides-democrats-in-congress/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-10",
+"note": "Roll Call names Gottheimer as a leader of the commission and quotes the commission's rejection, and reports that the draft's three-year preemption drew heavy criticism (AFL-CIO, ACLU, ARI opposed the preemption). It does not explicitly say the commission's objection centered on preemption; the linkage is implied by context."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-moolenaar-introduce-bipartisan-bill-to-close-loophole-in-advanced-ai-chip-export-controls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-26",
+"note": "Quote verbatim; bill targets adversaries 'renting what they can't buy' via U.S. cloud providers."
+},
+{
+"url": "https://gottheimer.house.gov/posts/release-gottheimer-bipartisan-colleagues-introduce-legislation-to-defend-american-ai-innovation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-12",
+"note": "NSA AI Security Playbook; background cites DeepSeek's 'illegal distillation techniques'."
+},
+{
+"url": "https://gottheimer.house.gov/posts/statement-gottheimer-supports-pacing-the-frontier-petition-future-of-responsible-ai-innovation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-04",
+"note": "Quote verbatim."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "P000034",
+"checks": [
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-calls-national-ai-data-center-moratorium-energy-subcommittee-markup",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-24",
+"note": "Quote verbatim in opening remarks at Energy Subcommittee markup of eight bills; names Asbury Park, Red Bank, Old Bridge, Sayreville moratoria and New Brunswick stopping a project."
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-blasts-republicans-weak-response-data-centers-crisis",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Quote verbatim. Page confirms Speaker Johnson/Scalise refused to bring up the Ratepayer Protection Act and that he called the Water Cost Accountability Act 'woefully inadequate to address the environmental concerns of data centers.' Hearing was in the Environment Subcommittee on Safe Drinking Water Act bills."
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-blasts-republicans-weak-response-data-centers-crisis",
+"verdict": "confirmed",
+"corrected_quote": "People are just sick and tired of corporate special interests and Big Tech billionaires taking over their neighborhoods and threatening their utility bills, their air, their water, and their property.",
+"corrected_date": "2026-09-03",
+"note": "The item's wording matches the pull-quote at the top of the release exactly; the spoken remarks include the word 'just'. Framing of Big Tech imposing costs is supported."
+},
+{
+"url": "https://www.eenews.net/articles/pallone-plots-data-center-crackdown/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Quote verbatim. Article confirms guardrails-first (pollution rules, siting standards, ratepayer protections) with moratorium as backstop if Democrats retake House, staff meetings with Google, Microsoft, Anthropic, Meta, Oracle, Amazon, and the letter to Musk on Colossus 1 and 2. Article calls Musk's company 'SpaceXAI' rather than xAI."
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/ec-democratic-leaders-demand-ferc-protect-families-skyrocketing-energy-bills",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Quote verbatim (Pallone and Castor). Letter asks that large-load customers fully pay for grid upgrades and that grid operators offer load flexibility, but on states it only asks FERC to 'provide clarity on jurisdictional boundaries between federal and state regulation,' which is weaker than 'respect state jurisdiction.'"
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-opening-statement-energy-legislative-hearing",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-04-29",
+"note": "Quote verbatim. He said the Ratepayer Protection Pledge 'isn't worth the paper it's written on because it doesn't have any mechanisms to hold Big Tech companies accountable.' He did not call the bills 'small steps'; he said they 'include good ideas' but 'don't meet the moment.' Page titles the event 'Energy Legislative Hearing', not 'AI and the Grid'."
+},
+{
+"url": "https://www.booker.senate.gov/imo/media/doc/pjm_letter_5225final.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-02",
+"note": "Direct fetch returned 403; retrieved via Wayback Machine. Letter dated May 2, 2025 to PJM, signed by Booker, Kim, Norcross, Pallone, McIver, Conaway, Gottheimer, Sherrill, Pou; attributes the $14.7B capacity cost and expected 17 percent NJ bill increase largely to data center demand."
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-opening-remarks-oversight-hearing-ai-chatbots",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-18",
+"note": "Quote verbatim. He cites cases of users 'taking their own lives' after chatbot conversations, chatbot data collection/privacy risks, and 'a clear and urgent need for high-quality research on chatbots and greater oversight so that Congress can develop appropriate AI guardrails.'"
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-floor-remarks-support-kids-act",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-29",
+"note": "Quote verbatim. Page confirms the KIDS Act 'mandates safeguards, parental tools, and policies across video games, social media platforms ... and chatbots.' The page does not state that Pallone co-led the bill; it describes it as bipartisan legislation he supported on the floor."
+},
+{
+"url": "https://energycommerce.house.gov/posts/chairman-guthrie-and-ranking-member-pallone-applaud-ftc-decision-to-investigate-safety-of-ai-chatbots",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-11",
+"note": "Joint Guthrie/Pallone statement dated Sep 11, 2025; quote verbatim; they 'strongly support' the FTC inquiry and are 'hopeful Congress will be able to build on this work with durable, bipartisan legislation.'"
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/ec-democrats-investigate-elon-musks-grok-spreading-rampant-non-consensual",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-02-19",
+"note": "Quote verbatim from Pallone, Schakowsky and Clarke's letter to Musk, which asks what safety guardrails were implemented and demands answers by March 5, 2026. The page says images were created 'at an alarming rate' but does not give the 'thousands' figure."
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-republicans-appear-be-purposefully-trying-lose-ai-race-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-09",
+"note": "Quote verbatim; he also says 'the bedrock of any AI regulation must be privacy legislation built on the principle of limiting the amount of consumer data collected, used, and shared.' Full Committee hearing 'Converting Energy into Intelligence'."
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-republicans-secure-data-act-bill-assembled-industry-friendly-state",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-03",
+"note": "Quote verbatim. He calls the bill 'notice-and-consent by a different name' with 'expansive preemption' and points to data minimization and algorithmic accountability in prior bipartisan compromises. Note: the event was a CMT Subcommittee legislative hearing, not a markup."
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-republicans-kids-safety-bills-let-big-tech-hook",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-03-05",
+"note": "Quote verbatim (Full Committee markup of nine bills). Knowledge-standard loophole and preemption harming accountability for Meta and Roblox are confirmed. The page is his opening statement and does not record how he voted."
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-floor-remarks-support-kids-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-29",
+"note": "'bipartisan legislation to protect kids online and rein in Big Tech' appears verbatim; page confirms the bill bans targeted advertising to kids and teens and requires data brokers selling minors' data to register with the FTC."
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-launches-surveillance-pricing-inquiry",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-12",
+"note": "Quote verbatim from letters to 25 companies. Letters ask whether companies use AI or machine learning to set prices and cite Instacart's AI pricing tool; page says the lack of a strong federal privacy standard 'created a regulatory gray area allowing surveillance pricing practices to surge.'"
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-opening-remarks-oversight-hearing-ai-chatbots",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-18",
+"note": "Quote verbatim; he references the 'Big Ugly Bill' attempt to block state AI regulation for a decade and warns Republican leadership 'may try that same misguided effort again very soon.'"
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/ec-democrats-press-ntia-administrator-bead-funding-updates-stress-trump",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-10",
+"note": "Quote verbatim from Pallone, Matsui and Clarke's March 10, 2026 follow-up letter to NTIA, sent one day before NTIA guidance on the December executive order threatening BEAD funds for states with AI laws."
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-floor-remarks-support-kids-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-29",
+"note": "Quote verbatim; he adds the KIDS Act 'is a floor, not the ceiling' and that preemption is meant to preserve ongoing lawsuits by state AGs against social media, chatbot and social gaming companies."
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-republicans-secure-data-act-bill-assembled-industry-friendly-state",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-03",
+"note": "Quote verbatim. Event was a legislative hearing, not a markup."
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-republicans-kids-safety-bills-let-big-tech-hook",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-05",
+"note": "Quote verbatim; next sentences say the new preemption standards are inadequate to let states pass stronger laws, 'especially as we consider how quickly technology can evolve with artificial intelligence.'"
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-republicans-appear-be-purposefully-trying-lose-ai-race-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-09",
+"note": "Quote verbatim. Context is Trump tariffs on steel, aluminum and chips and the threat to repeal the CHIPS and Science Act; no mention of export controls, so treating it as context-only for china_chips is correct."
+},
+{
+"url": "https://democrats-energycommerce.house.gov/media/press-releases/pallone-calls-national-ai-data-center-moratorium-energy-subcommittee-markup",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-24",
+"note": "Headline quote appears verbatim."
+}
+],
+"score_objections": []
+}
+]

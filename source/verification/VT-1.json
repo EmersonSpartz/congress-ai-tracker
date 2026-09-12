@@ -3,151 +3,116 @@
 "bioguide": "S000033",
 "checks": [
 {
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-25",
-"note": "Fetched via Wayback (site 403s direct). Quote appears verbatim in Sanders' own statement. Release says the moratorium lasts until safeguards ensure AI 'does not increase electricity or utility prices, harm communities or destroy the environment.'"
-},
-{
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-yes-we-need-a-moratorium-on-data-center-construction",
+"url": "https://www.sanders.senate.gov/press-releases/news-sanders-yes-we-need-a-moratorium-on-data-center-construction/",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-02-23",
-"note": "Verbatim. Statement reacts to Denver mayor's data center moratorium and closes with 'We need a federal moratorium on AI data centers.'"
+"note": "Site returns 403 to scripted fetches and Wayback was rate-limited; loaded in the browser pane. Quote verbatim. Statement reacts to Denver moratorium, praises city/state officials, and calls for a federal moratorium; ties data centers to land, water and electricity costs."
+},
+{
+"url": "https://rollcall.com/2026/03/25/data-center-moratorium-pitched-as-counter-to-ai-impacts/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-25",
+"note": "Quote verbatim. Article says at the news conference Sanders said a moratorium would 'give us time' to understand AI risks and 'protect working families', matching the claim."
 },
 {
 "url": "https://www.foxnews.com/opinion/sen-bernie-sanders-yes-we-must-hit-pause-button-ai-before-it-is-too-late",
 "verdict": "confirmed",
-"corrected_quote": "Further, AI data centers are raising electricity prices, straining water systems and harming the environment. That is why 75% of Americans oppose data centers near where they live and why over 500 communities have put in place restrictions on their construction.",
+"corrected_quote": null,
 "corrected_date": "2026-09-01",
-"note": "Quote is verbatim apart from the dropped leading 'Further,' and the truncated end of the sentence. Op-ed bylined Sanders; data centers are one plank of his case for an AI pause."
+"note": "Quote verbatim. Page headline is 'America's future cannot be left to Big Tech oligarchs and uncontrolled AI' (URL slug differs). Fox News audience; argues data centers raise electricity prices, strain water, harm environment."
 },
 {
 "url": "https://www.eenews.net/articles/bernie-sanders-endorses-data-center-moratorium/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2025-12-17",
-"note": "Verbatim; E&E says he endorsed the moratorium in a social media video Tuesday (Dec 16, 2025), 'likely becoming the first member of Congress to do so.'"
+"corrected_date": "2025-12-16",
+"note": "Quote verbatim, attributed to a video on social media. Article (published 2025-12-17) says he endorsed the moratorium 'Tuesday' (Dec 16, 2025), 'likely becoming the first member of Congress to do so', matching the hedged claim."
 },
 {
-"url": "https://www.huffpost.com/entry/bernie-sanders-artificial-intelligence-data-centers_n_6aa29295e4b0975b6717438d",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-10",
-"note": "Verbatim in the Q&A transcript; he cites communities, Republican governors and New York's executive order as evidence the idea went mainstream."
-},
-{
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
+"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-09-03",
-"note": "Verbatim. Release describes a permanent superintelligence ban, a pause until a new federal AI agency sets rules, and penalties of up to 20 years in prison plus a 'corporate death penalty.' Note the bill is described as forthcoming ('to Introduce'), not yet filed as of Sept 3."
+"note": "Loaded via browser pane after 403 to scripted fetch. Quote verbatim. Release describes permanent ban, pause until federal regulator sets rules, new cabinet-level agency, 20-year prison penalties and corporate death penalty. 'Strictest in Congress' is the tracker's characterization, but the page supports the substance."
 },
 {
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai",
-"verdict": "confirmed",
+"url": "https://www.axios.com/2026/09/03/bernie-sanders-superintelligence-ban-ai-pause",
+"verdict": "partially_supported",
 "corrected_quote": null,
-"corrected_date": "2026-08-10",
-"note": "Verbatim from his letter to Anthropic, Meta and OpenAI; release also quotes 'If you do not take appropriate action now, my colleagues and I in the U.S. Senate will.'"
-},
-{
-"url": "https://www.sanders.senate.gov/op-eds/ai-poses-unprecedented-threats-congress-must-act-now",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-02",
-"note": "Verbatim (first paragraph). He says as HELP ranking member he undertook an investigation and asks whether humans could lose control of the planet."
-},
-{
-"url": "https://www.foxnews.com/opinion/sen-bernie-sanders-yes-we-must-hit-pause-button-ai-before-it-is-too-late",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-01",
-"note": "Verbatim; the Reagan-Gorbachev nuclear arms control comparison immediately follows."
-},
-{
-"url": "https://www.huffpost.com/entry/bernie-sanders-artificial-intelligence-data-centers_n_6aa29295e4b0975b6717438d",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-10",
-"note": "Verbatim. He says the pause idea 'is going to generate more and more interest' and that he is hosting a closed-door meeting 'next Wednesday, the 16th' with leading experts for members; the article does not literally say 'Senate briefing' but the description matches."
+"corrected_date": "2026-09-03",
+"note": "Only the article lede was accessible (rest paywalled). It explicitly states Sanders 'is the first prominent American politician to call for an outright ban on superintelligence', confirming the claim. The X-post quote ('immediate PAUSE ... permanent BAN') was NOT visible in the accessible text, so the quote could not be verified against this page."
 },
 {
 "url": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-09-09",
-"note": "Verbatim (preceded by 'Mr. Coxon is right.'). The Hill says he responded to Coxon's resignation post touting his forthcoming superintelligence ban."
-},
-{
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-introduces-legislation-to-create-7-trillion-ai-sovereign-wealth-fund",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-18",
-"note": "Verbatim. Release describes a 50% public stake, an Independent Commission to block company decisions, and a requirement to break up combined AI and non-AI businesses."
-},
-{
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-releases-report-on-big-tech-oligarchs-war-against-workers-warns-ai-could-eliminate-nearly-100-million-u-s-jobs",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2025-10-06",
-"note": "Quote is verbatim. The release lists profit sharing, board seats, employee ownership, a robot tax and the PRO Act, but does NOT mention a 32-hour workweek; that item of the claim is not supported by this page (it may be in the full report, which was not checked)."
-},
-{
-"url": "https://www.huffpost.com/entry/bernie-sanders-artificial-intelligence-data-centers_n_6aa29295e4b0975b6717438d",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-10",
-"note": "Verbatim; he blames the 'very corrupt campaign finance system' and AI industry spending for colleagues' hesitation."
-},
-{
-"url": "https://www.sanders.senate.gov/op-eds/ai-poses-unprecedented-threats-congress-must-act-now",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-02",
-"note": "Verbatim. Op-ed dated Dec 2, 2025 criticizes the planned executive order blocking state AI regulation; the EO was signed Dec 11, 2025, so 'days before' is fair (9 days). Signing date not on this page."
-},
-{
-"url": "https://www.welch.senate.gov/welch-joins-legislation-to-block-trumps-illegal-executive-order-undermining-ai-state-safeguards",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": null,
-"note": "Fetched via Wayback. Page lists Bernie Sanders (I-Vt.) as a cosponsor of Markey's States' Right to Regulate AI Act, which was also filed as an appropriations amendment to block the EO. Page shows no publication date."
-},
-{
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-25",
-"note": "Verbatim. Export ban is framed around AI safety, worker protection and environment, not chips or China specifically; China is not named."
-},
-{
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-03",
-"note": "Verbatim from the 'Working to ban superintelligence around the world' bullet; export controls are one tool alongside international agreements."
-},
-{
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-upcoming-u-s-china-ai-talks",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-05-11",
-"note": "Verbatim. He says he convened American and Chinese scientists at the Capitol and calls for progress toward a treaty banning superintelligence, with a Reagan-Gorbachev analogy."
+"note": "Quote verbatim, attributed to Sanders on social media responding to Anthropic researcher Coxon's post. Supports framing of existential danger and use of insider warnings."
 },
 {
 "url": "https://www.foxnews.com/opinion/sen-bernie-sanders-yes-we-must-hit-pause-button-ai-before-it-is-too-late",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-09-01",
-"note": "Verbatim; urges Trump and Xi to negotiate an agreement protecting humanity from AI disaster."
+"note": "Quote verbatim. Op-ed goes on to invoke Reagan-Gorbachev as a model for international agreement; supports 'worldwide pause' claim."
 },
 {
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai",
+"url": "https://www.sanders.senate.gov/op-eds/ai-poses-unprecedented-threats-congress-must-act-now/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-08-10",
-"note": "Verbatim from the Aug 10, 2026 letter release."
+"corrected_date": "2025-12-02",
+"note": "Loaded via browser pane. Quote verbatim. Op-ed (The Guardian) identifies him as HELP ranking member conducting an AI investigation, raises loss of human control, ends 'Congress must act now'. Also criticizes Trump EO blocking states from regulating AI."
+},
+{
+"url": "https://www.meritalk.com/articles/sen-sanders-introduces-bill-to-ban-superintelligent-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim. Page describes up to 20 years in prison for individuals, 'corporate death penalty' for entities, and international agreements/export controls. Note headline says 'introduces' though release says 'forthcoming'; no page date extracted."
+},
+{
+"url": "https://rollcall.com/2026/06/18/sovereign-wealth-fund-tax-on-ai-companies-unveiled-by-sanders/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-18",
+"note": "Quote verbatim. Article says public control of voting shares would give 'the American people the ability to prevent AI developments which will negatively impact their lives', and board could stop decisions causing job loss. Supports claim."
+},
+{
+"url": "https://www.foxnews.com/opinion/sen-bernie-sanders-yes-we-must-hit-pause-button-ai-before-it-is-too-late",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Quote verbatim; the sentence continues 'including Elon Musk, Jeff Bezos, Mark Zuckerberg, Peter Thiel and Larry Ellison', matching the claim. Page headline matches item title."
+},
+{
+"url": "https://www.welch.senate.gov/welch-joins-legislation-to-block-trumps-illegal-executive-order-undermining-ai-state-safeguards/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Fetched via Wayback (2026-04-21 capture). Quote verbatim. Sanders listed among cosponsors of the States' Right to Regulate AI Act, which targets the executive order blocking state AI regulation. Page shows no date."
+},
+{
+"url": "https://punchbowl.news/article/tech/sanders-us-china-debate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-03",
+"note": "Quote verbatim in the free preview (article is paywalled beyond the lede). Same page's related-story blurb says Republicans are slamming Sanders for inviting two Chinese AI researchers to Capitol Hill, supporting the Republican-criticism element."
+},
+{
+"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Quote verbatim. However the release's bill summary also lists 'policies such as export controls to prevent the development of artificial superintelligence anywhere in the world', so the claim that his China focus is 'not on chip sales' overstates it slightly; export controls are named as a tool, though the framing is treaty-first and not about chip-sales volume."
+},
+{
+"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Quote verbatim, attributed to Sanders in the Sept 3, 2026 release."
 }
 ],
 "score_objections": []
@@ -156,112 +121,112 @@
 "bioguide": "W000800",
 "checks": [
 {
-"url": "https://www.welch.senate.gov/welch-joins-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers",
+"url": "https://www.welch.senate.gov/welch-joins-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers/",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-01-22",
-"note": "Direct fetch 403 and Wayback rate-limited (429); page loaded in browser pane instead. Quote is verbatim from Welch's statement. Page says he joined Van Hollen in introducing the Power for the People Act; bill directs FERC to make data centers pay for local transmission upgrades and directs states to evaluate new data-center rate classes."
+"note": "Direct fetch 403 (Akamai); Wayback snapshot 2026-05-12 loaded. Quote appears verbatim as Welch's own words. Release describes Power for the People Act (Van Hollen lead, Welch joined) making data centers pay for interconnection/transmission upgrades and managing interconnection to protect grid reliability. Dated Jan 22, 2026."
 },
 {
-"url": "https://www.welch.senate.gov/welch-leads-new-england-senators-in-call-for-answers-about-how-new-regional-data-centers-will-drive-up-energy-costs-for-consumers",
+"url": "https://www.welch.senate.gov/welch-leads-new-england-senators-in-call-for-answers-about-how-new-regional-data-centers-will-drive-up-energy-costs-for-consumers/",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-01-28",
-"note": "Verbatim quote from the senators' letter to ISO-NE CEO Vamsi Chadalavada. Page confirms Welch led and was joined by Shaheen, Blumenthal, Reed, Markey, Whitehouse; cites 13% residential price increase in first nine months of 2025."
-},
-{
-"url": "https://www.welch.senate.gov/welch-mccormick-introduce-bipartisan-rewire-act-to-meet-americas-growing-energy-demand",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-02",
-"note": "Verbatim Welch quote. Page confirms REWIRE Act creates a NEPA categorical exclusion for capacity-increasing projects in existing rights-of-way (reconductoring, GETs, storage). Note the release does not mention ratepayer protection for data centers explicitly; the 'pairs' framing is the tracker's synthesis of items 1-3."
+"note": "Loaded via Wayback after direct 403. Quote verbatim from the senators' letter to ISO-NE. Page says Welch 'led five Northeastern lawmakers' (six senators total including Welch); letter warns growth will 'drive up energy costs and degrade reliability.' Dated Jan 28, 2026."
 },
 {
 "url": "https://vtdigger.org/2026/02/24/vermont-plugs-into-the-data-center-conversation/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-02-24",
-"note": "Fetched directly (200). Article states Welch joined other federal lawmakers urging ISO-NE to protect ratepayers by requiring data centers to pay for their own electricity including grid upgrades, in the context of Vermont's data center debate."
+"corrected_date": null,
+"note": "Article (2026-02-24) states Welch joined other federal lawmakers urging ISO-NE to protect ratepayers by requiring data centers to pay for their own electricity, including grid upgrades. Matches claim; article is about Vermont's data center debate broadly, Welch is a brief mention."
 },
 {
-"url": "https://www.welch.senate.gov/welch-leads-bipartisan-bill-to-protect-musicians-artists-and-creators-from-unauthorized-ai-training",
+"url": "https://www.welch.senate.gov/welch-leads-bipartisan-bill-to-protect-musicians-artists-and-creators-from-unauthorized-ai-training/",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2025-07-25",
-"note": "Verbatim Welch quote. Page confirms TRAIN Act reintroduced with Blackburn, Schiff, Hawley."
+"note": "Loaded via Wayback after direct 403. Quote verbatim as Welch's statement. Release (Jul 25, 2025) describes TRAIN Act's administrative subpoena process letting copyright holders learn whether their works were used to train a model. Welch leads with Blackburn."
 },
 {
-"url": "https://www.welch.senate.gov/welch-and-blackburn-host-20-music-artists-on-capitol-hill-to-discuss-protecting-creators-from-ai-harm",
+"url": "https://nypost.com/2025/08/20/business/senators-press-mark-zuckerberg-over-metas-ai-bots-sensual-chats-with-kids/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-04-22",
-"note": "Verbatim Welch quote. Roundtable on TRAIN Act and NO FAKES Act during GRAMMYs on the Hill."
+"corrected_date": "2025-08-20",
+"note": "Quote verbatim from the senators' letter. Article says a bipartisan group of eleven senators signed; Welch listed among additional signers. Senators demanded Meta ban targeted advertising to minors and implement mental health referral systems. Claim matches."
 },
 {
-"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-welch-probe-ai-chatbot-apps-on-safeguards-for-children/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-04-03",
-"note": "Direct fetch 403; loaded in browser. Quote verbatim from the senators' letter. Letters to Character.AI, Chai, Replika CEOs on self-harm/suicide risks and how models are trained to respond to mental health conversations."
-},
-{
-"url": "https://www.welch.senate.gov/bipartisan-group-of-senators-alarmed-by-meta-policies-on-kids-use-of-ai-chatbots-requests-answers-from-zuckerberg",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-08-21",
-"note": "Reposted Spectrum News story (posted on Welch site Sep 9, 2025; original story Aug 21, 2025). Quote verbatim from the letter. Welch listed among 10 signers with Hawley, Schatz, Britt, Wyden, Coons, Gallego, Van Hollen, Klobuchar, Bennet; letter asked Meta to ban targeted ads to under-18s and cited Reuters report on romantic/sensual chats with children."
-},
-{
-"url": "https://www.welch.senate.gov/welch-joins-bicameral-bill-to-protect-medicare-benefits-from-trump-admins-dangerous-ai-experiment",
+"url": "https://www.welch.senate.gov/welch-joins-bicameral-bill-to-protect-medicare-benefits-from-trump-admins-dangerous-ai-experiment/",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2025-12-18",
-"note": "Verbatim Welch quote. Seniors Deserve SMARTER Care Act would bar CMS from implementing the WISeR AI prior-authorization model in Traditional Medicare."
+"note": "Loaded via Wayback after direct 403. Quote verbatim as Welch's statement. Release (Dec 18, 2025) describes WISeR model allowing private companies to use AI to approve or deny Traditional Medicare procedures; bill would halt it."
 },
 {
-"url": "https://www.welch.senate.gov/after-weak-live-nation-ticketmaster-antitrust-deal-welch-joins-bicameral-bill-to-ensure-antitrust-settlements-benefit-consumers-over-special-interests",
+"url": "https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-03-17",
-"note": "Verbatim Welch quote. Antitrust Accountability and Transparency Act extends Tunney Act court review to the FTC and strengthens court review of settlements."
+"note": "Quote verbatim from the Blackburn-Welch letter to ByteDance CEO Liang Rubo. Article supports the claim that they want Seedance 2.0 shut down and safeguards implemented against infringing outputs featuring real people and copyrighted characters."
 },
 {
-"url": "https://www.welch.senate.gov/welch-blackburn-urge-bytedance-to-immediately-shut-down-seedance-2-0-ai-video-model-following-copyright-infringement",
+"url": "https://www.blackburn.senate.gov/2026/4/ai/blackburn-welch-hold-roundtable-with-over-20-artists-who-support-no-fakes-act-and-train-act-to-protect-creators-from-ai-harms",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-03-17",
-"note": "Verbatim quote from the letter to ByteDance CEO Liang Rubo. Letter uses the phrase 'industrial-scale copyright infringement and deepfake abuses' and demands immediate shutdown of Seedance 2.0."
+"corrected_date": "2026-04-22",
+"note": "Loaded via Wayback snapshot 2026-05-21. Quote verbatim as Welch's statement. Roundtable with Blackburn (R) on NO FAKES Act (deepfakes/digital replicas) and TRAIN Act (training-data transparency). Dated April 22, 2026."
 },
 {
-"url": "https://www.welch.senate.gov/welch-joins-legislation-to-block-trumps-illegal-executive-order-undermining-ai-state-safeguards",
+"url": "https://www.meritalk.com/articles/bipartisan-bill-would-create-ai-task-force-for-us-courts/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim (first two sentences of Welch's statement). Article describes the Research and Oversight of AI in Courts Act of 2026 (Hageman, Wicker, Welch) creating a task force on AI speech-to-text technologies in federal courts. Page gives no publication date; bill is 2026. Note the bill is a study/task force, a modest oversight step."
+},
+{
+"url": "https://www.vermontpublic.org/show/vermont-edition/2025-01-06/sen-peter-welch-wants-to-better-regulate-generative-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-06",
+"note": "Quote verbatim from the show description. Interview transcript has Welch saying creators with copyrights 'should have compensation' and describing his bill to let artists ask AI companies whether their work is used. Supports the claim."
+},
+{
+"url": "https://thehill.com/newsletters/technology/5656105-section-230-fight-is-back/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Quote verbatim. Newsletter (Dec 18, 2025) covers the Durbin-Graham bill to sunset Section 230; Welch listed among cosponsors. Supports claim."
+},
+{
+"url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=626",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-20",
+"note": "Quote verbatim within a longer Welch statement. Page says 'U.S. Senators Peter Welch and Ron Wyden are leading the Senate version of the bill' (End Rent Fixing Act of 2025). Claim says he leads; accurate, though co-led with Wyden."
+},
+{
+"url": "https://www.welch.senate.gov/welch-joins-legislation-to-block-trumps-illegal-executive-order-undermining-ai-state-safeguards/",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-01-07",
-"note": "Verbatim Welch quote; he continues 'Congress must reverse President Trump's order so we can get to work on commonsense policies at the federal level that protect individuals and communities.' Page does not itself give the Dec 11, 2025 EO date but the States' Right to Regulate AI Act targets that order."
+"note": "Loaded via Wayback after direct 403. Quote verbatim as Welch's statement; he continues 'Congress must reverse President Trump's order so we can get to work on commonsense policies at the federal level.' Release dated Jan 7, 2026; Welch joined Markey's bill, also filed as an appropriations amendment."
 },
 {
-"url": "https://www.wyden.senate.gov/news/press-releases/bipartisan-members-of-congress-call-on-commerce-department-to-block-americans-from-working-for-russian-and-chinese-intelligence-agencies",
+"url": "https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-08-25",
-"note": "Loaded in browser. Quote verbatim. Welch listed with Wyden, Cornyn, Harrigan, Jacobs, McCaul. Letter concerns export controls on U.S. persons aiding foreign civilian intelligence agencies (surveillance, cyber, AI technology), not chip sales; the claim's caveat is accurate."
+"corrected_date": "2026-03-17",
+"note": "Quote verbatim, attributed to Blackburn and Welch's letter. Article is about copyright and likeness infringement by Seedance 2.0; nothing about chips or export controls, so it correctly supports a null china_chips position rather than any score."
 },
 {
-"url": "https://www.welch.senate.gov/welch-joins-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers",
+"url": "https://www.welch.senate.gov/welch-joins-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers/",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-01-22",
-"note": "Headline quote is verbatim from Welch's statement in the Power for the People Act release."
+"note": "Same page as item 1 (Wayback 2026-05-12). Quote verbatim, attributed to Senator Welch. Release dated Jan 22, 2026."
 }
 ],
-"score_objections": [
-{
-"dimension": "china_chips",
-"objection": "The only source is an August 2026 letter about closing an export-control loophole for U.S. persons working with foreign civilian intelligence agencies (surveillance, cyber, AI tools). It says nothing about semiconductor export controls or chip sales to China, and the item itself concedes this. One tangential letter is too thin to place Welch on the chips scale at all.",
-"suggested_score": null,
-"suggested_label": null
-}
-]
+"score_objections": []
 },
 {
 "bioguide": "B001318",
@@ -270,99 +235,78 @@
 "url": "https://www.govtrack.us/congress/bills/119/hr8241/cosponsors",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-04-27",
-"note": "GovTrack cosponsor table for H.R. 8241 (Power for the People Act of 2026, Tonko; creates data center load queues and data-center-specific rate classes to shield other ratepayers) lists 'Balint, Becca [D-VT]  April 27, 2026'."
+"corrected_date": null,
+"note": "GovTrack cosponsor list shows 'Balint, Becca [D-VT]  April 27, 2026'. Bill page (hr8241) title: 'To promote the creation of data center load queues and data center-specific rate classes to mitigate the impact of data centers on other electricity consumers' (sponsor Tonko, introduced April 9, 2026), which supports the ratepayer-protection characterization."
 },
 {
 "url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=789",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-07-27",
-"note": "Quote appears verbatim, attributed to Rep. Balint. Bill summary matches: bans addictive design features for youth, research/task force, penalties up to $5,000 per youth impacted (plus $10M for refusing data to researchers). Site dateline reads 'July 27, 2027', an obvious typo on the page; actual date is July 27, 2026."
-},
-{
-"url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=741",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-05-20",
-"note": "Quote verbatim from Balint. Release dated May 20, 2026; she says she is 'proud to join Representatives Dean and Salazar in introducing' the NO FAKES Act, so 'co-led' is fair given her name is first in the headline."
+"corrected_date": null,
+"note": "Quote appears verbatim in Balint's statement. Release says the Addictive Design Act would ban AI chatbot companies from letting youth access chatbots with design features known to increase addiction, unhealthy emotional attachment, and compulsive use. Fetch tool reported a metadata date of 2027-07-27, which is impossible; actual date not visible in extracted text (likely July 27, 2026), so item date should be double-checked."
 },
 {
 "url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-08-10",
-"note": "Quote verbatim from the letter excerpt. Release says 19 members signed, lists Becca Balint (VT-AL), calls for CEOs to answer 'under oath', and cites OpenAI, Anthropic and Meta announcing models escaped test environments."
+"note": "Quote verbatim from the letter excerpt. Balint (VT-AL) is listed among the 19 signers. Release says the letter follows AI companies announcing their models escaped test environments, calls for CEOs to answer under oath, and asks about 'the types of regulation required to make sure they never happen again.'"
+},
+{
+"url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=741",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-20",
+"note": "Quote verbatim from Rep. Balint's statement. Release headline: Balint, Dean, Salazar, Blackburn, Coons reintroduce NO FAKES Act; she says she is 'proud to join Representatives Dean and Salazar in introducing' the bill to protect the right to control voice and likeness. 'Co-leads' is fair per the headline billing."
 },
 {
 "url": "https://www.wcax.com/2026/06/11/ai-generated-video-vermont-congressional-race-tests-new-state-disclosure-law/",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-06-11",
-"note": "Quote verbatim; article says Balint called the video a deepfake and 'said more guardrails are needed on the technology.'"
+"note": "Quote verbatim. Article says Balint called the video 'creepy,' described it as a deepfake, and 'said more guardrails are needed on the technology.'"
 },
 {
 "url": "https://democrats-judiciary.house.gov/media-center/press-releases/rep-balint-s-opening-statement-at-subcommittee-hearing-on-trump-s-corruption-of-antitrust-enforcement",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2025-12-16",
-"note": "Quote verbatim from her Dec 16, 2025 opening statement. Statement says bipartisan antitrust bills are 'rightly, targeted at Big Tech' and 'Senator Lee's AMERICA Act would reform or break up dominant tech firms.'"
+"note": "Quote verbatim from her Dec. 16, 2025 opening statement at the hearing 'Anti-American Antitrust: How Foreign Governments Target U.S. Businesses.' Also says 'I'm concerned about Big Tech beating up on Americans!' and defends the 2021 bipartisan tech antitrust bills against Chair Jordan's opposition."
 },
 {
 "url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=756",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-06-29",
-"note": "Quote verbatim (grep tool initially missed it due to apostrophe encoding; found via 'Big Tech' search). Statement issued after 'voting against the Kids Internet and Digital Safety Act'; page names her Democratic lead of the bipartisan Protecting Young Minds Online Act."
-},
-{
-"url": "https://www.hollywoodreporter.com/business/business-news/doj-probe-fox-roku-deal-1236650991/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-16",
-"note": "Quote verbatim from the July 16 letter to DOJ; article says the Democrats were 'led by U.S. Senator Elizabeth Warren and U.S. Representative Becca Balint.' Article published July 17, 2026."
+"note": "Quote verbatim. Statement issued after she voted against the Kids Internet and Digital Safety Act; she says the bill 'doesn't do nearly enough to hold Big Tech accountable.'"
 },
 {
 "url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=626",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2025-11-19",
-"note": "Quote verbatim. Release describes RealPage/Yardi rent algorithms as 'exactly how a price fixing cartel operates'; bill introduced Nov 19, 2025 (release posted Nov 20)."
-},
-{
-"url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=487",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-04-09",
-"note": "Quote verbatim from Balint as founding member of the Monopoly Busters Caucus; release frames it around antitrust enforcement and corporate concentration."
-},
-{
-"url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=647",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-01-22",
-"note": "Balint and Jayapal sent letters to Meta and Google demanding they end ICE ad partnerships. Supports the claim, though the topic is immigration/ad-content policy rather than tech regulation per se; weak evidence for the tech_regulation dimension."
+"corrected_date": "2025-11-20",
+"note": "Quote verbatim. Release describes the End Rent Fixing Act (Balint and Chuy Garcia) targeting algorithmic rent-setting services like RealPage and Yardi as price fixing offered as a service."
 },
 {
 "url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2025-11-26",
-"note": "PDF extracted locally (fetch tool returned 0 chars). Quote verbatim. Letter dated Nov 26, 2025 to Johnson, Thune, Jeffries, Schumer; opposes NDAA moratorium, preemption EO, and conditioning BEAD funds; 'Becca Balint, Member of Congress' appears among signers."
+"note": "PDF (extracted locally; fetch tool returned 0 chars) dated November 26, 2025. Quote verbatim: 'That vote sent a clear, bipartisan message: Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.' References the Senate's 99-1 vote and opposes reviving the moratorium in the NDAA or via executive order. Becca Balint appears in the signature list."
 },
 {
 "url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2025-12-03",
-"note": "Quote verbatim; Becca Balint listed among the 44 signers urging exclusion of AI moratorium/preemption from FY26 NDAA."
+"note": "Quote verbatim. Balint listed among the 44 signers urging leaders 'to prevent any AI moratorium or preemption from being included in the final FY26 NDAA.'"
 },
 {
-"url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=789",
+"url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=741",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-07-27",
-"note": "Quote verbatim from Balint in the Addictive Design Act release (site dateline shows a 2027 typo)."
+"corrected_date": "2026-05-20",
+"note": "Headline quote appears verbatim in her NO FAKES Act reintroduction statement (May 20, 2026)."
 }
 ],
 "score_objections": []

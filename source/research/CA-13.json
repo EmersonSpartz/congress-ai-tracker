@@ -1,0 +1,732 @@
+[
+{
+"bioguide": "M001241",
+"name": "Dave Min",
+"signature": "Freshman Democrat who signed the House letter against a federal moratorium on state AI laws and cosponsors the CHATBOT Act; little other public AI activity found.",
+"notable_quote": {
+"text": "it would be especially irresponsible to tell states they cannot act when there are no meaningful federal protections in place.",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. He has pushed grid upgrades to meet rising power demand and lower bills, but did not mention data centers.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Min amendment on advanced conductors and grid capacity passes House",
+"url": "https://min.house.gov/media/press-releases/watch-rep-dave-min-passes-amendment-lower-electricity-costs-modernize-energy",
+"date": "2025-12-11",
+"quote": "An aging and inefficient grid is bottlenecking the growing demand for new and reliable power, causing prices to go up and limiting the electrons that can reach areas that need this electricity.",
+"what_it_shows": "He wants to expand grid capacity to meet load growth and cut bills, but the release never mentions data centers, so it does not establish a data center position."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward targeted guardrails. He cosponsors the CHATBOT Act on chatbot transparency and a bill on securing advanced AI systems, and signed a letter citing chatbot harms, but has no known speeches or statements of his own on AI risk.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7985 CHATBOT Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7985",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "Backs rules making AI chatbot companies be upfront and transparent so users are not harmed."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3919 Advanced AI Security Readiness Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3919",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "Supports having the NSA write a playbook to protect frontier AI systems from theft by rival countries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2385 CREATE AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2026-03-24",
+"quote": null,
+"what_it_shows": "Supports a public computing resource for AI research; neutral on risk rules."
+},
+{
+"type": "letter",
+"title": "Letter: 81 House Democrats led by Rep. Matsui oppose AI moratorium in NDAA and preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "it would be especially irresponsible to tell states they cannot act when there are no meaningful federal protections in place.",
+"what_it_shows": "The letter he signed cites chatbot-linked suicides and deepfakes and calls for common-sense guardrails rather than freezing safeguards."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward targeted rules based on cosponsorships: foreign robocall crackdown, making social media report drug sales, and cutting off abusers' remote access to cars. No broader Big Tech statements found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6152 Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2025-12-16",
+"quote": null,
+"what_it_shows": "Supports a crackdown on scam robocalls from overseas."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6259 No Fentanyl on Social Media Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6259",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Would make social media companies report and act against drug sales on their platforms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2110 Safe Vehicle Access for Survivors Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"date": "2025-03-14",
+"quote": null,
+"what_it_shows": "Supports a targeted consumer-protection rule on connected-car data and app access."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Opposes federal preemption of state AI laws. He signed the November 2025 letter from 81 House Democrats telling congressional leaders not to revive the state AI-law moratorium in the defense bill or impose it by executive order.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: 81 House Democrats led by Rep. Matsui oppose AI moratorium in NDAA and preemption executive order (Dave Min is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws",
+"what_it_shows": "Min's name appears in the signer list; the letter says states should keep the power to enforce their own AI laws while no federal protections exist."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China. His only chip-related action is cosponsoring a tax break for building chip factories in America.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 802 STAR Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2025-11-20",
+"quote": null,
+"what_it_shows": "Supports extending the tax credit for domestic chip factories; says nothing about export controls."
+}
+]
+}
+},
+"search_notes": "Searches: 'Dave Min' artificial intelligence; 'Dave Min' data center; chatbot/deepfake/Big Tech/Section 230; Oversight hearing AI; Nvidia/chips/export controls; electricity/ratepayers; Korea platform regulation; CHATBOT Act; plus a site listing of min.house.gov (only 5 AI/energy pages archived since 2025) and the OC Register 2026 candidate questionnaire (no AI or data center content). Opened the grid-amendment release, the Matsui letter PDF (confirmed Min as a signer on page 6), the Casar press release (Min is NOT among the 20 signers of the Aug 2026 letter to Speaker Johnson, contrary to the landscape lead), and the Clarke letter (not a signer). The landscape lead listing him in the Congressional AI Caucus as 'TX-30' is a mismatch; his own caucus page lists no AI caucus. The Washington Post Apr 16 2026 piece on a closed-door AI briefing and a WSJ Jan 2026 Korea tech story could not be opened (Google News links not decodable)."
+},
+{
+"bioguide": "I000056",
+"name": "Darrell Issa",
+"signature": "Chairs the House Judiciary subcommittee on intellectual property, AI and the internet; favors industry self-regulation and a national standard over state AI laws, with targeted protection against AI copies of people's voices and faces.",
+"notable_quote": {
+"text": "every day, many of the largest organizations in communications self-regulate, and AI has to be the same way.",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20"
+},
+"groups": [
+"Chairman, House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet (119th Congress)",
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress), member",
+"Congressional Artificial Intelligence Caucus, member (listed on his committees and caucuses page)",
+"House Judiciary Subcommittee on the Administrative State, Regulatory Reform, and Antitrust, member"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. He voted for the SPEED Act permitting bill and talks about nuclear power and California's high electricity prices, but has not addressed data centers or their effect on bills.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 4776 SPEED Act (House roll call 356), a NEPA permitting reform bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He backed faster federal permitting for energy and infrastructure projects; the bill is not specific to data centers."
+},
+{
+"type": "interview",
+"title": "Washington Reporter interview with eight GOP lawmakers on AI and energy costs",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20",
+"quote": "I expect that California will still have artificially high prices",
+"what_it_shows": "He blames state policy for high power bills and favors modular nuclear reactors; he does not mention data centers."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "high",
+"summary": "Light touch. He says AI companies should self-regulate with government helping set standards and offering liability limits, and that Congress should listen and learn rather than regulate right away. He does back narrow laws against AI copies of people's voices and likenesses.",
+"evidence": [
+{
+"type": "interview",
+"title": "Washington Reporter interview: Issa on AI self-regulation and standards",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"date": "2026-01-20",
+"quote": "We don't have safer electricity because the government mandated it; we have it because the government accepted the standards that were set by the market",
+"what_it_shows": "He wants industry-set standards, possibly facilitated by the Commerce Department, plus liability limits as a reward, rather than mandates."
+},
+{
+"type": "statement",
+"title": "Press release: Issa selected to Congressional AI Task Force",
+"url": "https://issa.house.gov/media/press-releases/issa-selected-congressional-ai-task-force",
+"date": "2024-02-20",
+"quote": "rather than looking to regulate right away, now is the time for the government to listen, learn, and resolve to bring out the best AI has to offer",
+"what_it_shows": "His stated starting point is to hold off on regulation and study the technology first."
+},
+{
+"type": "statement",
+"title": "Press release: Issa introduces Preventing Abuse of Digital Replicas Act (PADRA)",
+"url": "https://issa.house.gov/media/press-releases/congressman-issa-introduces-landmark-legislation-stop-misuse-ai-generated",
+"date": "2024-12-20",
+"quote": "avoiding burdensome regulations that would hinder U.S. innovation or competitiveness in AI technology",
+"what_it_shows": "Even his deepfake-likeness bill is framed as a private right of action with no new agency, to avoid regulation that slows AI."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 10025, trademark-law protection against digital replicas of individuals",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10025",
+"date": "2026-08-03",
+"quote": null,
+"what_it_shows": "He keeps pushing a narrow, litigation-based fix for AI copies of a person's face or voice."
+},
+{
+"type": "sponsor",
+"title": "Sponsor (118th): H.R. 10550 Preventing Abuse of Digital Replicas Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/10550",
+"date": "2024-12-20",
+"quote": null,
+"what_it_shows": "Targeted guardrail on AI deepfakes of real people, the one area where he wants new law."
+},
+{
+"type": "statement",
+"title": "The Hill: Issa remarks at House Foreign Affairs markup of the AI Overwatch Act",
+"url": "https://thehill.com/policy/technology/5699863-congress-ai-overwatch-act-chips-export/",
+"date": "2026-01-21",
+"quote": "Let me assure you, Congress is not a good regulator",
+"what_it_shows": "A general skepticism of Congress writing regulatory rules for AI-related markets."
+}
+]
+},
+"tech_regulation": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. He attacks Big Tech for censoring conservatives and wants legal changes to stop it, raised antitrust concerns about a Netflix bid for Warner Bros., and sponsored a bill making online marketplaces liable for counterfeits. But he also defends US tech giants against foreign regulation and prefers industry self-regulation.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Issa: Need More Than Apologies After Big Tech Censorship",
+"url": "https://issa.house.gov/media/press-releases/issa-need-more-apologies-after-big-tech-censorship",
+"date": "2021-11-16",
+"quote": "it is way too late for anything but a pledge of transparency from Big Tech and a commitment of reform from Congress",
+"what_it_shows": "He wants Congress to change the law to curb platform content removal he sees as censorship."
+},
+{
+"type": "statement",
+"title": "Press release: Issa open letter to technology companies on free speech",
+"url": "https://issa.house.gov/media/press-releases/issa-us-technology-companies-uphold-free-speech-dont-tip-political-scale",
+"date": "2022-12-06",
+"quote": "for too long, they have abused this power to control information on their platforms",
+"what_it_shows": "Frames Big Tech as holding unprecedented power over speech that needs a check."
+},
+{
+"type": "letter",
+"title": "Issa letter to Justice Department on potential Netflix bid for Warner Bros. Discovery (listed on his site)",
+"url": "https://issa.house.gov/media/in-the-news",
+"date": "2025-11-17",
+"quote": "expressing antitrust concerns over reports of Netflix potentially acquiring the studio and streaming properties of Warner Bros./Discovery",
+"what_it_shows": "He is willing to push antitrust enforcement against a large streaming platform."
+},
+{
+"type": "interview",
+"title": "Washington Reporter: Issa on foreign regulation of US tech firms after a Judiciary antitrust hearing",
+"url": "https://washingtonreporter.news/scoop-rep-darrell-issa-on-foreign-regulations-the-relevant-market-in-antitrust-is-now-the-world/",
+"date": "2025-12-19",
+"quote": "The relevant market in antitrust is now the world. And in tech, it is the world.",
+"what_it_shows": "He defends dominant US tech companies against European and Korean regulation, a pro-industry stance on Big Tech rules."
+},
+{
+"type": "sponsor",
+"title": "Sponsor (118th): H.R. 8684 SHOP SAFE Act of 2024",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8684",
+"date": "2024-06-11",
+"quote": null,
+"what_it_shows": "Would make online marketplaces liable for counterfeit goods unless they screen sellers, a targeted platform rule."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 4791 Free Speech Protection Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4791",
+"date": "2023-07-20",
+"quote": null,
+"what_it_shows": "Bars officials from pressuring platforms to remove posts; aimed at government, not at regulating the companies."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Leans toward one national standard. As subcommittee chair he convened a September 2025 hearing built around preempting the 'patchwork' of state AI laws, titled 'A Nationwide Strategy or Californication?', and asked witnesses how far federal preemption should reach. He has not endorsed a specific moratorium bill.",
+"evidence": [
+{
+"type": "hearing",
+"title": "House Judiciary IP/AI subcommittee hearing chaired by Issa: 'AI at a Crossroads: A Nationwide Strategy or Californication?'",
+"url": "https://judiciary.house.gov/committee-activity/hearings/ai-crossroads-nationwide-strategy-or-californication",
+"date": "2025-09-18",
+"quote": "will examine how preempting a patchwork of state-level regulations - which could hinder innovation and impose significant costs on the industry - can help reverse misguided regulatory actions in the states",
+"what_it_shows": "The hearing he chaired was framed to make the case for federal preemption of state AI laws, especially California's."
+},
+{
+"type": "hearing",
+"title": "R Street summary of the Sept 18, 2025 hearing, including Issa's questions",
+"url": "https://www.rstreet.org/commentary/testimony-in-review-adam-thierers-september-2025-testimony-before-the-house-judiciarys/",
+"date": "2025-09-25",
+"quote": null,
+"what_it_shows": "Issa asked witnesses whether federal preemption should cover regulation of AI inputs or only outputs, treating preemption as the working premise and debating its scope."
+},
+{
+"type": "other",
+"title": "House Bipartisan Task Force on AI final report, preemption chapter (Issa was a member)",
+"url": "https://www.speaker.gov/wp-content/uploads/2024/12/AI-Task-Force-Report-FINAL.pdf",
+"date": "2024-12",
+"quote": null,
+"what_it_shows": "The task force he served on called preemption complex and recommended only a study, so his own hearing framing in 2025 marks a firmer lean toward preemption."
+}
+]
+},
+"china_chips": {
+"score": 0,
+"confidence": "low",
+"summary": "Mixed. He voted 'present' on the AI Overwatch Act, which would let Congress block AI chip sales to China, saying Congress is not a good regulator, but he also cosponsors a bill to study whether existing chip export controls work.",
+"evidence": [
+{
+"type": "statement",
+"title": "The Hill: House Foreign Affairs advances AI Overwatch Act 42-2-1; Issa votes present",
+"url": "https://thehill.com/policy/technology/5699863-congress-ai-overwatch-act-chips-export/",
+"date": "2026-01-21",
+"quote": "Let me assure you, Congress is not a good regulator",
+"what_it_shows": "He declined to back a bill tightening congressional control over chip exports, warning it would make Congress a regulator, and asked for changes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8287 Semiconductor Controls Effectiveness Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8287",
+"date": "2026-04-15",
+"quote": null,
+"what_it_shows": "Supports a government study of whether limits on advanced chip sales to China are working; neutral on tightening or loosening."
+}
+]
+}
+},
+"search_notes": "Searches: 'Darrell Issa' artificial intelligence; Issa AI Overwatch chips; Issa preemption/state AI laws/moratorium; Issa data center/Nvidia/Section 230; Californication hearing; NO FAKES/digital replica; Issa Trump AI executive order; Big Tech/antitrust; H200/H20; Semiconductor Controls Effectiveness Act; plus a full site listing of issa.house.gov (31 AI/tech/energy pages) and his live press-release and in-the-news listings. Opened: The Hill markup story (confirmed 'present' vote and quote), Washington Reporter interview (Jan 2026) and scoop (Dec 2025), Judiciary hearing page, R Street hearing summary, PADRA release, AI Task Force release, AI issues page, Big Tech censorship and free-speech releases, Smart Cities energy briefing (no data center content), utility-rates release (2022, not data centers), committees and caucuses page (confirms AI Caucus membership and subcommittee chairmanship), govtrack roll call h356 (Yea). Several landscape leads under his name (Slotkin NDAA vote, S. 5345, AI Guardrails Act, Mythos) belong to Sen. Slotkin and were ignored. IPWatchdog and MLex items on his 2026 NO FAKES and site-blocking hearings could not be decoded or opened. He announced retirement in March 2026 (KPBS), not verified at the URL."
+},
+{
+"bioguide": "L000593",
+"name": "Mike Levin",
+"signature": "Lead sponsor of the SHIELD Act to keep data center grid costs off household electric bills; the California delegation's most active member on data center ratepayer protection.",
+"notable_quote": {
+"text": "Families should not be forced to subsidize massive energy costs for billion-dollar companies",
+"url": "https://levin.house.gov/media/press-releases/rep-mike-levin-introduces-new-bill-to-stop-data-centers-from-driving-up-electricity-prices-for-consumers",
+"date": "2026-01-14"
+},
+"groups": [
+"Sustainable Energy and Environment Coalition (SEEC), Vice Chair",
+"SEEC Clean Energy Deployment Task Force, Co-Chair (with Rep. Sean Casten)",
+"House Appropriations Subcommittee on Energy and Water Development, member"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Protect ratepayers first. He wrote the SHIELD Act to create a separate rate class so data centers using over 75 megawatts pay for their own grid upgrades, cosponsors five other data center bills on bills, siting and community impacts, signed a letter pressing FERC and utilities on data center costs, and voted against the SPEED Act permitting bill. He accepts AI growth but wants clear rules so families do not pay for it.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 7066 SHIELD Act (Stopping Hikes In Electricity from Large Load Demands)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7066",
+"date": "2026-01-14",
+"quote": null,
+"what_it_shows": "His own bill would make data centers over 75 MW a separate rate class that pays for the grid upgrades it needs, with an incentive to use zero-emission power."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Mike Levin introduces new bill to stop data centers from driving up electricity prices",
+"url": "https://levin.house.gov/media/press-releases/rep-mike-levin-introduces-new-bill-to-stop-data-centers-from-driving-up-electricity-prices-for-consumers",
+"date": "2026-01-14",
+"quote": "As we advance the future of artificial intelligence and data centers , we need to ensure that there are clear rules that protect consumers from higher bills and protect our climate from higher emissions.",
+"what_it_shows": "He does not oppose data centers but insists large users, not households, bear the costs."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6529 Protecting Families from AI Data Center Energy Costs Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2025-12-09",
+"quote": null,
+"what_it_shows": "Original cosponsor of a bill to keep data center transmission and generation costs off family bills."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7858 Data Center Community Impact Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7858",
+"date": "2026-08-10",
+"quote": null,
+"what_it_shows": "Would require data center developers to show effects on local power, water and bills."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 10321 Responsible Data Center Siting Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10321",
+"date": "2026-09-08",
+"quote": null,
+"what_it_shows": "Supports federal siting rules so data centers do not overload local power and water."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8241 Power for the People Act of 2026 (data center load queues and rate classes)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8241",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Another bill to shield other electricity customers from data center costs; joined June 18, 2026 per the govtrack cosponsor list."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9183 Artificial Intelligence Environmental Impacts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-06-15",
+"quote": null,
+"what_it_shows": "Supports measuring AI's electricity, water and pollution footprint."
+},
+{
+"type": "letter",
+"title": "Letter: 20 House Democrats led by Rep. Mullin to FERC, Edison Electric Institute and Data Center Coalition on data center energy costs (Levin is a signer)",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"date": "2025-10-28",
+"quote": "These staggering figures underscore the urgent need to protect ratepayers, both in the region served by PJM and nationwide.",
+"what_it_shows": "He joined a letter asking regulators, utilities and the industry how grid upgrade costs will be kept off household bills."
+},
+{
+"type": "statement",
+"title": "Press release: Levin and Casten introduce the Energy Bills Relief Act",
+"url": "https://levin.house.gov/media/press-releases/reps-levin-and-casten_seec-clean-energy-deployment-task-force-introduce-the-energy-bills-relief-act",
+"date": "2026-03-18",
+"quote": "ensures that data centers and large energy users pay their fair share instead of passing those costs onto families and small businesses",
+"what_it_shows": "His broader energy affordability package includes the data-centers-pay-their-own-way principle."
+},
+{
+"type": "interview",
+"title": "San Diego Union-Tribune candidate Q&A with Rep. Mike Levin",
+"url": "https://www.sandiegouniontribune.com/2026/05/07/qa-meet-rep-mike-levin-candidate-for-californias-49th-congressional-district/",
+"date": "2026-05-07",
+"quote": "I'll push to pass my Energy Bills Relief Act, which incentivizes utilities to save you money, ensures you don't subsidize data centers and modernizes our electric grid",
+"what_it_shows": "He lists not subsidizing data centers as a first priority if Democrats retake the House."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act (House roll call 356), NEPA permitting reform",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the Republican permitting bill often described as easing buildout of AI infrastructure."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Leans toward targeted guardrails. He cosponsors the AI Whistleblower Protection Act and earlier backed a ban on letting AI launch nuclear weapons and AI disclosure in political ads, but has made no notable public statements about AI danger.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3460 AI Whistleblower Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3460",
+"date": "2026-01-06",
+"quote": null,
+"what_it_shows": "Supports protecting AI company workers who report safety problems."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 2894 Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2023-05-15",
+"quote": null,
+"what_it_shows": "Backed a binding rule that a human, not AI, must decide any nuclear launch."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 9639 AI Ads Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9639",
+"date": "2024-11-22",
+"quote": null,
+"what_it_shows": "Supports requiring disclosure when political ads use AI-generated content."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2385 CREATE AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2025-12-11",
+"quote": null,
+"what_it_shows": "Supports public AI research infrastructure; neutral on risk rules."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Targeted rules. He cosponsored the Kids Online Safety Act, the children's online privacy update and a reproductive health data privacy bill, and voted to force TikTok's Chinese owner to divest over privacy and security risks.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 7891 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-10-11",
+"quote": null,
+"what_it_shows": "Supports a duty of care for apps to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 7890 Children and Teens' Online Privacy Protection Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7890",
+"date": "2024-06-25",
+"quote": null,
+"what_it_shows": "Supports tighter limits on collecting data from and targeting ads at minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 3420 My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2024-03-22",
+"quote": null,
+"what_it_shows": "Supports a privacy law limiting collection of reproductive health data."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Mike Levin's statement on the 'TikTok Bill'",
+"url": "https://levin.house.gov/media/press-releases/rep-mike-levins-statement-on-the-tiktok-bill",
+"date": "2024-03-13",
+"quote": "as a China-based company, ByteDance poses serious privacy and data security threats to millions of Americans, which is why I supported the passage of the bill",
+"what_it_shows": "He backed forcing divestiture of a major platform on privacy and security grounds while stressing he values free speech."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. He did not sign the November 2025 Matsui letter or the December 2025 Clarke letter against a state AI-law moratorium, and no statement on the executive order or the 2026 White House framework was located.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China as of Sept 2026. His China-related tech action has been on TikTok, not chips.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Mike Levin' data center(s); 'Mike Levin' artificial intelligence; chatbot/deepfake/Big Tech/preemption; Camp Pendleton data center; Pentagon data centers NDAA amendment; TikTok/Kids Online Safety/privacy; China/semiconductor/Nvidia; AI whistleblower/kill switch/AI safety; plus a full site listing of levin.house.gov (113 matching pages) and caucus page. Opened: SHIELD Act release, Energy Bills Relief Act releases (Mar 18 and Mar 23, 2026), Mullin-led letter on Beyer's site (confirmed signer), E&E News Mar 23, 2026 article, SDUT May 2026 Q&A, OC Register 2026 questionnaire (no AI content), TikTok statement, govtrack h356 (Nay), govtrack H.R. 8241 cosponsor list (confirmed June 18, 2026) and bill title, Matsui letter PDF and Clarke letter (not a signer of either). The Politico July 25, 2026 story on Pentagon base data centers returned 403 and the Wayback fallback was down, so the lead that he questioned base data centers is unverified and omitted. The cbs8 Jan 14, 2026 story could not be decoded. His committees and caucuses page does not list the Congressional AI Caucus, so that landscape lead was dropped."
+},
+{
+"bioguide": "P000608",
+"name": "Scott H. Peters",
+"signature": "Democratic co-lead of the Obernolte-Trahan Great American AI Act and FRONTIER Act; a permitting-reform centrist who wants frontier AI oversight and one national standard instead of a fifty-state patchwork.",
+"notable_quote": {
+"text": "The window to get AI policy right is closing, and Congress can't afford to miss it",
+"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+"date": "2026-07-23"
+},
+"groups": [
+"Great American AI Act / FRONTIER Act bipartisan sponsor group (Obernolte-Trahan), original co-lead",
+"House Energy and Commerce Subcommittee on Communications and Technology, member",
+"House Energy and Commerce Subcommittee on Energy, member",
+"Problem Solvers Caucus Permitting, Energy and Environment Working Group, co-leader (with Rep. Gabe Evans)",
+"New Democrat Coalition Climate Task Force, Chair",
+"Grid Innovation Caucus, member"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Build, with conditions. He pushes bills to speed up transmission lines to meet surging power demand and to stay ahead of China, while promising relief for ratepayers, and he co-leads the House AI framework. He voted against the SPEED Act permitting bill even while calling it progress, and has not spoken for or against specific data center projects.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Reps. Peters and Barr introduce the SPEED and Reliability Act on transmission permitting",
+"url": "https://scottpeters.house.gov/press-releases/reps-peters-and-barr-introduce-bill-to-slash-permitting-times-lower-energy-costs-and-prevent-blackouts",
+"date": "2025-09-26",
+"quote": "We cannot wait a decade plus for individual transmission lines to be approved if we don't want to fall behind China and our adversaries",
+"what_it_shows": "His bill with a Republican co-lead frames faster grid buildout as a race with China; his co-lead ties it directly to powering AI data centers."
+},
+{
+"type": "statement",
+"title": "Press release: Evans and Peters unveil the CLEAR Act to cut litigation delays for DOE-coordinated transmission projects",
+"url": "https://gabeevans.house.gov/media/press-releases/evans-peters-unveil-bill-address-transmission-project-bottlenecks-and-lower",
+"date": "2026-09-10",
+"quote": "Our grid is too old and too slow to meet our skyrocketing energy demand. We can't wait years for badly needed infrastructure to be built.",
+"what_it_shows": "He wants faster buildout of big power lines to meet demand growth, paired with relief for ratepayers from rising costs."
+},
+{
+"type": "statement",
+"title": "E&E News: Peters reacts as the SPEED Act heads to the House floor",
+"url": "https://www.eenews.net/articles/how-republicans-saved-the-speed-act-from-oblivion/",
+"date": "2025-12-17",
+"quote": "Even though I don't think it's perfect, I think it's progress. I don't think it's going to get fixed till it gets to the Senate",
+"what_it_shows": "A long-time NEPA reform advocate, he welcomed the permitting bill's advance even though he ultimately voted no."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Despite favoring permitting reform, he voted against the final Republican bill, a contradictory signal."
+},
+{
+"type": "statement",
+"title": "Trahan press release: Great American AI Act discussion draft released with Peters as a co-lead",
+"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
+"date": "2026-06-04",
+"quote": null,
+"what_it_shows": "He co-released the House AI framework, which treats AI growth as something to govern rather than pause."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Targeted guardrails. He helped introduce the FRONTIER Act, which requires the largest AI developers to provide transparency, independent evaluation and reporting of serious safety incidents, and says Congress must act before the technology outruns it.",
+"evidence": [
+{
+"type": "statement",
+"title": "Obernolte press release: FRONTIER Act introduced with Reps. Franklin, Peters, Houchin and Subramanyam",
+"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+"date": "2026-07-23",
+"quote": "The FRONTIER Act is a targeted bill with clear, uniform transparency, and safety standards, instead of a fifty-state patchwork. I'm glad to support this bipartisan effort so that Congress acts before this technology outruns us.",
+"what_it_shows": "He backs binding transparency, third-party evaluation and incident reporting for frontier AI models, framed as targeted rather than sweeping."
+},
+{
+"type": "statement",
+"title": "Trahan press release: Peters statement on the Great American AI Act discussion draft",
+"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
+"date": "2026-06-04",
+"quote": "This discussion draft will not address all of the issues our businesses and families will face, but it is an encouraging first step toward the bipartisan legislation needed to keep pace with the rapid advancement of AI.",
+"what_it_shows": "He wants federal AI legislation and sees the bipartisan framework as the vehicle."
+},
+{
+"type": "statement",
+"title": "Lowell Sun: Trahan pushes FRONTIER Act after Anthropic discloses AI breaches; Peters named as co-introducer",
+"url": "https://www.lowellsun.com/2026/08/03/lori-trahan-pushes-for-action-on-frontier-act-after-anthropic-discloses-breaches-by-its-ai/",
+"date": "2026-08-03",
+"quote": null,
+"what_it_shows": "Confirms he co-introduced the frontier oversight bill and supported the draft to develop a better bill reflecting how the technology works."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 5077 CREATE AI Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5077",
+"date": "2023-11-03",
+"quote": null,
+"what_it_shows": "Supports a public AI research resource; neutral on risk rules."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward targeted rules based on cosponsorships: a reproductive health data privacy bill and a bill cutting off abusers' remote access to connected cars. No broader statements on Big Tech, Section 230 or kids' online safety were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2110 Safe Vehicle Access for Survivors Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"date": "2025-03-27",
+"quote": null,
+"what_it_shows": "Supports a targeted rule on connected-car data and app access for abuse survivors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 3420 My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2024-10-18",
+"quote": null,
+"what_it_shows": "Supports privacy limits on collecting and sharing reproductive health data."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Leans toward one national standard. He co-released the Great American AI Act draft, which would preempt state laws on AI development for three years, and praised the FRONTIER Act for setting uniform standards 'instead of a fifty-state patchwork.' He did not sign the House Democratic letters against a state AI-law moratorium.",
+"evidence": [
+{
+"type": "statement",
+"title": "Obernolte press release: Peters statement on the FRONTIER Act",
+"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+"date": "2026-07-23",
+"quote": "The FRONTIER Act is a targeted bill with clear, uniform transparency, and safety standards, instead of a fifty-state patchwork.",
+"what_it_shows": "He argues for a single federal standard over varying state rules for frontier AI."
+},
+{
+"type": "other",
+"title": "Roll Call: Bipartisan AI draft proposes three-year preemption of state laws; Peters among members releasing it",
+"url": "https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/",
+"date": "2026-06-04",
+"quote": null,
+"what_it_shows": "The framework he co-released includes a three-year preemption of state AI development laws, which drew pushback from other Democrats."
+},
+{
+"type": "statement",
+"title": "Trahan press release: Peters calls the Great American AI Act draft 'an encouraging first step'",
+"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
+"date": "2026-06-04",
+"quote": "I really want to hear how the people affected feel about it.",
+"what_it_shows": "He endorsed the draft while leaving room to adjust it after public comment."
+},
+{
+"type": "other",
+"title": "IAPP: A view from DC on the Great American AI Act; notes Peters and Houchin are the Energy and Commerce members among the co-releasers",
+"url": "https://iapp.org/news/a/a-view-from-dc-a-bipartisan-blockbuster-bill-on-ai",
+"date": "2026-06-05",
+"quote": null,
+"what_it_shows": "Independent confirmation of his role as an original supporter of the preemption-bearing framework."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China. His chip record is about building chips in America: faster environmental review for chip factories and support for domestic circuit board makers.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 4549 Building Chips in America Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4549",
+"date": "2023-07-11",
+"quote": null,
+"what_it_shows": "Supports letting new chip factories skip some environmental reviews; about domestic buildout, not exports."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 3249 Protecting Circuit Boards and Substrates Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3249",
+"date": "2023-07-19",
+"quote": null,
+"what_it_shows": "Supports incentives for making circuit boards in America; says nothing about export controls."
+}
+]
+}
+},
+"search_notes": "Searches: 'Scott Peters' artificial intelligence; data center(s); chatbot/deepfake/preemption; Nvidia/export controls/Big Tech/Section 230; SPEED Act/permitting/Ratepayer Protection; CLEAR Act; Anthropic/OpenAI/frontier AI; Leading the Future/Think Big super PAC (nothing found); Kids Online Safety/E&C markup; AI Caucus/New Democrat; GAAIA preemption criticism; Qualcomm/chips (nothing). Site listing of scottpeters.house.gov (180 matching pages, archived through May 2026) plus his caucus page. Opened: Trahan and Obernolte releases (both quote him), Roll Call and IAPP on the GAAIA draft, Tech Times, Lowell Sun, SPEED and Reliability Act release, Gabe Evans CLEAR Act release, E&E News on the SPEED Act, govtrack h356 (Nay), his 2024 CHIPS permitting release (no quote captured), Matsui and Clarke letters (not a signer). Politico (Apr 30 and Jul 23, 2026), Daily Energy Insider (Apr 29, 2026) and Axios (Feb 26, 2026) returned 403 with the Wayback fallback down, so the landscape lead quoting him on the Anthropic-Pentagon deadline is unverified and omitted; the rtoinsider hearing summary was paywalled. The landscape lead placing him in the 'Senate AI Caucus' is a mismatch and was dropped. He is a Problem Solvers Caucus member per his caucus page and co-leads its permitting working group per the Evans release."
+}
+]

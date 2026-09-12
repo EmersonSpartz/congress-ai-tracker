@@ -1,0 +1,539 @@
+[
+{
+"bioguide": "C001113",
+"name": "Catherine Cortez Masto",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement on data centers found as of Sept 2026, despite Nevada's Boulder City fight and a Nevada Independent note that the senators have been quiet. Her only related legislative moves are tangential: a cosponsorship of a water-reuse tax credit that covers data center facilities and a bill she sponsored to toughen FERC enforcement against energy market manipulation.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4506 Advancing Water Reuse Act (joined June 16, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4506",
+"quote": null,
+"date": "2026-06-16",
+"what_it_shows": "She backs a tax credit for onsite water recycling that the bill text explicitly extends to data center facilities, a mild sign she wants water conservation attached to data center growth rather than a pause."
+},
+{
+"type": "other",
+"title": "Bill text of S.4506 on GovTrack listing data centers among qualifying facilities",
+"url": "https://www.govtrack.us/congress/bills/119/s4506/text",
+"quote": "installs, replaces, or modifies an onsite water recycling system within an industrial, manufacturing, data center, or food processing facility",
+"date": "2026-05-13",
+"what_it_shows": "Confirms the bill she cosponsored names data centers directly, though it is an incentive, not a rule."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.4351 Energy Consumer Protection Act of 2026 (with Cantwell)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4351",
+"quote": null,
+"date": "2026-04-21",
+"what_it_shows": "Her bill lets FERC bar repeat violators from energy markets to protect consumers, a ratepayer-protection instinct, but the text does not mention data centers or large loads."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "She supports targeted AI guardrails: she cosponsored the GUARD Act to keep kids away from AI companion chatbots and the TAKE IT DOWN Act on AI-faked intimate images. No statements found treating advanced AI as an existential danger or calling for licensing or a pause.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3062 GUARD Act (AI chatbot age checks, no AI companions for minors)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"quote": null,
+"date": "2026-01-12",
+"what_it_shows": "Backs binding rules on AI chatbot companies to verify ages and block kids from companion bots."
+},
+{
+"type": "statement",
+"title": "KSNV report: Federal bill could ban AI companions for kids, cosponsored by Cortez Masto",
+"url": "https://news3lv.com/news/local/federal-bill-could-ban-ai-companions-for-kids-and-teens-require-age-verification",
+"quote": "The proposed federal legislation, called the GUARD Act, is co-sponsored by Nevada Senator Catherine Cortez Masto.",
+"date": "2026-05-02",
+"what_it_shows": "Local coverage ties her name to criminal penalties for AI companies that expose minors to companion chatbots."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.146 TAKE IT DOWN Act (now law)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"quote": null,
+"date": "2025-02-05",
+"what_it_shows": "Supports criminal penalties and fast takedowns for AI-generated intimate deepfakes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4627 FARM AI Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4627",
+"quote": null,
+"date": "2026-05-21",
+"what_it_shows": "She also promotes AI adoption in agriculture, so her stance is pro-innovation with specific guardrails rather than skeptical of AI overall."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "A steady backer of targeted tech rules: kids' online safety (KOSA), platform accountability for child abuse material (STOP CSAM, EARN IT), reproductive data privacy, and she wrote her own national data privacy bill in 2023. She has not called for breaking up Big Tech or repealing Section 230 outright.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"quote": null,
+"date": "2025-10-09",
+"what_it_shows": "Supports a duty of care and safety defaults for minors on social media and gaming platforms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1829 STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"quote": null,
+"date": "2026-05-14",
+"what_it_shows": "Would let victims sue platforms that fail to remove child sexual abuse material, narrowing Section 230 protection."
+},
+{
+"type": "sponsor",
+"title": "Sponsor (118th): S.3337 DATA Privacy Act",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/3337",
+"quote": null,
+"date": "2023-11-15",
+"what_it_shows": "She authored a nationwide consumer data privacy law, the strongest signal she wants binding rules on how companies collect and use personal data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): S.1207 EARN IT Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1207",
+"quote": null,
+"date": "2023-04-19",
+"what_it_shows": "Supported stripping platforms' legal shield when they let child abuse material spread."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.2029 My Body, My Data Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2029",
+"quote": null,
+"date": "2025-06",
+"what_it_shows": "Continues her 118th Congress support for limits on collecting and selling reproductive health data (verified on GovTrack cosponsor list)."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.J.Res.129 disapproving CFPB withdrawal of the FCRA limited-preemption-of-state-laws rule",
+"url": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/129",
+"quote": null,
+"date": "2026-03-17",
+"what_it_shows": "She moved to block a CFPB rollback that would have narrowed states' room to regulate data brokers and credit data, a pro-consumer-privacy and pro-state-authority step."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. She voted Yea with 98 other senators to strip the 10-year state AI law moratorium in July 2025, but that vote alone is not a statement. I looked for comments on the moratorium, the Dec 2025 executive order and the Mar 2026 White House framework, and for cosponsorship of the States' Right to Regulate AI Act or GUARDRAILS Act, and found none.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the 10-year moratorium on state AI laws (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"quote": null,
+"date": "2025-07-01",
+"what_it_shows": "She joined the near-unanimous vote to remove the moratorium from H.R.1, which by itself does not reveal her view on federal preemption."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Firmly for tighter controls on advanced chips going to China. She cosponsored the Chip Security Act (location verification for exported chips), the AI OVERWATCH Act (congressional review of advanced AI chip sales to China), and the FIGHT China Act on outbound investment in Chinese military tech.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1705 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"quote": null,
+"date": "2026-04-13",
+"what_it_shows": "Backs built-in location verification so advanced chips cannot be smuggled into China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4456 AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4456",
+"quote": null,
+"date": "2026-04-30",
+"what_it_shows": "Would give Congress a say before the executive branch approves powerful AI chip sales to China, a direct check on H20/H200-style deals."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1053 FIGHT China Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1053",
+"quote": null,
+"date": "2025-03-13",
+"what_it_shows": "Supports reporting and blocking of US investment in Chinese companies building military or surveillance technology."
+}
+]
+}
+},
+"signature": "Cosponsor of the Chip Security Act and AI OVERWATCH Act on China chip exports, and of the GUARD Act on kids and AI chatbots; author of a 2023 national data privacy bill; quiet on data centers.",
+"notable_quote": null,
+"groups": [],
+"search_notes": "About 20 Google News queries plus GovTrack API pulls of her sponsored (119th) and cosponsored (392) bills. cortezmasto.senate.gov, banking.senate.gov, congress.gov and cornyn.senate.gov all returned Akamai 403s to the helper, curl and WebFetch, and the Wayback archive of her site is nearly empty, so none of her own press releases could be read; bill facts were verified on GovTrack instead. Google News link decoding was rate-limited (429) so most headlines could not be opened, including Legis1 'Senators Press FERC on Who Pays for Data Center Power' (Jul 29, 2026); that FERC letter lead stays unconfirmed. The 'Energy Consumer Protection Act with Cantwell' lead is confirmed as S.4351 (Apr 21, 2026) but it is a FERC enforcement bill, not a data center bill. Nevada Current and KLAS pages were 403. No AI super PAC activity found for her. S.753 'Strengthening Exports Against China Act' is an Export-Import Bank bill, not export controls, so it was left out."
+},
+{
+"bioguide": "R000608",
+"name": "Jacky Rosen",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. I checked the archive index of her Senate website (hundreds of tech and energy releases), Nevada outlets and national news; nothing on the Boulder City project, NV Energy rates from data centers, or data center bills. Her energy work focuses on clean energy tax credits and home energy costs.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.2681 Lowering Electric Bills Act (Schumer)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2681",
+"quote": null,
+"date": "2025-08-02",
+"what_it_shows": "Her main electricity-bill bill extends residential clean energy tax credits and does not address data centers or large loads, so it does not establish a data center position."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "She wants guardrails on specific AI harms while praising innovation: she pressed the White House not to deploy Grok in federal agencies over hate speech, asked the FTC to study AI surveillance pricing, pushed Hegseth on keeping a human in the loop for AI targeting, and raised AI bias at her CES panel. She has not called for licensing, a pause, or treated AI as an existential threat.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Senate Commerce hearing: Rosen presses OSTP Director Kratsios on federal use of Grok",
+"url": "https://www.rosen.senate.gov/2025/09/12/video-during-rosen-questioning-trump-administration-refuses-to-directly-commit-to-not-using-ai-bot-with-history-of-promoting-antisemitism",
+"quote": "will you commit to making sure that agencies do not use AI that promotes antisemitic conspiracy theories, hate speech, stereotypes? I could go on and on. This is blatantly wrong",
+"date": "2025-09-12",
+"what_it_shows": "She demanded accountability standards for AI models the government buys, citing xAI's failure to answer her bipartisan letter."
+},
+{
+"type": "letter",
+"title": "Letter to FTC Chair Ferguson on AI surveillance pricing",
+"url": "https://www.rosen.senate.gov/2025/03/26/rosen-pushes-back-on-attempts-to-use-ai-to-raise-prices",
+"quote": "Recent improvements in artificial intelligence (AI) and the accumulation of specific consumer data like geographic location and demographic information are allowing large corporate retailers to raise prices artificially, inconsistently, and unfairly",
+"date": "2025-03-26",
+"what_it_shows": "She wants regulators to scrutinize AI-driven personalized pricing as a consumer harm."
+},
+{
+"type": "hearing",
+"title": "The Verge: Rosen questions Hegseth on the Anthropic dispute and human control of AI targeting",
+"url": "https://www.theverge.com/ai-artificial-intelligence/921833/pete-hegseth-goes-out-of-his-way-to-call-anthropic-ceo-dario-amodei-an-ideological-lunatic",
+"quote": "whether he could guarantee a human would be in the loop on any targeting decisions made with AI",
+"date": "2026-04-30",
+"what_it_shows": "At a Senate Armed Services hearing she pushed for human control over military AI decisions, prompting Hegseth's attack on Anthropic's CEO."
+},
+{
+"type": "interview",
+"title": "Broadband Breakfast: Rosen moderates CES 2026 Senate panel on innovation and guardrails",
+"url": "https://broadbandbreakfast.com/ces2026-from-innovation-to-guardrails-senators-confront-techs-next-phase/",
+"quote": "Rosen closed the discussion by pressing panelists on unintended consequences, including bias in AI systems trained on historical data.",
+"date": "2026-01-09",
+"what_it_shows": "She frames AI policy as promoting innovation while identifying where guardrails are needed, and flags bias as a concern."
+},
+{
+"type": "statement",
+"title": "Press release: At CES 2026, Rosen leads Senate panel on emerging technologies",
+"url": "https://www.rosen.senate.gov/2026/01/09/at-ces-2026-rosen-leads-senate-panel-on-emerging-technologies",
+"quote": "I'm proud to have led another panel at CES to discuss what we're doing in Congress to foster innovation",
+"date": "2026-01-09",
+"what_it_shows": "Her own framing leans pro-innovation, which keeps her in the targeted-guardrails lane rather than strict-rules territory."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "She rejects self-regulation for tech platforms and argues they should face product-style liability, especially the largest ones, while worrying that scrapping Section 230 entirely could hurt community sites like Wikipedia. She cosponsors kids' online safety bills (Parents Over Platforms, ECCHO Act), the TAKE IT DOWN Act, and a ban on Chinese connected-car tech.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Senate Commerce hearing on 30 years of Section 230: Rosen remarks",
+"url": "https://www.techpolicy.press/transcript-senate-commerce-hearing-on-30-years-of-section-230/",
+"quote": "I just don't believe we can allow just self-regulation and our common law to be our guide. Just because technology moves quickly, it doesn't mean that we here in Congress shouldn't legislate or regulate where necessary",
+"date": "2026-03-19",
+"what_it_shows": "She compared platforms to makers of unsafe products, asked whether the largest platforms should face a different standard, but also raised concern that eliminating Section 230 could jeopardize decentralized sites like Wikipedia and Reddit."
+},
+{
+"type": "statement",
+"title": "KOLO: Rosen and Moran introduce the Parents Over Platforms Act",
+"url": "https://www.kolotv.com/2026/04/27/rosen-helps-introduce-bill-protecting-minors-online/",
+"quote": "certain apps pose real risks to children and teens, and we have a responsibility to keep our children safe when they go online or use social media",
+"date": "2026-04-27",
+"what_it_shows": "Her bipartisan bill would set rules for app stores and developers and give parents tools to manage kids' access."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4349 Parents Over Platforms Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4349",
+"quote": null,
+"date": "2026-04-20",
+"what_it_shows": "Formal backing for app store safeguards for minors."
+},
+{
+"type": "statement",
+"title": "Press release: TAKE IT DOWN Act passes Congress",
+"url": "https://www.rosen.senate.gov/2025/04/29/bipartisan-bill-rosen-helped-introduce-to-combat-explicit-deepfakes-passes-congress-heads-to-presidents-desk",
+"quote": "it's past time we took action to stop bad actors, protect victims, and hold social media sites accountable",
+"date": "2025-04-29",
+"what_it_shows": "She celebrated a law forcing platforms to remove non-consensual intimate images, including deepfakes, within 48 hours."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3397 ECCHO Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3397",
+"quote": null,
+"date": "2026-06-10",
+"what_it_shows": "Supports a federal crime for pressuring kids online into self-harm."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"quote": null,
+"date": "2026-07-29",
+"what_it_shows": "Backs banning connected-car software and parts from companies tied to China, Russia, Iran or North Korea."
+}
+]
+},
+"preemption": {
+"score": -1,
+"confidence": "medium",
+"summary": "She leans against federal preemption of state AI laws. In June 2025 she signed the Commerce Committee Democrats' letter to Chairman Cruz attacking the 10-year moratorium as trampling states' rights, then voted with 98 colleagues to strip it. No later statements found on the Dec 2025 executive order or the Mar 2026 framework, and she has not cosponsored the States' Right to Regulate AI Act.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Cantwell and 11 Commerce Committee Democrats, including Rosen, to Chairman Cruz on the reconciliation Commerce title",
+"url": "https://www.commerce.senate.gov/2025/6/cantwell-commerce-committee-democrats-call-for-regular-order-on-dangerous-and-damaging-commerce-title-of-reconciliation-bill",
+"quote": "the AI moratorium proposal tramples states' rights and holds the $42 billion BEAD program hostage, further delaying the broadband Americans desperately need",
+"date": "2025-06-11",
+"what_it_shows": "She signed on to a direct attack on the state AI law moratorium as an assault on states' rights."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the 10-year moratorium on state AI laws (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"quote": null,
+"date": "2025-07-01",
+"what_it_shows": "Her vote matched the position in the letter she had signed three weeks earlier."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Hawkish on Chinese AI inside US systems: she wrote the bill to ban DeepSeek from government devices and cosponsored a ban on federal use of AI from adversary countries, plus the connected-vehicle ban. No statements found on Nvidia H20/H200 sales or chip export control rules specifically.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.765 No DeepSeek on Government Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/765",
+"quote": null,
+"date": "2025-02-27",
+"what_it_shows": "She led a bipartisan bill to keep a Chinese AI model off all federal devices and networks."
+},
+{
+"type": "statement",
+"title": "Press release: Rosen, Husted, Ricketts introduce DeepSeek ban",
+"url": "https://www.rosen.senate.gov/2025/02/27/senators-rosen-husted-ricketts-introduce-bipartisan-bill-to-protect-american-government-devices-from-prc-controlled-ai-program",
+"quote": "This bipartisan legislation takes proactive steps to ban DeepSeek on all U.S. government devices, helping to further safeguard sensitive government data from the Chinese Communist Party.",
+"date": "2025-02-27",
+"what_it_shows": "Her own words frame Chinese AI as a national security threat to be walled off."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1638 Protection Against Foreign Adversarial Artificial Intelligence Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1638",
+"quote": null,
+"date": "2025-05-07",
+"what_it_shows": "Would stop the US government from using AI built by companies in China and other rival countries."
+}
+]
+}
+},
+"signature": "Former computer programmer who runs a Senate tech panel at CES each year; sponsor of the DeepSeek government-device ban, pressed the White House and Pentagon on AI guardrails, and signed the 2025 letter calling the state AI moratorium a trampling of states' rights.",
+"notable_quote": {
+"text": "I just don't believe we can allow just self-regulation and our common law to be our guide. Just because technology moves quickly, it doesn't mean that we here in Congress shouldn't legislate or regulate where necessary",
+"url": "https://www.techpolicy.press/transcript-senate-commerce-hearing-on-30-years-of-section-230/",
+"date": "2026-03-19"
+},
+"groups": [
+"Senate Armed Services Committee, Subcommittee on Cybersecurity (Ranking Member)"
+],
+"search_notes": "About 18 Google News queries, two Wayback CDX listings of rosen.senate.gov (357 tech and 185 energy URLs since 2025), and a GovTrack API pull of her 416 cosponsored 119th bills. rosen.senate.gov and commerce.senate.gov block direct fetches (Akamai 403) so their pages were read through the Wayback Machine's http endpoint using the helper's own fetch and text functions; https Wayback was intermittently refusing connections. Her Apr 30, 2026 Hegseth exchange is sourced to The Verge because her own release from that hearing covers only the antisemitism exchange. The landscape lead that she is a Senate AI Caucus member could not be confirmed at any URL and is omitted. A July 2026 Sludge article notes her campaign's fundraising consultants also run an AI-industry access nonprofit; that is not a policy position and was not scored. Google News link decoding was rate-limited so KLAS, Punchbowl and Economic Times items were not opened. No AI super PAC activity found."
+},
+{
+"bioguide": "T000468",
+"name": "Dina Titus",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "She has been the most active Nevada member against the Townsite data center approved on BLM land outside Boulder City: she demanded public review from BLM, asked Gov. Lombardo to pause state tax abatements for data centers on federal land, and claimed victory when the Interior appeals board halted the project. She does not back a blanket federal pause and thinks water rules should stay with states, but wants full permitting, public hearings, and no bill increases for Nevadans.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Titus demands answers from BLM on Boulder City data center review",
+"url": "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5916",
+"quote": "The BLM allowed a private developer to switch from developing a solar farm on city-owned land in Boulder City to developing a data center on adjacent federal land without any public review. This is unacceptable.",
+"date": "2026-07-09",
+"what_it_shows": "Her July 8 letter to BLM demanded robust public consultation and raised grid, utility price, heat and water concerns about the project."
+},
+{
+"type": "letter",
+"title": "Press release: Titus asks Gov. Lombardo for a moratorium on tax abatements for data centers on federal land",
+"url": "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5922",
+"quote": "will you commit to refraining from approving data center tax rebates for projects on BLM land until the State Legislature reconvenes and has an opportunity to reconsider this issue",
+"date": "2026-07-23",
+"what_it_shows": "She wants state subsidies for data centers on public land frozen until the 2027 Legislature reviews them."
+},
+{
+"type": "statement",
+"title": "Press release: Titus responds to Gov. Lombardo's reply on data center abatements",
+"url": "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5926",
+"quote": "He doesn't commit to halting abatements. Those abatements would set a precedent for future developments on public land. This is the first and more are planned across the West.",
+"date": "2026-08-17",
+"what_it_shows": "She kept pressing the governor and framed Boulder City as a precedent for data centers on federal land across the West."
+},
+{
+"type": "statement",
+"title": "Press release: Titus secures victory as Interior appeals board halts Boulder City data center",
+"url": "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5928",
+"quote": "I've said since day one that this was not only improper but illegal.",
+"date": "2026-09-01",
+"what_it_shows": "She celebrated the stay based on BLM's reuse of a solar farm environmental review for a data center."
+},
+{
+"type": "interview",
+"title": "Nevada Independent survey: What do Nevada's congressional candidates think about data centers?",
+"url": "https://thenevadaindependent.com/article/what-do-nevadas-congressional-candidates-think-about-data-centers",
+"quote": "Full environmental permitting process with consideration for water and also public consultation and hearings,",
+"date": "2026-08-26",
+"what_it_shows": "She opposed a blanket federal pause (only Horsford left that door open), said federal land can host data centers with local buy-in, wants a federal role only if data centers tap nuclear power, and would leave water to the states."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R.4776 SPEED Act (permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"date": "2025-12-18",
+"what_it_shows": "She voted against the Republican bill to speed up federal environmental permitting, the main build-faster vehicle for energy and data center projects."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.9372 Data Infrastructure Energy Measurement and Standards Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9372",
+"quote": null,
+"date": "2026-07-14",
+"what_it_shows": "Supports standard ways to measure data center electricity and water use, a transparency step rather than a ban."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Her only AI-risk action is cosponsoring the DEFIANCE Act, which lets victims sue over AI-made sexual deepfakes. I found no statements from her on chatbots, frontier AI safety, or AI regulation generally, and she backed the neutral CREATE AI research bill in the last Congress.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3562 DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"quote": null,
+"date": "2026-01-23",
+"what_it_shows": "Supports a civil right to sue over non-consensual AI sexual deepfakes, a targeted guardrail."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R.5077 CREATE AI Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5077",
+"quote": null,
+"date": "2023-11-06",
+"what_it_shows": "Backed a national shared computing resource for AI research, a neutral, pro-research position."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "She supports targeted consumer and privacy fixes: reproductive health data privacy (My Body, My Data Act in both Congresses), cutting off abusers' remote access to connected cars, and deepfake liability. No calls found for breaking up Big Tech or repealing Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.2110 Safe Vehicle Access for Survivors Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"quote": null,
+"date": "2025-03-14",
+"what_it_shows": "Would make carmakers cut an abuser's access to a car's apps and location data when a survivor asks."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3916 My Body, My Data Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3916",
+"quote": null,
+"date": "2025-06",
+"what_it_shows": "Continues her support for limits on collecting and sharing reproductive health data (verified on GovTrack cosponsor list)."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R.3420 My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"quote": null,
+"date": "2023-05-17",
+"what_it_shows": "Earlier backing for the same reproductive data privacy limits."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3562 DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"quote": null,
+"date": "2026-01-23",
+"what_it_shows": "Supports a private right of action against people who make or share sexual deepfakes."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "She signed the Nov 26, 2025 letter from 81 House Democrats opposing any revival of the state AI law moratorium in the NDAA and any executive order preempting state AI laws or using broadband funds to coerce states. No individual statement from her found on the Dec 2025 order or the Mar 2026 framework.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Matsui-led House Democrats to Johnson, Thune, Jeffries and Schumer opposing an AI moratorium in the NDAA and a preemption executive order (Titus is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"date": "2025-11-26",
+"what_it_shows": "She joined a clear statement that states should keep the power to enforce their own AI laws and that the Senate's 99-1 vote should not be undone by the defense bill or executive action."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Her only related action is a 2024 cosponsorship of a bill to block US money from funding AI and chip companies in China. Nothing found in the current Congress on chip export controls or Nvidia sales to China.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R.6349 Preventing Adversaries from Developing Critical Capabilities Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6349",
+"quote": null,
+"date": "2024-01-17",
+"what_it_shows": "Supported restricting outbound US investment in Chinese AI, chip and other critical technology firms."
+}
+]
+}
+},
+"signature": "Led the fight against the first AI data center approved on BLM land outside Boulder City with letters to BLM and Gov. Lombardo, a call to pause state tax abatements, and a claimed win when the Interior appeals board halted the project in Sept 2026; signed the House Democrats' letter against preempting state AI laws.",
+"notable_quote": {
+"text": "The BLM allowed a private developer to switch from developing a solar farm on city-owned land in Boulder City to developing a data center on adjacent federal land without any public review. This is unacceptable.",
+"url": "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5916",
+"date": "2026-07-09"
+},
+"groups": [],
+"search_notes": "About 12 Google News queries, a scan of her last 30 House press releases (titus.house.gov fetched directly), the Nevada Independent candidate survey, the Matsui letter PDF (text extracted with pypdf; Titus confirmed among signers), the GovTrack SPEED Act roll call, and a GovTrack API pull of her 728 cosponsored 119th bills. Nevada Current (403), KLAS 8newsnow (403) and RTO Insider could not be opened; the FOX5 story on Lombardo's reply was opened and matches her Aug 17 release. Google News link decoding was rate-limited so KSNV and KTNV items on the Boulder City fight were not opened, but her own releases cover the same events. No statements found on AI chatbots, Big Tech, Section 230 or chip exports; no AI caucus membership or AI super PAC activity found in her 2026 race against Carrie Buck."
+}
+]

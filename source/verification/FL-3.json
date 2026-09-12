@@ -1,0 +1,207 @@
+[
+{
+"bioguide": "M001216",
+"checks": [
+{
+"url": "https://federalnewsnetwork.com/army/2026/06/house-ndaa-provision-could-derail-army-data-center-projects/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-12",
+"note": "Article (June 12, 2026) quotes Mills verbatim from X and describes the amendment as barring lessees from installing data facility equipment with components made in China, Russia, Iran or North Korea (printed circuit boards, advanced semiconductors, chipsets). Claim framing as a security condition rather than a build limit is a fair reading of his statement, though the article headline stresses the Army view that it could derail projects."
+},
+{
+"url": "https://federalnewsnetwork.com/congress/2026/07/congress-ramps-up-scrutiny-of-pentagon-ai-data-center-plans/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Article (July 24, 2026) says Mills got the provision into the HASC version of the FY27 NDAA, which passed the House that week; quote appears verbatim (minor stray spaces in page text). Army 'unworkable standard' and 'over $1.3 billion in private capital' warnings appear exactly as claimed."
+},
+{
+"url": "https://federalnewsnetwork.com/army/2026/06/house-ndaa-provision-could-derail-army-data-center-projects/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-12",
+"note": "Same article; quote verbatim. Page states the restriction applies to certain printed circuit boards, advanced semiconductors, chipsets and other components from China, Russia, Iran or North Korea, matching the claim. Note this is a procurement/supply-chain restriction on adversary-made chips, not an export-control measure."
+},
+{
+"url": "https://foreignaffairs.house.gov/committee-activity/hearings/us-economic-security-and-investment-abroad-assessing-economic-security-zones",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Page is the Oversight and Intelligence Subcommittee hearing notice (Tue 07/14/2026, 2200 Rayburn, witnesses from Prospera, US Strategic Metals, Acrow Bridge, Cato). It does not name Mills anywhere, so his role as convening chairman is not shown by this page, and the hearing topic (economic security zones / investment abroad) is not about semiconductors or export controls. Weak evidence for china_chips."
+},
+{
+"url": "https://federalnewsnetwork.com/army/2026/06/house-ndaa-provision-could-derail-army-data-center-projects/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-12",
+"note": "Quote appears verbatim, attributed to Mills on X."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the five sources touches Big Tech, platform, privacy or consumer-tech regulation; the only material is a defense supply-chain restriction on adversary-made components. The evidence in this record is too thin to support any tech_regulation position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "H001099",
+"checks": [
+{
+"url": "https://haridopolos.house.gov/media/in-the-news/trump-praises-more-90-billion-investment-ai-energy",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-07-16",
+"note": "Page exists on his official site (In the News, July 16, 2025) with headline 'Trump praises more than $90 billion investment in AI, energy', labelled Fox and Friends First with a 'Watch The Full Interview Here' link and tagged 'Tax Reform And The Economy'. No transcript or text; the page itself never names Haridopolos in the body. Supports 'his office highlighted a TV appearance' only; no position on data centers or AI is stated anywhere on the page."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-16",
+"note": "Breitbart article (Elizabeth Weibel, 16 Apr 2026) lists Mike Haridopolos (R-FL) among the Republican incumbents Leading the Future is supporting, and the quote 'part of a broader ecosystem of current members who have engaged with the industry' appears verbatim, describing the group as a whole. Article describes the PAC as 'focused on advocating for tech-friendly AI policies'; the 'patchwork of state AI laws' characterisation in the claim is not on this page but is background about the PAC, not about him."
+},
+{
+"url": "https://haridopolos.house.gov/media/in-the-news/watch-2025-human-trafficking-symposium-fight-child-online-safety",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-26",
+"note": "Official page (Aug 26, 2025) titled '2025 Human Trafficking Symposium Fight for Child Online Safety, Hosted by Congressman Mike Haridopolos'. Quote appears verbatim. Panelists listed include U.S. Attorney Gregory Kehoe, Maurice Edwards of NCMEC, and survivor Kim Figueroa, so the prosecutors/NCMEC/survivors description is accurate. It is an awareness event, not a legislative position; supports 'priority issue' but not any specific regulatory stance."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only data_centers evidence is a link to a TV interview whose content could not be reviewed and which contains no stated position; the item's own claim says it 'shows attention, not a stated position'. Too thin to support 1 'Build with conditions' (or any specific position).",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "china_chips",
+"objection": "None of the three cited items mentions China, chips, or export controls at all. There is no evidence in the sources for a -1 'Leans hawkish' score.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "S001200",
+"checks": [
+{
+"url": "https://www.facebook.com/RepDarrenSoto/videos/in-the-energy-and-commerce-committee-i-voted-in-favor-of-strong-citizen-protecti/1470918495055796/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Facebook body text did not render (0 chars), but the page title returned is the full video caption from US Rep Darren Soto's own page and contains the quote verbatim: 'In the Energy and Commerce Committee, I voted in favor of strong citizen protections for data centers. We must empower local communities to decide if these centers are located in their neighborhoods, protect ratepayers from energy and water rate hikes, and improve essential infrastructure.' No post date recoverable from the fetch."
+},
+{
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "PDF downloaded and text-extracted. Quote appears verbatim. Letter dated March 19, 2026 to House Appropriations leaders requests DOE National Strategic Data Center Plan due 'not later than 18 months after enactment', covering electricity demand, consumer electricity costs, water-efficient operations. 14 signers listed including Darren Soto, so '13 other New Democrats' is accurate."
+},
+{
+"url": "https://frost.house.gov/media/press-releases/congressman-maxwell-alejandro-frost-and-florida-democrats-press-desantis-administration-for-answers-on-planned-use-of-ai-in-snap-eligibility-determinations",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-04",
+"note": "Press release (published 2026-08-04) names Darren Soto (FL-9) among signers; quote appears verbatim. Letter seeks answers on vendor qualifications, accuracy, bias protections, human oversight, transparency and appeals, which supports the 'safeguards and transparency' framing."
+},
+{
+"url": "https://soto.house.gov/media/press-releases/house-passes-sotos-consumer-safety-technology-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-16",
+"note": "Soto's own release (2025-07-16). Floor remarks contain the quote nearly verbatim; in the source the two sentences are separate quoted paragraphs ('See, the reality is the crooks are already using AI.' / 'The cops on the beat need to be able to use this too.'). Bill H.R. 1770 directs CPSC to launch an AI pilot program to track injury trends, identify hazards and monitor recalls, as claimed."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF dated November 26, 2025; quote appears verbatim ('Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place'). Exactly 81 'Member of Congress' signature lines, Darren Soto among them. Letter opposes both the NDAA moratorium and a preemption executive order."
+},
+{
+"url": "https://www.facebook.com/RepDarrenSoto/videos/in-the-energy-and-commerce-committee-i-voted-in-favor-of-strong-citizen-protecti/1470918495055796/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Same Facebook video as item 1; quote verbatim in the page title/caption from Soto's official page."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the six sources addresses regulation of Big Tech or platforms generally; they cover data center siting, AI in SNAP, an AI pilot for the CPSC, and state AI preemption. The -1 score is not supported by the cited evidence and would need a separate source (e.g., a KOSA, antitrust, or privacy position) to stand.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "F000476",
+"checks": [
+{
+"url": "https://thecapitolist.com/u-s-rep-maxwell-frost-endorses-jolly-graham-ticket-in-governors-race/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-28",
+"note": "Quote appears verbatim in Frost's endorsement statement; article also describes Jolly's proposed moratorium on new data center construction pending water/electricity/consumer-cost/AI-regulation concerns."
+},
+{
+"url": "https://www.eenews.net/articles/data-center-moratorium-gains-traction-among-hill-progressives/",
+"verdict": "confirmed",
+"corrected_quote": "This doesn't mean we're anti-innovation",
+"corrected_date": "2026-03-10",
+"note": "Quote appears verbatim as the photo caption attributed to Frost directly under the dek 'A handful of lawmakers is joining ... Sanders in wanting to pause new projects.' Body text is paywalled (only ~2,100 chars retrievable), so the fuller context of his remarks could not be read."
+},
+{
+"url": "https://oversight.house.gov/hearing/americas-ai-moonshot-the-economics-of-ai-data-centers-and-power-consumption/",
+"verdict": "unsupported",
+"corrected_quote": null,
+"corrected_date": "2025-04-01",
+"note": "Hearing page (April 1, 2025, Economic Growth, Energy Policy, and Regulatory Affairs subcommittee) lists witnesses only; Frost's name does not appear anywhere on it, and there is no reference to Democratic opening remarks or their title. The page does not establish that Frost is ranking member or that he framed the hearing around guardrails."
+},
+{
+"url": "https://frost.house.gov/media/press-releases/congressman-maxwell-alejandro-frost-and-florida-democrats-press-desantis-administration-for-answers-on-planned-use-of-ai-in-snap-eligibility-determinations",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-04",
+"note": "Quote verbatim. Release says the Members seek answers on vendor qualifications, AI accuracy, bias protections, human oversight, and transparency; Frost-led letter to DeSantis administration."
+},
+{
+"url": "https://oversight.house.gov/hearing/americas-ai-moonshot-the-economics-of-ai-data-centers-and-power-consumption/",
+"verdict": "unsupported",
+"corrected_quote": null,
+"corrected_date": "2025-04-01",
+"note": "Same page as item 3; it never names Frost and carries no remarks text or title. Claim about 'rush AI without guardrails' framing rests entirely on an unretrievable source, so this URL does not support it."
+},
+{
+"url": "https://frost.house.gov/media/press-releases/congressman-maxwell-frost-slams-tiktok-bill-ahead-of-scheduled-house-vote",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-12",
+"note": "Quote verbatim ('reign in' spelling is in the original). He states 'I am voting no' and that the bill 'does not solve our data privacy problems'; the phrase 'comprehensive reform' supports the broad-reform framing, though he does not explicitly propose a specific privacy bill."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim; Maxwell Frost is listed among the 44 signers urging exclusion of any AI moratorium or preemption from the final FY26 NDAA."
+},
+{
+"url": "https://thecapitolist.com/u-s-rep-maxwell-frost-endorses-jolly-graham-ticket-in-governors-race/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-28",
+"note": "Headline quote appears verbatim, attributed to Frost."
+}
+],
+"score_objections": []
+}
+]

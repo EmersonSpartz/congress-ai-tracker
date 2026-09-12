@@ -1,0 +1,669 @@
+[
+{
+"bioguide": "T000474",
+"name": "Norma J. Torres",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers, electricity bills, or water use as of Sept 2026. Searched news for her name with data center, ratepayer, and Inland Empire terms and scanned her press releases; nothing came up.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Her AI record is thin and points to targeted fixes: she cosponsored bills against AI sexual deepfakes and for disclosure of AI in political ads. Her own AI bill from 2024 was about international research partnerships and keeping the U.S. in the lead, not safety rules.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9922 AI Transparency in Elections Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9922",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "Backs a rule that political ads must say when they were made with AI, a targeted guardrail."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3106 Preventing Deepfakes of Intimate Images Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2024-02-01",
+"quote": null,
+"what_it_shows": "Supported making AI-made sexual deepfakes of real people illegal and letting victims sue."
+},
+{
+"type": "statement",
+"title": "Press release: Torres introduces the International Artificial Intelligence Research Partnership Act of 2024",
+"url": "https://torres.house.gov/media-center/press-releases/congresswoman-torres-introduces-international-artificial-intelligence-research-partnership-act-of-2024",
+"date": "2024-06-11",
+"quote": "In order to lead and ensure AI remains a tool for good around the globe, the U.S. must foster and strengthen international collaboration and partnerships for the research, development, and eventual implementation of artificial intelligence",
+"what_it_shows": "Her main AI bill frames AI as a tool for good that should follow democratic values and keep the U.S. ahead; it funds city-to-city research partnerships rather than setting safety rules."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward targeted privacy protections. She cosponsored the My Body, My Data privacy bill and pushed amendments to stop agencies from sharing personal data with DOGE. In 2020 she also fought Trump's executive order aimed at Section 230, saying only Congress can change platform immunity.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Supported a major privacy bill stopping apps and companies from collecting or sharing reproductive health data."
+},
+{
+"type": "statement",
+"title": "Press release: Torres leads Appropriations amendments to protect Americans' privacy from DOGE",
+"url": "https://torres.house.gov/media-center/press-releases/congresswoman-torres-leads-amendments-to-protect-americans-privacy-ensure-safe-baby-formula-and-address-the-threat-of-bird-flu",
+"date": "2025-06-24",
+"quote": "But Republicans also rejected three amendments I led that aimed to improve the bill, from protecting Americans' privacy from DOGE",
+"what_it_shows": "Tried to bar federal agencies from handing personal data to DOGE, a privacy-first stance on government data."
+},
+{
+"type": "statement",
+"title": "Press release: Torres introduces legislation to defund Trump's 2020 social media executive order on Section 230",
+"url": "https://torres.house.gov/media-center/press-releases/torres-introduces-legislation-defund-trump-s-social-media-eo",
+"date": "2020-06-25",
+"quote": "Only Congress can adjust immunity for user-generated content, but the fact that President Trump is trying to do so will have a chilling effect on any company trying to stop the spread of misinformation.",
+"what_it_shows": "Older signal: she defended Congress's sole power over Section 230 and platforms' ability to police misinformation, rather than calling for weakening the shield."
+}
+]
+},
+"preemption": {
+"score": -1,
+"confidence": "medium",
+"summary": "Signed the December 2025 letter from 44 House Democrats telling defense-bill negotiators to keep any AI moratorium or preemption of state laws out of the NDAA, calling a moratorium irresponsible while no federal AI law exists.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: 44 House Democrats led by Rep. Clarke urge no AI moratorium or preemption in the FY26 NDAA",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "Any kind of preemption would cause a slew of unintended consequences putting all Americans at risk online; a moratorium would be wildly irresponsible given the lack of any federal legislation.",
+"what_it_shows": "Torres is a named signer of a letter opposing federal preemption of state AI laws in the absence of a federal law."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searched her name with Nvidia, export controls, and chips. Her site lists an older letter supporting CHIPS Act factory funding, which is about domestic manufacturing, not export controls.",
+"evidence": []
+}
+},
+"signature": "Appropriator and top Democrat on the House modernization subcommittee; light AI footprint limited to deepfake and election-ad bills, a 2024 AI research-partnership proposal, and a letter against a state AI-law moratorium.",
+"notable_quote": {
+"text": "In order to lead and ensure AI remains a tool for good around the globe, the U.S. must foster and strengthen international collaboration and partnerships for the research, development, and eventual implementation of artificial intelligence",
+"url": "https://torres.house.gov/media-center/press-releases/congresswoman-torres-introduces-international-artificial-intelligence-research-partnership-act-of-2024",
+"date": "2024-06-11"
+},
+"groups": [
+"Ranking Member, House Administration Subcommittee on Modernization and Innovation (119th Congress)"
+],
+"search_notes": "Ran 11 Google News queries (artificial intelligence; AI; data center; Leading the Future/Think Big; chatbot/deepfake/Big Tech/Section 230; Modernization subcommittee AI; AI Transparency in Elections; data centers Inland Empire; Legislative Counsel AI slop; two 2026 AI sweeps) plus a site listing of torres.house.gov and fetches of four press releases, the OC Register 2026 questionnaire (no AI question asked), the Clarke letter, the Matsui letter PDF (she is not a signer), and Federal News Network (confirms she is ranking member of the Modernization and Innovation subcommittee). The landscape lead that Leading the Future endorsed 'Torres' appears to refer to Rep. Ritchie Torres of New York (NY-15), not Norma Torres; AI Money Watch shows no tracked AI super PAC spending or endorsement for Norma Torres, so no PAC evidence was added. Politico's Aug 2026 story on AI-drafted bills swamping the House Legislative Counsel could not be opened (Google News link would not decode)."
+},
+{
+"bioguide": "L000582",
+"name": "Ted Lieu",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Wants data centers built in America rather than abroad and says refusing to build them over energy use is not smart, but wants them built thoughtfully with more renewable power. He also cosponsored the SHIELD Act so households do not pay for data center grid upgrades and a liquid-cooling bill to cut energy and water use.",
+"evidence": [
+{
+"type": "statement",
+"title": "Politico (reposted on lieu.house.gov): Lieu at The Hill's Nation Summit says the U.S. must keep building AI data centers",
+"url": "https://lieu.house.gov/media-center/in-the-news/new-push-ai-rules-washington",
+"date": "2025-07-17",
+"quote": "It's not really a smart approach to say, 'Don't build these things because of energy'",
+"what_it_shows": "He says data centers will otherwise be built in another country and he would rather have them in America, while urging thoughtful siting and more renewable energy."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7066 SHIELD Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7066",
+"date": "2026-02-09",
+"quote": null,
+"what_it_shows": "Backs a bill so regular families do not get stuck with higher electric bills caused by power-hungry data centers."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5332 Liquid Cooling for AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5332",
+"date": "2025-09-15",
+"quote": null,
+"what_it_shows": "Supports federal work to promote cooling technology that lowers data center energy and water use."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "high",
+"summary": "Treats rogue frontier AI as a real catastrophic danger. He wrote the bipartisan AI Kill Switch Act to force the biggest AI developers to keep a working shutdown ability and to let the government order a slowdown or shutdown, has called for mandatory disclosure of safety test results, and earlier wrote the law keeping humans in charge of nuclear launches. He says most everyday AI uses need no government attention.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 9917 AI Kill Switch Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9917",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "His bill requires frontier AI developers to be able to throttle, suspend, or shut down their systems and authorizes DHS to order a shutdown of an AI system that can cause catastrophic harm."
+},
+{
+"type": "statement",
+"title": "Press release: Reps. Lieu and Moran introduce bill to require a kill switch for AI systems that can cause catastrophic harm",
+"url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
+"date": "2026-07-23",
+"quote": "Unfortunately, powerful AI systems can go rogue, behave in extremely dangerous ways, or even resist human intervention. It is imperative that these AI systems have kill switches so we can keep this technology from causing catastrophic harm",
+"what_it_shows": "Frames advanced AI as a catastrophic risk that needs binding federal control, citing OpenAI and Anthropic model incidents."
+},
+{
+"type": "op_ed",
+"title": "Op-ed in Fox News: AI is already too powerful, we need a kill switch before disaster strikes",
+"url": "https://www.foxnews.com/opinion/rep-ted-lieu-ai-already-too-powerful-need-kill-switch-before-disaster-strikes",
+"date": "2026-08-14",
+"quote": "Kill switches are not exotic. They are how society routinely handles powerful machines.",
+"what_it_shows": "Makes the case to a conservative audience for mandatory shutdown capability and government emergency authority over frontier models."
+},
+{
+"type": "op_ed",
+"title": "Op-ed in the Los Angeles Times: AI agents are acting without guardrails (reposted on lieu.house.gov)",
+"url": "https://lieu.house.gov/media-center/in-the-news/ai-isnt-just-standing-its-doing-things-without-guardrails",
+"date": "2025-07-07",
+"quote": "At a minimum, we should mandate that companies deploying large language models at scale need to disclose the safety tests they performed and the results, as well as security measures embedded in the system.",
+"what_it_shows": "Calls for mandatory safety-test disclosure for large models and a House select committee on AI with subpoena power."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Lieu TEDx talk, Congress must regulate AI now",
+"url": "https://lieu.house.gov/media-center/press-releases/rep-lieu-tedx-talk-congress-must-regulate-ai-now",
+"date": "2025-11-17",
+"quote": null,
+"what_it_shows": "Called it insane not to regulate AI soon and listed AI that can destroy the world as the first of three dangers Congress must get ahead of."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3460 AI Whistleblower Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3460",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "Backs protections for AI company workers who report safety problems."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 2894 Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2023-04-26",
+"quote": null,
+"what_it_shows": "Wrote the bill requiring a human, not an AI, to make any nuclear launch decision; key provisions later went into the FY2025 defense law."
+},
+{
+"type": "interview",
+"title": "Los Angeles Daily News interview with Rep. Lieu on the House Democratic AI commission",
+"url": "https://www.dailynews.com/2025/12/19/rep-ted-lieu-co-chair-of-house-democrats-new-ai-commission-discusses-governments-role-in-burgeoning-industry/",
+"date": "2025-12-19",
+"quote": "In most AI use cases, government is not going to care.",
+"what_it_shows": "Balancing note: he wants rules aimed at a small set of dangerous uses (AI that could destroy the world, kill people, or cause serious harm), not at all AI."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 8516 American Leadership in AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8516",
+"date": "2026-04-27",
+"quote": null,
+"what_it_shows": "Bipartisan package with Rep. Obernolte codifying the federal AI standards center, the national AI research resource, whistleblower protections, and deepfake remedies; a pro-innovation counterweight in his record."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 6306 AI Fraud Deterrence Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6306",
+"date": "2025-11-25",
+"quote": null,
+"what_it_shows": "Tougher penalties for people who use AI to commit fraud or impersonate federal officials."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Favors targeted privacy and consumer rules: he leads the Reproductive Data Privacy and Protection Act, a bill requiring warrants for phone searches at the border, and limits on police face recognition, and backs AI robocall disclosure. Progressive groups have criticized him as too close to Big Tech.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 3218 Reproductive Data Privacy and Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-05-06",
+"quote": null,
+"what_it_shows": "Leads a bill banning companies from collecting or selling reproductive health data without permission."
+},
+{
+"type": "statement",
+"title": "Press release: Reps. Lieu, Norton, Beyer and Espaillat reintroduce the Protecting Data at the Border Act",
+"url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-norton-beyer-and-espaillat-reintroduce-bill-protect-privacy",
+"date": "2025-04-07",
+"quote": "No American should have to give up their right to privacy just because they're traveling",
+"what_it_shows": "Wants law enforcement to get a warrant before searching Americans' phones and laptops at ports of entry."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 4695 Facial Recognition Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4695",
+"date": "2025-07-23",
+"quote": null,
+"what_it_shows": "Puts limits on how police can use face-scanning software."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1027 QUIET Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-05-20",
+"quote": null,
+"what_it_shows": "AI robocalls that sound human must say so up front, with higher fines."
+},
+{
+"type": "other",
+"title": "Axios (reposted on lieu.house.gov): advocacy groups say the new House Democratic AI commission's leaders have deep ties to Big Tech",
+"url": "https://lieu.house.gov/media-center/in-the-news/inside-democrats-ai-division",
+"date": "2026-01-08",
+"quote": null,
+"what_it_shows": "Contrary signal: eleven progressive groups wrote to Leader Jeffries objecting that Lieu and the other commission co-chairs are too close to the tech industry."
+}
+]
+},
+"preemption": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. He opposes Trump's executive order and any moratorium that would wipe out state AI laws while no federal protections exist, cosponsoring the GUARDRAILS Act and signing the Matsui letter, and his commission rejected a bipartisan draft with three-year preemption. But he says one national framework written by Congress would be far better than 27 states regulating AI.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8031 GUARDRAILS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Cosponsored the bill to repeal Trump's executive order that seeks to override state AI laws."
+},
+{
+"type": "statement",
+"title": "Press release (Rep. Jacobs): Jacobs, Beyer, Matsui, Lieu, McClain Delaney introduce the GUARDRAILS Act",
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"date": "2026-03-20",
+"quote": "Congress has the responsibility to establish a national framework for AI and any attempt by Donald Trump to create laws through executive order is a sham.",
+"what_it_shows": "Rejects preemption by executive order but says Congress should write the national framework."
+},
+{
+"type": "letter",
+"title": "Letter: 81 House Democrats led by Rep. Matsui oppose an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "Lieu is a signer of the letter against freezing state AI laws while no federal protections exist."
+},
+{
+"type": "interview",
+"title": "Los Angeles Daily News interview with Rep. Lieu on Trump's preemption executive order",
+"url": "https://www.dailynews.com/2025/12/19/rep-ted-lieu-co-chair-of-house-democrats-new-ai-commission-discusses-governments-role-in-burgeoning-industry/",
+"date": "2025-12-19",
+"quote": "I agree it is not efficient to have 27 states regulating AI. A national framework would be far better.",
+"what_it_shows": "Open to one national standard if Congress writes it; faults the White House for not working with Congress on any federal framework."
+},
+{
+"type": "statement",
+"title": "Politico (reposted on lieu.house.gov): Lieu at The Hill's Nation Summit on AI rules",
+"url": "https://lieu.house.gov/media-center/in-the-news/new-push-ai-rules-washington",
+"date": "2025-07-17",
+"quote": "It's do you want Congress to do it, or do you want 27 states to do it?",
+"what_it_shows": "Uses the prospect of many state laws to push Congress and the White House toward a federal AI law."
+},
+{
+"type": "statement",
+"title": "Press release: House AI Commission joint statement on the Obernolte-Trahan discussion draft",
+"url": "https://lieu.house.gov/media-center/press-releases/house-ai-commission-joint-statement-proposed-discussion-draft-ai",
+"date": "2026-06-04",
+"quote": "their proposed discussion draft on AI does not meet the enormity of the moment. We do not support the discussion draft as it currently stands.",
+"what_it_shows": "His commission rejected the bipartisan Great American AI Act draft, which included a three-year preemption of state AI development laws."
+},
+{
+"type": "statement",
+"title": "Roll Call: Rush to regulate AI divides Democrats in Congress",
+"url": "https://rollcall.com/2026/06/10/rush-to-regulate-ai-divides-democrats-in-congress/",
+"date": "2026-06-10",
+"quote": "In Congress, you have to build a consensus. You actually have to get groups and members of Congress and organizations to support what you're trying to do",
+"what_it_shows": "Says he shares the urgency of a federal AI law but will not back a preemption deal without broad support from labor, civil rights, and other groups."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Wants tighter chip export controls. He cosponsored the Chip Security Act and the Export Controls Enforcement Act and repeatedly attacked the Trump administration for approving Nvidia H200 sales to China, saying the sale gave a massive boost to China's AI industry.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3447 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "Backs built-in location tracking for advanced AI chips to catch smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4505 Export Controls Enforcement Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4505",
+"date": "2026-04-21",
+"quote": null,
+"what_it_shows": "Supports putting more export-control officers overseas to catch chip smuggling."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Lieu named co-chair of new House Democratic Commission on AI and the Innovation Economy",
+"url": "https://lieu.house.gov/media-center/press-releases/rep-lieu-named-co-chair-new-house-democratic-commission-ai-and",
+"date": "2025-12-09",
+"quote": "What is the Trump administration's plan? Selling high-performance AI chips to China, pushing government ownership and revenue sharing requirements onto tech companies and spreading harmful deepfake videos.",
+"what_it_shows": "Attacks the administration's approval of advanced AI chip sales to China as a misguided approach that weakens U.S. competitiveness."
+},
+{
+"type": "interview",
+"title": "Los Angeles Daily News interview with Rep. Lieu on the H200 chip sale",
+"url": "https://www.dailynews.com/2025/12/19/rep-ted-lieu-co-chair-of-house-democrats-new-ai-commission-discusses-governments-role-in-burgeoning-industry/",
+"date": "2025-12-19",
+"quote": "He just greenlighted the sale of advanced AI chips to China, specifically the H200 chip. China does not have anywhere near the capability of making these chips. So Donald Trump just gave a massive boost to China's AI industry.",
+"what_it_shows": "Directly opposes the Nvidia H200 sale to China."
+}
+]
+}
+},
+"signature": "One of Congress's most active AI legislators: co-chaired the bipartisan House AI Task Force, co-chairs the House Democratic AI commission, and wrote the bipartisan AI Kill Switch Act; wants Congress, not the White House or 27 states, to set the national rules.",
+"notable_quote": {
+"text": "Unfortunately, powerful AI systems can go rogue, behave in extremely dangerous ways, or even resist human intervention. It is imperative that these AI systems have kill switches so we can keep this technology from causing catastrophic harm",
+"url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
+"date": "2026-07-23"
+},
+"groups": [
+"Co-Chair, House Bipartisan Task Force on Artificial Intelligence (118th Congress)",
+"Co-Chair, House Democratic Commission on AI and the Innovation Economy (119th Congress)",
+"Member, Congressional Artificial Intelligence Caucus (119th Congress)",
+"Vice Chair, House Democratic Caucus"
+],
+"search_notes": "Ran 10 Google News queries (data center; preemption/state AI laws/moratorium; Nvidia/export controls/chips; Section 230/Big Tech/antitrust/KOSA; H200/H20/Huang; Anthropic/OpenAI/superintelligence; select committee; run wild; GOP strategy; data centers ratepayers/SHIELD) plus a Wayback listing of lieu.house.gov and fetches of about 15 pages: the kill switch release, commission statement, TEDx release, commission co-chair release, LA Times op-ed and Politico and Axios reposts on his site, the Fox News op-ed, the Daily News interview, the Jacobs GUARDRAILS release, Roll Call (June 4 and June 10, 2026), the ARI release on the American Leadership in AI Act, the border privacy and AI fraud releases, and the Matsui letter PDF (he is a signer; extracted locally with pypdf). Not opened: The Hill (July 15, 2026 'Lieu criticizes GOP colleagues' and Sept 5, 2026 data centers midterm piece), Politico/Yahoo Sept 9, 2026 select committee story, Benzinga Sept 7, 2026 'run wild' item, Punchbowl and CDT preemption items; Google News links would not decode. The Hill Sept 9, 2026 AI safety warnings article did not mention Lieu. AI Money Watch shows no tracked AI super PAC activity for him. Preemption scored 0 because his record actions oppose current preemption efforts while his own words favor a congressional national framework."
+},
+{
+"bioguide": "K000400",
+"name": "Sydney Kamlager-Dove",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers, electricity bills, or water as of Sept 2026. Searched her name with data center and electricity terms and scanned her press releases; her energy statements are about Trump's cuts to clean energy projects, not data centers.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Little on AI safety beyond one cosponsorship: she backs a bill making it illegal to spread lies about voting, including AI-made fake content, before federal elections. Her AI energy goes into chip export controls instead.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4894 Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "Supports a targeted rule against AI-made election deception in the two months before a federal election."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Supports privacy rules but opposed the TikTok ban. She cosponsored the My Body, My Data privacy bill, and voted no on the TikTok divest-or-ban law on free speech grounds, arguing Congress should tackle data privacy and disinformation across all platforms instead of banning single apps.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Supported a major privacy bill stopping apps from collecting or sharing reproductive health data."
+},
+{
+"type": "statement",
+"title": "Press release: Kamlager-Dove statement on voting no on the TikTok ban",
+"url": "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-statement-voting-no-tiktok-ban",
+"date": "2024-03-13",
+"quote": "Banning foreign apps is an insufficient approach to addressing the persistent disinformation and data security issues facing our country.",
+"what_it_shows": "Voted against the TikTok law over First Amendment and executive-power concerns while calling for a broader fix to data privacy and disinformation."
+},
+{
+"type": "statement",
+"title": "Press release: Kamlager-Dove statement on the future of TikTok",
+"url": "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-statement-future-tiktok",
+"date": "2025-01-19",
+"quote": "banning individual apps is not a comprehensive strategy for addressing the broader issues of data privacy and disinformation",
+"what_it_shows": "Repeated that app bans are not a strategy and called for a holistic approach to data privacy and foreign influence that protects creators in her district."
+}
+]
+},
+"preemption": {
+"score": -1,
+"confidence": "medium",
+"summary": "Signed the November 2025 letter from 81 House Democrats opposing a state AI-law moratorium in the defense bill and a preemption executive order, arguing Congress should not freeze state safeguards while no federal protections exist.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: 81 House Democrats led by Rep. Matsui oppose an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "Kamlager-Dove is a signer of the letter against federal preemption of state AI laws."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "A leading House Democrat for tighter chip export controls. As top Democrat on the Foreign Affairs subcommittee that oversees export controls, she wrote the Export Controls Enforcement Act, cosponsored the AI OVERWATCH Act to let Congress block chip sales to China, attacked the H200 sale to China, and led letters demanding investigations of Trump's AI chip deals with the UAE.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 4505 Export Controls Enforcement Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4505",
+"date": "2025-07-17",
+"quote": null,
+"what_it_shows": "Her bill puts at least 20 export-control officers overseas to catch chips and other sensitive tech being smuggled; it passed the Foreign Affairs Committee in April 2026."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6875 AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "Backs giving Congress the power to block sales of advanced AI chips to China and other risky countries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2683 Remote Access Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"date": "2025-04-07",
+"quote": null,
+"what_it_shows": "Closes the loophole letting foreigners use American chips and AI through the cloud."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8283 Deterring American AI Model Theft Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"date": "2026-04-29",
+"quote": null,
+"what_it_shows": "Punishes foreign companies, especially in China, that steal or copy American AI models."
+},
+{
+"type": "hearing",
+"title": "Opening remarks as ranking member at the Foreign Affairs South and Central Asia Subcommittee hearing on export controls enforcement",
+"url": "https://kamlager-dove.house.gov/media/press-releases/rm-kamlager-dove-delivers-opening-remarks-foreign-affairs-south-central-asia",
+"date": "2026-02-24",
+"quote": "We certainly can't expect our partners to take seriously the threat of China's AI dominance while Trump turns around and sells potentially hundreds of thousands of advanced AI chips straight to the PRC.",
+"what_it_shows": "Attacks advanced AI chip sales to China and calls for more export-control officers, allied cooperation, and industry outreach to enforce controls."
+},
+{
+"type": "letter",
+"title": "Letter to the Commerce Inspector General demanding an investigation of the Trump UAE AI chip deal",
+"url": "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-pursues-investigation-corrupt-trump-uae-ai-chip-deal",
+"date": "2026-02-12",
+"quote": "These facts raise serious questions about whether the President's personal financial interests, and those of Special Envoy Steve Witkoff, compromised U.S. export controls and national security decision-making",
+"what_it_shows": "Led 14 senior Democrats questioning the approval of 500,000 advanced AI chips for the UAE, citing intelligence concerns that G42 could divert them to China."
+},
+{
+"type": "letter",
+"title": "Letter with Ranking Member Meeks to Commerce Secretary Lutnick on loosening UAE export controls",
+"url": "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-meeks-demand-answers-lutnick-trumps-financial-interests",
+"date": "2026-08-19",
+"quote": "there remain significant concerns about whether UAE companies such as G42 have adopted sufficient safeguards to prevent diversion to China",
+"what_it_shows": "Questions upgrading the UAE to trusted export-partner status while chip diversion risks to China remain."
+},
+{
+"type": "letter",
+"title": "Letter with Ranking Member Meeks to Lutnick on the reported pause of security actions against China",
+"url": "https://democrats-foreignaffairs.house.gov/2026/2/meeks-kamlager-dove-demand-secretary-lutnick-provide-answers-on-reported-pause-on-security-actions-against-china",
+"date": "2026-02-23",
+"quote": "The Administration's actions suggest a troubling pattern of sacrificing America's national and economic security to stabilize relations with China",
+"what_it_shows": "Objects to shelving tech security measures against China and to rolling back prior export controls ahead of a Trump-Xi meeting."
+},
+{
+"type": "letter",
+"title": "Bipartisan Meeks-Mast letter to Rubio and Lutnick on export controls on chipmaking tools",
+"url": "https://democrats-foreignaffairs.house.gov/2026/2/ranking-member-meeks-chairman-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+"date": "2026-02-09",
+"quote": null,
+"what_it_shows": "Cosigned a bipartisan call for tougher, allied controls on semiconductor manufacturing equipment going to China."
+},
+{
+"type": "other",
+"title": "Washington Tariff & Trade Letter (reposted on kamlager-dove.house.gov): BIS STRENGTH Act to expand technical staffing for export controls",
+"url": "https://kamlager-dove.house.gov/media/in-the-news/bis-strength-act-expand-technical-staffing-export-controls",
+"date": "2026-01-13",
+"quote": null,
+"what_it_shows": "Introduced a bipartisan bill with Rep. Shreve to strengthen the export-control agency's technical workforce."
+}
+]
+}
+},
+"signature": "Top Democrat on the House Foreign Affairs subcommittee that oversees export controls; leads Democratic efforts to enforce AI chip export rules and to probe the Trump administration's UAE chip deals.",
+"notable_quote": {
+"text": "We certainly can't expect our partners to take seriously the threat of China's AI dominance while Trump turns around and sells potentially hundreds of thousands of advanced AI chips straight to the PRC.",
+"url": "https://kamlager-dove.house.gov/media/press-releases/rm-kamlager-dove-delivers-opening-remarks-foreign-affairs-south-central-asia",
+"date": "2026-02-24"
+},
+"groups": [
+"Ranking Member, House Foreign Affairs Subcommittee on South and Central Asia (jurisdiction over export controls)"
+],
+"search_notes": "Ran 9 Google News queries (artificial intelligence; export controls/Nvidia/chips; data center/electricity; deepfake/chatbot/Big Tech/preemption; H200/H20/chip smuggling; copyright/facial recognition/Judiciary AI; export control hearing remarks; AI statements 2026; G42/World Liberty letter) plus Wayback listings of kamlager-dove.house.gov and democrats-foreignaffairs.house.gov and fetches of about 12 pages: both UAE chip letters, the Feb 2026 hearing remarks, the China pause letter, the Meeks-Mast chipmaking tools letter (she is a cosigner), the HFAC markup statement listing her H.R. 4505, the BIS STRENGTH Act item, both TikTok statements, a 2025 higher-education roundtable release (not AI), and the Matsui letter PDF (she is a signer). Nothing found on data centers or on AI safety beyond the election deception bill despite her seat on the Judiciary AI subcommittee. AI Money Watch shows no tracked AI super PAC activity for her."
+},
+{
+"bioguide": "S001156",
+"name": "Linda T. Sánchez",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Cosponsored the Protecting Families from AI Data Center Energy Costs Act so families' electric bills do not rise to pay for the power lines and plants data centers need. No speeches or statements on data centers found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6529 Protecting Families from AI Data Center Energy Costs Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2026-04-21",
+"quote": null,
+"what_it_shows": "Backs keeping data center grid costs off household electric bills, a ratepayer-first position."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "low",
+"summary": "Mixed. In a 2024 candidate questionnaire she said she worries about unchecked AI and deepfakes and cosponsored the CREATE AI Act, but her proposed fix was for tech companies to set their own industry-wide standards for labeling AI-made content rather than new federal rules.",
+"evidence": [
+{
+"type": "interview",
+"title": "Orange County Register 2024 election questionnaire: what should the federal government do about deepfakes",
+"url": "https://www.ocregister.com/2024/10/04/linda-sanchez-ca-38-candidate-2024-election-questionnaire/",
+"date": "2024-10-04",
+"quote": "But I'm concerned about the negative impact AI can have if left unchecked, particularly the harmful effects of deepfakes on our economy and democracy.",
+"what_it_shows": "Voices concern about unchecked AI and deepfakes, pointing to the CREATE AI Act as her answer."
+},
+{
+"type": "interview",
+"title": "Orange County Register 2024 election questionnaire: proposed remedy for AI deepfakes",
+"url": "https://www.ocregister.com/2024/10/04/linda-sanchez-ca-38-candidate-2024-election-questionnaire/",
+"date": "2024-10-04",
+"quote": "The private sector should develop industry-wide standards for detecting and notifying users about AI-generated or augmented images, videos or audio",
+"what_it_shows": "Prefers voluntary industry watermarking standards over a federal mandate, a lighter-touch approach."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5077 CREATE AI Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5077",
+"date": "2023-12-11",
+"quote": null,
+"what_it_shows": "Supports a national shared computing resource so researchers, not just big companies, can build and study AI; neutral on rules."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward targeted rules on a thin record: she cosponsored the My Body, My Data privacy bill and says tech companies should bear responsibility for how their products are used, though she suggested industry standards rather than new law for AI labeling.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2024-11-12",
+"quote": null,
+"what_it_shows": "Supported a major privacy bill stopping apps from collecting or sharing reproductive health data."
+},
+{
+"type": "interview",
+"title": "Orange County Register 2024 election questionnaire: tech company responsibility",
+"url": "https://www.ocregister.com/2024/10/04/linda-sanchez-ca-38-candidate-2024-election-questionnaire/",
+"date": "2024-10-04",
+"quote": "Technology companies should also bear responsibility for how their products are used. The private sector should develop industry-wide standards for detecting and notifying users about AI-generated or augmented images, videos or audio",
+"what_it_shows": "Says platforms should be accountable for misuse but points to self-set industry standards as the mechanism."
+}
+]
+},
+"preemption": {
+"score": -1,
+"confidence": "medium",
+"summary": "Signed the November 2025 letter from 81 House Democrats opposing a state AI-law moratorium in the defense bill and a preemption executive order, arguing Congress should not freeze state safeguards while no federal protections exist.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: 81 House Democrats led by Rep. Matsui oppose an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "Sánchez is a signer of the letter against federal preemption of state AI laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. As Ways and Means Trade Subcommittee ranking member she has spoken about competing with China on critical minerals and about tariffs, but not about chips or export controls.",
+"evidence": []
+}
+},
+"signature": "Ways and Means Trade Subcommittee ranking member with a thin AI record: signed the House Democrats' letter against a state AI-law moratorium and cosponsored a bill to keep data center power costs off family electric bills.",
+"notable_quote": {
+"text": "But I'm concerned about the negative impact AI can have if left unchecked, particularly the harmful effects of deepfakes on our economy and democracy.",
+"url": "https://www.ocregister.com/2024/10/04/linda-sanchez-ca-38-candidate-2024-election-questionnaire/",
+"date": "2024-10-04"
+},
+"groups": [
+"Ranking Member, House Ways and Means Subcommittee on Trade"
+],
+"search_notes": "Ran 9 Google News queries (artificial intelligence; data center; AI Medicare/prior authorization/deepfake/chatbot; Big Tech/Section 230/Nvidia/export controls/preemption; Ratepayer/electric bills/utility; TikTok/privacy/social media; NO FAKES/Grammys; Ways and Means AI hearing; semiconductor/Section 232 chips tariff) plus two Wayback listings of lindasanchez.house.gov (no AI-related releases archived since 2025), a scan of her live press release listing, and fetches of the OC Register 2024 questionnaire (the only place she discusses AI in her own words), her Sept 2, 2026 Trade hearing opening statement on critical minerals (about China competition and corruption, not chips), and the Matsui letter PDF (she is a signer). MedPage Today and Medical Economics stories on Medicare AI prior authorization could not be opened (Google News links would not decode) and it is unclear she was quoted. AI Money Watch page for her did not load; no AI super PAC activity surfaced in news."
+}
+]

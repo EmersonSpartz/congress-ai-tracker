@@ -1,0 +1,824 @@
+[
+{
+"bioguide": "W000805",
+"name": "Mark R. Warner",
+"signature": "Senate Intelligence vice chair with a sweeping July 2026 AI agenda (mandatory testing of frontier models, data center disclosure, AI agent rules, worker transition fund), a hard line on chip exports to China, and a blunt rejection of a data center moratorium as \"idiocy.\"",
+"notable_quote": {
+"text": "We cannot just leave this to the goodwill of some of these tech CEOs.",
+"url": "https://www.alexandriabrief.com/warner-unveils-ai-legislative-package-targeting-data-centers-worker-displacement-and-national-security/",
+"date": "2026-07-23"
+},
+"groups": [
+"Senate Select Committee on Intelligence (Vice Chairman)"
+],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "high",
+"summary": "Warner wants data centers built and calls a moratorium \"idiocy\" because China would move faster, but he also wants them to pay their own grid costs, disclose energy and water use, run on clean power, keep setbacks from homes, and meet efficiency standards to keep federal tax breaks. His position is a deliberate middle: build, but with real strings attached.",
+"evidence": [
+{
+"type": "statement",
+"title": "National Desk: Warner calls proposed data center moratorium \"idiocy\" at Axios AI summit",
+"url": "https://thenationaldesk.com/news/americas-news-now/senator-mark-warner-proposed-ai-technology-data-center-moratorium-construction-idiocy",
+"date": "2026-03-26",
+"quote": "That would be idiocy. A data center moratorium simply means China's gonna move quicker. This is one where we can't lose.",
+"what_it_shows": "He rejects the Sanders and Ocasio-Cortez moratorium and frames data centers as a race with China the US must win."
+},
+{
+"type": "statement",
+"title": "Cardinal News: Warner co-sponsors the Power for the People Act (data centers pay their own grid costs)",
+"url": "https://cardinalnews.org/2026/06/10/tech-briefs-new-bill-backed-by-warner-would-curb-energy-costs-demands-from-data-centers/",
+"date": "2026-06-10",
+"quote": "If corporations are going to run data centers in Virginia, they should cover the cost of them. I'm proud to support the Power for the People Act to ensure that huge corporations are not pawning off costs to working Americans.",
+"what_it_shows": "He backs a bill directing states to make data centers, not households, pay for the power and grid upgrades they need."
+},
+{
+"type": "sponsor",
+"title": "S.5054, Data Center Tax Accountability and Disclosure Act of 2026 (Warner is sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5054",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "His own bill would make large AI data centers publicly report energy, water, emissions and backup generation and tie federal bonus depreciation to efficiency standards."
+},
+{
+"type": "statement",
+"title": "Alexandria Brief: Warner unveils AI package, calls for federal minimum standards on data centers",
+"url": "https://www.alexandriabrief.com/warner-unveils-ai-legislative-package-targeting-data-centers-worker-displacement-and-national-security/",
+"date": "2026-07-23",
+"quote": "Communities should not be asked to shoulder the costs of the AI revolution without knowing what they're signing up for",
+"what_it_shows": "His floor speech and media call pushed disclosure of local incentive deals, no added cost to household electric bills, clean backup power, water standards and setbacks from neighborhoods."
+},
+{
+"type": "statement",
+"title": "ARLnow: Warner data center bill ties bonus depreciation to LEED Gold or Platinum certification",
+"url": "https://www.arlnow.com/2026/07/22/sen-warner-targets-data-centers-energy-usage-economic-impacts-of-ai-in-new-bills/",
+"date": "2026-07-22",
+"quote": "America doesn't have to choose between leading in AI and putting commonsense rules of the road in place. In fact, our leadership depends on getting this right.",
+"what_it_shows": "He frames the data center and AI rules as compatible with US leadership rather than a brake on it; the bill was endorsed by the Chesapeake Bay Foundation, Sierra Club and Virginia LCV."
+},
+{
+"type": "interview",
+"title": "Potomac Local (via Fredericksburg Free Press): Warner seeks guardrails on data center power costs",
+"url": "https://www.potomaclocal.com/2026/06/07/warner-seeks-guardrails-on-data-center-power-costs/",
+"date": "2026-06-07",
+"quote": "We're not going to stop artificial intelligence. We have to put guardrails on it. But I also think we need guardrails on data centers",
+"what_it_shows": "He pairs acceptance of AI growth with a call for limits on data centers' cost impacts."
+},
+{
+"type": "other",
+"title": "CEPA commentary: Warner deems a data center moratorium \"idiocy\" while sponsoring clean-energy and cost-recovery mandates",
+"url": "https://cepa.org/article/data-centers-move-center-stage/",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "Outside analysts describe him as the model of a moderate Democrat who supports continued construction paired with pollution and rate protections."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "medium",
+"summary": "Warner wants binding rules on the most powerful AI: his Secure AI Development Act would require mandatory security testing of frontier models before release, and he says Congress cannot rely on tech CEOs' goodwill. He also backs kids-and-chatbot age checks, AI labeling, AI layoff reporting and deepfake crackdowns. He calls himself pro-AI and pro-tech, opposes a pause, and cosponsored a financial-services AI sandbox bill, so his approach is strict on frontier safety but not anti-AI.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "S.5061, Secure A.I. Development Act of 2026 (Warner is sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5061",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "A 47-page bill to improve tracking of AI security and safety incidents and, per Warner's description, require secure testing of the most advanced models before deployment."
+},
+{
+"type": "statement",
+"title": "Alexandria Brief: Warner calls for mandatory safety testing of AI models before public release",
+"url": "https://www.alexandriabrief.com/warner-unveils-ai-legislative-package-targeting-data-centers-worker-displacement-and-national-security/",
+"date": "2026-07-23",
+"quote": "We cannot just leave this to the goodwill of some of these tech CEOs.",
+"what_it_shows": "He compared pre-release AI testing to drug and car safety standards and cited an OpenAI model that broke out of its test environment as the reason binding rules are needed."
+},
+{
+"type": "cosponsor",
+"title": "S.3062, GUARD Act (age checks and no AI companion bots for kids)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"date": "2025-10-28",
+"quote": null,
+"what_it_shows": "Supports binding rules on AI chatbot companies to keep children away from companion bots."
+},
+{
+"type": "cosponsor",
+"title": "S.4915, AI Labeling Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4915",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "Supports mandatory labels on AI-generated pictures, video and text."
+},
+{
+"type": "cosponsor",
+"title": "S.3108, AI-Related Job Impacts Clarity Act (with Sen. Hawley)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3108",
+"date": "2025-11-05",
+"quote": null,
+"what_it_shows": "Would require companies to report AI-caused layoffs to the Labor Department."
+},
+{
+"type": "letter",
+"title": "FedScoop: Warner and Hawley lead bipartisan letter demanding federal data on AI's labor market impact",
+"url": "https://fedscoop.com/senate-data-ai-labor-market-dol-warner-hawley/",
+"date": "2026-03-06",
+"quote": "At a time when the U.S. workforce is approaching an inflection point due to the acceleration of artificial intelligence, adaptable and responsive federal statistical agencies are necessary",
+"what_it_shows": "He treats AI job disruption as imminent and wants government surveys changed to track it."
+},
+{
+"type": "interview",
+"title": "Fortune: Warner warns new-grad unemployment could hit 30 to 35 percent within two years",
+"url": "https://fortune.com/2026/03/25/new-grad-unemployment-spike-dario-sam-ai-fear-mongering/",
+"date": "2026-03-25",
+"quote": "I will bet anybody in the audience that goes to 30 or 35% within the next two years",
+"what_it_shows": "At the Hill and Valley Forum he described AI as \"the battle of our time\" while calling himself a pro-AI, pro-tech guy, showing alarm about disruption without opposing the technology."
+},
+{
+"type": "letter",
+"title": "Fortune: Gillibrand letter signed by Warner blasts the administration's \"unfocused, ad hoc\" approach to frontier AI oversight",
+"url": "https://fortune.com/2026/08/04/trump-ai-regulation-china-national-security/",
+"date": "2026-08-04",
+"quote": "The Trump administration's unfocused, ad hoc approach to AI risks America's economic security and competitiveness",
+"what_it_shows": "He and four other Democratic senators demanded clear, consistent federal rules for frontier models instead of case-by-case White House directives."
+},
+{
+"type": "letter",
+"title": "MeriTalk: Warner urges 17 AI and social media companies to crack down on election deepfakes before the midterms",
+"url": "https://www.meritalk.com/articles/warner-urges-tech-firms-to-crack-down-on-election-deepfakes/",
+"date": "2026-03-23",
+"quote": null,
+"what_it_shows": "He asked OpenAI, Anthropic, Meta, Google and others to add content credentials, watermarks and detection sharing ahead of the 2026 elections."
+},
+{
+"type": "cosponsor",
+"title": "S.2528, Unleashing AI Innovation in Financial Services Act (regulatory sandbox)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2528",
+"date": "2026-02-26",
+"quote": null,
+"what_it_shows": "Contradictory signal: he joined a bill letting financial firms test AI tools with fewer rules, showing he is not uniformly pro-regulation."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "Warner is one of the Senate's most persistent Big Tech critics. He cosponsors tougher antitrust law, the Kids Online Safety Act and a social media ban for children under 13, and his 2026 AI AGENT Act would force dominant platforms to let independent AI agents interoperate so the big companies do not lock in the next market. He says Congress failed on social media and should not repeat that mistake.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.130, Competition and Antitrust Law Enforcement Reform Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/130",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Backs a major antitrust overhaul that would make it harder for giant companies, including Big Tech, to merge."
+},
+{
+"type": "cosponsor",
+"title": "S.1748, Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-09",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms toward minors."
+},
+{
+"type": "cosponsor",
+"title": "S.278, Kids Off Social Media Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/278",
+"date": "2025-01-28",
+"quote": null,
+"what_it_shows": "Would ban children under 13 from social media and limit algorithmic targeting of teens."
+},
+{
+"type": "sponsor",
+"title": "S.5051, AI AGENT Act of 2026 (Artificial Intelligence Access, Gatekeeper Exchange, and Nondiscriminatory Transfer Act)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5051",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "His bill would impose duties on consumer AI agents and require large gatekeeper platforms to allow competing agents access."
+},
+{
+"type": "statement",
+"title": "Alexandria Brief: Warner on why AI agents must be able to reach every model",
+"url": "https://www.alexandriabrief.com/warner-unveils-ai-legislative-package-targeting-data-centers-worker-displacement-and-national-security/",
+"date": "2026-07-23",
+"quote": "If we don't make sure that AI agents can access all the models, we could end up again where the big tech companies dominate",
+"what_it_shows": "He frames AI agent rules as a way to stop Big Tech from repeating its dominance of social media."
+},
+{
+"type": "other",
+"title": "Tech Policy Press analysis: Warner's AI AGENT Act is the first draft federal law on agentic AI power and follows the EU Digital Markets Act interoperability model",
+"url": "https://www.techpolicy.press/senator-warner-makes-a-first-foray-into-agentic-ai-regulation/",
+"date": "2026-07-13",
+"quote": null,
+"what_it_shows": "Legal scholars read the bill as a structural, pro-competition intervention against dominant platforms, in line with Warner's earlier ACCESS Act on data portability."
+},
+{
+"type": "sponsor",
+"title": "S.686, RESTRICT Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-07",
+"quote": null,
+"what_it_shows": "He authored the bill giving the government power to review and block apps and tech from rival countries, the framework behind the TikTok debate."
+},
+{
+"type": "cosponsor",
+"title": "S.1207, EARN IT Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1207",
+"date": "2023-04-19",
+"quote": null,
+"what_it_shows": "Supported stripping platforms' Section 230 shield when they allow child abuse material to spread."
+}
+]
+},
+"preemption": {
+"score": 0,
+"confidence": "low",
+"summary": "Warner has signaled he could accept a single federal AI standard if it comes with real guardrails, and he criticized the March 2026 White House framework, which included preemption of state laws, as lacking substance. No clear statement for or against overriding state AI laws was found, and his Yea vote to strip the 2025 moratorium was cast by 99 senators.",
+"evidence": [
+{
+"type": "other",
+"title": "Politico Pro headline: \"Warner open to federal AI standard with guardrails\" (subscriber article, text not readable)",
+"url": "https://subscriber.politicopro.com/article/2026/03/warner-open-to-federal-ai-standard-with-guardrails-00849224",
+"date": "2026-03-27",
+"quote": null,
+"what_it_shows": "A week after the White House framework, Politico reported Warner would consider one national AI standard so long as it carried meaningful protections; only the headline could be confirmed."
+},
+{
+"type": "statement",
+"title": "Fortune: Warner blasted the White House AI framework as lacking substance",
+"url": "https://fortune.com/2026/03/25/new-grad-unemployment-spike-dario-sam-ai-fear-mongering/",
+"date": "2026-03-25",
+"quote": "lacks significant substance",
+"what_it_shows": "He did not endorse the administration's preemption-centered framework and faulted it for thin consumer protections."
+},
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (Warner voted Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He voted with 98 colleagues to remove the moratorium; because the vote was 99 to 1 after the deal collapsed, it does not by itself show opposition to preemption."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Warner wants tighter control over advanced AI chips. He joined statements opposing Trump's Gulf chip deals without security assurances, cosponsored the Stop Stealing our Chips Act that passed the Senate in May 2026, and backs a longer statute of limitations for export-control violations. Even his data center argument is framed as denying China an edge.",
+"evidence": [
+{
+"type": "statement",
+"title": "Joint statement of Coons, Shaheen, Reed, Warner, Kelly, Himes and Krishnamoorthi on Trump's UAE and Saudi AI chip deals",
+"url": "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1380",
+"date": "2025-05-16",
+"quote": "President Trump announced deals to export very large volumes of advanced AI chips to the UAE and Saudi Arabia without credible security assurances to prevent U.S. adversaries from accessing those chips.",
+"what_it_shows": "He warned the deals could leak compute to China through G42 and offshore the US AI buildout, while applauding limits on Nvidia exports to China."
+},
+{
+"type": "cosponsor",
+"title": "S.1473, Stop Stealing our Chips Act (Rounds bill, Warner sole cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1473",
+"date": "2025-04-10",
+"quote": null,
+"what_it_shows": "Creates a whistleblower reward program to catch illegal chip smuggling; the bill passed the Senate unanimously on May 20, 2026 per GovTrack."
+},
+{
+"type": "other",
+"title": "GovTrack: S.1473 passed the Senate on May 20, 2026 and goes to the House next",
+"url": "https://www.govtrack.us/congress/bills/119/s1473",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "Confirms the Warner-backed anti-smuggling bill cleared the Senate."
+},
+{
+"type": "cosponsor",
+"title": "S.5380, ten-year statute of limitations for export control violations",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5380",
+"date": "2026-08-07",
+"quote": null,
+"what_it_shows": "Would give enforcers twice as long to punish illegal shipments of sensitive technology."
+},
+{
+"type": "cosponsor",
+"title": "S.5382, China AI Power Report Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5382",
+"date": "2026-08-07",
+"quote": null,
+"what_it_shows": "Requests a government report on how fast China's AI capability is growing."
+},
+{
+"type": "statement",
+"title": "National Desk: Warner says a data center moratorium would let China move quicker",
+"url": "https://thenationaldesk.com/news/americas-news-now/senator-mark-warner-proposed-ai-technology-data-center-moratorium-construction-idiocy",
+"date": "2026-03-26",
+"quote": "A data center moratorium simply means China's gonna move quicker",
+"what_it_shows": "His AI competition framing centers on keeping the US ahead of China."
+}
+]
+}
+},
+"search_notes": "Ran about 14 news searches (AI, data center, preemption, Nvidia/export controls, Big Tech/Section 230, chatbot/deepfake, AI agents, Rounds chips bill, EO reaction, framework reaction) plus a site listing of warner.senate.gov. warner.senate.gov, wric.com, 13newsnow, axios.com, politico.com, coons.senate.gov, vanhollen.senate.gov and democrats.senate.gov all returned 403 and the Wayback fallback refused connections, so Warner's own July 21, 2026 agenda release, his Dec 2025 statement on the Trump AI executive order, the Power for the People release and the Aug 2025 chip-fee letter were read only through secondary coverage (Alexandria Brief, ARLnow, Cardinal News, Potomac Local, National Desk, Fortune, FedScoop, MeriTalk). Google News link decoding was rate limited, so Cardinal News's Mar 25, 2026 delegation reaction piece and the IBT/Axios agenda exclusives could not be opened. The Politico Pro preemption headline is cited with no quote because the article body is paywalled. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "K000384",
+"name": "Tim Kaine",
+"signature": "Hawk on AI chip sales to China (Senate floor speech against the Nvidia H200 decision, SAFE Chips Act cosponsor), mixed on data centers (opposes a moratorium, says some communities want the tax base), and a cosponsor of kids-and-chatbot safety and AI layoff reporting bills.",
+"notable_quote": {
+"text": "For decades, under administrations of both parties, the United States has adhered to a simple principle: we do not sell our most advanced security-critical technology to adversaries. That principle exists for a reason",
+"url": "https://www.kaine.senate.gov/press-releases/video-kaine-slams-trumps-reckless-and-corrupt-decision-to-allow-nvidia-to-sell-advanced-chips-to-china",
+"date": "2025-12-18"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Kaine treats data centers as a local choice: some Virginia communities have too many while others want the tax revenue. He opposes a national moratorium as handing competitors a chance to catch up, and points to permitting reform as common ground. First-pass leads say he signed 2025 letters to FERC and PJM demanding that households not subsidize data centers, but those pages could not be opened to confirm.",
+"evidence": [
+{
+"type": "interview",
+"title": "Stateline (via KOTA): Kaine on data centers as a local tax base question",
+"url": "https://www.kotatv.com/2026/05/26/data-center-battles-started-states-now-its-congress-under-siege/",
+"date": "2026-05-26",
+"quote": "Some communities may have too many, but some would like the opportunity to have one of these data centers that pay a lot of local taxes",
+"what_it_shows": "He declines to take a blanket pro or anti position and stresses local benefits alongside local saturation."
+},
+{
+"type": "interview",
+"title": "Stateline (via KOTA): Kaine explains why he opposes a data center moratorium",
+"url": "https://www.kotatv.com/2026/05/26/data-center-battles-started-states-now-its-congress-under-siege/",
+"date": "2026-05-26",
+"quote": "The idea of a moratorium basically would be saying to all our competitors in the world we have an edge on this now but we're going to let you catch up and race ahead of us.",
+"what_it_shows": "He rejects a pause on building and sees permitting reform as the area where lawmakers can agree."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Kaine backs specific guardrails rather than sweeping AI rules: he cosponsors the GUARD Act to keep kids away from AI companion chatbots, the AI-Related Job Impacts Clarity Act requiring companies to report AI layoffs, signed a bipartisan letter seeking federal data on AI's effect on jobs, and questioned the FAA's use of AI to analyze aviation safety data.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.3062, GUARD Act (age verification and no AI companion bots for minors)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"date": "2026-01-29",
+"quote": null,
+"what_it_shows": "Supports binding rules on AI chatbot companies to protect children."
+},
+{
+"type": "cosponsor",
+"title": "S.3108, AI-Related Job Impacts Clarity Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3108",
+"date": "2026-01-29",
+"quote": null,
+"what_it_shows": "Would require large companies and agencies to report AI-driven layoffs to the Labor Department."
+},
+{
+"type": "letter",
+"title": "Cardinal News: Kaine signs Warner-Hawley letter seeking federal data on AI-related job losses",
+"url": "https://cardinalnews.org/2026/03/11/tech-briefs-warner-kaine-seeking-information-on-ai-related-job-losses/",
+"date": "2026-03-11",
+"quote": "The emergence of autonomous technologies, including agentic AI and robotics integrating AI, present opportunities for a dramatic shift in the nature of work",
+"what_it_shows": "He wants the government to measure AI's labor impact so policymakers can respond."
+},
+{
+"type": "letter",
+"title": "Warner, Kaine and colleagues press FAA on workforce cuts and use of AI on aviation safety",
+"url": "https://www.kaine.senate.gov/press-releases/warner-kaine-and-colleagues-press-faa-on-federal-workforce-cuts-and-use-of-ai-on-aviation-safety",
+"date": "2025-07-23",
+"quote": null,
+"what_it_shows": "The senators asked which AI tools the FAA is using to analyze safety data after the flight 5342 crash, showing caution about substituting AI for expert staff in safety-critical work."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Kaine supports targeted tech rules: he has cosponsored the Kids Online Safety Act in two Congresses, the RESTRICT Act on apps from rival countries, and a reproductive health data privacy bill, and in 2026 he and Warner demanded an inspector general audit of DHS data collection and surveillance technology purchases.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "S.1748, Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-09-18",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms toward minors."
+},
+{
+"type": "cosponsor",
+"title": "S.686, RESTRICT Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-14",
+"quote": null,
+"what_it_shows": "Backed government power to review and block technology from rival countries such as China."
+},
+{
+"type": "cosponsor",
+"title": "S.1656, My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1656",
+"date": "2023-07-13",
+"quote": null,
+"what_it_shows": "Supports limits on collecting and selling reproductive health data."
+},
+{
+"type": "letter",
+"title": "Warner, Kaine demand investigation into DHS use of surveillance technology",
+"url": "https://www.kaine.senate.gov/press-releases/warner-kaine-demand-investigation-into-dhs-use-of-surveillance-technology",
+"date": "2026-01-29",
+"quote": "Together, ICE's new information collection tools potentially enable DHS to circumvent the constitutional protections provided by the Fourth Amendment",
+"what_it_shows": "He wants oversight of government purchases of data and surveillance tools, a privacy-first stance on technology procurement."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Searched for Kaine statements on state AI laws, the 2025 moratorium fight, the December 2025 executive order and the March 2026 White House framework; nothing turned up beyond his Yea vote on the 99 to 1 amendment, which nearly every senator cast.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1 (Kaine voted Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He voted to remove the moratorium along with 98 colleagues; the lopsided vote does not by itself show a position on preemption."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Kaine took to the Senate floor to condemn the Trump administration's decision to let Nvidia sell H200 chips to China, calling advanced chips a matter of national security and the foundation of future warfare, and he cosponsors the SAFE Chips Act to lock current export limits into law.",
+"evidence": [
+{
+"type": "statement",
+"title": "Video: Kaine slams Trump's decision to allow Nvidia to sell advanced chips to China (Senate floor speech)",
+"url": "https://www.kaine.senate.gov/press-releases/video-kaine-slams-trumps-reckless-and-corrupt-decision-to-allow-nvidia-to-sell-advanced-chips-to-china",
+"date": "2025-12-18",
+"quote": "For decades, under administrations of both parties, the United States has adhered to a simple principle: we do not sell our most advanced security-critical technology to adversaries. That principle exists for a reason",
+"what_it_shows": "He argues the H200 sale erodes America's AI edge, helps China's military, and reflects transactional politics; he urged colleagues to join the SAFE Chips Act."
+},
+{
+"type": "cosponsor",
+"title": "S.3374, SAFE Chips Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3374",
+"date": "2025-12-16",
+"quote": null,
+"what_it_shows": "Would codify current limits on advanced AI chip sales to China so the White House cannot loosen them alone."
+}
+]
+}
+},
+"search_notes": "Ran about 12 news searches (AI, data center, preemption, Nvidia/SAFE Chips, Big Tech/Section 230, chatbot/deepfake, FERC/PJM letters, AI education hearing, AI job losses) plus two site listings of kaine.senate.gov, which was readable through the Wayback fallback. The Van Hollen press releases for the Feb 2025 FERC letter and Nov 2025 PJM letter (first-pass leads listing Kaine as a signer) returned 403 on every route, so they are noted in the summary but not cited as evidence. The Banking Committee minority page for the Dec 2025 H200 letter (lead) and the Foreign Relations Democrats' Trump-Xi statement were also blocked. Virginia Mercury (Jul 6, 2026) and Loudoun Times-Mirror pieces with reported Kaine data center remarks could not be opened. No AI super PAC activity found."
+},
+{
+"bioguide": "W000804",
+"name": "Robert J. Wittman",
+"signature": "China-focused tech hawk (his Foreign Adversary Communications Transparency Act passed the House; No DeepSeek and connected-vehicle cosponsor) who backs an all-of-the-above energy buildout and permitting reform while cosponsoring the Ratepayer Protection Act and saying voters have legitimate concerns about who pays for data center power.",
+"notable_quote": {
+"text": "I think people have very legitimate concerns, and that is: Who is going to pay the bill for the additional energy that's demanded from this?",
+"url": "https://www.eenews.net/articles/data-center-boom-creates-political-conundrum-for-the-gop-2/",
+"date": "2025-12-11"
+},
+"groups": [
+"House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party (Member)",
+"House Republican China Accountability Task Force (Member)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Wittman supports building more energy, faster permitting and grid modernization to meet growing demand, and voted for the SPEED Act permitting bill. At the same time he says constituents' worries about paying for data center power are legitimate and he cosponsored the Ratepayer Protection Act so data centers cover their own grid costs. Democrats are targeting him on the issue in VA-1, and Dogwood reported he owns NextEra stock as that company seeks to buy Dominion.",
+"evidence": [
+{
+"type": "interview",
+"title": "E&E News: Data center boom creates political conundrum for the GOP (Wittman interviewed)",
+"url": "https://www.eenews.net/articles/data-center-boom-creates-political-conundrum-for-the-gop-2/",
+"date": "2025-12-11",
+"quote": "I think people have very legitimate concerns, and that is: Who is going to pay the bill for the additional energy that's demanded from this?",
+"what_it_shows": "He acknowledges the cost complaints driving the backlash; the article notes several data center proposals in his district were shelved after local pushback."
+},
+{
+"type": "cosponsor",
+"title": "H.R.9340, Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-06-30",
+"quote": null,
+"what_it_shows": "He joined the leading House bill to keep household electric bills from rising to serve data centers and other large loads."
+},
+{
+"type": "statement",
+"title": "Wittman official Energy priorities page: all-of-the-above energy, permitting reform, and the Ratepayer Protection Act",
+"url": "https://wittman.house.gov/priorities/energy",
+"date": null,
+"quote": "requiring state regulators to consider standards ensuring data centers and other large electricity users pay the costs of the power generation, transmission lines, and grid upgrades needed to serve them",
+"what_it_shows": "His own page pairs support for expanding generation, nuclear and permitting reform with making data centers pay their way rather than shifting costs to families."
+},
+{
+"type": "statement",
+"title": "Wittman Energy page on permitting reform",
+"url": "https://wittman.house.gov/priorities/energy",
+"date": null,
+"quote": "Lengthy and unpredictable permitting processes delay energy projects, discourage investment, and ultimately increase costs for consumers.",
+"what_it_shows": "He favors faster permitting and grid buildout to meet growing energy needs, a pro-build stance."
+},
+{
+"type": "vote",
+"title": "House roll call 356: passage of H.R. 4776, the SPEED Act (NEPA permitting reform), Wittman voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He supported permitting reform promoted as accelerating AI and energy infrastructure."
+},
+{
+"type": "other",
+"title": "CEPA: Wittman acknowledged rate hikes are a \"legitimate concern\" and said developers should \"mind the impact\" of energy costs",
+"url": "https://cepa.org/article/data-centers-move-center-stage/",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "A think tank commentary cites him as an example of Republicans becoming data center skeptics on cost grounds while still not opposing construction."
+},
+{
+"type": "other",
+"title": "Dogwood: Wittman owns up to $15,000 in NextEra stock as the company seeks to merge with Dominion",
+"url": "https://vadogwood.com/news/infrastructure/the-dominion-nextera-merger-is-messy-rob-wittman-stands-to-benefit-from-it/",
+"date": "2026-09-10",
+"quote": "Dogwood also reported that US Rep. Rob Wittman (R-Westmoreland) owns as much as $15,000 in NextEra shares.",
+"what_it_shows": "A progressive outlet argues his bonus-depreciation vote and stock holdings align him with utility and data center growth; it is an attack line in his race, not a policy statement."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Wittman has repeatedly cosponsored targeted AI guardrails: the NO FAKES Act in three Congresses to give people control over AI copies of their voice and face, the No AI FRAUD Act, and in 2023 the National AI Commission Act to study how government should oversee AI. No broader statements on frontier AI danger or a pause were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.2794, NO FAKES Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2794",
+"date": "2025-06-23",
+"quote": null,
+"what_it_shows": "Supports a federal right to stop unauthorized AI replicas of a person's voice and likeness."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8915, NO FAKES Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8915",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "Re-upped support for the updated digital replica bill."
+},
+{
+"type": "cosponsor",
+"title": "H.R.4223, National AI Commission Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4223",
+"date": "2023-07-06",
+"quote": null,
+"what_it_shows": "Backed a bipartisan commission to recommend how Congress should regulate AI."
+},
+{
+"type": "cosponsor",
+"title": "H.R.6943, No AI FRAUD Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6943",
+"date": "2024-01-10",
+"quote": null,
+"what_it_shows": "Supported letting people sue over AI fakes of their voice or likeness."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Wittman's tech rules focus on national security and children: he sponsored the Foreign Adversary Communications Transparency Act, which passed the House in April 2025, cosponsors bans on DeepSeek on government devices and on Chinese-linked connected cars, and has backed Sammy's Law, the STOP CSAM Act and the House Kids Online Safety Act.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R.906, Foreign Adversary Communications Transparency Act (Wittman is sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/906",
+"date": "2025-01-31",
+"quote": null,
+"what_it_shows": "His bill requires the FCC to publish a list of communications companies tied to China and other adversaries."
+},
+{
+"type": "other",
+"title": "GovTrack: H.R. 906 passed the House by voice vote on April 28, 2025",
+"url": "https://www.govtrack.us/congress/bills/119/hr906",
+"date": "2025-04-28",
+"quote": null,
+"what_it_shows": "Confirms his adversary-transparency bill cleared the House with bipartisan cosponsors."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "Would ban sales of connected cars and components from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "H.R.2657, Sammy's Law",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2025-10-08",
+"quote": null,
+"what_it_shows": "Requires big social platforms to let parents use third-party safety apps."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3921, STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-05-29",
+"quote": null,
+"what_it_shows": "Supports platform liability for failing to remove child sexual abuse material."
+},
+{
+"type": "cosponsor",
+"title": "H.R.7891, Kids Online Safety Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-07-11",
+"quote": null,
+"what_it_shows": "Backed the House version of KOSA."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Searched for Wittman statements on state AI laws, the 2025 moratorium, the December 2025 executive order and the March 2026 White House framework, and checked his press releases and priorities pages; nothing was found.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Wittman leans hawkish on Chinese technology: he sits on the House Select Committee on the Chinese Communist Party, cosponsored the No DeepSeek on Government Devices Act, and sponsored a bill exposing adversary-linked telecom companies. He has not cosponsored the chip export-control bills (Chip Security Act, AI OVERWATCH) and no statements on Nvidia sales to China were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.1121, No DeepSeek on Government Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-24",
+"quote": null,
+"what_it_shows": "Supports removing the Chinese AI app from all federal devices."
+},
+{
+"type": "sponsor",
+"title": "H.R.906, Foreign Adversary Communications Transparency Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/906",
+"date": "2025-01-31",
+"quote": null,
+"what_it_shows": "His own bill targets Chinese-linked communications companies, showing a China-security lens on technology policy."
+}
+]
+}
+},
+"search_notes": "Ran about 11 news searches (AI, data center, ratepayer/electricity bills, China chips/DeepSeek/Nvidia, AI regulation/Section 230/Big Tech, CEPA data center, preemption/state AI laws, NextEra merger) plus a site listing and fetches of wittman.house.gov pages (energy priorities, caucuses, councils and task forces, press release index). The first-pass lead that he is a member of the Congressional Artificial Intelligence Caucus could not be confirmed: his official caucuses page does not list it and the caucus membership page was unreachable, so it is omitted from groups. The Reuters/Times of India Dec 2025 letter urging the Pentagon to list DeepSeek (possible signer) was blocked. Politico's Aug 26 and Sept 2, 2026 pieces on House Republicans and data centers returned 403. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "K000399",
+"name": "Jennifer A. Kiggans",
+"signature": "Sponsor of the AI for America Act (a national AI strategy that removes regulatory barriers to adoption) and cosponsor of the Chip Security and AI OVERWATCH export-control bills; a late cosponsor of the Ratepayer Protection Act in a competitive Hampton Roads seat.",
+"notable_quote": {
+"text": "The AI for America Act ensures that the United States remains the world's innovation leader by setting clear goals, strengthening research infrastructure, and removing outdated barriers to safe adoption.",
+"url": "https://kiggans.house.gov/2025/11/25/kiggans-leads-bill-to-strengthen-u-s-leadership-in-ai",
+"date": "2025-11-25"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Kiggans signed onto the Ratepayer Protection Act on Sept 1, 2026, which would push data centers to pay their own grid costs, after voting for the SPEED Act permitting bill in Dec 2025. No public statements about data centers were found, so her stance beyond these two actions is unclear.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.9340, Ratepayer Protection Act (Kiggans joined Sept 1, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-09-01",
+"quote": null,
+"what_it_shows": "She joined the main House bill to keep household electric bills from covering data center power costs, two weeks before the scheduled floor vote."
+},
+{
+"type": "other",
+"title": "GovTrack cosponsor list for H.R. 9340 showing Kiggans added Sept 1, 2026",
+"url": "https://www.govtrack.us/congress/bills/119/hr9340/cosponsors",
+"date": "2026-09-01",
+"quote": null,
+"what_it_shows": "Confirms the date she signed on, among a wave of Republicans joining in late August and early September."
+},
+{
+"type": "vote",
+"title": "House roll call 356: passage of H.R. 4776, the SPEED Act (NEPA permitting reform), Kiggans voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She backed permitting reform promoted as speeding AI and energy infrastructure."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Kiggans's AI for America Act would set a national AI strategy, modernize research infrastructure and direct agencies to identify and remove regulatory barriers to AI use in health care and transportation, with only a one-time NIST report on bias and security risks. She frames AI as a competition with China the US must win, a light-touch, innovation-first approach.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R.6304, AI for America Act (Kiggans is sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6304",
+"date": "2025-11-25",
+"quote": null,
+"what_it_shows": "Her bill codifies a federal AI action plan built on Trump's Executive Order 14179 and requires agencies to remove outdated regulatory barriers to AI adoption."
+},
+{
+"type": "statement",
+"title": "Press release: Kiggans Leads Bill to Strengthen U.S. Leadership in AI",
+"url": "https://kiggans.house.gov/2025/11/25/kiggans-leads-bill-to-strengthen-u-s-leadership-in-ai",
+"date": "2025-11-25",
+"quote": "The AI for America Act ensures that the United States remains the world's innovation leader by setting clear goals, strengthening research infrastructure, and removing outdated barriers to safe adoption.",
+"what_it_shows": "She prioritizes leadership and deregulation over new mandates, while saying the plan should protect against bias, cyber threats and data misuse."
+},
+{
+"type": "statement",
+"title": "Press release: Kiggans on a coordinated federal AI strategy",
+"url": "https://kiggans.house.gov/2025/11/25/kiggans-leads-bill-to-strengthen-u-s-leadership-in-ai",
+"date": "2025-11-25",
+"quote": "This bill ensures the federal government takes a coordinated, strategic approach across agencies, strengthens public-private partnerships, and protects Americans from bias, cybersecurity threats, or misuse of data.",
+"what_it_shows": "Her safeguards are limited to a NIST report on audits and disclosures rather than binding rules on AI developers."
+},
+{
+"type": "cosponsor",
+"title": "H.R.2385, CREATE AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2026-06-30",
+"quote": null,
+"what_it_shows": "Supports a national shared computing resource so researchers and students can build AI, a pro-research rather than regulatory measure."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Looked for bills or statements on Big Tech, Section 230, antitrust, kids online safety, TikTok and privacy; her record in the 118th and 119th Congress contains none of the tracked tech regulation bills and no relevant statements turned up.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Searched for Kiggans statements on state AI laws, the 2025 moratorium, the December 2025 executive order and the March 2026 White House framework; nothing was found, and her AI for America Act does not address state law.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Kiggans cosponsors the two main House bills to tighten chip export controls, the Chip Security Act (location tracking for advanced chips) and the AI OVERWATCH Act (a congressional check on chip sales to China), plus a bill punishing Chinese theft of American AI models. Her earlier chips work focused on speeding domestic fab construction, which she framed as breaking China's chokehold.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.3447, Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2026-03-24",
+"quote": null,
+"what_it_shows": "Would require advanced AI chips to carry location verification to detect smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "H.R.6875, AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-03-24",
+"quote": null,
+"what_it_shows": "Would give Congress power to block advanced AI chip sales to China and other risky countries."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8283, Deterring American AI Model Theft Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"date": "2026-07-27",
+"quote": null,
+"what_it_shows": "Targets foreign companies, especially in China, that steal or copy US AI models."
+},
+{
+"type": "statement",
+"title": "Press release: Kiggans introduces the Building Chips in America Act",
+"url": "https://kiggans.house.gov/2023/07/11/kiggans-introduces-bipartisan-bicameral-bill-to-boost-domestic-chip-manufacturing-while-maintaining-critical-environmental-protections",
+"date": "2023-07-11",
+"quote": "One of the greatest national security threats we face today is China's chokehold on our defense industrial base",
+"what_it_shows": "Her semiconductor work is framed around denying China leverage, consistent with her later export-control cosponsorships."
+},
+{
+"type": "sponsor",
+"title": "H.R.4549, Building Chips in America Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4549",
+"date": "2023-07-11",
+"quote": null,
+"what_it_shows": "Her bill let CHIPS Act fabs skip some environmental reviews to build faster, a domestic-supply rather than export-control measure."
+}
+]
+}
+},
+"search_notes": "Ran about 11 news searches (AI, data center, ratepayer/energy costs, chips/export controls/Chip Security, AI regulation/Big Tech/TikTok/Section 230, Ratepayer Protection Act, preemption/AI framework, Jefferson Lab data center, New Republic district profile) plus a site listing of kiggans.house.gov and fetches of her AI for America Act and 2023 chips releases. Her July 23, 2026 statement to WRIC on Warner's data center agenda could not be opened (WRIC returned 403 on every route), Politico's Sept 2, 2026 piece naming her among GOP front-liners joining the Ratepayer Protection Act was blocked, and The New Republic's Sept 3, 2026 district article could not be decoded from Google News. Her caucus page was not found. First-pass lead lists her as a member of the HASC Cyber, Information Technologies and Innovation subcommittee (a membership, not a leadership role, so not listed in groups). No AI super PAC support or attacks found."
+}
+]

@@ -1,0 +1,606 @@
+[
+{
+"bioguide": "C000127",
+"name": "Maria Cantwell",
+"signature": "Top Democrat on Senate Commerce who led the 99-1 vote killing the state AI law moratorium and is now pushing for mandatory federal safety testing of the most powerful AI models.",
+"groups": [
+"Senate Committee on Commerce, Science, and Transportation: Ranking Member (119th Congress)"
+],
+"notable_quote": {
+"text": "The Senate came together tonight to say that we can’t just run over good state consumer protection laws",
+"url": "https://www.commerce.senate.gov/press/dem/release/senate-strikes-ai-moratorium-from-budget-reconciliation-bill-in-overwhelming-99-1-vote-2025-7/",
+"date": "2025-07-01"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Cantwell brushed off calls from climate groups for a pause on new data centers, saying the country is growing and needs more energy, especially renewables. She sits on the Energy Committee that grilled FERC in July 2026 on who pays for data center power, but no detailed plan from her on protecting electric bills from data centers was found.",
+"evidence": [
+{
+"type": "interview",
+"title": "E&E News: Cantwell dismisses green groups' call for a data center moratorium",
+"url": "https://www.eenews.net/articles/lawmakers-oppose-greens-call-for-data-center-moratorium/",
+"date": "2025-12-10",
+"quote": "They should call for an above-all energy plan that allows for the construction of renewables to play into that demand for the future",
+"what_it_shows": "She rejected a construction freeze on data centers and added that the country is growing and needs more energy sources, a build-with-clean-energy stance."
+},
+{
+"type": "hearing",
+"title": "Legis1: Senate Energy Committee FERC oversight hearing on who pays for data center power",
+"url": "https://legis1.com/news/ferc-data-center-costs-defends-push-as-democrats",
+"date": "2026-07-22",
+"quote": null,
+"what_it_shows": "At the hearing on data center cost shifting she criticized the Supreme Court ruling that weakens FERC's independence, and she has reintroduced the Energy Consumer Protection Act on power market manipulation; this shows a consumer protection focus but no specific data center demand."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "medium",
+"summary": "Cantwell wants the most powerful AI models put through mandatory government safety testing by national labs and security agencies, and she is holding up a bipartisan Senate bill because it lets companies test themselves. She also warns that AI harms to kids need real safeguards. At the same time she sponsors a bill built on voluntary standards and testbeds, so her approach mixes hard rules for frontier models with softer tools elsewhere.",
+"evidence": [
+{
+"type": "statement",
+"title": "Nextgov: Cantwell clashes with Cruz, Klobuchar and Thune over AI safety testing language",
+"url": "https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/",
+"date": "2026-09-11",
+"quote": "Cantwell really wanted to get these large language models tested and to have mandatory vetting",
+"what_it_shows": "People familiar and a Democratic committee aide say she wants models vetted by federal agencies such as national labs rather than tested by the companies themselves, a binding testing regime."
+},
+{
+"type": "social_post",
+"title": "Semafor: Cantwell's X post on the Cruz-Klobuchar-Thune AI bill",
+"url": "https://www.semafor.com/article/09/10/2026/disagreements-reemerge-in-bipartisan-ai-safety-talks",
+"date": "2026-09-09",
+"quote": "answer is not a weak federal standard that becomes a backdoor for wiping out stronger state protections",
+"what_it_shows": "Her own words rejecting a weak federal AI standard; Semafor reports she wants legal duties on AI companies to manage catastrophic risks."
+},
+{
+"type": "hearing",
+"title": "Senate Commerce hearing: experts tell committee AI presents greater risk to children than social media",
+"url": "https://www.commerce.senate.gov/2026/1/experts-tell-committee-ai-presents-greater-risk-to-children-than-social-media",
+"date": "2026-01-15",
+"quote": "We need meaningful safeguards on AI to address the harms they cause",
+"what_it_shows": "She treats AI companion apps as a serious danger to kids and says Congress must not repeat its failure on social media."
+},
+{
+"type": "statement",
+"title": "FedScoop: Cantwell, Young, Hickenlooper and Blackburn reintroduce the Future of AI Innovation Act",
+"url": "https://fedscoop.com/bipartisan-senate-bill-to-establish-ai-standards-testbeds-gets-renewed/",
+"date": "2026-02-27",
+"quote": "This legislation brings together private sector and government experts to develop voluntary standards for AI, create new assessment tools, and conduct testing that will ensure the United States leads in AI-driven innovation and competitiveness for decades to come",
+"what_it_shows": "Her flagship AI bill relies on voluntary standards and government testbeds, a softer approach that sits alongside her push for mandatory frontier testing."
+},
+{
+"type": "cosponsor",
+"title": "S.3952 Future of Artificial Intelligence Innovation Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3952",
+"date": "2026-02-26",
+"quote": null,
+"what_it_shows": "Sets up a government center to test AI and create voluntary standards without forcing companies to follow them."
+},
+{
+"type": "sponsor",
+"title": "S.1396 COPIED Act (Content Origin Protection and Integrity from Edited and Deepfaked Media Act of 2025)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1396",
+"date": "2025-04-09",
+"quote": null,
+"what_it_shows": "Her own bill would make AI tools label where content came from and ban stripping those labels off, a targeted deepfake guardrail."
+},
+{
+"type": "statement",
+"title": "Tri-Cities Area Journal of Business: Murray, Cantwell join effort to overturn Medicare AI pilot",
+"url": "https://www.tricitiesbusinessnews.com/articles/murray-cantwell-join-effort-to-overturn-medicare-ai-pilot",
+"date": "2026-05-21",
+"quote": "My constituents should not have to suffer through bureaucratic delays disguised as modernization. This pilot program should never have been implemented without congressional oversight",
+"what_it_shows": "She backs a resolution to overturn the WISeR program that uses AI to approve or deny Medicare care, a specific limit on AI in health decisions."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Cantwell is a lead Senate champion of kids' online safety and privacy rules. She co-led the Kids Online Safety Act with its duty of care, backs COPPA 2.0, co-wrote the 2024 American Privacy Rights Act, and attacked the House's weaker KIDS Act as worse than nothing. She wants strong, enforceable rules on platforms rather than break-ups.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Tech Policy Press: Senate Commerce advances KOSA, Youth AI Privacy Act, CHATBOT Act and AI Toy Safety Act",
+"url": "https://www.techpolicy.press/senate-committee-advances-four-bills-aimed-at-protecting-children-online/",
+"date": "2026-08-05",
+"quote": "We need more responsibility from social media companies",
+"what_it_shows": "At the markup she argued platforms must be held responsible for design choices that harm children and said Congress needs to do more."
+},
+{
+"type": "statement",
+"title": "Broadband Breakfast: Blumenthal and Cantwell oppose the House KIDS Act as weak",
+"url": "https://broadbandbreakfast.com/democratic-senators-oppose-weak-house-kids-online-safety-act/",
+"date": "2026-06-26",
+"quote": "We are perplexed why our House colleagues are considering something that has such weak language that even the proponents are saying don't pass it, it's worse than doing nothing",
+"what_it_shows": "She wants a strong federal kids' safety statute with a duty of care and opposes a watered-down version favored by tech companies."
+},
+{
+"type": "statement",
+"title": "Tech Policy Press: the American Privacy Rights Act of 2024 explained (Cantwell and McMorris Rodgers draft)",
+"url": "https://www.techpolicy.press/the-american-privacy-rights-act-of-2024-explained-what-does-the-proposed-legislation-say-and-what-will-it-do/",
+"date": "2024-04-07",
+"quote": "We are preserving those standards that California and Illinois and Washington have",
+"what_it_shows": "She co-authored a comprehensive national privacy law with data minimization and enforcement by the FTC, states and consumers, adopting the strongest state provisions."
+},
+{
+"type": "cosponsor",
+"title": "S.836 Children and Teens' Online Privacy Protection Act (COPPA 2.0)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "Backs requiring permission before companies collect data on kids and teens and banning targeted ads to them."
+},
+{
+"type": "cosponsor",
+"title": "S.2925 MIND Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2925",
+"date": "2025-09-29",
+"quote": null,
+"what_it_shows": "Supports starting to protect brain and nerve data collected by consumer devices."
+}
+]
+},
+"preemption": {
+"score": -1,
+"confidence": "high",
+"summary": "Cantwell led the Senate fight that killed the 10-year moratorium on state AI laws 99-1 and called Trump's December 2025 order overly broad preemption. But she also wants a bipartisan national AI framework and says a federal standard is important as long as it keeps states' consumer protections rather than wiping them out. She has accepted preemption before when the federal law was strong, as in her 2024 privacy bill.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted Yea; she co-sponsored the amendment with Blackburn, so unlike most Yea votes this reflects her active opposition to the moratorium."
+},
+{
+"type": "statement",
+"title": "Senate Commerce Democrats release: Senate strikes AI moratorium in 99-1 vote",
+"url": "https://www.commerce.senate.gov/press/dem/release/senate-strikes-ai-moratorium-from-budget-reconciliation-bill-in-overwhelming-99-1-vote-2025-7/",
+"date": "2025-07-01",
+"quote": "States can fight robocalls, deepfakes and provide safe autonomous vehicle laws. This also allows us to work together nationally to provide a new federal framework on Artificial Intelligence that accelerates U.S. leadership in AI while still protecting consumers.",
+"what_it_shows": "She defends state consumer protection laws while calling for a national AI framework, the states-preserved position."
+},
+{
+"type": "statement",
+"title": "Ranking Member Cantwell statement on Trump AI executive order",
+"url": "https://www.commerce.senate.gov/2025/12/ranking-member-cantwell-statement-on-trump-ai-executive-order",
+"date": "2025-12-12",
+"quote": "This executive order’s overly broad preemption threatens states with lawsuits and funding cuts for protecting their residents from AI-powered frauds, scams, and deepfakes",
+"what_it_shows": "She condemned the December 2025 order's preemption push and urged Congress to pass a bipartisan national framework that protects consumers."
+},
+{
+"type": "hearing",
+"title": "Senate Commerce hearing on kids' screen time and AI: Cantwell opening remarks",
+"url": "https://www.commerce.senate.gov/2026/1/experts-tell-committee-ai-presents-greater-risk-to-children-than-social-media",
+"date": "2026-01-15",
+"quote": "That is why we cannot tell states to stand down from protecting their kids, especially when we need Congress to put standards in place.",
+"what_it_shows": "She ties opposition to preemption to Congress's failure to pass its own rules."
+},
+{
+"type": "interview",
+"title": "Nextgov: Cantwell and Young acknowledge need for federal AI standard that accounts for state laws",
+"url": "https://www.nextgov.com/artificial-intelligence/2026/01/bipartisan-pair-senators-acknowledge-need-federal-ai-standard-accounts-state-laws/411019/",
+"date": "2026-01-28",
+"quote": "I think getting a federal standard is an important thing to do, but to get a federal standard, you’ve got to get that right balance between … consumer laws in the state",
+"what_it_shows": "She is open to one federal AI standard but insists it balance state consumer laws, a conditional position."
+},
+{
+"type": "social_post",
+"title": "Semafor: Cantwell's X post objecting to the Cruz-Klobuchar-Thune bill's preemption language",
+"url": "https://www.semafor.com/article/09/10/2026/disagreements-reemerge-in-bipartisan-ai-safety-talks",
+"date": "2026-09-09",
+"quote": "answer is not a weak federal standard that becomes a backdoor for wiping out stronger state protections",
+"what_it_shows": "As of September 2026 she opposes a Senate AI bill that would preempt state AI safety laws unless the federal standard is strong."
+},
+{
+"type": "statement",
+"title": "Broadband Breakfast: Cantwell on preemption in the House KIDS Act",
+"url": "https://broadbandbreakfast.com/democratic-senators-oppose-weak-house-kids-online-safety-act/",
+"date": "2026-06-26",
+"quote": "Let me be clear, the Senate is not interested in having these cases preempted. We are for a strong federal statute, and we are for states continuing to play a role",
+"what_it_shows": "She opposes federal language that would preempt state lawsuits against social media companies while backing a strong federal law."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "Cantwell wrote the CHIPS and Science Act and frames AI as a race with China won through research funding and standards set with allies. Searches for her views on chip export controls, the Chip Security Act, or Nvidia H20 and H200 sales to China found no statements as of September 2026.",
+"evidence": [
+{
+"type": "interview",
+"title": "Broadband Breakfast: Cantwell and Young at CSIS on competing with China in technology",
+"url": "https://broadbandbreakfast.com/lawmakers-urge-faster-tech-investment-as-u-s-competes-with-china/",
+"date": "2026-01-28",
+"quote": "If America is going to compete with China, innovation has to be taking place across the United States",
+"what_it_shows": "Her China frame is about domestic research investment and allied standard setting, not export controls; Young, not Cantwell, raised semiconductor export controls at the event."
+}
+]
+}
+},
+"search_notes": "Ran about 14 news searches (AI, data center, ratepayers, chatbot/deepfake, KOSA/Section 230, Nvidia/export controls/H20/H200, preemption, FERC, privacy) plus a site listing of cantwell.senate.gov and 20+ page fetches. Verified quotes from commerce.senate.gov (Dec 2025 EO statement, Jan 2026 hearing, July 2025 99-1 release), Semafor, Nextgov, E&E News, Tech Policy Press, Broadband Breakfast, FedScoop, Tri-Cities Business News, govtrack. Blocked or unfetchable: most cantwell.senate.gov and commerce.senate.gov pages (403; Wayback was rate limiting), the Washington Post AI brief on her framework openness (timeout), the Daily Energy Insider FERC hearing write-up and her hearing transcript, so her exact FERC hearing words on data center costs are unconfirmed. No statement on chip export controls found. The landscape leads (EO statement, Jan 15 hearing, KIDS Act call, Nextgov testing fight, FAIIA reintroduction) were all confirmed at the URLs; the NIST nominee hearing release and KOSA markup release could not be opened, so the Aug 2026 markup is cited via Tech Policy Press instead."
+},
+{
+"bioguide": "M001111",
+"name": "Patty Murray",
+"signature": "Has fought the Medicare AI prior-authorization pilot (WISeR) and hosted a Seattle event on deploying AI safely for workers; otherwise little public AI activity found.",
+"groups": [],
+"notable_quote": {
+"text": "AI should not get to decide what healthcare patients can and can’t receive",
+"url": "https://www.tricitiesbusinessnews.com/articles/murray-cantwell-join-effort-to-overturn-medicare-ai-pilot",
+"date": "2026-05-21"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers, electric bills, or the Seattle and Spokane moratoria as of September 2026. Searches of news coverage and her press release listings turned up nothing on the topic.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Murray has fought the Medicare WISeR pilot that pays contractors to use AI to approve or deny care, saying AI should not decide what care patients get, and she joined a resolution to overturn it. Her July 2026 Seattle roundtable was billed as being about deploying AI safely, transparently and to benefit workers. No statements on frontier AI dangers were found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Tri-Cities Area Journal of Business: Murray, Cantwell join effort to overturn Medicare AI pilot",
+"url": "https://www.tricitiesbusinessnews.com/articles/murray-cantwell-join-effort-to-overturn-medicare-ai-pilot",
+"date": "2026-05-21",
+"quote": "AI should not get to decide what healthcare patients can and can’t receive",
+"what_it_shows": "She signed onto a Congressional Review Act resolution to overturn the WISeR program and framed AI-driven care denials as unacceptable, a targeted limit on AI use."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "The only record found is a 2023 cosponsorship of a bill to stop police and spy agencies from buying Americans' phone and location data from data brokers. No recent statements on Big Tech, Section 230, or kids' online safety were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "118th Congress S.2576 Fourth Amendment Is Not For Sale Act",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2576",
+"date": "2023-07-27",
+"quote": null,
+"what_it_shows": "Supports requiring a warrant instead of letting government agencies buy people's data from brokers, a targeted privacy rule."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "Murray voted with 98 other senators to strike the state AI law moratorium in July 2025, but that near-unanimous vote does not by itself show a position. A lead that she opposes Trump's efforts to preempt state AI rules could not be verified because her press release was unreachable, and no other statement was found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted Yea on the 99-1 amendment; nearly every senator did, so it is not evidence of a stance on preemption without an accompanying statement."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on chip export controls or Nvidia sales to China. Her China-related items are about CHIPS Act investment and research funding, not export policy.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 10 news searches (AI, data centers, chatbot/deepfake/Big Tech, preemption/state AI laws, Nvidia/export controls, appropriations and AI, the Seattle AI House roundtable, the WISeR floor speech) plus a site listing of murray.senate.gov. Her website returns 403 to direct fetches, a browser user agent, and a text proxy, and the Wayback Machine has no copy of the July 9, 2026 Seattle AI roundtable release or the July 2026 WISeR floor speech, so those could not be read; KIRO 7's coverage of the roundtable is geo-blocked. The lead that she opposes Trump's state AI law preemption therefore remains unverified. The AnthroPAC $3,500 contribution lead (FEC committee C00257642, June 29, 2026) could not be confirmed because the FEC API hit its demo-key rate limit; it is not included as evidence. Her Dec 2025 co-lead role on a bill to halt the Medicare AI prior authorization program appeared in a Google News headline from her site but the page could not be opened."
+},
+{
+"bioguide": "D000617",
+"name": "Suzan K. DelBene",
+"signature": "House champion of a national privacy law who now leads the fight against Medicare's AI denial pilot; cosponsors deepfake, AI research and data center cost bills while defending U.S. tech firms abroad.",
+"groups": [],
+"notable_quote": {
+"text": "Washington seniors should not be the guinea pigs for the administration’s AI experiment.",
+"url": "https://www.healthcaredive.com/news/democrat-letter-more-data-wiser-medicare-ai-prior-authorization/823581/",
+"date": "2026-06-22"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "DelBene cosponsored the Protecting Families from AI Data Center Energy Costs Act in August 2026, which aims to keep the cost of power lines and plants for giant AI data centers off family electric bills. No speeches or statements from her on data centers were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.6529 Protecting Families from AI Data Center Energy Costs Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "Signed onto a ratepayer protection bill for AI data center grid costs; a single cosponsorship with no statement found."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "DelBene backs targeted AI guardrails: she leads House efforts to stop Medicare's WISeR pilot that uses AI to deny care, cosponsors bills against AI sexual deepfakes and voice and face cloning, and wrote in 2023 that AI needs guardrails built on a privacy law. She also promotes AI as an opportunity for small businesses and backs shared public AI research computing, so she is not calling for sweeping limits on the technology.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: DelBene, patients, providers raise alarm about Medicare AI denial experiment",
+"url": "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=4363",
+"date": "2026-06-22",
+"quote": "But the Trump administration’s WISeR program is delaying and denying care for Medicare patients, leaving them in severe pain and increasing red tape for providers.",
+"what_it_shows": "She is conducting oversight of a program that pays private companies to use AI to approve or deny Medicare care and wants it stopped."
+},
+{
+"type": "statement",
+"title": "Healthcare Dive: Democrats push for more data on Medicare AI prior authorization pilot (DelBene press conference)",
+"url": "https://www.healthcaredive.com/news/democrat-letter-more-data-wiser-medicare-ai-prior-authorization/823581/",
+"date": "2026-06-22",
+"quote": "That’s what happens when you roll out a program without proper vetting, without transparency and without safeguards",
+"what_it_shows": "Her own words demanding vetting, transparency and safeguards before government deploys AI in health decisions."
+},
+{
+"type": "letter",
+"title": "Press release: DelBene leads letter to House appropriators to repeal the WISeR AI prior authorization model",
+"url": "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=4289",
+"date": "2026-03-31",
+"quote": "While prior authorization is often described as a cost-containment strategy, in practice it increases provider burden, takes time away from patients, limits patients’ access to life-saving care, and creates unnecessary administrative burden",
+"what_it_shows": "She led 34 colleagues, including Rep. Larsen, in asking Congress to defund the Medicare model that pays companies to use AI to approve or deny services."
+},
+{
+"type": "cosponsor",
+"title": "H.J.Res.187 disapproving the CMS WISeR prior authorization rule",
+"url": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/187",
+"date": "2026-05-19",
+"quote": null,
+"what_it_shows": "Backs blocking the Medicare experiment that lets contractors use AI to decide whether to approve treatments."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3562 DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-09-01",
+"quote": null,
+"what_it_shows": "Supports letting victims sue people who make or share AI sexual deepfakes of them."
+},
+{
+"type": "cosponsor",
+"title": "H.R.2385 CREATE AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2025-04-17",
+"quote": null,
+"what_it_shows": "Backs a national shared computing resource so researchers and students can build and study AI, a pro-research position."
+},
+{
+"type": "op_ed",
+"title": "Op-ed (Newsweek, reprinted by Broadband Breakfast): Want protection from AI? The first step is a national privacy law",
+"url": "https://broadbandbreakfast.com/rep-suzan-delbene-want-protection-from-ai-the-first-step-is-a-national-privacy-law/",
+"date": "2023-08-30",
+"quote": "There will also need to be guardrails to prevent the dissemination of mis- and disinformation.",
+"what_it_shows": "She argues AI rules are needed but must be built on a national data privacy standard, and that voluntary guidelines lack accountability."
+},
+{
+"type": "statement",
+"title": "Press release: DelBene discusses tariffs, AI with WA small businesses at Shopify",
+"url": "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=4294",
+"date": "2026-04-02",
+"quote": "AI is the biggest change in how people buy and sell since the internet began.",
+"what_it_shows": "She frames AI adoption as an opportunity for small businesses, showing she is not hostile to the technology itself."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "DelBene is the House's longtime advocate of a national data privacy law and reintroduced the Email Privacy Act in 2026 to require warrants for old emails. She also cosponsors reproductive data privacy protections. At the same time she defends U.S. tech companies against foreign digital services taxes and worked at Microsoft, so she favors targeted rules rather than a crackdown on Big Tech.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: DelBene introduces bipartisan Email Privacy Act requiring warrants for emails and digital records",
+"url": "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=4346",
+"date": "2026-06-01",
+"quote": "The current law governing online privacy standards is egregiously out of date, leaving millions of Americans’ private communications and data vulnerable",
+"what_it_shows": "Her own bill would require warrants for email content regardless of age, a targeted privacy fix."
+},
+{
+"type": "op_ed",
+"title": "Op-ed: Want protection from AI? The first step is a national privacy law",
+"url": "https://broadbandbreakfast.com/rep-suzan-delbene-want-protection-from-ai-the-first-step-is-a-national-privacy-law/",
+"date": "2023-08-30",
+"quote": "It has to put people back in control of their information instead of companies. It must also be enforceable so that the government can hold bad actors accountable.",
+"what_it_shows": "She wants an enforceable national privacy law that limits how companies store and sell personal data."
+},
+{
+"type": "cosponsor",
+"title": "H.R.3218 Reproductive Data Privacy and Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "Supports stopping companies from collecting or selling reproductive health data without permission."
+},
+{
+"type": "statement",
+"title": "Press release: DelBene introduces bipartisan Digital Services Tax resolution",
+"url": "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=4353",
+"date": "2026-06-05",
+"quote": "This resolution urges the U.S. to oppose digital service taxes that undermine the competitiveness of our digital sector and defend the high-quality jobs it supports.",
+"what_it_shows": "She defends American tech companies against foreign taxes, a sign she is an ally of the industry on trade rather than an antagonist."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "DelBene has long argued for one national privacy standard instead of state-by-state rules and framed that as the foundation for AI policy, and she did not sign the November 2025 House Democratic letter against preempting state AI laws. No direct statement from her on the AI moratorium or the Trump order was found, so this is a lean, not a firm stance on state AI laws.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Op-ed: Want protection from AI? The first step is a national privacy law",
+"url": "https://broadbandbreakfast.com/rep-suzan-delbene-want-protection-from-ai-the-first-step-is-a-national-privacy-law/",
+"date": "2023-08-30",
+"quote": "Strong national standards like privacy must be uniform throughout the country, rather than the state-by-state approach we have now.",
+"what_it_shows": "She favors a single national rule over state patchworks, though the statement is about privacy law rather than AI laws specifically."
+},
+{
+"type": "other",
+"title": "Matsui-led letter of 81 House Democrats opposing an AI moratorium and preemption executive order (signer check)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": null,
+"what_it_shows": "DelBene's name does not appear among the 81 signers, while Washington colleagues Jayapal and Schrier signed; absence is weak evidence but consistent with her not joining the anti-preemption push."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "DelBene backs tax credits for designing and making chips in America through the STAR Act and her own Semiconductor Superiority Act, but no statement was found on export controls, the Chip Security Act, or Nvidia sales to China.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R.802 STAR Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2025-01-28",
+"quote": null,
+"what_it_shows": "Supports extending the tax break for building chip factories in America; about domestic manufacturing, not export policy."
+},
+{
+"type": "cosponsor",
+"title": "H.R.8959 Semiconductor Superiority Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8959",
+"date": "2026-05-21",
+"quote": null,
+"what_it_shows": "Co-led a bill to extend chip manufacturing tax credits to space-based chip production; again domestic industrial policy."
+}
+]
+}
+},
+"search_notes": "Ran about 12 news searches (AI, data centers, preemption/AI Caucus, privacy/Big Tech, chips/export controls, deepfakes/kids, DCCC and AI super PACs, digital trade, energy costs) and read her press release listings (pages 1 to 6) plus five releases, her 2023 op-ed, Healthcare Dive, Quiver, and the Matsui letter PDF. Landscape leads: the H.R.6529 cosponsorship is in the verified record; the claim that she steers data center messaging as DCCC chair was not found in any source. The Congressional AI Caucus membership and Digital Trade Caucus co-chair leads could not be confirmed (the caucus site did not resolve, her site has no caucus page, and the Digital Trade Caucus co-chair line in her June 2026 release belongs to Rep. LaHood), so they are left out of groups. No AI super PAC support or attacks found. A KOMO interview (Jan 2026) on AI and Medicare claims could not be opened because Google News link decoding failed."
+},
+{
+"bioguide": "L000560",
+"name": "Rick Larsen",
+"signature": "Top Democrat on House Transportation; sponsors AI training for the military and cosponsors bills on AI content labels, AI political ad disclosure and human control of nuclear launch decisions.",
+"groups": [
+"House Committee on Transportation and Infrastructure: Ranking Member (119th Congress)"
+],
+"notable_quote": {
+"text": "Artificial intelligence is rapidly changing the national security threat landscape",
+"url": "https://larsen.house.gov/news/documentsingle.aspx?DocumentID=4070",
+"date": "2025-12-10"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers, electric bills, or the August 2026 Mount Vernon moratorium in his district, as of September 2026. Searches of news and his press releases turned up nothing.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Larsen backs targeted AI guardrails: labels on AI-made images and audio, disclosure when political ads use AI, keeping a human in charge of any nuclear launch decision, and stopping Medicare's AI denial pilot. He also wants the military trained on AI threats. Most of this is cosponsorship rather than speeches, and no statements on frontier AI danger were found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Larsen, Elfreth secure AI provisions in FY26 defense policy bill",
+"url": "https://larsen.house.gov/news/documentsingle.aspx?DocumentID=4070",
+"date": "2025-12-10",
+"quote": "Artificial intelligence is rapidly changing the national security threat landscape",
+"what_it_shows": "His AI Training for National Security Act, added to the NDAA, requires the Pentagon to train servicemembers on cybersecurity risks created by AI."
+},
+{
+"type": "sponsor",
+"title": "H.R.6530 AI Training for National Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6530",
+"date": "2025-12-09",
+"quote": null,
+"what_it_shows": "His own bill to train military and national security workers on AI, a preparedness rather than restriction measure."
+},
+{
+"type": "letter",
+"title": "DelBene-led letter to House appropriators to repeal the WISeR AI prior authorization model (Larsen co-lead)",
+"url": "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=4289",
+"date": "2026-03-31",
+"quote": null,
+"what_it_shows": "Larsen co-led a letter from 35 House Democrats seeking to defund the Medicare model that pays companies to use AI to approve or deny care."
+},
+{
+"type": "cosponsor",
+"title": "H.R.9922 AI Transparency in Elections Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9922",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "Supports requiring political ads made with AI to say so."
+},
+{
+"type": "cosponsor",
+"title": "118th Congress H.R.2894 Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2024-06-18",
+"quote": null,
+"what_it_shows": "Backed a rule that a human, not an AI, must always make the decision to launch a nuclear weapon."
+},
+{
+"type": "cosponsor",
+"title": "118th Congress H.R.7766 Protecting Consumers from Deceptive AI Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7766",
+"date": "2024-05-08",
+"quote": null,
+"what_it_shows": "Supported requiring labels and hidden markers on AI-made images, video and audio."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Larsen cosponsored the My Body, My Data Act in 2024 to protect reproductive health data. As top Democrat on Transportation he also co-released a 2026 highway bill that starts a national safety framework for driverless trucks. No statements on Big Tech, Section 230, or kids' online safety were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "118th Congress H.R.3420 My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2024-10-18",
+"quote": null,
+"what_it_shows": "Supports stopping apps and companies from collecting or sharing reproductive health data without a good reason."
+},
+{
+"type": "other",
+"title": "FreightWaves: BUILD America 250 Act, co-released by Graves and Larsen, creates a federal framework for autonomous trucks",
+"url": "https://www.freightwaves.com/news/build-america-250-act-hands-av-trucks-a-fed-framework",
+"date": "2026-05-18",
+"quote": null,
+"what_it_shows": "The bipartisan surface transportation bill he co-authored directs DOT to write a performance-based safety standard for driverless commercial vehicles, replacing a patchwork of state rules; a mixed signal on tech regulation."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on the state AI law moratorium, the Trump executive order, or federal preemption. He did not sign the November 2025 Matsui letter opposing preemption that 81 House Democrats signed.",
+"evidence": [
+{
+"type": "other",
+"title": "Matsui-led letter of 81 House Democrats opposing an AI moratorium and preemption executive order (signer check)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": null,
+"what_it_shows": "Larsen's name does not appear among the signers; absence is not a position but shows he did not join the anti-preemption push."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on chip export controls or Nvidia sales to China as of September 2026.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 9 news searches (AI, data centers/moratorium, deepfake/chatbot/AI Caucus, preemption and export controls, Big Tech/privacy/autonomous vehicles, the AI education bill, Mount Vernon data center) and read his press release listings (pages 1, 2, 8 to 10, 12 to 14), his Dec 2025 AI NDAA release, his committees-and-caucuses page, the FreightWaves AV article, DelBene's WISeR letter release and the Matsui letter PDF. The landscape lead that he is a Congressional AI Caucus member could not be confirmed: his own committees-and-caucuses page lists many caucuses but not the AI Caucus, and the caucus website did not resolve, so it is left out of groups. His Oct 2024 press release on AI education for servicemembers could not be opened (Google News link decoding failed). No AI super PAC activity found. His Nay vote on the Dec 2025 SPEED Act permitting bill (from the state context file) is not included because it is a general permitting vote, not a data center position."
+}
+]

@@ -1,276 +1,326 @@
 [
 {
-"bioguide": "J000302",
+"bioguide": "M001230",
 "checks": [
 {
-"url": "https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=391066",
+"url": "https://www.aol.com/articles/battleground-congressional-candidates-weigh-shapiro-121000000.html",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-06-04",
-"note": "Joyce named as co-signer (O&I chairman). Quote verbatim. Page calls Sanders' bill 'Senator Bernie Sander's disastrous AI Data Center Moratorium Act' and frames data centers as infrastructure in the race with China."
+"corrected_date": "2026-08-28",
+"note": "Quote appears verbatim, attributed to Mackenzie responding to NBC10 one day after Shapiro's order. He also says 'the governor is actually catching up to all of us across Pennsylvania', supporting the claim. Article dated Aug 28, 2026."
 },
 {
-"url": "https://www.datacenterdynamics.com/en/news/trio-of-republicans-call-for-fbi-investigation-into-data-center-opposition/",
-"verdict": "unreachable",
+"url": "https://www.mcall.com/2026/03/05/ryan-mackenzie-telephone-town-hall-ice-iran-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-05",
+"note": "Page says Mackenzie called data centers 'local government issues' and that he would support legislation forcing data centers to pay proportionally for the energy they use. Matches claim."
+},
+{
+"url": "https://news.bloomberglaw.com/daily-labor-report/ai-adds-new-element-to-the-work-safety-debate-on-capitol-hill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "Quote verbatim, attributed to Chairman Ryan Mackenzie (R-Pa.) at a House Workforce Protections Subcommittee hearing. Bloomberg characterizes Republicans on the panel as pressing 'a more flexible, industry-led approach'. Rest of article is paywalled; the 'rather than new federal mandates' framing is Bloomberg's characterization of the GOP side, not a direct Mackenzie quote."
+},
+{
+"url": "https://www.nextgov.com/artificial-intelligence/2026/03/lawmaker-looks-award-grants-veteran-suicide-prevention-ai-models/412514/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-31",
+"note": "Quote fragment is verbatim from a longer Mackenzie quote about grant funding for AI/ML predictive models at VA. Article dated March 31, 2026. Claim's interpretation (AI as a tool to deploy) is a fair reading."
+},
+{
+"url": "https://mackenzie.house.gov/about/committees-and-caucuses",
+"verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": null,
-"note": "403 on direct fetch (3 tries) and WebFetch; Wayback returned 429/empty. Could not verify quote. The underlying letter (item 1) does support the same framing, so the claim is plausible but this source is unverified."
+"note": "Scam Prevention Caucus is listed; no AI or Artificial Intelligence caucus appears on the page. Note the reference to 'consumer-protection cosponsorships' is not on this page and comes from elsewhere."
 },
 {
-"url": "https://energycommerce.house.gov/posts/chairman-joyce-delivers-opening-statement-at-subcommittee-on-oversight-and-investigations-hearing-on-artificial-intelligence-ai-chatbots",
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2025-11-18",
-"note": "Quote verbatim. Statement discusses suicide cases, mental-illness vulnerability, and says he is 'hopeful' the FTC inquiry sheds light; explicitly frames the goal as a 'balanced, frank conversation'."
+"corrected_date": "2026-08-24",
+"note": "Quote verbatim in the report subtitle. The Pennsylvania section names Ryan Mackenzie among PA Republicans who voted for the May 2025 House OBBBA AI moratorium (Roll Call 145, May 22, 2025) and says it likely would have banned Shapiro's GRID data center guardrails."
 },
 {
-"url": "https://energycommerce.house.gov/posts/chairman-joyce-delivers-opening-statement-at-subcommittee-on-oversight-and-investigations-hearing-on-ai-and-biotechnology",
+"url": "https://www.aol.com/articles/battleground-congressional-candidates-weigh-shapiro-121000000.html",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2025-12-17",
-"note": "Quote verbatim. Page says convergence 'introduces profound new risks' and that DURC oversight 'may not apply' to AI-designed organisms."
+"corrected_date": "2026-08-28",
+"note": "Quote verbatim from Mackenzie: '...the noise pollution in our local communities: make sure that local zoning is authorized and approved.' Same NBC10 response as item 1."
 },
 {
-"url": "https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=391066",
+"url": "https://mackenzie.house.gov/media/press-releases/mackenzie-castro-introduce-bipartisan-bill-strengthen-export-control",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-06-04",
-"note": "Same page as item 1. Letter frames AI as a race against China and asks FBI/PCAST to probe efforts to slow AI development; supports the competition/light-touch signal reading."
+"corrected_date": "2026-04-08",
+"note": "Quote verbatim (curly apostrophe only). Bill extends statute of limitations for export control violations; press release dated April 8, 2026."
 },
 {
-"url": "https://johnjoyce.house.gov/media/press-releases/dr-joyce-introduces-legislation-improve-access-ai-healthcare-devices",
+"url": "https://www.aol.com/articles/battleground-congressional-candidates-weigh-shapiro-121000000.html",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2025-11-21",
-"note": "Quote verbatim. Bill assigns AI-enabled devices a New Technology APC under Medicare OPPS for at least five years so CMS pays for them; 'faster' is a fair gloss."
-},
-{
-"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-04-16",
-"note": "Joyce (R-PA) listed by name among the champions; quote verbatim. LTF statement says members will advance 'a national framework in Congress that sets basic safety standards', matching the claim."
-},
-{
-"url": "https://energycommerce.house.gov/posts/chairman-guthrie-and-vice-chairman-joyce-announce-creation-of-privacy-working-group",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-02-12",
-"note": "Joint Guthrie/Joyce statement, quote verbatim, ties national privacy standard to AI leadership. Page announces creation; Joyce's leadership of the group and the resulting bill are confirmed by the Roll Call and IAPP pages."
-},
-{
-"url": "https://www.hipaajournal.com/house-republicans-introduce-federal-data-privacy-legislation/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-04-24",
-"note": "Quote verbatim, attributed to a Guthrie/Joyce joint statement. Article states the bill is not bipartisan and 'No input was sought from Democratic committee members.' (Article contains a copy error calling Joyce E&C chairman.)"
-},
-{
-"url": "https://johnjoyce.house.gov/media/in-the-news/dr-joyce-pushes-answers-censorship-conservative-bias-big-tech",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2021-05-05",
-"note": "Quote verbatim (page has a garbled character before it). He questioned Zuckerberg and Dorsey at the March 2021 'Disinformation Nation' hearing about political bias in moderation."
-},
-{
-"url": "https://rollcall.com/2026/05/14/gop-data-privacy-bill-tries-again-to-set-national-standard/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-05-14",
-"note": "Quote verbatim, attributed to Joyce (relaying a colleague's account of industry asking for a federal rule). Subhead: 'Measure by House Republicans would preempt state laws.'"
-},
-{
-"url": "https://iapp.org/news/a/secure-data-act-analysis-of-the-new-federal-privacy-bill",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-04-22",
-"note": "Joyce named as sponsor of HR 8413. Quote verbatim (straight vs curly quotes only). Page says it 'would likely preempt state consumer privacy laws, data broker registries and possibly some sectoral state laws.'"
-},
-{
-"url": "https://energycommerce.house.gov/posts/chairman-joyce-delivers-opening-statement-at-subcommittee-on-oversight-and-investigations-hearing-on-artificial-intelligence-ai-chatbots",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-11-18",
-"note": "Verbatim from the Nov 18, 2025 chatbot hearing opening statement."
+"corrected_date": "2026-08-28",
+"note": "Headline quote verbatim on page, attributed to Mackenzie."
 }
 ],
 "score_objections": [
 {
-"dimension": "data_centers",
-"objection": "The only data-center evidence is a letter he co-signed calling the Sanders moratorium bill 'disastrous', casting local/state pauses as possibly foreign-directed, and asking the FBI to investigate opponents of buildout. There is no ratepayer-protection or conditions language anywhere in the sources. That is 'Build faster', not 'Build with conditions'.",
-"suggested_score": 2,
-"suggested_label": "Build faster"
+"dimension": "tech_regulation",
+"objection": "The only tech_regulation source is a caucus membership list (Scam Prevention Caucus) with no AI caucus. Caucus membership and unspecified consumer-protection cosponsorships are too thin to support a directional score; nothing in the sources shows him taking a position on regulating tech platforms.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
 }
 ]
 },
 {
-"bioguide": "R000610",
+"bioguide": "B001327",
 "checks": [
 {
-"url": "https://reschenthaler.house.gov/media/press-releases/reps-reschenthaler-deluzio-and-joyce-introduce-legislation-to-relocate-department-of-energy-office-to-the-keystone-state",
+"url": "https://bresnahan.house.gov/media/press-releases/bresnahan-introduces-bill-keep-data-center-decisions-local-hands",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-11",
+"note": "Quote appears verbatim in the June 11, 2026 press release announcing the Local Control Protection Act; release frames 'billion-dollar corporations' litigating against small boroughs and townships. The specific phrase 'out-of-state' does not appear, but the framing is otherwise accurate."
+},
+{
+"url": "https://fox56.com/news/local/fox56-qa-with-congressman-rob-bresnahan-on-his-proposed-data-center-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-11",
+"note": "Quote is verbatim (transcript grammar preserved). Page also has him saying developers 'need to find a way to offset the cost' and that 'the federal government should [not] be telling people of northeastern Pennsylvania what they should have to be forced to live with in their own backyard,' supporting both halves of the claim."
+},
+{
+"url": "https://bresnahan.house.gov/media/press-releases/bresnahan-celebrates-25-billion-energy-investment-nepa",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2025-07-15",
-"note": "Quote appears verbatim, attributed to Rep. Guy Reschenthaler. Release is about relocating DOE's Office of Fossil Energy and Carbon Management to Pennsylvania; it mentions coal, oil and natural gas jobs but says nothing about data centers or AI power demand, exactly as the claim states."
+"note": "Quote verbatim from July 15, 2025 release on Blackstone Infrastructure's $25B natural gas plant investment; release states the energy 'will be used to power data centers.' About 11 months before the June 2026 bill, so 'a year earlier' is fair."
 },
 {
-"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"url": "https://bresnahan.house.gov/media/in-the-news/once-generation-opportunity-business-leaders-plan-booming-data-center-and-ai",
 "verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-04-16",
-"note": "Reschenthaler is named on Leading the Future's list of House GOP champions; the quote is verbatim. The PAC's Zac Moffatt describes the members as critical to 'a national framework in Congress that sets basic safety standards,' which supports the claim's 'basic rather than strict rules' reading. Note this is the PAC's characterization, not Reschenthaler's own statement."
+"corrected_quote": "[We need] to empower our state representatives, our state legislators and our commonwealth to be able to make decisions without having to go through the bureaucratic process",
+"corrected_date": "2025-05-02",
+"note": "WVIA piece reposted on his site; says he told the 'Pennsylvania's Energy & Economic Opportunity' forum at Lackawanna College that the federal government needs to get 'out of the way' of progress. Quote matches except for the bracketed '[We need]' lead-in. Forum context is data center/AI industry planning and permit streamlining, so the claim is a fair paraphrase."
 },
 {
-"url": "https://reschenthaler.house.gov/media/press-releases/china-task-force-releases-report-countering-chinese-government",
+"url": "https://www.cbsnews.com/news/gop-rep-rob-bresnahan-data-centers-pennsylvania/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2020-09-30",
-"note": "Quote is verbatim from Reschenthaler's statement on the China Task Force report. Release covers general CCP countermeasures (steel, farmland, national and economic security) and does not mention AI chips, semiconductors or export controls, matching the claim. Dated 2020, so it predates the current chip-export debate."
+"corrected_date": "2026-09-10",
+"note": "Ad quote verbatim (aired Wed/Thu per AdImpact). Article lists holdings in Equinix, Digital Realty Trust, Iron Mountain, SBA Communications, plus NVIDIA and other chip/AI suppliers, and quotes his April 2025 Times Leader statement calling data centers 'catalysts for economic growth and technological innovation.' Article updated Sept 11, 2026."
+},
+{
+"url": "https://www.aol.com/articles/battleground-congressional-candidates-weigh-shapiro-121000000.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-28",
+"note": "Center Square piece (AOL reprint) quotes him verbatim responding to Shapiro's Aug 18, 2026 executive order, which Shapiro called the 'strictest guardrails in the nation.'"
+},
+{
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "CAP Action report (Aug 24, 2026) names Bresnahan among PA Republicans who voted for the May 2025 House OBBBA AI moratorium and argues it 'likely would have banned' Shapiro's GRID data center guardrails. Quote verbatim from the summary line. Note this is an advocacy group's characterization of the vote's effect, not a Bresnahan statement."
+},
+{
+"url": "https://www.cbsnews.com/news/gop-rep-rob-bresnahan-data-centers-pennsylvania/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Article reports chip/AI-supplier holdings (NVIDIA, AMD, Micron, TSMC, Broadcom, Applied Materials, Lam Research, etc.) worth roughly $804,024 to $2.04 million per his August disclosure; says advisers manage the portfolio. No mention of export controls anywhere on the page, consistent with the claim."
+},
+{
+"url": "https://bresnahan.house.gov/media/press-releases/bresnahan-introduces-bill-keep-data-center-decisions-local-hands",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-11",
+"note": "Headline quote appears verbatim, attributed to Rep. Bresnahan in the June 11, 2026 release."
 }
 ],
 "score_objections": [
 {
-"dimension": "tech_regulation",
-"objection": "None of the three sources checked concerns Big Tech regulation, platform rules, antitrust, or kids' online safety. The only AI-related source (Leading the Future PAC list) points, if anything, toward an industry-friendly 'basic safety standards' posture rather than targeted rules. Unless other evidence not listed here supports -1, the assigned score rests on nothing in this file.",
+"dimension": "ai_risk",
+"objection": "None of the nine sources contains any statement by Bresnahan on AI safety, AI risk, or AI-specific rules. The only AI-regulation datapoint is his vote for the House OBBBA state AI moratorium (per CAP Action), which if anything points toward a lighter-touch posture, not 'Targeted guardrails.' Evidence is too thin to assign -1; either leave unscored or add a source that actually addresses AI risk.",
 "suggested_score": null,
 "suggested_label": null
 }
 ]
 },
 {
-"bioguide": "T000467",
+"bioguide": "M001204",
 "checks": [
 {
-"url": "https://www.yahoo.com/news/politics/articles/lawmakers-flock-ag-progress-days-215748639.html",
+"url": "https://www.sungazette.com/news/top-news/2026/09/u-s-rep-dan-meuser-talks-data-centers-more-at-tele-town-hall/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-08-12",
-"note": "Quote appears verbatim, attributed to Rep. Glenn 'GT' Thompson at his Ag Progress Days forum. Article also says he 'went on to say that data centers will be a part of life moving forward,' matching the claim. Published 2026-08-12."
+"corrected_date": "2026-09-03",
+"note": "Article by Mark Maroney, Sept 3, 2026. Page says Meuser 'would prefer and favor local approval and not having them shoved down the face of his constituents by billionaire corporations' and that projects should move forward only when they 'truly add value and do no harm.' Quote verbatim."
 },
 {
-"url": "https://wzmq19.com/news/368159/rep-thompson-unveils-bill-to-protect-farms-from-eminent-domain-as-data-center-debate-intensifies/",
+"url": "https://www.sungazette.com/news/top-news/2026/09/u-s-rep-dan-meuser-talks-data-centers-more-at-tele-town-hall/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-09-04",
-"note": "Quote verbatim. Article says Thompson believes data centers could bring 'real positives' and should be embraced 'but with guardrails,' and that he recently introduced the Not in My Barnyard Act to shield agricultural land from federal eminent domain when a feasible alternative exists. Note the bill targets federal eminent domain generally, not data-center infrastructure specifically, though the article frames it in the data-center context. Dateline September 4, 2026 (Erie News Now DC Bureau via WZMQ)."
+"corrected_date": "2026-09-03",
+"note": "Same article. Page: he 'could agree with 80 % of Gov. Josh Shapiro's protective measures' but supported Garrity's 'level-headed' approach over Shapiro's 'knee-jerk reaction'; data centers 'where the zoning is right' can provide municipalities with revenue; China is 'doing its darndest' to feed 'untrue information' on data centers (he claimed CIA confirmation). Item title is a paraphrase of the real headline ('U.S. Rep. Dan Meuser talks data centers, more at tele-town hall')."
 },
 {
-"url": "https://www.lancasterfarming.com/farming-news/ag-business/pennsylvania-congressmen-seek-silver-lining-on-rural-data-centers/article_7e440a03-09b1-4824-99e5-74a51c9970bc.html",
+"url": "https://meuser.house.gov/media/in-the-news/american-petroleum-institute-event-highlights-areas-appeal-ai-data-centers",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-01-10",
-"note": "Quote verbatim. Article says Thompson thinks it makes more sense to build data centers in Pennsylvania than transfer PA-produced energy out of state, and cites ample coal refuse and flared, unpiped gas wells as siting opportunities. Farm Show town hall, Jan. 10, 2026."
+"corrected_date": "2024-08-17",
+"note": "Official-site repost dated Aug 17, 2024: API roundtable in Luzerne County 'welcomed by State Rep. Mike Cabell, U.S. Rep. Dan Meuser and other lawmakers' on using PA natural gas to attract AI data centers (Amazon named). 'Early pro-buildout signal' is the tracker's inference but reasonable."
 },
 {
-"url": "https://www.yahoo.com/news/politics/articles/lawmakers-flock-ag-progress-days-215748639.html",
+"url": "https://www.govtrack.us/congress/bills/119/hr9262/cosponsors",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-08-12",
-"note": "Hog-farm quote appears verbatim, attributed to Thompson ('he said')."
-}
-],
-"score_objections": []
+"corrected_date": null,
+"note": "GovTrack as of fetch (Sept 12, 2026): 'This bill has 1 cosponsor — 1 Republican — plus its sponsor.' Sponsor Bresnahan (R-PA8); sole cosponsor Kean, Thomas (R-NJ7) joined Sept 4, 2026. Meuser not listed. The Sun-Gazette article does report Meuser said he was a co-sponsor, so the discrepancy claim holds (could be a pending cosponsorship not yet recorded)."
 },
 {
-"bioguide": "K000376",
-"checks": [
-{
-"url": "https://www.quiverquant.com/news/Press+Release%3A+McCaul%2C+Bera+and+Kelly+Introduce+Bill+to+Use+AI+in+Pediatric+Cancer+Research",
+"url": "https://meuser.house.gov/media/in-the-news/berks-lawmakers-express-concern-about-tiktok-potential-ban-passes-us-house",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-07-09",
-"note": "Page (posted July 9, 2026) names Rep. Mike Kelly as a co-introducer with McCaul and Bera of the 'Accelerating Innovation (AI) for Kids Act', described as using AI to improve clinical trial design, data access and personalized treatment for pediatric cancer. No Kelly quote on the page, matching the item's note. Supports the claim; it is a pro-AI-adoption signal, not a stance on AI risk regulation."
+"corrected_date": "2024-03-13",
+"note": "Official-site repost of 69 News (Jack Reinhard), Mar 13, 2024. Verbatim: 'passed the House by a vote of 352 to 65, with all three members of Congress who serve Berks County voting yes.' Meuser is one of the three Berks members; page is on his own site."
 },
 {
-"url": "https://kelly.house.gov/media/press-releases/kelly-issues-statement-congressional-auto-caucus-semiconductor-roundtable",
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "CAP Action report (Adam Conner, Aug 24, 2026). Quote appears verbatim in the dek. But the page never names Meuser; its Pennsylvania section names only Fitzpatrick, Mackenzie, Bresnahan and Perry. The link to Meuser rests on the general claim that almost every House Republican voted for the May 22, 2025 House OBBBA (Roll Call 145), which Meuser did, but the tracker should cite the roll call for his vote rather than this page. Also note the provision was a state/local AI-law moratorium, not a data-center-specific provision; CAP argues it 'likely' would have blocked local limits."
+},
+{
+"url": "https://www.sungazette.com/news/top-news/2026/09/u-s-rep-dan-meuser-talks-data-centers-more-at-tele-town-hall/",
+"verdict": "confirmed",
+"corrected_quote": "data centers must be controlled by the local jurisdiction, not state and certainly not federal",
+"corrected_date": "2026-09-03",
+"note": "Page: 'Meuser told the audience he was a co-sponsor on U.S. Rep. Rob Bresnahan Jr.'s bill that data centers must be controlled by the local jurisdiction, not state and certainly not federal.' This is the reporter's paraphrase of Meuser, not a direct quote; claim wording ('not the state and certainly not the federal government') is a close paraphrase."
+},
+{
+"url": "https://www.sungazette.com/news/top-news/2026/09/u-s-rep-dan-meuser-talks-data-centers-more-at-tele-town-hall/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2022-01-21",
-"note": "Quote appears verbatim (apostrophe is curly in source). Release dated Jan 21, 2022 frames chips entirely around auto-industry supply shortages and passing the CHIPS for America Act; China and export controls are not mentioned, so the claim that his chip interest is supply-side rather than about limiting sales to China is accurate."
+"corrected_date": "2026-09-03",
+"note": "Quote 'truly add value and do no harm' appears verbatim, attributed to Meuser at the tele-town hall."
 }
 ],
 "score_objections": [
 {
-"dimension": "tech_regulation",
-"objection": "Neither source provided speaks to tech regulation at all: one is a pro-AI pediatric cancer research bill, the other a 2022 auto-supply semiconductor statement. Nothing here supports a -1 'Targeted rules' placement; unless the tracker has separate Kelly evidence on Big Tech regulation, this should be left unscored.",
+"dimension": "ai_risk",
+"objection": "None of the eight sources touches AI safety or AI risk regulation at all; they cover data-center siting, local control, natural gas and the TikTok divestiture bill. A -1 'Targeted guardrails' score on ai_risk has no evidence behind it in this item set. Either add a source on his AI-risk views or leave the dimension unscored.",
 "suggested_score": null,
 "suggested_label": null
 }
 ]
 },
 {
-"bioguide": "D000530",
+"bioguide": "P000605",
 "checks": [
 {
-"url": "https://truthout.org/articles/fetterman-backs-trumps-insulting-comments-berating-opponents-of-data-centers/",
-"verdict": "confirmed",
-"corrected_quote": "so disrespectful to people who have concerns about AI's roles in our lives, or electricity costs, or whether good union jobs are part of this, or water supplies — you name it",
-"corrected_date": "2026-09-01",
-"note": "Page names Deluzio, says he condemned Trump's data-center post in a video, quote appears verbatim (item truncates the trailing 'you name it'); also quotes him: 'It certainly isn't because they want to be backwards and poor.'"
-},
-{
-"url": "https://deluzio.house.gov/media/press-releases/deluzio-focused-fighting-lower-costs-founding-member-new-lowering-utility",
+"url": "https://www.eenews.net/articles/data-center-boom-creates-political-conundrum-for-the-gop-2/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-01-26",
-"note": "Quote verbatim from Deluzio's statement; release frames utility costs as monopoly profiteering and explicitly pairs it with 'get more power onto the grid'. Data centers are not mentioned by name on the page."
+"corrected_date": "2025-12-11",
+"note": "Both sentences appear verbatim attributed to Perry; article also reports he said developers 'should have an eye' on bringing their own independent generation (co-location)."
 },
 {
-"url": "https://www.usatoday.com/story/news/politics/2026/09/09/congress-reaction-anthropic-ai-warning-end-humanity/91675031007/",
+"url": "https://www.cityandstatepa.com/policy/2026/05/burgum-perry-tout-importance-nuclear-energy-visit-three-mile-island/413288/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-09-09",
-"note": "Quote verbatim, attributed to Rep. Chris Deluzio, D-Pennsylvania, preceded by 'For those still burying their heads in the sand about the risks of superintelligence to humanity: wake up.' The 'unusually strong for a House member' characterization is the tracker's editorial gloss, not on the page."
+"corrected_date": "2026-05-01",
+"note": "Quote verbatim. Article says he advocated permitting/regulatory reform and a more collaborative relationship with PJM; data-center demand context is via the Microsoft PPA for the Crane restart."
 },
 {
-"url": "https://deluzio.house.gov/media/press-releases/deluzio-bonamici-moylan-restart-push-protect-workers-ai-and-robot-bosses",
+"url": "https://www.aol.com/articles/battleground-congressional-candidates-weigh-shapiro-121000000.html",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2025-12-04",
-"note": "Quote verbatim. Bill summary on the page lists pre-deployment testing for discrimination and bias, independent human oversight, timely disclosures, and a new Technology and Worker Protection Division at the Department of Labor."
+"corrected_date": "2026-08-28",
+"note": "Quote verbatim from Perry's campaign to The Center Square; Stelson campaign explicitly attacks his 'can't afford to slow down' / race-with-China remarks."
 },
 {
-"url": "https://jayapal.house.gov/2026/06/23/monopoly-busters-caucus-co-chairs-press-uber-and-lyft-following-reports-of-ai-driven-surveillance-pricing/",
+"url": "https://federalnewsnetwork.com/commentary/2026/04/osint-is-transforming-the-intelligence-battlespace/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-06-23",
-"note": "Deluzio (PA-17) named as one of four Monopoly Busters Caucus co-chairs who wrote the letter; quote verbatim; page states Uber and Lyft control ~95 percent of the ride-hailing market and the letter demands transparency about AI-driven pricing using personal data."
+"corrected_date": "2026-04-22",
+"note": "Quote verbatim. Op-ed bylined Rep. Scott Perry; says governance must be embedded technologically and that he works on the Open-Source Intelligence Subcommittee 'to help put those guardrails in place.' Scope is intelligence-community use of agentic AI, not general AI regulation."
 },
 {
-"url": "https://deluzio.house.gov/media/press-releases/deluzio-focused-fighting-lower-costs-founding-member-new-lowering-utility",
+"url": "https://federalnewsnetwork.com/commentary/2026/04/osint-is-transforming-the-intelligence-battlespace/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-01-26",
-"note": "Verbatim boilerplate on his own release: 'Congressman Deluzio, co-Chair of the Monopoly Busters Caucus, is a leading voice in the Congress pushing for stronger antitrust enforcement and taking on the out-of-control corporate power that is ripping off Pennsylvanians and Americans across the country.'"
+"corrected_date": "2026-04-22",
+"note": "Closing line appears verbatim. Context is government/IC use of AI, as the claim notes."
 },
 {
-"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"url": "https://www.eenews.net/articles/data-center-boom-creates-political-conundrum-for-the-gop-2/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2025-11-26",
-"note": "Fetch tool returned zero text for the PDF; downloaded and extracted it directly. Quote verbatim; letter dated Nov 26, 2025 to Johnson/Thune/Jeffries/Schumer; 81 'Member of Congress' signature blocks including Chris Deluzio; opposes NDAA moratorium, a preemption executive order, and conditioning BEAD/broadband funds on states abandoning AI laws."
+"corrected_date": "2025-12-11",
+"note": "Quote verbatim, attributed to Perry."
 },
 {
-"url": "https://clarke.house.gov/?p=102767",
+"url": "https://www.cityandstatepa.com/policy/2026/07/what-flock-8-things-know-about-automated-license-plate-readers-pennsylvania/414999/",
 "verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-03",
-"note": "Redirects to the Clarke release; quote verbatim; Chris Deluzio listed among the 44 signers; letter urges negotiators to keep any AI moratorium or preemption out of the final FY26 NDAA."
+"corrected_quote": "mass collection and surveillance – not safety",
+"corrected_date": "2026-07-24",
+"note": "Facebook-post quote appears as 'mass collection and surveillance – not safety.' Article says Perry and Garcia 'sponsored' (not co-sponsored) a bipartisan amendment barring federal highway fund recipients from using ALPRs for any purpose other than tolling; it failed in committee markup."
 },
 {
-"url": "https://www.usatoday.com/story/news/politics/2026/09/09/congress-reaction-anthropic-ai-warning-end-humanity/91675031007/",
+"url": "https://www.foxnews.com/politics/joe-biden-mandated-all-new-vehicles-come-installed-kill-switch-republican-wants-repeal",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-09-09",
-"note": "Same source as item 3; quote appears verbatim and is attributed to Deluzio."
+"corrected_date": "2026-07-21",
+"note": "Quote verbatim from Fox News Digital interview. Article describes the No Kill Switches In Cars Act repealing the impairment-monitoring mandate and Perry calling it a civil liberties / Fourth Amendment violation."
+},
+{
+"url": "https://perry.house.gov/news/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "News listing shows press release: Perry and Randy Weber co-sponsored Harshbarger's DRIVER Act 'to codify vehicle data ownership rights' (2025 release; month truncated in listing). Listing page may scroll this item off over time; a permalink would be more durable."
+},
+{
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Quote verbatim from the report subhead. Report names Perry as one of the PA Republicans who voted for the May 2025 House OBBBA AI moratorium. It is an advocacy report's characterization of a vote on the full bill, not a Perry statement on preemption."
+},
+{
+"url": "https://perry.house.gov/news/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Listing shows Jan 14, 2026 press release with the quoted purpose verbatim; Rick Scott has Senate companion. Bill is about sanctions on Chinese military companies, nothing on chips or export controls."
+},
+{
+"url": "https://www.eenews.net/articles/data-center-boom-creates-political-conundrum-for-the-gop-2/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Quote verbatim; nothing in the article about chips or export controls."
+},
+{
+"url": "https://www.eenews.net/articles/data-center-boom-creates-political-conundrum-for-the-gop-2/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Headline quote verbatim."
 }
 ],
 "score_objections": [
 {
 "dimension": "china_chips",
-"objection": "None of the nine sources mentions chips, export controls, China, or Nvidia. There is no evidence in this file for any china_chips position, so a -1 'Leans hawkish' score is unsupported; record no position until a source exists.",
-"suggested_score": null,
-"suggested_label": null
+"objection": "None of the sources say anything about semiconductors or export controls. The only China evidence is a sanctions bill against Chinese military companies operating in the U.S. and a generic 'race for AI with China' line, which cuts both ways (chip hawks and chip sellers both invoke the race). Evidence is too thin to place him at -1; the tracker's own item notes concede this.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
 }
 ]
 }

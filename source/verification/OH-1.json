@@ -1,0 +1,314 @@
+[
+{
+"bioguide": "M001242",
+"checks": [
+{
+"url": "https://www.moreno.senate.gov/press-releases/moreno-slams-tax-breaks-to-pe-giant-for-data-center-project-creating-just-10-jobs",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-17",
+"note": "Reached via Wayback (20260422). Quote verbatim. Letter urges Carlyle to voluntarily give up the $4.5M subsidy, sign Trump's Ratepayer Protection Pledge, and create more jobs; project creates 10 jobs. Page describes the letter as sent to the Carlyle Group only; I could not confirm the Ohio Tax Credit Authority as a co-recipient named in the item title."
+},
+{
+"url": "https://spectrumnews1.com/oh/columbus/news/2026/03/25/moreno-data-center-backlash",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-25",
+"note": "Quote verbatim. Article lists his conditions: no taxpayer incentives, improved water discharge, workforce training investment, no prime farmland, good community partners; also quotes 'We want to make certain that we win the AI race here in America.'"
+},
+{
+"url": "https://postindustrial.com/stories/ohio-us-senator-calls-to-end-data-center-subsidies/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-08",
+"note": "Ohio Capital Journal piece by Marty Schladen republished on Postindustrial. Quote verbatim; 'worst sales pitch in the history of sales pitches' appears verbatim. Page refers to a Republican energy-affordability summit in Columbus on Thursday; proposal framed as 'most likely am going to introduce federal legislation'."
+},
+{
+"url": "https://wtov9.com/newsletter-daily/bernie-moreno-ohio-jefferson-county-energy-access-electricity-costs-data-centers-power-grid-cardinal-plant-coal-energy-baseload-energy-energy-investment-34-million-grant-southeast-ohio-china-pollution-comparison-electricity-prices-reliable-energy-news-ni",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Quote verbatim. He blames politicians who shut down baseload plants like Cardinal, not data centers, for higher prices; says data centers are producing their own power."
+},
+{
+"url": "https://atr.org/no-senator-moreno-we-should-not-tax-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-04",
+"note": "ATR attacks the 100% federal tax on state/local incentives as a terrible idea; notes that in a conversation with Scott Jennings he defended data center construction against activists advocating moratoria and said 'you gotta produce your own power'."
+},
+{
+"url": "https://hoodline.com/2026/09/ohio-senator-moreno-targets-data-center-tax-breaks-with-100-federal-clawback/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-05",
+"note": "States 'Moreno has not yet introduced the legislation, according to Cleveland.com'; describes the 100% federal tax on state/local incentives."
+},
+{
+"url": "https://news.bgov.com/bloomberg-government-news/data-center-backlash-floods-campaign-trail-as-hill-action-stalls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-04",
+"note": "Names Moreno: said at an event Thursday he doesn't want to see 'a single taxpayer dollar going to support a data center' and is likely to introduce legislation."
+},
+{
+"url": "https://spectrumnews1.com/oh/columbus/news/2026/03/25/moreno-data-center-backlash",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-25",
+"note": "Quote verbatim, followed by 'But we gotta do it the right way' re taxpayer dollars and electricity prices. Note this is about the data center/AI race framing, not AI safety or model regulation; it is thin evidence for an ai_risk position."
+},
+{
+"url": "https://www.moreno.senate.gov/press-releases/new-moreno-gallego-bill-cracks-down-on-big-tech-fraudsters",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-04",
+"note": "Reached via Wayback (20260612). Quote verbatim. SCAM Act requires platforms to take reasonable steps to prevent fraudulent ads and strengthens FTC and state enforcement of consumer protection laws."
+},
+{
+"url": "https://postindustrial.com/stories/ohio-us-senator-calls-to-end-data-center-subsidies/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-08",
+"note": "Quote appears verbatim: 'No. 1, no taxes. I don't want a single taxpayer dollar going to support a data center. Period.'"
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only ai_risk evidence is a single 'win the AI race' line inside a data-center interview. Nothing in the sources addresses AI safety, model rules, or guardrails on AI systems; his conditions (no subsidies, water, farmland, ratepayers) are data-center siting conditions, not AI risk regulation. Evidence is too thin to place him at -1 Targeted guardrails; if anything the race framing leans light-touch. Suggest no position until an AI-specific source exists.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "H001104",
+"checks": [
+{
+"url": "https://www.husted.senate.gov/media/press-releases/husted-leads-bill-to-protect-americans-from-footing-the-bill-for-new-data-centers/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-20",
+"note": "Quote verbatim (via Wayback; senate.gov blocks direct fetch). Claim overstates the mechanism: release says the bill would 'require states to consider establishing standards' that regulators 'could enforce' for 100 MW+ large-load customers, recommending recovery of the full incremental upgrade cost; it does not make states force payment. Pro-AI-buildout frame is present."
+},
+{
+"url": "https://www.husted.senate.gov/media/press-releases/husted-attends-roundtable-with-president-on-lowering-energy-costs-for-communities-near-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-04",
+"note": "Quote verbatim (Wayback). Release explicitly praises the Ratepayer Protection Pledge signed by tech companies to fund their own power and frames AI leadership as a national security need."
+},
+{
+"url": "https://spectrumnews1.com/oh/columbus/news/2026/07/28/data-center-husted-ohio",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-28",
+"note": "Quote verbatim. Article says he continues to advocate for data center development if it does not burden local communities and quotes him saying 'It's not really a shift.'"
+},
+{
+"url": "https://www.wvxu.org/politics/2026-08-27/analyis-jon-husted-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-27",
+"note": "Quote verbatim. Article reports he told the Ohio Statehouse News Bureau that state sales and tax breaks he once backed should no longer be awarded and that data centers 'earned that backlash.'"
+},
+{
+"url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-21",
+"note": "Quote verbatim; followed by 'Radical climate policies did that.' CNBC notes plants closed under both parties' administrations."
+},
+{
+"url": "https://news.bgov.com/bloomberg-government-news/data-center-backlash-floods-campaign-trail-as-hill-action-stalls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-04",
+"note": "Quote verbatim. Article says he called the backlash a 'wake up call' after the NRSC memo and touted S. 5028 requiring data centers to produce their own electricity."
+},
+{
+"url": "https://www.husted.senate.gov/media/press-releases/husted-leads-bill-to-protect-children-from-ai-companion-chatbots-sexual-content",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-08",
+"note": "Quote verbatim (Wayback). Release lists age verification, barring minors without parental consent, and notifying consenting parents of self-harm talk; 'parental registration' is the item's paraphrase of the parental-consent requirement."
+},
+{
+"url": "https://www.husted.senate.gov/media/press-releases/husted-kim-lead-bipartisan-bill-to-protect-children-from-ai-companion-chatbots/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Quote verbatim (Wayback). Release describes a tiered, risk-based federal framework, pre-deployment risk assessments for higher-risk systems, and FTC/state AG enforcement."
+},
+{
+"url": "https://www.husted.senate.gov/media/op-eds/husted-ai-can-be-a-force-for-deregulation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-03-23",
+"note": "Quote verbatim (Wayback). Op-ed argues Congress should authorize AI to trim the federal code; the bill number S.1110 is not stated on the page but the described bill matches."
+},
+{
+"url": "https://www.husted.senate.gov/media/press-releases/husted-joins-bill-to-advance-ai-for-americans",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "Quote verbatim (Wayback). Same quote says 'it's critical to our innovation and national security that America leads—and wins—the race.'"
+},
+{
+"url": "https://thenerdstash.com/ohio-fury-as-jon-husted-interview-about-robots-taking-jobs-as-not-a-bad-thing-resurfaces-this-infuriates-me/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Quote verbatim, attributed to a 2021 Darke County Chamber of Commerce appearance. Low-tier aggregator source built around a Reddit post; remark is about robots/automation, not AI regulation specifically."
+},
+{
+"url": "https://www.husted.senate.gov/media/press-releases/husted-supports-bipartisan-bill-to-protect-kids-online",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-12",
+"note": "Quote verbatim (Wayback). Release says he joins the bipartisan coalition of 70 senators and uses the phrase 'addictive, harmful algorithms.'"
+},
+{
+"url": "https://www.husted.senate.gov/media/press-releases/husted-leads-bill-to-protect-children-from-ai-companion-chatbots-sexual-content",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-08",
+"note": "Fragment verbatim; release continues 'which has direct ties to the Chinese Communist Party—from operating on any federal government devices or networks.' Note this is a federal-device ban, nothing about chip export controls."
+},
+{
+"url": "https://www.husted.senate.gov/media/press-releases/husted-attends-roundtable-with-president-on-lowering-energy-costs-for-communities-near-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-04",
+"note": "Quote verbatim. General China-competition framing; no mention of chips or export controls."
+},
+{
+"url": "https://www.husted.senate.gov/media/press-releases/husted-leads-bill-to-protect-americans-from-footing-the-bill-for-new-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-20",
+"note": "Quote verbatim (Wayback)."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the sources touches semiconductor export controls or chip sales. The only China evidence is a DeepSeek federal-device ban and generic 'stay ahead of adversaries like China' rhetoric, which every senator in both parties uses. That is too thin to place him on the export-control scale; leaning hawkish is an inference, not a documented position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "L000601",
+"checks": [
+{
+"url": "https://landsman.house.gov/posts/landsman-leads-new-bill-requiring-big-tech-to-pay-for-data-centers-and-no-ndas",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-09",
+"note": "The /posts/ URL returns 404; the same release lives at https://landsman.house.gov/media/press-releases/landsman-leads-new-bill-requiring-big-tech-to-pay-for-data-centers-and-no-ndas (fetched 200). Quote verbatim; release says the No Harm Data Centers Act makes data centers pay full energy/infrastructure cost, studies environmental impacts, and prohibits NDAs with elected officials. Update the URL."
+},
+{
+"url": "https://landsman.house.gov/media/press-releases/landsman-beyer-introduce-bill-to-protect-residents-from-rising-costs-caused-by-ai-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-09",
+"note": "Quote verbatim. Bill (Protecting Families from AI Data Center Energy Costs Act) requires FERC to hold a stakeholder conference and report recommendations so data center energy costs are not passed to communities."
+},
+{
+"url": "https://landsman.house.gov/media/press-releases/landsman-introduced-third-ai-data-center-bill-in-congress",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-10",
+"note": "Quote verbatim. Protecting Communities from Data Center Impacts Act requires EPA to contract with NASEM to study noise, air, water consumption/supply, carbon emissions, and waste including e-waste."
+},
+{
+"url": "https://www.wcpo.com/news/local-news/data-centers-emerge-as-key-issue-in-ohios-highly-watched-1st-congressional-district-race",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Quote verbatim (excerpt from a longer quote that begins 'What our towns need is the federal government to come in and say this is going to stop'). Article says Landsman pushes a national framework; Conroy said data centers should pay most expenses but 'at the end of the day, I think it's a local issue.'"
+},
+{
+"url": "https://www.fox19.com/2026/08/05/ohio-data-center-bill-would-require-voter-approval-ban-local-tax-incentives/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-05",
+"note": "Quote verbatim; he goes on to describe the second bill (no NDAs) and third (national environmental-impact standard). Article is mainly about a state bill; Landsman's federal bills are a secondary section."
+},
+{
+"url": "https://landsman.house.gov/media/press-releases/landsman-reece-call-on-dewine-to-rein-in-energy-costs-in-southwest-ohio",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-26",
+"note": "Quote verbatim from Landsman's letter to DeWine supporting Commissioner Reece's request for a moratorium on Duke Energy rate increases. Caveat: the release never mentions data centers or AI; it is a general utility-affordability item, so it is weak evidence for the data_centers dimension specifically."
+},
+{
+"url": "https://www.eenews.net/articles/committee-sets-vote-on-data-center-grid-bills/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-22",
+"note": "Article lists H.R. 6529 (Protecting Families from AI Data Center Energy Costs Act, Landsman) among bills in the Energy Subcommittee markup headlined by the bipartisan Ratepayer Protection Act."
+},
+{
+"url": "https://landsman.house.gov/media/press-releases/landsman-introduces-bipartisan-legislation-to-keep-ai-from-making-health-care-decisions",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Quote verbatim (continues: 'If not, folks will be left with massive bills...'). Bipartisan with Rep. Carter; bill requires medical-necessity denials be made by licensed professionals, AI only to assist claims processing, disclosure when AI is used in review, patient right to know."
+},
+{
+"url": "https://landsman.house.gov/media/press-releases/landsman-delbene-lead-fight-to-overturn-ai-model-delaying-and-denying-care-for-seniors",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-20",
+"note": "Quote verbatim. Landsman and DelBene lead a CRA resolution against the WISeR Medicare prior-authorization AI model, launched in Ohio, New Jersey, Oklahoma, Texas, Arizona, Washington."
+},
+{
+"url": "https://landsman.house.gov/media/press-releases/landsman-urges-president-trump-to-work-with-social-media-companies-to-combat-antisemitism",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-06",
+"note": "Quote verbatim from letter to Trump; names X, TikTok, Meta and others and asks them to stop the spread of antisemitic hate speech. It is a letter urging voluntary action via the President, not proposed regulation."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool extracted 0 chars from the PDF; downloaded it directly and extracted text. Quote verbatim; 'Greg Landsman Member of Congress' appears in the signature block. Letter opposes an NDAA AI moratorium and a preemption executive order."
+},
+{
+"url": "https://clarke.house.gov/?p=102767",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Redirects to clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/. Quote verbatim; Greg Landsman listed among the 44 signers; letter says any preemption would put all Americans at risk online."
+},
+{
+"url": "https://landsman.house.gov/posts/landsman-passes-first-bipartisan-bill-this-congress-to-increase-foreign-investment-in-the-u-s-semiconductor-industry",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-28",
+"note": "Live URL 404s (both /posts/ and /media/press-releases/ forms); verified via Wayback snapshot fetched directly with curl. Quote verbatim. H.R. 2480 Securing Semiconductor Supply Chains Act (with Bentz) directs SelectUSA to attract allied foreign investment in US chip manufacturing; passed House. No mention of export controls or China."
+},
+{
+"url": "https://landsman.house.gov/posts/landsman-leads-new-bill-requiring-big-tech-to-pay-for-data-centers-and-no-ndas",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-09",
+"note": "Same 404 /posts/ URL as item 1; quote verified verbatim at https://landsman.house.gov/media/press-releases/landsman-leads-new-bill-requiring-big-tech-to-pay-for-data-centers-and-no-ndas. Update the URL."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only source is an onshoring/foreign-investment bill (SelectUSA strategies to attract allied investment in US fabs). It says nothing about export controls, China, or chip sales abroad, so it cannot support 'Leans hawkish' on export controls. Evidence is too thin for any position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

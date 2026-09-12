@@ -1,0 +1,173 @@
+[
+{
+"bioguide": "C001113",
+"checks": [
+{
+"url": "https://www.govtrack.us/congress/bills/119/s4506/text",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "GovTrack text of S.4506 (Advancing Water Reuse Act) contains the quote verbatim in sec. (c)(1)(A) defining a qualifying water reuse project; data centers are named directly. It is a tax-credit incentive, not a rule, as the claim says. Page does not itself display cosponsor list, but bill text matches."
+},
+{
+"url": "https://news3lv.com/news/local/federal-bill-could-ban-ai-companions-for-kids-and-teens-require-age-verification",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-02",
+"note": "KSNV article (published 2026-05-02) contains the quote verbatim and its lead says AI companies could face criminal penalties under the GUARD Act, which it says Cortez Masto co-sponsors. Claim is supported."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "R000608",
+"checks": [
+{
+"url": "https://www.rosen.senate.gov/2025/09/12/video-during-rosen-questioning-trump-administration-refuses-to-directly-commit-to-not-using-ai-bot-with-history-of-promoting-antisemitism",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-12",
+"note": "Direct fetch 403 and Wayback blocked; read via r.jina.ai proxy. Quote appears verbatim in the transcript excerpt. Page confirms she cited her bipartisan letter to xAI going unanswered and demanded a commitment that agencies not use AI promoting antisemitic content. 'Accountability standards' is a slight paraphrase of 'demanded assurances', but fair."
+},
+{
+"url": "https://www.rosen.senate.gov/2025/03/26/rosen-pushes-back-on-attempts-to-use-ai-to-raise-prices",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-03-26",
+"note": "Read via r.jina.ai proxy (site 403s direct fetches). Quote is verbatim from her letter to FTC Chair Ferguson urging him to reopen the surveillance-pricing comment period."
+},
+{
+"url": "https://www.theverge.com/ai-artificial-intelligence/921833/pete-hegseth-goes-out-of-his-way-to-call-anthropic-ceo-dario-amodei-an-ideological-lunatic",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Verge piece names Rosen asking at a Senate Armed Services hearing about the DoD-Anthropic dispute and 'whether he could guarantee a human would be in the loop on any targeting decisions made with AI'; Hegseth responded by attacking Amodei. Quote verbatim."
+},
+{
+"url": "https://broadbandbreakfast.com/ces2026-from-innovation-to-guardrails-senators-confront-techs-next-phase/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-09",
+"note": "Quote verbatim. Article also says Rosen 'framed the session around how lawmakers could promote innovation while identifying where guardrails were needed to prevent harm', matching the claim."
+},
+{
+"url": "https://www.rosen.senate.gov/2026/01/09/at-ces-2026-rosen-leads-senate-panel-on-emerging-technologies",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-09",
+"note": "Read via r.jina.ai proxy. Quote verbatim from her statement; framing is innovation-focused as claimed."
+},
+{
+"url": "https://www.techpolicy.press/transcript-senate-commerce-hearing-on-30-years-of-section-230/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Quote verbatim (full sentence continues 'and adjust where needed'). Transcript also shows her unsafe-products analogy (car seat, energy drink), her question about holding the largest platforms accountable, and her concern that eliminating 230 could jeopardize Wikipedia/Reddit's decentralized moderation model."
+},
+{
+"url": "https://www.kolotv.com/2026/04/27/rosen-helps-introduce-bill-protecting-minors-online/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-27",
+"note": "Quote verbatim. Article describes Parents Over Platforms Act with Moran: rules for app stores and developers, age assurance, parental blocking tools, limits on targeted ads to minors."
+},
+{
+"url": "https://www.rosen.senate.gov/2025/04/29/bipartisan-bill-rosen-helped-introduce-to-combat-explicit-deepfakes-passes-congress-heads-to-presidents-desk",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-29",
+"note": "Read via r.jina.ai proxy. Quote verbatim. Page describes the 48-hour removal requirement and AI-generated deepfakes. Minor nit: at publication the bill had passed Congress but was not yet signed, so 'celebrated a law' is slightly ahead of the page."
+},
+{
+"url": "https://www.commerce.senate.gov/2025/6/cantwell-commerce-committee-democrats-call-for-regular-order-on-dangerous-and-damaging-commerce-title-of-reconciliation-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-05",
+"note": "Read via r.jina.ai proxy (site 403s). Rosen is listed among the 12 signers; the letter text includes the quote verbatim. It is a group letter led by Cantwell, one sentence of a broader complaint, not a Rosen-authored statement."
+},
+{
+"url": "https://www.rosen.senate.gov/2025/02/27/senators-rosen-husted-ricketts-introduce-bipartisan-bill-to-protect-american-government-devices-from-prc-controlled-ai-program",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-27",
+"note": "Read via r.jina.ai proxy. Quote verbatim from her statement. Note this is a government-device ban on a Chinese app, not an export-control position on chips; it supports 'leans hawkish' but says nothing directly about chip exports."
+},
+{
+"url": "https://www.techpolicy.press/transcript-senate-commerce-hearing-on-30-years-of-section-230/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Same transcript as item 6; quote verbatim as Rosen's words at the March 2026 Section 230 hearing."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "T000468",
+"checks": [
+{
+"url": "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5916",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-09",
+"note": "Quote appears verbatim. Release (dated July 9, 2026) says the July 8 letter to BLM directors Pearce and Abernathy asked for 'robust public consultation and transparency' and cites resident concerns about the electric grid and utility prices, heat from industrial processes, and water depletion. Claim fully supported."
+},
+{
+"url": "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5922",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Quote appears verbatim in the letter text. Release explicitly says she asked Lombardo to halt state tax abatements for data centers on federal land 'until the 2027 Nevada Legislature has had an opportunity to review the issue.'"
+},
+{
+"url": "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5926",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-17",
+"note": "Quote verbatim. She says the Governor did not address whether he would halt abatements, and calls Boulder City 'the first' with 'more planned across the West.' Claim supported."
+},
+{
+"url": "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5928",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Quote verbatim. Release says the Interior Board of Land Appeals granted a stay 'based on the BLM's misuse of an environmental impact statement for a solar farm as justification for a data center.' Claim supported."
+},
+{
+"url": "https://thenevadaindependent.com/article/what-do-nevadas-congressional-candidates-think-about-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-26",
+"note": "Quote verbatim, attributed to Titus in an interview. Article: almost all candidates opposed a blanket federal pause except Horsford; all said federal land can host data centers with local buy-in; Titus thinks the federal government 'needs to step in' if data centers tap nuclear energy, but water and other environmental topics should not fall to the federal government. Note the article frames her as 'open to changes at the federal level, but on a smaller scale,' so 'wants a federal role only if nuclear' is a slight simplification but fair."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned zero text for the PDF; downloaded and extracted directly. Quote verbatim (line break in original between 'state' and 'and local'). Letter dated Nov 26, 2025 to Johnson, Thune, Jeffries, Schumer opposes an NDAA AI moratorium and a preemption executive order, cites the 99-1 Senate vote. 'Dina Titus, Member of Congress' appears in the signature block."
+},
+{
+"url": "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5916",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-09",
+"note": "Same page as item 1; quote appears verbatim as a direct Titus quote."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the seven sources mentions chips, export controls, China, or semiconductors. There is no evidence in the file for any china_chips position; -1 'Leans hawkish' is unsupported.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No source addresses Big Tech or platform regulation; the only link is a footnote in the Matsui letter citing a Public Citizen release. The -1 score is plausible for a Democrat but the evidence here is too thin to assign it. If a score is kept, -1 'Targeted rules' is the defensible one, but it should be flagged as inferred.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

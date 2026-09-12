@@ -1,404 +1,222 @@
 [
 {
-"bioguide": "S000929",
+"bioguide": "Y000067",
 "checks": [
 {
-"url": "https://spartz.house.gov/media/press-releases/spartz-seeks-independent-federal-review-indiana-data-centers-and-leap",
+"url": "https://www.wndu.com/2025/11/24/amazon-announces-15-billion-investment-data-center-campuses-northern-indiana/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-09-09",
-"note": "Quote appears verbatim. Page states she requests a full accounting of energy and water needs, new generation/infrastructure, cost, who pays, and enforceable protections; letter to Wright and Burgum confirmed."
+"corrected_date": "2025-11-24",
+"note": "WNDU quotes Rep. Rudy Yakym (IN-02) verbatim; the preceding sentence also says the project will create good-paying jobs and expand the tax base. No conditions attached, as claimed."
 },
 {
-"url": "https://spartz.house.gov/media/press-releases/spartz-seeks-independent-federal-review-indiana-data-centers-and-leap",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-09-09",
-"note": "Quote verbatim. Page cites transmission cost/reliability concerns (FERC, MISO) and the plan to supply up to 25 million gallons of water per day from the White River watershed, framed around higher utility bills and blackout risk."
+"corrected_date": "2026-01-20",
+"note": "Transcript: asked his top priority for lowering energy costs, Yakym answered 'Additional energy exploration — but we also have to get the federal government out of the way. I just got a bill passed that reforms NEPA...pipelines and transmission lines.' Quote verbatim."
 },
 {
-"url": "https://www.indystar.com/story/news/politics/2026/09/09/rep-spartz-leap-district-lacks-transparency-federal-review/91675538007/",
+"url": "https://yakym.house.gov/media-center/press-releases/rep-yakym-votes-for-government-efficiency-and-energy-dominance",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-09-09",
-"note": "Fetch tool got 403 and Wayback was unavailable, but a direct curl with browser UA returned the article. Quote verbatim ('Spartz wrote in the letter'). Article says she blamed Indiana General Assembly laws (SEA 361 of 2022) for closed-door negotiations and asked that the review cover commitments to protect ratepayers from stranded costs."
+"corrected_date": "2025-12-18",
+"note": "Press release on his SPEED Act (H.R. 4776) vote; quote appears verbatim, attributed to Rep. Yakym."
 },
 {
-"url": "https://www.larryinfishers.com/2026/09/10/ford-spartz-indiana-data-center-debate/",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2026-09-10",
-"note": "Quote verbatim. Ford does urge federal legislation putting communities in control and ensuring no costs are passed to ratepayers, and 'criticized the timing.' But the phrase 'election-year posturing' is not on this page (it appears in the IndyStar article's Ford statement, not here)."
-},
-{
-"url": "https://www.washingtonreporter.news/p/exclusive-lawmakers-laud-trump-administrations-ai-genesis-mission",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-03-27",
-"note": "Spartz is named among co-signers of Gooden's letter to Wright; quote appears verbatim as letter text. The page contains no mention of safety rules or guardrails, consistent with the claim. Note the letter is about DOE's Genesis Mission science partnerships, not AI regulation per se."
+"corrected_date": "2026-01-20",
+"note": "Verbatim from his answer to the KOSA/preemption question. He frames AI as a race with China and names guardrails only for kids online and crimes committed with AI, matching the claim."
 },
 {
-"url": "https://spartz.house.gov/media/press-releases/rep-spartz-urges-colleagues-support-bipartisan-bicameral-antitrust-reform",
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2022-09-29",
-"note": "Quote verbatim. Package named as Merger Filing Fee Modernization, Foreign Merger Subsidy Disclosure, and State Antitrust Enforcement Venue Acts; page says it will expand state enforcement, rebalance filing fees, and increase foreign subsidy transparency; Big Tech named."
+"corrected_date": null,
+"note": "Quote verbatim from the LTF statement. Yakym is one of exactly 12 House Republicans listed; the article describes them as 'part of a broader ecosystem of current members who have engaged with the industry.' Page metadata dates it 2026-04-17 though URL says 04/16."
 },
 {
-"url": "https://spartz.house.gov/media/press-releases/rep-spartz-co-leads-bipartisan-bill-address-big-tech-and-other-monopoly-powers",
+"url": "https://api.open.fec.gov/v1/schedules/schedule_b/?api_key=DEMO_KEY&committee_id=C00946111&recipient_name=RUDY",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "FEC API returned HTTP 429 OVER_RATE_LIMIT for DEMO_KEY on three attempts; Wayback fallback refused connection; no alternate key available. Could not verify the $1,000 / 2026-06-29 contribution."
+},
+{
+"url": "https://yakym.house.gov/media-center/press-releases/yakym-calls-out-60-billion-of-fraud",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2021-06-11",
-"note": "Quote verbatim. Bill described as increasing agency resources for antitrust enforcement; her statement blames 'ever-increasing government regulations' for distortions contributing to monopolies."
+"corrected_date": "2026-04-21",
+"note": "Press release text matches verbatim: he pushed for answers on whether federal law or regulation prevents CMS from deploying predictive AI tools private insurers use. Claim that he frames rules as a possible obstacle to AI adoption is a fair reading."
 },
 {
-"url": "https://cartercountytimes.com/local-news/state-government/reps-massie-burlison-introduce-the-flock-off-act-to-defund-surveillance-state-cameras/",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-09-09",
-"note": "Quote verbatim (Spartz listed as original cosponsor alongside Democrat Ro Khanna). Bill H.R. 10221 prohibits federal funds for ALPRs and biometric surveillance cameras."
+"corrected_date": "2026-01-20",
+"note": "Verbatim. Said in direct response to whether he'd back a preemption bill that included KOSA-style protections, so tying kids protections to a federal AI package is supported."
 },
 {
-"url": "https://www.larryinfishers.com/2026/09/10/ford-spartz-indiana-data-center-debate/",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2026-09-10",
-"note": "Quote verbatim; page confirms Ford's argument that the House OBBBA version's 10-year AI moratorium would have undermined communities' ability to regulate AI data centers, and notes the moratorium was stripped 99-1 by the Senate. The page does not state whether Spartz responded on preemption, so 'Spartz has not responded' is not supported by this source."
-},
-{
-"url": "https://spartz.house.gov/media/press-releases/spartz-seeks-independent-federal-review-indiana-data-centers-and-leap",
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-09-09",
-"note": "Quote appears verbatim, attributed to Spartz."
+"corrected_date": "2026-01-20",
+"note": "Reporter's sentence appears verbatim. Transcript confirms his own answer never uses the word preemption or states a position on it; he talks about the China race and kids/crime guardrails. Claim is accurate."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "LTF statement says these members 'will be critical to advancing a national framework in Congress.' The 'preferred alternative to state laws' gloss is the tracker's interpretation, not on the page, but consistent with the article's framing."
+},
+{
+"url": "https://yakym.house.gov/media-center/press-releases/rep-yakym-urges-coordination-to-hold-china-accountable",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-10",
+"note": "Quote verbatim from April 10, 2025 release on Chinese overcapacity at a Ways and Means hearing with USTR Greer. Nothing about chips or export controls, consistent with the claim of no position."
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Verbatim from his transcript answer."
 }
 ],
 "score_objections": [
 {
-"dimension": "ai_risk",
-"objection": "The only ai_risk evidence is a co-signed letter praising DOE's Genesis Mission science partnerships. It says nothing for or against AI safety rules, so it cannot support a 'Light touch' position; the evidence is too thin for any score.",
-"suggested_score": null,
-"suggested_label": null
-},
-{
 "dimension": "preemption",
-"objection": "The sole basis is her vote for the May 2025 House OBBBA omnibus, which contained the AI moratorium among hundreds of provisions. A yes vote on a must-pass party omnibus is weak evidence of a preemption stance, and her own record here (demanding scrutiny of state-level LEAP deals, cosponsoring Flock-Off to defund local surveillance) does not clarify it. Evidence too thin for 'Leans national rule'; 'Mixed or conditional' is the defensible ceiling.",
+"objection": "Evidence for 'Leans national rule' is thin: asked directly whether he would back a bill preempting state AI regulation, Yakym did not endorse preemption (the tracker's own item 9 concedes this); the only support is the reporter's 'sounded willing to consider' gloss and a super PAC listing him as a champion. His own words are conditional (race with China plus kids/crime guardrails), which fits 0 better than 1.",
 "suggested_score": 0,
 "suggested_label": "Mixed or conditional"
 }
 ]
 },
 {
-"bioguide": "S001229",
+"bioguide": "S001188",
 "checks": [
 {
-"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"url": "https://stutzman.house.gov/media/press-releases/rep-stutzman-and-rep-foster-introduce-futures-act",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-07-17",
-"note": "Quote appears verbatim. Page lists 'Rep. Jefferson Shreve, IN-06' among the 12 Republicans and says their collective records include the Chip Security Act, GAIN AI Act, etc. and 'work to keep federal preemption of state AI laws out of the National Defense Authorization Act'. Claim correctly frames this as the PAC's description; the page attributes the record to the group, not to Shreve individually."
+"corrected_date": "2026-04-14",
+"note": "Quote appears verbatim in Stutzman's own remarks. Page confirms the bill directs regulators to report to the House Financial Services and Senate Banking committees on upgrading technology systems, and the only AI language ('artificial intelligence is accelerating those risks... AI-driven bank runs') is in Rep. Foster's paragraph, exactly as the claim states."
 },
 {
-"url": "https://shreve.house.gov/media/press-releases/shreve-introduces-legislation-protect-critical-us-technologies-china",
+"url": "https://stutzman.house.gov/media/press-releases/rep-stutzmans-bipartisan-futures-act-unanimously-passes-house-financial",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-01-09",
-"note": "Press release dated January 9, 2026; Shreve and Rep. Kamlager-Dove introduced the BIS STRENGTH Act (25 technical experts for BIS). Quote is verbatim (curly apostrophe in America's only)."
+"corrected_date": "2026-05-13",
+"note": "Quote verbatim. Release (May 13, 2026, 52-0 committee vote) frames the bill as fixing 'red tape keeping our regulators in the past'; the page contains no mention of AI at all, consistent with the claim that he is not making a case for new AI rules."
 },
 {
-"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2026-07-17",
-"note": "Quote is verbatim (Chris Stewart, PFA co-founder). Page names Shreve as one of 12 members whose records collectively include the Chip Security Act and export-control bills, but it does not tie the Chip Security Act to Shreve specifically; the item title 'ads highlight Shreve's record on the Chip Security Act' overstates the page. The 'Anthropic-funded' characterization is not on this page."
-},
-{
-"url": "https://shreve.house.gov/media/press-releases/shreve-introduces-legislation-protect-critical-us-technologies-china",
+"url": "https://stutzman.house.gov/media/press-releases/rep-stutzman-votes-pass-one-big-beautiful-bill-act",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-01-09",
-"note": "Same press release; quote verbatim and attributed to Rep. Shreve."
+"corrected_date": "2025-05-22",
+"note": "Quote verbatim (page uses a curly apostrophe in America's). Full statement covers tax cuts, Medicaid, Golden Dome, borders; grep for 'moratorium' returns nothing and no AI or preemption language appears, so the claim that the vote cannot be read as a preemption stance holds."
+},
+{
+"url": "https://stutzman.house.gov/media/press-releases/rep-stutzmans-bipartisan-futures-act-unanimously-passes-house-financial",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "Two-sentence headline quote appears verbatim and contiguously in the May 13, 2026 release."
 }
 ],
 "score_objections": [
 {
-"dimension": "data_centers",
-"objection": "None of the four sources mention data centers, energy, or ratepayers. There is no evidence for a -1 'Protect ratepayers first' position; the score should be left unset unless a source is added.",
-"suggested_score": null,
-"suggested_label": null
-},
-{
 "dimension": "tech_regulation",
-"objection": "The only Shreve statement in the sources concerns export-control enforcement (BIS staffing). The only regulation-flavored evidence is a PAC's group-level description of 12 members as 'leading on AI security and accountability'. That is too thin to support a -1 'Targeted rules' score for Shreve personally.",
+"objection": "The only sources are the FUTURES Act releases, which concern modernizing the technology used by financial regulators (reports on their own systems), not rules on tech companies or Big Tech. Neither release mentions AI in Stutzman's own words. That is too thin to support a 'Targeted rules' position on tech regulation; a null score is more defensible.",
 "suggested_score": null,
 "suggested_label": null
 }
 ]
 },
 {
-"bioguide": "C001072",
+"bioguide": "B001307",
 "checks": [
 {
-"url": "https://carson.house.gov/media/press-releases/carson-introduces-data-center-moratorium-bill",
+"url": "https://www.eenews.net/articles/data-center-boom-creates-political-conundrum-for-the-gop-2/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-06-29",
-"note": "Page names Carson joining Sanders/Ocasio-Cortez AI Data Center Moratorium Act; quote appears verbatim (aside from curly apostrophe in aren't). Bill described as an immediate federal moratorium until national safeguards on safety, economic gains, utility bills and environment are in place."
+"corrected_date": "2025-12-11",
+"note": "Quote appears verbatim attributed to Baird; article also notes a local Facebook group in his district mobilizing against two proposed facilities. Article dated 2025-12-11."
 },
 {
-"url": "https://carson.house.gov/media/press-releases/carson-introduces-bill-stop-surprise-ai-data-center-developments",
+"url": "https://www.eenews.net/articles/data-center-boom-creates-political-conundrum-for-the-gop-2/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-04-27",
-"note": "Quote verbatim, attributed to Carson. Bill summary lists 180-day public disclosure of proposed sites, disclosure of electricity/water use and environmental impacts, and restrictions on NDAs with public entities. Endorser quotes credit McIver as champion, consistent with a joint bill."
+"corrected_date": "2025-12-11",
+"note": "Quote verbatim, in the paragraph on Republicans arguing local governments should retain authority to reject data centers that don't fit community needs."
 },
 {
-"url": "https://www.eenews.net/articles/data-center-moratorium-a-fault-line-in-dem-primaries/",
+"url": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2530",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-12",
+"note": "Quote verbatim in Baird's statement at White House clean coal EO event; release dated 2026-02-12."
+},
+{
+"url": "https://www.techpolicy.press/nine-ai-bills-pass-us-house-science-space-and-technology-committee/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-09-14",
+"note": "Verbatim in transcript of Baird's remarks on the AI Development Practices Act; continues that NIST would 'study and publish voluntary guidelines'. Transcript published 2024-09-14 (markup was Sept 11, 2024)."
+},
+{
+"url": "https://www.techpolicy.press/nine-ai-bills-pass-us-house-science-space-and-technology-committee/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-09-14",
+"note": "Verbatim; preceded by 'nor will it give NIST any regulatory powers whatsoever'. Supports the light-touch characterization."
+},
+{
+"url": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2523",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Fragment appears verbatim inside the longer quote; release frames AI bills as national security/China competition. Dated 2026-01-21."
+},
+{
+"url": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=371",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-13",
+"note": "Quote verbatim; release describes the bill as divestiture not a ban and cites impact on public discourse and children. Dated 2024-03-13."
+},
+{
+"url": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2554",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-04-22",
-"note": "Article says Carson 'now supports a federal data center moratorium' as he faces challengers Destiny Wells and George Hornedo, who cited AES Indiana donations; quoted fragment appears verbatim."
+"note": "Both sentences verbatim in Baird's statement on his Interagency Coordination in Export Controls Act passing HFAC. Dated 2026-04-22."
 },
 {
-"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"url": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2523",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2025-10-28",
-"note": "Carson (IN-07) listed among 20 co-signers of Mullin-led letters to FERC, EEI and Data Center Coalition; letter asks how grid infrastructure costs from data centers will be kept from being passed through to households and small businesses."
+"corrected_date": "2026-01-21",
+"note": "Quote verbatim; release lists the AI OVERWATCH Act (H.R. 6875) as curbing chip sales to adversaries such as China and states Baird is a cosponsor."
 },
 {
-"url": "https://carson.house.gov/media/press-releases/transcript-representative-andre-carsons-opening-statement-hearing-chinas",
+"url": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2523",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-04-16",
-"note": "Quote verbatim (page has 'if American AI models keeps its lead, the American people will get to decide on the rules of the road' immediately before). Supports claim that he links keeping the AI lead to enacting worker, utility-bill and civil-rights protections."
-},
-{
-"url": "https://carson.house.gov/media/press-releases/carson-introduces-data-center-moratorium-bill",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-29",
-"note": "Quote verbatim. Bill summary on page: immediate federal moratorium until national safeguards ensure 'AI is safe and effective', economic gains shared, etc. Claim that this is stricter than Carson's own 'guardrails' framing is fair reading of the page."
-},
-{
-"url": "https://carson.house.gov/about/caucus-memberships",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": null,
-"note": "Caucus list includes both 'Monopoly Busters Caucus' and 'Internet of Things Caucus'. Membership only; no statement about Big Tech on this page. Page date metadata (2013) is site creation, not meaningful."
-},
-{
-"url": "https://clarke.house.gov/?p=102767",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-03",
-"note": "Redirects to Clarke's release. André Carson listed among 44 signers. Letter text on page includes 'stomp on state autonomy', 'regulatory vacuum that lets Big Tech run rampant', and the quoted 'wildly irresponsible' line verbatim."
-},
-{
-"url": "https://carson.house.gov/media/press-releases/transcript-representative-andre-carsons-opening-statement-hearing-chinas",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2026-04-16",
-"note": "Quote verbatim and he does call for a coalition with the Netherlands and Japan 'to protect sensitive IP in areas like lithography'. But the transcript never mentions export controls or chip export laws; he says 'enforce our laws and protect our advantages' and references a DOJ indictment for smuggling restricted chips. 'Strict enforcement of chip export laws' is an inference. Second prong of his speech is about talent, research funding and not 'killing Claude', not tightening controls."
-},
-{
-"url": "https://carson.house.gov/media/press-releases/carson-introduces-data-center-moratorium-bill",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-29",
-"note": "Headline quote appears verbatim, attributed to Congressman Carson."
+"corrected_date": "2026-01-21",
+"note": "Headline quote verbatim on the page."
 }
 ],
 "score_objections": [
 {
-"dimension": "china_chips",
-"objection": "The only china_chips source is one hearing opening statement. He backs enforcing existing laws against theft/smuggling and an allied coalition to protect lithography IP, but never calls for tightening or expanding export controls; half his statement argues the bigger risk is the US hurting its own innovation (research cuts, 'killing Claude'). That is hawkish-leaning enforcement rhetoric, not a call to tighten controls, so -2 overstates the evidence.",
-"suggested_score": -1,
-"suggested_label": "Leans hawkish"
-}
-]
-},
-{
-"bioguide": "M001233",
-"checks": [
-{
-"url": "https://wrbiradio.com/lawmakers-look-to-attract-tech-companies/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": null,
-"note": "Quote appears verbatim; speaker is Tom Dakich of Digital Crossroads (a Hammond data center developer) praising Messmer as lead Senate co-sponsor of HB 1405. Page confirms the developer-credit framing, though 'fast-tracked Indiana's data center boom' is the tracker's gloss, not the page's wording. Article has no visible dateline (2019 session)."
-},
-{
-"url": "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=203",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-02-04",
-"note": "Verbatim quote from Messmer's statement applauding DOE emergency orders keeping Indiana coal plants open; page does not mention data centers, matching the claim."
-},
-{
-"url": "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=209",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-02-20",
-"note": "Verbatim. Release praises EPA revision of MATS rule as 'removing red tape for American coal plants' and says the announcement 'works to expand energy production', supporting the claim."
-},
-{
-"url": "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=203",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-02-04",
-"note": "Same page as item 2; headline quote is verbatim."
-}
-],
-"score_objections": [
-{
-"dimension": "data_centers",
-"objection": "All three sources show unconditional pro-build positions (lead co-sponsor of a data center tax exemption, keep coal plants open to meet rising demand, cut coal-plant regulation to expand generation). None mention ratepayer protections, siting conditions, or other guardrails, so 'Build with conditions' is not supported; the evidence points to 'Build faster'.",
-"suggested_score": 2,
-"suggested_label": "Build faster"
-},
-{
-"dimension": "preemption",
-"objection": "None of the supplied sources address state vs. federal AI regulation or preemption; evidence provided is too thin for any position.",
-"suggested_score": null,
-"suggested_label": null
-},
-{
-"dimension": "china_chips",
-"objection": "None of the supplied sources address chip export controls or China; a strong -2 needs sourcing that is not present here.",
-"suggested_score": null,
-"suggested_label": null
-}
-]
-},
-{
-"bioguide": "H001093",
-"checks": [
-{
-"url": "https://energycommerce.house.gov/posts/c-and-t-subcommittee-holds-hearing-on-network-infrastructure-demands-for-ai-and-uses-in-the-media-and-entertainment-industries",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-06-04",
-"note": "Quote appears verbatim in Houchin's attributed remarks; she names rural Southern Indiana and reliable energy. Page dated Jun 04, 2025. Note this is about broadband/spectrum/energy generally, not data centers specifically."
-},
-{
-"url": "https://houchin.house.gov/media/press-releases/houchin-applauds-house-passage-fy26-ndaa-secures-major-win-advanced-nuclear",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-10",
-"note": "Quote verbatim (curly apostrophe). Page describes her amendment enabling NSC Crane to join a small modular reactor pilot in the DOD footprint. No mention of data centers or AI; it is a defense/energy item."
-},
-{
-"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-23",
-"note": "Houchin listed as an introducing member; quote verbatim in her statement, which references an advanced AI system breaking out of its developer's testing environment. Page lists model cards, risk-management frameworks, independent audits, incident reporting as tiered requirements. She adds 'Innovation and guardrails are not opposites.'"
-},
-{
-"url": "https://houchin.house.gov/media/press-releases/houchin-auchincloss-introduce-first-house-bill-ai-chatbot-companions",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-09-25",
-"note": "Quote verbatim. Page says the AWARE Act builds on the FTC's chatbot inquiry to give families guidance/resources on AI companion risks."
-},
-{
-"url": "https://houchin.house.gov/media/press-releases/houchin-bills-protect-children-ai-dangers-pass-energy-commerce-committee",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-06",
-"note": "Quote verbatim. Page describes SAFEBOTs Act: disclose AI to minors, no falsely claiming to be licensed professionals, crisis hotline info on suicide/self-harm, break prompts after extended sessions. Committee vote was March 5, 2026."
-},
-{
-"url": "https://thehill.com/opinion/technology/5840484-kids-internet-digital-safety-act/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-04-21",
-"note": "Quote verbatim in Houchin's op-ed; next sentence says children cannot meaningfully consent to having their psychological vulnerabilities studied, targeted and monetized by Big Tech. Op-ed is child-focused and frames regulation as not the first solution."
-},
-{
-"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
-"verdict": "confirmed",
-"corrected_quote": "It strikes the right balance between innovation and consumer protection and ensures Congress remains engaged as this technology continues to evolve.",
-"corrected_date": "2026-06-04",
-"note": "Item quote is a truncated fragment ('consumer pro'); full sentence is in Houchin's statement on the page. Claim supported."
-},
-{
-"url": "https://houchin.house.gov/media/press-releases/houchin-launches-bipartisan-kids-online-safety-caucus",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-11-20",
-"note": "Quote verbatim. Caucus focus list includes transparency/accountability from tech companies, parent resources, and monitoring emerging risks including AI-driven platforms."
-},
-{
-"url": "https://houchin.house.gov/media/press-releases/joint-statement-kids-online-safety-caucus-co-chairs-houchin-and-auchincloss",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-25",
-"note": "Quote verbatim in joint statement. Statement calls for a federal age assurance law raising Internet adulthood to at least 16 and holding apps liable. Joint statement with Auchincloss, not solely hers."
-},
-{
-"url": "https://houchin.house.gov/media/press-releases/reps-houchin-auchincloss-introduce-bipartisan-16-social-media-act-keep-kids",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-11",
-"note": "Quote verbatim. Bill sets a national age standard of 16 for covered social media platforms using addictive design features (infinite scroll, autoplay, push alerts, personalized feeds)."
-},
-{
-"url": "https://houchin.house.gov/media/press-releases/rep-houchin-bills-protect-children-online-combat-scams-advance-subcommittee",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-01",
-"note": "Quote verbatim (em dashes). GUARDIAN Act (formerly RESET) requires verifiable, revocable parental consent before processing a child's personal data; revocation closes account and deletes data."
-},
-{
-"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-04",
-"note": "Quote verbatim; Houchin listed among members releasing the draft. The page itself does not mention the three-year preemption term (no 'preempt' on page); that detail is corroborated by the Roll Call item. Her quote attacks a 'patchwork of fifty different state laws' but also says the bill preserves states' ability to protect children."
-},
-{
-"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-04",
-"note": "Quote verbatim in Houchin's statement. Page confirms she joined in releasing the draft. Page does not itself use the word 'preemption'."
-},
-{
-"url": "https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-04",
-"note": "Quote verbatim. Article names Houchin among six members releasing the draft and states it includes a three-year preemption of state laws related to AI development."
-},
-{
-"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-23",
-"note": "Quote verbatim in bill description. Houchin is one of the introducing members. Standard is scoped to transparency, auditing, and catastrophic-risk reporting for frontier developers."
-},
-{
-"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-04",
-"note": "Headline quote verbatim, attributed to Congresswoman Houchin on the page."
-}
-],
-"score_objections": [
-{
-"dimension": "data_centers",
-"objection": "Neither source mentions data centers. Item 1 is generic broadband/spectrum/energy remarks for rural Indiana; item 2 is a defense NDAA amendment on small modular reactors at DOD installations. Nothing shows a position on data center siting, ratepayer protection, or conditions on buildout, so 'Build with conditions' is not evidenced (nor is any other position).",
-"suggested_score": null,
-"suggested_label": null
-},
-{
-"dimension": "preemption",
-"objection": "The preemption she backs is a three-year moratorium limited to state AI development/model rules, and she stresses the bill preserves 'the ability of states and parents to protect children'; her own kids-safety bills set national standards but she has not called for blocking states across the board. This reads as leaning toward a national rule with carve-outs rather than 'One national rule (block states)'.",
+"dimension": "ai_risk",
+"objection": "The only AI-safety evidence is his AI Development Practices Act, which he explicitly describes as giving NIST no regulatory powers, voluntary guidelines with no force of law, plus a national-security/China framing of AI policy. Nothing in the sources shows support for binding rules, so 0 'Mixed' overstates the guardrail side; the record reads as light touch.",
 "suggested_score": 1,
-"suggested_label": "Leans national rule"
+"suggested_label": "Light touch"
 }
 ]
 }

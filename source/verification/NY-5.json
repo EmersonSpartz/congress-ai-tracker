@@ -1,0 +1,262 @@
+[
+{
+"bioguide": "T000486",
+"checks": [
+{
+"url": "https://ritchietorres.house.gov/posts/u-s-rep-ritchie-torres-introduces-federal-legislation-requiring-mandatory-disclaimer-for-material-generated-by-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim in Torres's own press release; page describes the mandatory-disclaimer bill and the 'danger in both under-regulating and over-regulating' framing. Page shows no publication date (bill is the AI Disclosure Act of 2023, introduced June 2023)."
+},
+{
+"url": "https://elections.transformernews.ai/races/ny-h-15",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Transformer tracker lists Think Big (labelled 'Pro-innovation') spending $1.12M supporting Ritchie John Torres in the NY-15 primary, $0 opposing; Torres won. Page does not itself say 'Leading the Future endorsed' him, only the Think Big spending, so the endorsement wording rests on item 3. Data as of Sep 12, 2026."
+},
+{
+"url": "https://washingtonreporter.news/exclusive-pro-ai-super-pac-spending-big-for-sen-lindsey-graham-and-rep-kevin-hern/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Quote appears verbatim (article misspells his name 'Richie'). Article dated June 2, 2026 confirms Leading the Future backed Torres as a Democratic incumbent."
+},
+{
+"url": "https://ritchietorres.house.gov/posts/u-s-rep-ritchie-torres-files-federal-legislation-to-address-impact-and-risk-of-social-media-on-stability-of-americas-financial-sector",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim. Release says federal banking regulators 'must be empowered to stay abreast of online conversations and potential financial panic on social media', matching the narrow-monitoring characterization. No date on page (SVB collapse context, March 2023)."
+},
+{
+"url": "https://ritchietorres.house.gov/posts/reps-torres-and-nunn-call-for-national-security-review-of-irobot-bankruptcy-and-foreign-acquisition",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim. Release describes a letter to Treasury seeking CFIUS review of iRobot's acquisition by a PRC-linked buyer, citing data-sharing compulsion under PRC law and transfer of dual-use robotics/AI technology. Note the claim is about inbound foreign acquisition (CFIUS), not chip export controls."
+},
+{
+"url": "https://ritchietorres.house.gov/posts/u-s-rep-ritchie-torres-introduces-federal-legislation-requiring-mandatory-disclaimer-for-material-generated-by-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Headline quote appears verbatim, attributed to Rep. Torres in the AI Disclosure Act press release."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "None of the six sourced items touches data centers, energy, or ratepayers; a -1 'Protect ratepayers first' score has no evidence behind it in this record.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "china_chips",
+"objection": "The only China-related source is a CFIUS letter about a PRC-linked buyer acquiring iRobot (inbound investment and consumer data), not semiconductor export controls. It shows general China-tech hawkishness but is thin evidence for a chips-export position; -1 'Leans hawkish' is defensible only as an inference. Consider 0 unless a chip-specific source is added.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+},
+{
+"bioguide": "L000606",
+"checks": [
+{
+"url": "https://yonkerstimes.com/pace-u-panel-explores-the-ethical-frontier-of-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-22",
+"note": "Yonkers Times article (published 2025-09-22) quotes Rep. George Latimer verbatim: 'There will be dislocation of career paths because of this. How do we anticipate and respond to that? That is an issue for business, ethicists and for government.' Preceded by 'Artificial intelligence can go places that I can't even imagine.' Framing is job dislocation / shared responsibility, no existential-risk language, matching the claim."
+},
+{
+"url": "https://latimer.house.gov/media/press-releases/rep-latimer-helps-introduce-new-bill-stop-musk-invading-americans-privacy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-06",
+"note": "Official press release dated 2025-02-06. Quote appears verbatim in Latimer's statement: '...prevent Musk and his minions from rifling through the private data of everyday Americans. We must act now.' Bill is the Taxpayer Data Protection Act, restricting who can access Treasury payment-system data. Note the bill targets DOGE/government access to federal data, not Big Tech regulation, so it is weak evidence for the tech_regulation dimension."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF dated November 26, 2025 (fetch tool returned 0 chars; downloaded and extracted with pdftotext). Quote appears verbatim: 'Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.' 'George Latimer / Member of Congress' appears in the signature list; 81 'Member of Congress' signature lines counted, matching the 81-signer claim."
+},
+{
+"url": "https://yonkerstimes.com/pace-u-panel-explores-the-ethical-frontier-of-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-22",
+"note": "Same Yonkers Times article; headline quote appears verbatim and is attributed to Rep. George Latimer."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "None of the four sources mentions data centers, electricity, or ratepayers. There is no evidence in the checked items for any data_centers position, so -1 'Protect ratepayers first' is unsupported by the cited record.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "The only tech_regulation source is the Taxpayer Data Protection Act release, which is about restricting DOGE/Musk's access to the Treasury payment system, i.e., government data handling, not regulating technology companies or platforms. It does not establish a position on Big Tech regulation. Evidence is too thin for -1 'Targeted rules' unless another source (e.g., a platform or privacy bill) is added.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "L000599",
+"checks": [
+{
+"url": "https://www.foxbusiness.com/video/6401434122112",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Fox summary text on page: Lawler 'criticizes Governor Kathy Hochul's executive order placing a moratorium on new AI data centers, arguing it stifles American innovation and investment, pushing the sector towards rivals like China.' Clip aired July 17, 2026 on Maria Bartiromo's Wall Street. Summary is Fox's paraphrase, not his direct words."
+},
+{
+"url": "https://nypost.com/2026/09/06/us-news/how-ai-and-data-centers-are-dominating-new-yorks-key-midterm-races/",
+"verdict": "confirmed",
+"corrected_quote": "So we need to have a all-of-government approach to this. The federal government, state governments and local municipalities need to be working together collaboratively to address the concerns, to make sure that these large-scale data centers are not taking away power from the people",
+"corrected_date": "2026-09-06",
+"note": "Quote appears verbatim (item omits the preceding sentence). Post caption says 'Rep. Mike Lawler backs data centers -- with limits' and text says he wants state controls over energy usage and local governments extracting public benefits. Forum was in Dutchess County (Post misspells 'Duchess') 'last month' i.e. Aug 2026."
+},
+{
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=5425",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-04",
+"note": "Quote verbatim. Release is about tech-neutral energy permitting certainty; it does not mention data centers explicitly, so the data-center link is the tracker's inference."
+},
+{
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Quote verbatim. Page says Lawler 'has attacked the governor for these actions' and that he voted for the House OBBBA state and local AI moratorium. Critic's characterization, as the item notes."
+},
+{
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=5383",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-27",
+"note": "Quote verbatim; release names age verification, parental consent, and clear boundaries. Senate companion by Sen. Husted."
+},
+{
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6424",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Axios repost: NIST standards within a year, tamper-proof logs, machine-readable agent inventory, standards voluntary for most but federal contractors bidding on new deals pushed to meet them. Lawler named as co-sponsor with Gottheimer."
+},
+{
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6446",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Inside AI Policy repost: bill text requires identity verification 'independent and cryptographically verifiable,' rejects single-provider assertions/self-attestation alone, and directs FAR Council to revise procurement rules within 18 months."
+},
+{
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=5910",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "Quote verbatim, attributed to 'the lawmakers' (joint Lawler-Gottheimer letter). Letter requests information on political bias, misinformation, transparency and source reliability from OpenAI, Google, Microsoft, Anthropic, Meta, Perplexity, X Corp."
+},
+{
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6180",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-09",
+"note": "Quote verbatim from the joint letter urging agencies to coordinate on AI election-information threats."
+},
+{
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=5496",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-20",
+"note": "Quote verbatim, attributed to Lawler. Bill creates a tax credit for workforce AI education; page title is 'Lawler, Gottheimer Lead Bipartisan Effort to Empower Workers in the Age of AI' (item's 'AI Workforce Training Act' name not verified on page)."
+},
+{
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Page states that had the OBBBA state and local AI moratorium he voted for become law, Hochul's hyperscale data center moratorium 'would likely have not been possible.' Critic's reading of a vote on an omnibus bill."
+},
+{
+"url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=5306",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-13",
+"note": "Quote verbatim; page confirms 369-22 House vote and 51-0 committee vote. Bill gives Commerce authority to regulate controlled items accessed via cloud."
+},
+{
+"url": "https://nypost.com/2026/09/06/us-news/how-ai-and-data-centers-are-dominating-new-yorks-key-midterm-races/",
+"verdict": "confirmed",
+"corrected_quote": "So we need to have a all-of-government approach to this. The federal government, state governments and local municipalities need to be working together collaboratively to address the concerns, to make sure that these large-scale data centers are not taking away power from the people",
+"corrected_date": "2026-09-06",
+"note": "Verbatim as a sub-span of the Post quote; full sentence begins with 'So we need to have a all-of-government approach to this.'"
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "The only evidence for +1 is a critic's reading of his vote for the omnibus OBBBA package that contained the state/local AI moratorium. His own on-record words (NY Post, Dutchess County forum) call for an 'all-of-government approach' with federal, state and local governments 'working together collaboratively,' and he says local governments should extract public benefits and the state should control energy usage. Nothing in his own statements favors a national rule over states; the evidence is too thin and partly contradicts a lean toward preemption.",
+"suggested_score": 0,
+"suggested_label": "Mixed or conditional"
+}
+]
+},
+{
+"bioguide": "R000579",
+"checks": [
+{
+"url": "https://www.dailyfreeman.com/2026/07/02/ryan-votes-against-online-safety-bill-says-it-doesnt-go-far-enough/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-02",
+"note": "Quote appears verbatim, attributed to Ryan's campaign in an email. The statement continues with 'a handful of tech oligarchs' vs 'the American people; hard-working folks', supporting the oligarchs-vs-working-people framing. Context: campaign response to opponent's accusation about Ryan's stock holdings after his no vote on the KIDS Act."
+},
+{
+"url": "https://patryan.house.gov/media/press-releases/monopoly-busters-caucus-chairs-meta-settlement-confirms-danger-big-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-28",
+"note": "Quote appears verbatim. It is a joint statement by the four Monopoly Busters Caucus chairs (Jayapal, Deluzio, Ryan, Craig), not Ryan alone, but Ryan is named as a co-author and it is on his official site. Ties 'surveillance AI' rollouts to child safety and calls for breaking up monopolies."
+},
+{
+"url": "https://www.dailyfreeman.com/2026/07/02/ryan-votes-against-online-safety-bill-says-it-doesnt-go-far-enough/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-02",
+"note": "Quote verbatim. Page also has Ryan saying 'Big Tech and their army of lobbyists hijacked and watered down what was previously a common-sense bipartisan bill' and 'This a gift to Big Tech who can now pretend they're being regulated', so all three parts of the claim are supported."
+},
+{
+"url": "https://patryan.house.gov/media/press-releases/monopoly-busters-caucus-chairs-meta-settlement-confirms-danger-big-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-28",
+"note": "Quote verbatim; release identifies Ryan (NY-18) as one of four Monopoly Busters Caucus chairs issuing the joint statement calling to break up Big Tech monopolies."
+},
+{
+"url": "https://www.dailyfreeman.com/2026/07/02/ryan-votes-against-online-safety-bill-says-it-doesnt-go-far-enough/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-02",
+"note": "Verbatim, directly attributed to Ryan ('Ryan wrote')."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "None of the five sources mention data centers, electricity, or ratepayers. The -1 'Protect ratepayers first' score has no supporting evidence in the cited material; unless other sourcing exists it should be left unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

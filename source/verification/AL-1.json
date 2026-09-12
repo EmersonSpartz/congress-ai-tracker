@@ -1,0 +1,244 @@
+[
+{
+"bioguide": "T000278",
+"checks": [
+{
+"url": "https://yellowhammernews.com/tuberville-defends-building-new-data-centers-in-alabama-you-can-forget-about-doing-away-with-it-because-its-coming/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Quote appears verbatim. Article lists water use, noise, electrical demand as the local objections and quotes him dismissing them as 'bull crap' and saying the state will build them."
+},
+{
+"url": "https://yellowhammernews.com/tuberville-defends-building-new-data-centers-in-alabama-you-can-forget-about-doing-away-with-it-because-its-coming/",
+"verdict": "confirmed",
+"corrected_quote": "I mean, they're listening to all this nonsense they see on social media that's coming from China because China does not want us to grow.",
+"corrected_date": "2026-07-14",
+"note": "Quote is verbatim minus the leading 'I mean,'. Article itself says he 'believes that some of the criticism is propaganda coming from China.'"
+},
+{
+"url": "https://aldailynews.com/tuberville-reflects-on-senate-tenure-talks-data-centers-in-bca-interview/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Quote verbatim. Article reports Jones's one-year moratorium proposal and Tuberville calling it 'the exact opposite of what we need to do'; also mentions extending the Alabama Power rate freeze."
+},
+{
+"url": "https://yellowhammernews.com/tuberville-continues-push-for-data-centers-weve-got-to-do-it-but-we-have-to-be-transparent/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Quote verbatim (WVNN, Thursday July 23). Article opens by saying he believes Alabamians will support data centers once informed, and quotes 'I, as governor, will get involved with every negotiation in the state.'"
+},
+{
+"url": "https://www.alreporter.com/2026/09/01/opinion-my-game-plan-for-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Quote verbatim near the end of the op-ed. Plan: no tax abatements/incentives, 'highest property-tax bracket', 'replace the power and water capacity they take', pay full cost of transmission/water infrastructure."
+},
+{
+"url": "https://www.alreporter.com/2026/09/01/opinion-my-game-plan-for-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Quote verbatim. He says Alabama Power committed to freeze rates through 2029 and he intends to extend it; local communities deciding is 'non-negotiable for me' and 'If your community says no, my answer is no.'"
+},
+{
+"url": "https://aldailynews.com/jones-challenges-tuberville-on-data-centers-stock-trading-and-ethics/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Article says Jones cited 1,300+ trades, 250+ tied to AI/data centers, called on him to sell them; campaign chair Jordan Doufexis said a broker manages Coach's investments."
+},
+{
+"url": "https://birminghamwatch.org/2026/09/02/jones-digs-in-on-data-center-moratorium-presses-tuberville-on-financial-ties/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-02",
+"note": "Article states Tuberville 'initially gave full-throated support to data centers and blamed China', that polling showed a diminishing lead largely on data centers, and that he 'softened his position' in the APR op-ed."
+},
+{
+"url": "https://www.tuberville.senate.gov/newsroom/press-releases/tuberville-leads-help-subcommittee-hearing-on-ai-in-k-12-education/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-16",
+"note": "Site returns 403 to scripted fetch and no Wayback copy; loaded in browser. Quote verbatim in opening statement; he asks about privacy, accuracy, dependence, rural access, and says he and the Ranking Member requested a GAO study which GAO agreed to start."
+},
+{
+"url": "https://www.tuberville.senate.gov/newsroom/press-releases/tuberville-discusses-plans-to-protect-seniors-from-ai-scams/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-31",
+"note": "Site 403 to scripted fetch; loaded in browser. Quote verbatim as closing remark. He says 'My solution is education' and asks victim Del Mastro 'What kind of legislation do you think we need to do for something like this?'"
+},
+{
+"url": "https://www.pymnts.com/cpi-posts/republican-lawmakers-urge-reversal-of-bidens-ai-export-controls/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-14",
+"note": "Quote verbatim (via Reuters). Names all seven signatories including Tuberville; says revised framework should still prevent China from gaining dominance."
+},
+{
+"url": "https://www.wicker.senate.gov/2025/4/wicker-colleagues-send-letter-calling-for-reform-to-biden-ai-diffusion-rule",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-16",
+"note": "Site 403 to scripted fetch; loaded in browser. Release and full letter text present; letter says the rule 'threatens to undermine this leadership' and lists Tillis, Mullin, Budd, Schmitt, Tuberville as additional signers with Wicker and Ricketts."
+},
+{
+"url": "https://yellowhammernews.com/tuberville-defends-building-new-data-centers-in-alabama-you-can-forget-about-doing-away-with-it-because-its-coming/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Headline quote appears verbatim in the article body and headline."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "Both china_chips sources are the same April 2025 letter, which asks Commerce to withdraw the AI Diffusion Rule and loosen chip export restrictions for Tier 2 allies while keeping China (Tier 3) restricted. Nothing in the sources is 'mixed'; the only evidence points toward selling more chips abroad to non-China markets. A 0 is not supported; +1 fits the single data point without overclaiming.",
+"suggested_score": 1,
+"suggested_label": "Leans sell more"
+}
+]
+},
+{
+"bioguide": "B001319",
+"checks": [
+{
+"url": "https://yellowhammernews.com/i-want-to-see-lower-rates-in-alabama-britt-presses-energy-secretary-on-lowering-power-bills/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-28",
+"note": "Quote verbatim. Page says she opened with data center impact on residential ratepayers, wants the cost not to fall on family power bills, and cites 40%+ residential bill rise 2021-2025."
+},
+{
+"url": "https://yellowhammernews.com/alabama-power-signs-on-to-president-trumps-ratepayer-protection-pledge-committed-to-putting-customers-first/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Full X post reproduced verbatim on page, dated July 23, 2026."
+},
+{
+"url": "https://aldailynews.com/britt-wants-to-find-a-middle-ground-on-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-20",
+"note": "Quote verbatim; page also has her rejecting 'a data center on every corner' and saying informed communities that decline 'shouldn't be forced'."
+},
+{
+"url": "https://aldailynews.com/britt-wants-to-find-a-middle-ground-on-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-20",
+"note": "Quote verbatim, immediately following her 'how we beat China ... national security' line."
+},
+{
+"url": "https://www.alreporter.com/2026/09/01/britt-talks-data-center-accountability-defends-trump-admin-ratepayer-pledge/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Quote verbatim. Page has her calling the pledge 'an outstanding first step' and urging facts be put before Alabamians to assess tax revenue vs downsides."
+},
+{
+"url": "https://www.semafor.com/article/09/04/2026/britt-congress-should-turn-trumps-data-center-pledge-into-law",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Quote verbatim. Page: 'I'd love to see' the pledge turned into law; opposes national moratoriums; localities should be free to reject. Semafor byline date is Sept 3, URL says 09/04."
+},
+{
+"url": "https://aldailynews.com/new-britt-bill-encourages-data-centers-to-recycle-water/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-14",
+"note": "Quote verbatim from her statement on the water-reuse bill."
+},
+{
+"url": "https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-priorities-advanced-out-of-senate-judiciary-committee/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Site returns 403; verified via Wayback snapshot. Quote verbatim; she spoke ahead of the committee vote and asked leadership to usher the GUARD Act to the full Senate floor. The release does NOT say the vote was unanimous."
+},
+{
+"url": "https://transcripts.cnn.com/show/sotu/date/2025-12-28/segment/01",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-28",
+"note": "Quote verbatim. Transcript also has 'people putting their profits over actual people', 'A.I. companies can absolutely do much of this on their own', and 'the time to act for Congress is now'."
+},
+{
+"url": "https://www.nbcnews.com/tech/tech-news/senators-ask-ai-companies-safety-disclosures-teen-suicides-rcna248612",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-12",
+"note": "Quote verbatim from the letters; group led by Schatz and Britt, letters to eight leading-edge AI companies about inconsistent transparency."
+},
+{
+"url": "https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-discusses-dangers-of-ai-chatbots-in-judiciary-subcommittee-hearing/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "britt.senate.gov returns 403 to all fetchers; Wayback connection refused on repeated retries and WebFetch cannot reach archive.org. Could not verify quote or Meta letter claim."
+},
+{
+"url": "https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-joins-keeping-it-real-conversations-with-jillian-michaels-to-discuss-taking-on-big-tech-protecting-americas-youth-online/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "403 direct; Wayback reports no snapshot (404). Claim unverified."
+},
+{
+"url": "https://transcripts.cnn.com/show/sotu/date/2025-12-28/segment/01",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-28",
+"note": "Quote verbatim. She explicitly ties the shield to Section 230 and says platforms pushing kids to depression or suicide 'absolutely should be held liable'."
+},
+{
+"url": "https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-joins-keeping-it-real-conversations-with-jillian-michaels-to-discuss-taking-on-big-tech-protecting-americas-youth-online/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "403 direct; no Wayback snapshot. The 'feckless' quote could not be checked against the page."
+},
+{
+"url": "https://www.alreporter.com/2026/03/25/sen-britt-joins-bipartisan-push-to-expand-parental-oversight-online/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-25",
+"note": "Page: Britt, Husted, Warner introduced Sammy's Law requiring large platforms to let FTC-regulated third-party safety software access data via APIs."
+},
+{
+"url": "https://www.techpolicy.press/transcript-senate-hearing-uses-social-media-verdicts-to-press-the-case-for-kosa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-15",
+"note": "Quote verbatim from her exchange with witness Rachel Lanier; intro notes Britt urged House colleagues to pass the Senate's version of KOSA."
+},
+{
+"url": "https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-priorities-advanced-out-of-senate-judiciary-committee/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Verified verbatim via Wayback snapshot of the April 30, 2026 release (site blocks direct fetch)."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "M001212",
+"checks": [
+{
+"url": "https://aimoneywatch.org/races/al-sen-2",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Page loads (status 200) and the row 'Felix Moore + $330,085 / − $0' appears verbatim under 'Big AI super PAC spending in this race' for AL-SEN-2. However, the page does NOT name American Mission PAC, Leading the Future, or FEC C00916692 anywhere; it only says 'Big AI super PAC' and cites FEC independent expenditure filings. The page also lists 'Felix Barry Moore · R' and 'Barry Moore' as separate rows with $0 each, while the $330,085 row is an unlabeled 'Felix Moore' entry with no party tag, so the identity link to Rep. Barry Moore is inferred from name matching (as the claim itself admits) rather than stated by the source. Dollar figure confirmed; PAC attribution and identity rest on outside inference."
+}
+],
+"score_objections": []
+}
+]

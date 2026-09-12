@@ -1,0 +1,92 @@
+[
+{
+"bioguide": "G000593",
+"checks": [
+{
+"url": "https://gimenez.house.gov/energy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim on the Energy issue page. Page also opposes offshore drilling off Florida. Confirmed no mention of 'data center' or AI anywhere on the page, so the claim of silence holds."
+},
+{
+"url": "https://thehill.com/policy/technology/6069042-rep-gimenez-praises-china-ai/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Direct fetch 403'd and Wayback was rate-limited; loaded in the browser. Article by Tara Suter, 09/03/26, quote is verbatim. Gimenez praised China's approach on NewsNation and said not teaching AI young would put children at a disadvantage. However he is not quoted referencing New York City's moratorium; the NYC juxtaposition is the article's framing (Mamdani announced the K-8 moratorium the same day). Pro-adoption reading is fair; the 'framed NYC's moratorium as leaving kids behind' part overstates."
+},
+{
+"url": "https://thehill.com/policy/technology/6069042-rep-gimenez-praises-china-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Verbatim: '...which will put our children at a disadvantage because like it or not, AI is here,' he added. He frames AI as inevitable and contrasts with China's plan; supports the claim."
+},
+{
+"url": "https://economictimes.indiatimes.com/news/international/world-news/where-are-we-on-the-defensive-side-of-ai-gimenez-pushes-urgent-defense-against-cyber-onslaught/videoshow/131355785.cms",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-27",
+"note": "Video page dated 27 May 2026. Headline carries the quote; blurb says he raised urgent concerns about the wave of cyberattacks and 'questioned whether America is moving fast enough to use artificial intelligence defensively.' Only a short caption, no transcript, but it matches the claim."
+},
+{
+"url": "https://gimenez.house.gov/2024/11/prioritizing-our-cybersecurity",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-11-25",
+"note": "Newsletter dated Nov 25, 2024. Verbatim quote present; preceding text says 'Emerging technologies like autonomous vehicles and AI amplify these risks' and that the 300-page TSA proposed rule 'could overwhelm smaller operators without effectively reducing risks.' Claim fully supported."
+},
+{
+"url": "https://gimenez.house.gov/2024/1/rep-carlos-gimenez-questions-fbi-director-christopher-wray-on-tiktok",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-01-31",
+"note": "Press release Jan 31, 2024. Transcript shows 'Rep. Gimenez: Would you ban TikTok in the United States?' and the boilerplate line appears verbatim."
+},
+{
+"url": "https://gimenez.house.gov/2024/11/prioritizing-our-cybersecurity",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2024-11-25",
+"note": "Quote is verbatim. But the page does not contain the phrase 'streamlining regulation is essential'; his actual framing is 'We must balance regulatory standards with operational adaptability,' which is a balance stance rather than an outright light-touch one. The contrary-signal characterization is directionally fair but the paraphrase overstates."
+},
+{
+"url": "https://gimenez.house.gov/2024/9/the-us-must-decouple-from-communist-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-09-16",
+"note": "Newsletter Sept 16, 2024. Quote appears verbatim (twice). Celebrates unanimous House passage of H.R. 8631, Decoupling from Foreign Adversarial Battery Dependence Act, barring DHS battery purchases from PRC-tied firms."
+},
+{
+"url": "https://gimenez.house.gov/2024/9/the-us-must-decouple-from-communist-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-09-16",
+"note": "Quote verbatim. Page covers batteries and port-crane/port security investigation; solar is not mentioned on this page but the batteries and cranes portion is supported. Nothing about AI chips, as the claim itself acknowledges."
+},
+{
+"url": "https://gimenez.house.gov/china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim on the China issue page; technology is listed among the five decoupling areas. Confirmed no mention of chips or semiconductors."
+},
+{
+"url": "https://thehill.com/policy/technology/6069042-rep-gimenez-praises-china-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Headline quote is verbatim as printed in The Hill, 09/03/26, attributed to Gimenez on NewsNation's 'The Hill' with Blake Burman."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "Every AI-specific source points the same way: praises China's push of AI into classrooms, calls AI inevitable, urges faster defensive use of AI, and on cyber rules warns a 300-page regulation would overwhelm operators while calling for balance with innovation. There is no source where he calls for AI guardrails or restrictions. A 0 'Mixed' implies offsetting pro-regulation evidence that does not appear in these sources; 1 'Light touch' fits the record better. Evidence is thin overall, so 0 is defensible only as an abstention.",
+"suggested_score": 1,
+"suggested_label": "Light touch"
+}
+]
+}
+]

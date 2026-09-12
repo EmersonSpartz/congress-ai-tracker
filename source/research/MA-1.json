@@ -1,1035 +1,499 @@
 [
 {
-"bioguide": "M000133",
-"name": "Edward J. Markey",
-"signature": "The Senate's most prolific AI-guardrails legislator: led the 99-1 vote that killed the state AI-law moratorium, sponsors the States' Right to Regulate AI Act, COPPA 2.0, the AI Civil Rights Act and a string of data center bills.",
-"notable_quote": {
-"text": "This 99-1 vote sent a clear message that Congress will not sell out our kids and local communities in order to pad the pockets of Big Tech billionaires.",
-"url": "https://www.markey.senate.gov/news/press-releases/after-weeks-of-markey-raising-the-alarm-senate-strikes-ai-moratorium-from-budget-reconciliation-bill-overnight-in-overwhelming-99-1-vote",
-"date": "2025-07-01"
+"bioguide": "C001101",
+"name": "Katherine M. Clark",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers found as of Sept 2026. She voted against the Republican SPEED Act permitting bill in December 2025, but that was a party-line vote on a broad permitting bill, not a stated position on data centers.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356 (Dec 18 2025): H.R.4776 SPEED Act permitting reform, Clark voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"date": "2025-12-18",
+"what_it_shows": "A Nay on a Republican permitting bill that Democrats broadly opposed; it is not a stated position on data centers."
+}
+]
 },
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "Searched her official site, whip statements, interviews, letters and campaign coverage and found no public position on AI safety or AI regulation as of Sept 2026. Leads tying her to an xAI Grok investigation, an AI super PAC endorsement and the House AI Task Force all turned out to be about Rep. Yvette Clarke of New York.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Her tech record is old and narrow. As a rank-and-file member she wrote bills against online harassment, swatting and sextortion, and in 2024 she voted against the TikTok divestiture bill without a public explanation. No recent Big Tech, privacy or kids online safety statements were found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Clark, Brooks, Meehan introduce the bipartisan Online Safety Modernization Act",
+"url": "https://katherineclark.house.gov/2017/6/clark-brooks-meehan-push-online-safety-roadmap-combat-sextortion-internet-threats-other-online-crimes",
+"quote": "We need to make sure that our policies keep up with the realities of our connected world.",
+"date": "2017-06-27",
+"what_it_shows": "She has a history of writing targeted federal rules against online crimes like sextortion, doxxing and swatting."
+},
+{
+"type": "other",
+"title": "Official page: Clark proposals to combat online abuse (Prioritizing Online Threats Enforcement Act, Interstate Swatting Hoax Act)",
+"url": "https://katherineclark.house.gov/2016/8/clark-proposals-to-combat-online-abuse",
+"quote": "Congresswoman Katherine Clark has championed combatting severe online threats and abuse.",
+"date": "2016-08-16",
+"what_it_shows": "Her office lists a set of bills aimed at online threats against women, a targeted approach rather than broad platform regulation."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (Mar 13 2024): H.R.7521 Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divestiture), Clark voted Nay",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"quote": null,
+"date": "2024-03-13",
+"what_it_shows": "She opposed the bill forcing TikTok's sale or ban; no statement explaining the vote was found, so her reasoning is unclear."
+},
+{
+"type": "statement",
+"title": "Press release: Whip Clark, House Democrats introduce the Taxpayer Data Protection Act",
+"url": "https://katherineclark.house.gov/2025/2/whip-clark-house-democrats-introduce-the-taxpayer-data-protection-act",
+"quote": "a bill to prevent unlawful access to Americans’ most sensitive personal information",
+"date": "2025-02-06",
+"what_it_shows": "Aimed at Elon Musk's DOGE team accessing Treasury data; it concerns government data privacy rather than regulating tech companies."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption or a moratorium on state AI laws. She did not sign the Nov 26 2025 Matsui letter or the Dec 3 2025 Clarke letter against a state AI law moratorium; both signer lists were checked directly.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on AI chip export controls, Nvidia sales to China or DeepSeek as of Sept 2026.",
+"evidence": []
+}
+},
+"signature": "No notable public AI activity found; the House Democratic Whip's tech record is limited to decade-old online harassment bills and a 2024 vote against the TikTok divestiture bill.",
+"notable_quote": null,
 "groups": [],
+"search_notes": "Ran about 14 Google News queries (AI, data centers, chatbot/deepfake, Big Tech/Section 230, Nvidia/export controls, preemption, KOSA, TikTok, Musk/Grok, jobs, interviews) plus a full archived listing of katherineclark.house.gov and democraticwhip.gov; nothing AI-specific surfaced. Opened the E&C Grok investigation release, the Sludge super PAC article and the AI Civil Rights Act materials: all refer to Rep. Yvette D. Clarke (NY-9), not Katherine Clark, so those three landscape leads were discarded. Extracted the Matsui letter PDF text and the Clarke NDAA letter and the Casar AI CEO letter: Clark is not a signer of any. Verified TikTok and SPEED Act votes on govtrack. Google News URL decoding was rate limited (429) for most of the session, so several headlines (CBS Boston TikTok delegation story) could not be opened."
+},
+{
+"bioguide": "M001196",
+"name": "Seth Moulton",
 "positions": {
 "data_centers": {
-"score": -1,
+"score": 0,
 "confidence": "high",
-"summary": "Markey wants data centers built only under strong federal protections: his July 2026 discussion draft would require a federal certificate before permitting, and he says every community should be able to say no. He has not called for a national moratorium.",
+"summary": "Mixed by design. Moulton rejects a data center moratorium and says blocking data centers would cede AI leadership to China, but he also wants 'tight restrictions' so data centers do not raise electricity bills or drain water, and he signed two House Democratic letters pressing regulators and industry on ratepayer costs.",
 "evidence": [
 {
-"type": "statement",
-"title": "Press release: Markey releases discussion draft of the Protecting Communities from Data Center Impacts Act",
-"url": "https://www.markey.senate.gov/news/press-releases/senator-markey-releases-discussion-draft-of-legislation-to-create-a-national-framework-to-address-data-center-harm",
-"date": "2026-07-13",
-"quote": "Communities are organizing and demanding action to protect their air, water, energy bills, and quality of life from the tsunami of data centers around the country",
-"what_it_shows": "His bill would make data centers get a federal certificate showing they will not harm the public interest before they can be permitted or built."
+"type": "interview",
+"title": "Tufts Daily interview: Moulton asked whether Congress should pause data center construction",
+"url": "https://www.tuftsdaily.com/article/2026/03/seth-moulton-discusses-senate-campaign-with-the-daily",
+"quote": "we can’t have data centers coming in and just raising everybody’s electricity bills and taking everybody’s water and everything else. But to basically cede leadership on AI to China would be incredibly dangerous",
+"date": "2026-03-06",
+"what_it_shows": "Asked about a Sanders-style moratorium, he refused to pause construction but said data centers must not push costs onto households."
 },
 {
-"type": "statement",
-"title": "Press release: 'The Data Center Next Door' roundtable on data center harms",
-"url": "https://www.markey.senate.gov/news/press-releases/the-data-center-next-door-as-trump-eviscerates-guardrails-senator-markey-hosts-roundtable-discussion-on-how-ai-data-centers-can-harm-environment-increase-costs-to-households-and-threaten-public-health",
-"date": "2025-07-23",
-"quote": "unregulated, uncontrolled data center development is sucking our communities dry. Our environment doesn't have to be a sacrificial lamb on the altar of innovation.",
-"what_it_shows": "He frames unregulated data center growth as a threat to communities, energy bills and public health and attacks the Trump AI Action Plan's deregulatory approach."
+"type": "interview",
+"title": "Tufts Daily interview: Moulton on AI companies and communities",
+"url": "https://www.tuftsdaily.com/article/2026/03/seth-moulton-discusses-senate-campaign-with-the-daily",
+"quote": "That doesn’t mean that we should give free reign to the AI companies. I think there should be tight restrictions on what they’re able to do in our communities.",
+"date": "2026-03-06",
+"what_it_shows": "He pairs support for AI growth with a call for tight local restrictions on AI companies."
 },
 {
-"type": "statement",
-"title": "WCVB report on the final Markey-Moulton Senate primary debate",
-"url": "https://www.wcvb.com/article/markey-moulton-call-for-ai-safeguards-in-final-debate/73489826",
-"date": "2026-08-20",
-"quote": "every community should be able to say 'no' to data centers if they don't want them, if it's going to trigger electricity spikes, water crisis, pollution bombs going off, but we're going to need national legislation",
-"what_it_shows": "He backs a local veto over data centers plus national rules, short of a blanket pause."
+"type": "letter",
+"title": "Letter from 20 House Democrats led by Rep. Kevin Mullin to FERC, Edison Electric Institute and the Data Center Coalition on data center energy costs (Moulton co-signed)",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"quote": "The expansion of data centers risks creating persistent affordability challenges for households and small businesses.",
+"date": "2025-10-28",
+"what_it_shows": "He joined colleagues asking regulators, utilities and the industry how grid upgrade costs will be kept off household bills."
 },
 {
-"type": "sponsor",
-"title": "S.4727 Artificial Intelligence Environmental Impacts Act of 2026",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4727",
-"date": "2026-06-09",
+"type": "letter",
+"title": "New Democrat Coalition letter to House appropriators requesting a DOE National Strategic Data Center Plan (Moulton signed)",
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"quote": "Rapidly increasing demand for data centers, driven by cloud computing and AI, is vital for America's economy and competitiveness. However, this expansion strains electricity grids, land, water, and community infrastructure",
+"date": "2026-03-19",
+"what_it_shows": "Frames data centers as vital but calls for managed growth and a national plan covering grid, water and consumer cost impacts."
+},
+{
+"type": "vote",
+"title": "House roll call 356 (Dec 18 2025): H.R.4776 SPEED Act permitting reform, Moulton voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
 "quote": null,
-"what_it_shows": "Would have scientists measure AI's energy, water and pollution footprint and set up reporting; reintroduced from 2024."
+"date": "2025-12-18",
+"what_it_shows": "He voted against the Republican permitting bill that supporters said would speed energy and data center projects."
 }
 ]
 },
 "ai_risk": {
 "score": -1,
 "confidence": "high",
-"summary": "Markey is at the aggressive end of targeted guardrails: he sponsors bills to ban discriminatory AI, protect kids from chatbots, keep humans in control of nuclear launch and pause government face recognition. He does not frame AI as an existential threat or push frontier-model licensing.",
+"summary": "Moulton says AI is here to stay and America should lead it, but he wants protections around AI tools, has backed targeted rules (no AI control of nuclear launches, bans on AI election lies) and says government must be ready to help workers displaced by AI. He does not talk about AI as an existential danger.",
 "evidence": [
 {
-"type": "sponsor",
-"title": "S.3308 Artificial Intelligence Civil Rights Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3308",
-"date": "2025-12-02",
-"quote": null,
-"what_it_shows": "Would ban discriminatory uses of AI and require companies to test high-stakes systems for bias."
+"type": "statement",
+"title": "WCVB debate coverage: Moulton attacks Markey's AI answer in the final Senate primary debate",
+"url": "https://www.wcvb.com/article/moulton-markey-debate-ai-trans-athletes/73497961",
+"quote": "if you don't even know what you're using on your phone or your iPad, like this is why we need a new generation of leaders to regulate these technologies",
+"date": "2026-08-20",
+"what_it_shows": "He framed regulating AI as necessary and cast himself as the generation that should write the rules."
 },
 {
 "type": "statement",
-"title": "Press release: Markey introduces the Youth AI Privacy Act on AI chatbots and kids",
-"url": "https://www.markey.senate.gov/news/press-releases/markey-introduces-legislation-to-protect-children-from-privacy-and-safety-risks-posed-by-ai-chatbots",
-"date": "2026-03-25",
-"quote": "AI chatbots pose grave new risks to kids' privacy and safety, but Big Tech continues to speak only one language: profit",
-"what_it_shows": "He wants binding privacy and anti-manipulation rules for chatbots used by minors."
-},
-{
-"type": "sponsor",
-"title": "S.1394 Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023",
-"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1394",
-"date": "2023-05-01",
-"quote": null,
-"what_it_shows": "Would require a human, never an AI system, to make any nuclear launch decision."
-},
-{
-"type": "statement",
-"title": "New Bedford Light report on the final Markey-Moulton debate",
+"title": "New Bedford Light debate coverage: Moulton on using AI tools",
 "url": "https://newbedfordlight.org/prices-iran-war-ai-dominate-final-markey-moulton-senate-debate/",
-"date": "2026-08-20",
-"quote": "because of the clear and palpable danger which has been presented both to our climate and to the children of our country",
-"what_it_shows": "He describes AI's dangers mainly in terms of climate and kids, not catastrophic or existential risk."
-},
-{
-"type": "pac",
-"title": "CNBC: Anthropic-backed Public First Action gave $500,000 to a PAC supporting Markey",
-"url": "https://www.cnbc.com/2026/08/27/ai-massachusetts-democratic-senate-primary-markey-moulton.html",
-"date": "2026-08-27",
-"quote": "has been unequivocal in his support for regulating AI.",
-"what_it_shows": "An AI-safety-aligned political group backed him in the 2026 primary because of his pro-regulation record."
-}
-]
-},
-"tech_regulation": {
-"score": -2,
-"confidence": "high",
-"summary": "Markey is a longtime Big Tech critic: he wrote the kids' privacy law and its COPPA 2.0 update, cosponsors tougher antitrust law, and has pressed Meta, Apple and Google over chatbots and sexual deepfakes. One exception: he opposed the TikTok ban and sponsored a bill to delay it.",
-"evidence": [
-{
-"type": "sponsor",
-"title": "S.836 Children and Teens' Online Privacy Protection Act (COPPA 2.0)",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
-"date": "2025-03-04",
-"quote": null,
-"what_it_shows": "Lead sponsor of the major update to the kids' online privacy law."
-},
-{
-"type": "cosponsor",
-"title": "S.130 Competition and Antitrust Law Enforcement Reform Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/130",
-"date": "2025-01-16",
-"quote": null,
-"what_it_shows": "Backs tougher merger rules aimed at giant companies including Big Tech."
-},
-{
-"type": "letter",
-"title": "NBC News: Wyden, Markey and Lujan urge Apple and Google to remove X and Grok from app stores",
-"url": "https://www.nbcnews.com/tech/internet/senators-urged-apple-google-remove-x-grok-app-stores-rcna253048",
-"date": "2026-01-09",
-"quote": "Turning a blind eye to X's egregious behavior would make a mockery of your moderation practices.",
-"what_it_shows": "He wants app store gatekeepers to enforce their rules against AI-generated sexual deepfakes."
-},
-{
-"type": "letter",
-"title": "NBC News: Markey letter says Meta ignored his 2023 warning about teens and AI chatbots",
-"url": "https://www.nbcnews.com/tech/tech-news/senator-says-meta-ignored-warnings-ai-chatbots-teens-rcna229785",
-"date": "2025-09-08",
-"quote": null,
-"what_it_shows": "He urged Meta to bar minors from its AI chatbots after reports of romantic chats with kids."
-},
-{
-"type": "statement",
-"title": "Press release: Markey introduces the Youth AI Privacy Act",
-"url": "https://www.markey.senate.gov/news/press-releases/markey-introduces-legislation-to-protect-children-from-privacy-and-safety-risks-posed-by-ai-chatbots",
-"date": "2026-03-25",
-"quote": "My bill stops AI companies from using manipulative tricks to keep kids hooked on chatbots, and it imposes critical privacy protections to stop Big Tech from profiting off our young people.",
-"what_it_shows": "Targets Big Tech's business model around children."
-},
-{
-"type": "sponsor",
-"title": "S.103 Extend the TikTok Deadline Act",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/103",
-"date": "2025-01-15",
-"quote": null,
-"what_it_shows": "Contrary signal: he sought more time before TikTok had to be sold or banned, opposing the ban approach."
-}
-]
-},
-"preemption": {
-"score": -2,
-"confidence": "high",
-"summary": "Markey led the fight against the 10-year moratorium on state AI laws, wrote the States' Right to Regulate AI Act, and has vowed to fight the December 2025 executive order. He says states must be able to regulate AI even as Congress writes national rules.",
-"evidence": [
-{
-"type": "sponsor",
-"title": "S.3557 States' Right to Regulate AI Act",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3557",
-"date": "2025-12-17",
-"quote": null,
-"what_it_shows": "His bill says the federal government cannot wipe out state AI laws."
-},
-{
-"type": "vote",
-"title": "Senate roll call 363: Blackburn amendment striking the state AI-law moratorium (Yea)",
-"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
-"date": "2025-07-01",
-"quote": null,
-"what_it_shows": "Voted to strip the moratorium; he had partnered on the amendment after weeks of opposing the provision."
-},
-{
-"type": "statement",
-"title": "Press release: Senate strikes AI moratorium 99-1 after Markey raised the alarm",
-"url": "https://www.markey.senate.gov/news/press-releases/after-weeks-of-markey-raising-the-alarm-senate-strikes-ai-moratorium-from-budget-reconciliation-bill-overnight-in-overwhelming-99-1-vote",
-"date": "2025-07-01",
-"quote": "This 99-1 vote sent a clear message that Congress will not sell out our kids and local communities in order to pad the pockets of Big Tech billionaires.",
-"what_it_shows": "He claimed credit for defeating the moratorium and framed it as protecting kids and local communities."
-},
-{
-"type": "statement",
-"title": "Press release: Markey statement on Trump AI regulation moratorium executive order",
-"url": "https://www.markey.senate.gov/news/press-releases/senator-markey-statement-on-trump-ai-regulation-moratorium-executive-order",
-"date": "2025-12-11",
-"quote": "I will use every tool available to challenge this indefensible and irresponsible power grab. We will defeat it again.",
-"what_it_shows": "He opposes the executive order aimed at overriding state AI laws."
-},
-{
-"type": "letter",
-"title": "The Hill: Markey-Warren Dear Colleague letter urging Democrats to reject any NDAA with an AI moratorium",
-"url": "https://thehill.com/policy/technology/5628534-trump-lawmakers-battle-ai/",
-"date": "2025-11-20",
-"quote": "Congress should not give Big Tech a multi-year holiday from state oversight",
-"what_it_shows": "He organized Senate Democrats against reviving the moratorium in the defense bill."
-},
-{
-"type": "statement",
-"title": "WCVB report on the final Markey-Moulton debate",
-"url": "https://www.wcvb.com/article/markey-moulton-call-for-ai-safeguards-in-final-debate/73489826",
-"date": "2026-08-20",
-"quote": "States should be able to regulate AI",
-"what_it_shows": "He wants national laws too but insists states keep their power."
-}
-]
-},
-"china_chips": {
-"score": null,
-"confidence": "none",
-"summary": "No public position found. Searched for Markey statements on Nvidia H20 or H200 sales to China, export controls and the Chip Security Act; found none, and his record has no chip export bills.",
-"evidence": []
-}
-},
-"search_notes": "Ran about 14 Google News searches (AI, data center, preemption, chips, Anthropic/PAC, Meta chatbots, Section 230, White House framework, Coxon/Hubinger, FERC letter) plus a markey.senate.gov archive listing. Opened: discussion draft release, roundtable release, EO statement, 99-1 release, Youth AI Privacy release (wayback), WCVB and New Bedford Light debate coverage, CNBC primary story, NBC Meta and Grok stories, The Hill Dear Colleague story, Tech Times PAC story. Blocked (403, no wayback copy reachable): AI Environmental Impacts Act reintroduction release, Nov 2025 FERC letter release, Mar 2026 NARUC letter, Zeldin NSR letter, Mar 20 2026 White House framework statement, KOSA markup statement; those leads were not used as evidence. No Markey reaction to the Sept 2026 Anthropic researcher warning was found."
-},
-{
-"bioguide": "W000817",
-"name": "Elizabeth Warren",
-"signature": "Senate Banking ranking member who leads the Democratic push to keep advanced chips out of China, investigates Big Tech data centers' effect on power bills, and warns of an AI financial bubble.",
-"notable_quote": {
-"text": "Through these utility price increases, American families bankroll the electricity costs of trillion-dollar tech companies.",
-"url": "https://www.warren.senate.gov/newsroom/press-releases/senator-warren-lawmakers-open-investigation-into-big-tech-data-centers-role-in-driving-up-families-utility-costs/",
-"date": "2025-12-16"
-},
-"groups": [
-"Senate Banking, Housing, and Urban Affairs Committee, Ranking Member (oversees export controls)"
-],
-"positions": {
-"data_centers": {
-"score": -1,
-"confidence": "high",
-"summary": "Warren's line is that tech companies, not families, must pay for data center power. She opened an investigation of seven hyperscalers over utility bills, won a mandatory federal energy survey of data centers with Sen. Hawley, and proposes an excise tax on data center energy use. She has not backed a moratorium.",
-"evidence": [
-{
-"type": "letter",
-"title": "Press release: Warren, Van Hollen and Blumenthal open investigation into Big Tech data centers and utility costs",
-"url": "https://www.warren.senate.gov/newsroom/press-releases/senator-warren-lawmakers-open-investigation-into-big-tech-data-centers-role-in-driving-up-families-utility-costs/",
-"date": "2025-12-16",
-"quote": "Through these utility price increases, American families bankroll the electricity costs of trillion-dollar tech companies.",
-"what_it_shows": "Letters to Google, Microsoft, Amazon, Meta, CoreWeave, Digital Realty and Equinix demanding they pay a greater share of grid costs up front."
-},
-{
-"type": "letter",
-"title": "The Verge: Warren-Hawley letter asks EIA for mandatory annual data center energy reporting",
-"url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
-"date": "2026-03-26",
-"quote": "establish a mandatory annual reporting requirement for data centers",
-"what_it_shows": "A bipartisan push for transparency so the public can check the Ratepayer Protection Pledge."
-},
-{
-"type": "statement",
-"title": "Press release: Warren, Hawley secure mandatory energy-use reporting requirements for data centers",
-"url": "https://www.warren.senate.gov/newsroom/press-releases/warren-hawley-secure-mandatory-energy-use-reporting-requirements-for-data-centers",
-"date": "2026-04-15",
-"quote": "Americans deserve to know how much energy data centers are sucking up and what that's doing to their utility bills",
-"what_it_shows": "EIA agreed to a mandatory data center survey in response to her request."
-},
-{
-"type": "op_ed",
-"title": "Time op-ed: Why We Need to Tax AI",
-"url": "https://time.com/article/2026/05/27/why-we-need-to-tax-ai/",
-"date": "2026-05-27",
-"quote": "By imposing a reasonable excise tax on the energy used by data centers, families could recoup some of the gains of AI, while America continues to stay competitive in the AI race.",
-"what_it_shows": "She wants to tax data center energy use while keeping the US competitive, a protect-ratepayers-first stance rather than a pause."
-}
-]
-},
-"ai_risk": {
-"score": -1,
-"confidence": "high",
-"summary": "Warren treats AI mainly as a financial-stability and civil-rights problem: she warns the AI investment boom could trigger a 2008-style crash, sponsors an AI Bubble Transparency Act, and cosponsors bills requiring bias testing of automated systems. She has not called for licensing or a pause on advanced AI.",
-"evidence": [
-{
-"type": "statement",
-"title": "The Verge: Warren says an AI failure could trigger the next financial crisis (Vanderbilt Policy Accelerator remarks)",
-"url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
-"date": "2026-04-22",
-"quote": "the first big stumble will have everyone running for the exits, potentially triggering destabilizing losses in the financial sector and another 2008-style financial crisis.",
-"what_it_shows": "Her AI risk framing is about debt, opaque financing and systemic risk, and she says Congress should step in."
-},
-{
-"type": "sponsor",
-"title": "S.4743 AI Bubble Transparency Act",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4743",
-"date": "2026-06-10",
-"quote": null,
-"what_it_shows": "Would make companies disclose their AI exposure to investors."
-},
-{
-"type": "cosponsor",
-"title": "S.2164 Algorithmic Accountability Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2164",
-"date": "2025-06-25",
-"quote": null,
-"what_it_shows": "Would require big companies to test automated decision systems for bias and harm."
-},
-{
-"type": "cosponsor",
-"title": "S.3308 Artificial Intelligence Civil Rights Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3308",
-"date": "2025-12-02",
-"quote": null,
-"what_it_shows": "Supports binding anti-discrimination rules and bias testing for AI."
-},
-{
-"type": "letter",
-"title": "CNBC: Warren questions Pentagon's supply chain risk label on Anthropic",
-"url": "https://www.cnbc.com/2026/03/23/sen-warren-dod-anthropic-blacklist-hegseth.html",
-"date": "2026-03-23",
-"quote": "appears to be retaliation",
-"what_it_shows": "She challenged the Defense Department's blacklisting of a safety-focused AI company, an oversight action rather than a stance on model risk."
-}
-]
-},
-"tech_regulation": {
-"score": -2,
-"confidence": "high",
-"summary": "Warren is among the most aggressive Big Tech critics in the Senate: she has proposed a new federal regulator for online platforms, backs breaking up Google's ad business and blocking AI cloud monopolies in defense contracts, and wants to tax AI companies.",
-"evidence": [
-{
-"type": "statement",
-"title": "Press release: Warren, Graham unveil bipartisan Digital Consumer Protection Commission Act",
-"url": "https://www.warren.senate.gov/news/press-releases/warren-graham-unveil-bipartisan-bill-to-rein-in-big-tech",
-"date": "2023-07-27",
-"quote": "For too long, giant tech companies have exploited consumers' data, invaded Americans' privacy, threatened our national security, and stomped out competition in our economy",
-"what_it_shows": "Proposed a new commission with power to regulate online platforms alongside the FTC and DOJ."
-},
-{
-"type": "cosponsor",
-"title": "S.1060 AMERICA Act",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1060",
-"date": "2025-03-13",
-"quote": null,
-"what_it_shows": "Would break up conflicts of interest in the digital ad market dominated by Google."
-},
-{
-"type": "sponsor",
-"title": "S.1775 Protecting AI and Cloud Competition in Defense Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1775",
-"date": "2025-05-15",
-"quote": null,
-"what_it_shows": "Would stop the Pentagon from handing AI and cloud contracts to a few giants without competition."
-},
-{
-"type": "letter",
-"title": "Press release: Schakowsky and Warren press USTR on whether Big Tech is using the USMCA review to block AI rules",
-"url": "https://schakowsky.house.gov/media/press-releases/schakowsky-warren-press-trump-admin-whether-big-tech-lobbyists-are-scheming",
-"date": "2026-07-23",
-"quote": "They are now attempting to use trade deals to preempt even the federal government from effectively regulating AI.",
-"what_it_shows": "She sees Big Tech lobbying on trade as an end run around AI regulation."
-},
-{
-"type": "op_ed",
-"title": "Time op-ed: Why We Need to Tax AI",
-"url": "https://time.com/article/2026/05/27/why-we-need-to-tax-ai/",
-"date": "2026-05-27",
-"quote": "But it starts by acknowledging: it's time to tax AI and invest in people.",
-"what_it_shows": "Calls for taxing AI companies and data centers and a wealth tax to share AI's gains."
-},
-{
-"type": "cosponsor",
-"title": "S.1748 Kids Online Safety Act",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
-"date": "2025-12-09",
-"quote": null,
-"what_it_shows": "Supports the major kids online safety bill."
-}
-]
-},
-"preemption": {
-"score": -2,
-"confidence": "high",
-"summary": "Warren co-led the November 2025 letter urging Senate Democrats to reject any defense bill with a state AI-law moratorium, and she has warned that trade deals could be used to preempt federal and state AI rules.",
-"evidence": [
-{
-"type": "letter",
-"title": "The Hill: Markey-Warren Dear Colleague letter against an AI moratorium in the NDAA",
-"url": "https://thehill.com/policy/technology/5628534-trump-lawmakers-battle-ai/",
-"date": "2025-11-20",
-"quote": "Democrats have direct control over whether the AI moratorium is enacted into law. Our message should be simple: Congress should not give Big Tech a multi-year holiday from state oversight",
-"what_it_shows": "She organized against reviving the state AI-law moratorium."
-},
-{
-"type": "vote",
-"title": "Senate roll call 363: Blackburn amendment striking the state AI-law moratorium (Yea)",
-"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
-"date": "2025-07-01",
-"quote": null,
-"what_it_shows": "Voted with 98 others to strip the moratorium from the reconciliation bill."
-},
-{
-"type": "letter",
-"title": "Press release: Schakowsky and Warren letter to USTR on Big Tech using USMCA to stop AI regulation",
-"url": "https://schakowsky.house.gov/media/press-releases/schakowsky-warren-press-trump-admin-whether-big-tech-lobbyists-are-scheming",
-"date": "2026-07-23",
-"quote": null,
-"what_it_shows": "The letter warns a digital trade strategy could bar federal and state governments from regulating AI."
-}
-]
-},
-"china_chips": {
-"score": -2,
-"confidence": "high",
-"summary": "Warren is a leading chip hawk. She cosponsors the GAIN AI, SAFE Chips, Chip Security and AI OVERWATCH Acts, attacked the approval of Nvidia H200 sales to China as a threat to national security, and tried to get Jensen Huang to testify about Nvidia's China business.",
-"evidence": [
-{
-"type": "cosponsor",
-"title": "S.3150 GAIN AI Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3150",
-"date": "2025-11-06",
-"quote": null,
-"what_it_shows": "Would make chipmakers serve US buyers before shipping advanced chips to China."
-},
-{
-"type": "cosponsor",
-"title": "S.3374 SAFE Chips Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3374",
-"date": "2025-12-11",
-"quote": null,
-"what_it_shows": "Would lock in export limits so the White House cannot loosen them alone."
-},
-{
-"type": "cosponsor",
-"title": "S.1705 Chip Security Act",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
-"date": "2026-02-12",
-"quote": null,
-"what_it_shows": "Would require location verification on advanced chips sold abroad."
-},
-{
-"type": "cosponsor",
-"title": "S.4456 AI OVERWATCH Act",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4456",
-"date": "2026-04-30",
-"quote": null,
-"what_it_shows": "Would give Congress a say before advanced AI chips are sold to China."
-},
-{
-"type": "statement",
-"title": "Meeks-Warren statement on Trump administration approval of advanced AI chip sales to China",
-"url": "https://democrats-foreignaffairs.house.gov/2026/3/meeks-warren-statement-on-trump-administration-s-approval-of-advanced-ai-chip-sales-to-china",
-"date": "2026-03-16",
-"quote": "we are now more concerned than ever that the Trump administration is undercutting U.S. national security by approving this sale.",
-"what_it_shows": "Opposes the H200 license approvals and calls for legislation to block China's access."
-},
-{
-"type": "statement",
-"title": "CNBC: Nvidia CEO Jensen Huang declines Warren's invitation to testify on China and export controls",
-"url": "https://www.cnbc.com/2026/06/08/nvidia-jensen-huang-senate-elizabeth-warren-ai-china-export-controls.html",
-"date": "2026-06-08",
-"quote": "the American people deserve answers in a public forum",
-"what_it_shows": "She is pressing Nvidia publicly over its China sales."
-}
-]
-}
-},
-"search_notes": "Ran about 12 Google News searches (AI, data center, Nvidia/chips, preemption, tax AI, Huang hearing, bubble, Anthropic-Pentagon, backwards-and-poor remark) plus a warren.senate.gov archive listing. Opened: data center investigation release (wayback), EIA mandatory survey release (wayback), Verge EIA letter story, Time op-ed, Verge bubble story, CNBC Anthropic story, CNBC Huang story, Meeks-Warren statement, Warren-Graham release (wayback), Schakowsky-Warren release, The Hill Dear Colleague story. Blocked: banking.senate.gov minority releases (H200 letter, AI OVERWATCH statement), Warren-Hawley March 26 release, Benzinga Sept 2026 'backwards and poor' story, Nvidia-Groq antitrust letter, Medicare AI approvals bill release, RealPage probe; those leads were not used. The Nov 13 2025 FERC letter she cosigned sits on a blocked Markey page and was not cited."
-},
-{
-"bioguide": "N000015",
-"name": "Richard E. Neal",
-"signature": "No notable public AI activity found beyond supporting a guardrailed IRS AI pilot; silent so far on the $4 billion hyperscale data center proposed in his Westfield district.",
-"notable_quote": {
-"text": "Like with any emerging technology, this bill seeks to thoughtfully deploy AI with clear guardrails to establish a limited pilot program at the IRS",
-"url": "https://neal.house.gov/2026/07/01/neal-opening-statement-at-markup-of-h-r-9501/",
-"date": "2026-07-01"
-},
-"groups": [
-"House Ways and Means Committee, Ranking Member"
-],
-"positions": {
-"data_centers": {
-"score": null,
-"confidence": "none",
-"summary": "No public statements found on data centers as of Sept 2026, even though the state's first hyperscale campus is proposed for Westfield in his district. Searched his website, MassLive, WWLP and Greenfield Recorder coverage of his August 2026 primary debate; the debate coverage that could be opened did not mention data centers.",
-"evidence": []
-},
-"ai_risk": {
-"score": 0,
-"confidence": "low",
-"summary": "His only found AI remarks concern government use of AI: he backed a limited, GAO-reviewed IRS pilot with guardrails and credits the Inflation Reduction Act with funding IRS use of AI to audit the wealthy. He has taken no found position on regulating the AI industry.",
-"evidence": [
-{
-"type": "hearing",
-"title": "Neal opening statement at Ways and Means markup of H.R. 9501 (IRS AI pilot)",
-"url": "https://neal.house.gov/2026/07/01/neal-opening-statement-at-markup-of-h-r-9501/",
-"date": "2026-07-01",
-"quote": "Like with any emerging technology, this bill seeks to thoughtfully deploy AI with clear guardrails to establish a limited pilot program at the IRS",
-"what_it_shows": "He supports careful, time-limited government use of AI with independent review, a balanced rather than restrictive stance."
-},
-{
-"type": "interview",
-"title": "NEPM interview: Neal on trains, Iran, ICE and the IRS",
-"url": "https://neal.house.gov/2026/03/27/us-rep-richard-neal-talks-trains-iran-and-ice-at-airports/",
-"date": "2026-03-27",
-"quote": "that was $80 billion for the IRS to use more of artificial intelligence, more modeling.",
-"what_it_shows": "He views AI as a tool for better tax enforcement, not as a risk to be curbed."
-}
-]
-},
-"tech_regulation": {
-"score": null,
-"confidence": "none",
-"summary": "No position found on regulating tech companies. His privacy statements concern DOGE access to Social Security and taxpayer data held by the government, not rules for Big Tech, and his record has no relevant bills.",
-"evidence": []
-},
-"preemption": {
-"score": null,
-"confidence": "none",
-"summary": "No statements found on federal preemption of state AI laws. He does not appear on the Clarke letter, and his record has no preemption bills; the Matsui letter PDF could not be parsed to check his name.",
-"evidence": []
-},
-"china_chips": {
-"score": null,
-"confidence": "none",
-"summary": "No statements found on chip export controls or Nvidia sales to China.",
-"evidence": []
-}
-},
-"search_notes": "Ran 9 Google News searches (AI, data center, Westfield, Ways and Means AI, WISeR Medicare AI, AI task force, debate coverage) plus neal.house.gov archive listing and on-site searches for 'data center', 'artificial intelligence', 'Westfield', 'WISeR'. Opened: H.R. 9501 markup statement, NEPM interview, DOGE data releases, Greenfield Recorder debate story, Lieu AI task force roster. The state context lead that Neal sat on the House Bipartisan AI Task Force is wrong; the roster lists Rep. Neal Dunn, not Richard Neal. MassLive and WWLP debate stories were blocked (403)."
-},
-{
-"bioguide": "M000312",
-"name": "James P. McGovern",
-"signature": "Progressive who cosponsored the AI Data Center Moratorium Act, co-chairs the Congressional Robotics Caucus and introduced a Big Tech Accountability Act on privacy and algorithmic amplification in Sept 2026.",
-"notable_quote": {
-"text": "These platforms should not get a free pass to exploit people's private data or design systems that knowingly push dangerous content because outrage and division are good for business.",
-"url": "https://freespeechforpeople.org/rep-jim-mcgovern-introduces-big-tech-accountability-act-to-protect-americans-privacy-and-hold-tech-giants-accountable/",
-"date": "2026-09-04"
-},
-"groups": [
-"Congressional Robotics Caucus, Co-Chair"
-],
-"positions": {
-"data_centers": {
-"score": -2,
-"confidence": "high",
-"summary": "McGovern is an original cosponsor of the AI Data Center Moratorium Act and of bills to ban data centers on federal land and force disclosure of siting, power and water use. Local climate advocates describe him as an ally on data center regulation.",
-"evidence": [
-{
-"type": "cosponsor",
-"title": "H.R.9442 Artificial Intelligence Data Center Moratorium Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
-"date": "2026-06-24",
-"quote": null,
-"what_it_shows": "Supports a temporary halt on new AI data centers until their effects on bills and the environment are addressed."
-},
-{
-"type": "cosponsor",
-"title": "H.R.9939 No AI Data Centers on Federal Lands Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
-"date": "2026-07-23",
-"quote": null,
-"what_it_shows": "Would block AI data centers on federal land."
-},
-{
-"type": "cosponsor",
-"title": "H.R.8488 AI Data Center Site Selection Transparency Act of 2026",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/8488",
-"date": "2026-04-23",
-"quote": null,
-"what_it_shows": "Would require public disclosure of planned sites and community impacts."
-},
-{
-"type": "cosponsor",
-"title": "H.R.6984 Data Center Transparency Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/6984",
-"date": "2026-09-08",
-"quote": null,
-"what_it_shows": "Would make data centers report electricity and water use."
-},
-{
-"type": "cosponsor",
-"title": "H.R.9183 Artificial Intelligence Environmental Impacts Act of 2026",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
-"date": "2026-06-24",
-"quote": null,
-"what_it_shows": "Backs a federal study and reporting of AI's energy, water and pollution footprint."
-},
-{
-"type": "other",
-"title": "Worcester Telegram guest column by a constituent: McGovern fights data centers' threat to climate",
-"url": "https://www.telegram.com/story/opinion/columns/guest/2026/08/23/opinionguest-column-mcgovern-fights-data-centers-threat-to-climate/91339693007/",
-"date": "2026-08-23",
-"quote": null,
-"what_it_shows": "Third-party column describing his meeting with Climate Hope Affiliates on data center regulation; shows local climate groups treat him as their champion on the issue."
-}
-]
-},
-"ai_risk": {
-"score": -1,
-"confidence": "high",
-"summary": "McGovern backs specific guardrails: he signed the August 2026 letter demanding AI CEOs testify under oath, cosponsors the AI Civil Rights Act and the Stop AI Price Gouging and Wage Fixing Act, and earlier backed keeping humans in control of nuclear launch.",
-"evidence": [
-{
-"type": "letter",
-"title": "Casar-led letter demanding congressional hearings with AI CEOs under oath (McGovern signed)",
-"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
-"date": "2026-08-10",
-"quote": "The CEOs of the largest AI companies should answer questions under oath, and Americans should have a chance to hear from independent experts on the dangers posed by this technology.",
-"what_it_shows": "He joined 19 Democrats saying Congress has failed to respond to threats from AI development."
-},
-{
-"type": "cosponsor",
-"title": "H.R.6356 Artificial Intelligence Civil Rights Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
-"date": "2025-12-02",
-"quote": null,
-"what_it_shows": "Supports bans on discriminatory AI and mandatory bias checks."
-},
-{
-"type": "cosponsor",
-"title": "H.R.4640 Stop AI Price Gouging and Wage Fixing Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
-"date": "2025-07-25",
-"quote": null,
-"what_it_shows": "Would ban AI-driven personalized pricing and wage setting."
-},
-{
-"type": "cosponsor",
-"title": "H.R.2894 Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
-"date": "2023-05-05",
-"quote": null,
-"what_it_shows": "Backed a human-in-the-loop requirement for nuclear launch."
-},
-{
-"type": "statement",
-"title": "The Robot Report: McGovern relaunches the Congressional Robotics Caucus as co-chair",
-"url": "https://www.therobotreport.com/congressional-robotics-caucus-relaunches-to-help-u-s-industry/",
-"date": "2025-06-02",
-"quote": "Serving as co-chair of the Congressional Robotics Caucus for the past few years has opened my eyes to the promises and risks associated with the rise of robotics",
-"what_it_shows": "He frames AI-enabled robotics as carrying both promise and risk."
-}
-]
-},
-"tech_regulation": {
-"score": -2,
-"confidence": "medium",
-"summary": "McGovern's Big Tech Accountability Act, introduced Sept 4 2026, would set strong privacy limits and hold platforms liable when their algorithms amplify fraudulent disinformation or violence. It is a single new bill with no cosponsors yet, but his own words are strongly anti-Big Tech.",
-"evidence": [
-{
-"type": "sponsor",
-"title": "H.R.10300 Big Tech Accountability Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/10300",
-"date": "2026-09-04",
-"quote": null,
-"what_it_shows": "His bill pairs personal data protections with accountability for algorithmic amplification."
-},
-{
-"type": "statement",
-"title": "Press release (reprinted by Free Speech For People): McGovern introduces Big Tech Accountability Act",
-"url": "https://freespeechforpeople.org/rep-jim-mcgovern-introduces-big-tech-accountability-act-to-protect-americans-privacy-and-hold-tech-giants-accountable/",
-"date": "2026-09-04",
-"quote": "These platforms should not get a free pass to exploit people's private data or design systems that knowingly push dangerous content because outrage and division are good for business.",
-"what_it_shows": "He wants platforms held to the same accountability as other businesses, a rein-in-Big-Tech message."
-},
-{
-"type": "statement",
-"title": "Press release: McGovern introduces Big Tech Accountability Act (mcgovern.house.gov)",
-"url": "https://mcgovern.house.gov/news/documentsingle.aspx?DocumentID=400453",
-"date": "2026-09-04",
-"quote": null,
-"what_it_shows": "Official release describing stronger protections for personal information and accountability for amplifying disinformation, threats or violence."
-}
-]
-},
-"preemption": {
-"score": -2,
-"confidence": "high",
-"summary": "McGovern cosponsors the GUARDRAILS Act protecting state AI laws and signed the December 2025 Clarke letter calling any moratorium wildly irresponsible without federal legislation.",
-"evidence": [
-{
-"type": "cosponsor",
-"title": "H.R.8031 GUARDRAILS Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
-"date": "2026-03-20",
-"quote": null,
-"what_it_shows": "Would stop the federal government from wiping out state AI laws."
-},
-{
-"type": "letter",
-"title": "Clarke-led letter of 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (McGovern signed)",
-"url": "https://clarke.house.gov/?p=102767",
-"date": "2025-12-03",
-"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
-"what_it_shows": "He opposed reviving the state AI-law moratorium in the defense bill."
-}
-]
-},
-"china_chips": {
-"score": null,
-"confidence": "none",
-"summary": "No statements found on chip export controls or Nvidia sales to China. His China work focuses on human rights and sanctions, not semiconductors.",
-"evidence": []
-}
-},
-"search_notes": "Ran 9 Google News searches (AI, data centers, Big Tech Accountability Act, Robotics Caucus, chips, Telegram column, Politico data center midterms) plus mcgovern.house.gov listings via the site's news page. Opened: Casar letter, Clarke letter, FSFP and mcgovern.house.gov Big Tech Act releases, Robot Report caucus story, Worcester Telegram column via Wayback (a constituent's op-ed, not his own). Blocked: Politico Sept 3 2026 story with his OBBBA data center tax break quote, Medium page, Matsui letter PDF (no text extracted), National Desk story. Context lead on Congressional AI Caucus membership was not verified and is omitted."
-},
-{
-"bioguide": "T000482",
-"name": "Lori Trahan",
-"signature": "House Democrats' most prominent AI-safety legislator: co-author with Rep. Obernolte of the FRONTIER Act for binding oversight of frontier models, accepting a narrow federal preemption that has drawn protests from the left.",
-"notable_quote": {
-"text": "I think that when the people building this technology are the ones sounding the alarm, we must listen. Today, the only thing we have in place is the honor system.",
-"url": "https://www.wbur.org/upnext/2026/09/10/trahan-hubinger-anthropic-openai",
-"date": "2026-09-10"
-},
-"groups": [
-"Great American AI Act / FRONTIER Act bipartisan sponsor group (co-lead with Rep. Jay Obernolte)"
-],
-"positions": {
-"data_centers": {
-"score": -1,
-"confidence": "high",
-"summary": "Trahan says companies that build data centers must pay their own construction and utility costs so bills do not land on neighbors, and she backed the Ratepayer Protection Act at a July 2026 Energy and Commerce markup. She has not called for a pause on building.",
-"evidence": [
-{
-"type": "hearing",
-"title": "Lowell Sun report quoting Trahan's Energy and Commerce markup remarks on the Ratepayer Protection Act",
-"url": "https://www.lowellsun.com/2026/08/03/lori-trahan-pushes-for-action-on-frontier-act-after-anthropic-discloses-breaches-by-its-ai/",
-"date": "2026-07-21",
-"quote": "It's our job to make sure that when data centers are built, they're built on terms that work for the families who live nearby",
-"what_it_shows": "She supports a federal standard making large-load customers pay the full cost of grid upgrades."
-}
-]
-},
-"ai_risk": {
-"score": -2,
-"confidence": "high",
-"summary": "Trahan wants binding federal rules on the most powerful AI models now: mandatory incident reporting, independent audits and a government pause button for models posing catastrophic risk. After the Sept 2026 Anthropic researcher warnings she said Congress must listen and act, while insisting her framework does not smother innovation.",
-"evidence": [
-{
-"type": "interview",
-"title": "WBUR interview: Trahan calls for legal guardrails after whistleblower warns AI could kill us all",
-"url": "https://www.wbur.org/upnext/2026/09/10/trahan-hubinger-anthropic-openai",
-"date": "2026-09-10",
-"quote": "I think that when the people building this technology are the ones sounding the alarm, we must listen. Today, the only thing we have in place is the honor system.",
-"what_it_shows": "She takes catastrophic-risk warnings seriously and describes the FRONTIER Act's mandated transparency, incident reporting, independent verification and a government pause button."
-},
-{
-"type": "interview",
-"title": "CNBC: AI regulation calls grow after researcher's extinction warning",
-"url": "https://www.cnbc.com/2026/09/11/ai-regulation-anthropic-researcher-extinction-warning.html",
-"date": "2026-09-11",
-"quote": "It's past time for Congress to get off the sidelines and act",
-"what_it_shows": "She says bipartisan support for AI regulation has reached a tipping point."
-},
-{
-"type": "statement",
-"title": "Press release: Trahan, Obernolte unveil Great American AI Act discussion draft",
-"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
-"date": "2026-06-04",
-"quote": "The threats AI poses to our national security, our safety, and our workforce are here and growing by the day.",
-"what_it_shows": "Her framework establishes accountability for frontier systems while, in her words, not smothering innovation."
-},
-{
-"type": "social_post",
-"title": "Lowell Sun report on Trahan's post after Anthropic and OpenAI disclosed AI models breaking into real companies during tests",
-"url": "https://www.lowellsun.com/2026/08/03/lori-trahan-pushes-for-action-on-frontier-act-after-anthropic-discloses-breaches-by-its-ai/",
-"date": "2026-07-31",
-"quote": "We can't run AI safety on the honor system. When Congress returns, we must hold hearings and move the FRONTIER Act.",
-"what_it_shows": "She wants mandatory 72-hour incident reporting rather than voluntary disclosure."
-},
-{
-"type": "cosponsor",
-"title": "H.R.5511 Algorithmic Accountability Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
-"date": "2025-09-30",
-"quote": null,
-"what_it_shows": "Supports mandatory bias and harm testing of automated decision systems."
-}
-]
-},
-"tech_regulation": {
-"score": -1,
-"confidence": "high",
-"summary": "Trahan favors targeted rules: she cosponsors the App Store Freedom Act and kids' privacy bills, and joined Energy and Commerce Democrats telling Meta to stop deploying AI companion bots to minors.",
-"evidence": [
-{
-"type": "cosponsor",
-"title": "H.R.3209 App Store Freedom Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/3209",
-"date": "2025-07-29",
-"quote": null,
-"what_it_shows": "Would force Apple and Google to allow outside app stores and sideloading."
-},
-{
-"type": "letter",
-"title": "Castor-led letter urging Meta to halt AI companion bots for users under 18 (Trahan signed)",
-"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404939",
-"date": "2025-05-29",
-"quote": "These inappropriate AI systems pose significant safety risks to children and teenagers who use Meta's platforms.",
-"what_it_shows": "She pressed Meta directly over AI chatbots and minors."
-},
-{
-"type": "cosponsor",
-"title": "H.R.2801 Kids PRIVACY Act",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/2801",
-"date": "2023-06-05",
-"quote": null,
-"what_it_shows": "Backs limits on collecting kids' and teens' data."
-},
-{
-"type": "cosponsor",
-"title": "H.R.7520 Protecting Americans' Data from Foreign Adversaries Act of 2024",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/7520",
-"date": "2024-03-11",
-"quote": null,
-"what_it_shows": "Supported the now-law ban on data brokers selling Americans' data to China and other rivals."
-}
-]
-},
-"preemption": {
-"score": 0,
-"confidence": "high",
-"summary": "Mixed by design. Trahan co-wrote a draft with a three-year preemption of state laws on AI development and the FRONTIER Act carves a narrow federal lane for the most powerful models, but she opposed the 10-year moratorium and says states keep authority over kids, civil rights, consumer protection and privacy.",
-"evidence": [
-{
-"type": "statement",
-"title": "Lowell Sun: protesters petition Trahan's office over the FRONTIER Act's preemption section",
-"url": "https://www.lowellsun.com/2026/08/21/protesters-bring-petition-to-trahans-office-to-oppose-frontier-act-section/",
+"quote": "These are tools that can help, but they’re also tools that need protections",
 "date": "2026-08-21",
-"quote": "Those are not the same thing, and I don't support wiping out the protections states have already put in place",
-"what_it_shows": "She distinguishes her narrow federal lane for frontier models from industry-backed proposals to freeze state AI laws."
+"what_it_shows": "He says he uses AI himself and supports protections around it."
 },
 {
-"type": "other",
-"title": "Roll Call: Bipartisan AI draft proposes three-year preemption of state laws",
-"url": "https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/",
-"date": "2026-06-04",
-"quote": null,
-"what_it_shows": "Her Great American AI Act discussion draft included a three-year preemption of state laws on AI development, drawing pushback from Democrats and safety groups."
+"type": "interview",
+"title": "Tufts Daily interview: Moulton on AI job displacement",
+"url": "https://www.tuftsdaily.com/article/2026/03/seth-moulton-discusses-senate-campaign-with-the-daily",
+"quote": "we need to be prepared for massive disruptions in our economy.",
+"date": "2026-03-06",
+"what_it_shows": "He agrees with Rep. Ro Khanna that government should be ready to help workers, such as paralegals, who lose jobs to AI."
 },
 {
-"type": "other",
-"title": "Roll Call: Rush to regulate AI divides Democrats in Congress",
-"url": "https://rollcall.com/2026/06/10/rush-to-regulate-ai-divides-democrats-in-congress/",
-"date": "2026-06-10",
+"type": "cosponsor",
+"title": "118th H.R.2894 Block Nuclear Launch by Autonomous Artificial Intelligence Act (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
 "quote": null,
-"what_it_shows": "The Democratic House AI commission, ACLU and Americans for Responsible Innovation opposed the draft's preemption of state laws; she pitched her position as balance."
+"date": "2023-06-20",
+"what_it_shows": "Backed a rule that a human, not an AI, must make any nuclear launch decision."
+},
+{
+"type": "cosponsor",
+"title": "119th H.R.4894 Deceptive Practices and Voter Intimidation Prevention Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"quote": null,
+"date": "2025-08-05",
+"what_it_shows": "Supports banning AI-made lies about voting in the two months before a federal election."
+},
+{
+"type": "cosponsor",
+"title": "119th H.R.2385 CREATE AI Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"quote": null,
+"date": "2026-08-17",
+"what_it_shows": "Supports a public computing resource so researchers can build AI, a pro-innovation measure."
+},
+{
+"type": "statement",
+"title": "Press release: Moulton joins Hurd, Kelly resolution to create a national AI strategy",
+"url": "https://moulton.house.gov/news/press-releases/moulton-joins-hurd-kelly-resolution-create-national-artificial-intelligence",
+"quote": "I'd rather the future be defined by our values, not theirs.",
+"date": "2020-09-16",
+"what_it_shows": "Early framing of AI as a race with China and Russia that America must lead."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Moulton wants more accountability for big tech companies and has cosponsored a long list of targeted bills: the Kids Online Safety Act, kids privacy updates, Sammy's Law, hidden-camera disclosure for smart devices, reproductive data privacy and the TikTok divestiture. He is a founding member of the Congressional Antitrust Caucus but has not called for break-ups or repealing Section 230.",
+"evidence": [
+{
+"type": "interview",
+"title": "Brookline.News joint interview: Moulton on surveillance technology and regulating AI",
+"url": "https://brookline.news/interview-senate-candidate-seth-moulton-makes-his-case-for-unseating-ed-markey/",
+"quote": "It just went too far in saying, ‘Hey, this is just a laissez-faire world where there’s no accountability.’",
+"date": "2026-07-14",
+"what_it_shows": "He criticized the hands-off 1996 Telecommunications Act and said Congress left too little accountability for major technology companies."
+},
+{
+"type": "cosponsor",
+"title": "118th H.R.7891 Kids Online Safety Act (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"quote": null,
+"date": "2024-06-11",
+"what_it_shows": "Backed the House version of KOSA requiring apps to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "119th H.R.2657 Sammy's Law (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"quote": null,
+"date": "2025-10-08",
+"what_it_shows": "Would make big social media sites let parents use safety apps to monitor kids' accounts."
+},
+{
+"type": "cosponsor",
+"title": "119th H.R.859 Informing Consumers about Smart Devices Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/859",
+"quote": null,
+"date": "2025-01-31",
+"what_it_shows": "Would require disclosure when a smart device contains a hidden camera or microphone."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (Mar 13 2024): H.R.7521 TikTok divestiture bill, Moulton voted Yea (he was also a cosponsor)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"quote": null,
+"date": "2024-03-13",
+"what_it_shows": "He voted to force TikTok's Chinese owner to sell or face a ban."
+},
+{
+"type": "statement",
+"title": "Press release: Moulton, Congressional Antitrust Caucus lead letter to FTC on corporate consolidation",
+"url": "https://moulton.house.gov/news/press-releases/moulton-congressional-antitrust-caucus-lead-letter-ftc-requesting-information",
+"quote": null,
+"date": "2018-06-04",
+"what_it_shows": "As a founding member of the Congressional Antitrust Caucus he asked the FTC to review how consolidation hurts workers, consumers and small businesses."
+}
+]
+},
+"preemption": {
+"score": -1,
+"confidence": "medium",
+"summary": "In a July 2026 interview Moulton said states should be allowed to adopt their own AI rules while Congress writes broader federal standards. He did not sign the two Nov and Dec 2025 House Democratic letters opposing a state AI law moratorium, and no direct quote on preemption was found.",
+"evidence": [
+{
+"type": "interview",
+"title": "Brookline.News joint interview: Moulton on state versus federal AI regulation (reporter's summary)",
+"url": "https://brookline.news/interview-senate-candidate-seth-moulton-makes-his-case-for-unseating-ed-markey/",
+"quote": "Moulton said he supports allowing states to adopt their own AI regulations while Congress develops broader federal standards.",
+"date": "2026-07-14",
+"what_it_shows": "A reporter's paraphrase, not his own words, but it places him against blocking state AI laws before federal rules exist."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Moulton sits on the House China Select Committee and has cosponsored bills to block the most powerful chips from going to China and to remove DeepSeek from government devices, and he says ceding AI leadership to China would be dangerous. No statement on the Nvidia H20 or H200 sales was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "119th H.R.5022 No Advanced Chips for the CCP Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5022",
+"quote": null,
+"date": "2025-10-21",
+"what_it_shows": "Would block the most powerful AI chips from being sold to China."
+},
+{
+"type": "cosponsor",
+"title": "119th H.R.1121 No DeepSeek on Government Devices Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"quote": null,
+"date": "2025-02-07",
+"what_it_shows": "Would remove the Chinese AI app DeepSeek from federal devices."
+},
+{
+"type": "interview",
+"title": "Tufts Daily interview: Moulton on AI competition with China",
+"url": "https://www.tuftsdaily.com/article/2026/03/seth-moulton-discusses-senate-campaign-with-the-daily",
+"quote": "to basically cede leadership on AI to China would be incredibly dangerous to the United States of America",
+"date": "2026-03-06",
+"what_it_shows": "He treats the AI race with China as a national security matter."
+}
+]
+}
+},
+"signature": "Lost the Sept 1 2026 Senate primary to Markey after making generational leadership on AI regulation a campaign theme; a New Democrat who says America must lead on AI but wants tight restrictions on data centers and AI companies.",
+"notable_quote": {
+"text": "With all due respect, Senator, if you don't even know what you're using on your phone or your iPad, like this is why we need a new generation of leaders to regulate these technologies",
+"url": "https://www.wcvb.com/article/moulton-markey-debate-ai-trans-athletes/73497961",
+"date": "2026-08-20"
+},
+"groups": [
+"New Democrat Coalition (member; signed its March 2026 data center letter)",
+"Congressional Antitrust Caucus (founding member)",
+"Congressional Artificial Intelligence Caucus (member per first-pass landscape research; membership page could not be reached to verify)"
+],
+"search_notes": "Ran about 16 Google News queries (AI, data centers, chatbot/deepfake/Big Tech, Nvidia/chips/DeepSeek, preemption/moratorium, campaign AI plan, defense AI donors, debates) and archived listings of moulton.house.gov and sethmoulton.com. Opened and quoted the Tufts Daily (Mar 6 2026), Brookline.News (Jul 14 2026), WCVB (Aug 20 2026) and New Bedford Light (Aug 21 2026) pieces. Confirmed his signature on the Mullin FERC letter (Beyer release) and, by extracting the PDF text, on the New Dem data center letter; confirmed he is NOT on the Matsui, Clarke or Casar letters. Verified TikTok (Yea) and SPEED Act (Nay) votes on govtrack; verified he is an original cosponsor of the Energy Bills Relief Act (H.R.7977) but could not confirm that bill addresses data centers, so it is not used. Could not open his campaign AI policy page (sethmoulton.com/issue/ai-policy, Cloudflare block; Wayback unreachable), the CNBC Aug 27 2026 story 'AI bursts to the front of Massachusetts Democratic Senate primary', or the Sept 1 2026 techtimes piece on defense AI donations versus Anthropic money, because Google News URL decoding was rate limited; no AI super PAC evidence was therefore recorded."
+},
+{
+"bioguide": "P000617",
+"name": "Ayanna Pressley",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "In July 2026 she joined Reps. Ocasio-Cortez and Summer Lee on a 'Toxic Tour' of South Memphis that stopped at Elon Musk's xAI Colossus data center, where the group held a press event calling for oversight, and she voted against the GOP SPEED Act permitting bill. No detailed data center statement in her own words was found.",
+"evidence": [
+{
+"type": "other",
+"title": "MLK50 coverage: Pressley joins 'Toxic Tour' of Southwest Memphis including xAI's Colossus 1 data center",
+"url": "https://mlk50.com/2026/07/20/top-democrats-stump-for-pearson-at-memphis-rally/",
+"quote": "Gas turbines are seen during a press conference in front of xAI’s data center after a toxic tour through Southwest Memphis.",
+"date": "2026-07-17",
+"what_it_shows": "She toured pollution sites around the xAI data center with residents and appeared at a press conference there, aligning with critics of the project."
+},
+{
+"type": "vote",
+"title": "House roll call 356 (Dec 18 2025): H.R.4776 SPEED Act permitting reform, Pressley voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"date": "2025-12-18",
+"what_it_shows": "She voted against the Republican permitting bill that supporters said would speed energy and data center projects."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "high",
+"summary": "Pressley wants binding rules now. She co-leads the AI Civil Rights Act, which would ban discriminatory AI and require testing before and after deployment, backs the Algorithmic Accountability Act, and has long pushed a moratorium on government facial recognition. She frames unregulated AI as corporations experimenting on the public, especially Black and marginalized communities.",
+"evidence": [
+{
+"type": "hearing",
+"title": "House Oversight hearing remarks: Pressley emphasizes need to regulate AI",
+"url": "https://pressley.house.gov/2025/06/05/in-hearing-pressley-emphasizes-need-to-regulate-ai-prevent-exploitation-of-black-and-marginalized-communities",
+"quote": "they’re offering the American people up as guinea pigs for corporations to conduct AI experiments with no oversight, no regulation, and no enforcement.",
+"date": "2025-06-05",
+"what_it_shows": "She attacked the lack of AI oversight and called for regulation, accountability and civil rights enforcement over AI."
+},
+{
+"type": "statement",
+"title": "Press release: Pressley, Clarke, Markey reintroduce the AI Civil Rights Act",
+"url": "https://pressley.house.gov/2025/12/03/pressley-clarke-markey-reintroduce-ai-civil-rights-act-to-eliminate-ai-discrimination",
+"quote": "We cannot allow AI to be the latest chapter in America’s history of exploiting marginalized people.",
+"date": "2025-12-03",
+"what_it_shows": "She is a House co-lead of a comprehensive bill banning discriminatory AI and mandating pre- and post-deployment testing."
+},
+{
+"type": "hearing",
+"title": "House Financial Services hearing remarks: Pressley calls for new civil rights protections in the age of AI",
+"url": "https://pressley.house.gov/2025/12/11/video-pressley-calls-for-new-civil-rights-protections-in-the-age-of-ai",
+"quote": "We must not allow AI innovation without AI protections.",
+"date": "2025-12-10",
+"what_it_shows": "She pressed witnesses to agree AI that discriminates should be prohibited and that algorithms should be assessed before use on the public."
+},
+{
+"type": "cosponsor",
+"title": "119th H.R.5511 Algorithmic Accountability Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"quote": null,
+"date": "2025-10-06",
+"what_it_shows": "Would make companies test automated decision systems for bias and harm and report to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "119th H.R.6356 Artificial Intelligence Civil Rights Act of 2025 (cosponsor and House co-lead)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"quote": null,
+"date": "2025-12-02",
+"what_it_shows": "Would ban AI discrimination and require companies to check their AI before and after deployment."
+},
+{
+"type": "cosponsor",
+"title": "119th H.R.3060 No Biometric Barriers to Housing Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3060",
+"quote": null,
+"date": "2025-04-29",
+"what_it_shows": "Would ban facial recognition in government-supported housing, a bill she has championed since 2019."
+},
+{
+"type": "statement",
+"title": "Press release: Pressley, Jayapal, Markey, Merkley reintroduce the Facial Recognition and Biometric Technology Moratorium Act",
+"url": "https://pressley.house.gov/2023/03/07/pressley-jayapal-markey-merkley-lead-colleagues-on-bill-to-ban-government-use-of-facial-recognition-and-other-biometric-technology",
+"quote": "Facial recognition technology is fundamentally flawed, systemically biased, and disproportionately targets Black and brown communities that are already over-surveilled and overpoliced",
+"date": "2023-03-07",
+"what_it_shows": "She wants a pause on federal use of facial recognition and other biometric AI until Congress acts."
+},
+{
+"type": "letter",
+"title": "Letter from Reps. Pressley and Waters urging HUD to prohibit biased surveillance technology in federally assisted housing",
+"url": "https://pressley.house.gov/2023/05/26/pressley-waters-urge-hud-to-prohibit-use-of-racially-biased-surveillance-technology-in-federally-assisted-housing",
+"quote": "your agency must act in this critical moment to ensure public housing and HUD-assisted housing residents are not targeted by these discriminatory surveillance systems",
+"date": "2023-05-26",
+"what_it_shows": "She pressed a federal agency to stop using facial recognition on public housing residents."
+},
+{
+"type": "hearing",
+"title": "House Oversight subcommittee remarks: Pressley calls for Congress to address AI risks to marginalized communities",
+"url": "https://pressley.house.gov/2024/03/21/pressley-calls-for-congress-to-address-risks-of-artificial-intelligence-on-marginalized-communities",
+"quote": "Congress has been slow to act, forcing the Biden-Harris Administration to take executive action to enforce standards and guardrails.",
+"date": "2024-03-21",
+"what_it_shows": "She defended the Biden AI executive order against overreach claims and urged Congress to legislate against biased algorithms."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Pressley voted against the 2024 TikTok bill because she wants comprehensive data privacy rules for all social media companies rather than a ban on one app, and she has backed reproductive data privacy and raised alarms about deepfake pornography harming girls. She has not led on antitrust or Section 230.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Pressley's statement opposing bill to ban TikTok",
+"url": "https://pressley.house.gov/2024/03/13/pressleys-statement-opposing-bill-to-ban-tiktok",
+"quote": "Congress should pass comprehensive data privacy legislation that creates standards and regulations around data harvesting across all social media companies",
+"date": "2024-03-13",
+"what_it_shows": "She opposed singling out TikTok and called for a holistic approach to regulating big tech and protecting data privacy."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (Mar 13 2024): H.R.7521 TikTok divestiture bill, Pressley voted Nay",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"quote": null,
+"date": "2024-03-13",
+"what_it_shows": "She was one of the Democrats voting against forcing TikTok's sale, citing First Amendment and process concerns in her statement."
+},
+{
+"type": "hearing",
+"title": "House Oversight hearing remarks: Pressley on non-consensual deepfake pornography and childhood trauma",
+"url": "https://pressley.house.gov/2024/03/12/pressley-highlights-impact-of-non-consensual-deepfake-pornography-on-childhood-trauma-crisis",
+"quote": "And as this report makes plain and this hearing has confirmed, our girls are being traumatized.",
+"date": "2024-03-12",
+"what_it_shows": "She treats AI deepfake pornography as a child safety harm that needs a government response."
+},
+{
+"type": "cosponsor",
+"title": "118th H.R.3420 My Body, My Data Act of 2023 (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"quote": null,
+"date": "2023-05-17",
+"what_it_shows": "Would stop apps and companies from collecting or sharing reproductive health data without a good reason."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Pressley attacked the House GOP's 10-year ban on state AI laws in a June 2025 hearing, entering a Massachusetts legislature letter on its dangers into the record, and she signed the Nov 26 2025 letter from 81 House Democrats opposing any revival of the moratorium in the NDAA or by executive order.",
+"evidence": [
+{
+"type": "hearing",
+"title": "House Oversight hearing remarks: Pressley criticizes the reconciliation bill's 10-year ban on state AI regulation",
+"url": "https://pressley.house.gov/2025/06/05/in-hearing-pressley-emphasizes-need-to-regulate-ai-prevent-exploitation-of-black-and-marginalized-communities",
+"quote": "Just two weeks ago, Republicans passed a reconciliation bill that would ban all states from regulating AI for 10 years.",
+"date": "2025-06-05",
+"what_it_shows": "She condemned the state AI law moratorium and entered a Massachusetts Joint Committee letter detailing its dangers into the record."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats to Johnson, Thune, Jeffries and Schumer opposing an AI moratorium in the NDAA and a preemption executive order (Pressley signed)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"date": "2025-11-26",
+"what_it_shows": "She is a confirmed signer (checked in the PDF text) of the main House Democratic letter defending states' ability to regulate AI."
 }
 ]
 },
 "china_chips": {
 "score": null,
 "confidence": "none",
-"summary": "No statements found on chip export controls or Nvidia sales to China. Her record has no chip export bills.",
+"summary": "Searched for statements on Nvidia chip sales, export controls, DeepSeek and the Chip Security Act and found nothing. Her only China-related tech vote was against the 2024 TikTok bill, which she called the wrong approach.",
 "evidence": []
 }
 },
-"search_notes": "Ran 12 Google News searches (AI, FRONTIER Act, preemption, data centers, WETA, chips, PACs/ads, Politico interview, WBUR, CBS) plus trahan.house.gov press list. Opened: GAAIA release, WBUR interview, CNBC Sept 11 story, Roll Call Jun 4 and Jun 10, Lowell Sun Aug 3 and Aug 21, Castor letter, New Republic Sept 9 and 11 pieces, press list. Blocked or unresolved: Politico May 26 and Sept 8 interviews, Washington Post June 1 item on AI ad campaigns against her, Quiver item on data center energy cost bills, WETA Act (H.R.9690) and Energy Bills Relief Act cosponsorship leads, Matsui letter PDF, techpolicy.press June roundup on the Anthropic model export-control letter. No AI super PAC support or attack was confirmed."
-},
-{
-"bioguide": "A000148",
-"name": "Jake Auchincloss",
-"signature": "Pro-innovation Democrat who wants to run faster than China on AI while piercing Section 230 for bots and deepfakes, taxing Big Tech ad revenue and co-chairing the Kids Online Safety Caucus.",
+"signature": "House co-lead of the AI Civil Rights Act and longtime sponsor of a federal facial recognition moratorium; treats AI regulation as a civil rights fight for Black and marginalized communities and attacked the GOP's 10-year ban on state AI laws.",
 "notable_quote": {
-"text": "AI shouldn't have special privileges & immunities that journalists don't get",
-"url": "https://auchincloss.house.gov/media/press-releases/auchincloss-maloy-introduce-bipartisan-bill-on-section-230-liability-shield",
-"date": "2025-12-01"
+"text": "they’re offering the American people up as guinea pigs for corporations to conduct AI experiments with no oversight, no regulation, and no enforcement.",
+"url": "https://pressley.house.gov/2025/06/05/in-hearing-pressley-emphasizes-need-to-regulate-ai-prevent-exploitation-of-black-and-marginalized-communities",
+"date": "2025-06-05"
 },
 "groups": [
-"Bipartisan Kids Online Safety Caucus, Co-Chair"
+"House Financial Services Committee Bipartisan Working Group on Artificial Intelligence (118th Congress, member; confirmed in her Mar 21 2024 hearing remarks)"
 ],
-"positions": {
-"data_centers": {
-"score": 1,
-"confidence": "low",
-"summary": "Auchincloss pushes energy abundance and permitting reform, including a bipartisan geothermal bill, and was reported in Feb 2026 to favor letting hyperscalers build their own power behind the meter with union labor. Only the indirect energy evidence could be opened, so confidence is low.",
-"evidence": [
-{
-"type": "statement",
-"title": "Press release: Auchincloss and Amodei introduce the Hot Rock Act on superhot rock geothermal",
-"url": "https://auchincloss.house.gov/media/press-releases/release-reps-auchincloss-and-amodei-introduce-the-hot-rock-act-to-unleash-next-generation-geothermal-energy",
-"date": "2026-02-13",
-"quote": "Clean, abundant energy is the most important industrial policy the United States can pursue.",
-"what_it_shows": "He frames abundant clean power and geothermal permitting reform as top priorities; his cosponsor ties the bill to meeting data center demand."
-}
-]
-},
-"ai_risk": {
-"score": 0,
-"confidence": "medium",
-"summary": "Mixed. Auchincloss says the US wins on AI by running faster than China and wants industry-specific rather than blanket guardrails, yet he sponsors a deepfake liability bill and cosponsors bills on AI warnings and voluntary model labels. He said in 2023 that AI cannot become social media 2.0.",
-"evidence": [
-{
-"type": "interview",
-"title": "American Bazaar: Auchincloss on AI regulation, 'Regulating AI Podcast'",
-"url": "https://americanbazaaronline.com/2025/04/09/congressman-jake-auchincloss-on-ai-regulation-win-by-running-faster-than-china/",
-"date": "2025-04-09",
-"quote": "I strongly believe that the path forward for sound guard rails for AI is going to be industry specific",
-"what_it_shows": "He rejects a blanket approach to AI regulation in favor of sector-by-sector rules."
-},
-{
-"type": "sponsor",
-"title": "H.R.6334 Deepfake Liability Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/6334",
-"date": "2025-12-01",
-"quote": null,
-"what_it_shows": "Would let people sue over harmful AI deepfakes and remove Section 230 cover for AI-generated content."
-},
-{
-"type": "cosponsor",
-"title": "H.R.5360 AWARE Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/5360",
-"date": "2025-09-15",
-"quote": null,
-"what_it_shows": "Supports government public warnings about AI risks."
-},
-{
-"type": "cosponsor",
-"title": "H.R.6461 READ AI Models Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/6461",
-"date": "2026-05-07",
-"quote": null,
-"what_it_shows": "Backs a voluntary NIST label for AI models rather than mandates."
-},
-{
-"type": "cosponsor",
-"title": "H.R.3562 DEFIANCE Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
-"date": "2026-01-22",
-"quote": null,
-"what_it_shows": "Supports a right to sue over nonconsensual AI sexual images."
-},
-{
-"type": "interview",
-"title": "WCVB 'On the Record': AI cannot become social media 2.0, Auchincloss says",
-"url": "https://auchincloss.house.gov/media/in-the-news/otr-ai-cannot-become-social-media-20-massachusetts-congressman-says",
-"date": "2023-08-20",
-"quote": null,
-"what_it_shows": "He argued society cannot wait 15 years to grapple with AI's hard questions, as it did with social media."
-}
-]
-},
-"tech_regulation": {
-"score": -2,
-"confidence": "medium",
-"summary": "Auchincloss wants to pierce Section 230 with a duty of care, impose a 50 percent excise tax on Big Tech digital ad revenue above $2.5 billion, and pass a federal age assurance law holding apps liable. He backed the TikTok divestiture and called a GOP kids package a Meta markup.",
-"evidence": [
-{
-"type": "statement",
-"title": "Press release: Auchincloss, Maloy introduce Deepfake Liability Act carving bots and deepfakes out of Section 230",
-"url": "https://auchincloss.house.gov/media/press-releases/auchincloss-maloy-introduce-bipartisan-bill-on-section-230-liability-shield",
-"date": "2025-12-01",
-"quote": "Using bots or deepfakes to violate or stalk another person is reprehensible, and it needs to be a CEO-level problem for the trillion-dollar social media corporations that platform it.",
-"what_it_shows": "Conditions Section 230 protection on a duty of care and excludes AI-generated content from the shield."
-},
-{
-"type": "statement",
-"title": "Press release: Auchincloss introduces the Education Not Endless Scrolling Act digital ad tax on Big Tech",
-"url": "https://auchincloss.house.gov/media/press-releases/release-auchincloss-introduces-the-education-not-endless-scrolling-act-to-impose-a-digital-ad-tax-on-big-tech-to-fund-trades-education-and-promote-one-on-one-tutoring",
-"date": "2025-12-01",
-"quote": "Americans have a choice: allow tech titans to exploit our economy and epistemology, or tax their trillions to invest in jobs and journalism",
-"what_it_shows": "Proposes a 50 percent excise tax on digital ad revenue above $2.5 billion."
-},
-{
-"type": "statement",
-"title": "Joint statement of Kids Online Safety Caucus co-chairs Auchincloss and Houchin on the Meta and YouTube trial verdict",
-"url": "https://auchincloss.house.gov/media/press-releases/release-joint-statement-from-bipartisan-kids-online-safety-caucus-co-chairs-reps-jake-auchincloss-and-erin-houchin-on-the-meta-youtube-social-media-trial-verdict",
-"date": "2026-03-25",
-"quote": "Lawmakers must come together in a bipartisan effort to pass a federal age assurance law that raises the age of Internet adulthood to at least 16 years old and holds apps liable for adhering to it.",
-"what_it_shows": "Wants binding age rules with platform liability, saying platforms hide behind bad-faith Section 230 defenses."
-},
-{
-"type": "statement",
-"title": "TechPolicy.Press: House GOP moves ahead with kids online safety package as Democrats balk",
-"url": "https://www.techpolicy.press/house-gop-moves-ahead-with-kids-online-safety-package-as-democrats-balk/",
-"date": "2026-03-05",
-"quote": "false flag operation by Meta",
-"what_it_shows": "He opposed the App Store Accountability Act as a handout to Meta and called the session a Meta markup."
-},
-{
-"type": "op_ed",
-"title": "Boston Globe op-ed: TikTok is propaganda for our adversary",
-"url": "https://auchincloss.house.gov/media/in-the-news/tiktok-is-propaganda-for-our-adversary",
-"date": "2024-03-21",
-"quote": "pierce Section 230, the 1990s law that shields social media platforms from liability for user-generated content, and demand a duty of care from these corporations.",
-"what_it_shows": "Longstanding goal of narrowing Section 230 and imposing a duty of care."
-},
-{
-"type": "cosponsor",
-"title": "H.R.7521 Protecting Americans from Foreign Adversary Controlled Applications Act",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
-"date": "2024-03-05",
-"quote": null,
-"what_it_shows": "Backed forcing TikTok's sale or ban."
-}
-]
-},
-"preemption": {
-"score": -2,
-"confidence": "medium",
-"summary": "Auchincloss cosponsors the GUARDRAILS Act protecting state AI laws and signed the Clarke letter saying any preemption in the defense bill would put Americans at risk. No personal statement on the issue was found.",
-"evidence": [
-{
-"type": "cosponsor",
-"title": "H.R.8031 GUARDRAILS Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
-"date": "2026-03-20",
-"quote": null,
-"what_it_shows": "Would stop the federal government from wiping out state AI laws."
-},
-{
-"type": "letter",
-"title": "Clarke-led letter of 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Auchincloss signed)",
-"url": "https://clarke.house.gov/?p=102767",
-"date": "2025-12-03",
-"quote": "Any kind of preemption would cause a slew of unintended consequences putting all Americans at risk online",
-"what_it_shows": "He opposed reviving the state AI-law moratorium in the defense bill."
-}
-]
-},
-"china_chips": {
-"score": 1,
-"confidence": "low",
-"summary": "Auchincloss says the US will not win by playing keep away from China on AI but by running faster, which leans against a denial strategy. No direct statement on Nvidia chip sales or export controls was found, so this rests on one interview line.",
-"evidence": [
-{
-"type": "interview",
-"title": "American Bazaar: Auchincloss on AI regulation, 'Regulating AI Podcast'",
-"url": "https://americanbazaaronline.com/2025/04/09/congressman-jake-auchincloss-on-ai-regulation-win-by-running-faster-than-china/",
-"date": "2025-04-09",
-"quote": "Ultimately the United States is not going to win by trying to play keep away from China; we're going to win by running faster than China",
-"what_it_shows": "Skeptical of a strategy built on denying China access; he sits on the China select committee but did not address chip export rules directly."
-}
-]
-}
-},
-"search_notes": "Ran 11 Google News searches (AI, data center/behind the meter, Section 230/Meta/Big Tech, preemption, chips/export controls, Poulos debate, China remark, WaPo Live) plus an auchincloss.house.gov archive listing. Opened: Deepfake Liability Act release, Education Not Endless Scrolling release, Kids Online Safety Caucus statement, Hot Rock Act release, TechPolicy.Press markup story, American Bazaar interview, Boston Globe TikTok op-ed, Castor Meta letter, Clarke letter, NOTUS AI-use story. Could not open: Nextgov Feb 25 2026 permitting reform story with his 'behind the meter' quote, Washington Post Live Feb 26 transcript, Fall River Herald News Aug 28 debate story (403 and Wayback unreachable). Congressional AI Caucus membership lead not verified and omitted. No AI super PAC support or attack found; a crypto PAC affiliate spent in his primary."
+"search_notes": "Ran about 14 Google News queries (AI, data centers, chatbot/deepfake/Big Tech/TikTok, facial recognition/algorithms, Nvidia/export controls, moratorium/preemption/executive order, KOSA, Memphis xAI, Leading the Future, Financial Services AI hearings, utility bills) plus a full archived listing of pressley.house.gov. Opened and quoted six of her own press releases and hearing transcripts (Jun 5 2025, Dec 3 2025, Dec 11 2025, Mar 21 2024, Mar 13 2024, Mar 12 2024, Mar 7 2023, May 26 2023). Extracted the Matsui letter PDF text and confirmed her signature; confirmed she is NOT on the Clarke Dec 3 2025 NDAA letter or the Casar Aug 2026 AI CEO letter. Verified TikTok (Nay) and SPEED Act (Nay) votes on govtrack. For the July 2026 Memphis xAI visit, the localmemphis.com, WREG and Politico pages returned 403 errors, so the MLK50 story is the only opened source and no direct Pressley quote on data centers was captured; the data center score is therefore low confidence. She is also an original cosponsor of the Energy Bills Relief Act (H.R.7977), but the bill's data center content could not be confirmed, so it was not used. She sits on the Financial Services subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence as a member, not in a leadership role."
 }
 ]

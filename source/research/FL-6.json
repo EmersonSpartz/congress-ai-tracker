@@ -1,0 +1,614 @@
+[
+{
+"bioguide": "D000032",
+"name": "Byron Donalds",
+"signature": "GOP nominee for Florida governor who sponsors a bill forcing data centers off the public grid, says states rather than Washington should lead on AI rules, and is backed by a $5 million Leading the Future pledge.",
+"notable_quote": {
+"text": "I think that the states do need to lead when it comes to setting a regulatory framework.",
+"url": "https://www.latintimes.com/trumps-pick-florida-governor-byron-donalds-breaks-him-ai-state-sues-openai-597693",
+"date": "2026-06-02"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (House, 119th Congress), member (listed in the landscape pass; not independently confirmed at a URL)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Donalds wants Florida to keep building AI data centers and dismisses moratoriums and bans as homework not done, but he pairs that with ratepayer protections: his own bill would make every data center supply its own power and water, and he says he would keep Florida's law letting local governments approve or reject projects.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 9777, Protecting Ratepayers Act (sponsor; introduced July 20, 2026; no cosponsors)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9777",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "His bill would require new and existing data centers to use off-grid power and water and would write Trump's Ratepayer Protection Pledge into law."
+},
+{
+"type": "statement",
+"title": "Press release: Donalds Introduces the Protecting Ratepayers Act",
+"url": "https://donalds.house.gov/news/documentsingle.aspx?DocumentID=2635",
+"date": "2026-07-20",
+"quote": "Our outdated energy grid is already in desperate need of modernization and is not prepared to take on the power demands of data centers without impacting the wallets of our citizens.",
+"what_it_shows": "He frames the bill as protecting household bills while, in his words, not stifling economic growth."
+},
+{
+"type": "interview",
+"title": "WJCT/WUSF interview: Donalds discusses campaign finance, data centers and more",
+"url": "https://www.wusf.org/politics-issues/2026-08-04/rep-byron-donalds-discusses-campaign-finance-data-centers-the-environment-and-more",
+"date": "2026-08-04",
+"quote": "What I hear too often from other people on the campaign trail is we're going to do moratoriums or we're going to do bans. What that means is they haven't sat down and done their homework.",
+"what_it_shows": "He rejects data center moratoriums and bans, and argues Florida's regulated-utility system and the new state law (SB 484) already stop bills from rising because of hyperscale data centers."
+},
+{
+"type": "statement",
+"title": "WESH: Donalds speaks at UCF Turning Point USA chapter",
+"url": "https://www.wesh.com/article/byron-donalds-ucf-turning-point-usa-charlie-kirk/73674120",
+"date": "2026-09-10",
+"quote": "What the law does, it keeps local governments with the final approval whether a data center will be built",
+"what_it_shows": "He says he would keep the state law giving local governments final say on data center siting."
+},
+{
+"type": "statement",
+"title": "Orlando Sentinel: Byron Donalds doubles down on AI data centers at UCF Turning Point event",
+"url": "https://www.orlandosentinel.com/2026/09/10/byron-donalds-doubles-down-on-ai-data-centers-at-ucf-turning-point-event/",
+"date": "2026-09-11",
+"quote": "cannot allow the utility rates to go up because of a hyperscale data center",
+"what_it_shows": "He reiterated support for building AI infrastructure and data centers, pointed to the Public Service Commission as the ratepayer safeguard, and said industry money has no bearing on his decisions."
+},
+{
+"type": "vote",
+"title": "House roll call 356: SPEED Act (H.R. 4776) permitting reform, voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for a permitting-reform bill that Democrats largely opposed, a build-faster signal that is not data-center specific."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Donalds talks up AI as a force multiplier and is heavily backed by the pro-industry AI super PAC, yet he also says some regulation is needed: he endorses Gov. DeSantis's state AI Bill of Rights, wants kids protected, and calls removing humans from the loop the danger zone. Mixed, leaning toward targeted guardrails.",
+"evidence": [
+{
+"type": "statement",
+"title": "Orlando Sentinel: Donalds on AI risk at UCF event, the day after an Anthropic engineer's public warning",
+"url": "https://www.orlandosentinel.com/2026/09/10/byron-donalds-doubles-down-on-ai-data-centers-at-ucf-turning-point-event/",
+"date": "2026-09-11",
+"quote": "If you take human beings out of the loop, I think that's the danger zone that the former Anthropic employee is talking about",
+"what_it_shows": "He acknowledged AI danger, said a couple of regulatory things need to happen, praised DeSantis's AI Bill of Rights and said young kids must be protected."
+},
+{
+"type": "statement",
+"title": "The Hill technology newsletter: Florida GOP ramps up AI crackdown as DeSantis exits",
+"url": "https://thehill.com/newsletters/technology/5908773-florida-gop-ramps-up-ai-crackdown-as-desantis-exits/",
+"date": "2026-06-03",
+"quote": null,
+"what_it_shows": "Reported alongside Florida's first-in-the-nation lawsuit against OpenAI, the piece places Donalds among Florida Republicans promising more AI rules, including on chatbots, while he split from Trump on preemption."
+},
+{
+"type": "pac",
+"title": "NBC News: Leading the Future pledges $5 million to boost Donalds' run for governor",
+"url": "https://www.nbcnews.com/politics/2026-election/super-pac-backed-ai-titans-pledges-5-million-boost-byron-donalds-run-f-rcna258612",
+"date": "2026-02-12",
+"quote": "Byron believes we should be a standard-bearer for responsible innovation while also protecting Floridians.",
+"what_it_shows": "The OpenAI- and Andreessen-funded super PAC chose his race as its first state-level bet; the quote is from his chief strategist Ryan Smith, not Donalds himself."
+},
+{
+"type": "pac",
+"title": "Campaign Legal Center FEC complaint on AI super PAC subvendor payments (May 2026)",
+"url": "https://www.campaignlegal.org/sites/default/files/2026-05/AISubvendorComplaintFinal%20(1).pdf",
+"date": "2026-05",
+"quote": "a Florida state PAC \"funded entirely by Leading the Future,\" which has supported Republican candidate Rep. Byron Donalds in the 2026 Florida gubernatorial election",
+"what_it_shows": "Documents that American Mission Florida, a Leading the Future vehicle, spent for Donalds in the governor's race."
+},
+{
+"type": "pac",
+"title": "Public First Action launches $15 million Conservative AI Consensus Project",
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"date": "2026-07-17",
+"quote": "featuring four Republican members of Congress who have led the fight to keep America's most advanced technology out of the hands of our adversaries and to hold AI companies accountable to the people they serve",
+"what_it_shows": "The Anthropic-backed safety-side group featured Donalds in its ads at the same time the pro-industry PAC was funding him, so both AI camps are promoting him."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Thin record: he cosponsored a 2023 bill making online companies report child abuse material more fully, voted to force TikTok's sale, and says kids must be protected online. He missed the June 2026 KIDS Act vote.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 5182 (118th), Child Online Safety Modernization Act of 2023 (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2023-08-08",
+"quote": null,
+"what_it_shows": "Supports stronger reporting duties on online companies for child abuse material."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (2024): Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divestment), voted Yea",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "Backed forcing TikTok's Chinese owner to divest."
+},
+{
+"type": "statement",
+"title": "Orlando Sentinel: Donalds at UCF on AI regulation",
+"url": "https://www.orlandosentinel.com/2026/09/10/byron-donalds-doubles-down-on-ai-data-centers-at-ucf-turning-point-event/",
+"date": "2026-09-11",
+"quote": "We also want to make sure young kids are protected.",
+"what_it_shows": "Names child protection as one of the regulatory steps he thinks is needed."
+},
+{
+"type": "vote",
+"title": "House roll call 228 (2026): KIDS Act (H.R. 7757), recorded as No Vote",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He did not vote on the House kids online safety package while campaigning for governor."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Donalds publicly broke with Trump on AI preemption in June 2026, saying states need to lead in setting the regulatory framework because Congress moves too slowly; he also backs DeSantis's state AI Bill of Rights. He called it a slight disagreement, and his main super PAC backer favors a national standard.",
+"evidence": [
+{
+"type": "statement",
+"title": "Latin Times (citing Miami Herald): Donalds breaks with Trump on AI as Florida sues OpenAI",
+"url": "https://www.latintimes.com/trumps-pick-florida-governor-byron-donalds-breaks-him-ai-state-sues-openai-597693",
+"date": "2026-06-02",
+"quote": "I think that the states do need to lead when it comes to setting a regulatory framework.",
+"what_it_shows": "He said states should lead on AI rules, directly at odds with Trump's December 2025 executive order targeting state AI laws; he also said it is too difficult to get good policy through Congress."
+},
+{
+"type": "statement",
+"title": "The Hill technology newsletter: Florida GOP ramps up AI crackdown as DeSantis exits",
+"url": "https://thehill.com/newsletters/technology/5908773-florida-gop-ramps-up-ai-crackdown-as-desantis-exits/",
+"date": "2026-06-03",
+"quote": "Rep. Byron Donalds (Fla.), the GOP gubernatorial frontrunner, told reporters he disagrees with President Trump on AI federal preemption",
+"what_it_shows": "Reporter's summary confirming he opposes federal preemption of state AI regulation."
+},
+{
+"type": "statement",
+"title": "Orlando Sentinel: Donalds praises DeSantis's AI Bill of Rights at UCF event",
+"url": "https://www.orlandosentinel.com/2026/09/10/byron-donalds-doubles-down-on-ai-data-centers-at-ucf-turning-point-event/",
+"date": "2026-09-11",
+"quote": null,
+"what_it_shows": "He said the governor's state-level AI Bill of Rights is important, again endorsing state action on AI."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China as of Sept 2026. Searches for Donalds with Nvidia, export controls and chips turned up only a Florida Politics headline about Chinese disinformation driving AI backlash, which could not be opened, and a Public First Action ad claim about keeping technology from adversaries.",
+"evidence": []
+}
+},
+"search_notes": "Searched Google News for Donalds with data center, artificial intelligence, Big Tech/Section 230/chatbot, AI regulation/preemption/moratorium, OpenAI/AI Bill of Rights, Nvidia/export controls, superintelligence/AI safety, kids/chatbot; Brave searches for the UCF event and the Trump AI split. Opened: Donalds press release (H.R. 9777), FL Voice News, WUSF/WJCT interview transcript, Orlando Sentinel (plus Yahoo copy), WESH, Hoodline, Latin Times, The Hill newsletter, NBC News, Public First Action, CLC complaint PDF, govtrack (H.R. 9777, SPEED Act, TikTok, KIDS Act votes). Blocked or unreadable: Florida Politics (403; several relevant headlines: data center dollars, 'no bans coming', respect local bans, Chinese disinformation, AI Bill of Rights), Miami Herald (timeout), Politico (403), Tampa Bay Times (paywall), Washington Examiner article on the Trump split. Google News link decoding hit a captcha and Wayback returned 429, so some headlines are cited only in this note. AI Caucus membership comes from the landscape file and was not confirmed at a URL."
+},
+{
+"bioguide": "M001199",
+"name": "Brian J. Mast",
+"signature": "House Foreign Affairs chairman and Congress's most visible China chip hawk: author of the AI Overwatch Act, driver of the Chip Security and MATCH Acts, and a blunt public critic of Nvidia's H200 sales to China.",
+"notable_quote": {
+"text": "We are in an AI arms race, and it's important that we know where the AI arms dealers are selling",
+"url": "https://www.cnbc.com/2026/02/26/congress-pushes-back-on-nvidia-white-house-with-chip-export-limits.html",
+"date": "2026-02-26"
+},
+"groups": [
+"Chairman, House Committee on Foreign Affairs (119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "No statement on data centers or electric bills found. The only signal is his vote for the SPEED Act permitting-reform bill, which is a general build-faster measure rather than a data center position.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: SPEED Act (H.R. 4776) permitting reform, voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Supported faster federal permitting, an indirect pro-build signal; he has not spoken about data centers or ratepayers."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "Mast treats AI almost entirely as a national security arms race with China. No statement found for or against domestic AI safety rules, chatbot limits or liability as of Sept 2026.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "His tech record is about China and kids: he voted to force TikTok's sale, voted for the 2026 KIDS Act package, cosponsored the bill banning new DJI drones, and wrote a bill letting the White House ban sanctioned Chinese officials from US social media while criticizing platforms for censoring conservatives.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 228 (2026): KIDS Act (H.R. 7757) kids online safety package, voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Backed the House Republican kids online safety package, which includes AI chatbot rules."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (2024): TikTok divestment bill (H.R. 7521), voted Yea",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "Supported forcing TikTok's Chinese owner to divest."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 2864 (118th), Countering CCP Drones Act (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2864",
+"date": "2024-04-09",
+"quote": null,
+"what_it_shows": "Backed banning new DJI drones from US airwaves over spying concerns."
+},
+{
+"type": "statement",
+"title": "Mast office page: China Social Media Reciprocity Act",
+"url": "https://mast.house.gov/china-social-media-reciprocity-act",
+"date": null,
+"quote": "I introduced the China Social Media Reciprocity Act, which would provide authority for the White House to ban sanctioned officials and entities of communist China from American social media platforms",
+"what_it_shows": "He wants government power to bar Chinese officials from US platforms and faults the platforms for banning conservative users, a China-and-censorship approach rather than broad Big Tech regulation."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on preempting state AI laws. Public First Action credited a group of 11 House members including Mast with working to keep AI preemption out of the NDAA, but that is a collective PAC claim and no Mast-specific statement, letter or cosponsorship was located.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Mast is a leading voice for tighter AI chip export controls. He wrote the AI Overwatch Act to give Congress an arms-sale style veto over chip exports, moved the Chip Security and MATCH Acts through his committee, co-led a letter urging countrywide allied controls on chipmaking tools, and openly mocked Nvidia's CEO for asking Washington to trust the CCP.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 6875, AI OVERWATCH Act (sponsor; introduced Dec. 18, 2025; reported by Foreign Affairs Jan. 21, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "His bill would let Congress review and block sales of advanced AI chips to China and other risky countries before they happen."
+},
+{
+"type": "statement",
+"title": "Press release: Chairman Mast, HFAC, advances AI Overwatch Act",
+"url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-ai-overwatch-act",
+"date": "2026-01-21",
+"quote": "Companies like Nvidia are requesting to sell millions of advanced AI chips, which are the cutting edge of warfare, to Chinese military companies like Alibaba and Tencent.",
+"what_it_shows": "He casts advanced AI chips as weapons and Nvidia's China customers as military companies; the committee advanced the bill 42-2-1."
+},
+{
+"type": "hearing",
+"title": "Nextgov: Mast opening remarks at House Foreign Affairs hearing on the H200 export rule",
+"url": "https://www.nextgov.com/emerging-tech/2026/01/lawmakers-worry-over-new-rule-will-allow-sales-nvidias-h200-chips-china/410696/",
+"date": "2026-01-14",
+"quote": "Nvidia has made such good chips that if they were sold freely to the [Chinese Communist Party], the CCP would likely overtake us in the AI arms race.",
+"what_it_shows": "He warned against free chip sales to China the day after Commerce formalized H200 sales, though he also pointed to the rule's licensing conditions when Democrats attacked it."
+},
+{
+"type": "interview",
+"title": "CNBC interview: Congress takes on Nvidia, White House in push for chip export limits",
+"url": "https://www.cnbc.com/2026/02/26/congress-pushes-back-on-nvidia-white-house-with-chip-export-limits.html",
+"date": "2026-02-26",
+"quote": "The joke here is, Jensen wants us to trust the CCP",
+"what_it_shows": "He directly attacked Nvidia CEO Jensen Huang and White House AI adviser David Sacks's allies over opposition to his bill, while saying Congress should have a say when chips become weapons."
+},
+{
+"type": "statement",
+"title": "Press release: Chairman Mast, HFAC, advances Chip Security Act",
+"url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-chip-security-act",
+"date": "2026-03-26",
+"quote": "If we're going to export advanced AI chips, we need confidence that they don't end up in the hands of the Chinese military.",
+"what_it_shows": "Backed location verification on exported AI chips to stop smuggling to China."
+},
+{
+"type": "statement",
+"title": "Press release: Chairman Mast, HFAC, advances MATCH Act",
+"url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-match-act",
+"date": "2026-04-22",
+"quote": "Without these tools, China can't make their own chips, and they likely won't be able to for years to come.",
+"what_it_shows": "Supports cutting China off from advanced chipmaking equipment."
+},
+{
+"type": "letter",
+"title": "Moolenaar-Mast bipartisan letter to Secretaries Rubio and Lutnick on chipmaking tool export controls",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+"date": "2026-02-10",
+"quote": "We urge the Administration to press allies to implement countrywide controls on key chokepoint semiconductor manufacturing equipment and subcomponents",
+"what_it_shows": "Co-led an eight-member bipartisan letter asking for countrywide, not entity-specific, allied controls on chipmaking tools."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6349 (118th), Preventing Adversaries from Developing Critical Capabilities Act (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6349",
+"date": "2024-01-17",
+"quote": null,
+"what_it_shows": "Earlier support for blocking US investment in Chinese AI and chip companies."
+},
+{
+"type": "pac",
+"title": "Public First Action Conservative AI Consensus Project lists Mast among 11 House Republicans it is promoting",
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"date": "2026-07-17",
+"quote": "Their records include authorship, sponsorship, and support of the AI OVERWATCH Act, the Chip Security Act, the GAIN AI Act, the MATCH Act, and the ADVERSARIES Act",
+"what_it_shows": "The Anthropic-backed safety-side PAC network highlighted Mast for his export-control record."
+}
+]
+}
+},
+"search_notes": "Searched Google News for Mast with Nvidia/export controls/chips, artificial intelligence, data center/ratepayers, Big Tech/Section 230/kids online/deepfake, AI regulation/preemption/AI safety, Kids Online Safety/App Store/TikTok, NDAA preemption, GAIN AI/Chip Security; listed mast.house.gov via Wayback CDX and fetched the HFAC press release index. Opened: three HFAC press releases (AI Overwatch, Chip Security, MATCH), CNBC interview, Nextgov hearing story, Roll Call AI arms race piece, Moolenaar-Mast letter, Public First Action page, mast.house.gov pages (China Social Media Reciprocity Act, 2023 undersea cable post), govtrack (H.R. 6875 sponsor, SPEED, TikTok and KIDS Act votes, Chip Security cosponsors). Could not open: Axios 'MAGA targets Brian Mast' (403, URL unknown), The Hill Jan 20 article, SCMP May 20 piece, Florida Politics items (403), Ripon Society article. No data center, AI safety or preemption statement located."
+},
+{
+"bioguide": "F000462",
+"name": "Lois Frankel",
+"signature": "Appropriator fighting Medicare's use of AI to approve or deny treatments (the WISeR pilot); otherwise a thin public AI record built on health data privacy bills and a vote for the KIDS Act.",
+"notable_quote": {
+"text": "AI needs to be a tool for the doctor, the doctor should not be a tool for AI, nor should AI be used as a weapon to deny care",
+"url": "https://www.sun-sentinel.com/2026/01/16/south-florida-congresswoman-pushes-back-on-medicare-prior-authorization/",
+"date": "2026-01-16"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "No speeches or statements on data centers found, but she signed onto the Energy Bills Relief Act, which targets data center driven electric bill increases, and voted against the SPEED Act permitting bill. Palm Beach County's Project Tango fight drew no located comment from her.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 7977, Energy Bills Relief Act (cosponsor, joined April 22, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-04-22",
+"quote": null,
+"what_it_shows": "Joined a House Democratic bill aimed at keeping data center power costs off household electric bills."
+},
+{
+"type": "vote",
+"title": "House roll call 356: SPEED Act (H.R. 4776) permitting reform, voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Opposed the Republican permitting-reform bill, an indirect signal against faster build-out."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Frankel's AI focus is a specific guardrail: stopping Medicare from using AI algorithms to deny or delay care. She held a January 2026 press conference against the WISeR prior-authorization pilot and filed an appropriations amendment to block its funding.",
+"evidence": [
+{
+"type": "statement",
+"title": "Sun Sentinel: South Florida congresswoman pushes back on Medicare prior authorization (West Palm Beach press conference)",
+"url": "https://www.sun-sentinel.com/2026/01/16/south-florida-congresswoman-pushes-back-on-medicare-prior-authorization/",
+"date": "2026-01-16",
+"quote": "AI needs to be a tool for the doctor, the doctor should not be a tool for AI, nor should AI be used as a weapon to deny care",
+"what_it_shows": "She opposes letting AI override doctors on Medicare coverage decisions and said she and colleagues are working to stop funding and make the practice illegal."
+},
+{
+"type": "other",
+"title": "Sun Sentinel report on Frankel's spending-bill amendment against the WISeR AI pilot",
+"url": "https://www.sun-sentinel.com/2026/01/16/south-florida-congresswoman-pushes-back-on-medicare-prior-authorization/",
+"date": "2026-01-16",
+"quote": "Frankel has introduced an amendment in a 2026 spending bill that blocks funding for the pilot program.",
+"what_it_shows": "As a Labor-HHS appropriator she used the spending process to try to defund Medicare's AI prior-authorization experiment."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "She backs targeted privacy rules, cosponsoring both the 2023 and 2025 bills that stop companies from collecting or selling reproductive health data, and she voted for the House KIDS Act package in June 2026. She missed the 2024 TikTok divestment vote.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 3218, Reproductive Data Privacy and Protection Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "Supports limits on collecting or selling reproductive health data such as period-tracker information."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 3420 (118th), My Body, My Data Act of 2023 (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Earlier support for the same health data privacy protections."
+},
+{
+"type": "vote",
+"title": "House roll call 228 (2026): KIDS Act (H.R. 7757), voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Voted for the bipartisan kids online safety package that passed 267-117."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No position found. She did not sign the Nov. 26, 2025 Matsui letter or the Dec. 3, 2025 Clarke letter opposing an AI moratorium, is not a GUARDRAILS Act cosponsor, and no statement on state AI laws or the Dec. 2025 executive order was located.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on chip export controls or Nvidia sales to China as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Searched Google News for Frankel with artificial intelligence/AI, data center/electric bills, deepfake/Big Tech/Section 230/kids online/chatbot/TikTok, Medicare prior authorization/WISeR, Project Tango, and her official releases; scanned nine pages of frankel.house.gov press release titles (no AI or tech items). Opened: Sun Sentinel Jan 16, 2026 story (verbatim quotes), govtrack cosponsor pages (H.R. 7977 confirmed; H.J.Res. 187 not a cosponsor), govtrack votes (SPEED Nay, KIDS Act Yea, TikTok No Vote), Matsui letter PDF and Clarke letter (not a signer of either). Could not open: WPBF and Healthcare Dive stories on the WISeR fight (Google News decoding blocked). Brave searches for a Frankel WISeR press release hit rate limits."
+},
+{
+"bioguide": "M001217",
+"name": "Jared Moskowitz",
+"signature": "Judiciary AI-subcommittee Democrat who cosponsors the deepfake bills (NO FAKES, DEFIANCE), pushed the DeepSeek device ban, and calls TikTok a Chinese 'psyops weapon' while opposing a ban; his 2026 primary drew $309,574 from OpenAI-linked Think Big.",
+"notable_quote": {
+"text": "I want to be clear: I don't want to ban TikTok. But you have to recognize it's a psyops weapon.",
+"url": "https://www.sun-sentinel.com/2025/09/16/congressman-says-tiktok-serves-as-chinese-weapon-sowing-discord-among-young-americans/",
+"date": "2025-09-16"
+},
+"groups": [
+"Ranking Member, House Foreign Affairs Subcommittee on Oversight and Intelligence (per his Feb. 2025 office release)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers or electric bills as of Sept 2026. His only related action is a Nay vote on the SPEED Act permitting bill, which is not data-center specific.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: SPEED Act (H.R. 4776) permitting reform, voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Opposed the Republican permitting-reform bill; a weak, indirect signal only."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Moskowitz backs targeted AI guardrails on deepfakes and likeness: he cosponsored both NO FAKES Acts, the DEFIANCE Act and the 2024 intimate-image deepfake bill. He sits on the Judiciary subcommittee covering AI but no broader AI safety statements were found. The pro-industry Think Big PAC spent for him in his primary.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 2794, NO FAKES Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2794",
+"date": "2025-12-03",
+"quote": null,
+"what_it_shows": "Supports a legal right to control AI copies of one's voice and face."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 3562, DEFIANCE Act of 2025 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-21",
+"quote": null,
+"what_it_shows": "Supports letting victims sue over AI-made sexual deepfakes."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8915, NO FAKES Act of 2026 (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8915",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "Signed onto the updated likeness-rights bill."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 3106 (118th), Preventing Deepfakes of Intimate Images Act (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2024-03-05",
+"quote": null,
+"what_it_shows": "Earlier support for criminalizing AI sexual deepfakes."
+},
+{
+"type": "pac",
+"title": "Transformer AI Campaign Finance Tracker: FL House District 25 primary spending",
+"url": "https://elections.transformernews.ai/races/fl-h-25",
+"date": "2026-08",
+"quote": null,
+"what_it_shows": "Think Big, the Democratic arm of the Leading the Future network, reported $309,574 supporting Moskowitz; Defending Our Values (Public First network) spent $857,426 supporting his Republican opponent Scott Singer."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Mixed but leaning toward targeted rules. He voted to force TikTok's sale, calls TikTok a Chinese propaganda weapon, cosponsors Sammy's Law so parents can monitor kids' social media, and voted for the KIDS Act. Yet he says he does not want to ban TikTok.",
+"evidence": [
+{
+"type": "interview",
+"title": "Sun Sentinel: Congressman says TikTok serves as Chinese 'weapon' sowing discord (Chuck Toddcast remarks)",
+"url": "https://www.sun-sentinel.com/2025/09/16/congressman-says-tiktok-serves-as-chinese-weapon-sowing-discord-among-young-americans/",
+"date": "2025-09-16",
+"quote": "I want to be clear: I don't want to ban TikTok. But you have to recognize it's a psyops weapon.",
+"what_it_shows": "He sees TikTok as a Chinese psychological operation and wants to control how propaganda reaches Americans, but stops short of a ban."
+},
+{
+"type": "vote",
+"title": "House roll call 86 (2024): TikTok divestment bill (H.R. 7521), voted Yea",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "Voted to force TikTok's Chinese owner to divest."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 2657, Sammy's Law (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2025-10-08",
+"quote": null,
+"what_it_shows": "Supports requiring big platforms to let parents use safety apps on kids' accounts; he also cosponsored the 2023 version (H.R. 5778)."
+},
+{
+"type": "vote",
+"title": "House roll call 228 (2026): KIDS Act (H.R. 7757), voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Voted for the House kids online safety package."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No position found. Although he sits on the Judiciary Committee, govtrack lists him as not a cosponsor of the GUARDRAILS Act, and he did not sign the Nov. 2025 Matsui letter or the Dec. 2025 Clarke letter against an AI moratorium. No statement on state AI laws or the Dec. 2025 executive order was located.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Hawkish on Chinese AI apps and tech to adversaries rather than on chip exports specifically: he joined the No DeepSeek on Government Devices Act with a strong statement and earlier backed cutting off chips to Iran's drone program. He is not a cosponsor of the Chip Security or AI Overwatch Acts despite sitting on Foreign Affairs.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 1121, No DeepSeek on Government Devices Act (cosponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-07",
+"quote": null,
+"what_it_shows": "Supports removing the Chinese AI app DeepSeek from federal devices."
+},
+{
+"type": "statement",
+"title": "Press release: Moskowitz Joins Bill to Safeguard American Data and Privacy from Access by the Chinese Communist Party",
+"url": "https://moskowitz.house.gov/posts/moskowitz-joins-bill-to-safeguard-american-data-and-privacy-from-access-by-the-chinese-communist-party",
+"date": "2025-02-06",
+"quote": "Under no circumstances should the Chinese Communist Party have access to government devices, and we can't risk it gaining a foothold through DeepSeek",
+"what_it_shows": "Frames Chinese AI as a national security and data threat and calls for using every tool to keep the CCP away from sensitive data."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6603 (118th), No Technology for Terror Act (cosponsor)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6603",
+"date": "2024-01-29",
+"quote": null,
+"what_it_shows": "Backed tighter rules so US chips and parts cannot reach Iran's drone and weapons programs."
+}
+]
+}
+},
+"search_notes": "Searched Google News for Moskowitz with artificial intelligence/AI, deepfake/NO FAKES/DEFIANCE/Sammy's Law/kids online, data center/DeepSeek/Nvidia/export controls, Think Big/Leading the Future/OpenAI PAC, Big Tech/Section 230/TikTok/antitrust, Judiciary AI hearings, and the Singer race; listed moskowitz.house.gov via Wayback CDX (site press index is script-driven and could not be scraped). Opened: his Feb. 2025 DeepSeek release, Sun Sentinel TikTok interview story, Transformer AI money tracker for FL-25, govtrack cosponsor pages (GUARDRAILS, Chip Security, AI Overwatch: not a cosponsor), govtrack votes (SPEED Nay, TikTok Yea, KIDS Act Yea), Matsui and Clarke letters (not a signer), Casar AI CEO hearing letter (not a signer). Could not open: Tech Times story on OpenAI-linked PAC backing him, Florida Politics piece on AI-generated attack ads (403), WPTV story on FL-25 voters' AI concerns. Google News link decoding was blocked by a captcha and Brave search was rate limited."
+}
+]

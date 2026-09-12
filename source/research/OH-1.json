@@ -1,0 +1,759 @@
+[
+{
+"bioguide": "M001242",
+"name": "Bernie Moreno",
+"signature": "Populist Republican critic of data center subsidies who wants a 100% federal tax on state and local data center incentives; sponsor of the SCAM Act on social media fraud and the Connected Vehicle Security Act.",
+"notable_quote": {
+"text": "No. 1, no taxes. I don't want a single taxpayer dollar going to support a data center. Period.",
+"url": "https://postindustrial.com/stories/ohio-us-senator-calls-to-end-data-center-subsidies/",
+"date": "2026-09-03"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Moreno has become one of the loudest Republican critics of data center tax breaks. He wants zero taxpayer money for data centers, says he will likely file a bill taxing any state or local data center incentive at 100%, and demands that companies sign the ratepayer pledge, clean their water discharge and stay off prime farmland. He does not oppose building them and has said data centers are not the reason Ohio power bills are rising, so the record is critical but not anti-buildout.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter to the Carlyle Group and Ohio Tax Credit Authority on Ark Data Centers' $4.5M tax break",
+"url": "https://www.moreno.senate.gov/press-releases/moreno-slams-tax-breaks-to-pe-giant-for-data-center-project-creating-just-10-jobs",
+"date": "2026-03-17",
+"quote": "When corporations like Carlyle demand massive amounts of electricity to fund their projects, it's everyday Ohioans who get stuck with the bill.",
+"what_it_shows": "He asked a private equity firm to give back a state data center subsidy for a 10-job project and to sign Trump's Ratepayer Protection Pledge."
+},
+{
+"type": "interview",
+"title": "Spectrum News: Sen. Moreno joins growing backlash to data centers",
+"url": "https://spectrumnews1.com/oh/columbus/news/2026/03/25/moreno-data-center-backlash",
+"date": "2026-03-25",
+"quote": "They shouldn't be taking a dime from the taxpayer. That's just grotesque.",
+"what_it_shows": "He listed his conditions for data centers: no incentives, improved water discharge, workforce investment, no prime farmland, while also saying he wants America to win the AI race."
+},
+{
+"type": "statement",
+"title": "Remarks at Ohio Energy Affordability Summit in Columbus (Ohio Capital Journal via Postindustrial)",
+"url": "https://postindustrial.com/stories/ohio-us-senator-calls-to-end-data-center-subsidies/",
+"date": "2026-09-03",
+"quote": "if a state or local government gives a data center a tax incentive, the federal government will tax that incentive at 100%. You can take that out of the equation. No more taxpayer dollars. Period.",
+"what_it_shows": "He said the industry's pitch to the public has been 'the worst sales pitch in the history of sales pitches' and proposed a federal tax to wipe out state and local data center incentives."
+},
+{
+"type": "statement",
+"title": "WTOV: Sen. Moreno says data centers are not driving Ohio power costs (Jefferson County visit)",
+"url": "https://wtov9.com/newsletter-daily/bernie-moreno-ohio-jefferson-county-energy-access-electricity-costs-data-centers-power-grid-cardinal-plant-coal-energy-baseload-energy-energy-investment-34-million-grant-southeast-ohio-china-pollution-comparison-electricity-prices-reliable-energy-news-ni",
+"date": "2026-09-01",
+"quote": "There's a lot of noise out there in the political ecosystem about electricity prices going up because of data centers. That's just patently not true. These data centers are producing their own power,",
+"what_it_shows": "Contradictory note: he blames plant closures, not data centers, for higher bills, which shows he is not against the buildout itself."
+},
+{
+"type": "other",
+"title": "Americans for Tax Reform commentary: No, Senator Moreno, we should not tax data centers",
+"url": "https://atr.org/no-senator-moreno-we-should-not-tax-data-centers/",
+"date": "2026-09-04",
+"quote": null,
+"what_it_shows": "A conservative group attacked his 100% tax idea; the piece also notes he defended data center construction against moratorium advocates and said they should produce their own power."
+},
+{
+"type": "statement",
+"title": "Hoodline: Moreno targets data center tax breaks with 100% federal clawback",
+"url": "https://hoodline.com/2026/09/ohio-senator-moreno-targets-data-center-tax-breaks-with-100-federal-clawback/",
+"date": "2026-09-05",
+"quote": null,
+"what_it_shows": "Confirms the proposal had not yet been introduced as a bill as of early September 2026."
+},
+{
+"type": "statement",
+"title": "Bloomberg Government: Data center backlash floods campaign trail as Hill action stalls",
+"url": "https://news.bgov.com/bloomberg-government-news/data-center-backlash-floods-campaign-trail-as-hill-action-stalls",
+"date": "2026-09-04",
+"quote": null,
+"what_it_shows": "Reports he said he does not want a single taxpayer dollar supporting a data center and is likely to introduce legislation."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "His only clear AI-safety actions are cosponsoring the CHAT Act, which would make AI chatbot companies verify ages and get parental consent for kids, and the Kids Online Safety Act. He also says he wants America to win the AI race. No statements on frontier AI risk or broad AI rules were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.2714, CHAT Act (kids and AI companion chatbots)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2714",
+"date": "2025-11-05",
+"quote": null,
+"what_it_shows": "Backs targeted rules requiring age checks and parental permission before kids use AI chatbots."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1748, Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-09",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms toward minors, a targeted guardrail."
+},
+{
+"type": "interview",
+"title": "Spectrum News interview on data centers and the AI race",
+"url": "https://spectrumnews1.com/oh/columbus/news/2026/03/25/moreno-data-center-backlash",
+"date": "2026-03-25",
+"quote": "We want to make certain that we win the AI race here in America.",
+"what_it_shows": "Frames AI as a race the U.S. must win, a pro-innovation note alongside his consumer-protection demands."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Moreno favors targeted rules on tech companies: he wrote the bipartisan SCAM Act to make online platforms stop fraudulent ads, sponsors a ban on Chinese-linked connected cars, and cosponsors the Kids Online Safety Act and a bill on fentanyl sales on social media. Press reports say he has also called for banning social media for young people, though that report could not be opened.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: New Moreno, Gallego bill cracks down on Big Tech fraudsters (SCAM Act)",
+"url": "https://www.moreno.senate.gov/press-releases/new-moreno-gallego-bill-cracks-down-on-big-tech-fraudsters",
+"date": "2026-02-04",
+"quote": "We can't sit by while social media companies have business models that knowingly enable scams that target the American people.",
+"what_it_shows": "He wants platforms held legally responsible for scam ads, with FTC and state enforcement."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.4429, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-04-29",
+"quote": null,
+"what_it_shows": "Leads a 40-cosponsor bill banning connected cars and software from China, Russia, Iran and North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1748, Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-09",
+"quote": null,
+"what_it_shows": "Backs the main kids online safety bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.3618, No Fentanyl on Social Media Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3618",
+"date": "2026-03-24",
+"quote": null,
+"what_it_shows": "Supports pushing platforms to stop drug sales on their apps."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. I looked for statements on the 2025 state AI law moratorium, the December 2025 executive order and the March 2026 White House framework and found none. His Yea vote to strip the moratorium came when nearly the whole Senate voted the same way, so it does not show a stance on its own.",
+"evidence": [
+{
+"type": "vote",
+"title": "Voted Yea on Senate roll call 363, Blackburn amendment striking the 10-year moratorium on state AI laws (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Joined the near-unanimous vote to remove the moratorium from H.R. 1; not evidence of opposing preemption by itself."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No verified position on AI chip export controls. His office posted an April 2026 release calling to restrict memory chip sales abroad until U.S. automakers are supplied, and he sponsors a ban on Chinese connected cars, but the chip release could not be opened and it is about domestic supply rather than China controls.",
+"evidence": []
+}
+},
+"search_notes": "Searches: Moreno + artificial intelligence; data center; Nvidia/export controls/chips China; Big Tech/Section 230/antitrust; memory chips; SCAM Act; social media ban; AI regulation/open source; state AI laws/preemption/moratorium; AI hearing; Altman/Anthropic; AI PACs. Opened: Carlyle letter (moreno.senate.gov via archive), Spectrum News 3/25/26, Postindustrial (OCJ) 9/8/26, WTOV 9/1/26, ATR 9/4/26, Hoodline 9/5/26, Bloomberg Government 9/4/26, SCAM Act release (archive). Blocked: ohiocapitaljournal.com, dispatch.com, cleveland.com (403); moreno.senate.gov blocks direct fetches and the Wayback Machine refused connections for the memory-chip release and the Ohio EPA wastewater statement (only the intro of the EPA statement was readable). Unverified leads: Cleveland.com 1/16/26 report that he called social media 'worse than cigarettes' and urged a youth ban; Dispatch lead that he criticized the data center business model at a June 2026 Senate hearing and wants open-source U.S. AI models; Washington Times 4/24/26 on GOP senators plotting the AI race. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "H001104",
+"name": "Jon Husted",
+"signature": "Ohio's former data center champion turned sponsor of the Ratepayer Protection Act; lead author of the CHAT Act to keep kids away from harmful AI companion chatbots.",
+"notable_quote": {
+"text": "If America wants to lead the world in AI and strengthen our national security, we have to build the energy infrastructure to support it. But we must do that without passing the costs on to working families and small businesses.",
+"url": "https://www.husted.senate.gov/media/press-releases/husted-leads-bill-to-protect-americans-from-footing-the-bill-for-new-data-centers/",
+"date": "2026-07-20"
+},
+"groups": [
+"Senate Artificial Intelligence Caucus (member; reported by landscape research, not verified at source)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Husted championed data center deals as Ohio's lieutenant governor and still supports building them, framing it as winning the AI race with China. Under heavy campaign fire, he now says data centers must pay for their own power, introduced the Ratepayer Protection Act (S. 5028), says state tax breaks should stop, and says siting is a local decision. He blames Democratic climate policy, not data centers, for higher bills.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Husted leads bill to protect Americans from footing the bill for new data centers (Ratepayer Protection Act)",
+"url": "https://www.husted.senate.gov/media/press-releases/husted-leads-bill-to-protect-americans-from-footing-the-bill-for-new-data-centers/",
+"date": "2026-07-20",
+"quote": "The Ratepayer Protection Act would keep America globally competitive while protecting Ohioans and Americans from higher electricity bills,",
+"what_it_shows": "His bill would have states make 100 MW-plus users like data centers pay the full incremental cost of generation and grid upgrades; he pairs that with a pro-AI-buildout frame."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.5028, Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5028",
+"date": "2026-07-16",
+"quote": null,
+"what_it_shows": "Senate companion to the House bill codifying Trump's Ratepayer Protection Pledge; it had no cosponsors as of the record."
+},
+{
+"type": "statement",
+"title": "Press release: Husted attends White House roundtable on lowering energy costs near data centers",
+"url": "https://www.husted.senate.gov/media/press-releases/husted-attends-roundtable-with-president-on-lowering-energy-costs-for-communities-near-data-centers/",
+"date": "2026-03-04",
+"quote": "If America wants economic and national security dominance, we must lead in technology and AI to stay ahead of adversaries like China. But, this innovation requires energy and Ohio families are concerned about the impact on their own bills.",
+"what_it_shows": "Supports the AI buildout and the voluntary pledge by tech companies to fund their own power."
+},
+{
+"type": "interview",
+"title": "Spectrum News: As voters turn on data centers, Husted pushes new ratepayer protections",
+"url": "https://spectrumnews1.com/oh/columbus/news/2026/07/28/data-center-husted-ohio",
+"date": "2026-07-28",
+"quote": "But these are local decisions that should be made by local residents and local communities, not the federal government.",
+"what_it_shows": "He says he continues to support data center development where local communities want it and insists his bill is not a policy shift."
+},
+{
+"type": "interview",
+"title": "WVXU analysis: Republicans worry data centers will cost Husted his Senate seat",
+"url": "https://www.wvxu.org/politics/2026-08-27/analyis-jon-husted-data-centers",
+"date": "2026-08-27",
+"quote": "They haven't been as forthcoming about the benefits that will come in terms of local jobs and construction worker jobs and reduced property taxes",
+"what_it_shows": "He said data centers have 'earned that backlash' and told the Statehouse News Bureau that state sales and tax breaks he once backed should no longer be awarded."
+},
+{
+"type": "statement",
+"title": "CNBC: Husted defends energy policy as GOP warns data centers put Ohio seat at risk",
+"url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
+"date": "2026-08-21",
+"quote": "Because Congress and, under the Obama administration, under the Biden administration, they closed 23 power plants in the state of Ohio, representing half the electricity we use on a daily basis,",
+"what_it_shows": "He blames plant closures and 'radical climate policies,' not data centers, for rising electricity prices."
+},
+{
+"type": "statement",
+"title": "Bloomberg Government: Data center backlash floods campaign trail as Hill action stalls",
+"url": "https://news.bgov.com/bloomberg-government-news/data-center-backlash-floods-campaign-trail-as-hill-action-stalls",
+"date": "2026-09-04",
+"quote": "The data centers have got to build the trust of the local community,",
+"what_it_shows": "Called the NRSC memo a 'wake up call' and touted his bill requiring data centers to produce their own electricity."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Husted is enthusiastic about AI, writing that AI can shrink government regulation and that America must win the AI race, but his main legislative work puts targeted guardrails on AI for children: the CHAT Act and CHAT Act 2.0 would require age checks, parental consent and bans on chatbots sexualizing or manipulating minors. He also sponsors a deepfake scam task force bill. A resurfaced 2021 clip of him calling robot replacement of jobs 'not a bad thing' drew fire in September 2026.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Husted leads bill to protect children from AI companion chatbots, sexual content (CHAT Act)",
+"url": "https://www.husted.senate.gov/media/press-releases/husted-leads-bill-to-protect-children-from-ai-companion-chatbots-sexual-content",
+"date": "2025-09-08",
+"quote": "I wrote this bill to help parents keep their kids safe and make sure Americans harness the benefits of AI while putting strong safeguards in place to protect Ohio families,",
+"what_it_shows": "His signature AI bill mandates age verification, parental registration and self-harm alerts for AI companion chatbots."
+},
+{
+"type": "statement",
+"title": "Press release: Husted, Kim lead bipartisan bill to protect children from AI companion chatbots (CHAT Act 2.0)",
+"url": "https://www.husted.senate.gov/media/press-releases/husted-kim-lead-bipartisan-bill-to-protect-children-from-ai-companion-chatbots/",
+"date": "2026-07-29",
+"quote": "We need to protect children in the digital world the same way we do in the physical world.",
+"what_it_shows": "Expands his chatbot bill into a tiered, risk-based federal framework with pre-deployment risk assessments for higher-risk systems."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.2714, CHAT Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2714",
+"date": "2025-09-04",
+"quote": null,
+"what_it_shows": "Lead sponsor of the kids-and-chatbots bill."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.5154, CHAT Act 2.0",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5154",
+"date": "2026-07-28",
+"quote": null,
+"what_it_shows": "Updated bipartisan version with Sen. Andy Kim."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.2117, Preventing Deep Fake Scams Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2117",
+"date": "2025-06-18",
+"quote": null,
+"what_it_shows": "Creates a task force on AI deepfake financial scams."
+},
+{
+"type": "op_ed",
+"title": "Wall Street Journal op-ed: AI Can Be a Force for Deregulation",
+"url": "https://www.husted.senate.gov/media/op-eds/husted-ai-can-be-a-force-for-deregulation",
+"date": "2025-03-23",
+"quote": "Ohio proved that AI is a powerful and efficient tool for addressing the problem of government waste.",
+"what_it_shows": "Pro-AI framing: he wants the federal government to use AI to cut regulations, the basis of his S.1110."
+},
+{
+"type": "statement",
+"title": "Press release: Husted joins bill to advance AI for Americans (CREATE AI Act)",
+"url": "https://www.husted.senate.gov/media/press-releases/husted-joins-bill-to-advance-ai-for-americans",
+"date": "2026-05-13",
+"quote": "Establishing the NAIRR as a shared national research infrastructure will give students, researchers and workers access to resources to advance safe AI development, drive innovation and strengthen America's leadership in emerging technologies.",
+"what_it_shows": "Backs public AI research infrastructure and says America must lead and win the AI race."
+},
+{
+"type": "interview",
+"title": "The Nerd Stash: Husted interview about robots taking jobs as 'not a bad thing' resurfaces",
+"url": "https://thenerdstash.com/ohio-fury-as-jon-husted-interview-about-robots-taking-jobs-as-not-a-bad-thing-resurfaces-this-infuriates-me/",
+"date": "2026-09-11",
+"quote": "I don't think that is a bad thing, because I don't think those are enriching, the enriching kinds of jobs that most people want to do.",
+"what_it_shows": "A 2021 remark on automation replacing repetitive jobs resurfaced as a campaign attack; it shows a relaxed view of AI job displacement."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Husted backs a string of targeted rules on tech platforms aimed at children and fraud: he cosponsors the Kids Online Safety Act and the Stop the Scroll warning-label bill, sponsors the No Fentanyl on Social Media Act, introduced Sammy's Law, and cosponsors bills on foreign robocalls and Chinese connected cars. No calls for breakups or Section 230 repeal were found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Husted supports bipartisan bill to protect kids online (KOSA)",
+"url": "https://www.husted.senate.gov/media/press-releases/husted-supports-bipartisan-bill-to-protect-kids-online",
+"date": "2025-12-12",
+"quote": "The Kids Online Safety Act would give families tools to protect their children from content that puts them at risk.",
+"what_it_shows": "Joined the 70-senator KOSA coalition, citing 'addictive, harmful algorithms.'"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1748, Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-16",
+"quote": null,
+"what_it_shows": "Formal cosponsorship of the main kids online safety bill."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.3618, No Fentanyl on Social Media Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3618",
+"date": "2026-01-13",
+"quote": null,
+"what_it_shows": "Leads a bill pushing platforms to stop drug sales to minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1885, Stop the Scroll Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1885",
+"date": "2025-06-02",
+"quote": null,
+"what_it_shows": "Supports mental-health warning labels on social media."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.2666, Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2666",
+"date": "2026-02-12",
+"quote": null,
+"what_it_shows": "Backs a federal task force against foreign scam robocalls."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.4429, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-14",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and software from China and other adversaries."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. I searched for Husted statements on the 2025 state AI law moratorium, the December 2025 executive order, the March 2026 White House framework and any 'national standard' language and found nothing. His CHAT Act 2.0 release describes a 'federal framework' for chatbots but says nothing about state laws. His Yea vote to strip the moratorium was part of a 99-1 vote and is not evidence on its own.",
+"evidence": [
+{
+"type": "vote",
+"title": "Voted Yea on Senate roll call 363, Blackburn amendment striking the 10-year moratorium on state AI laws (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Joined the near-unanimous vote to remove the moratorium from H.R. 1; not evidence of opposing preemption by itself."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Husted leans hawkish on China and AI: he cosponsored the ban on DeepSeek on government devices, sponsors the China AI Power Report Act and a bill extending the statute of limitations for export control violations, and frames AI as a race against 'adversaries like China.' No statement on Nvidia H20 or H200 chip sales was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.765, No DeepSeek on Government Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/765",
+"date": "2025-02-27",
+"quote": null,
+"what_it_shows": "Co-led with Sen. Rosen a ban on the Chinese AI app on federal devices."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.5380, ten-year statute of limitations for export control violations",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5380",
+"date": "2026-08-07",
+"quote": null,
+"what_it_shows": "Would give enforcers more time to punish illegal exports of sensitive technology, a tightening move."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.5382, China AI Power Report Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5382",
+"date": "2026-08-07",
+"quote": null,
+"what_it_shows": "Requires a government report on China's AI capabilities, introduced with Sen. Warner."
+},
+{
+"type": "statement",
+"title": "Press release: CHAT Act introduction, noting his DeepSeek bill",
+"url": "https://www.husted.senate.gov/media/press-releases/husted-leads-bill-to-protect-children-from-ai-companion-chatbots-sexual-content",
+"date": "2025-09-08",
+"quote": "Husted and Sen. Jacky Rosen (D-Nev.) also introduced bipartisan legislation to prohibit the AI platform DeepSeek",
+"what_it_shows": "His own office describes DeepSeek as having direct ties to the Chinese Communist Party and highlights the ban."
+},
+{
+"type": "statement",
+"title": "Press release: White House data center roundtable",
+"url": "https://www.husted.senate.gov/media/press-releases/husted-attends-roundtable-with-president-on-lowering-energy-costs-for-communities-near-data-centers/",
+"date": "2026-03-04",
+"quote": "we must lead in technology and AI to stay ahead of adversaries like China.",
+"what_it_shows": "Frames AI policy as competition with China."
+}
+]
+}
+},
+"search_notes": "Searches: Husted + artificial intelligence; data center; chatbot/deepfake; state AI laws/preemption/moratorium; Nvidia/export controls/chips; AI framework/national standard/Cruz; DeepSeek/Chinese AI; Kids Online Safety/social media; robots video; AI Caucus; AI PACs. Site listing of husted.senate.gov (72 URLs). Opened: Ratepayer Protection Act release, White House roundtable release, CHAT Act release, CHAT Act 2.0 release, KOSA release, CREATE AI release, WSJ op-ed (all via Wayback), Spectrum News 7/28/26, WVXU 8/27/26, CNBC 8/21/26, Bloomberg Government 9/4/26, Postindustrial 9/8/26, Nerd Stash 9/11/26. Blocked: husted.senate.gov direct (403), Wayback refused connections for the DeepSeek release, the Chinese AI model investigation page and the committee page; Punchbowl 7/19/26 and Axios 5/6/25 paywalled/403; Cleveland.com and Ohio Capital Journal 403. Unverified leads: Senate AI Caucus membership; Aug 2025 letter urging Commerce to probe DeepSeek. No AI super PAC support or attacks found; the NRSC memo on data centers is party committee, not a PAC in the tracked list."
+},
+{
+"bioguide": "L000601",
+"name": "Greg Landsman",
+"signature": "House Democrat leading three data center bills (make Big Tech pay full costs, ban NDAs, study environmental harm) and bills to keep AI from denying medical care; signed both House letters against preempting state AI laws.",
+"notable_quote": {
+"text": "You're either with Big Tech or with our towns. A handshake and a promise from these tech companies is not enough.",
+"url": "https://landsman.house.gov/posts/landsman-leads-new-bill-requiring-big-tech-to-pay-for-data-centers-and-no-ndas",
+"date": "2026-04-09"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Landsman is one of the House's leading voices for making data centers pay their own way. He sponsors three bills: a FERC conference on protecting ratepayers (H.R. 6529, advanced by Energy and Commerce), the No Harm Data Centers Act requiring data centers to pay full grid costs and banning NDAs with officials (H.R. 8033), and a national study of noise, air and water impacts (H.R. 9629). He wants a federal framework so towns have a say, but he has not called for a moratorium on building.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Landsman leads new bill requiring Big Tech to pay for data centers and no NDAs",
+"url": "https://landsman.house.gov/posts/landsman-leads-new-bill-requiring-big-tech-to-pay-for-data-centers-and-no-ndas",
+"date": "2026-04-09",
+"quote": "You're either with Big Tech or with our towns. A handshake and a promise from these tech companies is not enough.",
+"what_it_shows": "His No Harm Data Centers Act would make data centers pay full energy and infrastructure costs, study environmental impacts and prohibit NDAs with elected officials."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.R.8033, No Harm Data Centers Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8033",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Binding cost-allocation and transparency rules for data centers."
+},
+{
+"type": "statement",
+"title": "Press release: Landsman, Beyer introduce bill to protect residents from rising costs caused by AI data centers",
+"url": "https://landsman.house.gov/media/press-releases/landsman-beyer-introduce-bill-to-protect-residents-from-rising-costs-caused-by-ai-data-centers",
+"date": "2025-12-09",
+"quote": "Residents and small businesses in states like Ohio, which is home to nearly 200 data centers, shouldn't be footing the bill to support them.",
+"what_it_shows": "His first data center bill has FERC convene stakeholders and recommend how to keep AI data center costs off household bills."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.R.6529, Protecting Families from AI Data Center Energy Costs Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2025-12-09",
+"quote": null,
+"what_it_shows": "23 cosponsors; included in the Energy and Commerce data center markup in June and July 2026."
+},
+{
+"type": "statement",
+"title": "Press release: Landsman introduced third AI data center bill in Congress",
+"url": "https://landsman.house.gov/media/press-releases/landsman-introduced-third-ai-data-center-bill-in-congress",
+"date": "2026-07-10",
+"quote": "There are legitimate concerns about pollution and AI data centers. Our bill makes sure these environmental impacts are studied so communities have the information they need and peace of mind they deserve.",
+"what_it_shows": "His Protecting Communities from Data Center Impacts Act orders an EPA and National Academies study of noise, air, water, carbon and e-waste impacts."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.R.9629, Protecting Communities from Data Center Impacts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9629",
+"date": "2026-07-09",
+"quote": null,
+"what_it_shows": "Third data center bill, focused on environmental impacts."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.7066, SHIELD Act (data center electricity costs)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7066",
+"date": "2026-01-14",
+"quote": null,
+"what_it_shows": "Backs another bill to keep data center costs off family electric bills."
+},
+{
+"type": "interview",
+"title": "WCPO: Data centers emerge as key issue in Ohio's 1st Congressional District race",
+"url": "https://www.wcpo.com/news/local-news/data-centers-emerge-as-key-issue-in-ohios-highly-watched-1st-congressional-district-race",
+"date": "2026-08-10",
+"quote": "If they're going to come in, they're going to come in, they're going to pay for everything. They're not going to pollute. You're going to have a say.",
+"what_it_shows": "In his reelection race he calls for a national framework making data centers pay everything and negotiate in public; his opponent Eric Conroy called it a local issue."
+},
+{
+"type": "interview",
+"title": "FOX19: Ohio data center bill would require voter approval, ban local tax incentives",
+"url": "https://www.fox19.com/2026/08/05/ohio-data-center-bill-would-require-voter-approval-ban-local-tax-incentives/",
+"date": "2026-08-05",
+"quote": "One forces the data centers to pay for everything. There's no reason our taxpayers should pay for anything of this. They have so much money.",
+"what_it_shows": "His own summary of his three bills: pay for everything, no NDAs, a national environmental standard."
+},
+{
+"type": "letter",
+"title": "Press release: Landsman, Reece call on DeWine to rein in energy costs in Southwest Ohio",
+"url": "https://landsman.house.gov/media/press-releases/landsman-reece-call-on-dewine-to-rein-in-energy-costs-in-southwest-ohio",
+"date": "2026-08-26",
+"quote": "There is a time for rate increases, but this is arguably the worst possible time for such an increase.",
+"what_it_shows": "Backed a county commissioner's call for a moratorium on further Duke Energy rate increases, tying it to affordability."
+},
+{
+"type": "other",
+"title": "E&E News: House panel sets vote on data center, grid bills",
+"url": "https://www.eenews.net/articles/committee-sets-vote-on-data-center-grid-bills/",
+"date": "2026-06-22",
+"quote": null,
+"what_it_shows": "His H.R. 6529 was part of the bipartisan Energy and Commerce data center markup alongside the Ratepayer Protection Act."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Landsman focuses on specific AI harms rather than broad AI rules. He sponsors the Doctors Not AI Act to stop insurers' AI from denying care, the Ban AI Denials in Medicare Act, and the resolution to overturn Medicare's WISeR AI prior authorization pilot, and he cosponsors the DEFIANCE Act on AI sexual deepfakes and a bill against AI election deception. No statements on frontier AI safety, licensing or a pause were found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Landsman introduces bipartisan legislation to keep AI from making health care decisions (Doctors Not AI Act)",
+"url": "https://landsman.house.gov/media/press-releases/landsman-introduces-bipartisan-legislation-to-keep-ai-from-making-health-care-decisions",
+"date": "2026-09-01",
+"quote": "When a computer system is making decisions about health care, people will get hurt. We have to make sure health care professionals remain the decision makers.",
+"what_it_shows": "Bipartisan bill limiting AI to a supporting role in insurance coverage decisions and requiring disclosure when AI is used."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.R.10210, Doctors Not AI Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10210",
+"date": "2026-09-01",
+"quote": null,
+"what_it_shows": "Requires a licensed professional, not AI, to make medical necessity denials."
+},
+{
+"type": "statement",
+"title": "Press release: Landsman, DelBene lead fight to overturn AI model delaying and denying care for seniors (WISeR)",
+"url": "https://landsman.house.gov/media/press-releases/landsman-delbene-lead-fight-to-overturn-ai-model-delaying-and-denying-care-for-seniors",
+"date": "2026-05-20",
+"quote": "the Trump Administration is experimenting with a dangerous AI model that's delaying and even denying critical care for seniors. Congress needs to act.",
+"what_it_shows": "Led a Congressional Review Act resolution against Medicare's AI prior authorization pilot in Ohio and five other states."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.J.Res.187, disapproving the CMS WISeR AI prior authorization model",
+"url": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/187",
+"date": "2026-05-19",
+"quote": null,
+"what_it_shows": "Formal resolution to block the AI-driven Medicare pilot."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.R.6361, Ban AI Denials in Medicare Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6361",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "Stops Medicare from letting an algorithm alone deny care."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.3562, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-21",
+"quote": null,
+"what_it_shows": "Supports a right to sue over AI-made sexual deepfakes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.8858 (118th), Securing Elections From AI Deception Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "Backed a ban on AI deepfakes that deceive voters in federal elections."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Landsman supports targeted fixes on tech companies: he pressed President Trump to make social media platforms curb antisemitic content, cosponsors bills on connected-car data for domestic violence survivors, Chinese-linked connected cars, and kids online safety partnerships. No calls for breakups, Section 230 repeal or a comprehensive privacy law were found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Landsman urges President Trump to work with social media companies to combat antisemitism",
+"url": "https://landsman.house.gov/media/press-releases/landsman-urges-president-trump-to-work-with-social-media-companies-to-combat-antisemitism",
+"date": "2025-06-06",
+"quote": "Social media companies have largely failed to take action to combat the rise of antisemitic content on their platforms",
+"what_it_shows": "Wants X, TikTok, Meta and others pushed to remove hate speech, a content-moderation demand on platforms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.2110, Safe Vehicle Access for Survivors Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"date": "2025-06-20",
+"quote": null,
+"what_it_shows": "Targeted data-access rule for car companies to protect abuse survivors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-08-17",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and software tied to China and other adversaries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.6437, Kids Internet Safety Partnership Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6437",
+"date": "2025-12-04",
+"quote": null,
+"what_it_shows": "Supports a government and industry partnership on kids' online safety."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Landsman signed both House Democratic letters against overriding state AI laws: the November 2025 Matsui letter (81 signers) opposing a moratorium in the defense bill or by executive order, and the December 2025 Clarke letter (44 signers) calling a moratorium 'wildly irresponsible' with no federal law in place. He does want a federal framework for data centers, but that is about energy costs, not about blocking state AI rules.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "Landsman is listed among the signers; the letter opposes any federal moratorium or preemption of state AI laws."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "Landsman is listed among the 44 signers; the letter says any preemption would put Americans at risk online."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Landsman leans toward tighter controls on China's access to AI technology. He cosponsors the Chip Security Act, which would put location tracking on advanced AI chips to catch smuggling to China, and the ban on DeepSeek on government devices, and he sponsored a bill to bring more chip manufacturing to the U.S. No statement on Nvidia H20 or H200 sales was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.3447, Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-12-16",
+"quote": null,
+"what_it_shows": "Supports built-in location verification for advanced AI chips to stop diversion to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.1121, No DeepSeek on Government Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-07",
+"quote": null,
+"what_it_shows": "Early cosponsor of the ban on the Chinese AI app on federal devices."
+},
+{
+"type": "statement",
+"title": "Press release: Landsman passes first bipartisan bill this Congress to increase foreign investment in the U.S. semiconductor industry",
+"url": "https://landsman.house.gov/posts/landsman-passes-first-bipartisan-bill-this-congress-to-increase-foreign-investment-in-the-u-s-semiconductor-industry",
+"date": "2025-04-28",
+"quote": "Semiconductors are the backbone of nearly all modern electronics, and the U.S. cannot rely on foreign nations to manufacture our chips any longer.",
+"what_it_shows": "His Securing Semiconductor Supply Chains Act passed the House; it is about onshoring chip production rather than export controls."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.R.2480, Securing Semiconductor Supply Chains Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2480",
+"date": "2025-03-31",
+"quote": null,
+"what_it_shows": "Directs Commerce to work with states to attract allied investment in U.S. chip plants."
+}
+]
+}
+},
+"search_notes": "Searches: Landsman + artificial intelligence; data center Ohio; Big Tech/Section 230/antitrust/KOSA; chips/Nvidia/export controls/semiconductor; AI executive order/preemption/state laws; Chip Security Act/DeepSeek; WISeR/Doctors Not AI; AI super PACs (Leading the Future, Public First, Think Big) in the OH-1 race. Site listing of landsman.house.gov. Opened: No Harm Data Centers release (archive), Beyer bill release, third data center bill release, Reece letter release, Doctors Not AI release, WISeR CRA release, antisemitism letter release, semiconductor bill release (archive), WCPO 8/10/26, FOX19 8/5/26, E&E News 6/22/26, Matsui letter PDF (text extracted locally, Landsman listed as signer), Clarke letter page (Landsman listed). Blocked: Ohio Capital Journal 4/15/26 (403). New Republic 9/11/26 piece on AI money did not mention Landsman. No AI super PAC support or attacks found for the OH-1 race."
+},
+{
+"bioguide": "T000490",
+"name": "David J. Taylor",
+"signature": "Little public AI activity found; cosponsor of the AI OVERWATCH Act giving Congress a check on advanced AI chip sales to China.",
+"notable_quote": null,
+"groups": [],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of September 2026. His district includes the proposed 10 GW Piketon campus, and a Farm Bureau roundtable he attended was reported alongside a data center discussion, but no remarks by Taylor on data centers or electric bills could be found. His September 2026 op-ed with USDA Secretary Rollins is about keeping subsidized solar off prime farmland, not data centers.",
+"evidence": []
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searches of his press releases, local coverage and news for AI, chatbots or deepfakes turned up nothing beyond stock-trade reports involving AI companies.",
+"evidence": []
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. His press releases focus on transportation, agriculture, broadband access in Appalachia and guns; nothing on Big Tech, Section 230, privacy or kids online safety was found.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption of state AI laws. He voted for the May 2025 House version of H.R. 1 that carried the moratorium, but that was a sweeping budget bill and no statement from him on the AI provision was found.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "His one AI-related action is cosponsoring the AI OVERWATCH Act, which would give Congress the power to block sales of advanced AI chips to China and other risky countries. That leans hawkish, but it is a single cosponsorship with no statements.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.6875, AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-03-04",
+"quote": null,
+"what_it_shows": "Supports congressional review power to stop advanced AI chip sales to China; the bill has 43 cosponsors."
+}
+]
+}
+},
+"search_notes": "Searches: David Taylor / Dave Taylor / Congressman Taylor + artificial intelligence; AI; data center; Piketon / Pike County / PORTS / gas plant; AI OVERWATCH; chips; Big Tech; farmland op-ed. Site listing of taylor.house.gov plus the press release index (pages 1 to 5) and the broadband issue page. Opened: taylor.house.gov press index, Rollins farmland op-ed release (solar on farmland, not data centers), autonomous trucking news item, Ohio Farm Bureau 4/1/26 page (data center discussion by Farm Bureau staff; a separate Taylor roundtable is only mentioned by title). Could not open: Pike County News Watchman 5/8/26 groundbreaking coverage and Columbus Dispatch 3/20/26 Piketon groundbreaking story (URL decode rate-limited, Dispatch 403), Cincinnati Enquirer 7/17/26 opinion. No AI super PAC activity found."
+}
+]

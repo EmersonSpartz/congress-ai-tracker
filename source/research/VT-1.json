@@ -2,99 +2,91 @@
 {
 "bioguide": "S000033",
 "name": "Bernard Sanders",
-"signature": "The Senate's leading voice for slowing AI down: first in Congress to call for a national AI data center moratorium, author of the Ban Artificial Superintelligence Act, and sponsor of a 50% public stake in the biggest AI companies.",
+"signature": "Leads the most aggressive AI push in Congress: a national AI data center moratorium bill, a ban on superintelligence with a pause on advanced AI, and a 50 percent public stake in big AI firms.",
+"notable_quote": {
+"text": "Nearly every day, there is a frightening new story about how Big Tech companies are losing control of the technology they are developing, with potentially cataclysmic results",
+"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+"date": "2026-09-03"
+},
 "groups": [
 "Senate Committee on Health, Education, Labor, and Pensions, Ranking Member"
 ],
-"notable_quote": {
-"text": "In the interest of humanity, stand by your words. Pause AI development. It is not too late to avoid disaster. Stop building machines that humans cannot control.",
-"date": "2026-08-10",
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai"
-},
 "positions": {
 "data_centers": {
 "score": -2,
 "confidence": "high",
-"summary": "Sanders wants a federal moratorium on new AI data centers and wrote the Senate bill to impose one. He says data centers raise electricity prices, strain water supplies and harm the environment, and that democracy needs time to catch up with the technology.",
+"summary": "Sanders wants to stop building new AI data centers until Congress passes AI safety and worker protection laws. He was the first member of Congress to back a national moratorium and wrote the Senate bill to impose one.",
 "evidence": [
 {
 "type": "sponsor",
-"title": "Sponsor: S.4214, Artificial Intelligence Data Center Moratorium Act",
+"title": "Sponsor: Artificial Intelligence Data Center Moratorium Act (S.4214)",
 "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4214",
 "date": "2026-03-25",
 "quote": null,
-"what_it_shows": "He is the Senate author of the bill to halt new AI data centers until national safeguards on safety, jobs and utility prices are in place; it had no Senate cosponsors as of Sept 2026."
+"what_it_shows": "His own bill would ban new AI data centers until Congress passes laws making AI safe and protecting workers."
 },
 {
 "type": "statement",
-"title": "Press release: Sanders, Ocasio-Cortez announce AI Data Center Moratorium Act",
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act",
-"date": "2026-03-25",
-"quote": "We need serious public debate and democratic oversight over this enormously consequential issue. The time for action is now. We need a federal moratorium on AI data centers.",
-"what_it_shows": "His own words announcing the bill; the release says the moratorium should last until safeguards ensure AI does not raise electricity or utility prices or harm communities."
-},
-{
-"type": "statement",
-"title": "Press release: Sanders: Yes. We Need a Moratorium On Data Center Construction.",
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-yes-we-need-a-moratorium-on-data-center-construction",
+"title": "Press release: Sanders: Yes. We Need a Moratorium On Data Center Construction",
+"url": "https://www.sanders.senate.gov/press-releases/news-sanders-yes-we-need-a-moratorium-on-data-center-construction/",
 "date": "2026-02-23",
 "quote": "The local officials who are supporting a moratorium are right: data centers will have a profound impact on land and water use, and will drive up electricity costs.",
-"what_it_shows": "He applauded Denver's local data center moratorium and repeated his call for a federal one, citing land, water and electricity costs."
+"what_it_shows": "He backs local and state moratoriums and ties data centers directly to higher electric bills and water use."
+},
+{
+"type": "statement",
+"title": "Roll Call: Sanders and Ocasio-Cortez unveil the AI Data Center Moratorium Act",
+"url": "https://rollcall.com/2026/03/25/data-center-moratorium-pitched-as-counter-to-ai-impacts/",
+"date": "2026-03-25",
+"quote": "They understand that these billionaires are investing huge amounts of money into AI and robotics, not to improve life for working families, but to dramatically increase their own wealth and power",
+"what_it_shows": "At the bill launch he said a moratorium would give us time to understand AI risks and protect working families."
 },
 {
 "type": "op_ed",
 "title": "Fox News op-ed: Yes, we must hit the pause button on AI before it is too late",
 "url": "https://www.foxnews.com/opinion/sen-bernie-sanders-yes-we-must-hit-pause-button-ai-before-it-is-too-late",
 "date": "2026-09-01",
-"quote": "AI data centers are raising electricity prices, straining water systems and harming the environment. That is why 75% of Americans oppose data centers near where they live",
-"what_it_shows": "He ties data centers to household power bills and local opposition, and frames them as part of the case for pausing AI."
+"quote": "Further, AI data centers are raising electricity prices, straining water systems and harming the environment. That is why 75% of Americans oppose data centers near where they live",
+"what_it_shows": "He argues to a conservative audience that data centers hurt ratepayers, water and the environment."
 },
 {
 "type": "social_post",
-"title": "Video on social media endorsing a national data center moratorium, as reported by E&E News",
+"title": "E&E News: Bernie Sanders endorses data center moratorium (video statement)",
 "url": "https://www.eenews.net/articles/bernie-sanders-endorses-data-center-moratorium/",
-"date": "2025-12-16",
+"date": "2025-12-17",
 "quote": "This moratorium will give democracy a chance to catch up, and ensure that the benefits of these technologies work for all of us, not just the wealthiest people on Earth",
-"what_it_shows": "E&E News reported he was likely the first member of Congress to endorse a national halt on data center construction."
-},
-{
-"type": "interview",
-"title": "HuffPost Q&A with Sanders on responding to the threat of AI",
-"url": "https://www.huffpost.com/entry/bernie-sanders-artificial-intelligence-data-centers_n_6aa29295e4b0975b6717438d",
-"date": "2026-09-10",
-"quote": "Six months ago, [Rep.] Alexandria Ocasio-Cortez and I introduced legislation calling for a moratorium on data center construction, and we were thought crazy, radical.",
-"what_it_shows": "He argues the moratorium idea has moved from the fringe to the mainstream as communities and governors turn against data centers."
+"what_it_shows": "He was likely the first member of Congress to call for a national halt to data center construction."
 }
 ]
 },
 "ai_risk": {
 "score": -2,
 "confidence": "high",
-"summary": "Sanders treats advanced AI as a possible existential threat. He wants an immediate pause on frontier AI development, a permanent ban on superintelligence enforced by a new cabinet-level agency with prison terms for violators, and he has told AI CEOs the Senate will act if they do not pause on their own.",
+"summary": "Sanders treats advanced AI as a threat to humanity. He has introduced a permanent ban on superintelligence with a pause on advanced AI development until a federal regulator sets safety rules, and he has told AI CEOs to stop.",
 "evidence": [
 {
 "type": "statement",
-"title": "Press release: Sanders, Casar to introduce legislation to ban artificial superintelligence and temporarily pause advanced AI development",
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
+"title": "Press release: Sanders, Casar to introduce the Ban Artificial Superintelligence Act",
+"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
 "date": "2026-09-03",
-"quote": "It is irresponsible for society to allow them to move forward and make these products even more advanced. That’s why I am introducing legislation to immediately pause the development of increasingly powerful AI",
-"what_it_shows": "His bill would permanently ban superintelligent AI, pause advanced AI development until a new federal regulator sets rules, and set penalties of up to 20 years in prison."
+"quote": "The Ban Artificial Superintelligence Act would permanently ban the development and deployment of superintelligent AI and temporarily pause advanced AI development until a federal regulator has established safety rules.",
+"what_it_shows": "His bill is the strictest AI proposal in Congress: a permanent ban plus a pause pending binding federal safety rules."
 },
 {
-"type": "letter",
-"title": "Press release: Sanders calls on tech giants to pause development of out-of-control AI (letter to Anthropic, Meta and OpenAI)",
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai",
-"date": "2026-08-10",
-"quote": "In the interest of humanity, stand by your words. Pause AI development. It is not too late to avoid disaster. Stop building machines that humans cannot control.",
-"what_it_shows": "He demanded a voluntary pause after reports of AI systems escaping human control and warned that if the companies do not act, the Senate will."
+"type": "social_post",
+"title": "Axios: Bernie Sanders floats ban on superintelligent AI (post on X)",
+"url": "https://www.axios.com/2026/09/03/bernie-sanders-superintelligence-ban-ai-pause",
+"date": "2026-09-03",
+"quote": "We need an immediate PAUSE on advanced AI development, and a permanent BAN on superintelligence",
+"what_it_shows": "He is the first prominent US politician to call for an outright ban on superintelligence."
 },
 {
-"type": "op_ed",
-"title": "Op-ed in The Guardian: AI poses unprecedented threats. Congress must act now",
-"url": "https://www.sanders.senate.gov/op-eds/ai-poses-unprecedented-threats-congress-must-act-now",
-"date": "2025-12-02",
-"quote": "there is a very real fear that, in the not-so-distant future, a super-intelligent AI could replace humans in controlling the planet.",
-"what_it_shows": "As HELP ranking member he launched an investigation into AI and said loss of human control is a real danger that Congress must address."
+"type": "social_post",
+"title": "The Hill: Lawmakers sound alarm on AI dangers after Anthropic researchers' warning",
+"url": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
+"date": "2026-09-09",
+"quote": "The very people building this technology admit that it could threaten the future of humanity. That is why I will soon be introducing legislation to ban superintelligence and pause AI development.",
+"what_it_shows": "He frames AI as an existential danger and uses insider warnings to push his ban."
 },
 {
 "type": "op_ed",
@@ -102,82 +94,74 @@
 "url": "https://www.foxnews.com/opinion/sen-bernie-sanders-yes-we-must-hit-pause-button-ai-before-it-is-too-late",
 "date": "2026-09-01",
 "quote": "These CEOs must immediately pause the development of increasingly powerful AI. And that pause must be international in scope.",
-"what_it_shows": "He wants a pause that covers other countries too, comparing the moment to Reagan and Gorbachev on nuclear arms control."
+"what_it_shows": "He wants a worldwide pause, not just a US one."
 },
 {
-"type": "interview",
-"title": "HuffPost Q&A with Sanders on responding to the threat of AI",
-"url": "https://www.huffpost.com/entry/bernie-sanders-artificial-intelligence-data-centers_n_6aa29295e4b0975b6717438d",
-"date": "2026-09-10",
-"quote": "How in God’s name can you keep going forward in the direction of superintelligence when you don’t know what that means?",
-"what_it_shows": "He says the pause idea is gaining support and that he is hosting a closed-door Senate briefing on Sept 16, 2026 with leading AI scientists on runaway AI."
+"type": "op_ed",
+"title": "Op-ed (The Guardian): AI poses unprecedented threats. Congress must act now",
+"url": "https://www.sanders.senate.gov/op-eds/ai-poses-unprecedented-threats-congress-must-act-now/",
+"date": "2025-12-02",
+"quote": "there is a very real fear that, in the not-so-distant future, a super-intelligent AI could replace humans in controlling the planet.",
+"what_it_shows": "As HELP ranking member he framed AI as a possible loss of human control and demanded Congress act."
 },
 {
-"type": "social_post",
-"title": "Post responding to Anthropic researcher Jacob Coxon's resignation warning, as reported by The Hill",
-"url": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
-"date": "2026-09-09",
-"quote": "The very people building this technology admit that it could threaten the future of humanity. That is why I will soon be introducing legislation to ban superintelligence and pause AI development.",
-"what_it_shows": "He used a viral extinction warning from an AI researcher to push his superintelligence ban."
+"type": "other",
+"title": "MeriTalk: Sen. Sanders introduces bill to ban superintelligent AI (bill details)",
+"url": "https://www.meritalk.com/articles/sen-sanders-introduces-bill-to-ban-superintelligent-ai/",
+"date": "2026-09-08",
+"quote": "The bill would also direct the United States to pursue international agreements, coordinate with allies, and use policies such as export controls to prevent artificial superintelligence from being developed elsewhere in the world.",
+"what_it_shows": "The bill carries criminal penalties and asks for international agreements, showing he wants binding rules, not voluntary standards."
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.1394 (118th), Block Nuclear Launch by Autonomous Artificial Intelligence Act",
+"title": "Cosponsor: Block Nuclear Launch by Autonomous Artificial Intelligence Act (118th S.1394)",
 "url": "https://www.congress.gov/bill/118th-congress/senate-bill/1394",
 "date": "2023-05-01",
 "quote": null,
-"what_it_shows": "Earlier support for a hard rule keeping humans in control of nuclear launch decisions."
+"what_it_shows": "Earlier support for a hard rule that only a human can decide to fire a nuclear weapon."
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.681 (118th), Facial Recognition and Biometric Technology Moratorium Act",
+"title": "Cosponsor: Facial Recognition and Biometric Technology Moratorium Act (118th S.681)",
 "url": "https://www.congress.gov/bill/118th-congress/senate-bill/681",
 "date": "2023-03-07",
 "quote": null,
-"what_it_shows": "He backed a moratorium on federal use of face recognition until Congress sets rules."
+"what_it_shows": "Backed a pause on federal use of face recognition until Congress sets rules."
 }
 ]
 },
 "tech_regulation": {
 "score": -2,
 "confidence": "medium",
-"summary": "Sanders casts Big Tech leaders as oligarchs and wants structural change: a 50% public ownership stake in the largest AI companies with forced break-ups of their AI and non-AI businesses, plus curbs on robocalls, worker surveillance and rent-setting algorithms. He has said less about Section 230 or specific antitrust cases.",
+"summary": "Sanders attacks what he calls Big Tech oligarchs and wants the public to take a 50 percent ownership stake in the largest AI companies. He also backs robocall, worker surveillance and rent-algorithm crackdowns. No 2025-26 statements on Section 230 specifically were found.",
 "evidence": [
 {
 "type": "sponsor",
-"title": "Sponsor: S.4825, American A.I. Sovereign Wealth Fund Act",
+"title": "Sponsor: American A.I. Sovereign Wealth Fund Act (S.4825)",
 "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4825",
 "date": "2026-06-18",
 "quote": null,
-"what_it_shows": "A one-time 50% tax on the stock of the biggest AI companies would go into a public fund with voting shares, and companies mixing AI and non-AI lines would have to split them."
+"what_it_shows": "His bill taxes large AI companies in stock so the public owns half of them, a far stronger step than antitrust."
 },
 {
 "type": "statement",
-"title": "Press release: Sanders introduces legislation to create $7 trillion AI sovereign wealth fund",
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-introduces-legislation-to-create-7-trillion-ai-sovereign-wealth-fund",
+"title": "Roll Call: Sovereign wealth fund tax on AI companies unveiled by Sanders",
+"url": "https://rollcall.com/2026/06/18/sovereign-wealth-fund-tax-on-ai-companies-unveiled-by-sanders/",
 "date": "2026-06-18",
-"quote": "As a society, we can no longer sit back and allow a handful of Big Tech oligarchs to determine the future of this revolutionary technology with no democratic input.",
-"what_it_shows": "His own framing of the bill: public control over Big Tech's AI decisions, including a requirement to break up combined AI and non-AI businesses."
+"quote": "The decisions they make will be accountable to the public, which we do not have right now",
+"what_it_shows": "He said public control of voting shares would let Americans block harmful AI decisions by the companies."
 },
 {
-"type": "statement",
-"title": "Press release: Sanders releases report on Big Tech oligarchs' war against workers",
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-releases-report-on-big-tech-oligarchs-war-against-workers-warns-ai-could-eliminate-nearly-100-million-u-s-jobs",
-"date": "2025-10-06",
-"quote": "But it will not happen if decisions are made in boardrooms by billionaires who only care about short-term profits. Congress must ensure that AI and automation benefit workers, not just corporate CEOs and Wall Street.",
-"what_it_shows": "His HELP Committee report proposes a robot tax, profit sharing, a 32-hour week and other mandates on corporations deploying AI."
-},
-{
-"type": "interview",
-"title": "HuffPost Q&A with Sanders on responding to the threat of AI",
-"url": "https://www.huffpost.com/entry/bernie-sanders-artificial-intelligence-data-centers_n_6aa29295e4b0975b6717438d",
-"date": "2026-09-10",
-"quote": "The AI industry is owned by the wealthiest people in the world, they are prepared this election to spend hundreds of millions of dollars to make sure that Congress does not do the right thing",
-"what_it_shows": "He blames AI industry campaign spending for Congress's reluctance to regulate."
+"type": "op_ed",
+"title": "Fox News op-ed: America's future cannot be left to Big Tech oligarchs and uncontrolled AI",
+"url": "https://www.foxnews.com/opinion/sen-bernie-sanders-yes-we-must-hit-pause-button-ai-before-it-is-too-late",
+"date": "2026-09-01",
+"quote": "this revolutionary transformation of society is being driven by the wealthiest people on Earth",
+"what_it_shows": "He names Musk, Bezos, Zuckerberg, Thiel and Ellison and argues their power over technology must be checked."
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.4307, Protecting American Consumers from Robocalls Act",
+"title": "Cosponsor: Protecting American Consumers from Robocalls Act (S.4307)",
 "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4307",
 "date": "2026-04-15",
 "quote": null,
@@ -185,152 +169,120 @@
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.262 (118th), Stop Spying Bosses Act",
-"url": "https://www.congress.gov/bill/118th-congress/senate-bill/262",
-"date": "2024-12-17",
-"quote": null,
-"what_it_shows": "Would limit secret electronic monitoring of workers and require disclosure of data collected."
-},
-{
-"type": "cosponsor",
-"title": "Cosponsor: S.3692 (118th), Preventing the Algorithmic Facilitation of Rental Housing Cartels Act",
+"title": "Cosponsor: Preventing the Algorithmic Facilitation of Rental Housing Cartels Act (118th S.3692)",
 "url": "https://www.congress.gov/bill/118th-congress/senate-bill/3692",
 "date": "2024-01-30",
 "quote": null,
 "what_it_shows": "Treats shared rent-setting software as illegal price fixing."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Stop Spying Bosses Act (118th S.262)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/262",
+"date": "2024-12-17",
+"quote": null,
+"what_it_shows": "Would limit employer surveillance technology and require disclosure to workers."
 }
 ]
 },
 "preemption": {
 "score": -2,
-"confidence": "high",
-"summary": "Sanders wants states free to regulate AI. He cosponsored the States' Right to Regulate AI Act to block Trump's December 2025 executive order and attacked the order as a favor to Big Tech oligarchs. His Yea on the July 2025 vote to strip the state-law moratorium matched 98 other senators and is weak evidence on its own.",
+"confidence": "medium",
+"summary": "Sanders is an original cosponsor of the States' Right to Regulate AI Act, which would block the Trump executive order aimed at overriding state AI laws. No statement in his own words on preemption was found, but the bill's only purpose is to protect state AI laws.",
 "evidence": [
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.3557, States' Right to Regulate AI Act",
+"title": "Cosponsor: States' Right to Regulate AI Act (S.3557)",
 "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3557",
 "date": "2025-12-17",
 "quote": null,
-"what_it_shows": "The bill says states keep their power to pass AI rules and would stop the administration from carrying out the preemption executive order."
+"what_it_shows": "He joined the Senate bill that says states keep the power to pass their own AI rules."
 },
 {
-"type": "op_ed",
-"title": "Op-ed in The Guardian: AI poses unprecedented threats. Congress must act now",
-"url": "https://www.sanders.senate.gov/op-eds/ai-poses-unprecedented-threats-congress-must-act-now",
-"date": "2025-12-02",
-"quote": "Why does Donald Trump, who is strongly supporting the big tech oligarchs, want to impose an executive order blocking states from regulating artificial intelligence?",
-"what_it_shows": "He criticized the planned executive order to override state AI laws days before it was signed."
-},
-{
-"type": "statement",
-"title": "Press release (Sen. Welch): Welch joins legislation to block Trump's illegal executive order undermining AI state safeguards, listing Sanders as cosponsor",
-"url": "https://www.welch.senate.gov/welch-joins-legislation-to-block-trumps-illegal-executive-order-undermining-ai-state-safeguards",
+"type": "other",
+"title": "Sen. Welch press release listing Sanders as cosponsor of the States' Right to Regulate AI Act",
+"url": "https://www.welch.senate.gov/welch-joins-legislation-to-block-trumps-illegal-executive-order-undermining-ai-state-safeguards/",
 "date": "2026-01-07",
-"quote": null,
-"what_it_shows": "Confirms Sanders joined the Markey bill filed as an appropriations amendment to prohibit implementation of the preemption executive order."
+"quote": "legislation to prohibit the Trump Administration's implementation of an Executive Order that attempts to block states from regulating artificial intelligence (AI)",
+"what_it_shows": "Confirms the bill he cosponsored is aimed squarely at the December 2025 preemption executive order."
 },
 {
 "type": "vote",
-"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1",
 "url": "https://www.govtrack.us/congress/votes/119-2025/s363",
 "date": "2025-07-01",
 "quote": null,
-"what_it_shows": "He voted with the 99-1 majority to remove the state AI-law moratorium; nearly every senator did, so this alone is not strong evidence."
+"what_it_shows": "He voted to remove the moratorium, but 99 senators did, so the vote alone is weak evidence."
 }
 ]
 },
 "china_chips": {
-"score": -1,
-"confidence": "low",
-"summary": "Sanders has not taken a position on Nvidia chip sales to China. His data center bill would ban exports of AI computing gear to any country lacking safety and labor safeguards, and his superintelligence ban lists export controls as a tool to stop superintelligence anywhere. At the same time he wants Washington and Beijing to negotiate an AI safety treaty rather than race each other.",
+"score": null,
+"confidence": "none",
+"summary": "No public position on chip export controls or Nvidia sales to China was found. He has instead pushed US-China cooperation on AI safety, and his superintelligence ban bill would use export controls only to stop superintelligence being built abroad.",
 "evidence": [
 {
-"type": "statement",
-"title": "Press release: Sanders, Ocasio-Cortez announce AI Data Center Moratorium Act",
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act",
-"date": "2026-03-25",
-"quote": "It accomplishes this by banning U.S. exports of AI computing infrastructure to countries that do not have safeguards in place to guarantee AI is safe and effective, workers are protected and AI does not harm the environment.",
-"what_it_shows": "His bill would restrict AI hardware exports on safety grounds, which would cover China, but it is not framed around the chip race."
+"type": "other",
+"title": "Punchbowl News: Sanders opens debate on U.S.-China cooperation",
+"url": "https://punchbowl.news/article/tech/sanders-us-china-debate/",
+"date": "2026-05-03",
+"quote": "has come under harsh criticism after he scheduled an event on AI safety with Chinese scientists as part of his pitch for U.S.-China cooperation on the technology",
+"what_it_shows": "He hosted Chinese AI researchers to argue for US-China AI safety cooperation, drawing Republican criticism."
 },
 {
 "type": "statement",
-"title": "Press release: Sanders, Casar to introduce legislation to ban artificial superintelligence",
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
+"title": "Press release: Ban Artificial Superintelligence Act (international provisions)",
+"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
 "date": "2026-09-03",
-"quote": "pursue international agreements, allied coordination, and policies such as export controls to prevent the development of artificial superintelligence anywhere in the world.",
-"what_it_shows": "He sees export controls as one lever to stop dangerous AI abroad, again on safety rather than competition grounds."
-},
-{
-"type": "statement",
-"title": "Press release: Sanders statement on upcoming U.S.-China AI talks",
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-upcoming-u-s-china-ai-talks",
-"date": "2026-05-11",
-"quote": "Trump and Xi must seize this moment to make clear that humans, not machines, come first.",
-"what_it_shows": "He convened U.S. and Chinese scientists at the Capitol and wants a treaty banning superintelligence, a cooperative rather than beat-China approach."
-},
-{
-"type": "op_ed",
-"title": "Fox News op-ed: Yes, we must hit the pause button on AI before it is too late",
-"url": "https://www.foxnews.com/opinion/sen-bernie-sanders-yes-we-must-hit-pause-button-ai-before-it-is-too-late",
-"date": "2026-09-01",
-"quote": "Neither country benefits from an uncontrolled AI arms race to develop machines that are rapidly becoming too powerful for humans to control.",
-"what_it_shows": "He rejects the arms-race framing that usually drives chip export debates."
+"quote": "It would also direct the U.S. to pursue international agreements to prevent superintelligence from being developed anywhere in the world.",
+"what_it_shows": "His China focus is on treaties to stop superintelligence, not on chip sales."
 }
 ]
 }
 },
-"search_notes": "Ran about 12 Google News queries (AI, data center moratorium, superintelligence, chips/Nvidia/China, preemption/EO, chatbot/Big Tech, electricity, pause letter, PACs) plus a site listing of sanders.senate.gov. Direct fetches of senate.gov returned 403; press releases were read from Wayback Machine archived copies. Verified verbatim text for the Mar 25 2026 S.4214 release, Feb 23 2026 statement, Sept 3 2026 ASI ban release, Aug 10 2026 pause letter release, May 11 2026 US-China statement, June 18 2026 wealth fund release, Oct 6 2025 HELP report release, Dec 2 2025 Guardian op-ed, Sept 1 2026 Fox op-ed, HuffPost Q&A, E&E News and The Hill. Could not open Politico, Punchbowl or Axios pieces. Found no AI super PAC support or attacks targeting Sanders. He is not listed in any AI caucus; his HELP ranking member role is the relevant leadership post. The Sept 16 2026 Senate briefing with Hinton and others is confirmed in the HuffPost interview."
+"search_notes": "Searches: Sanders data center moratorium; superintelligence ban; AI pause letter Altman Amodei; sovereign wealth fund; preemption/state AI laws; Nvidia/export controls/chips; Section 230/Big Tech breakup; AI super PACs; site listing of sanders.senate.gov (132 AI/tech URLs). Opened: Sept 3 2026 ASI ban release (archived copy), Feb 23 2026 moratorium release (archived), Dec 2 2025 Guardian op-ed (archived on his site), Fox News op-ed Sept 1 2026, E&E Dec 17 2025, Roll Call Mar 25 and Jun 18 2026, Axios Sept 3, The Hill Sept 9, MeriTalk Sept 8, IBTimes Sept 9, Punchbowl May 3. Could not open (403 on sanders.senate.gov and Wayback rate limits): the Mar 25 2026 moratorium press release, the Aug 10 2026 pause letter release, the Jun 2026 US-China AI talks statement, the Jun 18 sovereign fund release and the Oct 2025 HELP jobs report release; the moratorium quote in the state file was not re-verified so it is not used. No AI super PAC support or attack on Sanders found. Vermont Yankee/GMP site leads mention Sanders only as endorsing the state S.205 moratorium (VTDigger Feb 24 2026)."
 },
 {
 "bioguide": "W000800",
 "name": "Peter Welch",
-"signature": "Judiciary Democrat who partners with Republicans on AI creator protections (his TRAIN Act, NO FAKES), fights federal preemption of state AI laws, and leads New England senators pressing grid operators to make data centers pay their own way.",
+"signature": "Judiciary Democrat who writes targeted AI bills (TRAIN Act on training data, AI LEAD liability, GUARD chatbot age checks) and leads New England senators in making data centers pay their own grid costs.",
+"notable_quote": {
+"text": "We cannot force everyday Americans to subsidize profits of the multi-billion dollar AI industry.",
+"url": "https://www.welch.senate.gov/welch-joins-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers/",
+"date": "2026-01-22"
+},
 "groups": [
 "Senate Agriculture Subcommittee on Rural Development, Energy, and Credit, Ranking Member"
 ],
-"notable_quote": {
-"text": "We cannot force everyday Americans to subsidize profits of the multi-billion dollar AI industry.",
-"date": "2026-01-22",
-"url": "https://www.welch.senate.gov/welch-joins-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers"
-},
 "positions": {
 "data_centers": {
 "score": -1,
 "confidence": "high",
-"summary": "Welch's first concern is keeping data center costs off household electric bills. He cosponsored the Power for the People Act and led six New England senators demanding ISO New England make tech companies, not families, pay for new load. He has not called for a pause, and his REWIRE Act with Republican Dave McCormick would speed grid upgrades and permitting to meet rising demand.",
+"summary": "Welch's line is that tech companies, not families, must pay for the power and grid upgrades data centers need. He cosponsors the Power for the People Act and led New England senators in pressing the regional grid operator on ratepayer protection. He has not called for a moratorium.",
 "evidence": [
 {
 "type": "statement",
 "title": "Press release: Welch joins new bill to ensure Americans aren't footing the bill for big data centers (Power for the People Act)",
-"url": "https://www.welch.senate.gov/welch-joins-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers",
+"url": "https://www.welch.senate.gov/welch-joins-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers/",
 "date": "2026-01-22",
-"quote": "At the same time, energy prices are spiking across the country, saddling working families with higher utility bills and threatening the reliability of the grid. Data centers must be held accountable for the costs of their connection",
-"what_it_shows": "He is an original cosponsor of Van Hollen's bill making data centers pay for the transmission upgrades they cause and creating special rate classes for them."
+"quote": "We cannot force everyday Americans to subsidize profits of the multi-billion dollar AI industry.",
+"what_it_shows": "He backs a bill making data center owners, not consumers, pay for their grid connections and protecting reliability."
 },
 {
 "type": "letter",
-"title": "Press release: Welch leads New England senators in call for answers from ISO New England about data centers and energy costs",
-"url": "https://www.welch.senate.gov/welch-leads-new-england-senators-in-call-for-answers-about-how-new-regional-data-centers-will-drive-up-energy-costs-for-consumers",
+"title": "Letter: Welch leads New England senators asking ISO New England how it will protect ratepayers from data center costs",
+"url": "https://www.welch.senate.gov/welch-leads-new-england-senators-in-call-for-answers-about-how-new-regional-data-centers-will-drive-up-energy-costs-for-consumers/",
 "date": "2026-01-28",
 "quote": "We believe it is necessary to require tech companies, not American families, to foot the bill for their load.",
-"what_it_shows": "He led Shaheen, Blumenthal, Reed, Markey and Whitehouse in asking the grid operator how it will protect residential ratepayers, citing a 13% rise in residential prices in 2025."
-},
-{
-"type": "statement",
-"title": "Press release: Welch, McCormick introduce bipartisan REWIRE Act to modernize America's electric grid and cut red tape",
-"url": "https://www.welch.senate.gov/welch-mccormick-introduce-bipartisan-rewire-act-to-meet-americas-growing-energy-demand",
-"date": "2026-03-02",
-"quote": "We’re up against the clock when it comes to meeting America’s growing energy needs.",
-"what_it_shows": "He pairs ratepayer protection with faster grid buildout: the bill creates a NEPA categorical exclusion for reconductoring and other upgrades in existing rights-of-way to meet demand growth."
+"what_it_shows": "He led six senators in warning the grid operator that data center growth will raise costs and degrade reliability."
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.4727, Artificial Intelligence Environmental Impacts Act of 2026",
+"title": "Cosponsor: Artificial Intelligence Environmental Impacts Act of 2026 (S.4727)",
 "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4727",
 "date": "2026-06-09",
 "quote": null,
-"what_it_shows": "Supports a federal study of AI's energy, water and pollution footprint and a reporting system."
+"what_it_shows": "Wants the government to measure AI's energy, water and pollution footprint and set up reporting."
 },
 {
 "type": "other",
@@ -338,287 +290,272 @@
 "url": "https://vtdigger.org/2026/02/24/vermont-plugs-into-the-data-center-conversation/",
 "date": "2026-02-24",
 "quote": null,
-"what_it_shows": "Vermont press reported Welch urging ISO-NE to require data centers to pay for their own electricity and grid upgrades as the state debated its own data center rules."
+"what_it_shows": "Vermont press describes him urging ISO-NE to make data centers pay for their own electricity and grid upgrades."
 }
 ]
 },
 "ai_risk": {
 "score": -1,
 "confidence": "high",
-"summary": "Welch backs specific guardrails rather than a pause: product liability for AI harms (AI LEAD Act), transparency about training data (his TRAIN Act), age checks for companion chatbots (GUARD Act), a right to control AI copies of one's voice and face (NO FAKES), and letters pressing Meta, Character.AI and others on children's safety. He also fought letting AI decide Medicare prior authorizations.",
+"summary": "Welch favors specific, enforceable guardrails rather than a pause: letting people sue over faulty AI (AI LEAD Act), age checks for companion chatbots (GUARD Act), transparency about training data (his TRAIN Act), and blocking AI from deciding Medicare claims. He does not frame AI as an existential threat.",
 "evidence": [
 {
-"type": "sponsor",
-"title": "Sponsor: S.2455, TRAIN Act",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2455",
-"date": "2025-07-24",
-"quote": null,
-"what_it_shows": "Lets copyright holders subpoena AI training records to learn whether their work trained a model."
-},
-{
-"type": "statement",
-"title": "Press release: Welch leads bipartisan bill to protect musicians, artists, and creators from unauthorized AI training",
-"url": "https://www.welch.senate.gov/welch-leads-bipartisan-bill-to-protect-musicians-artists-and-creators-from-unauthorized-ai-training",
-"date": "2025-07-25",
-"quote": "As AI evolves and gets more embedded into our daily lives, we need to set a higher standard for transparency.",
-"what_it_shows": "His own framing of the TRAIN Act, introduced with Blackburn, Schiff and Hawley."
-},
-{
-"type": "statement",
-"title": "Press release: Welch and Blackburn host 20+ music artists on Capitol Hill to discuss protecting creators from AI harm",
-"url": "https://www.welch.senate.gov/welch-and-blackburn-host-20-music-artists-on-capitol-hill-to-discuss-protecting-creators-from-ai-harm",
-"date": "2026-04-22",
-"quote": "The TRAIN Act is an incredibly important, bipartisan bill to stand up to AI and give power back to creators.",
-"what_it_shows": "He continues to push the TRAIN Act and NO FAKES Act as creator protections against generative AI."
-},
-{
 "type": "cosponsor",
-"title": "Cosponsor: S.2937, AI LEAD Act",
+"title": "Cosponsor: AI LEAD Act (S.2937)",
 "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2937",
 "date": "2026-03-18",
 "quote": null,
-"what_it_shows": "Would let people harmed by an AI system sue the developer under product liability rules."
+"what_it_shows": "Would let people hurt by an AI system sue the maker like any other defective product."
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.3062, GUARD Act",
+"title": "Cosponsor: GUARD Act (S.3062)",
 "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
 "date": "2025-12-01",
 "quote": null,
-"what_it_shows": "Would require chatbot companies to verify ages and keep minors away from AI companions."
-},
-{
-"type": "cosponsor",
-"title": "Cosponsor: S.4591, NO FAKES Act of 2026",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4591",
-"date": "2026-05-20",
-"quote": null,
-"what_it_shows": "Gives people a legal right to stop unauthorized AI replicas of their voice or likeness."
-},
-{
-"type": "letter",
-"title": "Press release (Sen. Padilla): Padilla, Welch probe AI chatbot apps on safeguards for children",
-"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-welch-probe-ai-chatbot-apps-on-safeguards-for-children/",
-"date": "2025-04-03",
-"quote": "policymakers, parents, and their kids deserve to know what your companies are doing to protect users from these known risks",
-"what_it_shows": "He and Padilla wrote to Character.AI, Chai and Replika about self-harm risks and how their models handle mental health conversations."
-},
-{
-"type": "letter",
-"title": "Bipartisan letter of 10 senators to Meta CEO Mark Zuckerberg on AI chatbots and children (reposted on Welch's site)",
-"url": "https://www.welch.senate.gov/bipartisan-group-of-senators-alarmed-by-meta-policies-on-kids-use-of-ai-chatbots-requests-answers-from-zuckerberg",
-"date": "2025-08",
-"quote": "While AIs have many uses, the wellbeing of children should not be sacrificed in the race for AI development",
-"what_it_shows": "He joined Hawley, Schatz and others demanding Meta explain chatbot policies that allowed romantic conversations with children and asking it to ban targeted ads to minors."
+"what_it_shows": "Would require chatbot companies to verify ages and keep kids away from AI companions."
 },
 {
 "type": "statement",
-"title": "Press release: Welch joins bicameral bill to protect Medicare benefits from Trump administration's AI experiment",
-"url": "https://www.welch.senate.gov/welch-joins-bicameral-bill-to-protect-medicare-benefits-from-trump-admins-dangerous-ai-experiment",
+"title": "Press release: Welch leads bipartisan TRAIN Act to protect creators from unauthorized AI training",
+"url": "https://www.welch.senate.gov/welch-leads-bipartisan-bill-to-protect-musicians-artists-and-creators-from-unauthorized-ai-training/",
+"date": "2025-07-25",
+"quote": "As AI evolves and gets more embedded into our daily lives, we need to set a higher standard for transparency.",
+"what_it_shows": "His own bill gives copyright holders a subpoena tool to see whether their work trained an AI model."
+},
+{
+"type": "letter",
+"title": "New York Post: Bipartisan senators' letter to Zuckerberg on Meta AI chatbots and children (Welch a signer)",
+"url": "https://nypost.com/2025/08/20/business/senators-press-mark-zuckerberg-over-metas-ai-bots-sensual-chats-with-kids/",
+"date": "2025-08-20",
+"quote": "The wellbeing of children should not be sacrificed in the race for AI development",
+"what_it_shows": "He joined ten senators demanding Meta ban targeted ads to minors and add mental health safeguards to chatbots."
+},
+{
+"type": "statement",
+"title": "Press release: Welch joins bill to block Trump administration's Medicare AI prior authorization experiment (WISeR)",
+"url": "https://www.welch.senate.gov/welch-joins-bicameral-bill-to-protect-medicare-benefits-from-trump-admins-dangerous-ai-experiment/",
 "date": "2025-12-18",
 "quote": "Their newest plan to let AI take over important Medicare prior authorization decisions will be a disaster for providers and make it harder for seniors to get the care they need",
-"what_it_shows": "He opposes letting AI systems approve or deny medical care in traditional Medicare."
+"what_it_shows": "He opposes letting private AI systems approve or deny Medicare care."
+},
+{
+"type": "letter",
+"title": "CNBC: Blackburn and Welch tell ByteDance to shut down Seedance 2.0 AI video model",
+"url": "https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html",
+"date": "2026-03-17",
+"quote": "you must immediately shut down Seedance and implement meaningful safeguards to prevent further infringing outputs",
+"what_it_shows": "He wants AI video tools that copy real people and copyrighted works halted until safeguards exist."
+},
+{
+"type": "statement",
+"title": "Blackburn-Welch roundtable with artists on NO FAKES Act and TRAIN Act",
+"url": "https://www.blackburn.senate.gov/2026/4/ai/blackburn-welch-hold-roundtable-with-over-20-artists-who-support-no-fakes-act-and-train-act-to-protect-creators-from-ai-harms",
+"date": "2026-04-22",
+"quote": "The TRAIN Act is an incredibly important, bipartisan bill to stand up to AI and give power back to creators.",
+"what_it_shows": "He champions deepfake and training-data rules with a Republican partner."
+},
+{
+"type": "statement",
+"title": "MeriTalk: Wicker, Welch, Hageman bill creates AI task force for federal courts",
+"url": "https://www.meritalk.com/articles/bipartisan-bill-would-create-ai-task-force-for-us-courts/",
+"date": "2026-03-30",
+"quote": "When it comes to the use of AI in the courtroom, there are still substantial privacy and civil liberty concerns that need to be addressed. Accuracy, privacy, and security are paramount.",
+"what_it_shows": "He wants oversight before AI tools spread in the justice system."
+},
+{
+"type": "interview",
+"title": "Vermont Public: Sen. Peter Welch wants to better regulate generative AI",
+"url": "https://www.vermontpublic.org/show/vermont-edition/2025-01-06/sen-peter-welch-wants-to-better-regulate-generative-ai",
+"date": "2025-01-06",
+"quote": "On Capitol Hill last year, Sen. Peter Welch (D-Vt.) introduced nearly a half dozen bills concerning AI. He’s vowed to continue those efforts during this new Congress.",
+"what_it_shows": "He has made AI regulation, especially consent and compensation for creators, a signature issue."
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.1633, TEST AI Act of 2025",
+"title": "Cosponsor: TEST AI Act of 2025 (S.1633)",
 "url": "https://www.congress.gov/bill/119th-congress/senate-bill/1633",
 "date": "2025-05-07",
 "quote": null,
-"what_it_shows": "Supports government testbeds to check whether AI systems are safe and trustworthy."
+"what_it_shows": "Supports government test sites to check whether AI systems are safe and trustworthy."
 }
 ]
 },
 "tech_regulation": {
 "score": -2,
 "confidence": "high",
-"summary": "Welch is an antitrust hawk on Big Tech. He cosponsors bills to sunset Section 230, toughen merger law, break up Google's control of online advertising, and pass the Kids Online Safety Act and COPPA 2.0. He demanded ByteDance shut down its Seedance video model over copyright theft and wants courts to scrutinize weak antitrust settlements.",
+"summary": "Welch wants to rein in Big Tech across the board. He cosponsors the Sunset Section 230 Act, the antitrust overhaul CALERA, the AMERICA Act to break up Google's ad business, and the main kids online safety and privacy bills. He earlier backed a new federal agency to police platforms.",
 "evidence": [
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.3546, Sunset Section 230 Act",
+"title": "Cosponsor: Sunset Section 230 Act (S.3546)",
 "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3546",
 "date": "2025-12-17",
 "quote": null,
-"what_it_shows": "Would end the liability shield for online platforms to force Congress to write new rules."
+"what_it_shows": "Would repeal the legal shield for platforms within two years to force Congress to write new rules."
+},
+{
+"type": "other",
+"title": "The Hill: Section 230 fight is back (Welch listed on the Durbin-Graham bill)",
+"url": "https://thehill.com/newsletters/technology/5656105-section-230-fight-is-back/",
+"date": "2025-12-18",
+"quote": "They are joined on the bill by Sens. Chuck Grassley (R-Iowa), Sheldon Whitehouse (D-R.I.), Josh Hawley (R-Mo.), Amy Klobuchar (D-Minn.), Marsha Blackburn (R-Tenn.), Richard Blumenthal (D-Conn.), Ashley Moody (R-Fla.) and Peter Welch (D-Vt.).",
+"what_it_shows": "Confirms he is part of the bipartisan group trying to end Section 230."
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.130, Competition and Antitrust Law Enforcement Reform Act of 2025",
+"title": "Cosponsor: Competition and Antitrust Law Enforcement Reform Act of 2025 (S.130)",
 "url": "https://www.congress.gov/bill/119th-congress/senate-bill/130",
 "date": "2025-01-16",
 "quote": null,
-"what_it_shows": "Would make it harder for dominant companies to merge and shift the burden of proof onto the biggest deals."
+"what_it_shows": "Would make it much harder for giant companies to merge."
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.1060, AMERICA Act",
+"title": "Cosponsor: AMERICA Act (S.1060)",
 "url": "https://www.congress.gov/bill/119th-congress/senate-bill/1060",
 "date": "2025-03-13",
 "quote": null,
-"what_it_shows": "Would stop giant ad-tech firms like Google from controlling every side of the digital ad market."
+"what_it_shows": "Would stop Google and other giants from controlling every side of the online ad market."
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.1748, Kids Online Safety Act",
+"title": "Cosponsor: Kids Online Safety Act (S.1748)",
 "url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
 "date": "2025-07-16",
 "quote": null,
-"what_it_shows": "Imposes a duty of care and safety design rules on platforms used by minors."
+"what_it_shows": "Supports a duty of care for platforms toward children."
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.836, Children and Teens' Online Privacy Protection Act",
+"title": "Cosponsor: Children and Teens' Online Privacy Protection Act (S.836)",
 "url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
 "date": "2025-03-04",
 "quote": null,
-"what_it_shows": "Updates children's privacy law to require consent for data collection and ban targeted ads to kids and teens."
+"what_it_shows": "Supports strong limits on collecting kids' and teens' data."
 },
 {
 "type": "statement",
-"title": "Press release: After weak Live Nation-Ticketmaster antitrust deal, Welch joins bicameral bill on antitrust settlements",
-"url": "https://www.welch.senate.gov/after-weak-live-nation-ticketmaster-antitrust-deal-welch-joins-bicameral-bill-to-ensure-antitrust-settlements-benefit-consumers-over-special-interests",
-"date": "2026-03-17",
-"quote": "Any backdoor corporate settlement needs to face real scrutiny before it’s allowed to move forward. We need stronger antitrust laws that protect hardworking families.",
-"what_it_shows": "He wants courts to review antitrust settlements, including at the FTC, and calls for stronger antitrust law overall."
-},
-{
-"type": "letter",
-"title": "Press release: Welch, Blackburn urge ByteDance to immediately shut down Seedance 2.0 AI video model",
-"url": "https://www.welch.senate.gov/welch-blackburn-urge-bytedance-to-immediately-shut-down-seedance-2-0-ai-video-model-following-copyright-infringement",
-"date": "2026-03-17",
-"quote": "Seedance 2.0 poses a direct threat to the American intellectual property system and, more broadly, to the constitutional rights and economic livelihoods of our creative community.",
-"what_it_shows": "He and Blackburn accused ByteDance of industrial-scale copyright infringement and deepfake abuse and demanded the model be shut down."
+"title": "Rep. Balint press release on the End Rent Fixing Act, with Welch quote on the Senate companion",
+"url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=626",
+"date": "2025-11-20",
+"quote": "housing providers are using anticompetitive pricing algorithms to raise rents. It’s outrageous",
+"what_it_shows": "He leads the Senate bill banning landlords' shared rent-setting algorithms."
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.278, Kids Off Social Media Act",
-"url": "https://www.congress.gov/bill/119th-congress/senate-bill/278",
-"date": "2025-01-28",
-"quote": null,
-"what_it_shows": "Would bar children under 13 from social media and limit algorithmic feeds for teens."
-},
-{
-"type": "cosponsor",
-"title": "Cosponsor: S.1671 (118th), Digital Platform Commission Act of 2023",
+"title": "Cosponsor: Digital Platform Commission Act of 2023 (118th S.1671)",
 "url": "https://www.congress.gov/bill/118th-congress/senate-bill/1671",
 "date": "2023-05-18",
 "quote": null,
-"what_it_shows": "Supported creating a new federal agency to police large online platforms."
+"what_it_shows": "Backed creating a new federal agency to regulate big online platforms."
 }
 ]
 },
 "preemption": {
 "score": -2,
 "confidence": "high",
-"summary": "Welch opposes Washington overriding state AI laws. He joined the States' Right to Regulate AI Act to block Trump's executive order, saying the order ties states' hands and threatens consumer safety, while also calling for federal rules to be built on top of state protections.",
+"summary": "Welch opposes federal preemption of state AI laws. He cosponsored the States' Right to Regulate AI Act to block the Trump executive order and said the order ties states' hands while Congress has not yet acted.",
 "evidence": [
 {
 "type": "cosponsor",
-"title": "Cosponsor: S.3557, States' Right to Regulate AI Act",
+"title": "Cosponsor: States' Right to Regulate AI Act (S.3557)",
 "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3557",
 "date": "2025-12-17",
 "quote": null,
-"what_it_shows": "The bill preserves state authority over AI and would bar implementation of the preemption executive order."
+"what_it_shows": "Would keep states' power to pass their own AI rules."
 },
 {
 "type": "statement",
 "title": "Press release: Welch joins legislation to block Trump's illegal executive order undermining AI state safeguards",
-"url": "https://www.welch.senate.gov/welch-joins-legislation-to-block-trumps-illegal-executive-order-undermining-ai-state-safeguards",
+"url": "https://www.welch.senate.gov/welch-joins-legislation-to-block-trumps-illegal-executive-order-undermining-ai-state-safeguards/",
 "date": "2026-01-07",
 "quote": "At a moment when we should be putting every effort into finding ways to make AI safer, this executive order threatens consumer rights and safety by tying states’ hands",
-"what_it_shows": "His own words opposing the Dec 11 2025 executive order; he says Congress must reverse it and then write federal policies that protect people."
+"what_it_shows": "In his own words he opposes the December 2025 preemption executive order and wants Congress to reverse it."
 },
 {
 "type": "vote",
-"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the 10-year moratorium on state AI laws from H.R. 1",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1",
 "url": "https://www.govtrack.us/congress/votes/119-2025/s363",
 "date": "2025-07-01",
 "quote": null,
-"what_it_shows": "He voted with the 99-1 majority to remove the state AI-law moratorium; nearly every senator did, so this alone is weak evidence."
+"what_it_shows": "He voted to remove the moratorium, as did 99 senators, so the vote alone is weak evidence."
 }
 ]
 },
 "china_chips": {
-"score": -1,
-"confidence": "low",
-"summary": "Welch has not spoken publicly on Nvidia's H20 or H200 sales. He did sign an August 2026 bipartisan letter urging Commerce to close export-control loopholes that let Chinese and Russian intelligence agencies buy advanced U.S. surveillance, cyber and AI technology, and he cosponsored the RESTRICT Act on adversary technology in 2023.",
+"score": null,
+"confidence": "none",
+"summary": "No public position on AI chip export controls or Nvidia sales to China was found. His China-related tech record is about apps and content (the RESTRICT Act on foreign adversary apps, a letter telling ByteDance to shut down its Seedance AI video model), not chips.",
 "evidence": [
 {
-"type": "letter",
-"title": "Press release (Sen. Wyden): Bipartisan members of Congress call on Commerce Department to block Americans from working for Russian and Chinese intelligence agencies",
-"url": "https://www.wyden.senate.gov/news/press-releases/bipartisan-members-of-congress-call-on-commerce-department-to-block-americans-from-working-for-russian-and-chinese-intelligence-agencies",
-"date": "2026-08-25",
-"quote": "urged Commerce Secretary Howard Lutnick to close loopholes in U.S. export control rules that currently allow Americans to work with civilian intelligence agencies in China, Russia and other countries of concern",
-"what_it_shows": "Welch joined Wyden, Cornyn, McCaul, Harrigan and Jacobs in asking for tighter export controls covering AI technology sold to adversary intelligence agencies; it does not address chip sales to Chinese companies."
-},
-{
 "type": "cosponsor",
-"title": "Cosponsor: S.686 (118th), RESTRICT Act",
+"title": "Cosponsor: RESTRICT Act (118th S.686)",
 "url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
 "date": "2023-03-29",
 "quote": null,
-"what_it_shows": "Supported letting the government review and block technology from adversary countries such as China."
+"what_it_shows": "Supported letting the government review and block technology from rival countries such as China; this is about apps, not chips."
+},
+{
+"type": "letter",
+"title": "CNBC: Blackburn and Welch letter to ByteDance CEO on Seedance 2.0",
+"url": "https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html",
+"date": "2026-03-17",
+"quote": "Responsible global companies follow the law and respect core economic rights, including intellectual property and personal likeness protections",
+"what_it_shows": "He confronted a Chinese-owned AI company over copyright and likeness, not over chip access."
 }
 ]
 }
 },
-"search_notes": "Ran about 12 Google News queries (AI, data centers, chatbot/deepfake/NO FAKES, Big Tech/230/antitrust, preemption, chips/Nvidia/export controls, ISO-NE, AI LEAD/TRAIN, AI caucus) plus a site listing of welch.senate.gov. Direct fetches of senate.gov returned 403; releases were read from Wayback Machine copies and verified verbatim: Jan 7 2026 EO block, Jan 22 2026 Power for the People, Jan 28 2026 ISO-NE letter, Mar 2 2026 REWIRE, Jul 25 2025 TRAIN, Apr 22 2026 artists roundtable, Mar 17 2026 Seedance and antitrust settlements, Dec 18 2025 Medicare AI, Meta chatbot letter repost, Padilla-Welch chatbot letters, Wyden Aug 25 2026 letter. Could not open the Markey FERC letter or Reed release to confirm those signatures, so they are omitted; a Politico item titled 'Welch talks campaign, Rays and preemption' (Jul 21 2026) could not be decoded or fetched. No Power for the People Senate bill number was in the record, so it is cited as a statement. Found no AI super PAC activity for or against Welch and no AI caucus membership."
+"search_notes": "Searches: Welch artificial intelligence; data center Vermont ratepayers ISO; Nvidia/export controls/chips; Section 230/Big Tech/KOSA/antitrust; AI LEAD/Sunset 230/GUARD; Chip Security/GAIN AI/H20; REWIRE Act; Meta chatbot letter; AI super PACs; site listing of welch.senate.gov (219 URLs). Opened (via archived copies where the live site returned 403): Jan 22 2026 Power for the People release, Jan 28 2026 ISO-NE letter release, Jan 7 2026 States' Right release, Jul 25 2025 TRAIN Act release, Dec 18 2025 Medicare AI release, Vermont Public Jan 6 2025 interview page; plus CNBC, NY Post, Kauai Now, The Hill 230 newsletter, MeriTalk courts bill, Blackburn roundtable, VTDigger, Balint rent-fixing release. Could not open: REWIRE Act release (welch and mccormick sites 403, Wayback rate-limited), Padilla-Welch companion chatbot letter (403), Markey FERC and EPA letters (403). The REWIRE grid permitting bill from the state file is therefore not scored; it would add a build-the-grid element to an otherwise ratepayer-first record. No AI super PAC activity on Welch found."
 },
 {
 "bioguide": "B001318",
 "name": "Becca Balint",
-"signature": "Progressive antitrust voice on House Judiciary who sponsors kids-and-chatbot protections (Addictive Design Act), backs NO FAKES and the GUARDRAILS Act, and votes against bills she says go easy on Big Tech.",
-"groups": [
-"House Judiciary Committee, Vice Ranking Member",
-"Monopoly Busters Caucus, founding member",
-"Congressional Progressive Caucus Ending Corporate Greed Task Force, Chair"
-],
+"signature": "Judiciary antitrust Democrat who frames AI through Big Tech accountability: kids-and-chatbots bills, NO FAKES co-lead, and the GUARDRAILS Act against preempting state AI laws.",
 "notable_quote": {
-"text": "We can't make the same mistake with AI. We need clear rules, research, and accountability before more families are forced to suffer the consequences.",
-"date": "2026-07-27",
-"url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=789"
+"text": "AI is moving fast, and we need to make sure these guardrails are in place now, not later",
+"url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=741",
+"date": "2026-05-20"
 },
+"groups": [
+"Congressional Progressive Caucus Ending Corporate Greed Task Force, Chair",
+"Monopoly Busters Caucus, founding member",
+"House Judiciary Committee, Vice Ranking Member",
+"House Judiciary Subcommittee on the Administrative State, Regulatory Reform, and Antitrust, member"
+],
 "positions": {
 "data_centers": {
 "score": -1,
 "confidence": "low",
-"summary": "Balint cosponsored the Power for the People Act, which makes data centers pay for the grid upgrades they cause, but we found no public statement from her on data centers as of Sept 2026.",
+"summary": "Balint cosponsored the Power for the People Act, which makes data centers rather than families pay for the grid upgrades they need. No statements of her own on data centers were found as of Sept 2026.",
 "evidence": [
 {
-"type": "cosponsor",
-"title": "Cosponsor: H.R.8241, Power for the People Act of 2026",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/8241",
-"date": "2026-04-27",
-"quote": null,
-"what_it_shows": "She joined Tonko's bill to keep data center transmission costs off household electric bills; a single cosponsorship, so low confidence."
-},
-{
 "type": "other",
-"title": "GovTrack cosponsor list for H.R. 8241 showing Balint joined April 27, 2026",
+"title": "GovTrack cosponsor list: Power for the People Act of 2026 (H.R. 8241), Balint joined April 27, 2026",
 "url": "https://www.govtrack.us/congress/bills/119/hr8241/cosponsors",
 "date": "2026-04-27",
 "quote": null,
-"what_it_shows": "Confirms the date she signed on as a cosponsor."
+"what_it_shows": "She signed on to the main House Democratic bill to keep data center power costs off residential electric bills."
 }
 ]
 },
 "ai_risk": {
 "score": -1,
 "confidence": "high",
-"summary": "Balint wants specific guardrails now. Her Addictive Design Act would bar chatbot features that hook kids, she cosponsors the CHATBOT Act, Algorithmic Accountability Act and NO FAKES Act, and she signed the August 2026 letter demanding AI CEOs testify under oath after models escaped test environments. She has not called for a pause or licensing.",
+"summary": "Balint pushes targeted AI rules: her own Addictive Design Act against AI chatbots built to hook kids, the CHATBOT Act, the Algorithmic Accountability Act, and the NO FAKES Act on deepfakes. She also signed a letter calling advanced AI a clear risk and demanding AI CEOs testify under oath.",
 "evidence": [
 {
 "type": "statement",
-"title": "Press release: Rep. Balint introduces legislation to protect kids from addictive AI chatbots (Addictive Design Act)",
+"title": "Press release: Rep. Balint introduces the Addictive Design Act to protect kids from addictive AI chatbots",
 "url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=789",
 "date": "2026-07-27",
-"quote": "They should not be allowed to apply those same tactics to vulnerable kids who may be turning to an AI chatbot during a mental health crisis",
-"what_it_shows": "Her bill would ban addictive chatbot design features for minors, fund research and set civil penalties of up to $5,000 per affected youth."
+"quote": "We need clear rules, research, and accountability before more families are forced to suffer the consequences.",
+"what_it_shows": "Her own bill targets AI chatbots designed to foster emotional attachment and compulsive use among young people."
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: H.R.7985, CHATBOT Act",
+"title": "Cosponsor: CHATBOT Act (H.R.7985)",
 "url": "https://www.congress.gov/bill/119th-congress/house-bill/7985",
 "date": "2026-06-29",
 "quote": null,
@@ -626,47 +563,39 @@
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: H.R.5511, Algorithmic Accountability Act of 2025",
+"title": "Cosponsor: Algorithmic Accountability Act of 2025 (H.R.5511)",
 "url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
 "date": "2025-09-19",
 "quote": null,
 "what_it_shows": "Would make companies test automated decision systems for bias and harm and report to the FTC."
 },
 {
-"type": "cosponsor",
-"title": "Cosponsor: H.R.2794, NO FAKES Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/2794",
-"date": "2025-04-09",
-"quote": null,
-"what_it_shows": "Gives people a legal right to control AI copies of their voice and face."
-},
-{
-"type": "statement",
-"title": "Press release: Balint, Dean, Salazar, Blackburn, Coons, colleagues reintroduce bill to protect Americans from AI deepfakes",
-"url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=741",
-"date": "2026-05-20",
-"quote": "AI is moving fast, and we need to make sure these guardrails are in place now, not later",
-"what_it_shows": "She co-led the 2026 NO FAKES reintroduction and frames it as urgent guardrails on AI."
-},
-{
 "type": "letter",
-"title": "Press release (Rep. Casar): Casar leads call for congressional hearings with AI CEOs, signed by Balint",
+"title": "Casar-led letter from 19 House Democrats demanding hearings with AI CEOs under oath (Balint a signer)",
 "url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
 "date": "2026-08-10",
 "quote": "Advanced AI models pose a clear risk to the safety and security of the American people.",
-"what_it_shows": "She was one of 19 Democrats asking Speaker Johnson to put AI CEOs under oath after OpenAI, Anthropic and Meta reported models escaping test environments."
+"what_it_shows": "After reports of AI models escaping test environments, she joined a call for CEOs to answer under oath and for regulation to prevent repeats."
 },
 {
 "type": "statement",
+"title": "Press release: Balint, Dean, Salazar reintroduce NO FAKES Act",
+"url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=741",
+"date": "2026-05-20",
+"quote": "AI is moving fast, and we need to make sure these guardrails are in place now, not later",
+"what_it_shows": "She co-leads the House bill giving people a legal right to control AI copies of their voice and face."
+},
+{
+"type": "interview",
 "title": "WCAX: AI-generated video of Vermont congressional race tests new state disclosure law",
 "url": "https://www.wcax.com/2026/06/11/ai-generated-video-vermont-congressional-race-tests-new-state-disclosure-law/",
 "date": "2026-06-11",
 "quote": "Right now, anyone can make an AI-generated clip of them, post it online, and have absolutely no protections really.",
-"what_it_shows": "After a deepfake-style video of her circulated, she said more guardrails on the technology are needed."
+"what_it_shows": "After a deepfake video of her circulated, she said more guardrails on the technology are needed."
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: H.R.3060, No Biometric Barriers to Housing Act of 2025",
+"title": "Cosponsor: No Biometric Barriers to Housing Act of 2025 (H.R.3060)",
 "url": "https://www.congress.gov/bill/119th-congress/house-bill/3060",
 "date": "2025-06-09",
 "quote": null,
@@ -677,7 +606,7 @@
 "tech_regulation": {
 "score": -2,
 "confidence": "high",
-"summary": "Balint is one of the House's sharpest Big Tech critics. She sits on the Judiciary antitrust subcommittee, helped found the Monopoly Busters Caucus, praised bills that would break up dominant tech firms, led a letter demanding scrutiny of Fox's Roku takeover, sponsors a bill treating rent-setting algorithms as price fixing, and voted against the House KIDS Act because it did not go far enough against Big Tech.",
+"summary": "Balint is a Big Tech hawk on the Judiciary antitrust subcommittee. She calls for strong antitrust enforcement against dominant tech firms, voted against a kids online bill she said lacked real consequences for companies, and leads bills against rent-setting algorithms and AI-driven price discrimination.",
 "evidence": [
 {
 "type": "hearing",
@@ -685,121 +614,89 @@
 "url": "https://democrats-judiciary.house.gov/media-center/press-releases/rep-balint-s-opening-statement-at-subcommittee-hearing-on-trump-s-corruption-of-antitrust-enforcement",
 "date": "2025-12-16",
 "quote": "This hearing is nothing but a handout to Big Tech. These companies will oppose any rules to reform their anticompetitive conduct no matter what nation or state tries to hold them accountable.",
-"what_it_shows": "She defended bipartisan bills targeting Big Tech, citing Sen. Lee's AMERICA Act as one that would reform or break up dominant tech firms."
-},
-{
-"type": "vote",
-"title": "Vote: Nay on House roll call 228, passage of H.R. 7757, the KIDS Act",
-"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
-"date": "2026-06-29",
-"quote": null,
-"what_it_shows": "She voted against the House kids online safety package, which passed 267-117 under suspension and included federal preemption language."
+"what_it_shows": "She defends the bipartisan antitrust bills aimed at Big Tech and says she is concerned about Big Tech beating up on Americans."
 },
 {
 "type": "statement",
-"title": "Press release: Rep. Balint says Congress must do more to protect kids online, hold Big Tech accountable",
+"title": "Press release: Rep. Balint says Congress must do more to protect kids online, hold Big Tech accountable (vote against Kids Internet and Digital Safety Act)",
 "url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=756",
 "date": "2026-06-29",
-"quote": "This bill doesn't do nearly enough to hold Big Tech accountable. If Congress is serious about protecting kids online, we need legislation with real, enforceable consequences for companies that exploit children's attention",
-"what_it_shows": "Her stated reason for the Nay: she wants stronger, enforceable rules on platforms, and she leads the bipartisan Protecting Young Minds Online Act."
-},
-{
-"type": "letter",
-"title": "Letter led by Sen. Warren and Rep. Balint urging DOJ to scrutinize Fox's $22 billion Roku deal (Hollywood Reporter)",
-"url": "https://www.hollywoodreporter.com/business/business-news/doj-probe-fox-roku-deal-1236650991/",
-"date": "2026-07-17",
-"quote": "When DOJ makes decisions based on political favoritism rather than the facts and the law, costs go up for American families",
-"what_it_shows": "She co-led Democrats demanding an impartial antitrust review of a major media-streaming merger."
+"quote": "legislation with real, enforceable consequences for companies that exploit children's attention and put their health at risk",
+"what_it_shows": "She voted no on a Republican kids online bill because it did not go far enough against Big Tech."
 },
 {
 "type": "statement",
-"title": "Press release: Reps. Balint and García introduce bill to crack down on companies using algorithms to illegally raise rents (End Rent Fixing Act)",
+"title": "Press release: Balint and Garcia introduce the End Rent Fixing Act",
 "url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=626",
 "date": "2025-11-20",
-"quote": "Landlords are colluding to illegally push rent higher and higher. The End Rent Fixing Act will prevent this type of price fixing and protect people's wallets.",
-"what_it_shows": "She sponsors legislation treating shared rent-setting software like RealPage as a price-fixing cartel."
+"quote": "Landlords are colluding to illegally push rent higher and higher. The End Rent Fixing Act will prevent this type of price fixing and protect people’s wallets.",
+"what_it_shows": "Her bill bans landlords' shared rent-setting software as price fixing."
 },
 {
 "type": "cosponsor",
-"title": "Cosponsor: H.R.4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
+"title": "Cosponsor: Stop AI Price Gouging and Wage Fixing Act of 2025 (H.R.4640)",
 "url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
 "date": "2025-12-04",
 "quote": null,
 "what_it_shows": "Would ban using AI and personal data to charge people different prices or pay workers different wages."
 },
 {
-"type": "statement",
-"title": "Press release: Rep. Becca Balint launches Monopoly Busters Caucus as founding member",
-"url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=487",
-"date": "2025-04-09",
-"quote": "it’s about fairness and about protecting working people from the power and greed of giant corporations",
-"what_it_shows": "She helped found a caucus dedicated to breaking up corporate concentration and enforcing antitrust law."
-},
-{
-"type": "letter",
-"title": "Press release: Reps. Balint and Jayapal push Meta and Google to end ICE ad partnerships",
-"url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=647",
-"date": "2026-01-22",
-"quote": null,
-"what_it_shows": "She pressed the two largest platforms over the ads they accept, another example of holding Big Tech to account."
-},
-{
 "type": "cosponsor",
-"title": "Cosponsor: H.R.3420 (118th), My Body, My Data Act of 2023",
+"title": "Cosponsor: My Body, My Data Act of 2023 (118th H.R.3420)",
 "url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
 "date": "2023-05-17",
 "quote": null,
-"what_it_shows": "Supported limits on collecting and sharing reproductive health data."
+"what_it_shows": "Supports strict limits on collecting and sharing reproductive health data."
 }
 ]
 },
 "preemption": {
 "score": -2,
 "confidence": "high",
-"summary": "Balint wants states to keep the power to regulate AI. She cosponsored the GUARDRAILS Act and signed both the November 2025 Matsui letter (81 House Democrats) and the December 2025 Clarke letter (44 Democrats) urging leaders to keep any state-law moratorium or preemption out of the defense bill and to drop the planned executive order.",
+"summary": "Balint wants states free to regulate AI. She cosponsors the GUARDRAILS Act and signed both House Democratic letters against reviving the state AI law moratorium in the defense bill or by executive order.",
 "evidence": [
 {
 "type": "cosponsor",
-"title": "Cosponsor: H.R.8031, GUARDRAILS Act",
+"title": "Cosponsor: GUARDRAILS Act (H.R.8031)",
 "url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
 "date": "2026-03-20",
 "quote": null,
-"what_it_shows": "The bill protects states' right to pass their own AI laws against federal preemption; she joined the day the White House released its national AI framework."
+"what_it_shows": "Would stop the federal government from wiping out state AI laws."
 },
 {
 "type": "letter",
-"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and the planned preemption executive order (signed by Balint)",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Balint a signer)",
 "url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
 "date": "2025-11-26",
-"quote": "Earlier this year, the Senate rejected this same AI moratorium concept on an overwhelming bipartisan 99-1 vote",
-"what_it_shows": "Her name appears among the signers of the letter telling Johnson, Thune, Jeffries and Schumer not to revive the moratorium or use an executive order or BEAD funds to override state AI laws."
+"quote": "That vote sent a clear, bipartisan message: Congress should not freeze state and local AI safeguards",
+"what_it_shows": "She joined the letter telling congressional leaders not to revive the moratorium the Senate rejected 99 to 1."
 },
 {
 "type": "letter",
-"title": "Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (signed by Balint)",
+"title": "Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Balint a signer)",
 "url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
 "date": "2025-12-03",
 "quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
-"what_it_shows": "She is listed among the 44 signers asking Armed Services leaders to keep preemption out of the defense bill."
+"what_it_shows": "She signed a second letter opposing any state AI law preemption in the defense bill."
 }
 ]
 },
 "china_chips": {
 "score": null,
 "confidence": "none",
-"summary": "No public position found on chip export controls or Nvidia sales to China as of Sept 2026. Balint cosponsored the BASIC Act to extend the tax credit for U.S. chip factories and design, which speaks to domestic manufacturing (GlobalFoundries is a major Vermont employer), not export policy.",
+"summary": "No public position on AI chip export controls, Nvidia sales to China, or the Chip Security Act was found. Her only chip-related record is a tax break for building chip factories in America, which is neutral on export policy.",
 "evidence": [
 {
 "type": "cosponsor",
-"title": "Cosponsor: H.R.3204, BASIC Act",
+"title": "Cosponsor: BASIC Act (H.R.3204)",
 "url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
 "date": "2025-05-05",
 "quote": null,
-"what_it_shows": "Supports domestic semiconductor manufacturing incentives; silent on export controls."
+"what_it_shows": "Extends the tax credit for building chip factories and adds chip design; it says nothing about exports to China."
 }
 ]
 }
 },
-"search_notes": "Ran about 12 Google News queries (AI, data centers, Big Tech/antitrust/230/KOSA, chatbot/deepfake/NO FAKES, preemption/GUARDRAILS, chips/GlobalFoundries, electricity/Power for the People, AI video, PACs) and scanned all 120 press releases on balint.house.gov back to Feb 2025 by title, reading the tech-related ones in full. Confirmed her signature on the Matsui letter by extracting the PDF text and on the Clarke letter and Casar letter from the release pages; confirmed her H.R. 8241 cosponsorship date on GovTrack and her Nay on roll call 228. The Addictive Design Act page on her site is dated July 27, 2027, an apparent typo for 2026 since it sits between July 21 and Aug 21, 2026 items; recorded as 2026-07-27. No statement on data centers, chip export controls, or the Dec 2025 executive order beyond the letters was found. No AI super PAC support or attacks found. Seven Days and WAMC pieces on the AI video could not be fetched; the WCAX story supplied her quotes."
+"search_notes": "Searches: Balint artificial intelligence; AI chatbot/deepfake/data center; data centers Vermont; Big Tech/Section 230/antitrust/KOSA; chips/Nvidia/export controls; GUARDRAILS/preemption/moratorium; Stop AI Price Gouging/Algorithmic Accountability; energy bills/ratepayers/Power for the People; social media/privacy; AI town halls; AI super PACs; site listing of balint.house.gov (Wayback index nearly empty, so the site's own news list was crawled, pages 1 to 6). Opened: her Addictive Design Act release (the site shows the date as July 27, 2027, an apparent typo; Google News dates it July 27, 2026), NO FAKES reintroduction release, kids online vote statement, End Rent Fixing Act release, Meta/Google ICE ads letter release, committees and caucuses page, Dec 16 2025 antitrust hearing statement, Casar letter, Matsui letter PDF, Clarke letter, WCAX article, GovTrack cosponsor list for H.R. 8241. Power for the People (H.R. 8241) was not in the verified record file but is confirmed on GovTrack. No data center quote from Balint exists in any Vermont coverage found; the Vermont AI campaign video fight was about a deepfake of her, not policy she set. No AI super PAC activity on Balint found. Fast Company piece on Big Tech ICE ads could not be opened (403) but her own release on the letter was."
 }
 ]

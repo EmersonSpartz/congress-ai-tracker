@@ -1,0 +1,534 @@
+[
+{
+"bioguide": "H001091",
+"name": "Ashley Hinson",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Hinson praises data centers as job and tax-revenue engines and toured the QTS Cedar Rapids campus with Energy Secretary Wright, but she says siting decisions belong to local governments and repeats constituents' worries about utility rates and water. Build, with conditions.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Op-ed: Hinson in Washington Reporter, 'Congress needs to ensure that the AI future belongs to our kids, not to Beijing'",
+"url": "https://www.washingtonreporter.news/op-ed-rep-ashley-hinson-congress-needs-to-ensure-that-the-ai-future-belongs-to-our-kids-not-to-beijing/",
+"date": "2026-03-20",
+"quote": "Those investments are creating real jobs in rural communities, generating local tax revenue, and spurring the kind of economic growth that Washington promises, but rarely delivers.",
+"what_it_shows": "She frames data centers as a clear economic positive for rural Iowa and wants Congress to fund workforce training to staff them."
+},
+{
+"type": "interview",
+"title": "KGAN Connect to Congress interview: Hinson on Iowa's data center boom and local moratoriums",
+"url": "https://cbs2iowa.com/news/local/congresswoman-ashley-hinson-discusses-health-care-bill-data-centers",
+"date": "2026-08-10",
+"quote": "Iowans want to know that their utility rates are not going to go skyrocketing, and they're going to have that additional expense",
+"what_it_shows": "She acknowledges ratepayer and water concerns raised by constituents and says data center decisions are best decided at the local level."
+},
+{
+"type": "interview",
+"title": "CAP Action article quoting Hinson's August 2026 Iowa's News Now interview on data centers",
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"date": "2026-08-24",
+"quote": "I continue to hear from my constituents that they're also concerned about data centers and what I have said is I believe that these decisions are best decided at the local level.",
+"what_it_shows": "Asked whether Congress should step in on data centers, she said the decisions should stay local; the article notes she voted for the House H.R. 1 that carried a state and local AI moratorium."
+},
+{
+"type": "other",
+"title": "KGAN: Energy Secretary Wright tours QTS Cedar Rapids data center with Hinson",
+"url": "https://cbs2iowa.com/news/local/wright-touts-midwest-role-in-ai-growth-during-cedar-rapids-stop-at-qts-site",
+"date": "2026-04-24",
+"quote": null,
+"what_it_shows": "She appeared and spoke alongside Wright and QTS and Alliant executives at the $10 billion campus, a public show of support for the project."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "In a March 2026 op-ed she said AI risks deserve scrutiny but called heavy-handed regulation dangerously misguided and framed AI as a race with China. She does want federal rules for platforms whose algorithms and chatbots reach kids, so light touch overall with targeted exceptions.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Op-ed: Hinson in Washington Reporter on AI, kids and Beijing",
+"url": "https://www.washingtonreporter.news/op-ed-rep-ashley-hinson-congress-needs-to-ensure-that-the-ai-future-belongs-to-our-kids-not-to-beijing/",
+"date": "2026-03-20",
+"quote": "But fear-mongering and calls for heavy-handed overregulation are a dangerously misguided approach",
+"what_it_shows": "She casts strong AI regulation as a mistake that would hand the lead to China, the core light-touch argument."
+},
+{
+"type": "op_ed",
+"title": "Op-ed: Hinson in Washington Reporter, risk scrutiny passage",
+"url": "https://www.washingtonreporter.news/op-ed-rep-ashley-hinson-congress-needs-to-ensure-that-the-ai-future-belongs-to-our-kids-not-to-beijing/",
+"date": "2026-03-20",
+"quote": "we need to be as thoughtful and thorough in our scrutiny of the risks as we are in our excitement about the benefits",
+"what_it_shows": "She does not dismiss AI risk outright; she pairs scrutiny of risks with opposition to overregulation."
+},
+{
+"type": "interview",
+"title": "Radio Iowa: Hinson says Big Tech failing to address algorithm concerns (Ankeny roundtable with Sen. Cruz)",
+"url": "https://www.radioiowa.com/2026/07/26/hinson-says-big-tech-failing-to-address-algorithm-concerns/",
+"date": "2026-07-26",
+"quote": "We're going to have to tell them how to do this because their job is to get kids addicted to the scroll.",
+"what_it_shows": "She hosted parents to discuss chatbots and online games reaching kids and called for federal action, a targeted-guardrail stance in tension with her anti-overregulation framing."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Child Exploitation and Artificial Intelligence Expert Commission Act of 2024 (H.R. 8005, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8005",
+"date": "2024-04-15",
+"quote": null,
+"what_it_shows": "Backed a study commission on how AI is used to exploit children, a modest, study-first approach."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "She wants Congress to force Big Tech to change algorithms that hook kids, backed the TikTok divest-or-ban law and a DJI drone ban, and led a push to investigate Chinese TP-Link devices. Targeted rules focused on child safety and Chinese-linked tech, not broad antitrust or Section 230 repeal.",
+"evidence": [
+{
+"type": "interview",
+"title": "Radio Iowa: Hinson says Big Tech failing to address algorithm concerns",
+"url": "https://www.radioiowa.com/2026/07/26/hinson-says-big-tech-failing-to-address-algorithm-concerns/",
+"date": "2026-07-26",
+"quote": "It's very clear 'Big Tech' hasn't been doing that on their own",
+"what_it_shows": "She says platforms will not fix harmful algorithms voluntarily and Congress must set the rules, and she wants proof TikTok's new U.S. owner changed its algorithm."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Americans from Foreign Adversary Controlled Applications Act (H.R. 7521, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-05",
+"quote": null,
+"what_it_shows": "Supported forcing TikTok's sale or ban, a major intervention against a tech platform."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Countering CCP Drones Act (H.R. 2864, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2864",
+"date": "2024-04-11",
+"quote": null,
+"what_it_shows": "Backed barring new DJI drones from U.S. airwaves over spying concerns."
+},
+{
+"type": "letter",
+"title": "Press release: Hinson, Krishnamoorthi, Ernst lead bipartisan letter urging Commerce investigation of TP-Link",
+"url": "https://hinson.house.gov/media/press-releases/hinson-krishnamoorthi-ernst-lead-bipartisan-push-urging-commerce-investigation",
+"date": "2025-11-18",
+"quote": "providing a vehicle for Beijing to spy on America",
+"what_it_shows": "Led 20 lawmakers asking the administration to investigate and potentially remove Chinese-made routers and cameras, showing willingness to restrict tech products on security grounds."
+}
+]
+},
+"preemption": {
+"score": 0,
+"confidence": "low",
+"summary": "Mixed. She voted for the House version of H.R. 1 that carried a 10-year freeze on state and local AI laws, yet says data center decisions should be made locally and did not want Congress to step in. No statement found on the December 2025 executive order or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: passage of H.R. 1 (One Big Beautiful Bill Act), which then included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "Hinson voted Yea on the House bill containing the state and local AI law moratorium, though the vote was on the whole reconciliation package."
+},
+{
+"type": "interview",
+"title": "CAP Action article quoting Hinson on whether Congress should step in on data centers",
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"date": "2026-08-24",
+"quote": "I think again this should be decided at the local level",
+"what_it_shows": "On data centers she defers to local governments rather than a federal rule, cutting against the moratorium she voted for."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "A China Select Committee member, she wrote that China keeps acquiring advanced chips in violation of export controls, called that a failure Congress must fix, and asked whether controls go far enough. She cosponsored bills to bar DeepSeek from government devices and to close the cloud-access loophole for Chinese firms.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Op-ed: Hinson in Washington Reporter on chips and export controls",
+"url": "https://www.washingtonreporter.news/op-ed-rep-ashley-hinson-congress-needs-to-ensure-that-the-ai-future-belongs-to-our-kids-not-to-beijing/",
+"date": "2026-03-20",
+"quote": "We should also be asking whether our existing export controls go far enough to block China's access to the most advanced AI chips.",
+"what_it_shows": "She leans toward tighter chip controls and stronger enforcement against smuggling, and wants DOJ empowered to pursue violators."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: No DeepSeek on Government Devices Act (H.R. 1121)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-05-09",
+"quote": null,
+"what_it_shows": "Backed removing the Chinese AI app from federal devices."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Closing Loopholes for the Overseas Use and Development of AI Act (H.R. 4683, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4683",
+"date": "2023-11-14",
+"quote": null,
+"what_it_shows": "Backed stopping Chinese firms from renting restricted AI chips through the cloud."
+}
+]
+}
+},
+"signature": "GOP Senate nominee and China Select Committee member who frames AI as a race with Beijing: light on AI regulation, hawkish on chips, pro data center but 'local decision' on siting, tough on Big Tech over kids.",
+"notable_quote": {
+"text": "But fear-mongering and calls for heavy-handed overregulation are a dangerously misguided approach",
+"url": "https://www.washingtonreporter.news/op-ed-rep-ashley-hinson-congress-needs-to-ensure-that-the-ai-future-belongs-to-our-kids-not-to-beijing/",
+"date": "2026-03-20"
+},
+"groups": [],
+"search_notes": "Google News queries: Hinson + artificial intelligence, AI, data center, chatbot/Cruz, Big Tech/Section 230/TikTok, Nvidia/export controls/DeepSeek, preemption/moratorium, ratepayers/utility rates, QTS/Wright, Turek data centers, AI Caucus, AI super PACs (none found). Scanned hinson.house.gov press-release pages 0-11 (Feb 2025 to Sep 2026): no AI-specific releases; found TP-Link letter and H.R. 1 vote statement. Read in full: Washington Reporter op-ed (Mar 20, 2026), KGAN Aug 10, 2026 interview, Radio Iowa Jul 26, 2026 roundtable story, KGAN QTS tour story, CAP Action article, govtrack h145. Could not open: The Gazette (captcha), Iowa Capital Dispatch Cruz/chatbots story (Cloudflare), Newsweek Senate-race data center piece, Fox News May 2026 interview on China AI (URL not located). Google News link decoder was rate-limited and archive.org was unreachable during this session."
+},
+{
+"bioguide": "N000193",
+"name": "Zachary Nunn",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026, even though water use at the Altoona data center is a live issue in his district and NBC News interviewed voters there. Searched news, his official site and campaign coverage.",
+"evidence": [
+{
+"type": "other",
+"title": "NBC News: voters in key midterm races, including a Bondurant electrician in IA-3, worry about data centers",
+"url": "https://www.nbcnews.com/politics/2026-election/trump-data-centers-voters-key-midterm-races-rcna594914",
+"date": "2026-09-06",
+"quote": null,
+"what_it_shows": "Data center water use in Altoona is a campaign issue in Nunn's district, but the article quotes a voter, not Nunn, and no Nunn statement was found elsewhere."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Nunn's line is innovation plus guardrails: he sponsors the AI PLAN Act to fight AI-driven fraud and foreign manipulation, and cosponsored bills requiring agencies to follow NIST's AI risk framework, keeping a human in the loop on nuclear launches, and labeling AI robocalls. He also pushes AI adoption in farming and research. Targeted guardrails, not sweeping rules.",
+"evidence": [
+{
+"type": "statement",
+"title": "Nunn newsletter: 'AI Guardrails' after a House Financial Services AI hearing",
+"url": "https://nunn.house.gov/2025/09/18/%f0%9f%92%bb-ai-guardrails/",
+"date": "2025-09-18",
+"quote": "encouraging innovation while putting guardrails in place to prevent fraud and protect Iowans",
+"what_it_shows": "His stated approach to AI policy: innovation first, with guardrails aimed at scams, market manipulation and foreign propaganda."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: AI PLAN Act (H.R. 2152)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2152",
+"date": "2025-03-14",
+"quote": null,
+"what_it_shows": "Requires Treasury, Commerce and DHS to build a strategy against AI-enabled fraud, misinformation and cyber threats; passed committee unanimously in May 2026."
+},
+{
+"type": "statement",
+"title": "Press release: Nunn bills to protect retirees from fraud, combat AI threats pass Financial Services Committee",
+"url": "https://nunn.house.gov/2026/05/13/nunn-bills-to-protect-retirees-from-fraud-combat-ai-threats-pass-financial-services-committee/",
+"date": "2026-05-13",
+"quote": "Our bill ensures the federal government has a coordinated strategy to identify and counter these threats while keeping the United States at the forefront of AI innovation.",
+"what_it_shows": "He pairs AI threat response with keeping America ahead in AI, the balanced framing behind a targeted-guardrails score."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Federal Artificial Intelligence Risk Management Act of 2026 (H.R. 8819)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8819",
+"date": "2026-05-14",
+"quote": null,
+"what_it_shows": "Would require federal agencies to follow NIST's AI Risk Management Framework when buying or using AI."
+},
+{
+"type": "statement",
+"title": "FedScoop: Federal agencies would use NIST's AI guidelines under bipartisan House bill from Lieu, Nunn and Beyer",
+"url": "https://fedscoop.com/federal-agencies-ai-guidelines-nist-house-bill/",
+"date": "2026-05-18",
+"quote": null,
+"what_it_shows": "Press coverage confirms Nunn co-led the bill mandating agencies use the NIST AI Risk Management Framework."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023 (H.R. 2894, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2023-06-05",
+"quote": null,
+"what_it_shows": "Backed a hard rule that a human, not an AI, must decide any nuclear launch."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: QUIET Act (H.R. 1027)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-04-08",
+"quote": null,
+"what_it_shows": "Would require robocalls using AI voices to disclose it and raise fines."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: FARM AI Act of 2026 (H.R. 9686)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9686",
+"date": "2026-07-14",
+"quote": null,
+"what_it_shows": "Pushes USDA research and extension to help farmers adopt AI, showing he also wants faster AI adoption."
+},
+{
+"type": "statement",
+"title": "Press release: Nunn introduces bipartisan bill to put AI to work on Iowa farms",
+"url": "https://nunn.house.gov/2026/07/15/nunn-introduces-bipartisan-bill-to-put-artificial-intelligence-to-work-on-iowa-farms/",
+"date": "2026-07-15",
+"quote": "Artificial intelligence is the next frontier.",
+"what_it_shows": "He talks up AI's upside for agriculture, the pro-innovation half of his position."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "He backs specific fixes: the TAKE IT DOWN Act on non-consensual images, AI robocall disclosure, a ban on Chinese-linked connected cars, limits on data brokers selling troops' data, and help for victims of tech-enabled abuse. No sign he wants break-ups or Section 230 repeal.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (H.R. 633)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-10",
+"quote": null,
+"what_it_shows": "Backed criminalizing non-consensual real and AI-faked sexual images and forcing fast takedowns."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (H.R. 8730)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "Would ban connected cars and software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "statement",
+"title": "Press release: Nunn joins bipartisan, bicameral effort to support victims of technology-enabled abuse",
+"url": "https://nunn.house.gov/2025/06/25/nunn-joins-bipartisan-bicameral-effort-to-support-victims-of-technology-enabled-abuse/",
+"date": "2025-06-25",
+"quote": "In the Iowa statehouse, I led efforts to protect survivors from the growing threat of digital abuse. Now, we're taking that work nationwide",
+"what_it_shows": "Co-led a bill with Dingell and Wyden to help survivors secure devices against stalking and abuse tech."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Military Servicemembers' Data Act of 2023 (H.R. 6573, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2023-12-04",
+"quote": null,
+"what_it_shows": "Would stop data brokers from selling troops' personal data to hostile countries."
+},
+{
+"type": "letter",
+"title": "Nunn newsletter: 'Protecting Families' Privacy' on a Chinese-linked smart-vacuum deal",
+"url": "https://nunn.house.gov/2026/01/13/%f0%9f%a4%96-protecting-families-privac/",
+"date": "2026-01-13",
+"quote": "If a foreign adversary can exploit a bankruptcy process to access that information, it's a risk we can't ignore.",
+"what_it_shows": "Led a bipartisan letter asking Treasury to review whether a Chinese-linked acquisition of a smart-home device maker should be blocked over home mapping data."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "The only signal is his May 2025 vote for the House version of H.R. 1, which carried a 10-year freeze on state and local AI laws. No statement found on preemption, the December 2025 executive order or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: passage of H.R. 1 (One Big Beautiful Bill Act), which then included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "Nunn voted Yea on the House bill containing the state and local AI law moratorium, though the vote covered the whole reconciliation package."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "A China Select Committee member and former intelligence officer, Nunn calls the AI race with China 'high stakes' and cosponsored the AI OVERWATCH Act to let Congress block advanced chip sales to China, plus bills to ban DeepSeek from government devices and close the cloud-access loophole.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI OVERWATCH Act (H.R. 6875)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-02-03",
+"quote": null,
+"what_it_shows": "Would give Congress power to block sales of advanced AI chips to China and other risky countries before they happen."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: No DeepSeek on Government Devices Act (H.R. 1121)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-04-10",
+"quote": null,
+"what_it_shows": "Backed removing the Chinese AI app from federal devices."
+},
+{
+"type": "interview",
+"title": "Radio Iowa: U.S. Rep. Nunn says China 'more dangerous' than ever (America First Policy Institute forum)",
+"url": "https://www.radioiowa.com/2026/08/13/u-s-rep-nunn-says-china-more-dangerous-than-ever/",
+"date": "2026-08-13",
+"quote": "We have a China that's more unhinged, more dangerous and more directed in a strategic competition that they intend to win against the United States than ever before",
+"what_it_shows": "He described a high-stakes AI race with China and credited the Select Committee as the pathway for a strategic response."
+},
+{
+"type": "statement",
+"title": "Nunn newsletter: 'China's AI Threat'",
+"url": "https://nunn.house.gov/2025/06/28/%f0%9f%8c%90-chinas-ai-threat/",
+"date": "2025-06-28",
+"quote": "As a former intelligence officer who helped stop Huawei's spread in the U.S., I've seen this playbook before.",
+"what_it_shows": "He casts Chinese AI as a security threat and ties his AI PLAN Act to keeping American AI ahead of the CCP."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Closing Loopholes for the Overseas Use and Development of AI Act (H.R. 4683, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4683",
+"date": "2023-11-01",
+"quote": null,
+"what_it_shows": "Backed stopping Chinese firms from renting restricted AI chips through the cloud."
+}
+]
+}
+},
+"signature": "Financial Services AI subcommittee member and former intelligence officer: sponsors the AI PLAN Act and FARM AI Act, backs targeted AI guardrails and deepfake and kids bills, and is a chip-export hawk (AI OVERWATCH Act).",
+"notable_quote": {
+"text": "Our adversaries are only continuing to invest in AI technology, so America must develop a plan that supports innovation while protecting American businesses, markets, and families.",
+"url": "https://nunn.house.gov/2025/03/14/nunn-introduces-bipartisan-legislation-to-combat-artificial-intelligence-misinformation/",
+"date": "2025-03-14"
+},
+"groups": [
+"House Financial Services Committee Bipartisan Working Group on Artificial Intelligence (118th Congress)"
+],
+"search_notes": "Google News queries: Nunn + artificial intelligence, data center, Altoona data center, chatbot/deepfake/Take It Down, Big Tech/Section 230/TikTok, preemption/moratorium, Trone Garriott data centers, AI Caucus, AI super PACs (none found). Official-site WordPress search for artificial intelligence, data center, deepfake, chips export; read AI Guardrails and China's AI Threat newsletters, AI PLAN Act releases (Mar 2025, May 2026), FARM AI release and newsletter, Expanding AI Voices release, tech-abuse release, privacy newsletter, Taiwan trade release (mentions NDAA provision on drones, AI and microchips). Read Radio Iowa Aug 13, 2026 story via browser, FedScoop May 18, 2026 story, NBC News Sep 6, 2026 story, govtrack h145. No Nunn statement on data centers, state AI law preemption, or the Dec 2025 executive order located. Politico data center pieces (Jun 13 and Sep 2, 2026) could not be opened (URLs not resolvable; Google decoder rate-limited, archive.org unreachable)."
+},
+{
+"bioguide": "F000446",
+"name": "Randy Feenstra",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Asked in January 2026 whether Iowa should use its aquifers to cool AI data centers, Feenstra pivoted to growing energy supply and making Iowa business friendly, calling for baseload power and safe nuclear options. Pro-growth, with no stated conditions on data centers themselves. One interview only.",
+"evidence": [
+{
+"type": "interview",
+"title": "Newton Daily News: Randy Feenstra says AI offers 'huge opportunities,' nuclear is 'way of the future'",
+"url": "https://www.newtondailynews.com/article/788,randy-feenstra-says-ai-offers-huge-opportunities-nuclear-is-way-of-the-future",
+"date": "2026-01-09",
+"quote": "To do that, we need energy, so we gotta grow energy here",
+"what_it_shows": "Asked about data centers using Iowa aquifers for cooling, he answered with energy growth and business friendliness rather than limits or protections."
+},
+{
+"type": "interview",
+"title": "Newton Daily News: Feenstra on nuclear power and Duane Arnold restart",
+"url": "https://www.newtondailynews.com/article/788,randy-feenstra-says-ai-offers-huge-opportunities-nuclear-is-way-of-the-future",
+"date": "2026-01-09",
+"quote": "Nuclear in the next five to seven years is going to be where we have to get our power.",
+"what_it_shows": "He wants new baseload and small nuclear plants, noting the restarted Duane Arnold plant's power is largely spoken for by Google."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "He calls AI a 'huge opportunity' for health care, education and manufacturing but says there must be guardrails so AI is safe and does not push out false or unreliable content. One brief interview; his only AI bill is a study of using AI to catch tax fraud.",
+"evidence": [
+{
+"type": "interview",
+"title": "Newton Daily News: Randy Feenstra says AI offers 'huge opportunities,' nuclear is 'way of the future'",
+"url": "https://www.newtondailynews.com/article/788,randy-feenstra-says-ai-offers-huge-opportunities-nuclear-is-way-of-the-future",
+"date": "2026-01-09",
+"quote": "There's also gotta be guardrails in making sure it's safe and that it's real and we're not pushing out stuff that's false and stuff that's not reliable",
+"what_it_shows": "He supports guardrails on AI safety and false content while touting AI's upside, a targeted-guardrails stance stated in general terms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: DETECT Act of 2025 (H.R. 4974)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4974",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "Asks GAO to study whether AI could help the IRS catch tax fraud; shows interest in government use of AI, not in regulating it."
+},
+{
+"type": "statement",
+"title": "FedScoop: House bill seeks AI boost for IRS to flag tax fraud (DETECT Act cosponsors include Feenstra)",
+"url": "https://fedscoop.com/irs-ai-fraud-house-bill/",
+"date": "2025-08-20",
+"quote": null,
+"what_it_shows": "Press coverage confirms his cosponsorship of the AI-for-IRS study bill; he was not quoted."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His main tech bill would make Big Tech pay into the Universal Service Fund for rural broadband, and he cosponsored a bill to stop data brokers selling troops' data to hostile countries. Targeted measures; no broader Big Tech agenda found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Feenstra leads legislation to lower broadband costs for rural Iowa communities (Lowering Broadband Costs for Consumers Act)",
+"url": "https://feenstra.house.gov/media/press-releases/feenstra-leads-legislation-lower-broadband-costs-rural-iowa-communities",
+"date": "2025-06-17",
+"quote": "Big Tech companies use these networks once completed but rarely contribute their fair share towards the cost. It is completely unfair",
+"what_it_shows": "He wants large tech platforms forced to help fund rural broadband, a specific financial obligation on Big Tech."
+},
+{
+"type": "statement",
+"title": "Broadband Breakfast: Feenstra introduces House companion to Senate bill that would assess ISPs, Big Tech",
+"url": "https://broadbandbreakfast.com/feenstra-introduces-house-companion-to-senate-bill-that-would-assess-isps-big-tech/",
+"date": "2025-06-24",
+"quote": null,
+"what_it_shows": "Trade press confirms the bill would require big tech companies and ISPs to contribute to the Universal Service Fund."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Military Servicemembers' Data Act of 2023 (H.R. 6573, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2023-12-04",
+"quote": null,
+"what_it_shows": "Would stop data brokers from selling troops' personal data to hostile countries."
+}
+]
+},
+"preemption": {
+"score": 0,
+"confidence": "low",
+"summary": "Mixed and thin. He voted for the House H.R. 1 that carried the 10-year freeze on state AI laws, but told a Newton paper that AI guardrails are being worked on federally and states will have to work on them too. No statement on the executive order or White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: passage of H.R. 1 (One Big Beautiful Bill Act), which then included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "Feenstra voted Yea on the House bill containing the state and local AI law moratorium, though the vote covered the whole reconciliation package."
+},
+{
+"type": "interview",
+"title": "Newton Daily News: Feenstra on AI guardrails at federal and state level",
+"url": "https://www.newtondailynews.com/article/788,randy-feenstra-says-ai-offers-huge-opportunities-nuclear-is-way-of-the-future",
+"date": "2026-01-09",
+"quote": "That's what we're working with at the federal level and we'll have to work with it at the state level also",
+"what_it_shows": "As a governor candidate he assumed states would also set AI guardrails, which sits awkwardly with the moratorium he voted for."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China as of Sept 2026. Searched news for Feenstra with chips, Nvidia, export controls and semiconductors and scanned his press releases; his China items concern spying arrests, Confucius Institutes and farm security, not AI chips.",
+"evidence": []
+}
+},
+"signature": "Little AI footprint: Ways and Means member and 2026 governor primary loser who cosponsored the DETECT Act (AI to catch tax fraud) and says AI is a 'huge opportunity' needing guardrails and nuclear-powered energy growth.",
+"notable_quote": {
+"text": "There's also gotta be guardrails in making sure it's safe and that it's real and we're not pushing out stuff that's false and stuff that's not reliable",
+"url": "https://www.newtondailynews.com/article/788,randy-feenstra-says-ai-offers-huge-opportunities-nuclear-is-way-of-the-future",
+"date": "2026-01-09"
+},
+"groups": [],
+"search_notes": "Google News queries: Feenstra + artificial intelligence, AI, data center(s), chatbot/deepfake/Big Tech/TikTok, China chips/Nvidia/export controls (no results), nuclear, Newton/Jasper, 'way of the future', 'huge opportunities', governor race data centers. Scanned feenstra.house.gov press-release pages 0-11 (May 2025 to Jul 2026): no AI releases; found broadband/Big Tech USF bill, quantum computing bill, IRS and China items. Located the Newton Daily News article through the site's XML sitemap after the CMS search and URL guesses failed, and read it in full. Read FedScoop DETECT Act story, Broadband Breakfast story, govtrack h145. Gubernatorial primary coverage (KCCI debate, Register) was not openable via resolvable URLs. No AI super PAC activity or AI caucus membership found."
+}
+]

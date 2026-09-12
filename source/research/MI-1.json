@@ -1,0 +1,703 @@
+[
+{
+"bioguide": "P000595",
+"name": "Gary C. Peters",
+"signature": "Retiring senator whose AI lane is binding rules for how the federal government buys and uses AI (PREPARED for AI Act, AI LEAD Act); signed the Commerce Democrats' letter calling the state AI-law moratorium a trampling of states' rights.",
+"groups": [
+"Chairman (118th Congress) and Ranking Member (119th Congress), Senate Homeland Security and Governmental Affairs Committee, which handles federal AI procurement bills"
+],
+"notable_quote": {
+"text": "setting the stage for how the federal government is going to buy and use AI will have a large effect on the AI industry, as well as innovation",
+"url": "https://rollcall.com/2024/06/25/peters-pitches-ai-legislation-as-model-for-private-sector/",
+"date": "2024-06-25"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. Searches for Peters with data center, DTE, Saline Township, ratepayers and electricity bills turned up only coverage of the Senate candidates running to replace him and his endorsement of Haley Stevens. He has not sponsored or cosponsored a data center bill.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Wants binding, risk-tiered rules for how the federal government buys and uses AI, including bans on uses like social scoring and emotion mapping and pre-deployment testing for high-risk systems, and he expects those standards to spread to industry. He told Roll Call that voluntary company pledges are not enough. Also backs deepfake and algorithmic bias bills. No position found on licensing frontier models or a pause.",
+"evidence": [
+{
+"type": "interview",
+"title": "Roll Call: Peters pitches AI legislation as model for private sector",
+"url": "https://rollcall.com/2024/06/25/peters-pitches-ai-legislation-as-model-for-private-sector/",
+"date": "2024-06-25",
+"quote": "setting the stage for how the federal government is going to buy and use AI will have a large effect on the AI industry, as well as innovation",
+"what_it_shows": "He pitched his procurement bill (risk tiers, banned uses, testing of high-risk systems) as a standard the private sector would follow, and said voluntary pledges alone are not enough."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.4495 PREPARED for AI Act (118th), rules for how agencies buy and test AI",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/4495",
+"date": "2024-06-11",
+"quote": null,
+"what_it_shows": "Wrote the main Senate bill setting risk-based safeguards for federal AI purchases."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.2293 AI LEAD Act (118th), a Chief AI Officer in every agency",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2293",
+"date": "2023-07-13",
+"quote": null,
+"what_it_shows": "Wants formal oversight of how government uses AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.2892 Algorithmic Accountability Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2892",
+"date": "2023-09-21",
+"quote": null,
+"what_it_shows": "Backed making big companies test automated decision systems for bias and report to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.146 TAKE IT DOWN Act, now law",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Supported criminal penalties and takedown duties for AI-faked intimate images."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted rules for kids and consumers: cosponsor of the Kids Online Safety Act in both Congresses, the children's privacy update, the TAKE IT DOWN law, and a ban on Chinese-linked connected cars. Not a break-up-Big-Tech or repeal-Section-230 voice.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-07-31",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms toward minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1418 Children and Teens' Online Privacy Protection Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1418",
+"date": "2024-04-17",
+"quote": null,
+"what_it_shows": "Backed limits on collecting kids' and teens' data and targeting ads at them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and car software from China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1409 Kids Online Safety Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409",
+"date": "2023-05-02",
+"quote": null,
+"what_it_shows": "A consistent KOSA backer across two Congresses."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Signed a June 2025 letter with fellow Commerce Committee Democrats calling the 10-year moratorium on state AI laws a trampling of states' rights, then voted to strip it from H.R. 1. No statement found on the Dec 2025 executive order or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Cantwell and 11 Commerce Committee Democrats, including Peters, to Chairman Cruz on the reconciliation Commerce title",
+"url": "https://www.commerce.senate.gov/press/dem/release/cantwell-commerce-committee-democrats-call-for-regular-order-on-dangerous-and-damaging-commerce-title-of-reconciliation-bill-2025-6/",
+"date": "2025-06-11",
+"quote": "the AI moratorium proposal tramples states' rights and holds the $42 billion BEAD program hostage, further delaying the broadband Americans desperately need",
+"what_it_shows": "He put his name on a letter opposing the federal moratorium on state AI laws as a states' rights problem."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the 10-year state AI-law moratorium from H.R. 1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted to remove the moratorium; nearly every senator did, so the letter above is the stronger signal."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Leans hawkish. Signed a June 2026 letter demanding hearings on the transfer of 35,000 Nvidia Blackwell chips to a UAE firm despite intelligence warnings about China, and cosponsored a ban on adversary-made AI in government. His own chips bills are about bringing factories home, not export controls. No statement found on Nvidia H20 or H200 sales.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Warren, Blumenthal, Peters, Durbin and Wyden demand hearings on UAE investment and the G42 Blackwell chip transfer",
+"url": "https://unchainedcrypto.com/senate-democrats-demand-hearings-on-uaes-reported-500-million-stake-in-trump-family-crypto-venture/",
+"date": "2026-06-23",
+"quote": "despite warnings from U.S. intelligence officials that China could access the technology through the firm",
+"what_it_shows": "He treated the Gulf chip transfer as a China-diversion risk that deserved sworn testimony."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.2177 No Adversarial AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2177",
+"date": "2025-06-25",
+"quote": null,
+"what_it_shows": "Backed barring the federal government from using AI built by Chinese or other adversary companies."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.97 Securing Semiconductor Supply Chains Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/97",
+"date": "2025-01-15",
+"quote": null,
+"what_it_shows": "His chips work centers on attracting fabs to the U.S., a neutral onshoring stance rather than export policy."
+}
+]
+}
+},
+"search_notes": "Ran 12 news searches (AI, data centers, chatbot/deepfake/KOSA, Nvidia/export controls, Section 230/Big Tech/TikTok, Anthropic/Pentagon, DOGE/Grok, DTE/Saline) plus a peters.senate.gov listing. Opened Roll Call (June 2024), the Cantwell Commerce Democrats letter, the UAE letter coverage, govtrack s363 and the Roll Call Great American AI Act story. peters.senate.gov returned 403 and the Wayback Machine was unreachable, so the Aug 2026 KOSA committee release, the deepfake task force release and the 2025 semiconductor releases were not opened. The Axios quote on the Anthropic deadline could not be verified (403). The landscape leads on the Great American AI Act and FRONTIER Act refer to Rep. Scott Peters of California, not Gary Peters, and were dropped. Senate AI Caucus membership was not verified, so it is not listed."
+},
+{
+"bioguide": "S001208",
+"name": "Elissa Slotkin",
+"signature": "Armed Services senator who wrote the AI Guardrails Act to keep humans in charge of lethal strikes, nuclear launch and surveillance at the Pentagon; a China hawk on AI chips and connected cars.",
+"groups": [],
+"notable_quote": {
+"text": "If we were functioning like a healthy democracy, we would be talking about AI every single day in the US Senate and the US House.",
+"url": "https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and",
+"date": "2026-06-12"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No policy position found. In a June 2026 interview she called data centers the hottest grassroots issue in Michigan and tied the backlash to fear of AI job losses, but she did not say whether she backs a pause, ratepayer protections or faster building. No statement found on Saline Township or the U-M Ypsilanti project.",
+"evidence": [
+{
+"type": "interview",
+"title": "ChinaTalk interview: Slotkin on the Midwest data center revolt",
+"url": "https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and",
+"date": "2026-06-12",
+"quote": "data centers are basically the hottest, most galvanizing, most grassroots issue in a lot of the Midwest",
+"what_it_shows": "She recognizes the energy, water and AI-job anxieties driving the backlash but stops short of a policy stance."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Wants binding limits on the Pentagon's use of AI: a human must authorize lethal autonomous strikes and nuclear launches, and no AI mass surveillance of Americans. She calls this common sense while insisting the U.S. must win the AI race with China and urging the military to adopt frontier tools like Anthropic's Mythos for cyber defense. Also backs AI whistleblower protections and the NO FAKES Act.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.4113 AI Guardrails Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4113",
+"date": "2026-03-17",
+"quote": null,
+"what_it_shows": "Her own bill to ban DOD autonomous killing without human authorization, AI domestic surveillance and AI nuclear launch."
+},
+{
+"type": "statement",
+"title": "Press release: Slotkin legislation puts common-sense guardrails on DOD AI use",
+"url": "https://www.slotkin.senate.gov/2026/03/17/slotkin-legislation-puts-common-sense-guardrails-on-dod-ai-use-around-lethal-force-spying-on-americans-and-nuclear-weapons",
+"date": "2026-03-17",
+"quote": "Congress is behind in putting left and right limits on the use of AI, and the first place to start should be at the Pentagon",
+"what_it_shows": "She frames binding military AI limits as overdue while also saying the U.S. must win the AI race against China."
+},
+{
+"type": "interview",
+"title": "ChinaTalk interview: no one company or secretary should set kill-chain rules",
+"url": "https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and",
+"date": "2026-06-12",
+"quote": "there shouldn't be any one Secretary of Defense or any one company deciding the rules of how AI is used in what we would call the kill chain",
+"what_it_shows": "The Anthropic-Pentagon fight convinced her the rules must be written into law, with rigorous testing before fielding."
+},
+{
+"type": "hearing",
+"title": "Defense Daily: Slotkin says Pentagon should use Anthropic's Mythos to spot cyber gaps",
+"url": "https://www.defensedaily.com/slotkin-pentagon-should-use-anthropics-mythos-to-spot-cyber-security-gaps/congress/",
+"date": "2026-04-28",
+"quote": "I think the thing that has caught the attention of a lot of us is the announcement in the last four weeks by Anthropic and OpenAI of new products",
+"what_it_shows": "She is not anti-AI; she wants the military to use frontier models for defense even while limiting lethal and surveillance uses."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1792 AI Whistleblower Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1792",
+"date": "2025-10-08",
+"quote": null,
+"what_it_shows": "Backs protecting AI company workers who report safety problems."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1367 NO FAKES Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1367",
+"date": "2025-11-20",
+"quote": null,
+"what_it_shows": "Supports a legal right to stop AI copies of a person's voice or face."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Targeted rules: cosponsors bills to keep kids under 13 off social media, put warning labels on apps and pass KOSA, wrote the ban on Chinese connected cars with Sen. Moreno, and says people should own their own data. Not a break-up-Big-Tech voice.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.278 Kids Off Social Media Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/278",
+"date": "2025-06-03",
+"quote": null,
+"what_it_shows": "Backs banning kids under 13 from social media and limiting algorithmic targeting of teens."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-11-10",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms toward minors."
+},
+{
+"type": "interview",
+"title": "ChinaTalk interview: data ownership and the Chinese connected car ban",
+"url": "https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and",
+"date": "2026-06-12",
+"quote": "Your data should be something you possess, and we need a structure that allows for that in everything we do",
+"what_it_shows": "She wants a federal data-ownership framework and described writing the bill to ban Chinese vehicles and connected parts that send data to Beijing."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-04-29",
+"quote": null,
+"what_it_shows": "Backs banning connected cars and parts from China and other adversaries; she describes it as her bill with Sen. Moreno."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3397 ECCHO Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3397",
+"date": "2026-04-15",
+"quote": null,
+"what_it_shows": "Supports a federal crime for pressuring kids online into self-harm."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws. She voted with 98 colleagues to strip the 10-year moratorium from H.R. 1 in July 2025, but that vote alone does not show a position. Searches for her reaction to the Dec 2025 executive order and the March 2026 White House framework found nothing.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the state AI-law moratorium (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted to remove the moratorium along with nearly the whole Senate; not evidence of a stance on its own."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Wants tighter export controls. Joined seven Democratic senators in condemning the December 2025 decision to let Nvidia sell H200 chips to China, and cosponsors the Chip Security Act (location tracking for exported chips), the AI OVERWATCH Act (congressional veto over chip sales to China) and the FIGHT China Act on outbound investment.",
+"evidence": [
+{
+"type": "statement",
+"title": "Joint statement of eight Democratic senators including Slotkin opposing H200 sales to China (AP via Broadband Breakfast)",
+"url": "https://broadbandbreakfast.com/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china/",
+"date": "2025-12-09",
+"quote": "Access to these chips would give China's military transformational technology to make its weapons more lethal, carry out more effective cyberattacks against American businesses and critical infrastructure",
+"what_it_shows": "She publicly opposed the Trump decision to allow Nvidia H200 exports to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1705 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2026-06-02",
+"quote": null,
+"what_it_shows": "Backs built-in location verification so advanced chips cannot be smuggled to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4456 AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4456",
+"date": "2026-08-04",
+"quote": null,
+"what_it_shows": "Wants Congress to have a say before advanced AI chips are sold to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1053 FIGHT China Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1053",
+"date": "2025-03-13",
+"quote": null,
+"what_it_shows": "Backs screening and blocking U.S. investment in Chinese military and surveillance tech companies."
+}
+]
+}
+},
+"search_notes": "Ran 11 news searches (AI, data centers, Nvidia/export controls, Anthropic, chatbot/deepfake/KOSA, preemption/executive order, Saline/Stargate, economic war plan) plus a slotkin.senate.gov listing. Opened the full ChinaTalk interview, the AI Guardrails Act release (via Wayback), Defense Daily (first paragraph only, rest paywalled), Federal News Network, the AP copy of the H200 statement, a Baltimore Sun commentary and govtrack s363. slotkin.senate.gov returned 403 and Wayback later went down, so the Dec 2025 H200 release, the March 2026 Intel/SMEE letter and the June 2026 NDAA no-vote statement were not opened directly. The Warren H200 letter and Schumer Middle East chips letter pages were also blocked. The lead that she is ranking member of the SASC Emerging Threats subcommittee could not be verified, so no group is listed."
+},
+{
+"bioguide": "B001301",
+"name": "Jack Bergman",
+"signature": "Little public AI activity; a national security hawk who backed the TikTok divestiture law, cosponsors the Chinese connected-car ban, and signed a March 2026 letter praising the Energy Department's AI Genesis Mission.",
+"groups": [],
+"notable_quote": {
+"text": "There is a reason the Chinese Communist Party acted so negatively to the House working to ensure a company controlled by the CCP is not running TikTok",
+"url": "https://www.thealpenanews.com/news/local-news/2024/03/congressman-bergman-and-alpena-residents-comment-on-possible-ban-of-tiktok/",
+"date": "2024-03-19"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. Searched for Bergman with data center, Upper Peninsula, northern Michigan, ratepayers and electricity bills; his office's 2026 press list has nothing on the topic and he has not cosponsored any data center bill.",
+"evidence": []
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "The only signals point to innovation first. He joined eight House Republicans in a letter praising the Energy Department's AI Genesis Mission as a way to beat China, and at an April 2026 hearing he highlighted a VA pilot using AI to fill out disability questionnaires. No statement found on AI safety rules, chatbots or deepfakes.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Rep. Gooden and eight House Republicans including Bergman praise DOE's AI Genesis Mission (Washington Reporter)",
+"url": "https://www.washingtonreporter.news/p/exclusive-lawmakers-laud-trump-administrations-ai-genesis-mission",
+"date": "2026-03-27",
+"quote": "This pioneering public-private collaborative effort will revolutionize our nation's ability to transform discoveries and innovations into deployable technologies, ultimately benefitting the American people",
+"what_it_shows": "He signed on to celebrate federal AI acceleration framed around out-competing China, with no mention of safeguards."
+},
+{
+"type": "hearing",
+"title": "The War Horse: Bergman cites VA pilot using AI on veterans' medical records at April 2026 hearing",
+"url": "https://thewarhorse.org/ai-veterans-affairs-disability-claims/",
+"date": "2026-04",
+"quote": null,
+"what_it_shows": "Per the article, he pointed to a VA AI pilot that fills out disability questionnaires from medical records, a positive framing of AI adoption in government."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted, national security rules on Chinese-controlled technology: voted for the law forcing ByteDance to sell TikTok, cosponsored the ACES Act on Chinese social media apps, and cosponsors the Connected Vehicle Security Act. No record found on Section 230, antitrust or kids online safety.",
+"evidence": [
+{
+"type": "statement",
+"title": "Alpena News: Bergman defends his vote for the TikTok divestiture bill",
+"url": "https://www.thealpenanews.com/news/local-news/2024/03/congressman-bergman-and-alpena-residents-comment-on-possible-ban-of-tiktok/",
+"date": "2024-03-19",
+"quote": "There is a reason the Chinese Communist Party acted so negatively to the House working to ensure a company controlled by the CCP is not running TikTok",
+"what_it_shows": "He voted for the ByteDance divestiture bill and called TikTok's algorithm a propaganda and data-gathering threat."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-06-22",
+"quote": null,
+"what_it_shows": "Backs banning connected cars and parts from China, Russia, Iran and North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.4927 ACES Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4927",
+"date": "2023-07-26",
+"quote": null,
+"what_it_shows": "Supported cracking down on TikTok and other Chinese-controlled apps over spying concerns."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "The only signal is his May 2025 vote for the House version of H.R. 1, which carried a 10-year pause on state AI laws inside a much larger tax and spending bill. He has made no statement on preemption that we could find, so treat this as a weak lean.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on House roll call 145, passage of H.R. 1 including the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the reconciliation bill while it still contained the state AI-law moratorium; an omnibus vote, so a weak signal."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China as of Sept 2026. His China focus has been TikTok and connected cars, not semiconductors, and he has not cosponsored any chips bill.",
+"evidence": []
+}
+},
+"search_notes": "Ran 10 news searches (AI, artificial intelligence, data centers, Big Tech/Section 230/TikTok, chips/export controls, Genesis Mission, veterans AI, candidate profiles). bergman.house.gov press listing had no AI or tech items; the news index page (July 2026) was checked. Opened the Alpena News TikTok article, the Washington Reporter Genesis Mission letter, The War Horse VA article and govtrack h145. Interlochen Public Radio and Leelanau News candidate profiles could not be opened (Google News redirects would not decode and Wayback was down). His HASC Readiness subcommittee chairmanship is not AI-related so it is not listed."
+},
+{
+"bioguide": "M001194",
+"name": "John R. Moolenaar",
+"signature": "Chairman of the House China Select Committee and the House's most active voice for tightening AI chip export controls (GAIN AI Act, SCALE Act, opposition to Nvidia H20 and H200 sales); also cosponsors ratepayer and local-control data center bills.",
+"groups": [
+"Chairman, House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party (119th Congress)"
+],
+"notable_quote": {
+"text": "Artificial intelligence is the defining technology of the new Cold War. Whether the U.S. or China wins this race will be determined in large part by who has more and better chips.",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-backs-legislation-to-incentivize-whistleblowers-to-sound-alarm-on-chip-smuggling",
+"date": "2025-12-03"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Cosponsors two bills to shield households from data center power costs and keep siting decisions local, but no public statement from him on Michigan's data center fights was found. He also voted for House energy bills that critics tie to faster grid buildout.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.9340 Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "Backs keeping regular customers' electric bills from rising to pay for data center power needs."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.10119 Protecting Local Control of Data Centers Act (Barrett)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10119",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Wants local towns, not federal agencies, to decide whether data centers get built."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Treats AI mainly as a national security race with China rather than a safety problem, but he cosponsored protections for AI company whistleblowers and an NSA playbook for securing frontier models, and a pro-safeguards PAC ran ads praising his record on AI accountability. No statement found on frontier model risk, licensing or liability.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3460 AI Whistleblower Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3460",
+"date": "2025-06-05",
+"quote": null,
+"what_it_shows": "Backs protecting AI company workers who report safety problems."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3919 Advanced AI Security Readiness Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3919",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Wants the NSA to write a playbook for protecting frontier AI systems from theft by rivals."
+},
+{
+"type": "statement",
+"title": "Press release: Moolenaar introduces the ENFORCE Act to let Commerce control exports of AI systems",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/bipartisan-coalition-introduces-bill-stop-adversaries-gaining-access-advanced",
+"date": "2024-05-13",
+"quote": "Artificial intelligence is a foundational technology of the future with the potential to reshape our economy, our way of life, and our national security",
+"what_it_shows": "His AI framing is about keeping American models out of adversaries' hands rather than domestic safety rules."
+},
+{
+"type": "pac",
+"title": "Public First Action (Anthropic-backed) names Moolenaar among 12 Republicans in its $15 million Conservative AI Consensus ad campaign",
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"date": "2026-07-17",
+"quote": "12 Republican members of Congress who are leading on AI security and accountability",
+"what_it_shows": "A pro-safeguards AI PAC network is spending to praise his record rather than attack it."
+},
+{
+"type": "letter",
+"title": "Letters: Moolenaar and Garbarino open probe of Airbnb and Anysphere over use of Chinese AI models",
+"url": "https://chinaselectcommittee.house.gov/media/letters/chairmen-moolenaar-garbarino-announce-joint-investigation-into-airbnb-anysphere-and-the-national-security-risks-posed-by-chinese-ai-models",
+"date": "2026-04-29",
+"quote": "Airbnb and Anysphere's decisions to build their products on Chinese Communist AI models threaten critical infrastructure Americans use every day",
+"what_it_shows": "He sees Chinese open-weight models as a security and data risk and is using committee oversight on U.S. companies that adopt them."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Targeted, national security rules: helped force TikTok's split from ByteDance and keeps pressing on the algorithm deal, wrote the House ban on Chinese connected cars, and is investigating U.S. companies that build on Chinese AI models. Not a general Big Tech antitrust or Section 230 critic.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Op-ed: Social Media Legislation Protects National Security (on the TikTok divestiture law)",
+"url": "https://moolenaar.house.gov/media-center/press-releases/op-ed-social-media-legislation-protects-national-security",
+"date": "2024-03-12",
+"quote": "TikTok is another element of the CCP's nefarious activities in the United States.",
+"what_it_shows": "He championed the law forcing ByteDance to sell TikTok or face a U.S. ban."
+},
+{
+"type": "statement",
+"title": "Press release: TikTok breaks commitment to answer questions on its algorithm's ties to China",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/tiktok-breaks-commitment-to-publicly-answer-questions-on-its-algorithm-s-ties-to-china",
+"date": "2026-09-03",
+"quote": "TikTok has backed out of its commitment to appear at the Committee's September roundtable to answer questions on China's influence over TikTok's algorithm and its access to Americans' data.",
+"what_it_shows": "He is still using committee oversight to police the TikTok deal, including child safety and data access."
+},
+{
+"type": "statement",
+"title": "Press release: Questions need to be answered on TikTok deal",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-questions-need-to-be-answered-on-tiktok-deal",
+"date": "2026-01-23",
+"quote": "The Chinese Communist Party cannot be allowed to weaponize an app to divide and weaken our country.",
+"what_it_shows": "He demanded assurances that China has no influence over the algorithm in the ByteDance-licensed deal."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-05-11",
+"quote": null,
+"what_it_shows": "Wrote the House bill banning connected cars and parts from China, Russia, Iran and North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.7521 Protecting Americans from Foreign Adversary Controlled Applications Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-05",
+"quote": null,
+"what_it_shows": "Cosponsored the TikTok divestiture law itself."
+}
+]
+},
+"preemption": {
+"score": 0,
+"confidence": "low",
+"summary": "Mixed and thin. He voted for the House version of H.R. 1 with its 10-year pause on state AI laws, but a pro-safeguards PAC later credited him with helping keep AI preemption out of the defense bill, and he cosponsors a bill barring federal override of local data center zoning. No statement from him on preemption was found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on House roll call 145, passage of H.R. 1 including the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the reconciliation bill while it still contained the state AI-law moratorium; an omnibus vote, so a weak signal."
+},
+{
+"type": "pac",
+"title": "Public First Action ad campaign credits Moolenaar and 11 others with keeping AI preemption out of the NDAA",
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"date": "2026-07-17",
+"quote": "as well as work to keep federal preemption of state AI laws out of the National Defense Authorization Act",
+"what_it_shows": "A PAC's characterization, not his own words, that he resisted the late-2025 push to add preemption to the defense bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.10119 Protecting Local Control of Data Centers Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10119",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Backs blocking federal agencies from overriding local zoning on data centers, a local-control instinct."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "The House's leading export-control hawk on AI chips. Objected to resuming Nvidia H20 sales, told Commerce that approving H200 sales risks undercutting the U.S. lead, and demanded enforcement even if it blocks H200 exports entirely. Sponsors the GAIN AI Act and the SCALE Act, and cosponsors the Chip Security Act, AI OVERWATCH Act and Remote Access Security Act.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter to Commerce Secretary Lutnick objecting to resumed Nvidia H20 sales to China",
+"url": "https://chinaselectcommittee.house.gov/media/letters/moolenaar-warns-against-undermining-us-ai-advantage-in-nvidia-china-review-calls-on-commerce-to-maintain-strong-guardrails-amid-national-security-concerns",
+"date": "2025-07-18",
+"quote": "The Commerce Department made the right call in banning the H20. Now it must hold the line",
+"what_it_shows": "He opposed the July 2025 reversal allowing H20 exports and proposed a floating technical benchmark pegged just above China's own chips."
+},
+{
+"type": "letter",
+"title": "Letter to Lutnick on Nvidia H200 chips: U.S. winning the AI race against a weak Chinese chip sector",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-us-winning-the-ai-race-against-weak-chinese-chip-sector",
+"date": "2025-12-16",
+"quote": "Approving the sale of cutting-edge chips to Chinese companies risks undercutting the extraordinary strategic advantage that President Trump achieved in his first term",
+"what_it_shows": "He pushed back on the December 2025 H200 decision and requested a Commerce briefing."
+},
+{
+"type": "letter",
+"title": "Letter to Lutnick: Nvidia products used by DeepSeek and the People's Liberation Army",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-nvidia-products-used-by-deepseek-people-s-liberation-army",
+"date": "2026-01-28",
+"quote": "even if such enforcement effectively prevents H200 exports to the PRC altogether",
+"what_it_shows": "He said rigorous enforcement of the H200 military-use certification is essential even if it ends H200 exports to China, and asked for tighter limits on Chinese AI models."
+},
+{
+"type": "statement",
+"title": "Press release: Moolenaar introduces SCALE Act to create objective chip export standards",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-introduces-scale-act-to-create-objective-chip-export-standards",
+"date": "2026-04-21",
+"quote": "ensuring American companies never sell the best chips in the world to China",
+"what_it_shows": "His bill would cap exports at 110 percent of what China can already make at scale, with a presumption of denial above a share threshold."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.5885 GAIN AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5885",
+"date": "2025-10-31",
+"quote": null,
+"what_it_shows": "Would require chipmakers to offer advanced AI chips to American buyers before selling to China."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R.8306 SCALE Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8306",
+"date": "2026-04-15",
+"quote": null,
+"what_it_shows": "His own bill tightening rules on advanced chip sales to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3447 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "Backs location verification on exported AI chips to catch smuggling."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6875 AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Wants Congress to be able to block advanced AI chip sales to China before they happen."
+},
+{
+"type": "statement",
+"title": "Press release: Moolenaar backs Stop Stealing Our Chips Act (whistleblower rewards for chip smuggling)",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-backs-legislation-to-incentivize-whistleblowers-to-sound-alarm-on-chip-smuggling",
+"date": "2025-12-03",
+"quote": "Artificial intelligence is the defining technology of the new Cold War. Whether the U.S. or China wins this race will be determined in large part by who has more and better chips.",
+"what_it_shows": "He frames chip export enforcement as the decisive front in the AI race with China."
+},
+{
+"type": "statement",
+"title": "Press release: House passes Remote Access Security Act closing the cloud loophole",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/house-passes-bipartisan-legislation-to-limit-adversaries-remote-access-to-critical-technology",
+"date": "2026-01-12",
+"quote": "The CCP's AI ambitions are being fueled by its access to American chips housed in data centers located outside of China",
+"what_it_shows": "He wants export controls to cover remote cloud access to U.S. chips, not just physical shipments."
+},
+{
+"type": "letter",
+"title": "Letter to Commerce's Kessler urging enforcement of the chip due-diligence rule after the Huawei/Sophgo case (Yahoo News)",
+"url": "https://www.yahoo.com/news/politics/articles/rep-john-moolenaar-urges-trump-180310274.html",
+"date": "2026-08-10",
+"quote": "to close the loophole that Huawei and Sophgo exploited",
+"what_it_shows": "He pressed the Trump administration to enforce a Biden-era rule requiring chipmakers to scrutinize orders that may be fronts for sanctioned Chinese firms."
+}
+]
+}
+},
+"search_notes": "Ran 10 news searches (data centers, preemption/moratorium, Nvidia H20/H200, AI regulation, Big Tech/TikTok, GAIN AI/SCALE/Chip Security, NDAA preemption, Ratepayer Protection) plus site listings of moolenaar.house.gov and chinaselectcommittee.house.gov. Opened the H20 letter release, the H200 release, the Nvidia/DeepSeek letter release, MeriTalk, the SCALE Act release, the Stop Stealing Our Chips release, the Remote Access Security Act release, the ENFORCE Act release, two TikTok statements, the 2024 TikTok op-ed, the Airbnb/Anysphere probe letter, the Homeland Security page, Public First Action's announcement, Yahoo's Huawei/Sophgo story, Barrett's local-control release (Moolenaar not quoted there) and govtrack h145. No statement by him on Michigan data centers, state AI-law preemption or general AI regulation was found; Ripon Advance and the CBS Face the Nation transcript could not be opened. Public First Action's ad campaign is recorded as PAC support."
+}
+]

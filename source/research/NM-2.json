@@ -1,0 +1,280 @@
+[
+{
+"bioguide": "V000136",
+"name": "Gabe Vasquez",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Vasquez represents the Project Jupiter district and has become New Mexico's most active House critic of data center developers: he urged Socorro County to adopt a moratorium on the Green Data proposal, condemned the use of force against residents at a Doña Ana County meeting, and cosponsored bills making data centers pay their own grid costs and disclose water and energy use. He still says New Mexico should compete for the jobs and signed a New Democrat letter calling data center growth vital, so his stance is protect ratepayers and communities first rather than block projects outright.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Vasquez demands accountability from data center developers, backs FAIR Data Act and Data Center Water and Energy Transparency Act",
+"url": "https://vasquez.house.gov/media/press-releases/rep-gabe-vasquez-demands-accountability-data-center-developers-reiterates-new",
+"date": "2026-08-25",
+"quote": "New Mexico should absolutely compete for the jobs and technology of the future, but we are not going to sell out our water, our clean air, or our way of life to do it.",
+"what_it_shows": "His own framing: open to data centers only if developers are transparent, pay their own way, and protect water and air."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 9825, Data Center Water and Energy Transparency Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9825",
+"date": "2026-08-13",
+"quote": null,
+"what_it_shows": "Backs forcing data centers to disclose water and electricity use to state and local governments, with fines for noncompliance."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 9655, FAIR Data Act (large electricity users pay their own grid costs)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9655",
+"date": "2026-08-13",
+"quote": null,
+"what_it_shows": "Supports shielding households and small businesses from rate increases and grid upgrades driven by data centers; cosponsorship confirmed on GovTrack."
+},
+{
+"type": "statement",
+"title": "News report (Source New Mexico): Socorro County adopts yearlong data center moratorium after Vasquez urged it",
+"url": "https://sourcenm.com/2026/06/10/new-mexico-county-adopts-yearlong-data-center-moratorium/",
+"date": "2026-06-10",
+"quote": "offers limited transparency and a lack of clear answers",
+"what_it_shows": "He publicly called on county leaders to pass a moratorium against a specific 10,000-acre data center proposal, the only federal official in the state to do so."
+},
+{
+"type": "statement",
+"title": "News report (Source New Mexico via Organ Mountain News): Vasquez backs two federal data center bills amid Project Jupiter scrutiny",
+"url": "https://www.organmountainnews.com/gabe-vasquez-federal-data-center-bills-project-jupiter-2026/",
+"date": "2026-08-31",
+"quote": "I’ve been appalled at the backroom deals, silencing of dissenting voices, shady NDAs and shell companies, and the overall lack of transparency from those who seek to do business in our state.",
+"what_it_shows": "Sharp criticism of how Project Jupiter's developers have operated in his district, though he stopped short of calling for it to be blocked."
+},
+{
+"type": "letter",
+"title": "New Democrat Coalition letter to House appropriators requesting a DOE National Strategic Data Center Plan (Vasquez signer)",
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"date": "2026-03-19",
+"quote": "Rapidly increasing demand for data centers, driven by cloud computing and AI, is vital for America's economy and competitiveness.",
+"what_it_shows": "Shows the other side of his position: he signed a letter framing data centers as vital and asking for managed growth, not a pause."
+},
+{
+"type": "statement",
+"title": "Press release (SEEC): Energy Bills Relief Act introduced; Vasquez's office says he leads the bill, which directs states to protect consumers from data center rate increases",
+"url": "https://seec.house.gov/media/press-releases/seec-clean-energy-deployment-task-force-co-chairs-sean-casten-and-mike-levin-9",
+"date": "2026-03-18",
+"quote": "Ensuring that facilities like data centers are paying for their own costs because it’s not fair for their expenses to be pushed onto your household if one opens in your area",
+"what_it_shows": "The energy affordability package he champions includes a data center cost-allocation provision."
+},
+{
+"type": "vote",
+"title": "Voted Nay on H.R. 4776, SPEED Act (permitting overhaul), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Opposed the Republican permitting bill that backers pitched as speeding up energy and data center construction; the bill passed 221 to 196."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Vasquez has backed specific child-protection measures that touch AI, such as the TAKE IT DOWN Act on AI-faked intimate images and a 2024 commission on AI and child exploitation, and he supports public AI research and education funding. No statements were found on frontier AI safety, licensing, liability, or a pause, so this is a weak, targeted-guardrails signal.",
+"evidence": [
+{
+"type": "vote",
+"title": "Voted Yea on S. 146, TAKE IT DOWN Act (AI deepfake intimate images), House roll call 104",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h104",
+"date": "2025-04-28",
+"quote": null,
+"what_it_shows": "Supported the deepfake law, though the vote was near unanimous at 409 to 2, so it says little about how far he would go."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 8005 (118th), Child Exploitation and Artificial Intelligence Expert Commission Act of 2024",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8005",
+"date": "2024-04-16",
+"quote": null,
+"what_it_shows": "Wanted an expert commission to study how AI is used to exploit children and recommend responses."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 2385, CREATE AI Act of 2025 (National AI Research Resource)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2026-01-16",
+"quote": null,
+"what_it_shows": "Supports a public shared computing and data resource so researchers can study AI outside big companies; neutral on regulation."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 5351, NSF AI Education Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
+"date": "2026-03-12",
+"quote": null,
+"what_it_shows": "Supports federal AI education and workforce funding; neutral on regulation."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 6998, Renewed Hope Act (face-matching to identify child abuse victims)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6998",
+"date": "2026-05-12",
+"quote": null,
+"what_it_shows": "Comfortable with law enforcement using AI face-matching to rescue children, a pro-use signal."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Vasquez favors targeted rules for social media companies: he cosponsored the SCAM Act to make platforms police fraudulent ads, wrote to the CEOs of Meta, Snapchat and Telegram demanding action on illegal gun sales and bullying, and backs Sammy's Law on parental safety tools. He says plainly that he wants to regulate tech companies, but has not called for break-ups or Section 230 repeal.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Vasquez helps introduce SCAM Act to ban scam advertisements on social media",
+"url": "https://vasquez.house.gov/media/press-releases/rep-vasquez-helps-introduce-bill-ban-scam-advertisements-social-media",
+"date": "2026-08-10",
+"quote": "That’s why I strongly support this bill to regulate tech companies and give law enforcement the tools they need to go after scammers.",
+"what_it_shows": "Explicit support for regulating platforms' advertising practices and stronger FTC and state enforcement."
+},
+{
+"type": "letter",
+"title": "Press release: Vasquez letter to Meta, Snapchat and Telegram CEOs demanding action on illegal gun sales and bullying",
+"url": "https://vasquez.house.gov/media/press-releases/rep-gabe-vasquez-demands-action-social-media-giants-stop-illegal-gun-sales",
+"date": "2025-09-17",
+"quote": "Social media companies have a responsibility to do their part to keep kids safe by stopping illegal gun sales, stopping online bullying, and protecting our communities.",
+"what_it_shows": "Pressed Big Tech CEOs to go beyond the letter of the law after a Las Cruces shooting tied to online gun sales."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 2657, Sammy's Law (parental safety apps on big social media sites)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2026-06-25",
+"quote": null,
+"what_it_shows": "Backs a kids online safety mandate on large platforms."
+},
+{
+"type": "statement",
+"title": "News report (Organ Mountain News): Vasquez backs Tyler's Law and Sammy's Law",
+"url": "https://www.organmountainnews.com/gabe-vasquez-fentanyl-tylers-law-sammys-law-2026/",
+"date": "2026-07-06",
+"quote": "We need to attack this crisis from every angle: stopping traffickers at the border, holding federal officials accountable when they fail our communities, giving parents tools to keep their kids safe online, and helping hospitals identify fentanyl overdoses faster.",
+"what_it_shows": "Frames online safety rules for platforms as part of his fentanyl and youth violence agenda."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting state AI laws as of Sept 2026. He did not sign the Nov 26, 2025 Matsui letter or the Dec 3, 2025 Clarke letter (signer lists checked), is not a GUARDRAILS Act cosponsor, and no statement was found on the Senate moratorium vote, the Dec 2025 executive order, or the Mar 2026 White House framework.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searches for Vasquez with Nvidia, export controls, chips and China AI returned nothing relevant, and his record has no chip-related bills.",
+"evidence": []
+}
+},
+"signature": "Southern New Mexico Democrat who became the state's leading House critic of data center developers: urged Socorro County's moratorium, condemned tactics at a Project Jupiter meeting, and cosponsored ratepayer-protection and water transparency bills.",
+"notable_quote": {
+"date": "2026-08-25",
+"text": "New Mexico’s water, air, and resources belong to us, not to billionaires from coastal states who see an opportunity to extract profit from our land.",
+"url": "https://vasquez.house.gov/media/press-releases/rep-gabe-vasquez-demands-accountability-data-center-developers-reiterates-new"
+},
+"groups": [],
+"search_notes": "About 14 Google News queries (AI, data center, chatbot/deepfake/Big Tech, Nvidia/export controls, preemption, super PACs, Socorro, Doña Ana meeting, Project Jupiter, Armed Services AI, privacy) plus a Wayback listing of vasquez.house.gov and scrapes of his press release index pages 1 to 4. Opened and read: Aug 25 2026 data center release, SCAM Act release, Meta/Snap/Telegram letter release, Energy Bills Relief Act release (no data center text; SEEC version has it), El Paso Electric release (no data center text), Organ Mountain News data center and Sammy's Law articles, Source NM June 10 moratorium article (via Wayback), New Dem Coalition letter PDF, Matsui and Clarke letter signer lists (Vasquez absent from both), GovTrack roll calls h356 and h104 and the H.R. 9655 cosponsor page. Blocked: Source NM May 26 2026 moratorium article and its newsfromthestates mirror (403, Wayback connection refused), his July 2026 Facebook post condemning use of force (400), congress.gov (403), Business Insider July 2025 piece on lawmakers not using AI (404 at guessed URL). Google News link decoding hit 429 rate limits, so several headlines could not be opened. No AI caucus membership found on his committees and caucuses page. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "L000273",
+"name": "Teresa Leger Fernandez",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Leger Fernández's one relevant bill, the Integrated Resource Planning Modernization Act, cites surging data center demand as a driver of higher electric bills and aims to help states and utilities plan so ratepayers are not stuck with the cost. She also voted against the SPEED Act permitting overhaul. She has not spoken publicly about Project Jupiter or called for limits on data centers, so this is a mild ratepayer-first signal.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Leger Fernández introduces H.R. 5964, Integrated Resource Planning Modernization Act, citing data center demand",
+"url": "https://fernandez.house.gov/news/documentsingle.aspx?DocumentID=542",
+"date": "2025-11-17",
+"quote": "Our electricity grid faces ever-growing challenges from increased data center demand to wildfire-caused blackouts. As utilities across the country race to address these challenges, Americans’ energy bills only go up,",
+"what_it_shows": "Her only found statement on data centers frames them as a cost pressure on families and calls for better grid planning to protect ratepayers."
+},
+{
+"type": "sponsor",
+"title": "Sponsored H.R. 5964, Integrated Resource Planning Modernization Act (voluntary DOE planning guidelines and grants; bill number confirmed in her press release)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5964",
+"date": "2025-11-17",
+"quote": null,
+"what_it_shows": "A planning bill, not a mandate on data centers; it asks utilities to account for data center load so consumers are not overcharged."
+},
+{
+"type": "vote",
+"title": "Voted Nay on H.R. 4776, SPEED Act (permitting overhaul), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Opposed the Republican permitting bill pitched as speeding energy and data center buildout; it passed 221 to 196."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "The only public marker found is her Yea vote on the TAKE IT DOWN Act against AI-faked intimate images, a vote that passed 409 to 2. No statements, bills, or letters were found on AI safety testing, chatbots, licensing, or liability, so this is a very weak targeted-guardrails signal.",
+"evidence": [
+{
+"type": "vote",
+"title": "Voted Yea on S. 146, TAKE IT DOWN Act (AI deepfake intimate images), House roll call 104",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h104",
+"date": "2025-04-28",
+"quote": null,
+"what_it_shows": "Supported the deepfake law, but the vote was near unanimous, so it says little about her broader view of AI rules."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Leger Fernández cosponsored the My Body, My Data Act in the last Congress to stop apps from collecting or sharing reproductive health data, and voted for the TAKE IT DOWN Act. No statements on Big Tech antitrust, Section 230, or kids online safety bills were found, so her record points to targeted privacy rules at low confidence.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 3420 (118th), My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Backed a targeted federal privacy rule limiting how apps and companies handle reproductive health data."
+},
+{
+"type": "vote",
+"title": "Voted Yea on S. 146, TAKE IT DOWN Act, House roll call 104",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h104",
+"date": "2025-04-28",
+"quote": null,
+"what_it_shows": "Supported requiring platforms to remove nonconsensual intimate images quickly; near-unanimous vote."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting state AI laws as of Sept 2026. She did not sign the Nov 26, 2025 Matsui letter or the Dec 3, 2025 Clarke letter (signer lists checked), has no GUARDRAILS Act cosponsorship, and no statement was found from her Rules Committee work on H.R. 1 or on the Dec 2025 executive order.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searches pairing her name with Nvidia, export controls, chips and China returned nothing relevant.",
+"evidence": []
+}
+},
+"signature": "Northern New Mexico Democrat and Rules Committee member with little public AI activity; her one relevant bill cites data center demand as a driver of rising electric bills.",
+"notable_quote": {
+"date": "2025-11-17",
+"text": "Our electricity grid faces ever-growing challenges from increased data center demand to wildfire-caused blackouts. As utilities across the country race to address these challenges, Americans’ energy bills only go up,",
+"url": "https://fernandez.house.gov/news/documentsingle.aspx?DocumentID=542"
+},
+"groups": [],
+"search_notes": "About 13 Google News queries (artificial intelligence, AI, data center, chatbot/deepfake/Big Tech/Section 230/KOSA, Nvidia/export controls/chips, state AI laws/moratorium/executive order, electricity bills/ratepayers, Los Alamos AI, federal lands data centers, Project Jupiter, super PACs, Federal Writers' Project AI, Democratic Women's Caucus deepfakes) returned no AI-specific statements. Scraped 120 press release titles from fernandez.house.gov (pages 1 to 12) and filtered for AI, tech, energy, data, privacy terms; opened the IRP Modernization Act release (data center quote), the Weather-Safe Energy Act release and the 21st Century Federal Writers' Project Act release (neither mentions AI). Checked Matsui and Clarke letter signer lists (absent from both), GovTrack roll calls h356 (SPEED Act, Nay) and h104 (TAKE IT DOWN, Yea). Could not open: a May 4, 2026 Politico piece 'Dems' AI message narrower than voters' fears' and a July 27, 2023 Source NM article 'NM lawmakers share thoughts, concerns on AI tech' that surfaced under her name (Google decode 429, Source NM 403, Wayback connection refused); any quotes there remain unverified. Her committees and caucuses page returned 404, so caucus memberships could not be confirmed; no AI caucus membership found elsewhere. No AI super PAC activity found."
+}
+]

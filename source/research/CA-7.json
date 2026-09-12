@@ -1,0 +1,677 @@
+[
+{
+"bioguide": "O000019",
+"name": "Jay Obernolte",
+"signature": "Congress's leading Republican voice on AI: chaired the House AI Task Force, wrote the Great American AI Act and FRONTIER Act to put binding oversight on the largest frontier AI developers under one national standard that would preempt state AI-development laws.",
+"groups": [
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress): Chairman",
+"Congressional Artificial Intelligence Caucus (119th Congress): Vice Chair",
+"House Science, Space, and Technology Committee: Chairman, Subcommittee on Research and Technology",
+"House Energy and Commerce Republican Privacy Working Group: Member",
+"Great American AI Act / FRONTIER Act bipartisan sponsor group (Obernolte-Trahan): lead sponsor"
+],
+"notable_quote": {
+"text": "Artificial intelligence is advancing rapidly, and Congress must ensure our regulatory framework keeps pace without undermining American innovation",
+"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+"date": "2026-07-23"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Supports building out AI data centers and has asked federal regulators to help them connect directly to power plants, while pushing efficiency and measurement bills so planners can manage the grid strain. He has not joined the 2026 ratepayer-protection bills.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Subramanyam, Obernolte, Foushee introduce Data Infrastructure Energy Measurement and Standards Act",
+"url": "https://subramanyam.house.gov/media/press-releases/reps-subramanyam-obernolte-foushee-introduce-legislation-create-first-its-kind",
+"date": "2026-06-18",
+"quote": "Data centers and AI infrastructure are becoming an increasingly important part of our economy, but policymakers, utilities, and local leaders need better information to plan responsibly for the energy and infrastructure demands that accompany that growth",
+"what_it_shows": "He frames data centers as important growth to be planned for, not slowed, and backs standard energy and water measurements as the fix."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9372 Data Infrastructure Energy Measurement and Standards Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9372",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Co-led a bill to create standard ways to measure data center electricity and water use."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Obernolte unveils Liquid Cooling for AI Act",
+"url": "https://obernolte.house.gov/media/press-releases/rep-obernolte-unveils-legislation-strengthen-us-leadership-ai-infrastructure",
+"date": "2025-09-12",
+"quote": "Liquid cooling is a critical innovation that will reduce energy use, improve efficiency, and ensure the United States remains at the forefront of AI development.",
+"what_it_shows": "His answer to data center energy use is technology that makes them more efficient, paired with a goal of US leadership in AI infrastructure."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 5332 Liquid Cooling for AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5332",
+"date": "2025-09-11",
+"quote": null,
+"what_it_shows": "Sponsored a bill to study and promote liquid cooling so AI data centers use less energy and water."
+},
+{
+"type": "letter",
+"title": "Reuters report (republished on his site): AI task force co-chair asks FERC to support co-located data centers",
+"url": "https://obernolte.house.gov/media/in-the-news/us-ai-task-force-co-chair-asks-ferc-support-co-located-data-centers",
+"date": "2024-12-05",
+"quote": null,
+"what_it_shows": "He urged federal energy regulators to support data centers built directly next to power plants, citing national security and the race for AI dominance, a pro-buildout stance."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 4776 SPEED Act (permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted for a broad permitting-reform bill that would speed approvals for energy and infrastructure projects, including those that serve data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Wants binding but targeted federal oversight of the largest frontier AI developers (model cards, independent audits, incident reporting) to guard against catastrophic risk, and sponsored AI whistleblower protections. He pairs this with an innovation-first message and has warned against rushing to regulate or pausing AI.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Obernolte, Trahan introduce bipartisan FRONTIER Act to strengthen oversight of advanced AI",
+"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+"date": "2026-07-23",
+"quote": "This legislation will protect Americans from catastrophic risk, provide developers with clear rules of the road, and ensure the United States remains the global leader in AI.",
+"what_it_shows": "He is the lead sponsor of a bill requiring transparency, independent evaluation and safety-incident reporting from the largest AI developers, explicitly aimed at catastrophic risk."
+},
+{
+"type": "statement",
+"title": "Press release: Obernolte, Trahan release discussion draft of the Great American AI Act",
+"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act",
+"date": "2026-06-04",
+"quote": "Artificial intelligence is advancing rapidly, which is why Congress must take a thoughtful and bipartisan approach to regulating this critical technology",
+"what_it_shows": "He accepts that AI should be regulated by Congress and released a 269-page framework covering frontier model safety and workforce impacts."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 3460 AI Whistleblower Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3460",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "Sponsored the House bill protecting AI company workers who report safety problems from retaliation."
+},
+{
+"type": "statement",
+"title": "Senate Judiciary release (republished on his site): Grassley introduces AI Whistleblower Protection Act, with Obernolte quote",
+"url": "https://obernolte.house.gov/media/in-the-news/grassley-introduces-ai-whistleblower-protection-act",
+"date": "2025-05",
+"quote": "As artificial intelligence becomes more powerful and more deeply embedded in our infrastructure, we must ensure that those who identify potential threats can speak up without fear of retaliation.",
+"what_it_shows": "He treats AI safety threats as real and national-security relevant, and wants insiders able to flag them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8516 American Leadership in AI Act (Lieu-Obernolte package)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8516",
+"date": "2026-04-27",
+"quote": null,
+"what_it_shows": "Co-introduced a broad bipartisan package built on the AI Task Force report that relies on voluntary standards, testing frameworks and research infrastructure rather than mandates."
+},
+{
+"type": "interview",
+"title": "Fox News interview (republished on his site): AI expert in Congress warns against rush to regulation",
+"url": "https://obernolte.house.gov/media/in-the-news/ai-expert-congress-warns-against-rush-regulation-were-not-there-yet",
+"date": null,
+"quote": "Even these deep thinkers don’t have a clear understanding of exactly what they fear about AI.",
+"what_it_shows": "Earlier in the debate he dismissed calls to pause AI development and said Congress should move slowly until it knows what dangers it is regulating against."
+},
+{
+"type": "pac",
+"title": "Fox News: Leading the Future super PAC backs Obernolte in the June 2 CA-23 primary",
+"url": "https://www.foxnews.com/politics/trump-backed-candidates-score-major-boost-deep-pocketed-ai-super-pac-upcoming-primaries",
+"date": "2026-05-26",
+"quote": "standing behind proven legislative champions who have already demonstrated leadership on artificial intelligence",
+"what_it_shows": "The industry-funded pro-AI super PAC network chose him as one of its first House incumbents to support."
+},
+{
+"type": "pac",
+"title": "AI Money Watch race page CA-23: $259,682 in supportive independent expenditures for Obernolte",
+"url": "https://aimoneywatch.org/races/ca-23",
+"date": null,
+"quote": null,
+"what_it_shows": "FEC-derived tracking shows roughly $260,000 spent by the Leading the Future network (American Mission PAC arm) to support him."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted federal tech rules such as a national privacy law and the TAKE IT DOWN Act, but favors lighter, preemptive approaches over Senate-style mandates and warned that app-level age verification would create new privacy risks.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-04-07",
+"quote": null,
+"what_it_shows": "Supported the now-enacted law criminalizing nonconsensual intimate images, including AI deepfakes, and forcing platforms to remove them."
+},
+{
+"type": "interview",
+"title": "Fox News interview (republished on his site): AI caucus vice chair says privacy regulations should be a priority for Congress",
+"url": "https://obernolte.house.gov/media/in-the-news/top-lawmaker-ai-working-group-says-privacy-regs-should-be-priority-congress",
+"date": null,
+"quote": null,
+"what_it_shows": "He told Fox News that privacy regulation should be a top short-term priority for Congress as it grapples with AI, while calling himself an optimist about the technology."
+},
+{
+"type": "other",
+"title": "IAPP: House Republicans organize a privacy working group (Obernolte listed as member)",
+"url": "https://iapp.org/news/a/a-view-from-dc-us-house-republicans-organize-a-privacy-working-group",
+"date": "2025-02-14",
+"quote": null,
+"what_it_shows": "He sits on the Energy and Commerce Republican privacy working group drafting a federal privacy law and, per IAPP, often stresses that such a law should preempt state laws."
+},
+{
+"type": "hearing",
+"title": "Roll Call: House online safety bills take narrower approach than Senate (Obernolte remarks at E&C hearing)",
+"url": "https://rollcall.com/2025/12/02/house-online-safety-bills-take-narrower-approach-than-senate/",
+"date": "2025-12-02",
+"quote": "Let me just suggest that it’s much more efficient and much safer to do that just once at the operating-system level.",
+"what_it_shows": "On kids online safety he prefers one-time age verification by Apple and Google at the device level rather than requiring every app to collect ID, citing cybercrime risk."
+}
+]
+},
+"preemption": {
+"score": 2,
+"confidence": "high",
+"summary": "The House's chief architect of a national AI standard: his Great American AI Act draft would preempt state laws on AI model development for three years and his FRONTIER Act sets a uniform national rule to prevent a state patchwork. He says states should keep a lane outside the federal one, with the federal government defining the boundary first.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: FRONTIER Act creates a uniform national standard to prevent a patchwork of state regulations",
+"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+"date": "2026-07-23",
+"quote": "It also creates a uniform national standard for transparency, auditing, and reporting of catastrophic risk to prevent a patchwork of state regulations.",
+"what_it_shows": "His own bill summary says the federal rules for frontier models are meant to replace differing state rules."
+},
+{
+"type": "statement",
+"title": "Roll Call: Bipartisan AI draft proposes three-year preemption of state laws",
+"url": "https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/",
+"date": "2026-06-04",
+"quote": null,
+"what_it_shows": "The Obernolte-Trahan Great American AI Act discussion draft includes a three-year preemption of state laws related to AI development."
+},
+{
+"type": "hearing",
+"title": "Roll Call: White House holds back on national AI framework specifics (Obernolte chairs Science subcommittee hearing with OSTP's Kratsios)",
+"url": "https://rollcall.com/2026/01/14/white-house-holds-back-on-national-ai-framework-specifics/",
+"date": "2026-01-14",
+"quote": "I think what everyone believes is that there should be a federal lane, and that there should be a state lane",
+"what_it_shows": "He supports federal preemption within a defined lane but, unlike a blanket moratorium, wants states free to act outside it; he pressed the White House on what its guardrails would be."
+},
+{
+"type": "statement",
+"title": "IAPP: Obernolte remarks at State of the Net on a national AI standard before a state patchwork emerges",
+"url": "https://iapp.org/news/a/a-view-from-dc-us-house-republicans-organize-a-privacy-working-group",
+"date": "2025-02-14",
+"quote": "We need to get moving because, frankly, you're seeing these states act to fill the void that we've left on AI regulation at the federal level.",
+"what_it_shows": "He argues Congress must set a national standard quickly so state AI laws do not multiply, the core case for preemption."
+},
+{
+"type": "statement",
+"title": "Press release: Great American AI Act discussion draft (co-sponsor Houchin on a national standard over fifty state laws)",
+"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act",
+"date": "2026-06-04",
+"quote": null,
+"what_it_shows": "The release he issued describes the draft as a clear national standard for how AI models are developed while preserving the ability of states and parents to protect children."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Cosponsors the two main House bills to tighten AI chip export controls on China: the Chip Security Act (location tracking for advanced chips) and the AI OVERWATCH Act (congressional review of chip sales to adversaries). No speeches or statements on Nvidia H20/H200 sales were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3447 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "Backs requiring advanced AI chips to carry location verification so smuggling to China can be detected."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6875 AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Backs giving Congress power to block sales of advanced AI chips to China and other risky countries before they happen."
+}
+]
+}
+},
+"search_notes": "Searches: Obernolte + data center; + preemption/state AI laws/national standard; + Nvidia/export controls/chips; + Section 230/Big Tech/privacy/KOSA/chatbot; + Anthropic/existential/kill switch; + executive order; + Chip Security Act/OVERWATCH/whistleblower; + privacy working group; + Ratepayer Protection Act/electricity; + moratorium 'long-term solution'; site listing of obernolte.house.gov (49 URLs). Opened: GAAIA draft release, FRONTIER Act release, Subramanyam measurement-bill release, liquid cooling release, FERC co-location news item, Fox rush-regulation and privacy items, Grassley whistleblower release, Roll Call Jun 4 2026 and Jan 14 2026 and Dec 2 2025, IAPP Jun 5 2026 and Feb 14 2025, ARI on Lieu-Obernolte bill, Fox News LTF article, AI Money Watch CA-23, govtrack roll call 356 and H.R. 9340 cosponsors. Verified he is NOT a cosponsor of H.R. 9340 Ratepayer Protection Act (govtrack), contrary to the state-context sketch. Not on the Matsui or Clarke anti-preemption letters (checked PDF text and Clarke release). Could not open: Punchbowl 'preemption shift' (Jul 15 2026), Nextgov Feb 5 2026 moratorium article, CNBC May 22 2026 video, LA Times Jul 27 2026 commentary, Politico Jul 23 2026 (blocked). AnthroPAC $3,500 contribution lead not verified at FEC and omitted. RSC Emerging Tech Task Force and Robotics Caucus leads not verified and omitted from groups."
+},
+{
+"bioguide": "C001112",
+"name": "Salud O. Carbajal",
+"signature": "Low-profile on AI: cosponsors bills to keep data center power costs off household bills and to curb sexual and election deepfakes, condemned an AI-generated attack ad in his county, and is endorsed by the Leading the Future AI super PAC.",
+"groups": [
+"Congressional Artificial Intelligence Caucus (119th Congress): Member (per landscape-pass CHA CMO list; not independently verified)"
+],
+"notable_quote": {
+"text": "There is no place in our community for the use of racist caricatures, disinformation, or deceptive AI-generated content designed to inflame division and demean candidates based on their background or identity",
+"url": "https://www.newspress.com/2026/05/23/three-lawmakers-blast-republican-partys-ai-generated-attack-ad-against-supervisorial-candidate-ricardo-valencia/",
+"date": "2026-05-23"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "No speeches or press releases on data centers were found, but he cosponsors two bills meant to stop families' electric bills from rising to pay for data center power, and voted against the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6529 Protecting Families from AI Data Center Energy Costs Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2026-02-04",
+"quote": null,
+"what_it_shows": "Backs keeping households from paying for the power lines and plants giant AI data centers need."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7066 SHIELD Act (large-load rate class for data centers)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7066",
+"date": "2026-03-17",
+"quote": null,
+"what_it_shows": "Backs a separate rate class so data centers, not regular families, pay for their grid costs."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act (permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against the broad permitting-reform bill that would speed approvals for energy and infrastructure projects."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted guardrails on AI misuse, especially deepfakes: he cosponsored the TAKE IT DOWN Act and a bill banning AI deception in elections, and publicly condemned an AI-generated political attack ad. He has said nothing found on frontier AI safety, and the pro-industry Leading the Future PAC has endorsed him.",
+"evidence": [
+{
+"type": "statement",
+"title": "Santa Barbara News-Press: Carbajal, Limón and Hart blast Republican Party's AI-generated attack ad",
+"url": "https://www.newspress.com/2026/05/23/three-lawmakers-blast-republican-partys-ai-generated-attack-ad-against-supervisorial-candidate-ricardo-valencia/",
+"date": "2026-05-23",
+"quote": "There is no place in our community for the use of racist caricatures, disinformation, or deceptive AI-generated content designed to inflame division and demean candidates based on their background or identity",
+"what_it_shows": "He treats deceptive AI-generated political content as a harm to public trust that should be called out."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-24",
+"quote": null,
+"what_it_shows": "Backed criminalizing nonconsensual intimate images, including AI deepfakes, and requiring fast takedowns."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8858 Securing Elections From AI Deception Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "Backed banning AI-made fake images, audio or video used to trick voters in federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2385 CREATE AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2026-03-17",
+"quote": null,
+"what_it_shows": "Supports a national shared computing resource so researchers and students can study AI without a big company's money, a pro-research, neutral-on-risk position."
+},
+{
+"type": "pac",
+"title": "AI Money Watch: Salud Carbajal endorsed by Leading the Future",
+"url": "https://aimoneywatch.org/people/salud-carbajal-ca-24",
+"date": null,
+"quote": "Leading the Future has publicly endorsed this candidate but has not yet reported any independent expenditures in this race.",
+"what_it_shows": "The industry-funded super PAC that opposes strict AI regulation has publicly endorsed him, though it has reported no spending for him."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs specific fixes rather than sweeping Big Tech crackdowns: reproductive health data privacy, deepfake takedowns, and a ban on connected cars made by companies tied to China and other adversaries.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "Backs banning sales of internet-connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Backs limits on apps and companies collecting or sharing reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-24",
+"quote": null,
+"what_it_shows": "Supports a platform takedown duty for nonconsensual intimate images."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI law moratorium, and no statements on the Dec 2025 executive order, the Mar 2026 White House framework, or the Obernolte-Trahan preemption draft were found as of Sept 2026.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position on AI chip export controls found as of Sept 2026. His Connected Vehicle Security Act cosponsorship concerns Chinese-linked car technology, not chip sales, so it is not counted here.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Salud Carbajal' artificial intelligence/AI; Carbajal 'data center'; Carbajal deepfake/AI-generated Santa Barbara; Carbajal 'Leading the Future'/AI super PAC; 'Congressman Carbajal' AI/chatbot/KOSA/privacy; Carbajal Valencia AI ad; Carbajal privacy bill; Carbajal AI military/Armed Services; site listing of carbajal.house.gov (his press releases live at documentsingle.aspx URLs the archive tool cannot enumerate; the committees page returned 404). Opened: News-Press May 23 2026 joint statement, AI Money Watch profile, govtrack roll call 356, Clarke letter release and Matsui letter PDF (he is on neither). Data center news searches returned only Texas hits for other Carbajals. Feb 2025 'Stop Invasion of Americans' Privacy' bill release and edhat/SB Independent AI-ad stories could not be decoded or were blocked. AI Caucus membership comes from the landscape pass and was not independently confirmed."
+},
+{
+"bioguide": "R000599",
+"name": "Raul Ruiz",
+"signature": "The Imperial and Coachella Valleys' leading opponent of proposed hyperscale data centers, urging local officials to stop them and floating federal siting and cost rules; signed both House Democratic letters against a moratorium on state AI laws.",
+"groups": [],
+"notable_quote": {
+"text": "I unequivocally oppose the proposed data centers in Imperial Valley and urge local officials to prevent them from happening",
+"url": "https://calexicochronicle.com/2026/06/03/board-of-supervisors-considers-data-center-resolution/",
+"date": "2026-06-03"
+},
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "high",
+"summary": "Publicly opposes the data centers proposed in Imperial County and Coachella, urged local officials to delay and end them, and says he is exploring federal rules on where data centers can be built, who pays for their power, and community benefits. Local press described his stance as a call for a freeze.",
+"evidence": [
+{
+"type": "interview",
+"title": "KYMA: Rep. Raul Ruiz opposes proposed Imperial County data center project",
+"url": "https://kyma.com/news/top-stories/2026/06/01/rep-raul-ruiz-opposes-proposed-imperial-county-data-center-project/",
+"date": "2026-06-01",
+"quote": "I am opposed to the proposed data centers in Imperial and Coachella",
+"what_it_shows": "He came out against specific projects in his district over energy, water, pollution and infrastructure concerns and urged local officials to delay and end them."
+},
+{
+"type": "interview",
+"title": "KYMA interview: Ruiz on household energy costs from data centers",
+"url": "https://kyma.com/news/top-stories/2026/06/01/rep-raul-ruiz-opposes-proposed-imperial-county-data-center-project/",
+"date": "2026-06-01",
+"quote": "I'm also concerned about the economic effects for individual households who may have to pay more out of pocket due to energy costs",
+"what_it_shows": "Ratepayer costs in an under-resourced region are central to his opposition; he also said future federal policy should address consumer energy costs, keep data centers away from homes and protect water-scarce regions."
+},
+{
+"type": "statement",
+"title": "Calexico Chronicle: Ruiz statement read to Imperial County Board of Supervisors on data center resolution",
+"url": "https://calexicochronicle.com/2026/06/03/board-of-supervisors-considers-data-center-resolution/",
+"date": "2026-06-03",
+"quote": "I unequivocally oppose the proposed data centers in Imperial Valley and urge local officials to prevent them from happening",
+"what_it_shows": "He put his opposition on the county record as supervisors weighed a data center resolution and moratorium, asking them to protect the valley's health and water."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act (permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against the broad permitting-reform bill that would speed approvals for energy and infrastructure projects."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "No statements on frontier AI safety found. He signed two House Democratic letters that say AI carries too much potential for harm to go unregulated and that a regulatory vacuum would let Big Tech run rampant, and he backs kids online safety measures.",
+"evidence": [
+{
+"type": "letter",
+"title": "Clarke-led letter of 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Ruiz signer)",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "Artificial intelligence offers exciting opportunity and innovations, but without proper protections in place, the potential for harm is too great to ignore.",
+"what_it_shows": "He endorsed the view that AI needs protections in place now, including against algorithmic harms and bias, rather than a regulatory vacuum."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2657 Sammy's Law",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2025-10-08",
+"quote": null,
+"what_it_shows": "Backs requiring big social media platforms to let parents use safety apps to monitor their kids' accounts."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted tech rules: parental safety tools on social media (Sammy's Law in two Congresses), reproductive health data privacy, and a ban on connected cars from companies tied to China and other adversaries.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2657 Sammy's Law",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2025-10-08",
+"quote": null,
+"what_it_shows": "Supports forcing large platforms to open their systems to third-party parental safety apps."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5778 Sammy's Law of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5778",
+"date": "2024-02-23",
+"quote": null,
+"what_it_shows": "Backed the same kids online safety measure in the prior Congress."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-22",
+"quote": null,
+"what_it_shows": "Backs banning sales of internet-connected cars and software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2024-03-22",
+"quote": null,
+"what_it_shows": "Backs limits on companies collecting or sharing reproductive health data."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Signed both major House Democratic letters in late 2025 opposing any moratorium on state AI laws in the defense bill and opposing the planned executive order to override state AI laws, calling a moratorium irresponsible without federal legislation.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter of 81 House Democrats to Johnson, Thune, Jeffries and Schumer opposing an AI moratorium in the NDAA and the preemption executive order (Ruiz signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We write to express our strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws",
+"what_it_shows": "He joined 80 colleagues telling congressional leaders not to revive the state AI law moratorium and not to use an executive order or broadband funds to override state laws."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter of 44 House Democrats to Armed Services leaders urging exclusion of AI moratorium or preemption from FY26 NDAA (Ruiz signer)",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "He signed a second letter arguing states must keep regulating AI until Congress passes comprehensive protections."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position on AI chip export controls found as of Sept 2026. His Connected Vehicle Security Act cosponsorship is about Chinese-linked car technology, not chips.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Raul Ruiz' 'data center(s)'; 'Raul Ruiz' artificial intelligence/AI; Ruiz data centers Imperial Coachella statement; Ruiz data center federal legislation siting; Ruiz 'prior authorization' AI hearing; 'Raul Ruiz' chatbot/social media/Sammy kids online; Ruiz questionnaire AI; Ruiz China chips (none); site listing of ruiz.house.gov (only pre-2025 energy items; 2026 press release index has no data center release). Opened: KYMA Jun 1 2026 interview (quotes verified verbatim), Calexico Chronicle Jun 3 2026 (statement read to supervisors), Matsui letter PDF (text extracted locally; Ruiz confirmed signer), Clarke letter release (Ruiz confirmed signer), OC Register May 2026 questionnaire (no AI or data center content), govtrack roll call 356 and H.R. 9340 cosponsors (he is not a cosponsor of the Ratepayer Protection Act despite sitting on Energy and Commerce), his committees-and-caucuses page (no AI caucus listed). Could not decode Imperial Valley Press 'calls for a freeze' (Jun 2 2026) or Healthcare Dive Sep 2025 hearing story."
+},
+{
+"bioguide": "B001285",
+"name": "Julia Brownley",
+"signature": "Retiring Ventura County Democrat with a thin AI record: pressed the VA to set AI guardrails early, cosponsored deepfake and data privacy bills, and signed the House Democratic letter against a moratorium on state AI laws.",
+"groups": [
+"House Veterans' Affairs Subcommittee on Health: Ranking Member (118th Congress; led Democratic questioning at the Feb 2024 VA AI hearing)"
+],
+"notable_quote": {
+"text": "which makes it all the more important that we ensure VA and other AI users establish best practices, procedures, and guard rails early on in the implementation",
+"url": "https://federalnewsnetwork.com/artificial-intelligence/2024/02/va-puts-ai-use-cases-into-operational-phase-to-meet-its-health-care-mission/",
+"date": "2024-02-22"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements, letters or data center bills found as of Sept 2026. She voted against the SPEED Act permitting bill, but that is a general permitting measure, not a position on data centers.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act (permitting reform), House roll call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against the broad permitting-reform bill; it is not specific to data centers so it is not scored."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Favors targeted guardrails: as top Democrat on the VA health panel she said the VA must set best practices and guardrails early as it adopts AI, she cosponsored bills on intimate-image deepfakes and AI disclosure in political ads, and she signed a letter saying AI's potential for harm is too great to leave unregulated.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Federal News Network: VA puts AI use cases into operational phase (Brownley remarks at House VA Health Subcommittee hearing)",
+"url": "https://federalnewsnetwork.com/artificial-intelligence/2024/02/va-puts-ai-use-cases-into-operational-phase-to-meet-its-health-care-mission/",
+"date": "2024-02-22",
+"quote": "which makes it all the more important that we ensure VA and other AI users establish best practices, procedures, and guard rails early on in the implementation",
+"what_it_shows": "She wants guardrails built in before AI spreads through the nation's largest health system, and stressed protecting the clinical workforce."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3106 Preventing Deepfakes of Intimate Images Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2024-06-05",
+"quote": null,
+"what_it_shows": "Backed making it illegal to share AI-made fake sexual images of real people and letting victims sue."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9639 AI Ads Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9639",
+"date": "2024-09-17",
+"quote": null,
+"what_it_shows": "Backed requiring political ads to disclose AI-generated images, video or audio."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter of 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Brownley signer)",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "Artificial intelligence offers exciting opportunity and innovations, but without proper protections in place, the potential for harm is too great to ignore.",
+"what_it_shows": "She endorsed the view that AI needs protections in place now, including against algorithmic harms and bias."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs specific privacy protections rather than broad Big Tech crackdowns: reproductive health data privacy in two Congresses and limits on how schools and ed-tech companies handle student data.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3218 Reproductive Data Privacy and Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-05-09",
+"quote": null,
+"what_it_shows": "Backs stopping companies from collecting or selling reproductive health data such as period-tracker information without permission."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Backed the earlier version of the reproductive health data privacy bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 951 PERIOD Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/951",
+"date": "2023-03-09",
+"quote": null,
+"what_it_shows": "Backed limits on how schools and education companies collect and share students' personal data."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Signed the Dec 2025 Clarke letter asking defense-bill negotiators to keep any moratorium or preemption of state AI laws out of the NDAA, which called a moratorium wildly irresponsible absent federal legislation. She did not sign the earlier Matsui letter and no other statements were found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Clarke-led letter of 44 House Democrats to Armed Services leaders urging exclusion of AI moratorium or preemption from FY26 NDAA (Brownley signer)",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "She joined colleagues arguing states must keep the power to regulate AI until Congress passes comprehensive protections."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position on AI chip export controls found as of Sept 2026. She cosponsors a tax credit for building chip factories in America and led a bill to keep Chinese-made LiDAR out of US transportation infrastructure, but neither addresses chip sales to China.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 802 STAR Act of 2025 (chip factory tax credit)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2025-04-28",
+"quote": null,
+"what_it_shows": "Supports extending the tax break for companies building semiconductor plants in the United States; not a position on export controls."
+},
+{
+"type": "statement",
+"title": "Press release: Brownley, Johnson, Krishnamoorthi, Moolenaar reintroduce bill to safeguard US infrastructure from foreign spy technology (Chinese LiDAR)",
+"url": "https://juliabrownley.house.gov/brownley-johnson-krishnamoorthi-moolenar-reintroduce-bipartisan-legislation-to-safeguard-u-s-infrastructure-from-foreign-spy-technology",
+"date": "2025-07-30",
+"quote": "Now more than ever, we must remain vigilant and proactive in safeguarding the infrastructure that Americans depend on every day.",
+"what_it_shows": "She is wary of Chinese technology in US infrastructure, a China-hawk signal on tech supply chains rather than on AI chip exports."
+}
+]
+}
+},
+"search_notes": "Searches: 'Julia Brownley' artificial intelligence/AI; Brownley 'data center' Ventura (none); Brownley VA AI/'tread carefully'; 'Julia Brownley' deepfake/AI Ads Act (none); 'Julia Brownley' energy costs/electricity AI (none); Brownley Takano VA AI letter; site listing of juliabrownley.house.gov with tech match; site search for 'AI' and 'artificial intelligence' (no AI press releases in 2025-2026). Opened: Federal News Network Feb 22 2024 hearing story (quote verified), LiDAR bill release, 2017 'GOP CHIP bill' release (about the CHIP health program, not semiconductors, so excluded), Clarke letter release (Brownley confirmed signer), Matsui letter PDF (not a signer), govtrack roll call 356, her committees-and-caucuses page. She announced in Jan 2026 she will not seek reelection, which explains the sparse 2026 record. Nextgov Feb 20 2024 'Lawmakers urge VA to tread carefully with AI' could not be decoded; the Federal News Network story covering the same hearing was used instead."
+}
+]

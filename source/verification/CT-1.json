@@ -1,0 +1,305 @@
+[
+{
+"bioguide": "B001277",
+"checks": [
+{
+"url": "https://ctmirror.org/2026/02/26/blumenthal-data-bill-0224/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-26",
+"note": "Quote appears verbatim, attributed to Blumenthal in an interview about his bill with a GOP senator requiring data center owners to cover costs otherwise passed to customers."
+},
+{
+"url": "https://connecticut.news12.com/2026/08/30/sen-blumenthal-backs-bipartisan-effort-to-prevent-data-centers-from-driving-up-electricity-prices/2IuLYMCXqAiJG3Jxs7sVOF",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-30",
+"note": "Quote verbatim; framing is make Big Tech pay, not block."
+},
+{
+"url": "https://www.governing.com/finance/connecticuts-data-center-tax-break-bet-isnt-paying-off",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-01",
+"note": "Quote verbatim. The contrast with the AOC/Sanders moratorium is the reporter's framing; Blumenthal himself says data centers 'are not a problem' and can be an advantage, which supports the claim's substance."
+},
+{
+"url": "https://www.newsweek.com/map-reveals-states-where-data-center-projects-hidden-behind-ndas-12412191",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-09-07",
+"note": "Newsweek confirms the March 2026 nationwide NDA investigation covering energy use, water needs and community impacts and his transparency argument. The North Dakota regulators detail is not on this page (attributed to Broadband Breakfast, which is not among the URLs)."
+},
+{
+"url": "https://www.hawley.senate.gov/hawley-blumenthal-introduce-bipartisan-ai-evaluation-legislation-to-put-americans-first/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-29",
+"note": "Live site returns 403; Wayback copy (2026-08-20) has the quote verbatim in Blumenthal's paragraph, followed by the federal-entity/infrastructure/labor/civil-liberties language. Note the release is dated Sept 29, 2025, not 2026."
+},
+{
+"url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sam-altman-after-new-reporting-reveals-how-ai-agents-went-rogue-to-conduct-major-cyber-breach-and-conceal-their-operations",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-09",
+"note": "Loaded via Wayback. Quote verbatim (the letter body says 'my Artificial Intelligence Risk Evaluation Act'; the release summary matches the tracker's wording exactly). Letter demands answers by Sept 24, 2026."
+},
+{
+"url": "https://www.nenc.news/2026-09-10/ct-leaders-openai-rogue-ai-agents",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Quote verbatim and attributed to Blumenthal; article also states he plans to introduce legislation to expand AI regulations."
+},
+{
+"url": "https://rollcall.com/2026/04/30/ban-on-kids-companion-chatbots-advanced-by-senate-committee/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Quote verbatim; he is described as a co-sponsor who said the committee vote is not the end of the road and anticipates continued opposition."
+},
+{
+"url": "https://www.statnews.com/2026/07/15/medicare-advantage-ai-care-denials-probe-blumenthal-hawley/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-15",
+"note": "Visible (pre-paywall) text confirms Blumenthal and Hawley sent letters to UnitedHealth, Humana and CVS seeking internal records on AI used to block rehabilitative care."
+},
+{
+"url": "https://www.crowell.com/en/insights/client-alerts/house-advances-bipartisan-kids-online-safety-bill-but-senate-showdown-looms",
+"verdict": "confirmed",
+"corrected_quote": "KOSA without a duty of care isn't KOSA — it's a blank check to Mark Zuckerberg to exploit children. The House's toothless and tepid capitulation is dead in the Senate and a betrayal of families suffering from Big Tech's greed.",
+"corrected_date": "2026-07-06",
+"note": "Quote is verbatim but truncated; the full sentence starts 'KOSA without a duty of care isn't KOSA'. Page confirms the House KIDS Act dropped the duty-of-care provision."
+},
+{
+"url": "https://broadbandbreakfast.com/democratic-senators-oppose-weak-house-kids-online-safety-act/",
+"verdict": "confirmed",
+"corrected_quote": "make no mistake – big tech is behind the House bill",
+"corrected_date": "2026-06-26",
+"note": "Fragment appears verbatim; he ties it to Meta/YouTube being held liable by New Mexico and California juries."
+},
+{
+"url": "https://www.pymnts.com/nvidia/2026/nvidia-faces-new-antitrust-questions-over-20-billion-groq-licensing-deal/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-22",
+"note": "Page confirms Warren and Blumenthal wrote Huang about the $20B Groq deal, that it was not submitted for antitrust review, and that the senators said it could reduce competition and strengthen Nvidia's AI position. 'Dodge merger review' is a fair paraphrase of the structure concern."
+},
+{
+"url": "https://techcrunch.com/2026/01/15/us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Quote verbatim from the letter; Blumenthal listed among the eight signers; context is Grok undressing deepfakes."
+},
+{
+"url": "https://www.eenews.net/articles/trump-ai-directive-could-spur-congressional-action-on-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": "This weak proposal is dead-on-arrival in the Senate — I and my Democratic colleagues will block it",
+"corrected_date": "2026-03-23",
+"note": "Quote verbatim (tracker truncates before the em dash); article confirms he called the framework, which calls for federal preemption of state AI laws, 'pathetic and a non-starter' on social media."
+},
+{
+"url": "https://broadbandbreakfast.com/democratic-senators-oppose-weak-house-kids-online-safety-act/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-26",
+"note": "Quote verbatim, tied to liability from New Mexico and California juries; 'It will give them a free pass.'"
+},
+{
+"url": "https://newrepublic.com/post/212522/kids-act-online-safety-house",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-30",
+"note": "Page says Cantwell, Blumenthal and allies argue the KIDS Act lacks KOSA's stipulation that it doesn't preempt states from passing stricter measures, and includes preemption language."
+},
+{
+"url": "https://unchainedcrypto.com/senate-democrats-demand-hearings-on-uaes-reported-500-million-stake-in-trump-family-crypto-venture/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-24",
+"note": "Blumenthal is one of five signers; letter cites Commerce's authorization of 35,000 Nvidia Blackwell chips to G42 despite intelligence warnings China could access the technology. The chip point is one item in a foreign-influence/corruption argument, so it is indirect evidence of an export-control stance."
+},
+{
+"url": "https://www.nenc.news/2026-09-10/ct-leaders-openai-rogue-ai-agents",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Headline quote verbatim."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "Evidence is thin: the only source is a UAE/Trump-crypto foreign-influence letter that mentions the G42 Blackwell approval as one of several favors, not a statement on export-control policy. -1 is defensible but rests on a single indirect item; no objection to the direction, only a note that confidence should be low.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+}
+]
+},
+{
+"bioguide": "M001169",
+"checks": [
+{
+"url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-schatz-introduce-legislation-to-reverse-trumps-state-ai-law-moratorium",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-01",
+"note": "murphy.senate.gov returns 403 to the fetch script, WebFetch and curl, and Wayback was unreachable from this sandbox (connection refused / 404), so the page was read via the Chrome MCP browser. Quote is verbatim. 'Drive up utility bills' is one clause in a list of AI harms states should be able to regulate; the release itself is about the GUARDRAILS Act (repealing Trump's Dec 2025 preemption EO), not data centers or ratepayers specifically."
+},
+{
+"url": "https://www.ctinsider.com/politics/article/chris-murphy-connecticut-walk-housing-costs-22413132.php",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-05",
+"note": "Quote verbatim. Page also carries the Beacon Falls line: town leaders 'are afraid to even mention it because they know it'll be shouted down.' He takes no position on the project, as the claim says."
+},
+{
+"url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-unregulated-ai-will-destroy-our-economy-and-culture",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-17",
+"note": "Read via Chrome MCP (site 403s automated fetchers; Wayback unreachable). Quote verbatim. Release says Murphy 'advocated for strong government policy and intervention', quotes 'The job displacement will be massive and devastating', and 'Every single executive I met with admitted that they had built a machine that they could not understand or control.' All three claim elements present."
+},
+{
+"url": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Verbatim: Murphy 'argued on social media that the problem of \"AI companies in a blind race to build a death machine first\" could be solved \"through a regulatory system that allows the research to continue, but in a way that doesn't destroy us.\"' The Hill paraphrases his post; 'endorsing binding rules on frontier AI' is a reasonable reading but the word 'binding' is the tracker's, not his."
+},
+{
+"url": "https://vtdigger.org/2026/04/27/lawmakers-on-capitol-hill-are-learning-to-love-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-27",
+"note": "Verbatim. Article: 'I'll sometimes use Claude as a thesaurus... I see the benefit as much as I'm definitely afraid.' Describes him as having advocated strict AI regulation to protect children."
+},
+{
+"url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-unregulated-ai-will-destroy-our-economy-and-culture",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-17",
+"note": "Verbatim (via Chrome MCP). Following sentences name 'Google and Apple and OpenAI and Anthropic' racing to deploy 'job-killing AGI' and call ethics talk 'just whitewash', exactly as claimed."
+},
+{
+"url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-schatz-introduce-legislation-to-reverse-trumps-state-ai-law-moratorium",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-01",
+"note": "Verbatim (via Chrome MCP). Bill would block Trump's EO withholding federal funds from states that regulate AI; Murphy says 'States have to be able to protect American families'. Supports the claim."
+},
+{
+"url": "https://www.foreign.senate.gov/press/dem/release/senate-foreign-relations-democrats-statement-on-trump-xi-summit",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-15",
+"note": "Read via Chrome MCP (foreign.senate.gov 403s automated fetchers). Murphy is listed among the 10 signers. Quote verbatim. Statement says the administration 'has dangerously greenlit... the sale of advanced AI chips to Chinese competitors like Alibaba and Tencent — firms with direct ties to the Chinese military.' Joint statement, not Murphy's individual words."
+},
+{
+"url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-unregulated-ai-will-destroy-our-economy-and-culture",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-17",
+"note": "Verbatim. He argues China regulates its own AI, so regulation and innovation co-exist, and rejects the China-race argument against regulation. Note this is about domestic regulation, not export controls; weak evidence for the china_chips dimension specifically."
+},
+{
+"url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-unregulated-ai-will-destroy-our-economy-and-culture",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-17",
+"note": "Verbatim on the page."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "Evidence is thin for a directional score. The only data-center-relevant content is a single clause ('drive up utility bills') in a list of AI harms in a preemption press release, plus a walk interview where he reports data centers as a grassroots concern while explicitly taking no position on the Beacon Falls project. No statement on siting, ratepayer protection policy, moratoria, or build-out. A 0 'Mixed' (or no position) better fits the sourcing than -1.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+},
+{
+"bioguide": "L000557",
+"checks": [
+{
+"url": "https://larson.house.gov/media-center/press-releases/larson-announces-comprehensive-bill-prepare-americas-workforce-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-15",
+"note": "Quote appears verbatim. Page describes a federal report on AI's workforce impact, $160M Dept of Education grants + $90M Dept of Labor grants (= $250M), co-led with Rep. Cleaver. Dated Dec 15, 2025."
+},
+{
+"url": "https://larson.house.gov/media-center/press-releases/larson-announces-comprehensive-bill-prepare-americas-workforce-ai",
+"verdict": "confirmed",
+"corrected_quote": "We can't let big tech moguls make billions on this disruptive technology without investing our workforce.",
+"corrected_date": "2025-12-15",
+"note": "Quote verbatim (page uses curly apostrophe). Endorsement list includes Anthropic, Microsoft, OpenAI plus AFT, IFPTE, SAG-AFTRA, NAVA, SHRM. 'Companies bear responsibility' is a reasonable gloss of the quote."
+},
+{
+"url": "https://larson.house.gov/media-center/press-releases/larson-statement-kids-act",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-29",
+"note": "Quote verbatim, dated June 29, 2026. He says the bill 'falls short' and 'shields tech billionaires from accountability' and names Blumenthal as a leader, but the page never states how he voted and never mentions KOSA. 'Voted no' and 'Blumenthal's stronger Senate KOSA' are inferences not on this page."
+},
+{
+"url": "https://larson.house.gov/media-center/press-releases/larson-statement-tiktok-vote",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-13",
+"note": "Quote verbatim (March 13, 2024). He cites Himes' intelligence analysis and CCP ownership concerns, then objects to the bill as rushed and unresponsive on free speech. Page does not explicitly record his vote, but the claim only says he objected."
+},
+{
+"url": "https://larson.house.gov/media-center/press-releases/larson-announces-comprehensive-bill-prepare-americas-workforce-ai",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-12-15",
+"note": "Quote verbatim. Page supports 'wants nationwide AI regulations and standards' but says nothing about states, floors, or preemption; the GUARDRAILS cosponsorship is not on this page, so the 'federal floor not preemption' reading is the tracker's inference."
+},
+{
+"url": "https://larson.house.gov/media-center/press-releases/larson-announces-comprehensive-bill-prepare-americas-workforce-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-15",
+"note": "Headline quote appears verbatim in Larson's quoted statement."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "The only sourced evidence is a call for 'nationwide AI regulations and standards', which points toward a national rule, not toward letting states regulate. The counterweight (GUARDRAILS cosponsorship) is not among the checked sources. -2 'Let states regulate' is too strong for this evidence; at most it supports a mixed/conditional read.",
+"suggested_score": 0,
+"suggested_label": "Mixed or conditional"
+},
+{
+"dimension": "data_centers",
+"objection": "None of the six sources mentions data centers, energy, or ratepayers; the -1 score has no support in the checked evidence.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "C001069",
+"checks": [
+{
+"url": "https://www.govtrack.us/congress/bills/119/hr7977/cosponsors",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-27",
+"note": "GovTrack cosponsor table lists 'Courtney, Joe [D-CT2]' joined April 27, 2026 on H.R. 7977 (Energy Bills Relief Act). The bill text page (/text) contains Sec. 603 'Avoiding cost shifts onto families' creating a 'Large load facility class' with full cost recovery from that class for grid upgrades, including if the facility ceases operations or uses less than projected. Claim is accurate. Note: H.R. 7977 is a broad Democratic omnibus energy-affordability bill (LNG exports, utility regulation, etc.), not a data-center-specific bill; the large-load section is one provision among many."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only cited evidence is cosponsorship of a broad omnibus energy-affordability bill whose Sec. 603 makes large-load facilities pay for their own grid upgrades. That is consistent with -1 'Protect ratepayers first', but it is thin: a single late cosponsorship of a leadership-backed package, with no Courtney statement about data centers. The score is defensible; flagging only that it rests on one indirect source.",
+"suggested_score": -1,
+"suggested_label": "Protect ratepayers first"
+}
+]
+}
+]

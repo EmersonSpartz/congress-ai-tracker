@@ -1,0 +1,693 @@
+[
+{
+"bioguide": "S001150",
+"name": "Adam B. Schiff",
+"signature": "Wrote the Energy Cost Fairness and Reliability Act to make data centers pay their own way, the HALO Act on military AI, and the CLEAR Act on AI training transparency; a leading Senate voice against preempting state AI laws.",
+"groups": [
+"Senate Judiciary Subcommittee on Intellectual Property (Ranking Member)",
+"Senate Environment and Public Works Subcommittee on Fisheries, Water, and Wildlife (Ranking Member)"
+],
+"notable_quote": {
+"text": "Our nation is witnessing a generational increase in energy demand with the buildout of data centers, and hard-working Americans should not be left to foot the tab for rising energy costs",
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-unveils-major-legislation-to-ensure-fair-and-affordable-energy-costs-for-americans-amid-data-center-buildouts",
+"date": "2026-05-18"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Schiff wants data centers built only if they bring their own power, pay 100 percent of grid upgrades, and do not skip environmental review. He says AI growth cannot come at the cost of consumers.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.4559 Energy Cost Fairness and Reliability Act (introduced May 18, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4559",
+"date": "2026-05-18",
+"quote": null,
+"what_it_shows": "His own bill would make large loads like data centers bring their own power, be flexible on demand, and pay 100 percent of the grid upgrades needed to serve them."
+},
+{
+"type": "statement",
+"title": "Press release: Sen. Schiff unveils legislation on energy costs amid data center buildouts",
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-unveils-major-legislation-to-ensure-fair-and-affordable-energy-costs-for-americans-amid-data-center-buildouts",
+"date": "2026-05-18",
+"quote": "however that growth cannot come at the cost of consumers or society. There needs to be guardrails that protect Americans’ pocketbooks.",
+"what_it_shows": "He frames AI leadership as important but says ratepayers must be shielded from data center costs."
+},
+{
+"type": "letter",
+"title": "Letter: Schiff leads seven Senate Democrats questioning blanket Clean Water Act permits for AI data centers",
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-senate-democrats-urge-trump-admin-to-balance-technological-innovation-with-longstanding-environmental-protections-in-permitting-of-ai-data-centers",
+"date": "2025-09-10",
+"quote": "It is important that we do not repeat the mistakes of the Industrial Revolution that necessitated the creation of the EPA in the first place.",
+"what_it_shows": "He opposed letting data centers bypass individual environmental review under Trump's permitting executive order."
+},
+{
+"type": "letter",
+"title": "Letter: Schiff joins Markey-led letter urging FERC to stop data-center-driven rate hikes",
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-joins-sen-markey-colleagues-in-urging-federal-energy-regulator-to-prevent-data-centers-from-dramatically-hiking-energy-costs-for-american-families",
+"date": "2025-11-17",
+"quote": "We urge you to protect residential ratepayers over corporate profits, as FERC’s mission demands",
+"what_it_shows": "Asked federal regulators to reject grid cost-sharing that shifts data center costs onto households."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3269 Liquid Cooling for AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3269",
+"date": "2025-11-20",
+"quote": null,
+"what_it_shows": "Backs research into more efficient data center cooling, a build-smarter measure rather than a limit."
+},
+{
+"type": "statement",
+"title": "Press release: Schiff joins McCormick and Coons on liquid cooling bill",
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-joined-senators-mccormick-and-coons-to-introduce-bill-to-boost-u-s-ai-leadership-with-energy-efficient-liquid-cooling-technology",
+"date": "2025-11-20",
+"quote": "we must ensure we are using the most efficient cooling technologies and protecting consumers from price hikes",
+"what_it_shows": "Even his pro-efficiency bill is framed around protecting consumers from price increases."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Schiff pushes specific guardrails: rules for military AI and autonomous weapons, kids and chatbots, AI training transparency, and AI deepfakes in ads. He does not call for a pause or licensing of frontier models.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.4697 Human Authority in Lethal Operations (HALO) Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4697",
+"date": "2026-06-08",
+"quote": null,
+"what_it_shows": "Would write into law human control over autonomous weapons and limits on AI-enabled domestic mass surveillance by the Pentagon."
+},
+{
+"type": "statement",
+"title": "Press release: Schiff introduces guardrails for Defense Department use of AI",
+"url": "https://www.schiff.senate.gov/news/press-releases/news-schiff-introduces-comprehensive-legislation-to-enact-commonsense-guardrails-for-defense-departments-use-of-ai",
+"date": "2026-06-08",
+"quote": "My legislation would protect Americans from unlawful domestic surveillance, ensure that humans in the chain of command exercise responsibility for the use of any lethal technology",
+"what_it_shows": "He treats lethal AI and AI surveillance as risks needing binding rules."
+},
+{
+"type": "statement",
+"title": "Press release (ICYMI Axios): Schiff drafting AI guardrails for autonomous weapons and domestic spying",
+"url": "https://www.schiff.senate.gov/news/press-releases/icymi-axios-sen-schiff-drafting-ai-guardrails-for-autonomous-weapons-domestic-spying",
+"date": "2026-03-13",
+"quote": "Over the past few weeks, it has become even more clear that there is an urgent need for guardrails on how AI is used by the Defense Department",
+"what_it_shows": "Statement made during the Pentagon-Anthropic dispute over model access."
+},
+{
+"type": "interview",
+"title": "Punchbowl News conference remarks on the administration's treatment of Anthropic",
+"url": "https://www.schiff.senate.gov/news/press-releases/watch-at-punchbowl-news-conference-sen-schiff-talks-iran-war-tackling-ai-in-congress-and-democrats-2026-agenda",
+"date": "2026-03-11",
+"quote": "What the administration is doing right now to Anthropic is so completely self-destructive. It’s destructive of the AI in America, because this is one of the preeminent AI companies.",
+"what_it_shows": "Defended a company that refused to allow its AI to be used for mass surveillance or fully autonomous weapons."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.5105, a bill on antitrust law and sharing of AI frontier model risks (introduced July 23, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5105",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "Would let AI companies share information about frontier model risks without antitrust exposure, a safety-collaboration measure; sponsorship confirmed on GovTrack."
+},
+{
+"type": "letter",
+"title": "Letter: Gillibrand, Coons, Kelly, Schiff and Warner press the administration on frontier AI oversight (reported by Fortune)",
+"url": "https://fortune.com/2026/08/04/trump-ai-regulation-china-national-security/",
+"date": "2026-08-04",
+"quote": null,
+"what_it_shows": "Signed a letter calling the administration's approach to frontier AI oversight unpredictable and asking for clear rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4407 CHATBOT Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4407",
+"date": "2026-04-28",
+"quote": null,
+"what_it_shows": "Backs rules for how AI chatbots interact with children."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4855 SAFE KIDS Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4855",
+"date": "2026-06-23",
+"quote": null,
+"what_it_shows": "Backs requiring companies to build AI features safely for kids."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.3813 CLEAR Act (AI training data transparency)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3813",
+"date": "2026-02-10",
+"quote": null,
+"what_it_shows": "Would require AI companies to disclose copyrighted works used to train models."
+},
+{
+"type": "statement",
+"title": "Press release: Sens. Schiff, Curtis introduce bipartisan CLEAR Act",
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sens-schiff-curtis-introduce-bipartisan-bill-to-protect-creators-work-implement-transparency-safeguards-in-ai-model-development",
+"date": "2026-02-10",
+"quote": "we need a unified approach to implementing guardrails that protect the work and livelihoods of all workers, including artists and creators",
+"what_it_shows": "His standard framing is guardrails plus innovation."
+},
+{
+"type": "statement",
+"title": "Press release: Schiff and Khanna reintroduce the AI Ads Act",
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-rep-khanna-reintroduce-landmark-bill-to-combat-fraudulent-ai-generated-campaign-ads",
+"date": "2026-07-27",
+"quote": "Fraudulent AI advertising has already proliferated in races across the country, and if Congress does not act, this runaway challenge will only get worse as AI becomes increasingly capable of blurring the lines between fact and fiction.",
+"what_it_shows": "Wants a legal ban on AI deepfake political ads."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: 118th H.R.2894 Block Nuclear Launch by Autonomous Artificial Intelligence Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2024-03-05",
+"quote": null,
+"what_it_shows": "Earlier support for keeping a human in control of nuclear launch decisions."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Schiff backs kids online safety, anti-CSAM and deepfake laws, questions whether Section 230's original rationale still holds, and says Congress has failed to regulate tech. He has not called for breaking up companies.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-28",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms toward minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1829 STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2026-07-13",
+"quote": null,
+"what_it_shows": "Supports letting victims sue platforms over child abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.146 TAKE IT DOWN Act (now law)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-21",
+"quote": null,
+"what_it_shows": "Supports criminal penalties and takedown duties for nonconsensual intimate images including AI fakes."
+},
+{
+"type": "hearing",
+"title": "Senate Judiciary hearing: Schiff questions panel on child protection law and Section 230",
+"url": "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-questions-panel-on-child-protections-law-privacy-rights-online",
+"date": "2025-02-19",
+"quote": "We established Section 230 for the reasons I think you implied, which is, it was a nascent industry. They urged us to do so, so that we would not stifle innovation.",
+"what_it_shows": "He questioned whether the liability shield's original justification still applies."
+},
+{
+"type": "interview",
+"title": "Punchbowl News conference remarks on Congress and tech regulation",
+"url": "https://www.schiff.senate.gov/news/press-releases/watch-at-punchbowl-news-conference-sen-schiff-talks-iran-war-tackling-ai-in-congress-and-democrats-2026-agenda",
+"date": "2026-03-11",
+"quote": "If we move with the same speed we have moved to deal with Section 230 or all the ills that have come about through social media, then we will never, it feels like, regulate AI.",
+"what_it_shows": "He treats the failure to regulate social media as a cautionary tale."
+},
+{
+"type": "letter",
+"title": "Letter: Padilla and Schiff urge the FTC to address AI chatbot risks to children",
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-schiff-urge-federal-trade-commission-to-address-ai-chatbots-risks-to-children-and-teens",
+"date": "2025-10-22",
+"quote": "the FTC has a critical role to play in ensuring that AI companies build safety features that work reliably for children",
+"what_it_shows": "Wants the consumer protection agency to police chatbot safety features."
+},
+{
+"type": "other",
+"title": "News report: Kim, Schiff, Lummis and Barrasso introduce the Digital Age Assurance Act (S. 5090)",
+"url": "https://www.biometricupdate.com/202608/us-senators-propose-operating-system-based-age-assurance-framework",
+"date": "2026-08-04",
+"quote": null,
+"what_it_shows": "Co-led a bipartisan bill to make operating systems signal a user's age to apps so child protections apply."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Schiff strongly opposes federal preemption of state AI laws. He called Trump's December 2025 executive order a gross overreach that replaces state safeguards with nothing, and cosponsors the States' Right to Regulate AI Act.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3557 States' Right to Regulate AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3557",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "Would block the federal government from wiping out state AI rules."
+},
+{
+"type": "statement",
+"title": "Statement: Schiff on Trump AI executive order preempting state safeguards",
+"url": "https://www.schiff.senate.gov/news/press-releases/statement-sen-schiff-statement-on-trump-ai-executive-order-preempting-state-safeguards-meant-to-protect-consumers-and-workers",
+"date": "2025-12-12",
+"quote": "Instead, he has chosen to try and preempt state laws that are establishing meaningful safeguards around AI and replace them with nothing.",
+"what_it_shows": "Direct opposition to the executive order; he also said the party of states' rights should oppose this gross overreach."
+},
+{
+"type": "hearing",
+"title": "Senate Judiciary IP subcommittee hearing: Schiff responds to reported plan to target state AI guardrails",
+"url": "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-leads-hearing-on-addressing-inequity-in-music-royalties-calls-out-trump-administrations-reported-plans-to-target-california-and-other-states-with-ai-guardrails",
+"date": "2025-12-09",
+"quote": "in the absence of federal leadership, the states can and must exercise the power they have to protect their residents",
+"what_it_shows": "Says Congress should lead but states must be free to act until it does."
+},
+{
+"type": "interview",
+"title": "Punchbowl News conference remarks on preempting state AI protections",
+"url": "https://www.schiff.senate.gov/news/press-releases/watch-at-punchbowl-news-conference-sen-schiff-talks-iran-war-tackling-ai-in-congress-and-democrats-2026-agenda",
+"date": "2026-03-11",
+"quote": "So, before we tell the states back off, we have to show we’re capable of doing something, and that hasn’t happened.",
+"what_it_shows": "Conditions any preemption on Congress first passing real federal rules."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted to remove the moratorium; nearly every senator did, so this vote alone is weak evidence, but it matches his statements."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls. Searched for statements on Nvidia H20 and H200 sales, the Chip Security Act, GAIN AI and export controls; he did not join the December 2025 Senate Democratic statement against H200 sales, and his July 2026 meeting with Nvidia's Jensen Huang produced no reported position.",
+"evidence": [
+{
+"type": "other",
+"title": "News report: Nvidia CEO Jensen Huang meets Sens. Warner and Schiff on open-weight AI models",
+"url": "https://www.straitstimes.com/world/united-states/nvidias-ceo-jensen-huang-defends-open-weight-ai-models",
+"date": "2026-07-28",
+"quote": null,
+"what_it_shows": "Schiff met Huang about open-weight models, but only Warner's reaction was reported; no chip export stance from Schiff."
+}
+]
+}
+},
+"search_notes": "Ran about 14 news queries (AI, data center, chatbot/deepfake, preemption, Section 230/Big Tech, Nvidia/export controls, tax AI companies, UAE chips) plus a site listing of schiff.senate.gov (42 AI/energy releases) and opened roughly 20 pages. Senate.gov blocks direct fetches and the tool's https Wayback fallback is refused in this sandbox, so I fetched archived copies over plain http with a small wrapper. Could not open: Politico Digital Future Daily (Aug 19, 2026, 'Why Adam Schiff wants to tax AI companies'), Benzinga/Yahoo Aug 30, 2026 remarks on AI companies pushing costs onto Americans, Sacramento Bee op-ed Aug 18, 2026 on deepfakes and paid ads, the Hill Aug 4, 2026 story, and Schiff's Netflix/WBD antitrust hearing release; none were used. Verified S.4559, S.4697 and S.5105 sponsorship on GovTrack. He did not sign the Slotkin H200 statement or the June 2026 UAE chips letter (Warren, Blumenthal, Peters, Durbin, Wyden). No AI super PAC activity found."
+},
+{
+"bioguide": "P000145",
+"name": "Alex Padilla",
+"signature": "Focused on AI chatbot dangers to kids (letters to Character.AI, Replika, Chai and the FTC), AI election deception bills, and defending California's state AI laws against federal preemption.",
+"groups": [
+"Senate Rules and Administration Committee (Ranking Member)",
+"National Security Commission on Emerging Biotechnology (Commissioner)"
+],
+"notable_quote": {
+"text": "with today’s executive order, the Trump Administration is attacking state leadership and basic safeguards in one fell swoop",
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-statement-on-trumps-executive-order-undermining-californias-ai-leadership",
+"date": "2025-12-11"
+},
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Mixed and thin. Padilla signed a letter warning against blanket Clean Water Act permits for AI data centers and cosponsored a study of AI's energy and water use, but he also leads a push to build transmission faster and has made no statement on data center ratepayer bills.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Padilla signs Schiff-led letter to Army Corps and EPA on Clean Water Act permitting of AI data centers",
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-senate-democrats-urge-trump-admin-to-balance-technological-innovation-with-longstanding-environmental-protections-in-permitting-of-ai-data-centers",
+"date": "2025-09-10",
+"quote": "With thoughtful policy changes, we can build this infrastructure both swiftly and responsibly.",
+"what_it_shows": "Supports building AI infrastructure but not by skipping individual environmental review."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: 118th S.3732 Artificial Intelligence Environmental Impacts Act of 2024",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/3732",
+"date": "2024-02-01",
+"quote": null,
+"what_it_shows": "Backed a federal study and voluntary reporting of AI's electricity, water and pollution footprint."
+},
+{
+"type": "hearing",
+"title": "Senate Energy hearing: Padilla unveils effort to lower energy costs and strengthen transmission lines",
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/watch-padilla-unveils-new-effort-to-lower-energy-costs-strengthen-transmission-lines",
+"date": "2026-03-25",
+"quote": "one that will build a cheaper, stronger, more reliable electrical grid that protects ratepayers, respects communities, and keeps our economy competitive",
+"what_it_shows": "Pushes grid build-out and permitting reform framed around ratepayers; the release does not mention data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Padilla wants targeted guardrails, especially for AI companion chatbots and children and for AI used to deceive or suppress voters. He voted to advance a ban on AI companions for minors while flagging privacy risks in age verification.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letters: Padilla and Welch probe Character.AI, Chai and Replika on safeguards for children",
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-welch-probe-ai-chatbot-apps-on-safeguards-for-children",
+"date": "2025-04-03",
+"quote": "can, and has already, led to dangerous levels of attachment and unearned trust stemming from perceived social intimacy",
+"what_it_shows": "Treats companion chatbots as a mental health danger to young users and demands safety practices."
+},
+{
+"type": "letter",
+"title": "Letter: Padilla and Schiff urge the FTC to address AI chatbot risks to children",
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-schiff-urge-federal-trade-commission-to-address-ai-chatbots-risks-to-children-and-teens",
+"date": "2025-10-22",
+"quote": "We request that you provide our offices with a briefing by October 31, 2025, on how the Commission will incorporate the unique risks to children in its upcoming review of AI chatbots",
+"what_it_shows": "Wants the FTC's chatbot inquiry to cover crisis detection and child safety."
+},
+{
+"type": "hearing",
+"title": "Senate Judiciary markup of the GUARD Act banning AI companions for minors (Roll Call report)",
+"url": "https://rollcall.com/2026/04/30/ban-on-kids-companion-chatbots-advanced-by-senate-committee/",
+"date": "2026-04-30",
+"quote": "I . . . welcome the opportunity to continue to fine-tune that section of this very, very important bill",
+"what_it_shows": "Voted yes on the 22-0 committee approval but raised data privacy and security concerns about age verification."
+},
+{
+"type": "statement",
+"title": "Press release: Merkley and Padilla introduce the FAIR Elections Act on AI misuse in elections",
+"url": "https://www.merkley.senate.gov/merkley-padilla-lead-effort-to-fight-back-against-voter-suppression-and-misuse-of-artificial-intelligence-in-u-s-elections",
+"date": "2026-06-11",
+"quote": "As the use of AI spreads rapidly, we must ensure there are guardrails in place to prevent it from becoming a tool to suppress votes, spread disinformation, or purge eligible voters from the rolls",
+"what_it_shows": "Wants binding rules against AI-driven voter suppression and deception."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4774 Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4774",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "Formal backing of the AI elections bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.2912 Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2912",
+"date": "2025-09-18",
+"quote": null,
+"what_it_shows": "Supports banning AI-made lies about how to vote before federal elections."
+},
+{
+"type": "statement",
+"title": "Press release: Padilla introduces legislation against AI-generated election disinformation (118th Congress)",
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-introduces-legislation-to-protect-against-ai-generated-election-disinformation",
+"date": "2024-07-12",
+"quote": "We must address the threat of AI-related voter suppression head on and redouble our efforts to protect every American’s fundamental right to vote",
+"what_it_shows": "His AI concern has centered on elections and voting rights since 2024."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Padilla favors targeted rules: FTC action on chatbots, safety duties for AI companion apps, and a ban on connected cars from adversary countries. He has also cautioned that age-verification mandates carry privacy risks.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Padilla and Schiff urge the FTC to address AI chatbot risks to children",
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-schiff-urge-federal-trade-commission-to-address-ai-chatbots-risks-to-children-and-teens",
+"date": "2025-10-22",
+"quote": null,
+"what_it_shows": "Asks the consumer protection agency to examine crisis detection, parental tools, deceptive marketing and exploitation risks in chatbots."
+},
+{
+"type": "letter",
+"title": "Letters: Padilla and Welch to CEOs of Character.AI, Chai and Luka (Replika)",
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-welch-probe-ai-chatbot-apps-on-safeguards-for-children",
+"date": "2025-04-03",
+"quote": null,
+"what_it_shows": "Direct pressure on companion-chatbot companies over safety practices for minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-07-28",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and software tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "hearing",
+"title": "Senate Judiciary GUARD Act markup (The Hill report)",
+"url": "https://thehill.com/policy/technology/5858006-senate-panel-advances-bill-to-curb-ai-chatbot-companions-for-kids/",
+"date": "2026-04-30",
+"quote": null,
+"what_it_shows": "Voted yes but said the age-verification component has potential privacy and security risks and may need to be fine-tuned."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Padilla opposes federal preemption of state AI laws. He called Trump's December 2025 executive order an attack on state leadership and basic safeguards and cosponsors the States' Right to Regulate AI Act.",
+"evidence": [
+{
+"type": "statement",
+"title": "Statement: Padilla on Trump's executive order undermining California's AI leadership",
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-statement-on-trumps-executive-order-undermining-californias-ai-leadership",
+"date": "2025-12-11",
+"quote": "with today’s executive order, the Trump Administration is attacking state leadership and basic safeguards in one fell swoop",
+"what_it_shows": "Direct opposition to the order that sought to block state AI regulation; he added that California will continue to lead the A.I. revolution."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3557 States' Right to Regulate AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3557",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "Would keep states' power to pass their own AI rules."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the 10-year state AI law moratorium from H.R. 1 (99-1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Voted to remove the moratorium; nearly unanimous, so weak on its own but consistent with his statements."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls. Searched for statements on Nvidia H20 and H200 sales, the Chip Security Act and export controls; found only general remarks about technology competition with China in a biotech speech, and he did not join the December 2025 Senate Democratic statement against H200 sales.",
+"evidence": [
+{
+"type": "statement",
+"title": "Keynote: Padilla at the AI+Biotechnology Summit",
+"url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-delivers-keynote-address-at-ai-biotechnology-summit",
+"date": "2025-04-10",
+"quote": "It’s also the global technology competition we now find ourselves in with China.",
+"what_it_shows": "Frames AI and biotech as a race with China but takes no position on chip export rules."
+}
+]
+}
+},
+"search_notes": "Ran about 10 news queries (AI, data center, chips/export controls, preemption, Big Tech/Section 230/KOSA, GUARD Act, Merkley elections bill) plus a site listing of padilla.senate.gov (about 70 AI/energy/tech releases) and opened roughly 12 pages via archived http copies. Many 'Padilla data center' hits are California state Sen. Steve Padilla, not Alex Padilla; excluded. Found no Alex Padilla statement on data center ratepayer or siting bills, no AI super PAC activity, and no chip export position. Confirmed his signature on the Sept 10, 2025 Clean Water Act letter and his GUARD Act markup remarks in Roll Call and The Hill."
+},
+{
+"bioguide": "G000607",
+"name": "James Gallagher",
+"signature": "New member (sworn in June 2026) with no notable public AI activity found; his official site favors innovation with less federal red tape while developing new technology responsibly.",
+"groups": [],
+"notable_quote": null,
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. Searched news for him with data center terms, including the proposed Mount Shasta data center in his district, and his official press releases and issue pages; nothing found.",
+"evidence": []
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "His official issues page favors letting businesses innovate in AI without excessive federal red tape while developing technology responsibly. No bills, votes or speeches on AI found in his first three months in Congress.",
+"evidence": [
+{
+"type": "other",
+"title": "Official website issue page: Science, Space, and Technology",
+"url": "https://gallagher.house.gov/issues/science-space-and-technology",
+"date": "2026-07",
+"quote": "He supports policies that allow American businesses and researchers to innovate without being held back by excessive federal red tape, while ensuring new technologies are developed responsibly.",
+"what_it_shows": "Innovation-first framing with a nod to responsible development; no specific AI rules endorsed."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No opened evidence of a position. A North State Public Radio report (Aug 21, 2026) said he raised privacy concerns about automated license plate readers in Chico, but the article could not be retrieved and was not used. No Big Tech, Section 230 or kids online safety statements found.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption of state AI laws. He joined the House after the July 2025 Senate vote and is not on the GUARDRAILS Act cosponsor list or the November 2025 Matsui letter.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on chip export controls. His official site calls China a heavy investor and competitor in AI and technology but says nothing about Nvidia sales or export rules.",
+"evidence": [
+{
+"type": "other",
+"title": "Official website issue page: Science, Space, and Technology",
+"url": "https://gallagher.house.gov/issues/science-space-and-technology",
+"date": "2026-07",
+"quote": "Congressman Gallagher believes American innovation and leadership in science and technology, from artificial intelligence to space exploration, are critical to our economic strength and national security, especially as competitors like China invest heavily in these fields.",
+"what_it_shows": "Frames AI as a competition with China without taking a position on export controls."
+}
+]
+}
+},
+"search_notes": "Ran about 8 news queries (artificial intelligence/AI, data center, Assembly AI bills such as SB 1047, license plate readers, AI PACs, congressional statements) and listed every archived page on gallagher.house.gov (about 30 pages: four press releases on water, wildfire, harbor craft and swearing-in, plus issue pages). Opened his Science, National Security and Jobs issue pages, his votes page, the CN&R May 2026 candidate interview (no AI, energy or data center content) and his AI Money Watch profile (no super PAC activity). Do not confuse him with former Rep. Mike Gallagher of Wisconsin, whose chip export letters appear in the state context file. Could not retrieve the Aug 21, 2026 NSPR story on license plate reader privacy (Google decode rate-limited, URL guesses returned 404)."
+},
+{
+"bioguide": "H001068",
+"name": "Jared Huffman",
+"signature": "Natural Resources ranking member who cosponsors AI accountability and anti-AI-price-gouging bills and blasts Big Tech 'handouts' on public resources, with little direct AI commentary.",
+"groups": [
+"House Committee on Natural Resources (Ranking Member)"
+],
+"notable_quote": {
+"text": "No project in these places should happen without very careful study, without mitigation, and most importantly, without paying their fair share.",
+"url": "https://huffman.house.gov/media-center/press-releases/ranking-member-huffman-blasts-gops-big-tech-handout",
+"date": "2026-02-11"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Huffman leans toward making Big Tech infrastructure pay its way and undergo full review, but his only data-center-specific act is cosponsoring a study of AI's energy and water use. He voted against the SPEED Act permitting overhaul.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.9183 Artificial Intelligence Environmental Impacts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "Backs a federal study and voluntary reporting of AI's electricity, water and pollution use; neutral on building."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776 SPEED Act (House roll call 356, Dec 18, 2025)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Opposed the Republican permitting bill that backers framed as speeding energy and data center projects."
+},
+{
+"type": "statement",
+"title": "Floor speech: Ranking Member Huffman blasts GOP's Big Tech handout (Undersea Cable Protection Act)",
+"url": "https://huffman.house.gov/media-center/press-releases/ranking-member-huffman-blasts-gops-big-tech-handout",
+"date": "2026-02-11",
+"quote": "No project in these places should happen without very careful study, without mitigation, and most importantly, without paying their fair share.",
+"what_it_shows": "Wants tech giants' infrastructure on public resources to pay fair market rates and face environmental review; about cables, not data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Huffman cosponsors targeted AI guardrail bills on bias testing, AI-driven price and wage discrimination, and AI election lies. No speeches or statements on AI risk found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.5511 Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-19",
+"quote": null,
+"what_it_shows": "Would make companies test automated decision systems for bias and harm and report to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.4640 Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "Would ban using AI and personal data to set different prices or wages for different people."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.4894 Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "Would outlaw AI-made lies about voting before federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: 118th H.R.5628 Algorithmic Accountability Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5628",
+"date": "2023-09-21",
+"quote": null,
+"what_it_shows": "Consistent support for AI bias and harm testing across two Congresses."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Huffman attacks corporate favors for tech giants and backs privacy protections for reproductive health data. He voted for the 2024 package that forced TikTok's Chinese owner to divest.",
+"evidence": [
+{
+"type": "statement",
+"title": "Floor speech: Ranking Member Huffman blasts GOP's Big Tech handout",
+"url": "https://huffman.house.gov/media-center/press-releases/ranking-member-huffman-blasts-gops-big-tech-handout",
+"date": "2026-02-11",
+"quote": "another corporate handout, this time to the biggest tech oligarchs in the world",
+"what_it_shows": "Opposed exempting Meta and Amazon cables from fees and reviews in marine sanctuaries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3218 Reproductive Data Privacy and Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "Would stop companies from collecting or selling reproductive health data without permission."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: 118th H.R.3420 My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Earlier support for limits on app data collection."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 8038, the April 2024 package that included the TikTok divest-or-ban law (House roll call 145, 118th Congress)",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h145",
+"date": "2024-04-20",
+"quote": null,
+"what_it_shows": "Supported forcing TikTok's Chinese parent to sell as part of a larger foreign aid bill."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Huffman did not sign the Nov 26, 2025 Matsui letter (81 House Democrats) or the Dec 3, 2025 Clarke letter (44 signers) against an AI moratorium, and he is not a GUARDRAILS Act cosponsor; no statement on the Dec 2025 executive order or the Mar 2026 White House framework was found.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 9 news queries (data center, artificial intelligence/AI, chatbot/deepfake/Big Tech/Section 230, public lands data centers, Eureka/Humboldt data center, chips/China, town halls) plus a site listing of huffman.house.gov (about 60 energy/tech pages) and opened the Big Tech handout floor speech, the SPEED Act roll call, the 2024 H.R. 8038 roll call, the Matsui and Clarke letter pages, GovTrack cosponsor lists for H.R.8031 and H.R.9442, the Times-Standard Oct 2025 town hall story (no AI content) and his AI Money Watch profile (no super PAC activity). Extracted the Matsui letter PDF text locally to confirm he is not among the 81 signers. No Huffman statement on the Eureka data center moratorium vote was found."
+}
+]

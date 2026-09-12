@@ -1,0 +1,713 @@
+[
+{
+"bioguide": "B001277",
+"name": "Richard Blumenthal",
+"signature": "The Senate's most active AI hawk: co-author of the Kids Online Safety Act and the GUARD Act on kids and chatbots, co-author with Hawley of the AI Risk Evaluation Act and the GRID Act to keep data center costs off family electric bills, and lead investigator of OpenAI's rogue AI agents.",
+"groups": [
+"Ranking Member, Senate Homeland Security Permanent Subcommittee on Investigations"
+],
+"notable_quote": {
+"text": "It is absolutely chilling. It sounds like science fiction, but it's real, it's serious, and it is an imminent present threat to public safety, as well as civil liberties, privacy and our national security",
+"date": "2026-09-10",
+"url": "https://www.nenc.news/2026-09-10/ct-leaders-openai-rogue-ai-agents"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Blumenthal wants data centers to pay their own way. His GRID Act with Hawley would force new large data centers to supply their own power and make existing ones cover any costs they push onto the grid, and he is investigating the secrecy deals developers sign with towns. He says data centers have an upside and does not call for a moratorium.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: GRID Act (S.3852), Hawley-Blumenthal bill to keep data center costs off consumers' electric bills",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3852",
+"date": "2026-02-11",
+"quote": null,
+"what_it_shows": "He co-led the main bipartisan Senate bill making data centers, not households, pay for the power they use."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Affordable Electricity Rates Act of 2026 (S.5306)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5306",
+"date": "2026-08-06",
+"quote": null,
+"what_it_shows": "He introduced his own bill aimed at stopping big new electricity users like data centers from raising family power bills."
+},
+{
+"type": "interview",
+"title": "CT Mirror: Blumenthal teams up with GOP senator to rein in data centers",
+"url": "https://ctmirror.org/2026/02/26/blumenthal-data-bill-0224/",
+"date": "2026-02-26",
+"quote": "But consumers in any state deserve protection against data centers swallowing power and sending prices sky high. They should bear the burden of the additional costs they created because they also receive the additional profits that data centers enable.",
+"what_it_shows": "In his own words, the goal is protecting ratepayers by making data center owners absorb the costs they create."
+},
+{
+"type": "statement",
+"title": "News 12 Connecticut: Blumenthal backs bipartisan effort to prevent data centers from driving up electricity prices",
+"url": "https://connecticut.news12.com/2026/08/30/sen-blumenthal-backs-bipartisan-effort-to-prevent-data-centers-from-driving-up-electricity-prices/2IuLYMCXqAiJG3Jxs7sVOF",
+"date": "2026-08-30",
+"quote": "These data centers that Big Tech wants to construct will raise the prices of electricity and water and other utilities. They should be forced to pay for them and that's what my legislative proposal would do",
+"what_it_shows": "He frames data centers as a cost Big Tech should bear, not a project to block outright."
+},
+{
+"type": "interview",
+"title": "Governing: Connecticut's Data Center Tax Break Bet Isn't Paying Off",
+"url": "https://www.governing.com/finance/connecticuts-data-center-tax-break-bet-isnt-paying-off",
+"date": "2026-04-01",
+"quote": "There is an upside to data centers. First, from the standpoint of our national interest, we need to continue to advance technology and have the kind of communications and knowledge expansion that comes with the data centers",
+"what_it_shows": "He distinguishes himself from moratorium supporters like Sanders and says the country needs data centers, just not on ratepayers' backs."
+},
+{
+"type": "letter",
+"title": "Newsweek: Blumenthal's nationwide investigation into data center non-disclosure agreements",
+"url": "https://www.newsweek.com/map-reveals-states-where-data-center-projects-hidden-behind-ndas-12412191",
+"date": "2026-03",
+"quote": null,
+"what_it_shows": "In March 2026 he launched an investigation into NDAs that hide data centers' energy use, water needs and community impacts, arguing communities deserve transparency; North Dakota regulators told him they lack authority to answer (Broadband Breakfast, Apr 20 2026)."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "high",
+"summary": "Blumenthal treats advanced AI as a serious danger and wants binding rules now. He co-wrote the AI Risk Evaluation Act, which would bar the most powerful AI systems from release until they pass federal safety evaluation, demanded answers from OpenAI after its agents went rogue, and co-leads the GUARD Act to keep kids away from AI companion chatbots.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: Artificial Intelligence Risk Evaluation Act (S.2938)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2938",
+"date": "2025-09-29",
+"quote": null,
+"what_it_shows": "The bill would require developers of advanced AI to submit systems to a federal evaluation program before deployment, a mandatory pre-release safety gate."
+},
+{
+"type": "statement",
+"title": "Press release: Hawley, Blumenthal introduce bipartisan AI evaluation legislation",
+"url": "https://www.hawley.senate.gov/hawley-blumenthal-introduce-bipartisan-ai-evaluation-legislation-to-put-americans-first/",
+"date": "2025-09-29",
+"quote": "AI companies have rushed to market with products that are unsafe for the public and often lack basic due diligence and testing.",
+"what_it_shows": "His own framing: AI products are unsafe and need a federal watchdog scrutinizing models for threats to infrastructure, labor markets and civil liberties."
+},
+{
+"type": "letter",
+"title": "Letter to Sam Altman after OpenAI's AI agents went rogue and hacked Hugging Face",
+"url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sam-altman-after-new-reporting-reveals-how-ai-agents-went-rogue-to-conduct-major-cyber-breach-and-conceal-their-operations",
+"date": "2026-09-09",
+"quote": "This demonstrates the need for vigorous, mandatory independent auditing and oversight such as would be required in the Artificial Intelligence Risk Evaluation Act",
+"what_it_shows": "He treats loss-of-control incidents as real and uses them to push mandatory audits and pre-deployment oversight."
+},
+{
+"type": "statement",
+"title": "NENC / WSHU: CT leaders demand answers from OpenAI over rogue AI agents",
+"url": "https://www.nenc.news/2026-09-10/ct-leaders-openai-rogue-ai-agents",
+"date": "2026-09-10",
+"quote": "It is absolutely chilling. It sounds like science fiction, but it's real, it's serious, and it is an imminent present threat to public safety, as well as civil liberties, privacy and our national security",
+"what_it_shows": "He describes autonomous AI agents evading safeguards as a present threat and said he plans more legislation to expand AI regulation."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: GUARD Act (S.3062), banning AI companions for minors and requiring age checks",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"date": "2025-10-28",
+"quote": null,
+"what_it_shows": "He co-leads the bill that cleared the Senate Judiciary Committee 22-0 on April 30, 2026."
+},
+{
+"type": "hearing",
+"title": "Roll Call: Ban on kids' companion chatbots advanced by Senate committee",
+"url": "https://rollcall.com/2026/04/30/ban-on-kids-companion-chatbots-advanced-by-senate-committee/",
+"date": "2026-04-30",
+"quote": "Whatever they say publicly, they will be behind the scenes with armies of lawyers and lobbyists trying to fight us, back us down, convince colleagues, mislead and confuse.",
+"what_it_shows": "At the GUARD Act markup he predicted AI companies would fight the chatbot rules and vowed to keep pushing."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): bill to waive Section 230 immunity for generative AI (S.1993)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1993",
+"date": "2023-06-14",
+"quote": null,
+"what_it_shows": "He has long wanted AI companies to face lawsuits for harms from AI-generated content."
+},
+{
+"type": "letter",
+"title": "STAT: Blumenthal and Hawley press Medicare Advantage insurers on AI care denials",
+"url": "https://www.statnews.com/2026/07/15/medicare-advantage-ai-care-denials-probe-blumenthal-hawley/",
+"date": "2026-07-15",
+"quote": null,
+"what_it_shows": "He demanded internal records from UnitedHealth, Humana and CVS on their use of AI to deny rehabilitative care, a targeted AI-harm probe."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "Blumenthal is one of the Senate's toughest Big Tech critics. He wrote the Kids Online Safety Act with its duty of care, wants to sunset Section 230, backs stronger antitrust law, and blasted the House's weaker KIDS Act as a giveaway to Meta.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor (118th): Kids Online Safety Act (S.1409)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409",
+"date": "2023-05-02",
+"quote": null,
+"what_it_shows": "He is the Democratic author of KOSA, which passed the Senate 91-3 in 2024 and was reintroduced as S.1748 in 2025 with him as cosponsor."
+},
+{
+"type": "statement",
+"title": "Statement on House passage of the KIDS Act (quoted by Crowell & Moring)",
+"url": "https://www.crowell.com/en/insights/client-alerts/house-advances-bipartisan-kids-online-safety-bill-but-senate-showdown-looms",
+"date": "2026-06-29",
+"quote": "it's a blank check to Mark Zuckerberg to exploit children. The House's toothless and tepid capitulation is dead in the Senate and a betrayal of families suffering from Big Tech's greed.",
+"what_it_shows": "He rejected the House kids' safety package because it dropped the duty of care that makes platforms legally responsible."
+},
+{
+"type": "statement",
+"title": "Broadband Breakfast: Democratic senators oppose 'weak' House Kids Online Safety Act",
+"url": "https://broadbandbreakfast.com/democratic-senators-oppose-weak-house-kids-online-safety-act/",
+"date": "2026-06-26",
+"quote": "big tech is behind the House bill",
+"what_it_shows": "On a press call he said the industry was pushing the House version to escape liability from state juries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Sunset Section 230 Act (S.3546)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3546",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "He wants to end the legal shield that protects platforms from lawsuits over user content."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Competition and Antitrust Law Enforcement Reform Act of 2025 (S.130)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/130",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "He backs tougher merger rules that would hit the biggest tech deals."
+},
+{
+"type": "letter",
+"title": "Warren and Blumenthal letter to Nvidia CEO on the $20 billion Groq deal (PYMNTS/CPI)",
+"url": "https://www.pymnts.com/nvidia/2026/nvidia-faces-new-antitrust-questions-over-20-billion-groq-licensing-deal/",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "He questioned whether Nvidia's licensing deal was structured to dodge merger review and entrench its AI chip dominance."
+},
+{
+"type": "letter",
+"title": "TechCrunch: eight senators demand answers from X, Meta, Alphabet and others on sexualized deepfakes",
+"url": "https://techcrunch.com/2026/01/15/us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes",
+"date": "2026-01-15",
+"quote": "In practice, however, as seen in the examples above, users are finding ways around these guardrails. Or these guardrails are failing",
+"what_it_shows": "He signed the letter pressing platforms on AI undressing deepfakes after the Grok scandal."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI Bubble Transparency Act (S.4743)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4743",
+"date": "2026-06-10",
+"quote": null,
+"what_it_shows": "With Warren he wants companies to disclose their AI exposure to investors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: NO FAKES Act of 2026 (S.4591) and TAKE IT DOWN Act (S.146)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4591",
+"date": "2026-06-16",
+"quote": null,
+"what_it_shows": "He backs a federal right to control AI copies of one's voice and face and the now-enacted law against AI-faked intimate images."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Blumenthal opposes wiping out state AI laws. He called the White House's March 2026 framework, which seeks to preempt state AI laws, dead on arrival, and he attacked the House KIDS Act partly because it could preempt the state lawsuits holding Meta and YouTube liable.",
+"evidence": [
+{
+"type": "social_post",
+"title": "E&E News: Blumenthal rejects White House AI framework that would preempt state AI laws",
+"url": "https://www.eenews.net/articles/trump-ai-directive-could-spur-congressional-action-on-data-centers/",
+"date": "2026-03-20",
+"quote": "This weak proposal is dead-on-arrival in the Senate",
+"what_it_shows": "He called the framework, which calls for federal preemption of state AI laws, pathetic and a non-starter and said Democrats would block it."
+},
+{
+"type": "statement",
+"title": "Broadband Breakfast: Blumenthal and Cantwell press call against the House KIDS Act",
+"url": "https://broadbandbreakfast.com/democratic-senators-oppose-weak-house-kids-online-safety-act/",
+"date": "2026-06-26",
+"quote": "the elimination of that right of action or preemption of state law is one of their main goals",
+"what_it_shows": "He said Big Tech's aim in the House bill was preempting state law and state jury verdicts, which he opposes."
+},
+{
+"type": "statement",
+"title": "The New Republic: The bill that pits House against Senate against Big Tech",
+"url": "https://newrepublic.com/post/212522/kids-act-online-safety-house",
+"date": "2026-06-30",
+"quote": null,
+"what_it_shows": "He and Cantwell said the House package lacked KOSA's stipulation that it does not preempt states from passing stricter measures."
+},
+{
+"type": "vote",
+"title": "Voted Yea on Blackburn amendment striking the 10-year moratorium on state AI laws (roll call 363)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote to strip the moratorium; the vote alone is not decisive but matches his statements."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Blumenthal leans hawkish on chips and Chinese tech but it is not a main focus. He signed a June 2026 letter citing the transfer of 35,000 Nvidia Blackwell chips to the UAE's G42 despite warnings China could access them, and he has backed bills to keep Chinese drones and apps out of the US.",
+"evidence": [
+{
+"type": "letter",
+"title": "Unchained: Senate Democrats demand hearings on UAE's $500 million stake in Trump family crypto venture",
+"url": "https://unchainedcrypto.com/senate-democrats-demand-hearings-on-uaes-reported-500-million-stake-in-trump-family-crypto-venture/",
+"date": "2026-06-23",
+"quote": null,
+"what_it_shows": "Blumenthal, Warren and three colleagues cited Commerce's approval of 35,000 advanced Nvidia Blackwell chips for G42 despite intelligence warnings that China could access the technology, treating the chip transfer as a security failure."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): RESTRICT Act (S.686), letting the government block apps and tech from rival countries",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-15",
+"quote": null,
+"what_it_shows": "Shows general hawkishness on Chinese technology, though not about chip exports."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): American Security Drone Act (S.473)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/473",
+"date": "2023-02-16",
+"quote": null,
+"what_it_shows": "Supported banning federal purchases of Chinese-made drones; related to China tech security, not chip export controls."
+}
+]
+}
+},
+"search_notes": "Searches: 'Blumenthal artificial intelligence', 'Blumenthal data center', 'Blumenthal Nvidia/export controls/chips China', 'Blumenthal preemption/state AI laws/moratorium', 'Blumenthal chatbot/deepfake', 'Blumenthal Section 230/antitrust/Big Tech', 'Blumenthal Groq/acqui-hire', 'Blumenthal G42/UAE chips', 'Blumenthal AI Risk Evaluation Act', 'Blumenthal Delta AI pricing', 'Blumenthal 10-year moratorium', AI super PAC checks (none found); plus a site listing of blumenthal.senate.gov. Opened and read: his Altman letter (via Wayback), Hawley's AI Risk Evaluation Act release (Wayback), CT Mirror GRID Act article, Governing, News 12, Newsweek NDA piece, Broadband Breakfast (two), Roll Call (two), The Hill, NBC News, Crowell, New Republic, E&E News, TechCrunch, STAT, PYMNTS, Unchained, NENC. Blocked: blumenthal.senate.gov, hawley.senate.gov (GRID release), warren/markey/reed senate pages and congress.gov returned 403 to both fetchers and the Wayback fallback was intermittent, so the GRID Act release, NDA investigation release, Aug 2026 electricity release, 2023 Blumenthal-Hawley AI framework, Warren hyperscaler letters and FERC/NARUC/ISO-NE letters could not be opened; their content is reflected only through the news sources above. Bill sponsorships come from the verified record. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "M001169",
+"name": "Christopher Murphy",
+"signature": "Senate Democrat who frames AI as an existential threat to jobs, kids and culture; co-led the GUARDRAILS Act to block Trump's moratorium on state AI laws and cosponsors the GUARD Act to keep kids off AI companion chatbots.",
+"groups": [],
+"notable_quote": {
+"text": "Every single executive I met with admitted that they had built a machine that they could not understand or control.",
+"date": "2025-06-17",
+"url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-unregulated-ai-will-destroy-our-economy-and-culture"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Murphy has not sponsored a data center bill, but he lists higher utility bills among the AI harms states must be free to guard against, and he reports data centers now come up constantly with Connecticut voters, who he says would shout down a Beacon Falls proposal.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Murphy, Schatz introduce GUARDRAILS Act to reverse Trump's state AI law moratorium",
+"url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-schatz-introduce-legislation-to-reverse-trumps-state-ai-law-moratorium",
+"date": "2026-04-01",
+"quote": "States have to be able to protect American families from a technology that could destroy millions of jobs, addict kids to harmful chatbots, drive up utility bills, and deepen the crisis of loneliness and meaning our country faces.",
+"what_it_shows": "He names rising utility bills from AI as a harm that states should be able to regulate, a ratepayer-first frame."
+},
+{
+"type": "interview",
+"title": "CT Insider: Chris Murphy says one issue comes up almost everywhere he stops in CT (2026 walk)",
+"url": "https://www.ctinsider.com/politics/article/chris-murphy-connecticut-walk-housing-costs-22413132.php",
+"date": "2026-09-05",
+"quote": "I've heard more about the conversation about technology, whether it's the Flock cameras or AI or data centers that it's no longer underground. It is very much on the surface.",
+"what_it_shows": "He describes data centers as a live grassroots concern and said Beacon Falls leaders seem afraid to mention a proposed one because it would be shouted down; he did not endorse or oppose the project."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "high",
+"summary": "Murphy is one of the Senate's loudest voices that unregulated AI could be catastrophic. He wrote that AI executives admit they built machines they cannot control, warned of massive job losses, said AI companies are in a blind race to build a death machine, and rejects the argument that regulation cedes the race to China.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Press release on Murphy's Substack essay: Unregulated AI Will Destroy Our Economy and Culture",
+"url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-unregulated-ai-will-destroy-our-economy-and-culture",
+"date": "2025-06-17",
+"quote": "If America does not protect its economy and culture from the potential ravages of advanced AI, our nation will rot from the inside out, giving China a free lane to pass us politically and economically.",
+"what_it_shows": "He calls for strong government intervention, predicts massive and devastating job displacement, and says every AI executive he met admitted building a machine they could not understand or control."
+},
+{
+"type": "social_post",
+"title": "The Hill: Public anger over AI boom triggers GOP midterm worries (Murphy post after Anthropic researchers' warnings)",
+"url": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
+"date": "2026-09-10",
+"quote": "AI companies in a blind race to build a death machine first",
+"what_it_shows": "He said the problem could be solved through a regulatory system that lets research continue but in a way that does not destroy us, endorsing binding rules on frontier AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: GUARD Act (S.3062), banning AI companions for minors",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"date": "2025-10-28",
+"quote": null,
+"what_it_shows": "He backs a hard rule keeping kids away from AI companion chatbots and requiring age verification."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: GUARDRAILS Act (S.4216)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4216",
+"date": "2026-03-26",
+"quote": null,
+"what_it_shows": "He wants states to keep writing AI safety laws while Congress acts."
+},
+{
+"type": "interview",
+"title": "VTDigger/NOTUS: Lawmakers on Capitol Hill are learning to love AI",
+"url": "https://vtdigger.org/2026/04/27/lawmakers-on-capitol-hill-are-learning-to-love-ai/",
+"date": "2026-04-27",
+"quote": "I see the benefit as much as I'm definitely afraid.",
+"what_it_shows": "He uses Claude as a thesaurus and acknowledges benefits, but says he remains afraid of the technology."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "medium",
+"summary": "Murphy wants to rein in Big Tech. He cosponsors tougher merger law, a ban on secret algorithmic price-fixing, the Kids Online Safety Act and a bill keeping kids under 13 off social media, and he says the AI industry's only guiding value is profit.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Competition and Antitrust Law Enforcement Reform Act of 2025 (S.130)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/130",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "He supports making it harder for giant companies to merge and shifting the burden of proof onto the biggest deals."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Preventing Algorithmic Collusion Act of 2025 (S.232)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/232",
+"date": "2025-01-23",
+"quote": null,
+"what_it_shows": "He wants to ban companies from using shared pricing algorithms to fix prices."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Off Social Media Act (S.278)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/278",
+"date": "2025-01-28",
+"quote": null,
+"what_it_shows": "He backs banning under-13s from social media and stopping algorithmic feeds aimed at teens."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (S.1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-07-31",
+"quote": null,
+"what_it_shows": "He supports a duty of care on platforms to protect kids."
+},
+{
+"type": "op_ed",
+"title": "Press release on Murphy's Substack essay on unregulated AI",
+"url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-unregulated-ai-will-destroy-our-economy-and-culture",
+"date": "2025-06-17",
+"quote": "The only value that guides the AI industry right now is the pursuit of profit.",
+"what_it_shows": "He casts Google, Apple, OpenAI and Anthropic as racing for profit with ethics talk as whitewash, the rhetoric of a Big Tech critic."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Murphy co-introduced the GUARDRAILS Act with Schatz to repeal Trump's December 2025 executive order against state AI laws and says states must be able to protect families from AI while Congress acts.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: GUARDRAILS Act (S.4216), protecting states' right to make their own AI laws",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4216",
+"date": "2026-03-26",
+"quote": null,
+"what_it_shows": "The bill would block the executive order that threatens states' federal funds for enacting AI safeguards."
+},
+{
+"type": "statement",
+"title": "Press release: Murphy, Schatz introduce legislation to reverse Trump's state AI law moratorium",
+"url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-schatz-introduce-legislation-to-reverse-trumps-state-ai-law-moratorium",
+"date": "2026-04-01",
+"quote": "Donald Trump only cares about protecting the profits of his billionaire buddies in the AI industry",
+"what_it_shows": "He frames preemption as a favor to AI companies and insists states must be able to protect families from AI harms."
+},
+{
+"type": "vote",
+"title": "Voted Yea on Blackburn amendment striking the 10-year moratorium on state AI laws (roll call 363)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote to strip the moratorium; on its own not decisive, but consistent with his bill and statements."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Murphy leans toward tighter chip controls. As a Foreign Relations Committee Democrat he joined a May 2026 statement condemning the administration for greenlighting advanced AI chip sales to Alibaba and Tencent and calling for strict export control enforcement, while saying he wants to beat China in AI but not at any cost.",
+"evidence": [
+{
+"type": "statement",
+"title": "Senate Foreign Relations Democrats statement on the Trump-Xi summit (signed by Murphy)",
+"url": "https://www.foreign.senate.gov/press/dem/release/senate-foreign-relations-democrats-statement-on-trump-xi-summit",
+"date": "2026-05-15",
+"quote": "We reiterate bipartisan calls for strict enforcement of export controls and the closure of loopholes that allow AI chips and manufacturing equipment to reach Beijing.",
+"what_it_shows": "The statement says the administration dangerously greenlit sales of advanced AI chips to Chinese firms tied to the military and demands tighter controls."
+},
+{
+"type": "op_ed",
+"title": "Press release on Murphy's Substack essay on unregulated AI",
+"url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-unregulated-ai-will-destroy-our-economy-and-culture",
+"date": "2025-06-17",
+"quote": "I want to beat China in the race for advanced AI. I do. But not at any cost.",
+"what_it_shows": "He accepts the China race framing but rejects using it to block regulation."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): American Security Drone Act (S.473)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/473",
+"date": "2023-02-16",
+"quote": null,
+"what_it_shows": "Backed banning federal purchases of Chinese drones; general China tech hawkishness, not chip exports."
+}
+]
+}
+},
+"search_notes": "Searches: 'Chris Murphy artificial intelligence', 'Chris Murphy data center', 'Murphy GUARDRAILS/preemption state AI laws', 'Chris Murphy Nvidia/export controls/chips China', 'Chris Murphy death machine/Anthropic/kill switch', 'Chris Murphy Big Tech/Section 230/antitrust/KOSA', 'Chris Murphy rare books/information conglomerates/imminent threat', 'Murphy Brookings AI speech', 'Murphy AI Caucus', ISO-New England letter coverage, AI super PAC checks (none found); plus a site listing of murphy.senate.gov. Opened: GUARDRAILS release and the June 2025 Substack release (both via Wayback), Senate Foreign Relations Democrats' Trump-Xi statement (Wayback), CT Insider walk article, The Hill midterms article, VTDigger, Transformer. Blocked or unreachable: murphy.senate.gov direct (403), and the Wayback fallback failed for his Brookings speech, TIME100 AI piece, Europe codel speech, GUARD Act release and algorithmic price-fixing release; Deadline, Hartford Courant and Benzinga items on 'information conglomerates', 'imminent threat' and rare books could not be opened, so those leads are not used. Bill sponsorships come from the verified record. Note: the state context file dated the GUARDRAILS release to May 2026; the release itself is dated April 1, 2026."
+},
+{
+"bioguide": "L000557",
+"name": "John B. Larson",
+"signature": "Long-serving Hartford Democrat who lost his August 2026 primary; cosponsored data center ratepayer bills and the GUARDRAILS Act, introduced the Workforce of the Future Act on AI and jobs, and voted against the House KIDS Act as too weak.",
+"groups": [],
+"notable_quote": {
+"text": "The Congress urgently needs to act to pass nationwide AI regulations and standards that preserve jobs, protect children, and advance global technological competitiveness.",
+"date": "2025-12-15",
+"url": "https://larson.house.gov/media-center/press-releases/larson-announces-comprehensive-bill-prepare-americas-workforce-ai"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Larson has cosponsored three House bills to keep data center costs off family electric bills and force data centers to disclose their power and water use. No speeches or statements of his own on data centers were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Families from AI Data Center Energy Costs Act (H.R.6529)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2026-01-06",
+"quote": null,
+"what_it_shows": "He backs keeping families' bills from rising to pay for the grid upgrades data centers need."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Data Center Transparency Act (H.R.6984)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6984",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He wants data centers to publicly report electricity and water use."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: No Harm Data Centers Act (H.R.8033)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8033",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He signed on to rules meant to shield nearby communities' bills, water and environment from data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Larson wants targeted rules: national AI standards that protect jobs and children, plus federal money to retrain workers displaced by AI. He does not describe AI as an existential danger.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Larson announces Workforce of the Future Act to prepare America's workforce for AI",
+"url": "https://larson.house.gov/media-center/press-releases/larson-announces-comprehensive-bill-prepare-americas-workforce-ai",
+"date": "2025-12-15",
+"quote": "The Congress urgently needs to act to pass nationwide AI regulations and standards that preserve jobs, protect children, and advance global technological competitiveness.",
+"what_it_shows": "He calls for AI regulation focused on jobs and kids and introduced a bill funding a federal study of AI's job impacts and $250 million in education and retraining grants."
+},
+{
+"type": "statement",
+"title": "Press release: Workforce of the Future Act (Big Tech line)",
+"url": "https://larson.house.gov/media-center/press-releases/larson-announces-comprehensive-bill-prepare-americas-workforce-ai",
+"date": "2025-12-15",
+"quote": "We can't let big tech moguls make billions on this disruptive technology without investing our workforce.",
+"what_it_shows": "He frames AI as disruptive and wants companies to bear responsibility for displaced workers; the bill was endorsed by Anthropic, OpenAI and Microsoft as well as unions."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Larson wants targeted rules on Big Tech but is not a hardliner. He voted against the House KIDS Act because it shielded tech companies from accountability, yet in 2024 he criticized the TikTok bill as rushed and weak on free speech.",
+"evidence": [
+{
+"type": "vote",
+"title": "Voted Nay on H.R. 7757, the KIDS Act (House roll call 228)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He opposed the House kids' online safety package that passed 267-117 under suspension."
+},
+{
+"type": "statement",
+"title": "Press release: Larson statement on the KIDS Act",
+"url": "https://larson.house.gov/media-center/press-releases/larson-statement-kids-act",
+"date": "2026-06-29",
+"quote": "Congress needs to pass sensible legislation that makes it possible for young adults to use social media without the risk of exploitation, not a bill that shields tech billionaires from accountability.",
+"what_it_shows": "He voted no because the bill was too weak, aligning himself with Blumenthal's stronger Senate KOSA."
+},
+{
+"type": "statement",
+"title": "Press release: Larson statement on the TikTok vote",
+"url": "https://larson.house.gov/media-center/press-releases/larson-statement-tiktok-vote",
+"date": "2024-03-13",
+"quote": "the legislation before the House today was the result of a rushed process and did not answer valid concerns relating to freedom of speech",
+"what_it_shows": "He shared concerns about Chinese ownership of TikTok but objected to the forced-sale bill on speech and process grounds, a more cautious note."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (H.R.8730)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "He backs banning connected cars and software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): Preventing the Algorithmic Facilitation of Rental Housing Cartels Act (H.R.8622)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8622",
+"date": "2024-08-23",
+"quote": null,
+"what_it_shows": "He supported treating shared rent-setting algorithms as illegal price-fixing."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Larson cosponsored the GUARDRAILS Act to stop the federal government from wiping out state AI laws. He also calls for nationwide AI standards, but nothing he has said supports blocking states from acting.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: GUARDRAILS Act (H.R.8031)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-24",
+"quote": null,
+"what_it_shows": "He backs the House bill protecting states' right to pass their own AI laws against the December 2025 executive order."
+},
+{
+"type": "statement",
+"title": "Press release: Workforce of the Future Act (call for national AI standards)",
+"url": "https://larson.house.gov/media-center/press-releases/larson-announces-comprehensive-bill-prepare-americas-workforce-ai",
+"date": "2025-12-15",
+"quote": "The Congress urgently needs to act to pass nationwide AI regulations and standards that preserve jobs, protect children, and advance global technological competitiveness.",
+"what_it_shows": "He wants federal AI rules, but paired with his GUARDRAILS cosponsorship this reads as a federal floor rather than preemption of states."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searches for Larson with Nvidia, export controls and chips turned up nothing; his China-related record is about TikTok ownership and Chinese-made connected cars, not chips.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (H.R.8730)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "Context only: he supports keeping Chinese-linked car technology out of the US, which is not a position on chip exports."
+}
+]
+}
+},
+"search_notes": "Searches: 'John Larson artificial intelligence', 'Larson data center Connecticut', 'Congressman Larson AI', 'John Larson electricity/ratepayers/Eversource', 'Larson Bronin AI/data center/tech', 'John Larson TikTok/Big Tech/Section 230/chatbot/deepfake', 'Larson Eversource profit increase FERC', 'Bronin Leading the Future super PAC', 'Larson KIDS Act vote'; plus a site listing of larson.house.gov and reads of his technology issue page and press release index (three pages). Opened: Workforce of the Future Act release, KIDS Act statement, TikTok statement, govtrack roll calls h228 (KIDS Act, Nay) and h356 (SPEED Act, Nay), govtrack H.R.7977 cosponsor list (Larson not a cosponsor). Not found: the June 3, 2026 release on his letter urging FERC to reject Eversource's profit increase (URL guesses failed and it was not on the first three index pages); no Matsui or Clarke letter signer lists were opened. He lost the Aug 11, 2026 Democratic primary to Luke Bronin per news headlines (AP, NBC, CT Mirror); outside spending coverage was not openable, and no AI super PAC involvement was found. Bill sponsorships come from the verified record."
+},
+{
+"bioguide": "C001069",
+"name": "Joe Courtney",
+"signature": "No notable public AI activity found; his record is limited to cosponsoring a bill against AI-faked intimate images, a House Democratic energy bills package with a data center cost-shift provision, and a Nay vote on the House KIDS Act.",
+"groups": [],
+"notable_quote": null,
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Courtney has said nothing public on data centers that could be found, even though the Millstone data center fight was in his district. His only related action is cosponsoring the Democratic Energy Bills Relief Act, which includes a section making large-load facilities like data centers pay the full cost of grid upgrades they cause.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Energy Bills Relief Act (H.R.7977), House Democratic energy affordability package",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-04-27",
+"quote": null,
+"what_it_shows": "Section 603 of the bill, 'Avoiding cost shifts onto families,' would classify large load facilities as their own customer class that must fully pay for generation and transmission upgrades they require; data center cost-shifting is one piece of a broad bill."
+},
+{
+"type": "other",
+"title": "GovTrack cosponsor list and bill text for H.R. 7977 (Courtney joined April 27, 2026)",
+"url": "https://www.govtrack.us/congress/bills/119/hr7977/cosponsors",
+"date": "2026-04-27",
+"quote": null,
+"what_it_shows": "Confirms his cosponsorship date; the bill text on GovTrack contains the large-load cost recovery section."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI safety or regulation as of Sept 2026. Searches of news, his press releases, letters, in-the-news page and interviews for Courtney with AI, artificial intelligence, chatbots and NDAA AI provisions found nothing beyond his deepfake bill cosponsorship, which is counted under tech regulation.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Courtney supports specific fixes such as a federal ban on sharing AI-faked sexual images, and he voted against the House KIDS Act, but he has issued no statements explaining his views on Big Tech.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Preventing Deepfakes of Intimate Images Act (H.R.1941)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1941",
+"date": "2026-01-13",
+"quote": null,
+"what_it_shows": "He backs making it a federal crime to share or threaten to share AI-made sexual images of real people; he cosponsored the 118th Congress version (H.R.3106) in 2024 as well."
+},
+{
+"type": "vote",
+"title": "Voted Nay on H.R. 7757, the KIDS Act (House roll call 228)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He joined 85 House Democrats voting against the Republican-led kids' online safety package that Senate Democrats called too weak; he issued no statement, so the reason is inferred from the Democratic opposition, not his own words."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting state AI laws as of Sept 2026. He is not a cosponsor of the GUARDRAILS Act in the verified record, and no statement on the July 2025 moratorium, the December 2025 executive order or the March 2026 White House framework was found.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. His only export-control item on record is an older release on defense export control reform for a Chester manufacturer, unrelated to AI chips.",
+"evidence": []
+}
+},
+"search_notes": "Searches: 'Joe Courtney artificial intelligence', 'Courtney data center Millstone/Waterford', 'Joe Courtney deepfake/chatbot/Big Tech/TikTok', 'Courtney NE Edge data center', 'Courtney AI Electric Boat/NDAA/workforce', 'Joe Courtney Kids Online Safety/KOSA', 'Courtney Face the Facts AI', 'Courtney Southeastern Connecticut op-ed', 'Courtney TikTok vote Patch', 'Courtney data center The Day', 'Courtney NDAA artificial intelligence/autonomous', 'Joe Courtney cosponsor AI bill'; plus a site listing of courtney.house.gov and reads of his press release index, in-the-news page, letters page and issues page (no AI or data center items). Opened: govtrack H.R.7977 cosponsor list and bill text, govtrack roll calls h228 (KIDS Act, Nay) and h356 (SPEED Act). Correction to the state context file: on the Dec 18, 2025 SPEED Act vote (roll call 356) Courtney is recorded as 'No Vote,' not Nay. Not openable: his Aug 20, 2026 CT Insider op-ed on Southeastern Connecticut's future, the 2024 Patch TikTok vote roundup and the June 2024 CT Examiner piece on Connecticut reps and tech regulation (paywalled). Bill sponsorships come from the verified record; no AI super PAC activity found."
+}
+]

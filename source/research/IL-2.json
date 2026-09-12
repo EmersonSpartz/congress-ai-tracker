@@ -1,0 +1,635 @@
+[
+{
+"bioguide": "R000617",
+"name": "Delia C. Ramirez",
+"signature": "Top Democrat on the House Homeland Security cyber subcommittee; co-led the August 2026 demand that AI CEOs testify under oath and says she has never used AI herself.",
+"notable_quote": {
+"text": "This whole move fast and break things is not acceptable innovation strategy when we know that the things that end up being broken are not just a computer, a laptop, a cell phone.",
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"date": "2026-07-06"
+},
+"groups": [
+"Ranking Member, House Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Ramirez signed the October 2025 House Democratic letters asking regulators and the data center industry how they will keep grid costs off household bills, and she cosponsored a bill to ban AI data centers on federal land. No direct quote from her on Illinois data centers was found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letters from 20 House Democrats led by Rep. Kevin Mullin to FERC, Edison Electric Institute and the Data Center Coalition on data center energy costs (Ramirez listed as signer)",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"date": "2025-10-28",
+"quote": "The expansion of data centers risks creating persistent affordability challenges for households and small businesses.",
+"what_it_shows": "She joined colleagues in pressing for household electric bills to be protected from data center grid costs."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 9939, No AI Data Centers on Federal Lands Act (Tlaib), cosponsored July 23, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "She backs blocking AI data centers on federal land, a partial limit on where new projects can be built."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "medium",
+"summary": "Ramirez treats advanced AI as a clear danger. She co-led a 2026 letter calling AI models a clear risk to public safety and demanding AI CEOs testify under oath, pressed a hearing witness on who is legally liable when autonomous AI fails, and backs bias-testing and AI civil rights bills. She says she has never used AI.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter co-led by Reps. Casar and Ramirez with 19 House Democrats asking Speaker Johnson to schedule hearings with AI company CEOs",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"date": "2026-08-10",
+"quote": "Advanced AI models pose a clear risk to the safety and security of the American people.",
+"what_it_shows": "As co-lead she framed frontier AI as a safety threat and wants CEOs questioned under oath about model failures and needed regulation."
+},
+{
+"type": "interview",
+"title": "Chicago Sun-Times: Illinois Democrats weigh pros and cons of using AI",
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"date": "2026-07-06",
+"quote": "This whole move fast and break things is not acceptable innovation strategy when we know that the things that end up being broken are not just a computer, a laptop, a cell phone.",
+"what_it_shows": "She rejects the industry's speed-first approach and says the stakes are people's lives, rights and privacy."
+},
+{
+"type": "hearing",
+"title": "Legis1: Frontier AI Poses Urgent Cybersecurity Threat, Congress Warned (House Homeland Security cyber subcommittee hearing)",
+"url": "https://legis1.com/news/frontier-ai-cybersecurity-threat-poses-urgent",
+"date": "2026-06",
+"quote": null,
+"what_it_shows": "As ranking member she pressed a witness on who would be legally responsible if an autonomous AI running a city water system caused a catastrophe; the witness said no one under current law."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 5511, Algorithmic Accountability Act of 2025, cosponsored Sept. 19, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-19",
+"quote": null,
+"what_it_shows": "Supports mandatory testing of automated decision systems for bias and harm with reports to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6356, Artificial Intelligence Civil Rights Act of 2025, cosponsored Dec. 2, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "Supports a ban on discriminatory AI and required pre- and post-deployment checks."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 4894, Deceptive Practices and Voter Intimidation Prevention Act of 2025, cosponsored Aug. 5, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "Supports outlawing AI-made election lies in the weeks before a federal election."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Ramirez backs targeted rules: limits on collecting kids' data, a pause on federal facial recognition, a ban on face scanning in subsidized housing, and a ban on AI-driven personalized pricing and wage setting. No statements on Section 230 or breaking up Big Tech were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 2801 (118th), Kids PRIVACY Act, cosponsored May 23, 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2801",
+"date": "2023-05-23",
+"quote": null,
+"what_it_shows": "Supports limits on how apps collect and use children's and teens' data."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 1404 (118th), Facial Recognition and Biometric Technology Moratorium Act of 2023, cosponsored March 27, 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/1404",
+"date": "2023-03-27",
+"quote": null,
+"what_it_shows": "Supports halting federal use of face recognition until Congress sets rules."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 3060, No Biometric Barriers to Housing Act of 2025, cosponsored Oct. 6, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3060",
+"date": "2025-10-06",
+"quote": null,
+"what_it_shows": "Supports banning face-scanning cameras in government-supported housing."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025, cosponsored Aug. 8, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-08-08",
+"quote": null,
+"what_it_shows": "Supports banning companies from using AI and personal data to charge different prices or pay different wages."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Ramirez signed the November 2025 letter from 81 House Democrats opposing any federal moratorium on state AI laws, whether in the defense bill, by executive order, or by tying broadband money to it.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led House Democratic letter to Johnson, Thune, Jeffries and Schumer opposing an AI moratorium in the NDAA and the planned executive order (Ramirez listed as signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We are equally concerned by any effort to condition critical federal programs on a state AI law moratorium.",
+"what_it_shows": "She is on record against Washington overriding or pausing state AI laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements, letters or bills found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searched her press releases, news coverage and the congressional record for Nvidia, export controls and chips.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 10 news queries (AI, data center, chatbot/deepfake, Big Tech, electricity bills, Nvidia/export controls, preemption, surveillance/Palantir, OpenAI briefing) plus a site listing of ramirez.house.gov (archive shows almost no AI content). Opened and confirmed: Casar/Ramirez CEO letter release, Sun-Times July 2026 article, Legis1 hearing writeup, Beyer/Mullin letter page, Matsui letter PDF (downloaded and parsed; her name appears in signer list), her committee page (ranking member confirmed). Not reachable: Tech Policy Press hearing summary (redirect error), VitalLaw articles (paywall), CyberScoop April 2026 profile (no decodable URL). A CyberScoop May 2026 piece confirmed she is the top Democrat on the cyber subcommittee but she missed that Anthropic briefing. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "G000586",
+"name": "Jesús G. \"Chuy\" García",
+"signature": "Judiciary antitrust Democrat who called AI a loaded gun in the wrong hands; cosponsor of the AI Data Center Moratorium Act and a longtime Big Tech critic (retiring after 2026).",
+"notable_quote": {
+"text": "In the hands of billionaires and authoritarians like Musk and Trump, AI is a loaded gun waiting to be used on immigrants, workers, and consumers. This is exactly why it's absurd to oppose common-sense regulation of the AI industry.",
+"url": "https://chuygarcia.house.gov/media/press-releases/icymi-congressman-garcia-criticizes-republicans-at-subcommittee-hearing-on-artificial-intelligence-ai-innovation-and-competition-for-their-complicity-in-trump-and-musk-s-dangerous-weaponization-of-ai",
+"date": "2025-04-02"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "medium",
+"summary": "García cosponsored the House AI Data Center Moratorium Act, which would pause new AI data centers until their effects on power bills and the environment are addressed. No statement in his own words on data centers was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 9442, Artificial Intelligence Data Center Moratorium Act (Ocasio-Cortez), cosponsored June 24, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "He supports a temporary halt on new AI data centers, the strongest position in this lane."
+},
+{
+"type": "statement",
+"title": "Broadband Breakfast: Ocasio-Cortez Introduces AI Data Center Moratorium Act",
+"url": "https://broadbandbreakfast.com/ocasio-cortez-introduces-ai-data-center-moratorium-act/",
+"date": "2026-06-26",
+"quote": null,
+"what_it_shows": "Describes the House bill he joined as an effort to halt new development pending federal safeguards, with worker protections and community approval requirements."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "García wants firm rules on how AI is used, especially by government and big companies. He has demanded transparency from DHS on AI in immigration decisions, backs bias testing and an AI civil rights law, cosponsored a pause on DHS AI surveillance, and signed the 2026 letter calling AI models a clear risk and asking for CEOs to testify under oath.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Press release: García remarks at Judiciary antitrust subcommittee hearing on AI innovation and competition",
+"url": "https://chuygarcia.house.gov/media/press-releases/icymi-congressman-garcia-criticizes-republicans-at-subcommittee-hearing-on-artificial-intelligence-ai-innovation-and-competition-for-their-complicity-in-trump-and-musk-s-dangerous-weaponization-of-ai",
+"date": "2025-04-02",
+"quote": "In the hands of billionaires and authoritarians like Musk and Trump, AI is a loaded gun waiting to be used on immigrants, workers, and consumers. This is exactly why it's absurd to oppose common-sense regulation of the AI industry.",
+"what_it_shows": "He argued for regulating the AI industry and against Republican resistance to AI rules."
+},
+{
+"type": "letter",
+"title": "Press release: Reps. García and Grijalva demand answers from DHS on use of AI in immigration decision-making",
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-garcia-and-grijalva-demand-answers-from-dhs-on-use-of-ai-in-immigration-decision-making",
+"date": "2024-12-19",
+"quote": "We must ensure that no algorithm undermines their rights or introduces bias into life-altering decisions. The use of artificial intelligence by DHS must be transparent and accountable",
+"what_it_shows": "He wants government AI use to be transparent, accountable and checked for bias."
+},
+{
+"type": "letter",
+"title": "Casar-led letter of 20 House Democrats to Speaker Johnson demanding hearings with AI CEOs (García listed as signer)",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"date": "2026-08-10",
+"quote": "The CEOs of the largest AI companies should answer questions under oath",
+"what_it_shows": "He joined a call that frames advanced AI as a clear safety risk and demands congressional oversight of the companies."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 9314, DHS Surveillance Technology Moratorium Act of 2026, cosponsored June 15, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9314",
+"date": "2026-06-15",
+"quote": null,
+"what_it_shows": "Supports pausing DHS use of face recognition and other AI surveillance tools."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 5511, Algorithmic Accountability Act of 2025, cosponsored Sept. 19, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-19",
+"quote": null,
+"what_it_shows": "Supports mandatory bias and harm testing of automated decision systems."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6356, Artificial Intelligence Civil Rights Act of 2025, cosponsored Dec. 2, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "Supports banning discriminatory AI with required audits."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "García is a consistent Big Tech critic. He said regulators should consider breaking up Facebook, wrote a bill to keep Big Tech out of banking, co-wrote a bill to ban algorithmic rent-fixing, and led a 2025 letter with the Judiciary antitrust ranking member demanding answers from Delta on AI-driven personalized pricing.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: García introduces Keep Big Tech Out of Finance Act after questioning Mark Zuckerberg",
+"url": "https://chuygarcia.house.gov/media/press-releases/congressman-jesus-chuy-garcia-introduces-bill-keep-big-tech-companies-out",
+"date": "2019-10-23",
+"quote": "regulators should be considering how to break up Facebook, not greenlighting a new, dangerous project like Libra.",
+"what_it_shows": "He has openly supported breaking up a Big Tech company and blocking tech giants from finance."
+},
+{
+"type": "letter",
+"title": "Press release: Reps. García, Nadler lead 22 colleagues demanding answers from Delta CEO about AI use in ticket pricing",
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-garcia-nadler-lead-house-colleagues-in-demanding-answers-from-delta-ceo-about-ai-use-in-ticket-pricing",
+"date": "2025-11-05",
+"quote": "it has not explained what those safeguards are, provided any meaningful transparency into its agreement with Fetcherr or the data that is being used to train the generative AI-powered algorithms",
+"what_it_shows": "He is pushing companies to disclose and justify AI pricing systems and treats surveillance pricing as an antitrust and consumer problem."
+},
+{
+"type": "statement",
+"title": "Press release: García and Balint introduce Preventing Algorithmic Facilitation of Rental Housing Cartels Act",
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-jesus-chuy-garcia-and-becca-balint-introduce-legislation-to-crack-down-on-companies-exacerbating-rental-housing-crisis-through-price-fixing-algorithms",
+"date": "2024-06-06",
+"quote": "I'm proud to join my colleague Rep. Balint in introducing this bill to ban algorithmic price-fixing and protect renters from this new frontier of anticompetitive, anti-consumer behavior",
+"what_it_shows": "He wants a legal ban on landlords using shared pricing software to push up rents."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025, cosponsored Aug. 15, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "Supports banning AI-driven personalized prices and wages."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 2801 (118th), Kids PRIVACY Act, cosponsored June 5, 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2801",
+"date": "2023-06-05",
+"quote": null,
+"what_it_shows": "Supports limits on collecting kids' and teens' data."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "García signed the November 2025 letter from 81 House Democrats urging leaders not to revive a moratorium on state AI laws in the defense bill or impose one by executive order or broadband funding conditions.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led House Democratic letter opposing an AI moratorium in the NDAA and the planned executive order (García listed as signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We are equally concerned by any effort to condition critical federal programs on a state AI law moratorium.",
+"what_it_shows": "He opposes federal preemption or pausing of state AI laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, letters or bills found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searched news and his press releases for Nvidia, chips and export controls.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 9 news queries (AI, data centers, Big Tech/antitrust, moratorium act, preemption/chips, chatbot/deepfake/230/privacy, utility bills) plus a site listing of chuygarcia.house.gov that surfaced five relevant releases, all opened. Confirmed his signature on the Casar CEO letter and the Matsui letter (parsed PDF). Most 2025-2026 coverage concerns his retirement and the succession controversy, not tech. His committee page lists the Judiciary antitrust subcommittee but no AI caucus. No AI super PAC activity found."
+},
+{
+"bioguide": "Q000023",
+"name": "Mike Quigley",
+"signature": "Quiet cosponsor of a stack of data center ratepayer bills and the GUARDRAILS Act; no public statements on AI found (now running for Chicago mayor).",
+"notable_quote": null,
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Quigley has cosponsored six data center bills since late 2025, all aimed at keeping grid costs off family electric bills, requiring siting transparency, or limiting pollution, and he signed the October 2025 letters to FERC and the industry on data center energy costs. No quote from him on data centers was found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letters from 20 House Democrats led by Rep. Kevin Mullin to FERC, Edison Electric Institute and the Data Center Coalition (Quigley listed as signer)",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"date": "2025-10-28",
+"quote": "The expansion of data centers risks creating persistent affordability challenges for households and small businesses.",
+"what_it_shows": "He joined colleagues asking regulators and industry how household bills will be shielded from data center grid costs."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6529, Protecting Families from AI Data Center Energy Costs Act, cosponsored Dec. 10, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2025-12-10",
+"quote": null,
+"what_it_shows": "Supports keeping families' bills from paying for data center power lines and plants."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 7066, SHIELD Act, cosponsored Jan. 14, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7066",
+"date": "2026-01-14",
+"quote": null,
+"what_it_shows": "Supports protecting ratepayers from data center driven bill increases."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8488, AI Data Center Site Selection Transparency Act of 2026, cosponsored May 21, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8488",
+"date": "2026-05-21",
+"quote": null,
+"what_it_shows": "Supports public disclosure of planned data center sites and community impacts."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 10321, Responsible Data Center Siting Act of 2026, original cosponsor Sept. 8, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10321",
+"date": "2026-09-08",
+"quote": null,
+"what_it_shows": "Supports siting rules so data centers do not overload local power and water."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6179, Clean Cloud Act of 2025, cosponsored Nov. 20, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6179",
+"date": "2025-11-20",
+"quote": null,
+"what_it_shows": "Supports pollution limits and fees on electricity used by big data centers."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 9183, Artificial Intelligence Environmental Impacts Act of 2026, cosponsored June 15, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-06-15",
+"quote": null,
+"what_it_shows": "Supports a federal study of AI's electricity, water and pollution footprint."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements or bills found on AI safety rules, chatbots, deepfakes or AI liability as of Sept 2026. His closest action is cosponsoring the GUARDRAILS Act so states can keep their own AI safety laws, which is counted under preemption.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Quigley cosponsored the STOP CSAM Act to make platforms remove child abuse material and face lawsuits, plus bills protecting reproductive health data. No statements on Section 230, antitrust or Big Tech breakups were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 3921, STOP CSAM Act of 2025, cosponsored Sept. 15, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2025-09-15",
+"quote": null,
+"what_it_shows": "Supports stronger platform duties on child sexual abuse material and a right to sue."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 3218, Reproductive Data Privacy and Protection Act, cosponsored July 13, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2026-07-13",
+"quote": null,
+"what_it_shows": "Supports limits on collecting and selling reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 3420 (118th), My Body, My Data Act of 2023, cosponsored May 17, 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Supports privacy limits on apps handling reproductive health data."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Quigley is an original cosponsor of the GUARDRAILS Act, which would repeal the December 2025 executive order and protect states' right to pass their own AI laws. He did not sign the November 2025 Matsui letter.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 8031, GUARDRAILS Act, cosponsored March 20, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "He backs blocking federal efforts to wipe out state AI laws."
+},
+{
+"type": "statement",
+"title": "Press release: Jacobs, Beyer, Matsui, Lieu, McClain Delaney introduce legislation to repeal White House AI moratorium (Quigley listed among House cosponsors)",
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"date": "2026-03-20",
+"quote": "This legislation would prohibit the executive order from taking effect to ensure states can enact commonsense safeguards to protect the American public in the face of rapidly evolving AI technologies.",
+"what_it_shows": "Confirms he joined the bill at introduction, siding with states over a federal moratorium."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, letters or bills found on AI chip export controls or Nvidia sales to China as of Sept 2026, despite his seat on the Intelligence Committee. Searched news and his site for Nvidia, chips, DeepSeek and export controls.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 10 news queries (AI, data centers, specific bill names, Big Tech/230/TikTok, chips/China, Intelligence Committee AI, utility bills, mayoral campaign AI/data centers) plus two site listings of quigley.house.gov (archive is mostly pre-2020 content) and his live press release and newsletter indexes (nothing on AI or data centers). Opened the Beyer/Mullin letter (signer confirmed), Jacobs GUARDRAILS release (cosponsor confirmed), Matsui PDF (he is not a signer), his committee page (no AI caucus listed). Daily Herald candidate questionnaire pages returned empty text. The American Prospect noted he voted for the FISA 702 extension in April 2026, not scored here. No AI super PAC activity found; 2026 coverage centers on his Chicago mayoral run."
+},
+{
+"bioguide": "C001117",
+"name": "Sean Casten",
+"signature": "Lead sponsor of the Energy Bills Relief Act, which makes data centers pay their own costs; a clean energy engineer who uses AI but worries about job losses and missing liability.",
+"notable_quote": {
+"text": "Every time they come and present to us in Congress, they say, 'We have to move really fast, because otherwise the Chinese will, and I can't be held accountable for whatever this does",
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"date": "2026-07-06"
+},
+"groups": [
+"Co-Chair, SEEC Clean Energy Deployment Task Force (House Sustainable Energy and Environment Coalition)",
+"Congressional Artificial Intelligence Caucus, 119th Congress (per landscape study; membership page could not be opened to verify)",
+"House Financial Services Committee Bipartisan Working Group on Artificial Intelligence, 118th Congress (per landscape study; not independently verified)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Casten wants data centers to pay their own way. He is lead sponsor of the Energy Bills Relief Act, which includes provisions making data centers cover their own energy costs, cosponsors the SHIELD Act on ratepayer protection, and has said surging data center demand puts upward pressure on electric prices. He is not against building; his focus is bills and competitive markets.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 7977, Energy Bills Relief Act (Casten and Levin lead sponsors), introduced March 18, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "His flagship energy bill, with over 120 Democratic cosponsors, includes provisions to make data centers pay for their own energy."
+},
+{
+"type": "statement",
+"title": "Press release (Rep. Castor): Castor praises introduction of the Energy Bills Relief Act by SEEC leaders Casten and Levin, with bill summary",
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405148",
+"date": "2026-03-18",
+"quote": "Ensuring that facilities like data centers are paying for their own costs because it's not fair for their expenses to be pushed onto your household if one opens in your area",
+"what_it_shows": "The bill summary spells out the ratepayer-first principle behind Casten's bill."
+},
+{
+"type": "interview",
+"title": "Utility Dive: Democratic House bill would reverse Trump energy policies, bolster RTO oversight (Casten interview on Cheap Energy Act draft)",
+"url": "https://www.utilitydive.com/news/casten-house-energy-bill-trump-electricity/761447/",
+"date": "2025-09-30",
+"quote": "it's very hard to see anything but upward pressure on electric prices",
+"what_it_shows": "He ties surging demand from data centers and other loads, plus weak competitive markets, to rising electric bills."
+},
+{
+"type": "statement",
+"title": "E&E News: Trump AI directive could spur congressional action on data centers",
+"url": "https://www.eenews.net/articles/trump-ai-directive-could-spur-congressional-action-on-data-centers/",
+"date": "2026-03-23",
+"quote": null,
+"what_it_shows": "Reports that Casten and Levin's Energy Bills Relief Act includes provisions to make sure data centers pay for their energy."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 7066, SHIELD Act, cosponsored Jan. 14, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7066",
+"date": "2026-01-14",
+"quote": null,
+"what_it_shows": "Supports keeping families from paying higher bills caused by data centers."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 9183, Artificial Intelligence Environmental Impacts Act of 2026, cosponsored June 25, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-06-25",
+"quote": null,
+"what_it_shows": "Supports a federal study and voluntary reporting of AI's energy, water and pollution use."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Casten uses AI in his office and sees big value for science and business, but he says he has real concerns about mass unemployment among young workers and about AI companies escaping liability. He rejects the industry's argument that it must move fast to beat China. No specific AI safety bill from him was found.",
+"evidence": [
+{
+"type": "interview",
+"title": "Chicago Sun-Times: Illinois Democrats weigh pros and cons of using AI",
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"date": "2026-07-06",
+"quote": "Every time they come and present to us in Congress, they say, 'We have to move really fast, because otherwise the Chinese will, and I can't be held accountable for whatever this does",
+"what_it_shows": "He criticizes AI companies for demanding speed while avoiding accountability, and compared the argument to Cold War logic."
+},
+{
+"type": "interview",
+"title": "Chicago Sun-Times: Illinois Democrats weigh pros and cons of using AI (jobs remarks)",
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"date": "2026-07-06",
+"quote": "What happens to a society with large numbers of unemployed young people, and particularly young people in professions that have historically skewed male?",
+"what_it_shows": "He worries AI-driven job losses could cause a political crisis, while also saying he uses AI and values it for research."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 3106 (118th), Preventing Deepfakes of Intimate Images Act, cosponsored March 5, 2024",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2024-03-05",
+"quote": null,
+"what_it_shows": "Supports making AI-generated sexual deepfakes illegal with a right to sue."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Casten backs targeted rules for online platforms: he cosponsored the House Kids Online Safety Act and the Kids PRIVACY Act, led a 2020 letter pressing social media companies on COVID misinformation, and in 2023 demanded answers from X about intimidating a research watchdog.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 7891 (118th), Kids Online Safety Act, cosponsored May 22, 2024",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-05-22",
+"quote": null,
+"what_it_shows": "Supports requiring apps to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 2801 (118th), Kids PRIVACY Act, cosponsored May 24, 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2801",
+"date": "2023-05-24",
+"quote": null,
+"what_it_shows": "Supports limits on collecting kids' and teens' data."
+},
+{
+"type": "letter",
+"title": "Press release: Casten, Trahan, Schiff demand answers from X on social media watchdog intimidation",
+"url": "https://casten.house.gov/media/press-releases/casten-trahan-schiff-demand-answers-from-x-on-social-media-watchdog-intimidation",
+"date": "2023-08-02",
+"quote": null,
+"what_it_shows": "He pressed Elon Musk's X over efforts to silence researchers tracking hate speech on the platform."
+},
+{
+"type": "letter",
+"title": "Press release: Casten leads letter demanding social media platforms do more to stop the spread of COVID-19 misinformation",
+"url": "https://casten.house.gov/media/press-releases/casten-leads-letter-demanding-social-media-platforms-do-more-stop-spread",
+"date": "2020-04-08",
+"quote": null,
+"what_it_shows": "He has pushed Facebook, Google, Reddit and Twitter to police harmful misinformation."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Casten opposes federal preemption of state AI laws. He signed the November 2025 letter from 81 House Democrats against a state AI law moratorium and is an original cosponsor of the GUARDRAILS Act to repeal the December 2025 executive order.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 8031, GUARDRAILS Act, cosponsored March 20, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "He backs a law protecting states' right to pass their own AI rules."
+},
+{
+"type": "letter",
+"title": "Matsui-led House Democratic letter opposing an AI moratorium in the NDAA and the planned executive order (Casten listed as signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We are equally concerned by any effort to condition critical federal programs on a state AI law moratorium.",
+"what_it_shows": "He signed on against any federal moratorium on state AI laws."
+},
+{
+"type": "statement",
+"title": "Press release: Jacobs, Beyer, Matsui, Lieu, McClain Delaney introduce legislation to repeal White House AI moratorium (Casten listed among House cosponsors)",
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"date": "2026-03-20",
+"quote": "This legislation would prohibit the executive order from taking effect to ensure states can enact commonsense safeguards to protect the American public in the face of rapidly evolving AI technologies.",
+"what_it_shows": "Confirms he joined the GUARDRAILS Act at introduction."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, letters or bills found on AI chip export controls or Nvidia sales to China as of Sept 2026. His CHIPS Act work concerned taxpayer protections on factory subsidies, not export rules. Searched news and his site for Nvidia, export controls and chips.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 10 news queries (AI, data centers, Energy Bills Relief Act, Big Tech/230/social media, chips/preemption, JEC AI hearing, AI Caucus, Anthropic/OpenAI) plus two site listings of casten.house.gov. Opened and confirmed: Sun-Times July 2026 interview, Utility Dive Sept 2025 interview, Roll Call and E&E coverage of the Energy Bills Relief Act, Castor release with the bill summary, Jacobs GUARDRAILS release (cosponsor confirmed), Matsui PDF (signer confirmed), his X and social media letters. Could not open: his own Energy Bills Relief Act release (410), the Markey/McClellan EPA data center letter page (403, so that landscape lead is not used), the C-SPAN JEC AI hearing page (no Casten text), and any AI Caucus membership page (domains unresolved), so caucus and HFSC working group memberships are carried as unverified leads. No AI super PAC spending in his 2026 primary was found."
+}
+]

@@ -1,366 +1,191 @@
 [
 {
-"bioguide": "C001131",
+"bioguide": "A000375",
 "checks": [
 {
-"url": "https://menendez.house.gov/media/press-releases/-menendez-casar-introduce-groundbreaking-legislation-to-protect-americans-from-financial-and-environmental-impacts-of-ai-data-centers",
+"url": "https://arrington.house.gov/news/documentsingle.aspx?DocumentID=4145",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-01-08",
-"note": "Quote verbatim, attributed to Casar. Release describes requiring data centers to generate their own clean energy, hit 100% renewables by 2040, and report environmental footprint; Casar adds data centers should not 'jack up your electric bill or poison your environment.'"
+"corrected_date": "2025-09-24",
+"note": "Press release titled 'Shackleford vs Shanghai, Big Country vs Beijing' - Arrington Touts New AI Investments in West Texas, dated 2025-09-24. Quote appears verbatim, attributed to Chairman Arrington, welcoming Sam Altman/OpenAI/Oracle to the Abilene Stargate site and framing it as jobs, private investment, and beating China."
 },
 {
-"url": "https://www.texastribune.org/2026/05/01/texas-greg-casar-congress-bill-utility-costs-affordability-2026-midterms/",
+"url": "https://ktxs.com/news/local/political-leaders-and-investors-tour-abilenes-project-stargate",
+"verdict": "confirmed",
+"corrected_quote": "There's no better place to build the backbone for AI than West Texas because of our abundant and reliable energy, our workforce, our hard-working, God fearing, freedom-loving people, and we have a very good environment for starting businesses and building facilities like this at this scale",
+"corrected_date": "2025-09-23",
+"note": "KTXS article dated 2025-09-23 on the Stargate tour. Quote is verbatim as a leading fragment; full sentence continues (added in corrected_quote). Article names Arrington and supports the claim that he pitched West Texas as the ideal home for the project. Fetched page excerpt did not itself show Altman/Cruz names in the grep window, but the tour context matches."
+},
+{
+"url": "https://www.c-span.org/program/public-affairs-event/rep-jodey-arrington-and-policy-stakeholders-on-ai-infrastructure-and-energy-needs/680079",
 "verdict": "partially_supported",
 "corrected_quote": null,
-"corrected_date": "2026-05-01",
-"note": "Quote verbatim (Casar at a news conference on his Lowering Utility Bills Act, which caps utility profit margins). Article discusses data-center ratepayer bills generally but does not have Casar himself linking his bill to data centers; the 'same lens he applies to data centers' is the tracker's inference, not something on the page."
+"corrected_date": "2026-05-29",
+"note": "C-SPAN page exists (published 2026-05-29). Meta description confirms: House Budget Chair Arrington joined policy stakeholders at the Reagan Economic Forum in Simi Valley; topics included data centers, competition with China, permitting and regulatory reform, and grid concerns. The summary does NOT characterize his stance, so 'appeared as the buildout-friendly congressional voice' is the tracker's inference, not something the page says. Page body text is JS-rendered; only metadata was checkable."
 },
 {
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
+"url": "https://ktxs.com/news/local/political-leaders-and-investors-tour-abilenes-project-stargate",
 "verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-03",
-"note": "Fetch tool got Akamai 403 and Wayback had no copy; page loaded in the real Chrome browser. Quote verbatim from Casar. Release confirms permanent ban, temporary pause pending a federal regulator, new cabinet-level agency, up to 20 years in prison for persons plus 'corporate death penalty' for entities. Note it is described as 'forthcoming legislation' being announced, and Casar is co-lead, not solely 'House sponsor' of an introduced bill."
+"corrected_quote": "I'm very proud that West Texas is now not only the food, fuel and fiber capital of the world, where we have energy and agriculture dominance, but we're the new frontier for information technology and in support of the AI race for our great country",
+"corrected_date": "2025-09-23",
+"note": "Quote appears verbatim as a fragment of a longer sentence (full sentence in corrected_quote). Article also states 'Representative Arrington believes that AI has the potential to be a powerful force for good.' No mention of guardrails or regulation in the article, consistent with the claim's negative assertion."
 },
 {
-"url": "https://thehill.com/policy/technology/6069131-sanders-casar-ai-superintelligence-ban/",
+"url": "https://arrington.house.gov/news/documentsingle.aspx?DocumentID=4145",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-09-03",
-"note": "Article names Casar, says the bill would permanently ban superintelligence, temporarily pause 'advanced AI development' until federal regulators establish safety standards, pursue international agreements, and create a Cabinet-level AI agency."
+"corrected_date": "2025-09-24",
+"note": "Fragment appears verbatim in the release. The release is about American leadership over China and West Texas economic benefits; it says nothing about AI risks or regulation, so the claim is accurate as a description of the message's framing."
 },
+{
+"url": "https://arrington.house.gov/news/documentsingle.aspx?DocumentID=4145",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-24",
+"note": "Headline quote appears verbatim in the 2025-09-24 press release, attributed to Arrington."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the cited sources address AI safety rules, guardrails, or regulation at all; they are about data-center investment and beating China. 'Light touch' (+1) is an inference from silence and Republican affiliation, not from any stated position. Evidence is too thin to place him on this axis.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No cited source touches Big Tech regulation, antitrust, kids' online safety, Section 230, or any tech-regulation topic. The assigned -1 'Targeted rules' has zero support in the items checked; either add a source or leave the dimension unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "C001091",
+"checks": [
 {
 "url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-08-10",
-"note": "Casar led 19 members in a letter to Speaker Johnson; quote verbatim; letter says Congress 'has so far completely failed to respond' and CEOs 'should answer questions under oath.'"
+"note": "Page dated August 10, 2026; quote appears verbatim in the letter excerpt; Joaquin Castro (TX-20) is listed among signers. Release says Casar 'led 19 members' plus himself, consistent with 20 signers. Letter language on safety risk and worker displacement supports the claim."
 },
 {
 "url": "https://casar.house.gov/media/press-releases/casar-leads-demand-information-open-ai-about-security-incident",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-08-10",
-"note": "Casar led 31 members; quote verbatim; release says letter has 'more than 23 questions' including whether models tried to cheat/defeat evaluations and undermine OpenAI's ability to control or oversee future models. Incident: frontier model accessed the internet from a training environment without permission."
+"note": "Quote appears verbatim in the list of questions posed to OpenAI; letter co-led by Matsui; Joaquin Castro (TX-20) listed as signer. Supports the oversight/transparency claim."
 },
 {
-"url": "https://casar.house.gov/media/press-releases/news-casar-leads-introduction-new-bill-protect-workers-threat-ai-mass",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2026-08-07",
-"note": "Quote verbatim and 'federal government is doing nothing to protect workers' is Casar's own line. But the Great Depression comparison on this page is attributed to Anthropic CEO Dario Amodei's prediction, not stated by Casar in his own words here (he does say it himself in the American Prospect op-ed)."
-},
-{
-"url": "https://casar.house.gov/media/press-releases/op-ed-american-prospect-tax-ai-create-jobs",
+"url": "https://democrats-foreignaffairs.house.gov/2025/12/meeks-introduces-bill-to-block-sales-of-advanced-ai-chips-to-china",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-05-28",
-"note": "Quote verbatim (op-ed subhead). Op-ed says slowing AI adoption is 'a feature as much as a bug' and calls for worker protections, IP protections, rules against mass surveillance, and 'safety protocols to prevent the dangers from out-of-control AI.'"
+"corrected_date": "2025-12-18",
+"note": "Bill Highlights contain the exact quote; Castro named among original cosponsors of the RESTRICT Act; Meeks statement frames the bill as blocking Trump's H200 sale decision."
 },
 {
-"url": "https://www.commondreams.org/news/greg-casar-ai-oligarchs",
+"url": "https://www.nextgov.com/policy/2026/04/tech-bills-week-boosting-export-controls-ai-focused-workforce-development-and-more/412779/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-09-06",
-"note": "Quote verbatim; he calls Silicon Valley's UBI-to-tolerate-unemployment proposal 'a bad idea.' Article says the remarks were on MeidasTouch."
+"corrected_date": "2026-04-10",
+"note": "Nextgov names the proposal as from Reps. Ryan Mackenzie (R-Pa.) and Joaquin Castro (D-Texas); quote appears verbatim."
 },
 {
-"url": "https://casar.house.gov/media/press-releases/news-congressman-greg-casar-introduces-new-stop-ai-price-gouging-and-wage",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2025-07-23",
-"note": "Quote verbatim. Bill generally prohibits surveillance-based price and wage setting, enforced by FTC, state AGs, a private right of action, and EEOC for wages."
-},
-{
-"url": "https://casar.house.gov/media/press-releases/news-congressman-greg-casar-reacts-tiktok-forced-sale-bill",
-"verdict": "confirmed",
-"corrected_quote": "I voted no on the TikTok forced sale bill. While I have serious data privacy concerns with TikTok, this bill was rapidly rushed to a vote by the Republicans with almost no public scrutiny — and that’s a recipe for unintended consequences",
-"corrected_date": "2024-03-13",
-"note": "Quote verbatim (item truncates before the em-dash clause). He voted no on H.R. 7521 and called for 'well-vetted, robust protections for TikTok users.'"
-},
-{
-"url": "https://www.ms.now/news/progessive-leader-greg-casar-dems-reject-ai-cash",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2026-08-07",
-"note": "Page loads (2026-08-07) but only headline and navigation are readable; body text not extracted. Headline and URL slug identify Casar as the progressive leader urging Dems to reject AI cash. Claim is headline-level only, as the item already states."
-},
-{
-"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-11-26",
-"note": "Fetch tool returned no text for the PDF; downloaded and extracted locally. Opening sentence verbatim; letter also opposes a presidential executive order to preempt state AI laws; 'Greg Casar' appears in the signature list."
-},
-{
-"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-03",
-"note": "Quote verbatim; page lists 44 signers including Greg Casar; letter urges preventing any AI moratorium or preemption in the final FY26 NDAA."
-},
-{
-"url": "https://casar.house.gov/media/press-releases/op-ed-american-prospect-tax-ai-create-jobs",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-05-28",
-"note": "Quote verbatim; in context it is framed as evidence the government is 'totally unaware' of the AI jobs threat, so it is a criticism of Congress's priorities rather than an endorsement of the preemption effort."
-},
-{
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-03",
-"note": "Verified via real Chrome browser (fetch tool blocked with 403). Quote verbatim in the bill summary bullet: international agreements, allied coordination, and export controls to prevent superintelligence anywhere in the world. This is a generic export-controls provision aimed at superintelligence, not a chip-export stance."
-},
-{
-"url": "https://casar.house.gov/media/press-releases/op-ed-american-prospect-tax-ai-create-jobs",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-05-28",
-"note": "Quote verbatim, responding to the argument that taxing US AI firms makes America less competitive with China. As the item says, not a position on chip exports."
-},
-{
-"url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-03",
-"note": "Verified via real Chrome browser (fetch tool blocked). Quote verbatim from Casar's statement."
-}
-],
-"score_objections": [
-{
-"dimension": "china_chips",
-"objection": "Evidence is too thin for a directional score. The only sources are a bill summary that lists export controls among tools to prevent superintelligence worldwide (item 16) and an op-ed line rejecting the beat-China argument for AI taxes (item 17, which the tracker itself notes is not a chip-export position). Neither addresses chip export policy toward China or supports 'Leans hawkish'; no position should be recorded until he speaks to chip exports.",
-"suggested_score": null,
-"suggested_label": null
-}
-]
-},
-{
-"bioguide": "B001291",
-"checks": [
-{
-"url": "https://science.house.gov/2026/2/opening-statement-of-chairman-brian-babin-at-powering-america-s-ai-future-federal-permitting-challenges-for-data-center-infrastructure",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-02-24",
-"note": "Quote verbatim. Statement contrasts China's state-directed data center buildout with U.S. permitting/environmental-review hurdles; opens by saying 'America must win the artificial intelligence race with China.'"
-},
-{
-"url": "https://www.eenews.net/articles/house-science-committee-takes-on-data-center-permitting/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-02-23",
-"note": "Quote verbatim, attributed to Babin 'in a statement' announcing the hearing."
-},
-{
-"url": "https://science.house.gov/2026/9/babin-mccormick-probe-foreign-influence-in-u-s-ai-and-energy-policy",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-10",
-"note": "Quote verbatim ('the Chairmen wrote'). Letters to NSF, Indivisible Project, Sierra Club, 350.org, Oil Change International seeking documents on foreign funding tied to opposition to AI/data center development."
-},
-{
-"url": "https://rollcall.com/2026/06/26/federal-ai-security-center-measure-advanced-by-house-science/",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2026-06-26",
-"note": "Quote verbatim and Babin's defense is accurate, but the member who said the majority threatened to pull the bill was Rep. Luz Rivas (D-Calif.), not Ranking Member Lofgren. Fix the name."
-},
-{
-"url": "https://www.washingtontimes.com/news/2026/feb/10/america-must-win-artificial-intelligence-race-china/",
-"verdict": "unreachable",
-"corrected_quote": null,
-"corrected_date": null,
-"note": "Washington Times returns a Cloudflare 403 challenge page; Wayback lookup refused/429 after retries; WebFetch also 403. Babin's Feb 24, 2026 hearing statement does confirm he authored a Washington Times op-ed by this title, but the quote could not be verified."
-},
-{
-"url": "https://science.house.gov/2025/7/chairman-babin-praises-administration-s-bold-strategy-for-maintaining-american-ai-leadership",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-07-25",
-"note": "Quote verbatim. Also says the SST Committee will 'craft impactful legislation' to advance the plan's priorities."
-},
-{
-"url": "https://science.house.gov/2026/7/opening-statement-of-chairman-babin-at-ostp-budget-kratsios",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-22",
-"note": "Quote verbatim, in context of praising the administration's strategy vs. China."
-},
-{
-"url": "https://science.house.gov/2026/1/opening-statement-of-chairman-brian-babin-at-ai-hearing",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-01-14",
-"note": "Quote verbatim. Page does not use the word 'voluntary'; 'consensus-based standards' is the wording. No binding safety rules mentioned, so the claim's characterization holds."
-},
-{
-"url": "https://www.speaker.gov/johnson-scalise-guthrie-jordan-babin-house-will-work-to-implement-national-ai-framework/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-20",
-"note": "Quote verbatim; joint statement names Babin as one of five signers. 'Secondary goals' is the tracker's inference, but the sentence order supports it."
-},
-{
-"url": "https://rollcall.com/2026/06/26/federal-ai-security-center-measure-advanced-by-house-science/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-26",
-"note": "Quote verbatim; article says Babin 'supported increasing' the $20M/yr authorization while cautioning not to undermine the bill's progress. Obernolte's $100M amendment was withdrawn."
-},
-{
-"url": "https://www.houstonchronicle.com/politics/texas/article/ai-texas-babin-moran-22325041.php",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-29",
-"note": "Quote verbatim. Note the article's frame: Babin and Moran 'filed legislation that would give the federal government a larger role' in AI development, and Babin called for more CAISI funding. 'Always pairs' is a generalization the article itself does not make."
-},
-{
-"url": "https://www.speaker.gov/johnson-scalise-guthrie-jordan-babin-house-will-work-to-implement-national-ai-framework/",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2026-03-20",
-"note": "Quote verbatim and Babin is a signer, but the statement never mentions states or preemption; the assertion that the framework 'calls for one national standard over state AI laws' is not on this page."
-},
-{
-"url": "https://science.house.gov/2026/2/sst-leaders-request-gao-review-of-federal-and-state-ai-regulations",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-02-18",
-"note": "Quote verbatim. Babin and Obernolte ask GAO to review federal and state AI laws 'to inform future legislative efforts'; 'patchwork' is the tracker's word, the release says 'increasingly complex framework.' The letter itself is neutral on preemption."
-},
-{
-"url": "https://www.washingtontimes.com/news/2026/feb/10/america-must-win-artificial-intelligence-race-china/",
-"verdict": "unreachable",
-"corrected_quote": null,
-"corrected_date": null,
-"note": "Same Cloudflare 403 block; no Wayback mirror obtainable. Quote unverified."
-},
-{
-"url": "https://science.house.gov/2026/1/opening-statement-of-chairman-brian-babin-at-ai-hearing",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-01-14",
-"note": "Quote verbatim. Names research espionage, AI-enabled cyberattacks and data collection as CCP risks; no chip export policy stated, as the claim acknowledges."
-},
-{
-"url": "https://science.house.gov/2026/7/opening-statement-of-chairman-babin-at-ostp-budget-kratsios",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-22",
-"note": "Verbatim."
-}
-],
-"score_objections": [
-{
-"dimension": "preemption",
-"objection": "Neither source actually shows Babin taking a position against state AI laws. The joint statement never mentions states or preemption, and the GAO letter is a neutral request to map federal and state laws. Committing to a 'national framework' supports leaning national, but the evidence is too thin for the strongest 'block states' position.",
-"suggested_score": 1,
-"suggested_label": "Leans national rule"
-},
-{
-"dimension": "china_chips",
-"objection": "With the Washington Times op-ed unreachable, the only verifiable source is a general CCP-threat line with no chip policy content. -1 is a modest lean and may be right, but it currently rests on one unverified item; flag as thin rather than wrong.",
-"suggested_score": -1,
-"suggested_label": "Leans hawkish"
-}
-]
-},
-{
-"bioguide": "D000399",
-"checks": [
-{
-"url": "https://www.healthcaredive.com/news/democrat-letter-more-data-wiser-medicare-ai-prior-authorization/823581/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-24",
-"note": "Article names Doggett among 31 House Democrats seeking data on WISeR implementation, including turnaround times; letter described as asking for data on how the AI prior-authorization pilot has been implemented. No quote to check."
-},
-{
-"url": "https://ross.house.gov/2026/5/news-ross-introduces-legislation-to-support-independent-musicians-and-ensure-fair-negotiations-with-streaming-platforms-and-ai-developers",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-05-21",
-"note": "Quote appears verbatim in Ross's release narrative (not attributed to Doggett). Page states the bill is cosponsored by Reps. Steve Cohen and Lloyd Doggett, matching the claim of two original cosponsors."
-},
-{
-"url": "https://doggett.house.gov/media/press-releases/doggett-ways-and-means-democrats-demand-answers-trump-administrations-palantir",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-06-16",
-"note": "Quote appears verbatim, attributed to Rep. Doggett. Release says Ways and Means Democrats led by Doggett are demanding information on the Palantir centralized database via a Resolution of Inquiry."
-},
-{
-"url": "https://doggett.house.gov/media/press-releases/rep-doggett-seeks-safeguard-americans-privacy-rights-trump",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-11",
-"note": "Quote is a verbatim excerpt of Doggett's statement (source continues '– and much more'). Page confirms he forced a vote via amendment to H.R. 2716 requiring SSA to produce records on data sharing with Palantir; amendment defeated 16-24 on a party-line vote."
-},
-{
-"url": "https://doggett.house.gov/issues/technology",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": null,
-"note": "Quote verbatim. Page states he was the only Central Texas member to vote against repeal of internet privacy rules and that he has consistently supported net neutrality and opposed the Pai repeal."
-},
-{
-"url": "https://doggett.house.gov/media/press-releases/doggett-ways-and-means-democrats-demand-answers-trump-administrations-palantir",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-06-16",
-"note": "Headline quote appears verbatim and is attributed to Rep. Doggett in the June 16, 2025 release."
+"corrected_date": "2026-08-10",
+"note": "Verbatim quote from the letter text on the page. Note it is the collective letter's language (Castro is a signer, not the author), so attribution should read as a co-signed letter rather than Castro's own words."
 }
 ],
 "score_objections": []
 },
 {
-"bioguide": "H001095",
+"bioguide": "R000614",
 "checks": [
 {
-"url": "https://www.texastribune.org/2026/02/05/texas-us-senate-republicans-2026-primary-q-and-a-voter-guide-cornyn-hunt-paxton/",
+"url": "https://roy.house.gov/media/press-releases/rep-roy-introduces-power-act-increase-transparency-data-center-water-and",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-02-05",
-"note": "Page (Feb. 5, 2026) says none of the three candidates, including Hunt, responded to the questionnaire despite repeated efforts; the only AI question is on preemption, and under Hunt it states 'The Tribune could not find public comments from Hunt on AI preemption.' Claim matches."
+"corrected_date": "2026-05-22",
+"note": "Roy's own press release (May 22, 2026) on the POWER Act; quote appears verbatim. The release describes a DOE reporting/transparency bill and the 'honest accounting' language is there; the claim's 'before more projects are built' is a slight gloss (bill is reporting, not a precondition on construction) but the drought tie and demand for accounting are exact."
 },
 {
-"url": "https://www.houstonchronicle.com/politics/texas/article/tiktok-wesley-hunt-20149021.php",
+"url": "https://www.kltv.com/2026/05/08/roy-texans-worried-about-islams-growth-texas-while-he-campaigns-ag/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2025-02-05",
-"note": "Quote appears verbatim. Article (Feb. 5, 2025) says Hunt regretted voting for the forced-sale law, understands the 'risks associated with foreign access to American data' but said data is at risk in many other ways already, and lauded TikTok as a communication tool for younger voters. Claim accurate."
+"corrected_date": "2026-05-08",
+"note": "KLTV article (May 8, 2026) is about Roy; quote verbatim. Page also contains 'These are massive sucks on power,' that he'd prioritize homes, hospitals and businesses before data centers, and 'I'm not sure the contracts getting put in place are holding them accountable' on water use and drought. All elements of the claim are supported."
 },
 {
-"url": "https://www.texastribune.org/2026/02/05/texas-us-senate-republicans-2026-primary-q-and-a-voter-guide-cornyn-hunt-paxton/",
+"url": "https://roy.house.gov/media/press-releases/rep-roy-introduces-power-act-increase-transparency-data-center-water-and",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-02-05",
-"note": "Exact sentence 'The Tribune could not find public comments from Hunt on AI preemption.' appears under the preemption question in the Hunt column."
-},
-{
-"url": "https://www.houstonchronicle.com/politics/texas/article/tiktok-wesley-hunt-20149021.php",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-02-05",
-"note": "Quote appears verbatim, attributed to Hunt in a statement explaining his reversal on the TikTok law."
+"corrected_date": "2026-05-22",
+"note": "Opening sentence of Roy's quoted statement in the POWER Act press release; verbatim."
 }
 ],
 "score_objections": [
 {
-"dimension": "ai_risk",
-"objection": "No source in the set contains any Hunt statement on AI risk or AI regulation; the only AI-related source is the Tribune noting it could find no comments from him. Evidence is too thin for a -1 'Targeted guardrails' score; leave unscored.",
+"dimension": "tech_regulation",
+"objection": "None of the three cited sources touch Big Tech regulation, content moderation, antitrust, or online safety; they are exclusively about data center water and energy. The -1 'Targeted rules' score has no supporting evidence in this item set. Roy has elsewhere criticized Big Tech (Section 230/censorship), so the direction may be right, but a source should be added or the score left unset until one is.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "N000026",
+"checks": [
+{
+"url": "https://nehls.house.gov/media/press-releases/rep-troy-e-nehls-op-ed-washington-reporter-win-global-ai-race-we-must-secure",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Page loaded directly (status 200). Quote appears verbatim as the opening line of the op-ed. The whole piece is about winning the AI race, securing transceiver supply chains, and onshoring manufacturing; there is no call for limits on AI development, so the claim is fair."
+},
+{
+"url": "https://washingtonreporter.news/exclusive-lawmakers-laud-trump-administrations-ai-genesis-mission/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-27",
+"note": "Article (Mar 27, 2026) names Troy Nehls among the Republicans who joined Gooden's letter to Energy Secretary Wright. Quote appears verbatim as a quotation from the letter. Letter text cited on the page references leveraging 'American National Laboratories' and supports rapid DOE deployment of AI, so 'faster across national labs' is supported."
+},
+{
+"url": "https://nehls.house.gov/media/press-releases/rep-troy-e-nehls-op-ed-washington-reporter-win-global-ai-race-we-must-secure",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Quote appears verbatim. Page confirms Nehls and Rep. Ronny Jackson secured directive report language in the FY2026 House NDAA requiring a Department of War briefing on foreign-made transceivers by March 2026 and urging trusted-vendor guidelines for U.S./allied sourcing. Note this is about excluding foreign hardware from U.S. infrastructure, not export controls on U.S. chips."
+},
+{
+"url": "https://nehls.house.gov/media/press-releases/rep-troy-e-nehls-introduces-protect-act-2026",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-11",
+"note": "Press release dated Feb 11, 2026. Quote appears verbatim in the first paragraph (the tool's grep missed only because of whitespace; the text is present). Claim accurately characterizes it as tech-transfer hawkishness distinct from chip export controls."
+},
+{
+"url": "https://nehls.house.gov/media/press-releases/rep-troy-e-nehls-op-ed-washington-reporter-win-global-ai-race-we-must-secure",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Same op-ed page; quote verbatim and attributable to Nehls in his own words."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the five cited items concerns regulating tech platforms or Big Tech; they cover AI-race framing, transceiver supply-chain security, the Genesis Mission letter, and university IP transfers to hostile governments. The evidence set is too thin to place him at 'Targeted rules' (-1); either add a source on platform/tech regulation or leave the dimension unscored.",
 "suggested_score": null,
 "suggested_label": null
 },
 {
-"dimension": "tech_regulation",
-"objection": "The only tech-regulation evidence is the Houston Chronicle piece in which Hunt disavows his one pro-regulation act (the TikTok forced-sale vote), calls it a mistake, downplays the data-security rationale, and praises TikTok. A vote for the law followed by a public reversal is at best mixed, not 'Targeted rules'; the record does not support -1.",
-"suggested_score": 0,
-"suggested_label": "Mixed"
+"dimension": "china_chips",
+"objection": "Assigned -1 'Leans hawkish' is defensible but the evidence is inbound-hardware and IP-transfer hawkishness (keep Chinese transceivers out, bar universities from selling IP to China), not a position on U.S. chip export controls. Keep -1 only if the tracker treats general China-tech hawkishness as a proxy; otherwise evidence is indirect.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
 }
 ]
 }

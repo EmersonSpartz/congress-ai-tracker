@@ -1,0 +1,222 @@
+[
+{
+"bioguide": "G000593",
+"name": "Carlos A. Gimenez",
+"signature": "Miami-area China hawk who chairs a Homeland Security subcommittee; on AI he mostly talks cyber defense and China, and in Sept 2026 said Beijing \"has it right\" on teaching kids to use AI.",
+"notable_quote": {
+"text": "I think in this case, I think Beijing actually has it right. As long as AI is not used to supplant your ability to learn, in other words, you have to learn the concepts, etc., etc.",
+"url": "https://thehill.com/policy/technology/6069042-rep-gimenez-praises-china-ai/",
+"date": "2026-09-03"
+},
+"groups": [
+"House Homeland Security Committee, Subcommittee on Transportation and Maritime Security (Chairman, 119th Congress)",
+"House Homeland Security Committee, Subcommittee on Cybersecurity and Infrastructure Protection (Member)",
+"House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party (Member)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. Searched news, his website and local coverage for data center, electric bill and ratepayer remarks and found none. He voted for the SPEED Act permitting reform bill in Dec 2025, but that is general permitting policy, not a stated data center position.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call: Yea on H.R. 4776, the SPEED Act (permitting reform), House vote 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for a broad permitting reform bill that backers tied to faster energy and infrastructure building, but it is not a specific data center stance."
+},
+{
+"type": "other",
+"title": "Official website issue page: Energy",
+"url": "https://gimenez.house.gov/energy",
+"date": null,
+"quote": "I support an all-of-the-above approach to domestic energy production with a focus on research, and deployment of new, clean energy technologies that ensures all Americans have access to affordable and reliable energy sources.",
+"what_it_shows": "His energy page stresses affordable, reliable power and all-of-the-above production but never mentions data centers or AI power demand."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "low",
+"summary": "Mixed. He treats AI as inevitable and wants kids taught to use it, praising China's classroom AI plan while New York City paused it, and he presses for faster use of AI in cyber defense. But he also cosponsored a 2024 bill requiring labels on AI-made content and calls for balancing cyber rules with innovation.",
+"evidence": [
+{
+"type": "interview",
+"title": "The Hill: Gimenez tells NewsNation that Beijing 'has it right' on AI in classrooms",
+"url": "https://thehill.com/policy/technology/6069042-rep-gimenez-praises-china-ai/",
+"date": "2026-09-03",
+"quote": "I think in this case, I think Beijing actually has it right. As long as AI is not used to supplant your ability to learn, in other words, you have to learn the concepts, etc., etc.",
+"what_it_shows": "He backs putting AI in schools early and framed New York City's moratorium as leaving kids behind, a pro-adoption view rather than a cautious one."
+},
+{
+"type": "interview",
+"title": "The Hill: Gimenez says keeping kids from AI puts them at a disadvantage",
+"url": "https://thehill.com/policy/technology/6069042-rep-gimenez-praises-china-ai/",
+"date": "2026-09-03",
+"quote": "which will put our children at a disadvantage because like it or not, AI is here",
+"what_it_shows": "He describes AI as unavoidable and stresses competing with China, the usual light-touch framing."
+},
+{
+"type": "hearing",
+"title": "Economic Times video: Gimenez asks 'Where are we on the defensive side of AI?' at a cybersecurity hearing",
+"url": "https://economictimes.indiatimes.com/news/international/world-news/where-are-we-on-the-defensive-side-of-ai-gimenez-pushes-urgent-defense-against-cyber-onslaught/videoshow/131355785.cms",
+"date": "2026-05-27",
+"quote": "Where are we on the defensive side of AI?",
+"what_it_shows": "At a hearing on cyber threats he pushed for faster use of AI to defend against a wave of cyberattacks, treating AI as a security tool more than a danger to restrain."
+},
+{
+"type": "statement",
+"title": "Newsletter: Prioritizing Our Cybersecurity (TSA cyber rules hearing)",
+"url": "https://gimenez.house.gov/2024/11/prioritizing-our-cybersecurity",
+"date": "2024-11-25",
+"quote": "We must balance regulatory standards with operational adaptability, so we can promote robust cybersecurity practices that both protect critical infrastructure and foster innovation and efficiency within the industry.",
+"what_it_shows": "He wrote that AI and autonomous vehicles amplify cyber risks but argued for balancing rules against innovation and warned that a 300-page TSA rule could overwhelm smaller operators."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6466, AI Labeling Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6466",
+"date": "2024-02-06",
+"quote": null,
+"what_it_shows": "He backed a bill requiring clear labels on AI-generated pictures, video and text, a targeted transparency rule."
+},
+{
+"type": "vote",
+"title": "Roll call: Yea on H.R. 8800, FY2027 National Defense Authorization Act, House vote 278",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h278",
+"date": "2026-07-22",
+"quote": null,
+"what_it_shows": "He voted for the defense bill that the landscape study says carried an AGI Preparedness Initiative and AI incident reporting; a routine party vote, so a weak signal."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted rules, mostly framed around kids and China. He voted for the House KIDS Act online safety package, has long pushed to ban TikTok, and cosponsored bills on parental safety tools, revenge porn, data brokers and Chinese connected cars. He also warns against heavy cyber rules that burden smaller companies.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call: Yea on H.R. 7757, the KIDS Act, House vote 228 (passed 267-117)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "He voted for the House kids online safety package, which included rules on AI chatbots for minors, while 32 Republicans voted no."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Gimenez questions FBI Director Wray on TikTok",
+"url": "https://gimenez.house.gov/2024/1/rep-carlos-gimenez-questions-fbi-director-christopher-wray-on-tiktok",
+"date": "2024-01-31",
+"quote": "Congressman Carlos Gimenez is a long-time advocate of banning Communist Chinese social media platform TikTok for their subversive activity, data harvesting, and privacy concerns.",
+"what_it_shows": "He asked the FBI director whether he would ban TikTok and his office describes him as a long-time supporter of a ban."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "He cosponsored the TikTok divest-or-ban law."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730, Connected Vehicle Security Act of 2026 (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-08-17",
+"quote": null,
+"what_it_shows": "He backed banning connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5778, Sammy's Law of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5778",
+"date": "2024-04-20",
+"quote": null,
+"what_it_shows": "He backed requiring big social media apps to let parents plug in child safety software."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5082, REPORT Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5082",
+"date": "2023-09-26",
+"quote": null,
+"what_it_shows": "He backed making platforms report more kinds of child abuse and trafficking to the national tipline."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3686, SHIELD Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3686",
+"date": "2024-04-23",
+"quote": null,
+"what_it_shows": "He backed making it a federal crime to share private sexual images without consent."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6573, Protecting Military Servicemembers' Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2023-12-05",
+"quote": null,
+"what_it_shows": "He backed stopping data brokers from selling military members' personal data to hostile countries."
+},
+{
+"type": "statement",
+"title": "Newsletter: Prioritizing Our Cybersecurity (skeptical of TSA's proposed cyber rule)",
+"url": "https://gimenez.house.gov/2024/11/prioritizing-our-cybersecurity",
+"date": "2024-11-25",
+"quote": "The proposed 300-page regulations could overwhelm smaller operators without effectively reducing risks.",
+"what_it_shows": "Contrary signal: on cyber rules for transport companies he leans light touch, saying streamlining regulation is essential."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption or a moratorium on state AI laws as of Sept 2026. Searched for statements on the 2025 moratorium fight, the Dec 2025 executive order and the March 2026 White House framework, and checked the Matsui and Clarke letters; he is not on them and made no located statement.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans hawkish. He is a hard-line China decoupler who cosponsored the bill to purge the Chinese AI app DeepSeek from government devices and sponsors bills against Chinese batteries, cranes and solar gear. But no statement specifically on Nvidia chip sales or export controls was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1121, No DeepSeek on Government Devices Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-25",
+"quote": null,
+"what_it_shows": "He backed forcing the government to remove the Chinese AI app DeepSeek from all federal devices."
+},
+{
+"type": "statement",
+"title": "Newsletter: The US Must Decouple From Communist China",
+"url": "https://gimenez.house.gov/2024/9/the-us-must-decouple-from-communist-china",
+"date": "2024-09-16",
+"quote": "The United States must decouple from Communist China in all facets of our lives.",
+"what_it_shows": "He calls for full decoupling from China and celebrated House passage of his bill banning DHS purchases of Chinese-linked batteries."
+},
+{
+"type": "statement",
+"title": "Newsletter: Gimenez on his Decoupling from Foreign Adversarial Battery Dependence Act passing the House",
+"url": "https://gimenez.house.gov/2024/9/the-us-must-decouple-from-communist-china",
+"date": "2024-09-16",
+"quote": "With this bill we reaffirm and continue to decouple ourselves from Communist China but also send a demand signal to our own domestic industries to start producing critically important materials.",
+"what_it_shows": "His own China bills target hardware supply chains (batteries, port cranes, solar), showing a consistent tech-decoupling record though not one on AI chips."
+},
+{
+"type": "other",
+"title": "Official website issue page: China",
+"url": "https://gimenez.house.gov/china",
+"date": null,
+"quote": "I support a rebalancing of American foreign policy that meets these threats, reassures our partners and allies of America's leadership, and decouples America and our allies from China in 5 key areas: national security, economy/energy, competitiveness, ideology, and technology.",
+"what_it_shows": "He lists technology as one of five areas where the US should decouple from China, consistent with tighter controls, but says nothing specific about chip exports."
+}
+]
+}
+},
+"search_notes": "Ran about 20 Google News queries (Gimenez + artificial intelligence, AI, data center/data centers, chatbot/deepfake/kids online, Nvidia/export controls/chips, Big Tech/Section 230/TikTok, preemption/state AI laws/moratorium, electricity/ratepayers/FPL, AI super PAC names, frontier AI/Anthropic, AI in schools, DeepSeek/Connected Vehicle, executive order/AI Action Plan, AI jobs, Select Committee AI, homeland cyber hearings). Listed 95 archived gimenez.house.gov URLs since 2025; none were AI-specific beyond cyber, TikTok and China items, which I read. Pulled his sponsored bills for the 118th and 119th via the GovTrack API (none AI-specific: COOL Online Act, port crane, Chinese battery and solar decoupling bills). Verified three roll calls on GovTrack: Yea on SPEED Act (h356, Dec 18 2025), Yea on KIDS Act (h228, Jun 29 2026), Yea on FY27 NDAA (h278, Jul 22 2026). Read The Hill's Sept 3 2026 article quoting his NewsNation interview verbatim; the NewsNation original page was not located. Read the Economic Times video page description for his May 27 2026 cyber hearing remark. Checked House Homeland pages for the June 4 2026 frontier AI hearing (Tech Policy Press transcript has no Gimenez remarks), the July 2026 AI cyber war game and the March 2026 PRC AI hearing; none name him. Committees and caucuses page shows no AI caucus. Limits: Google News link decoder was rate limited (429) all session, Wayback Machine was offline, Florida Politics blocked fetches so the 7.28, 7.31 and 8.7 2026 Delegation columns were not read, congress.gov returned 403. No AI super PAC support or attacks found. No data center, preemption or chip export statements located."
+}
+]

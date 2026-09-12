@@ -1,0 +1,111 @@
+[
+{
+"bioguide": "V000136",
+"checks": [
+{
+"url": "https://vasquez.house.gov/media/press-releases/rep-gabe-vasquez-demands-accountability-data-center-developers-reiterates-new",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-25",
+"note": "Quote appears verbatim in Vasquez's own Aug 25, 2026 release; page announces his co-sponsorship of the two data center bills and frames them as conditions (transparency, listen to residents, prove benefit)."
+},
+{
+"url": "https://sourcenm.com/2026/06/10/new-mexico-county-adopts-yearlong-data-center-moratorium/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "sourcenm.com returns 403 to direct fetch and WebFetch; Wayback fetch failed/returned no article text. Claim is partly corroborated by Organ Mountain News (Aug 31, 2026), which says Vasquez called on Socorro County officials to adopt a moratorium against Green Data's 10,000-acre proposal and the county adopted it. The 'limited transparency' quote and the 'only federal official in the state' detail could not be verified."
+},
+{
+"url": "https://www.organmountainnews.com/gabe-vasquez-federal-data-center-bills-project-jupiter-2026/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-08-31",
+"note": "Quote is verbatim. But the article itself notes the only direct mention of Project Jupiter in Vasquez's announcement was a reference to his July condemnation of a security guard's use of force; the 'backroom deals/NDAs/shell companies' line is aimed generally at 'those who seek to do business in our state,' so attributing it specifically to Project Jupiter's developers overstates the source."
+},
+{
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "PDF dated March 19, 2026; quote verbatim; Gabe Vasquez listed among New Democrat Coalition signers requesting a DOE National Strategic Data Center Plan for 'responsible growth.'"
+},
+{
+"url": "https://seec.house.gov/media/press-releases/seec-clean-energy-deployment-task-force-co-chairs-sean-casten-and-mike-levin-9",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-03-18",
+"note": "Quote is verbatim in the SEEC release describing the Energy Bills Relief Act, but the page never names Vasquez; it credits 120 House Democrats led by Casten and Levin. The claim that Vasquez 'leads' or 'champions' the bill is not supported by this page and needs a Vasquez-office source."
+},
+{
+"url": "https://vasquez.house.gov/media/press-releases/rep-vasquez-helps-introduce-bill-ban-scam-advertisements-social-media",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Quote verbatim from Vasquez's Aug 10, 2026 release on the SCAM Act; explicitly says he supports regulating tech companies."
+},
+{
+"url": "https://vasquez.house.gov/media/press-releases/rep-gabe-vasquez-demands-action-social-media-giants-stop-illegal-gun-sales",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-18",
+"note": "Quote verbatim from Sept 18, 2025 release announcing his letter to Meta, Snapchat and Telegram CEOs; page references a March 2025 mass shooting in New Mexico tied to online gun access."
+},
+{
+"url": "https://www.organmountainnews.com/gabe-vasquez-fentanyl-tylers-law-sammys-law-2026/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-06",
+"note": "Quote verbatim; article (July 6, 2026) covers his support of Tyler's Law and Sammy's Law, the latter giving parents tools to monitor kids' social media use. Article frames it as a fentanyl agenda; 'youth violence' is not mentioned."
+},
+{
+"url": "https://vasquez.house.gov/media/press-releases/rep-gabe-vasquez-demands-accountability-data-center-developers-reiterates-new",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-25",
+"note": "Headline quote appears verbatim in the Aug 25, 2026 release."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the nine sourced items concerns AI safety, frontier-model rules, or AI risk; the evidence covers data centers and social media/consumer regulation only. A -1 'Targeted guardrails' score has no supporting source here.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "L000273",
+"checks": [
+{
+"url": "https://fernandez.house.gov/news/documentsingle.aspx?DocumentID=542",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-17",
+"note": "Press release (Nov 17, 2025) on the Integrated Resource Planning Modernization Act; quote appears verbatim, attributed to Leger Fernández. Page frames data center demand as a grid strain driving up household energy costs and calls for better utility planning, matching the claim. Bill number H.R. 5964 not visible in the grepped excerpt but release is about the named bill."
+},
+{
+"url": "https://fernandez.house.gov/news/documentsingle.aspx?DocumentID=542",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-17",
+"note": "Same page; quote verbatim."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "No source in the item list addresses AI risk or safety regulation; the only evidence is a grid-planning press release. Evidence is too thin to assign -1.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No source in the item list addresses Big Tech or tech regulation; evidence is too thin to assign -1 from these sources alone.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

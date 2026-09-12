@@ -1,0 +1,275 @@
+[
+{
+"bioguide": "P000595",
+"checks": [
+{
+"url": "https://rollcall.com/2024/06/25/peters-pitches-ai-legislation-as-model-for-private-sector/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote appears verbatim in Peters' interview quote (page also uses it as the photo caption). Article describes the bill's unacceptable-to-low risk tiers, prohibited uses (social scoring, facial/emotion mapping), pre-deployment testing for high-risk systems, and paraphrases Peters saying voluntary measures alone are not enough and that the standards would be 'a model for other private sector companies to follow'. Dated June 25, 2024."
+},
+{
+"url": "https://www.commerce.senate.gov/press/dem/release/cantwell-commerce-committee-democrats-call-for-regular-order-on-dangerous-and-damaging-commerce-title-of-reconciliation-bill-2025-6/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "commerce.senate.gov returned HTTP 403 on three direct attempts and via WebFetch; Wayback fallback failed (connection refused). Could not verify Peters' signature or the 'tramples states' rights' quote from source."
+},
+{
+"url": "https://unchainedcrypto.com/senate-democrats-demand-hearings-on-uaes-reported-500-million-stake-in-trump-family-crypto-venture/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-23",
+"note": "Page names Peters as one of five senators (Warren, Blumenthal, Peters, Durbin, Wyden) demanding sworn testimony in a Tuesday letter to five committee chairs. The quote appears verbatim, but it is the article's narration of the G42 Blackwell transfer as one of several UAE-benefiting policy decisions, not attributed as letter text or to Peters. The sworn-testimony demand is described as being about payments to the Trump and Witkoff families and foreign influence, so 'treated the chip transfer as a China-diversion risk that deserved sworn testimony' overstates the sourced content. Article published 2026-06-24; letter sent Tuesday (2026-06-23)."
+},
+{
+"url": "https://rollcall.com/2024/06/25/peters-pitches-ai-legislation-as-model-for-private-sector/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-06-25",
+"note": "Headline quote appears verbatim in the article, attributed to Peters in an interview."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "The -2 score rests on a single letter whose source page could not be loaded (403, no mirror), so Peters' signature and the moratorium language are unverified in this pass. Even if confirmed, the 12-signer letter frames the moratorium as trampling states' rights alongside a BEAD-hostage complaint, which supports a states lean rather than a firm 'let states regulate' position from Peters personally.",
+"suggested_score": -1,
+"suggested_label": "Leans states"
+},
+{
+"dimension": "china_chips",
+"objection": "The only china_chips source is a letter primarily about UAE payments to a Trump family crypto venture; the G42/Blackwell China-access concern is article context, not quoted letter text, and no Peters statement on export controls was verified. Evidence is too thin for a hawkish lean.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+},
+{
+"bioguide": "S001208",
+"checks": [
+{
+"url": "https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-12",
+"note": "Quote appears verbatim (followed by '— certainly Michigan —'). She ties the backlash to energy/water draw and AI job fear ('no one knows what these guys are actually about') and offers no policy position on data centers, matching the claim."
+},
+{
+"url": "https://www.slotkin.senate.gov/2026/03/17/slotkin-legislation-puts-common-sense-guardrails-on-dod-ai-use-around-lethal-force-spying-on-americans-and-nuclear-weapons",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "slotkin.senate.gov returned 403 on three direct fetches and via WebFetch; Wayback lookup failed (connection refused). Could not verify the quote or the 'win the AI race against China' framing. The ChinaTalk interview independently corroborates the substance (she describes putting 'left and right guardrails' on DOD AI use and wanting kill-chain rules legislated), but the press release itself was not read."
+},
+{
+"url": "https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and",
+"verdict": "confirmed",
+"corrected_quote": "there shouldn’t be any one Secretary of Defense or any one company deciding the rules of how AI is used in what we would call the kill chain — decisions of life and death",
+"corrected_date": "2026-06-12",
+"note": "Quote verbatim (only apostrophe style differs). She says explicitly 'That should be legislated' in reference to the Anthropic debate and that the NDAA added 'unbelievably rigorous testing' before fielding. Claim fully supported."
+},
+{
+"url": "https://www.defensedaily.com/slotkin-pentagon-should-use-anthropics-mythos-to-spot-cyber-security-gaps/congress/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-04-28",
+"note": "Quote is verbatim in the visible portion; headline and lede say Slotkin wants the Pentagon to use Anthropic's Mythos to find cyber gaps (SASC hearing, Tuesday Apr 28, 2026). Article is paywalled after the first sentences, so the 'even while limiting lethal and surveillance uses' clause is not supported by this page itself (it is supported by the ChinaTalk interview)."
+},
+{
+"url": "https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-12",
+"note": "Quote verbatim; she frames data ownership as 'this body's responsibility' and calls for 'a structure that allows for that'. She also says 'I wrote legislation with Bernie Moreno to ban full Chinese vehicles and to ban the connected parts — the parts that send data back to Beijing', with non-Chinese-dominant joint ventures allowed."
+},
+{
+"url": "https://broadbandbreakfast.com/trump-approves-sale-of-more-advanced-nvidia-computer-chips-used-in-ai-to-china/",
+"verdict": "confirmed",
+"corrected_quote": "Access to these chips would give China’s military transformational technology to make its weapons more lethal, carry out more effective cyberattacks against American businesses and critical infrastructure, and strengthen their economic and manufacturing sector",
+"corrected_date": "2025-12-09",
+"note": "AP story (Josh Boak) republished Dec 9, 2025. Joint statement by eight Democratic senators objecting to the H200 sales; Slotkin is named as a signatory. Item quote is a truncation of the full sentence."
+},
+{
+"url": "https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-12",
+"note": "Quote appears verbatim in her answer on the AI transition."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "B001301",
+"checks": [
+{
+"url": "https://www.washingtonreporter.news/p/exclusive-lawmakers-laud-trump-administrations-ai-genesis-mission",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-27",
+"note": "Page names Bergman among the nine House Republicans on Gooden's letter to Energy Secretary Wright; quote appears verbatim attributed to 'the lawmakers'. Gooden's separate comment frames it as not falling behind the CCP. No safeguards language found. Article dated 2026-03-27."
+},
+{
+"url": "https://thewarhorse.org/ai-veterans-affairs-disability-claims/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-07",
+"note": "Article (published 2026-05-07) says that at an April congressional hearing Bergman mentioned VA has been piloting since Aug 2025 an AI program that uses veterans' medical records to fill out disability benefit questionnaires, reducing in-person doctor visits. Single sentence; the 'positive framing' is an inference but reasonable given context. No direct Bergman quote."
+},
+{
+"url": "https://www.thealpenanews.com/news/local-news/2024/03/congressman-bergman-and-alpena-residents-comment-on-possible-ban-of-tiktok/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-19",
+"note": "Article (March 19, 2024) states Bergman voted in favor of the 352-65 House ByteDance divestiture bill; quote is verbatim, and he adds that through TikTok the CCP can 'push divisive propaganda by manipulating their algorithm while gathering data on millions of Americans', supporting the claim."
+},
+{
+"url": "https://www.thealpenanews.com/news/local-news/2024/03/congressman-bergman-and-alpena-residents-comment-on-possible-ban-of-tiktok/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-19",
+"note": "Quote appears verbatim, attributed to Bergman, dated March 19, 2024."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "None of the four sourced items touch federal preemption of state AI laws; there is no evidence in this file for a 'Leans national rule' score. Unless supporting evidence exists elsewhere, the score should be left unassigned.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "Evidence is thin: a co-signed letter praising DOE's Genesis Mission and a one-sentence hearing mention of a VA AI pilot. Both are pro-adoption with no safeguards language, so +1 'Light touch' is defensible, but neither item addresses AI risk regulation directly. Flagging as low-confidence rather than wrong; keep +1 only if the tracker tolerates inference-based scoring.",
+"suggested_score": 1,
+"suggested_label": "Light touch"
+}
+]
+},
+{
+"bioguide": "M001194",
+"checks": [
+{
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/bipartisan-coalition-introduces-bill-stop-adversaries-gaining-access-advanced",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-05-13",
+"note": "Quote appears verbatim attributed to Chairman Moolenaar; release describes the ENFORCE Act giving BIS export-control authority over AI. Framing is entirely adversary/export-control, consistent with the claim."
+},
+{
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Quote verbatim; Rep. John Moolenaar, MI-02 is listed among the members whose records the ad campaign highlights (page says 12 but lists 11 names). Anthropic backing is not stated on the page itself."
+},
+{
+"url": "https://chinaselectcommittee.house.gov/media/letters/chairmen-moolenaar-garbarino-announce-joint-investigation-into-airbnb-anysphere-and-the-national-security-risks-posed-by-chinese-ai-models",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-29",
+"note": "Quote verbatim from Moolenaar; page announces joint investigation into Chinese open-weight/API models (DeepSeek, Alibaba, Moonshot, MiniMax) used by Airbnb and Anysphere, citing data and hidden-vulnerability risks."
+},
+{
+"url": "https://moolenaar.house.gov/media-center/press-releases/op-ed-social-media-legislation-protects-national-security",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-12",
+"note": "Quote verbatim in his op-ed defending the legislation that would force TikTok to divest from ByteDance/CCP control or face prohibition."
+},
+{
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/tiktok-breaks-commitment-to-publicly-answer-questions-on-its-algorithm-s-ties-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "Quote verbatim. Statement covers algorithm ties to China, Americans' data access, and notes TikTok cited avoiding scrutiny of its child safety practices; says oversight will continue consistent with the Protecting Americans From Foreign Adversary Controlled Applications Act."
+},
+{
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-questions-need-to-be-answered-on-tiktok-deal",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-23",
+"note": "Quote verbatim; statement on the deal built on a ByteDance-licensed algorithm asks whether it ensures China has no influence over the algorithm and whether data is secure."
+},
+{
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Quote verbatim, but the preemption-out-of-NDAA credit is a collective description of the group of Republicans' records ('Their records include...'); the page does not attribute the NDAA preemption work to Moolenaar individually."
+},
+{
+"url": "https://chinaselectcommittee.house.gov/media/letters/moolenaar-warns-against-undermining-us-ai-advantage-in-nvidia-china-review-calls-on-commerce-to-maintain-strong-guardrails-amid-national-security-concerns",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-18",
+"note": "Quote verbatim; page describes his letter opposing the reversal on H20 sales and recommending a 'floating technical benchmark' pegged just above China's existing chip capability."
+},
+{
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-us-winning-the-ai-race-against-weak-chinese-chip-sector",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-16",
+"note": "Quote verbatim from his letter on the H200 decision; page states the Select Committee has requested a Commerce briefing on the analysis behind the decision."
+},
+{
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-nvidia-products-used-by-deepseek-people-s-liberation-army",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-29",
+"note": "Quote verbatim; letter calls rigorous enforcement of the H200 military-use certification essential even if it prevents H200 exports altogether, and recommends tighter restrictions on PRC-origin AI models (DeepSeek, Alibaba, Tencent)."
+},
+{
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-introduces-scale-act-to-create-objective-chip-export-standards",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-21",
+"note": "Quote verbatim; page describes the 110 percent rolling threshold tied to adversaries' domestic production at scale (defined as 25% of annual demand) and a presumption of denial if adversary-controlled AI hardware would exceed 5% of the U.S. AI hardware base."
+},
+{
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-backs-legislation-to-incentivize-whistleblowers-to-sound-alarm-on-chip-smuggling",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim from Chairman Moolenaar; the bill (Stop Stealing Our Chips Act) was introduced by Kean and Johnson; Moolenaar is a backer, not lead sponsor."
+},
+{
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/house-passes-bipartisan-legislation-to-limit-adversaries-remote-access-to-critical-technology",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-12",
+"note": "Quote verbatim; Moolenaar is identified as a cosponsor and says cloud compute should be subject to export control law just like physical chips."
+},
+{
+"url": "https://www.yahoo.com/news/politics/articles/rep-john-moolenaar-urges-trump-180310274.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Quote verbatim (Yahoo/Reuters-sourced); article reports his letter to Commerce's Jeffrey Kessler urging enforcement of the Biden-era due-diligence rule after the Sophgo/Huawei case."
+},
+{
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-backs-legislation-to-incentivize-whistleblowers-to-sound-alarm-on-chip-smuggling",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Headline quote appears verbatim, attributed to Chairman Moolenaar."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "None of the 15 sourced items touches data centers, ratepayers, energy, or siting. The only data-center mention is about Chinese access to chips in overseas data centers (export controls). There is no evidence for a 'Protect ratepayers first' position.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "Every AI item is adversary-facing: export controls on AI systems (ENFORCE Act), restricting Chinese models used by U.S. companies, chip controls. The PFA praise cites only China-focused bills (Chip Security Act, GAIN AI Act, etc.). No source shows a stance on domestic frontier-model safety rules, and item 1's own claim says his framing is 'rather than domestic safety rules.' Evidence is too thin to place him at 'Targeted guardrails' on domestic AI risk.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+}
+]

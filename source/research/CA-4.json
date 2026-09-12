@@ -1,0 +1,463 @@
+[
+{
+"bioguide": "P000197",
+"name": "Nancy Pelosi",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers found as of Sept 2026. She voted against the SPEED Act permitting bill in Dec 2025, but that vote was about environmental review rules in general and she did not tie it to data centers. Her household's 2026 stock disclosures in AI power and data center companies drew press coverage but are not policy positions.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: Nay on H.R. 4776, the SPEED Act (NEPA permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted with most Democrats against a permitting overhaul that backers say would speed energy and infrastructure projects; the vote was not framed around data centers."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "She publicly opposed California's SB 1047 frontier AI safety bill in 2024, calling it well-intentioned but ill informed and warning it would stifle innovation, while saying Congress should decide what standards and guardrails to legislate. She has since criticized misuse of an AI chatbot in a campaign, but has not called for new binding AI safety rules.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Pelosi Statement in Opposition to California Senate Bill 1047",
+"url": "https://pelosi.house.gov/news/press-releases/pelosi-statement-opposition-california-senate-bill-1047",
+"date": "2024-08-16",
+"quote": "The view of many of us in Congress is that SB 1047 is well-intentioned but ill informed.",
+"what_it_shows": "She sided with AI industry critics of the state's binding frontier model safety bill and pointed to Fei-Fei Li's warning that it would stifle innovation."
+},
+{
+"type": "statement",
+"title": "Press release: Pelosi Statement in Opposition to California Senate Bill 1047 (innovation framing)",
+"url": "https://pelosi.house.gov/news/press-releases/pelosi-statement-opposition-california-senate-bill-1047",
+"date": "2024-08-16",
+"quote": "While we want California to lead in AI in a way that protects consumers, data, intellectual property and more, SB 1047 is more harmful than helpful in that pursuit.",
+"what_it_shows": "She frames AI policy around protecting consumers and enabling small entrepreneurs and academia rather than strict rules on advanced models."
+},
+{
+"type": "letter",
+"title": "Letter from Pelosi, Lofgren, Meng, Tokuda, Chu and local officials condemning Scott Wiener's campaign AI chatbot that mimicked Connie Chan (reported by The San Francisco Standard)",
+"url": "https://sfstandard.com/2026/08/06/wiener-built-ai-chatbot-mock-chan-s-politics-pelosi-says-s-sexist-racist/",
+"date": "2026-08-06",
+"quote": "a gross misuse of technology and reflects a disturbing willingness to erase women’s agency",
+"what_it_shows": "She objects to a specific misuse of AI in politics, but the letter is about campaign conduct and does not call for regulation."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "She cosponsored the Kids Online Safety Act, the TikTok divestiture law and a reproductive health data privacy bill in the last Congress, and spoke on the House floor for the TikTok bill. Her record supports targeted rules on platforms and data rather than sweeping Big Tech break-ups.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: 118th H.R. 7891, Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-06-11",
+"quote": null,
+"what_it_shows": "She backed the House version of KOSA requiring apps to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: 118th H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "She backed forcing TikTok's Chinese owner to sell or face a ban."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: 118th H.R. 3420, My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "She supported limits on how apps and companies collect and share reproductive health data."
+},
+{
+"type": "statement",
+"title": "Press release: Pelosi Statement on House Passage of Protecting Americans from Foreign Adversary Controlled Applications Act",
+"url": "https://pelosi.house.gov/news/press-releases/pelosi-statement-house-passage-protecting-americans-foreign-adversary",
+"date": "2024-03-13",
+"quote": "Instead, this legislation would strengthen TikTok: keeping Americans’ data and control of the algorithm out of the hands of a foreign adversary.",
+"what_it_shows": "She framed the TikTok law as a data privacy and national security measure, not a ban."
+},
+{
+"type": "statement",
+"title": "Floor speech: Speaker Emerita Pelosi on the Protecting Americans from Foreign Adversary Controlled Applications Act",
+"url": "https://pelosi.house.gov/news/press-releases/speaker-emerita-pelosi-floor-speech-protecting-americans-foreign-adversary",
+"date": "2024-03-13",
+"quote": "This is not an attempt to ban TikTok. It's an attempt to make TikTok better.",
+"what_it_shows": "She argued for the divestiture requirement while acknowledging the platform's value to young users and businesses."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "She signed the Nov 26, 2025 letter from 81 House Democrats opposing any moratorium on state AI laws in the defense bill and any executive order preempting them. This sits alongside her 2024 push against a specific California AI law on policy grounds, which was not a call for federal preemption.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats to Johnson, Thune, Jeffries and Schumer opposing an AI moratorium in the NDAA and a preemption executive order (Pelosi is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "She joined colleagues in opposing federal efforts to block or pause state AI laws, noting the Senate had rejected the idea 99 to 1."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searches on Pelosi with Nvidia, export controls and chips returned only coverage of her household's stock trades and her 2022 Taiwan trip, not policy statements.",
+"evidence": []
+}
+},
+"signature": "Speaker Emerita who called California's SB 1047 AI safety bill 'well-intentioned but ill informed' while backing KOSA, the TikTok divestiture law and states' right to keep their own AI laws.",
+"notable_quote": {
+"text": "The view of many of us in Congress is that SB 1047 is well-intentioned but ill informed.",
+"url": "https://pelosi.house.gov/news/press-releases/pelosi-statement-opposition-california-senate-bill-1047",
+"date": "2024-08-16"
+},
+"groups": [],
+"search_notes": "Ran about 12 Google News queries (Pelosi + artificial intelligence, AI regulation, data centers, chatbot, Nvidia/export controls, Section 230/antitrust/KOSA, executive order/preemption, TikTok, 2025-2026 AI remarks) plus a Wayback listing of pelosi.house.gov since 2023. Opened and quoted her SB 1047 statement, TikTok floor speech and passage statement, and the SF Standard report of her letter on Wiener's chatbot. Downloaded the Matsui letter PDF and confirmed her name on the signer list; checked the Clarke letter signer list (not a signer). Verified her SPEED Act Nay on GovTrack. Most 2026 coverage concerned her Bloom Energy, Intel and Nvidia stock disclosures and the race to succeed her (she is retiring); no data center or chip policy statements surfaced. Politico and SF Examiner pages were blocked; Google's link decoder was rate-limited, so the SF Chronicle piece on the succession race was not opened."
+},
+{
+"bioguide": "S001231",
+"name": "Lateefah Simon",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "She cosponsored two bills requiring data center builders to disclose impacts on local power, water and bills, and voted against the SPEED Act permitting bill. At an August 2026 town hall she declined to endorse a ban, saying it is 'not a yes or no question,' while insisting projects use renewable energy, serve residents and that moratorium proposals deserve review.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7858, Data Center Community Impact Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7858",
+"date": "2026-04-23",
+"quote": null,
+"what_it_shows": "She backed requiring data center developers to show how projects affect nearby towns' power, water and bills."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8488, AI Data Center Site Selection Transparency Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8488",
+"date": "2026-09-04",
+"quote": null,
+"what_it_shows": "She backed forcing companies to tell the public more about where they plan to build AI data centers and the local impact."
+},
+{
+"type": "vote",
+"title": "Roll call 356: Nay on H.R. 4776, the SPEED Act (NEPA permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She opposed the permitting overhaul that industry says would speed energy and data center buildout."
+},
+{
+"type": "interview",
+"title": "The Daily Californian: Congresswoman Lateefah Simon declines to support data center ban (Alameda town hall)",
+"url": "https://www.dailycal.org/news/national/it-s-not-a-yes-or-no-question-congresswoman-lateefah-simon-declines-to-support-data/article_c2fde2ca-ffa6-4fb7-b8f6-f5f9ca8b5739.html",
+"date": "2026-08-24",
+"quote": "So if we’re gonna have a technology infrastructure in the Bay Area, it better serve the people, and it better not be extracted. I think reviewing proposals around moratoriums is really important.",
+"what_it_shows": "She would not back an outright ban on data centers but wants renewable power, community benefit and is open to reviewing moratorium proposals."
+},
+{
+"type": "interview",
+"title": "The Daily Californian: Simon on shutting down existing Berkeley data centers",
+"url": "https://www.dailycal.org/news/national/it-s-not-a-yes-or-no-question-congresswoman-lateefah-simon-declines-to-support-data/article_c2fde2ca-ffa6-4fb7-b8f6-f5f9ca8b5739.html",
+"date": "2026-08-24",
+"quote": "Do we shut down Berkeley’s data centers? I don’t think so,",
+"what_it_shows": "She distinguishes between blocking all facilities and demanding conditions like renewable energy from beginning to end."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "She cosponsored bills banning AI-driven price and wage discrimination and outlawing AI-made voting lies before elections, and told a reporter she is concerned about a lack of guardrails around AI. No statements found on frontier AI safety testing, licensing or existential risk.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-07-25",
+"quote": null,
+"what_it_shows": "She backed banning companies from using AI and personal data to charge people different prices or pay workers different wages."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4894, Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "She backed making it illegal to spread lies about voting, including AI-made fake content, before federal elections."
+},
+{
+"type": "interview",
+"title": "The Daily Californian: Simon lists her concerns about the AI buildout",
+"url": "https://www.dailycal.org/news/national/it-s-not-a-yes-or-no-question-congresswoman-lateefah-simon-declines-to-support-data/article_c2fde2ca-ffa6-4fb7-b8f6-f5f9ca8b5739.html",
+"date": "2026-08-24",
+"quote": null,
+"what_it_shows": "The paper reports she is primarily concerned with gentrification, a lack of guardrails around AI and resource overextraction."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Her record points to targeted data protections: she cosponsored the AI price gouging bill that restricts use of personal data, and voted against FISA Section 702 reauthorization citing data brokers exploiting Americans' personal data. No statements found on Section 230, antitrust or kids online safety bills.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-07-25",
+"quote": null,
+"what_it_shows": "The bill limits how companies use personal data in pricing and pay."
+},
+{
+"type": "statement",
+"title": "Press release: Congresswoman Simon Votes NO on FISA Reauthorization",
+"url": "https://simon.house.gov/media/press-releases/congresswoman-simon-votes-no-fisa-reauthorization",
+"date": "2026-04-30",
+"quote": "This bill does not include any meaningful guardrails to protect Americans’ Fourth Amendment rights, including from data brokers seeking to exploit Americans’ personal data.",
+"what_it_shows": "She ties surveillance reform to reining in the data broker industry, a privacy-first stance."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption of state AI laws as of Sept 2026. She did not sign the Nov 2025 Matsui letter (81 signers) or the Dec 2025 Clarke letter (44 signers), and no statement on the Dec 2025 executive order or the Mar 2026 White House framework surfaced.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026.",
+"evidence": []
+}
+},
+"signature": "Oakland freshman who backs data center transparency bills and says a ban is 'not a yes or no question' while demanding renewable power and community benefit.",
+"notable_quote": {
+"text": "So if we’re gonna have a technology infrastructure in the Bay Area, it better serve the people, and it better not be extracted. I think reviewing proposals around moratoriums is really important.",
+"url": "https://www.dailycal.org/news/national/it-s-not-a-yes-or-no-question-congresswoman-lateefah-simon-declines-to-support-data/article_c2fde2ca-ffa6-4fb7-b8f6-f5f9ca8b5739.html",
+"date": "2026-08-24"
+},
+"groups": [],
+"search_notes": "Ran about 10 Google News queries (Simon + AI, data centers, Big Tech/Section 230/surveillance, chatbot/deepfake/preemption, Oakland data center, AI workers, SBA AI bills) plus Wayback listing of simon.house.gov and her Tech issues, press release and In the News pages. Opened her FISA statement and tech page; found and quoted the Aug 24, 2026 Daily Californian town hall interview via Bing News. Verified her SPEED Act Nay on GovTrack and confirmed she is on neither the Matsui nor Clarke preemption letters. Could not open a KQED Aug 19, 2026 piece on Bay Area lawmakers calling Meta's content moderation inadequate, a GovTech Sept 1, 2026 piece on Oakland data center backlash, or FedScoop coverage of House SBA AI reporting bills (Google link decoder rate-limited; other search engines blocked), so whether she signed the Meta letter or sponsored an SBA AI bill is unverified. Her May 2026 small business cybersecurity bill press release was cited by the Daily Cal as motivated by AI but the page returned 404."
+},
+{
+"bioguide": "G000605",
+"name": "Adam Gray",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "He has no direct statement on data centers, but his record leans toward building: he was one of a handful of Democrats to vote for the SPEED Act permitting overhaul, he introduced his own permitting bills (HEATS Act, CURRENT Act) aimed at cheaper and faster energy projects, and he cosponsored a bill to help rural areas host AI computing with cheap local power.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: Yea on H.R. 4776, the SPEED Act (NEPA permitting reform), one of few Democrats",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He broke with most Democrats to back faster federal permitting that industry wants for energy and data center projects."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5227, Unleashing Low-Cost Rural AI Act (Costa)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5227",
+"date": "2025-10-21",
+"quote": null,
+"what_it_shows": "He backed a study on helping rural areas host AI computing using cheap local energy and on the energy, water and cost impacts."
+},
+{
+"type": "statement",
+"title": "Press release: Gray introduces bipartisan CURRENT Act to speed up Central Valley infrastructure projects",
+"url": "https://gray.house.gov/media/press-releases/gray-introduces-bipartisan-bill-speed-central-valley-infrastructure-projects",
+"date": "2026-07-22",
+"quote": "For too long, the State of California has used the Section 401 process under the Clean Water Act to hold up critical permits in the Central Valley,",
+"what_it_shows": "He wants to limit state use of Clean Water Act permitting to delay energy and transmission projects; a supporting group's quote in the release ties the bill to the 'race for AI.'"
+},
+{
+"type": "statement",
+"title": "Press release: Reps. Gray and Kim introduce the HEATS Act on geothermal permitting",
+"url": "https://gray.house.gov/media/press-releases/reps-gray-and-kim-introduce-bipartisan-bill-secure-reliable-clean-energy-and",
+"date": "2025-09-26",
+"quote": "California’s energy prices are too high thanks to burdensome state and local regulations,",
+"what_it_shows": "His energy message is about cutting regulation to lower prices and add supply, not about limiting large power users."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on AI safety, chatbots, deepfakes or AI rules as of Sept 2026. He voted for the FY27 defense bill that carried AI provisions, but that vote was about the defense bill as a whole.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 278: Yea on H.R. 8800, FY2027 National Defense Authorization Act (includes AGI Preparedness Initiative and AI incident reporting provisions)",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h278",
+"date": "2026-07-22",
+"quote": null,
+"what_it_shows": "One of six Democrats to back the House defense bill; the vote does not show a specific position on AI risk."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on Big Tech, Section 230, privacy or kids online safety as of Sept 2026.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption of state AI laws. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter, and no statement on the executive order or White House framework surfaced.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026.",
+"evidence": []
+}
+},
+"signature": "Central Valley moderate focused on permitting reform and lower energy costs, one of few Democrats to back the SPEED Act; no direct AI statements found.",
+"notable_quote": {
+"text": "California’s energy prices are too high thanks to burdensome state and local regulations,",
+"url": "https://gray.house.gov/media/press-releases/reps-gray-and-kim-introduce-bipartisan-bill-secure-reliable-clean-energy-and",
+"date": "2025-09-26"
+},
+"groups": [],
+"search_notes": "Ran about 10 Google News queries (Gray + AI, data centers, electricity/ratepayers, SPEED Act/permitting/AI PACs, Nvidia/Big Tech/KOSA, Merced/Modesto tech, agriculture AI, CA-13 data centers) plus Wayback listing of gray.house.gov and scans of his press release and In the News pages. Opened his HEATS Act and CURRENT Act releases and a Stocktonia campaign overview (no AI or data center content). Verified his SPEED Act Yea and NDAA Yea on GovTrack; confirmed he is on neither preemption letter. No AI super PAC support or attacks found. A GV Wire piece on his NDAA vote and a Merced FOCUS column on his votes could not be opened (403 and unresolved URL)."
+},
+{
+"bioguide": "W000832",
+"name": "Aisha Wahab",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers found as of Sept 2026; she was sworn in on Sept 2, 2026 and has no federal record yet. As a state senator she pushed a 2025 bill to cap investor-owned utility rate increases, but it was about affordability generally and did not mention data centers.",
+"evidence": [
+{
+"type": "other",
+"title": "State Senate bill: Wahab introduces SB 332, Investor-Owned Utility Accountability Act, to cap utility rate increases (reported by Contra Costa News)",
+"url": "https://contracosta.news/2025/02/14/wahab-bill-would-limit-rate-increases-for-investor-owned-utilities/",
+"date": "2025-02-14",
+"quote": "This bill gives power back to the people on rates, safety, and holds investor-owned utilities accountable,",
+"what_it_shows": "She prioritizes household electric bills over utility profits, but the bill did not address data center load or cost allocation."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "As a state senator she wrote a three-bill 2024 AI safety package on AI-made sexual images, platform takedown mechanisms and AI child abuse material, all signed into law. She also voted for California's binding frontier model bills SB 1047 (2024) and SB 53 (2025) and says the goal is to balance guardrails with innovation.",
+"evidence": [
+{
+"type": "other",
+"title": "Governor Newsom's Sept 29, 2024 signing release listing SB 926, SB 981 and SB 1381 by Senator Aisha Wahab",
+"url": "https://www.gov.ca.gov/2024/09/29/governor-newsom-announces-new-initiatives-to-advance-safe-and-responsible-ai-protect-californians/",
+"date": "2024-09-29",
+"quote": "Requires social media platforms to establish a mechanism for reporting and removing “sexually explicit digital identity theft.”",
+"what_it_shows": "Her three laws criminalize AI-generated sexual deepfakes, force platforms to remove them and extend child pornography law to AI-generated images."
+},
+{
+"type": "other",
+"title": "California Legislature vote record: Wahab voted Aye on SB 1047 (frontier AI safety bill) on Senate passage and concurrence",
+"url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB1047",
+"date": "2024-08",
+"quote": null,
+"what_it_shows": "She supported binding safety testing and liability rules for the largest AI models, the bill Newsom later vetoed."
+},
+{
+"type": "other",
+"title": "California Legislature vote record: Wahab voted Aye on SB 53 (frontier AI transparency law) on Senate passage and concurrence",
+"url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB53",
+"date": "2025-09",
+"quote": null,
+"what_it_shows": "She supported the state's frontier AI transparency and incident reporting law that Newsom signed."
+},
+{
+"type": "statement",
+"title": "Statement on the Senate stripping the 10-year state AI law moratorium from the reconciliation bill (reported by San José Spotlight / NOTUS)",
+"url": "https://sanjosespotlight.com/california-lawmakers-celebrate-ai-moratorium-stripped-from-bill/",
+"date": "2025-07-02",
+"quote": "Technology evolves at a faster pace than we can legislate, and an AI moratorium would have stifled California’s ability to establish necessary oversight of AI and all the technologies it is embedded in,",
+"what_it_shows": "She wants ongoing government oversight of AI and says the aim is to balance necessary guardrails while encouraging innovation."
+},
+{
+"type": "other",
+"title": "Tech Times profile: Aisha Wahab Wins Congress: First Afghan American With Signed AI Safety Laws",
+"url": "https://www.techtimes.com/articles/325243/20260823/aisha-wahab-wins-congress-first-afghan-american-signed-ai-safety-laws.htm",
+"date": "2026-08-23",
+"quote": null,
+"what_it_shows": "The profile describes her 2024 AI Safety Package (SB 926, SB 981, SB 1381) and 2025 consumer bills on algorithm-driven pricing as her main tech record entering Congress."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Her state record favors targeted rules on platforms and data: her SB 981 forces social media companies to build reporting and removal systems for sexual deepfakes, and she chaired the Senate business committee where she passed 2025 consumer protection bills on hidden and algorithm-driven pricing, including a bill to stop retailers from using phone data to raise prices.",
+"evidence": [
+{
+"type": "other",
+"title": "Governor Newsom's Sept 29, 2024 signing release: SB 981 (Digital Identity Theft) by Senator Aisha Wahab",
+"url": "https://www.gov.ca.gov/2024/09/29/governor-newsom-announces-new-initiatives-to-advance-safe-and-responsible-ai-protect-californians/",
+"date": "2024-09-29",
+"quote": "Requires social media platforms to establish a mechanism for reporting and removing “sexually explicit digital identity theft.”",
+"what_it_shows": "She imposed a new duty on platforms to act on victim reports."
+},
+{
+"type": "other",
+"title": "Tech Times profile on her 2025 algorithmic pricing consumer protection bills",
+"url": "https://www.techtimes.com/articles/325243/20260823/aisha-wahab-wins-congress-first-afghan-american-signed-ai-safety-laws.htm",
+"date": "2026-08-23",
+"quote": null,
+"what_it_shows": "The profile reports she passed two 2025 consumer protection bills targeting hidden, unfair and algorithm-driven pricing tactics."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "As a state senator she signed a May 2025 letter from California legislators asking Congress to strike the 10-year moratorium on state AI laws and celebrated when the Senate removed it, saying a moratorium would have stifled California's ability to oversee AI. No federal statements yet since taking office in Sept 2026.",
+"evidence": [
+{
+"type": "letter",
+"title": "California legislators' May 2025 letter to Congress opposing the state AI law moratorium and Wahab's July 2025 statement (San José Spotlight / NOTUS)",
+"url": "https://sanjosespotlight.com/california-lawmakers-celebrate-ai-moratorium-stripped-from-bill/",
+"date": "2025-07-02",
+"quote": "Technology evolves at a faster pace than we can legislate, and an AI moratorium would have stifled California’s ability to establish necessary oversight of AI and all the technologies it is embedded in,",
+"what_it_shows": "She opposed the federal moratorium on state AI laws and wants states like California to keep regulating."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026.",
+"evidence": []
+}
+},
+"signature": "Newly sworn-in former state senator who wrote California's 2024 AI deepfake laws, voted for SB 1047 and SB 53, and fought the federal moratorium on state AI laws.",
+"notable_quote": {
+"text": "Technology evolves at a faster pace than we can legislate, and an AI moratorium would have stifled California’s ability to establish necessary oversight of AI and all the technologies it is embedded in,",
+"url": "https://sanjosespotlight.com/california-lawmakers-celebrate-ai-moratorium-stripped-from-bill/",
+"date": "2025-07-02"
+},
+"groups": [],
+"search_notes": "She took office Sept 2, 2026 after a special election, so all evidence is from her California Senate record. Ran about 10 Google News queries (Wahab + AI, data centers/Congress, state AI bills, surveillance/dynamic pricing, chatbot/deepfake/Big Tech, AI super PACs, utility rates, SB 1047/SB 53) plus Bing News lookups. Opened the Tech Times profile, Newsom's Sept 2024 signing release (confirms SB 926, SB 981, SB 1381 are hers), leginfo vote records for SB 1047 and SB 53, the San José Spotlight moratorium story, the Contra Costa News SB 332 story, the Pleasanton Weekly candidate forum (no AI remarks from her) and the Democracy Now interview (no tech content). Could not open the Mercury News primary questionnaire, KCRA transition interview (video) or CalMatters/ABC7 surveillance pricing stories, so the 2025 pricing bill numbers are unverified (SB 259 turned out to be an elections bill). No AI super PAC spending for or against her found; outside spending in her race came from AIPAC-linked groups."
+}
+]
