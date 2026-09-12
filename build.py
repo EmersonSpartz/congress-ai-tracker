@@ -156,7 +156,7 @@ def validate_member(r, roster, src):
     quote = None
     if isinstance(q, dict) and isinstance(q.get('text'), str) and q['text'].strip() and safe_url(q.get('url')):
         quote = {'text': clean(q['text'].strip())[:400], 'date': norm_date(q.get('date')), 'url': safe_url(q['url'])}
-    groups = [clean(str(g))[:90] for g in (r.get('groups') or []) if isinstance(g, str) and g.strip()] if isinstance(r.get('groups'), list) else []
+    groups = [clean(str(g))[:90] for g in (r.get('groups') or []) if isinstance(g, str) and g.strip() and not re.search(r'endors|super pac|\bpac\b|leading the future|public first', g, re.I)] if isinstance(r.get('groups'), list) else []
     sig = r.get('signature') if isinstance(r.get('signature'), str) else None
     if sig and re.match(r'^\s*no notable', sig, re.I): sig = None
     return {'bioguide': bg, 'positions': out_pos, 'signature': clean(sig)[:300] if sig else None, 'quote': quote, 'groups': groups}
@@ -282,6 +282,10 @@ def main():
                 dropped_here = 0
                 for e in rp['evidence']:
                     e = dict(e)
+                    if e['type'] in ('sponsor','cosponsor') and not bill_id_from_url(e['url']):
+                        e['type'] = 'statement'   # a press release about a bill is a statement, checked like one
+                    if e['type'] == 'vote' and not re.search(r'govtrack\.us/congress/votes/', e['url']):
+                        e['type'] = 'statement'
                     if e['type'] in ('sponsor','cosponsor'):
                         bid = bill_id_from_url(e['url'])
                         if not bid or bid not in role_of:
@@ -322,6 +326,10 @@ def main():
                     obj = objections.get(key)
                     if obj:
                         sug = coerce_score(obj.get('suggested_score')) if obj.get('suggested_score') is not None else None
+                        lab = (obj.get('suggested_label') or '').strip().lower()
+                        lab_score = next((sc for sc, name in d['scale'].items() if name.lower() == lab), None)
+                        if lab_score is not None: sug = lab_score          # the label is authoritative over the number (sign mistakes)
+                        elif sug is not None and lab: sug = None           # number without a recognisable label: do not trust it
                         if sug is not None and sug != score:
                             score = sug
                             if conf == 'high': conf = 'medium'

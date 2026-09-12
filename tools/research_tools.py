@@ -47,7 +47,7 @@ def _throttle(host, min_gap):
         finally:
             fcntl.flock(f, fcntl.LOCK_UN)
 
-HOST_GAP = {'news.google.com': 1.2, 'web.archive.org': 0.7, 'archive.org': 0.7}
+HOST_GAP = {'news.google.com': 0.6, 'web.archive.org': 0.7, 'archive.org': 0.7}
 
 def _get(url, timeout=30, tries=3, accept=None):
     """Return (status, final_url, content_type, bytes). Raises on total failure."""
