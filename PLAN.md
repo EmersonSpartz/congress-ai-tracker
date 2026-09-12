@@ -29,3 +29,10 @@ Static, vanilla JS, hash routes for member pages. Sections: hero + stat tiles; f
 Colors: guardrails teal, hands-off orange, validated with dataviz validator in light and dark.
 Repo: ~/Downloads/congress-ai-tracker -> github.com/EmersonSpartz/congress-ai-tracker (Pages serves docs/ on main) -> https://emersonspartz.github.io/congress-ai-tracker/ ; local preview: python3 -m http.server 8812 in docs/
 Gates: verify.sh, qa-verifier agent, deep review agent, bug-retros entry, Chrome screenshot of deployed page.
+
+
+## Status at end of build session (2026-09-12)
+All 539 members researched; 526 fact-checked (13 had only official-record evidence, nothing to check). Evidence: {'confirmed': 3438, 'partially_supported': 277, 'record': 3759, 'landscape': 276, 'unreachable': 71, 'unchecked': 9}. Activity: {'Leader': 85, 'Active': 188, 'Some': 262, 'Quiet': 4}.
+Runs: landscape 17 agents; classification 44; research 104 original groups (42 succeeded first pass, 62 stalled on long Bash calls and were regrouped into 109 groups of <=4 and re-run cleanly); catch-up fact-checks 6. Workflow journals live under ~/.claude/projects/-Users-emersonspartz-Downloads/<session>/subagents/workflows/.
+Known gaps: 9 statement items still 'unchecked'; 71 sources unreachable to the checker (mostly senate.gov Akamai blocks); 3 members researched twice (VT), later file wins.
+To refresh: re-download BILLSTATUS zips + roster, rerun index scripts, rebuild; for positions, rerun the research workflow for changed members only.
