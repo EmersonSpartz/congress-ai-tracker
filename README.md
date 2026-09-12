@@ -6,8 +6,8 @@ Live site: https://emersonspartz.github.io/congress-ai-tracker/
 
 ## How it is built
 - `source/` holds the inputs: the congressional roster (unitedstates/congress-legislators), official bill data (govinfo BILLSTATUS bulk XML for the 118th and 119th Congress), roll-call votes (House Clerk, Senate via GovTrack), agent-classified bill topics, and per-member researched positions with fact-check verdicts.
-- `build.py` merges everything into `site/data.json`.
-- `site/` is a static site (vanilla JS) served by GitHub Pages.
+- `build.py` merges everything into `docs/data.json`.
+- `docs/` is a static site (vanilla JS) served by GitHub Pages.
 - `verify.sh` checks the build, the data, and the deployed site.
 
 ## Report an error

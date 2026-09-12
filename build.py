@@ -17,7 +17,7 @@ import json, os, glob, re, shutil, collections, datetime, sys
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(ROOT, 'source')
-SITE = os.path.join(ROOT, 'site')
+SITE = os.path.join(ROOT, 'docs')
 
 def load(name, default=None):
     p = os.path.join(SRC, name)
@@ -251,7 +251,7 @@ def main():
     }
     with open(os.path.join(SITE, 'data.json'), 'w') as f:
         json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
-    print(f"wrote site/data.json: {len(out_members)} members, {len(bills_out)} bills, {len(votes_out)} key votes, {len(research)} researched, {len(verification)} verified")
+    print(f"wrote docs/data.json: {len(out_members)} members, {len(bills_out)} bills, {len(votes_out)} key votes, {len(research)} researched, {len(verification)} verified")
     print('stats', json.dumps(stats))
 
 if __name__ == '__main__':

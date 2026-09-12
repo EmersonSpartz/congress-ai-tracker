@@ -14,7 +14,7 @@ python3 build.py > /tmp/cat-build.log 2>&1 && ok "build.py runs ($(tail -2 /tmp/
 echo "== 2. data.json integrity"
 python3 - <<'EOF' || FAIL=1
 import json, sys, collections, re
-d = json.load(open('site/data.json'))
+d = json.load(open('docs/data.json'))
 ms = d['members']; errs = []
 if not (530 <= len(ms) <= 541): errs.append(f'member count {len(ms)}')
 sen = sum(1 for m in ms if m['chamber']=='Senate')
@@ -49,9 +49,9 @@ print('  PASS  data.json integrity')
 EOF
 
 echo "== 3. front-end static checks"
-node --check site/app.js && ok "app.js parses" || bad "app.js syntax"
-grep -q '—\|—' site/index.html site/app.js && bad "em dash in site copy" || ok "no em dashes in site copy"
-for f in site/index.html site/styles.css site/app.js site/data.json; do [ -s "$f" ] && ok "$f present" || bad "$f missing"; done
+node --check docs/app.js && ok "app.js parses" || bad "app.js syntax"
+grep -q '—\|—' docs/index.html docs/app.js && bad "em dash in site copy" || ok "no em dashes in site copy"
+for f in docs/index.html docs/styles.css docs/app.js docs/data.json; do [ -s "$f" ] && ok "$f present" || bad "$f missing"; done
 
 echo "== 4. deployed site (${URL})"
 code=$(curl -s -o /tmp/cat-index.html -w "%{http_code}" "$URL")
@@ -60,7 +60,7 @@ grep -q 'Where Congress Stands on AI' /tmp/cat-index.html && ok "title present" 
 dcode=$(curl -s -o /tmp/cat-data.json -w "%{http_code}" "${URL%/}/data.json")
 [ "$dcode" = "200" ] && ok "data.json 200" || bad "data.json HTTP $dcode"
 python3 -c "import json;d=json.load(open('/tmp/cat-data.json'));print('  info  deployed generated', d['generated'], len(d['members']), 'members')" 2>/dev/null || bad "deployed data.json unparsable"
-local_gen=$(python3 -c "import json;print(json.load(open('site/data.json'))['generated'])")
+local_gen=$(python3 -c "import json;print(json.load(open('docs/data.json'))['generated'])")
 remote_gen=$(python3 -c "import json;print(json.load(open('/tmp/cat-data.json'))['generated'])" 2>/dev/null)
 [ "$local_gen" = "$remote_gen" ] && ok "deployed data matches local build ($local_gen)" || echo "  WARN  deployed data ($remote_gen) differs from local ($local_gen): deploy pending?"
 pcode=$(curl -s -o /dev/null -w "%{http_code}" "${URL%/}/photos/H001089.jpg")
@@ -69,7 +69,7 @@ pcode=$(curl -s -o /dev/null -w "%{http_code}" "${URL%/}/photos/H001089.jpg")
 echo "== 5. sample source links reachable (10 random evidence URLs)"
 python3 - <<'EOF'
 import json, random, urllib.request
-d = json.load(open('site/data.json'))
+d = json.load(open('docs/data.json'))
 urls = sorted({e['url'] for m in d['members'] for p in m['positions'].values() for e in p['evidence'] if e['type'] not in ('sponsor','cosponsor','vote')})
 random.seed(7); sample = random.sample(urls, min(10, len(urls)))
 bad = 0
