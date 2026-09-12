@@ -1,0 +1,195 @@
+[
+{
+"bioguide": "M001228",
+"checks": [
+{
+"url": "https://www.kuer.org/politics-government/2026-06-01/rural-utah-takes-center-stage-as-maloy-lyman-battle-for-3rd-district-gop-nomination",
+"verdict": "confirmed",
+"corrected_quote": "But in order to build data centers in Utah, we've got to make sure that we're siting them where people want them, and we're building the type that match our resources",
+"corrected_date": "2026-06-01",
+"note": "Quote appears verbatim (article's sentence begins with 'But'). Article confirms dismay at Box Elder County process and that she argued water-scarce Utah could support air-cooled projects relying on power generation. Debate held June 1, 2026; article dated June 2."
+},
+{
+"url": "https://maloy.house.gov/news/documentsingle.aspx?DocumentID=2113",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Quote verbatim. Release states bill applies only to developers that invested at least $2 billion in AI over the previous five years, who must give National Labs secure access to evaluate models for leaking nuclear information, bypassing safety guardrails, deceptive behavior, or unpredictable behavior."
+},
+{
+"url": "https://maloy.house.gov/news/documentsingle.aspx?DocumentID=1798",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim, attributed to Maloy. Release says bill conditions Section 230 protections on a duty of care (respond to victim reports, investigate, remove) and 'clarifies that AI-generated content does not qualify for Section 230 immunity.'"
+},
+{
+"url": "https://www.deseret.com/politics/2026/06/09/anthropic-pac-public-first-and-openai-pac-leading-the-future-are-pouring-money-into-utah-congressional-primaries/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-09",
+"note": "Quote verbatim. Article confirms Defending Our Values is the Republican PAC funded by Public First (Anthropic-backed) and that Stewart said Maloy 'was interviewed like any other candidate about her stance on AI legislation before the PAC endorsed her.' Public First's stated purpose is federal AI guardrails (privacy, child protection, pre-release model testing), and the article frames the spending as backing 'lawmakers who feel the same way.' The 'signals she favors guardrails' part is the article's inference via Stewart, not a Maloy quote; Maloy's own statement only says her campaign cannot coordinate with outside groups. Note the PAC is described as neutral on data centers."
+},
+{
+"url": "https://maloy.house.gov/news/documentsingle.aspx?DocumentID=1798",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim. Release confirms the bill 'incorporates the notice and removal framework from the Take It Down Act' and is scoped to cyberstalking and abusive deepfakes."
+},
+{
+"url": "https://www.kuer.org/politics-government/2026-06-01/rural-utah-takes-center-stage-as-maloy-lyman-battle-for-3rd-district-gop-nomination",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-01",
+"note": "Both sentences appear verbatim, attributed to Rep. Maloy at the June 1, 2026 debate."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "K000403",
+"checks": [
+{
+"url": "https://mikekennedy.house.gov/media/press-releases/rep-kennedy-introduces-bipartisan-energy-legislation-unleash-american-energy",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-30",
+"note": "Quote appears verbatim. Page (Sept 30, 2025) covers Co-Location Energy Act, Protect Consumers from Reallocation Costs Act, Geothermal Royalty Act; no mention of data centers anywhere, as the claim says. Supports permitting-speed stance only, not a data-center position."
+},
+{
+"url": "https://americanbazaaronline.com/2025/04/15/congressman-mike-kennedy-ai-can-transform-healthcare-but-regulation-must-be-precise-461775/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-15",
+"note": "Quote verbatim; article frames him as enthusiastic about AI in medicine/telemedicine while cautioning lawmakers to proceed carefully with regulation."
+},
+{
+"url": "https://www.pymnts.com/cpi-posts/utah-wants-to-solve-washingtons-ai-deadlock-heres-how/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-09",
+"note": "Quote verbatim (told Deseret News). Page says he met Gov. Cox and legislative leaders earlier that month to bring the sandbox model to Washington, in the context of Trump's call for preemptive federal AI legislation."
+},
+{
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Quote verbatim and 'Rep. Mike Kennedy, UT-04' is listed among the members (page mislabels district; he is UT-03; list shows only 11 names despite saying 12). The page does not mention Anthropic anywhere, so the 'Anthropic-backed' descriptor is not supported by this source."
+},
+{
+"url": "https://mikekennedy.house.gov/media/press-releases/utah-rep-mike-kennedy-introduces-algorithm-accountability-act-protect-families",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-21",
+"note": "Quote verbatim. Page says bill 'modernizes Section 230' and creates a duty of care plus a civil right of action; includes endorsement quotes from Gov. Cox and Sen. Curtis (co-lead is Rep. April McClain Delaney)."
+},
+{
+"url": "https://mikekennedy.house.gov/media/press-releases/congressman-mike-kennedy-introduces-bill-ban-sale-data-obtained-smart-meters",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-04",
+"note": "Quote verbatim; he calls it 'Americans' right to privacy' and the bill restricts utility data use, bans sale/sharing, and requires FTC reporting. Bipartisan with Rep. Josh Riley."
+},
+{
+"url": "https://www.notus.org/technology/republicans-trump-ai-agenda",
+"verdict": "confirmed",
+"corrected_quote": "I see the potency of states in their ability to regulate the more nuanced fashion. And yes, they can make mistakes, but they could also show the federal government good policy that actually empowers AI but also regulates in a healthy fashion.",
+"corrected_date": "2025-12-18",
+"note": "NOTUS URL now redirects to washingtonsun.com (same article, Dec 18, 2025). Quote is two consecutive sentences joined by an ellipsis; otherwise verbatim. Article is about fallout from Trump's EO 'last week' targeting state AI laws."
+},
+{
+"url": "https://www.pymnts.com/cpi-posts/utah-wants-to-solve-washingtons-ai-deadlock-heres-how/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-09",
+"note": "Quote verbatim. Page says Trump called for preemption legislation in March 'but the proposal has gone nowhere', matching the 'stalled' claim."
+},
+{
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Quote verbatim; the NDAA anti-preemption work is described collectively for the listed members, not attributed to Kennedy individually, exactly as the claim states."
+},
+{
+"url": "https://www.notus.org/technology/republicans-trump-ai-agenda",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Verbatim on the page (via washingtonsun.com redirect)."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only data_centers source is an energy-permitting press release that, per the item's own claim, never mentions data centers, AI compute load, or ratepayer protections tied to them. A general 'cut permitting red tape' statement is too thin to place him at +1 'Build with conditions'; no data-center position is evidenced.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "O000086",
+"checks": [
+{
+"url": "https://begich.house.gov/media/press-releases/congressman-begich-leads-legislation-lower-energy-costs-introduces-house",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-21",
+"note": "Page (Apr 21, 2026) names Owens as co-introducer with Begich and Crenshaw and attributes the quote to 'Congressman Owens' verbatim. Bill lets energy-intensive users build isolated off-grid 'grid-of-one' power; framing is deregulatory/AI-race."
+},
+{
+"url": "https://begich.house.gov/media/press-releases/congressman-begich-leads-legislation-lower-energy-costs-introduces-house",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-21",
+"note": "Quote appears verbatim in Owens's attributed statement; background section confirms the bill's premise is that self-contained industrial power keeps household rates from rising."
+},
+{
+"url": "https://edworkforce.house.gov/calendar/?page=2",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-03",
+"note": "Calendar lists 'Building an AI-Ready America: Higher Education in the Age of AI', Subcommittee on Higher Education and Workforce Development, June 3, 2026, 10:15 AM. The page does not name Owens; his chairmanship of that subcommittee is confirmed separately by an Aug 5, 2026 owens.house.gov release, but nothing here shows his remarks or framing. Paginated calendar URL will drift; link the hearing page instead."
+},
+{
+"url": "https://begich.house.gov/media/press-releases/congressman-begich-leads-legislation-lower-energy-costs-introduces-house",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-21",
+"note": "Verbatim opening sentence of Owens's quote. Note this is about data-center power policy, not AI safety rules; it is weak evidence for an ai_risk position."
+},
+{
+"url": "https://owens.house.gov/big-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim. Page lists leading the ACCESS Act and cosponsoring Foreign Merger Subsidy Disclosure Act, Ending Platform Monopolies Act, State Antitrust Enforcement Venue Act of 2021, EARN IT Act, and Journalism Competition and Preservation Act of 2021. Undated; content reflects the 117th Congress (2021-22)."
+},
+{
+"url": "https://owens.house.gov/posts/owens-joins-freedom-from-big-tech-caucus",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-07-16",
+"note": "Release dated Jul 16, 2021; quote verbatim. Caucus goals listed: promote competition and innovation, protect children online, protect privacy, end political censorship, counter Big Tech's courtship of the CCP. 'Antitrust reform' is not literally in the goal list but the release's framing (rein in anti-competitive, monopolistic practices; ACCESS Act) supports it."
+},
+{
+"url": "https://begich.house.gov/media/press-releases/congressman-begich-leads-legislation-lower-energy-costs-introduces-house",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-21",
+"note": "Verbatim, attributed to Owens."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "No source shows Owens endorsing any AI guardrail or safety rule. The only AI-related evidence is pro-innovation 'win the AI race' language in the DATA Act release and an opportunity-framed higher-ed hearing whose remarks were not retrieved. That evidence, thin as it is, points toward a lighter-touch stance, not 'Targeted guardrails'. Either rescore to 1 or leave null until a direct AI-risk statement is found.",
+"suggested_score": 1,
+"suggested_label": "Light touch"
+}
+]
+}
+]

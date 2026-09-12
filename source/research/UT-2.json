@@ -1,0 +1,414 @@
+[
+{
+"bioguide": "M001228",
+"name": "Celeste Maloy",
+"signature": "Sponsor of the ATOMIC Act (Energy Department testing of the biggest AI models for nuclear risks) and co-lead of the Deepfake Liability Act; backed by the Anthropic-funded Defending Our Values PAC in her 2026 primary.",
+"groups": [],
+"notable_quote": {
+"text": "On paper, Utah is a perfect place to build data centers. Unfortunately, data centers aren't built on paper.",
+"url": "https://www.kuer.org/politics-government/2026-06-01/rural-utah-takes-center-stage-as-maloy-lyman-battle-for-3rd-district-gop-nomination",
+"date": "2026-06-01"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Wants Utah to build data centers, but only where local people want them and only the kinds that fit Utah's scarce water (air-cooled, powered by new generation). She criticized how the Box Elder County project was approved and voted for the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "statement",
+"title": "KUER: Maloy on data centers at the June 1, 2026 GOP primary debate against Phil Lyman",
+"url": "https://www.kuer.org/politics-government/2026-06-01/rural-utah-takes-center-stage-as-maloy-lyman-battle-for-3rd-district-gop-nomination",
+"date": "2026-06-01",
+"quote": "in order to build data centers in Utah, we've got to make sure that we're siting them where people want them, and we're building the type that match our resources",
+"what_it_shows": "She supports building but attaches conditions: local support and projects matched to Utah's water limits; the article says she expressed dismay at the Box Elder County process and argued air-cooled projects could work."
+},
+{
+"type": "vote",
+"title": "House roll call 356: Yea on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted for a NEPA permitting overhaul meant to speed energy and infrastructure projects, which is the build-faster side of the data center debate."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Backs targeted, testable safeguards. She wrote a bill making the Energy Department's national labs test the largest AI developers' models for nuclear-related dangers, and co-led a bill making platforms liable for abusive deepfakes. The Anthropic-funded Defending Our Values PAC spent about $880,000 supporting her after vetting her AI views.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 9965, AI Threat Output and Monitoring Incident Containment (ATOMIC) Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9965",
+"date": "2026-07-27",
+"quote": null,
+"what_it_shows": "She is the lead sponsor of a bill setting up a federal program to evaluate advanced AI systems for nuclear risks and develop containment protocols."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Celeste Maloy Introduces the ATOMIC Act to Strengthen AI Nuclear Security",
+"url": "https://maloy.house.gov/news/documentsingle.aspx?DocumentID=2113",
+"date": "2026-07-29",
+"quote": "As AI capabilities continue to advance, we have a responsibility to understand the risks before they become real-world crises",
+"what_it_shows": "Her bill covers only developers that spent at least $2 billion on AI and requires them to give national labs secure access so models can be tested for leaking nuclear information, bypassing guardrails or acting deceptively."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6334, Deepfake Liability Act (co-led with Rep. Jake Auchincloss)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6334",
+"date": "2025-12-01",
+"quote": null,
+"what_it_shows": "Supports a legal duty of care and takedown process for platforms hosting abusive AI deepfakes."
+},
+{
+"type": "statement",
+"title": "Press release: Maloy and Auchincloss Introduce Deepfake Liability Act",
+"url": "https://maloy.house.gov/news/documentsingle.aspx?DocumentID=1798",
+"date": "2025-12-03",
+"quote": "Companies that take this seriously will keep their protections under the law. Those that do nothing will be held accountable.",
+"what_it_shows": "She wants platforms to lose Section 230 protection if they ignore deepfake and cyberstalking complaints, and the bill says AI-generated content gets no Section 230 immunity."
+},
+{
+"type": "pac",
+"title": "Deseret News: Anthropic, OpenAI spend $1.3 million on Utah congressional races",
+"url": "https://www.deseret.com/politics/2026/06/09/anthropic-pac-public-first-and-openai-pac-leading-the-future-are-pouring-money-into-utah-congressional-primaries/",
+"date": "2026-06-09",
+"quote": "Defending Our Values, a committee run by former Utah Rep. Chris Stewart, spent nearly $880,000 last week on ads to support Republican Rep. Celeste Maloy",
+"what_it_shows": "The Republican arm of the Anthropic-funded Public First network backed her; Stewart said she was interviewed about her AI stance before the endorsement, signaling she favors guardrails."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports a targeted fix to Section 230 so platforms must prevent, investigate and remove abusive deepfakes and cyberstalking or lose their liability shield. No broader antitrust or Big Tech break-up agenda found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Maloy and Auchincloss Introduce Deepfake Liability Act",
+"url": "https://maloy.house.gov/news/documentsingle.aspx?DocumentID=1798",
+"date": "2025-12-03",
+"quote": "The bill amends Section 230 by conditioning a platform’s liability protections on meeting a clear duty of care.",
+"what_it_shows": "A narrow Section 230 reform tied to deepfakes and cyberstalking, using the Take It Down Act's notice-and-removal framework."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6334, Deepfake Liability Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6334",
+"date": "2025-12-01",
+"quote": null,
+"what_it_shows": "Her name is on the bill that conditions platform immunity on a duty of care."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searched for her reaction to the 2025 ten-year moratorium on state AI laws, the December 2025 executive order and the March 2026 White House framework, and checked the GUARDRAILS Act and the Matsui and Clarke letters; found nothing. The Salt Lake Tribune's June 2025 moratorium story quotes state officials, not her.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements or bills found on chip export controls, Nvidia sales to China, or the Chip Security Act as of September 2026.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 12 Google News queries (AI, data centers, chatbot/deepfake/Big Tech, preemption/moratorium/executive order, Nvidia/export controls, ATOMIC/Deepfake Liability, Western Caucus) plus her official site's press release index. Opened: KUER debate story, her ATOMIC Act and Deepfake Liability Act releases, Deseret PAC-spending story, govtrack roll call 356. Blocked or unreachable: Utah News Dispatch debate story (403), Deseret Dec 3 2025 deepfake story and Aug 6 2026 ATOMIC story, St. George News, Salt Lake Tribune Dec 17 2025 story on Utah leaders and the AI executive order (Google News links would not decode; rate limited). Her Wayback listing had no press releases, so the site index was scraped directly. Note H.R. 9965 in the record is the ATOMIC Act. She represents UT-2 but ran and won the June 23, 2026 GOP primary in the redrawn 3rd District against Phil Lyman."
+},
+{
+"bioguide": "K000403",
+"name": "Mike Kennedy",
+"signature": "Family doctor on the Science Committee and AI Caucus who wrote a Section 230 duty-of-care bill for social media algorithms and is pitching Utah's AI regulatory 'sandbox' as the template for federal policy.",
+"groups": [
+"Congressional Artificial Intelligence Caucus (listed as 'AI Caucus' on his official committees and caucuses page)"
+],
+"notable_quote": {
+"text": "And yes, they can make mistakes, but they could also show the federal government good policy that actually empowers AI but also regulates in a healthy fashion.",
+"url": "https://www.notus.org/technology/republicans-trump-ai-agenda",
+"date": "2025-12-18"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "No statement found on data centers or Utah's Box Elder fight. He voted for the SPEED Act permitting overhaul and sponsors energy permitting reforms to meet rising demand, which lean toward building, so this is a weak lean only.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: Yea on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted for a NEPA permitting overhaul that would speed energy and infrastructure projects, including power for large loads like data centers."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Kennedy Introduces Bipartisan Energy Legislation to Unleash American Energy",
+"url": "https://mikekennedy.house.gov/media/press-releases/rep-kennedy-introduces-bipartisan-energy-legislation-unleash-american-energy",
+"date": "2025-09-30",
+"quote": "Outdated permitting rules are holding back Utah’s energy potential. Families in Utah and across the country deserve affordable, reliable energy",
+"what_it_shows": "He pushes faster energy permitting to meet growing demand but does not mention data centers or ratepayer protections tied to them."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. He calls for 'surgical precision' in AI rules and wants Utah's regulatory sandbox, which lets companies test AI under supervision with some rules relaxed, to become the federal model. At the same time he sponsors a duty-of-care law for algorithms and is promoted by the Anthropic-backed Public First Action as a Republican leading on AI accountability.",
+"evidence": [
+{
+"type": "interview",
+"title": "American Bazaar: Congressman Mike Kennedy: AI can transform healthcare, but regulation must be precise (Regulating AI podcast)",
+"url": "https://americanbazaaronline.com/2025/04/15/congressman-mike-kennedy-ai-can-transform-healthcare-but-regulation-must-be-precise-461775/",
+"date": "2025-04-15",
+"quote": "We need surgical precision when we’re doing these things, especially when it comes to an extremely valuable technology that could be used for bad but it also could be used for good",
+"what_it_shows": "He is enthusiastic about AI in medicine and wants narrow, careful rules rather than broad mandates."
+},
+{
+"type": "interview",
+"title": "PYMNTS/CPI (relaying Deseret News): Utah Wants to Solve Washington's AI Deadlock",
+"url": "https://www.pymnts.com/cpi-posts/utah-wants-to-solve-washingtons-ai-deadlock-heres-how/",
+"date": "2026-04-09",
+"quote": "If I can represent that to the administration, they might just lift the template that already is working and put it into whatever this federal policy ends up being",
+"what_it_shows": "After meeting Gov. Cox and legislative leaders, he is pushing Utah's AI sandbox (supervised testing before formal rules) as the basis for the Trump administration's federal AI framework."
+},
+{
+"type": "pac",
+"title": "Public First Action launches $15 million Conservative AI Consensus Project",
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"date": "2026-07-17",
+"quote": "advertisements highlighting the strong records of 12 Republican members of Congress who are leading on AI security and accountability",
+"what_it_shows": "The Anthropic-backed group names him (listed as UT-04; he represents UT-03) among Republicans it plans to promote for AI security and accountability records."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Backs targeted rules on tech: his Algorithm Accountability Act rewrites Section 230 to impose a duty of care on social media algorithms and lets victims sue, he cosponsors age checks for porn sites, and he co-introduced a ban on utilities selling smart meter data.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 6266, Algorithm Accountability Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6266",
+"date": "2025-11-21",
+"quote": null,
+"what_it_shows": "Lead sponsor of a bill creating a duty of care for platforms' algorithmic systems and a civil right of action for foreseeable harm."
+},
+{
+"type": "statement",
+"title": "Press release: Utah Rep. Mike Kennedy introduces the Algorithm Accountability Act to protect families online",
+"url": "https://mikekennedy.house.gov/media/press-releases/utah-rep-mike-kennedy-introduces-algorithm-accountability-act-protect-families",
+"date": "2025-11-21",
+"quote": "Social media companies have built powerful algorithms that prioritize engagement and profit, too often overlooking their role in amplifying dangerous content",
+"what_it_shows": "He frames the bill as modernizing Section 230 and holding platforms accountable for harmful algorithmic feeds; Gov. Cox and Sen. Curtis endorsed it."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 1623, SCREEN Act (age verification for adult sites)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-02-26",
+"quote": null,
+"what_it_shows": "Supports mandatory age checks to keep kids off pornography sites."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 10284, Smart Meter Data Privacy Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10284",
+"date": "2026-09-03",
+"quote": null,
+"what_it_shows": "Supports banning utilities from selling household smart meter data."
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Mike Kennedy introduces bill to ban the sale of data obtained by smart meters",
+"url": "https://mikekennedy.house.gov/media/press-releases/congressman-mike-kennedy-introduces-bill-ban-sale-data-obtained-smart-meters",
+"date": "2026-09-04",
+"quote": "no one should have to surrender their personal data just to keep the lights on",
+"what_it_shows": "He treats personal data privacy as a right that Congress should protect with specific rules."
+}
+]
+},
+"preemption": {
+"score": -1,
+"confidence": "medium",
+"summary": "Leans against wiping out state AI laws. After the December 2025 executive order he praised states' ability to regulate AI in a nuanced way and said they could teach Washington good policy, and he wants Utah's sandbox to shape any federal framework. He has not been found taking an explicit position for or against a federal preemption clause.",
+"evidence": [
+{
+"type": "interview",
+"title": "NOTUS: Will Trump's AI Agenda Backfire? (Republicans react to the Dec. 11, 2025 executive order on state AI laws)",
+"url": "https://www.notus.org/technology/republicans-trump-ai-agenda",
+"date": "2025-12-18",
+"quote": "I see the potency of states in their ability to regulate the more nuanced fashion... they could also show the federal government good policy that actually empowers AI but also regulates in a healthy fashion",
+"what_it_shows": "He defended states as AI regulators days after the executive order targeting state AI laws."
+},
+{
+"type": "interview",
+"title": "PYMNTS/CPI (relaying Deseret News): Kennedy pushes Utah sandbox model for Trump's federal AI framework",
+"url": "https://www.pymnts.com/cpi-posts/utah-wants-to-solve-washingtons-ai-deadlock-heres-how/",
+"date": "2026-04-09",
+"quote": "and lo and behold, Utah is driving the process in a functional way",
+"what_it_shows": "He wants a state model to drive the federal framework that the White House says should preempt state laws; the article notes the preemption push had stalled."
+},
+{
+"type": "pac",
+"title": "Public First Action: Conservative AI Consensus Project names Kennedy among 12 Republicans with strong AI records",
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"date": "2026-07-17",
+"quote": "as well as work to keep federal preemption of state AI laws out of the National Defense Authorization Act",
+"what_it_shows": "The group's collective description of the 12 members' records includes fighting NDAA preemption; it does not say which items apply to Kennedy specifically."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements or bills found on chip export controls, Nvidia sales to China, or related legislation as of September 2026.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 12 Google News queries (AI, data centers, chatbot/algorithm/Big Tech, Nvidia/export controls, AI Caucus, electricity/ratepayers, Spanish Fork/Operation Gigawatt, Science Committee hearings, sandbox/Trump administration) plus Wayback and direct listings of his official site. Opened: Algorithm Accountability Act release, smart meter release, energy permitting release, committees and caucuses page (AI Caucus confirmed), American Bazaar podcast writeup, NOTUS article, PYMNTS/CPI article relaying the Deseret News, Public First Action page, govtrack roll call 356. Unreachable: Deseret News Apr 8 2026 profile (quotes captured via PYMNTS/CPI, which attributes them to the Deseret News), KSL Nov 28 2025 algorithm story, Salt Lake Tribune Dec 17 2025 story on Utah leaders and the AI order (Google News links would not decode). The Regulating AI podcast page on his site has no transcript. No data center statement located despite targeted searches. Public First Action lists him as UT-04; he represents UT-03."
+},
+{
+"bioguide": "O000086",
+"name": "Burgess Owens",
+"signature": "Retiring Big Tech critic (Freedom From Big Tech Caucus, ACCESS Act lead) who co-led the 2026 DATA Act to let data centers build their own off-grid power plants.",
+"groups": [
+"Chairman, House Education and Workforce Subcommittee on Higher Education and Workforce Development (chaired the June 3, 2026 hearing 'Building an AI-Ready America: Higher Education in the Age of AI')",
+"Vice Chair, House Committee on Education and the Workforce",
+"Freedom From Big Tech Caucus (member since July 2021)"
+],
+"notable_quote": {
+"text": "This is a win-win scenario where industry has a reliable flow of power, and residents and communities won't see an increase in their rates.",
+"url": "https://begich.house.gov/media/press-releases/congressman-begich-leads-legislation-lower-energy-costs-introduces-house",
+"date": "2026-04-21"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Pro-build with a ratepayer twist. He co-introduced the DATA Act to let data centers and other power-hungry industries build their own isolated, off-grid power so projects move fast without raising neighbors' electric bills, and he voted for the SPEED Act permitting overhaul. No comment found on Utah's Box Elder County fight.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release (Rep. Begich): Congressman Begich Leads Legislation to Lower Energy Costs, Introduces House Version of the DATA Act, co-led by Owens and Crenshaw",
+"url": "https://begich.house.gov/media/press-releases/congressman-begich-leads-legislation-lower-energy-costs-introduces-house",
+"date": "2026-04-21",
+"quote": "The DATA Act is a commonsense bill that will ensure America stays the leader in the AI race and modernizes our regulatory structure to let businesses that require a lot of power create their own supply",
+"what_it_shows": "He frames data center power as a deregulation problem to solve so the U.S. wins the AI race."
+},
+{
+"type": "statement",
+"title": "Press release (Rep. Begich): DATA Act of 2026 introduction, Owens quote on ratepayers",
+"url": "https://begich.house.gov/media/press-releases/congressman-begich-leads-legislation-lower-energy-costs-introduces-house",
+"date": "2026-04-21",
+"quote": "This is a win-win scenario where industry has a reliable flow of power, and residents and communities won't see an increase in their rates.",
+"what_it_shows": "His condition for growth is that new large loads self-supply power so residential rates do not rise."
+},
+{
+"type": "vote",
+"title": "House roll call 356: Yea on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted for a NEPA permitting overhaul meant to speed energy and infrastructure projects."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Thin record. He cosponsored the TAKE IT DOWN Act against AI sexual deepfakes, but otherwise talks about AI as a race for America to win and as a workforce skill colleges must teach. No position found on broader AI safety rules.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 8989 (118th Congress), TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8989",
+"date": "2024-09-10",
+"quote": null,
+"what_it_shows": "Supported criminalizing nonconsensual real and AI-faked intimate images and requiring fast takedowns, a targeted AI guardrail."
+},
+{
+"type": "hearing",
+"title": "House Education and Workforce Committee calendar: Subcommittee on Higher Education and Workforce Development hearing 'Building an AI-Ready America: Higher Education in the Age of AI', June 3, 2026 (Owens chairs the subcommittee)",
+"url": "https://edworkforce.house.gov/calendar/?page=2",
+"date": "2026-06-03",
+"quote": null,
+"what_it_shows": "As chairman he convened a hearing framed around preparing students for AI, an opportunity framing; his remarks could not be retrieved."
+},
+{
+"type": "statement",
+"title": "Press release (Rep. Begich): DATA Act of 2026 introduction, Owens on the AI race",
+"url": "https://begich.house.gov/media/press-releases/congressman-begich-leads-legislation-lower-energy-costs-introduces-house",
+"date": "2026-04-21",
+"quote": "America is the land of innovation and technological progress.",
+"what_it_shows": "Pro-innovation framing of AI as a race to lead, which cuts the other way from strict safety rules."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "Wants to rein in Big Tech. A Freedom From Big Tech Caucus member since 2021, he led the ACCESS Act interoperability bill, backed structural antitrust bills like the Ending Platform Monopolies Act, wants states empowered to enforce antitrust law, and cosponsors Section 230 changes on censorship plus kids' safety bills (KOSA, SCREEN Act).",
+"evidence": [
+{
+"type": "statement",
+"title": "Owens official issue page: Big Tech",
+"url": "https://owens.house.gov/big-tech",
+"date": null,
+"quote": "It’s past time for Congress to help states reclaim their right to enforce federal antitrust laws against Big Tech and their growing unchecked power.",
+"what_it_shows": "He lists leading the ACCESS Act and cosponsoring the Ending Platform Monopolies Act, State Antitrust Enforcement Venue Act, EARN IT Act and Journalism Competition and Preservation Act."
+},
+{
+"type": "statement",
+"title": "Press release: Owens Joins Freedom from Big Tech Caucus",
+"url": "https://owens.house.gov/posts/owens-joins-freedom-from-big-tech-caucus",
+"date": "2021-07-16",
+"quote": "Momentum is building in the bipartisan push to take on Big Tech’s anti-competitive, unregulated monopoly behavior that undermines fair competition for small businesses",
+"what_it_shows": "Joined a caucus whose stated goals include antitrust reform, ending censorship, protecting children and privacy, and countering Big Tech ties to China."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 908, Stop the Censorship Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/908",
+"date": "2025-02-24",
+"quote": null,
+"what_it_shows": "Would strip Section 230 protection when platforms remove posts they merely find objectionable."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 7891 (118th Congress), Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-06-25",
+"quote": null,
+"what_it_shows": "Backed the House KOSA bill imposing a duty of care on platforms toward minors."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 1623, SCREEN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-09-10",
+"quote": null,
+"what_it_shows": "Supports mandatory age verification for adult websites."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searched for reactions to the 2025 state-AI-law moratorium, the December 2025 executive order and the March 2026 White House framework, and checked the GUARDRAILS Act and the Matsui and Clarke letters; nothing found. His Big Tech page favors states enforcing antitrust law, but that is not about AI laws.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements or bills found on chip export controls or Nvidia sales to China. The Freedom From Big Tech Caucus platform he joined mentions countering Big Tech's courtship of the Chinese Communist Party, but nothing on chips.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 12 Google News queries (AI, data centers, Big Tech/Section 230/censorship, chatbot/deepfake, Nvidia/export controls, preemption/executive order, TAKE IT DOWN/KOSA, AI hearing coverage, DATA Act) plus a Wayback listing of his official site and the House Education and Workforce calendar. Opened: Begich DATA Act release with his quotes, his Big Tech issue page, Freedom From Big Tech Caucus release, his Dec 2025 mining hearing recap, committee calendar pages confirming the June 3, 2026 AI higher-ed hearing, govtrack roll call 356. Unreachable: KSL and Legis1 coverage of the June 3 hearing and the committee's hearing page (Google News links would not decode; committee site strips links), his site's press release index (blocked), the local journalism op-ed (redirect error), congress.gov cosponsor list for H.R. 8400 (403), so the DATA Act is typed as a statement. He announced March 4, 2026 that he will not seek reelection (headlines only). His Big Tech pages date from 2021 to 2022 and were not updated for the 119th Congress."
+}
+]

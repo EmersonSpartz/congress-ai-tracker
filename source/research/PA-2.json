@@ -1,0 +1,622 @@
+[
+{
+"bioguide": "E000296",
+"name": "Dwight Evans",
+"signature": "Retiring Philadelphia Democrat who co-led a 2026 letter pressing FERC on data-center power demand and consumer costs, cosponsors AI bias-testing and deepfake bills, and signed the House Democratic letter against preempting state AI laws.",
+"notable_quote": {
+"text": "There is an increasing presence of data centers, and questions of how, when, and where they will connect to the grid.",
+"date": "2026-05-28",
+"url": "https://evans.house.gov/media/press-releases/evans-dean-press-answers-transparency-data-centers"
+},
+"groups": [],
+"search_notes": "Ran about 12 news queries plus a site listing of evans.house.gov and opened the FERC letter release, the Center Square coverage, govtrack cosponsor pages, and the Matsui and Clarke letters. Two landscape leads are misattributed: the Ratepayer Protection Act (H.R. 9340) and the Open-Source AI Leadership Act (H.R. 10152) are sponsored by Rep. Gabe Evans (R-CO), not Dwight Evans; govtrack confirms this and Dwight Evans is not a cosponsor of H.R. 9340. The Van Hollen/Beyer letter to PJM (12 members) could not be opened (403, Wayback down), so his reported signature is unverified and not used. He signed the Nov 26 2025 Matsui letter (verified in the PDF) but not the Dec 3 2025 Clarke letter. No statements found on chip export controls, preemption beyond the letter, or Big Tech antitrust. No AI super PAC support or attacks found. Evans announced in June 2025 he will retire at the end of this term.",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Evans wants data centers watched closely so they do not raise home electric bills or destabilize the grid. He co-led a May 2026 letter to FERC with Rep. Dean and cosponsors bills to keep data-center grid costs off families' bills.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Evans, Dean press FERC for answers and transparency on data centers",
+"url": "https://evans.house.gov/media/press-releases/evans-dean-press-answers-transparency-data-centers",
+"date": "2026-05-28",
+"quote": "Our concerns about the future of data centers and their energy demand impacting interstate transmission capacity not only include realistic assessments of load interconnection projects that will be added to the grid but also fluctuating load cycles destabilizing the grid.",
+"what_it_shows": "He asked federal regulators how they are overseeing data-center demand, grid reliability, environmental impact and costs passed to home consumers, with answers due June 30, 2026."
+},
+{
+"type": "statement",
+"title": "The Center Square: U.S. Reps. Dean and Evans ask regulators for answers on data centers",
+"url": "https://www.thecentersquare.com/pennsylvania/article_a10f7a51-4ad3-4321-9549-fb474b81d9e7.html",
+"date": "2026-06-02",
+"quote": "This is in addition to concerns about the environmental impact, including air quality and water consumption, community input, long-term planning, and the inclusion of distributed energy resources (DERs) in any future buildout,",
+"what_it_shows": "Local coverage of the FERC letter shows his concerns go beyond bills to water, air quality and community input."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6529, Protecting Families from AI Data Center Energy Costs Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2025-12-10",
+"quote": null,
+"what_it_shows": "He backs a bill to make sure families' electric bills do not go up to pay for the power lines and plants that AI data centers need."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R. 7977, Energy Bills Relief Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": null,
+"quote": null,
+"what_it_shows": "Govtrack lists him as an original cosponsor of a Democratic bill that restores clean-energy tax credits and directs states to adopt ratepayer protections tied to data-center demand."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Evans supports targeted rules on AI harms: bias testing of automated decision systems, civil rights offices for algorithms, and penalties for AI deepfakes in elections and sexual images. No statements found on frontier or existential AI risk.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5511, Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-19",
+"quote": null,
+"what_it_shows": "Would make companies test automated decision systems for bias and harm and report results to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7110, Eliminating Bias in Algorithmic Systems Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7110",
+"date": "2026-01-15",
+"quote": null,
+"what_it_shows": "Would create civil rights teams inside agencies to catch algorithms that treat people unfairly."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3562, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-20",
+"quote": null,
+"what_it_shows": "Lets victims sue people who make or share AI sexual deepfakes of them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4894, Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "Would outlaw spreading lies about voting, including AI-made fakes, before federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5628, Algorithmic Accountability Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5628",
+"date": "2023-09-21",
+"quote": null,
+"what_it_shows": "Shows a consistent record of backing AI bias-testing rules across two Congresses."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Evans backs specific fixes rather than sweeping Big Tech bills: banning AI-driven personalized price gouging and wage setting, and protecting reproductive health data. No statements found on Section 230 or antitrust.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-09-30",
+"quote": null,
+"what_it_shows": "Would ban companies from using AI and personal data to charge different prices or pay different wages."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420, My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-11-15",
+"quote": null,
+"what_it_shows": "Would stop apps and companies from collecting or sharing reproductive health data without a good reason."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Evans signed the November 2025 letter from 81 House Democrats opposing any federal moratorium on state AI laws, whether through the defense bill or an executive order. No separate statement of his own was found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Evans is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We write to express our strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws",
+"what_it_shows": "He joined a letter telling congressional leaders to leave state AI laws alone until there are real federal protections."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searched news for Evans with Nvidia, export controls and China chips, and checked his cosponsorships; found nothing.",
+"evidence": []
+}
+}
+},
+{
+"bioguide": "D000631",
+"name": "Madeleine Dean",
+"signature": "House Democratic co-lead of the TAKE IT DOWN Act (now law) and NO FAKES Act, sponsor of the TRAIN Act on AI training data, opponent of preempting state AI laws, and a leader of letters on data-center power costs and Commerce Secretary Lutnick's data-center conflicts.",
+"notable_quote": {
+"text": "The use of AI is only growing, and Congress must catch up with common sense, common ground regulations.",
+"date": "2026-05-21",
+"url": "https://salazar.house.gov/media/press-releases/salazar-dean-blackburn-coons-bipartisan-colleagues-reintroduce-no-fakes-act"
+},
+"groups": [],
+"search_notes": "Ran about 12 news queries plus a site listing of dean.house.gov; opened her Grok/DOJ letter, TRAIN Act release, Lutnick IG letter, Jan 2025 TAKE IT DOWN release, the Salazar NO FAKES and FTC-enforcement releases, the Evans-Dean FERC letter, the Beyer page listing the Mullin letters, the WHYY Energy Bills Relief Act article, and the Matsui and Clarke letters (she signed both). Govtrack shows she is on Foreign Affairs but is not a cosponsor of the AI OVERWATCH Act (H.R. 6875) or Chip Security Act (H.R. 3447); no chip-export statements found. No AI super PAC support or attacks found. The Sept 2026 stories about her criticizing Sen. Fetterman could not be opened, so any data-center angle there is unverified.",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Dean is a steady critic of data centers' effect on electric bills. She co-led the May 2026 FERC letter with Rep. Evans, signed the Mullin letters to FERC and the industry, led a letter seeking an inspector general probe of Commerce Secretary Lutnick's data-center ties, and cosponsors the Clean Cloud Act.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Evans, Dean press FERC for answers and transparency on data centers",
+"url": "https://evans.house.gov/media/press-releases/evans-dean-press-answers-transparency-data-centers",
+"date": "2026-05-28",
+"quote": "There is an increasing presence of data centers, and questions of how, when, and where they will connect to the grid.",
+"what_it_shows": "She asked FERC how it is overseeing data-center demand, grid reliability and costs passed to home consumers."
+},
+{
+"type": "letter",
+"title": "Press release: Dean, Warren urge Commerce Department watchdog to investigate Lutnick family conflicts on AI data centers",
+"url": "https://dean.house.gov/2025/12/dean-warren-democrats-urge-commerce-department-watchdog-to-investigate-lutnick-family-s-conflicts-of-interest-impact-on-ai-data-center-decisions",
+"date": "2025-12-18",
+"quote": "While the rapid growth of data centers is proving to be lucrative for the Lutnick family, it is also making it harder for American families to pay their monthly utility bills,",
+"what_it_shows": "She led a request for an inspector general probe, framing data-center growth as a driver of higher household energy costs."
+},
+{
+"type": "letter",
+"title": "Beyer press release: 20 House Democrats led by Rep. Mullin write FERC, Edison Electric Institute and the Data Center Coalition on data center energy costs (Dean is a signer)",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"date": "2025-10-28",
+"quote": "The decisions made now will determine whether America can sustain the growth of critical infrastructure like data centers while keeping electricity reliable and affordable,",
+"what_it_shows": "She joined letters asking how grid upgrade costs will be kept off household bills and whether load forecasts are realistic."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6179, Clean Cloud Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6179",
+"date": "2025-11-20",
+"quote": null,
+"what_it_shows": "Would set pollution limits on the electricity big data centers and crypto mines use and charge fees for going over."
+},
+{
+"type": "statement",
+"title": "WHYY: Pennsylvania lawmakers push federal bill to boost clean energy (Energy Bills Relief Act)",
+"url": "https://whyy.org/articles/pennsylvania-federal-energy-bills-relief-act/",
+"date": "2026-05-29",
+"quote": "Not only is this a blow to climate action, it also comes at a time when families and businesses are suffering from rising costs, frankly, of everything,",
+"what_it_shows": "As an original cosponsor of the Energy Bills Relief Act, she tied rising bills to the rollback of clean-energy credits; the bill directs states to adopt ratepayer protections amid data-center demand."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Dean is one of the House's most active members on AI harms to people: she co-led the TAKE IT DOWN Act into law, co-leads the NO FAKES Act, sponsors the TRAIN Act on AI training records, and demanded a DOJ probe of Grok's sexual deepfakes. She frames this as common-sense regulation, not a pause on AI.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Salazar, Dean, Blackburn, Coons reintroduce NO FAKES Act",
+"url": "https://salazar.house.gov/media/press-releases/salazar-dean-blackburn-coons-bipartisan-colleagues-reintroduce-no-fakes-act",
+"date": "2026-05-21",
+"quote": "The use of AI is only growing, and Congress must catch up with common sense, common ground regulations,",
+"what_it_shows": "As House Democratic lead she calls for federal rules giving people control over AI copies of their voice and face."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 7209, TRAIN Act (Transparency and Responsibility for Artificial Intelligence Networks)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7209",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "Her bill lets copyright holders force AI companies to reveal whether their work was used to train a model."
+},
+{
+"type": "statement",
+"title": "Press release: Dean, Moran introduce bipartisan bill to protect creators from unauthorized AI training",
+"url": "https://dean.house.gov/2026/1/ean-moran-introduce-bipartisan-bill-to-protect-creators-from-unauthorized-ai-training",
+"date": "2026-01-22",
+"quote": "The TRAIN Act would grant artists access to such AI records.",
+"what_it_shows": "She argues AI companies should not be able to train on creators' work in secret."
+},
+{
+"type": "letter",
+"title": "Press release: Dean, Klobuchar, Salazar demand DOJ investigation into Grok's sexually explicit AI-generated images",
+"url": "https://dean.house.gov/2026/1/dean-klobuchar-and-salazar-demand-doj-investigation-into-grok-s-sexually-explicit-ai-generated-images",
+"date": "2026-01-21",
+"quote": "These images pose a serious threat to the victim's privacy and dignity. They also may violate the TAKE IT DOWN Act, which the President signed into law last year,",
+"what_it_shows": "She pushed federal enforcement against an AI chatbot generating thousands of sexual images per hour."
+},
+{
+"type": "statement",
+"title": "Press release: Congresswoman Dean reintroduces legislation to protect victims of explicit AI deepfakes (TAKE IT DOWN Act)",
+"url": "https://dean.house.gov/2025/1/congresswoman-dean-reintroduces-the-legislation-to-protect-victims-of-explicit-ai-deepfakes",
+"date": "2025-01-23",
+"quote": "I'm thankful to work with a bipartisan, bicameral group of lawmakers on a commonsense bill that will better protect Americans and meaningfully regulate AI.",
+"what_it_shows": "In her own words she describes the deepfake takedown law as a way to meaningfully regulate AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3562, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-02-04",
+"quote": null,
+"what_it_shows": "Lets victims sue anyone who makes or shares AI sexual deepfakes of them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8915, NO FAKES Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8915",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "Updated bill giving people a legal right to stop AI copies of their voice and face."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Dean writes and enforces targeted online-safety rules: the TAKE IT DOWN Act forcing platforms to remove intimate images within 48 hours, the SHIELD Act, and a 2026 letter pressing the FTC to punish platforms that do not comply. She has not called for breaking up Big Tech or repealing Section 230.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Salazar, Klobuchar, Cruz, Dean request information on implementation of TAKE IT DOWN Act (letter to FTC)",
+"url": "https://salazar.house.gov/media/press-releases/salazar-klobuchar-cruz-dean-request-information-implementation-take-it-down",
+"date": "2026-05-19",
+"quote": "We request the FTC brief our offices on how it intends to enforce the Act, including updates on what mechanisms it has put into place to respond to user complaints of non-compliance,",
+"what_it_shows": "She wants the FTC to hold tech platforms accountable when they fail to remove non-consensual intimate images as the law requires."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633, TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-01-22",
+"quote": null,
+"what_it_shows": "House co-lead of the law criminalizing posting real or AI-faked sexual images and requiring fast takedowns."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1218, SHIELD Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1218",
+"date": "2025-02-11",
+"quote": null,
+"what_it_shows": "Makes sharing private nude images without consent a federal crime; she sponsored the 2023 version."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 3686, SHIELD Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3686",
+"date": "2023-05-25",
+"quote": null,
+"what_it_shows": "She led the House bill against non-consensual intimate image sharing."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5082, REPORT Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5082",
+"date": "2023-07-28",
+"quote": null,
+"what_it_shows": "Would make platforms report more kinds of child abuse and trafficking and keep evidence longer."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Dean signed both major House Democratic letters against a federal moratorium on state AI laws: the Nov 26, 2025 Matsui letter (81 signers) and the Dec 3, 2025 Clarke letter (44 signers) urging Armed Services leaders to keep preemption out of the defense bill.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Dean is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We write to express our strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws",
+"what_it_shows": "She told congressional leaders not to revive the moratorium or override state AI laws by executive order."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats calling for exclusion of an AI moratorium from the FY26 NDAA (Dean is a signer)",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation.",
+"what_it_shows": "She joined a second letter arguing states must keep their AI laws while no federal law exists."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls as of Sept 2026. She sits on Foreign Affairs but govtrack shows she has not cosponsored the AI OVERWATCH Act or Chip Security Act, and news searches for Dean with Nvidia, export controls and China chips found nothing.",
+"evidence": []
+}
+}
+},
+{
+"bioguide": "S001205",
+"name": "Mary Gay Scanlon",
+"signature": "Judiciary Committee Democrat who cosponsored the 2021 Big Tech antitrust package, backs deepfake and algorithm-transparency bills, cosponsors the AI Environmental Impacts Act, and says ratepayers should not pay for data centers' power demands.",
+"notable_quote": {
+"text": "Families should not be stuck paying higher utility bills because of massive new energy demands from giant corporations and data centers. This legislation would push for fairness and accountability so that everyday ratepayers come first.",
+"date": "2026-05-29",
+"url": "https://whyy.org/articles/pennsylvania-federal-energy-bills-relief-act/"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (member, per landscape pass; not verified on an opened page)"
+],
+"search_notes": "Ran about 12 news queries and a site listing (scanlon.house.gov returned no archived AI pages and her live caucus page could not be fetched; only a 2019 Wayback copy loaded). Opened the WHYY Energy Bills Relief Act article, 9to5Mac's summary of The Verge report on her planned Warren-Scanlon health data bill, and govtrack pages confirming her June 14, 2021 cosponsorship of the Ending Platform Monopolies Act (H.R. 3825) and American Innovation and Choice Online Act (H.R. 3816). She did not sign the Matsui or Clarke letters and govtrack shows she is not a GUARDRAILS Act (H.R. 8031) cosponsor, so preemption is null. The AI Caucus membership comes from the landscape pass; I could not open a roster page to confirm it. She is Ranking Member of the Judiciary Subcommittee on the Constitution, which is not AI-specific, so it is not listed. No AI super PAC activity found. The Verge article itself could not be decoded.",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Scanlon says families should not pay higher bills for data centers' power demands. She is an original cosponsor of the Energy Bills Relief Act and cosponsors the AI Environmental Impacts Act, which would study AI's electricity, water and pollution footprint.",
+"evidence": [
+{
+"type": "statement",
+"title": "WHYY: Pennsylvania lawmakers push federal bill to boost clean energy (Energy Bills Relief Act press conference)",
+"url": "https://whyy.org/articles/pennsylvania-federal-energy-bills-relief-act/",
+"date": "2026-05-29",
+"quote": "Families should not be stuck paying higher utility bills because of massive new energy demands from giant corporations and data centers. This legislation would push for fairness and accountability so that everyday ratepayers come first.",
+"what_it_shows": "She ties rising bills to data-center demand and wants ratepayer protections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9183, Artificial Intelligence Environmental Impacts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-06-23",
+"quote": null,
+"what_it_shows": "Would have the government study AI's electricity, water and pollution use and set up voluntary reporting."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R. 7977, Energy Bills Relief Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": null,
+"quote": null,
+"what_it_shows": "Govtrack lists her as an original cosponsor of a bill that restores clean-energy credits and directs states to adopt ratepayer protections amid data-center growth."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Scanlon backs specific guardrails: penalties for sharing intimate and deepfake images, and rules making platforms explain their algorithms and banning discriminatory ones. No statements found on frontier AI safety or a pause.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1218, SHIELD Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1218",
+"date": "2025-02-11",
+"quote": null,
+"what_it_shows": "Makes sharing private nude images without consent a federal crime."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4624, Algorithmic Justice and Online Platform Transparency Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4624",
+"date": "2023-07-25",
+"quote": null,
+"what_it_shows": "Would make platforms explain how their algorithms pick content and ban discriminatory algorithms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3106, Preventing Deepfakes of Intimate Images Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2023-06-30",
+"quote": null,
+"what_it_shows": "Would make it illegal to share AI sexual deepfakes of real people and let victims sue."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "medium",
+"summary": "Scanlon cosponsored the 2021 House antitrust package aimed at Amazon, Apple, Google and Meta, including the Ending Platform Monopolies Act, and backs strong data-privacy limits. In 2026 she and Sen. Warren planned a bill to bar selling health data entered into AI chatbots. The antitrust record dates to 2021.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3825, Ending Platform Monopolies Act (117th Congress)",
+"url": "https://www.congress.gov/bill/117th-congress/house-bill/3825",
+"date": "2021-06-14",
+"quote": null,
+"what_it_shows": "Govtrack shows she joined June 14, 2021 a bill that would let regulators force dominant platforms to sell off lines of business."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3816, American Innovation and Choice Online Act (117th Congress)",
+"url": "https://www.congress.gov/bill/117th-congress/house-bill/3816",
+"date": "2021-06-14",
+"quote": null,
+"what_it_shows": "She backed the lead Big Tech self-preferencing ban in the 2021 Judiciary antitrust package."
+},
+{
+"type": "statement",
+"title": "9to5Mac (citing The Verge): Law proposed to ban AI companies from selling your health data",
+"url": "https://9to5mac.com/2026/06/30/law-proposed-to-ban-ai-companies-from-selling-your-health-data/",
+"date": "2026-06-30",
+"quote": "Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new version of the Health and Location Data Protection Act",
+"what_it_shows": "Reported plan to expand a privacy bill so companies cannot sell health data, including data typed into AI systems, to brokers."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420, My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Would stop apps and companies from collecting or sharing reproductive health data without a good reason."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting state AI laws as of Sept 2026. She did not sign the Matsui or Clarke letters, govtrack shows she is not a GUARDRAILS Act cosponsor, and news searches for Scanlon with moratorium, preemption and state AI laws found nothing.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls as of Sept 2026. Searched news for Scanlon with Nvidia, export controls and China chips and checked her cosponsorships; found nothing.",
+"evidence": []
+}
+}
+},
+{
+"bioguide": "H001085",
+"name": "Chrissy Houlahan",
+"signature": "Armed Services and Intelligence Democrat who cosponsors data-center transparency and ratepayer bills, said data centers are likely not a good fit for her district, has pushed election-deepfake rules and a ban on AI nuclear launch decisions, and pressed the Pentagon to work with Anthropic on AI cybersecurity.",
+"notable_quote": {
+"text": "My intuition is that this is not a good fit for our community for lots of different reasons",
+"date": "2026-02-10",
+"url": "https://whyy.org/articles/rep-houlahan-state-of-the-sixth-address/"
+},
+"groups": [
+"House Armed Services Committee, Subcommittee on Cyber, Information Technologies, and Innovation (member)",
+"BIOTech Caucus (co-founder)"
+],
+"search_notes": "Ran about 14 news queries; the site listing tool found nothing on houlahan.house.gov, so I fetched her press list pages, her Anthropic letter release, her energy affordability town hall coverage, the WHYY State of the Sixth article (found via WHYY's search feed), CyberScoop, and her committees-and-caucuses page. That page lists the BIOTech Caucus and CITI subcommittee but not the Congressional AI Caucus, so the landscape lead on AI Caucus membership is not included. Her May 13, 2024 release on the Preparing Election Administrators for AI Act exists in her press archive but I could not get its URL, so the bill is cited via congress.gov. She did not sign the Matsui or Clarke letters and is not a GUARDRAILS Act cosponsor, so preemption is null. Her only China-tech bill is the NETWORKS Act on Huawei-type telecom makers, a minor bill, so china_chips is low confidence. VISTA.Today and Ripon Society articles were blocked. No AI super PAC activity found.",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Houlahan is skeptical of data centers in her district and says they must pay their own way. She cosponsors the Data Center Transparency Act and the SHIELD Act on ratepayer costs, and at an April 2026 town hall blamed data centers for most of Pennsylvania's electricity price spike.",
+"evidence": [
+{
+"type": "statement",
+"title": "WHYY: Congresswoman Houlahan talks AI data centers, ICE and federal shutdown in annual State of the Sixth address",
+"url": "https://whyy.org/articles/rep-houlahan-state-of-the-sixth-address/",
+"date": "2026-02-10",
+"quote": "My intuition is that this is not a good fit for our community for lots of different reasons,",
+"what_it_shows": "Asked about AI data centers, she said she needs to learn more but added that data centers must pay their share so individuals do not bear the cost."
+},
+{
+"type": "statement",
+"title": "Pottstown Mercury (reposted on houlahan.house.gov): Rep. Houlahan town hall focuses on energy affordability",
+"url": "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=5056",
+"date": "2026-04-09",
+"quote": "Families are paying more despite using less,",
+"what_it_shows": "At her energy affordability town hall she said 101 data centers operate in Pennsylvania and are responsible for 63 percent of the electricity price hike."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6984, Data Center Transparency Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6984",
+"date": "2026-04-02",
+"quote": null,
+"what_it_shows": "Would make data centers publicly report how much electricity and water they use."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7066, SHIELD Act (data center ratepayer costs)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7066",
+"date": "2026-04-02",
+"quote": null,
+"what_it_shows": "Would stop families from being stuck with higher electric bills caused by power-hungry data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Houlahan backs targeted AI guardrails, especially for elections and military use: she sponsored a bill to prepare election officials for AI, cosponsors bans on AI deepfakes of candidates, and cosponsored the bill requiring a human to make any nuclear launch decision. At the same time she urged the Pentagon in 2026 to use Anthropic's AI for cybersecurity, framing it as a race with adversaries.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2894, Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2023-05-15",
+"quote": null,
+"what_it_shows": "Says a human, not an AI, must always make the decision to launch a nuclear weapon."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 8353, Preparing Election Administrators for AI Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8353",
+"date": "2024-05-10",
+"quote": null,
+"what_it_shows": "Her bipartisan bill would have the federal election agency study and issue guidance on how AI could affect elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5272, Protect Elections from Deceptive AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5272",
+"date": "2025-09-10",
+"quote": null,
+"what_it_shows": "Would ban AI-made fake audio or video of candidates meant to trick voters in federal elections."
+},
+{
+"type": "letter",
+"title": "Press release: Houlahan, Whitesides demand Pentagon explain cybersecurity capability gap created by Anthropic supply chain designation",
+"url": "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=5009",
+"date": "2026-04-22",
+"quote": "the politization of public-private partnerships by the administration has damaged our cybersecurity and our AI-enabled military capabilities, as well as weaken efforts to hold AI companies accountable over trust and safety concerns.",
+"what_it_shows": "She wants the Pentagon to use frontier AI tools while also keeping the ability to hold AI companies accountable on safety, a mixed but guardrail-friendly stance."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9639, AI Ads Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9639",
+"date": "2024-09-17",
+"quote": null,
+"what_it_shows": "Would require political ads to disclose AI-made images, video or audio."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Houlahan's record on Big Tech is limited to specific fixes: she cosponsored the TAKE IT DOWN Act in 2024 and a bill to study cartel recruiting on social media. No statements found on Section 230, antitrust or kids online safety.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8989, TAKE IT DOWN Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8989",
+"date": "2024-07-24",
+"quote": null,
+"what_it_shows": "House version of the law criminalizing posting deepfake or real intimate images and requiring quick takedowns."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2393, Combating Cartels on Social Media Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2393",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Would have the government study cartel recruiting on social media and work with platforms to stop it."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting state AI laws as of Sept 2026. She did not sign the Matsui or Clarke letters, is not a GUARDRAILS Act cosponsor, and news searches for Houlahan with moratorium, preemption and state AI laws found nothing.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Houlahan's only related action is sponsoring the NETWORKS Act to punish Chinese telecom equipment makers like Huawei, which leans hawkish on China tech but is not about AI chips. No statements found on Nvidia sales or export controls.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 1795, NETWORKS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1795",
+"date": "2025-03-03",
+"quote": null,
+"what_it_shows": "Her bill would sanction Chinese telecom equipment makers that follow orders from authoritarian governments; a minor bill and not chip-specific."
+}
+]
+}
+}
+}
+]

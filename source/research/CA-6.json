@@ -1,0 +1,555 @@
+[
+{
+"bioguide": "P000613",
+"name": "Jimmy Panetta",
+"signature": "Ways and Means Democrat backed by the AI industry's Think Big super PAC; co-leads AI workforce tax credit and deepfake victim bills, quiet on data centers and preemption.",
+"groups": [],
+"notable_quote": {
+"text": "Too often, opportunities for strategic partnership in Africa’s fast-growing tech sector are overlooked due to outdated assumptions and fragmented policy",
+"date": "2025-07-25",
+"url": "https://panetta.house.gov/media/press-releases/rep-jimmy-panetta-introduces-bipartisan-legislation-boost-tech-and-ai"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. He voted against the SPEED Act permitting bill and introduced a grid battery storage safety bill, but neither takes a position on data center growth or ratepayer costs.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: voted Nay on H.R. 4776, the SPEED Act permitting reform bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the Republican permitting bill that data center and energy developers backed, but the vote was largely party line and is not a data center statement."
+},
+{
+"type": "statement",
+"title": "Nextgov: Panetta introduces Better Energy Storage and Safety Act (H.R. 8706)",
+"url": "https://www.nextgov.com/policy/2026/05/tech-bills-week-mandatory-ai-rmf-usage-ai-energy-generation-and-storage-and-more/413583/",
+"date": "2026-05-07",
+"quote": null,
+"what_it_shows": "His bill updates federal battery storage programs as power demand rises with AI use, a grid reliability measure rather than a stance on data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "He backs targeted rules against AI sexual deepfakes but frames AI mostly as a workforce and jobs challenge to adapt to, not slow down. The AI industry's Think Big PAC spent nearly $600,000 supporting his 2026 primary.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 3562, DEFIANCE Act of 2025 (civil remedy for AI sexual deepfakes)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-30",
+"quote": null,
+"what_it_shows": "Supports letting victims sue over AI-generated intimate images, a specific guardrail on AI misuse."
+},
+{
+"type": "statement",
+"title": "Press release: Liccardo, joined by Panetta, introduces SKILL Act for AI-driven job shifts",
+"url": "https://liccardo.house.gov/media/press-releases/rep-liccardo-introduces-skill-act-prepare-workers-ai-driven-job-market-shifts",
+"date": "2026-06-24",
+"quote": "turn back the clock on technological progress in the face of widespread fear of AI-driven jobs disruption",
+"what_it_shows": "The bill he co-introduced answers AI job fears with employer training tax credits rather than limits on the technology, and the release dismisses 'doomsday' warnings."
+},
+{
+"type": "pac",
+"title": "AI Money Watch: Think Big (Leading the Future network) spent $599,280 supporting Panetta in the 2026 primary",
+"url": "https://aimoneywatch.org/people/jimmy-panetta-ca-19",
+"date": "2026-05-19",
+"quote": null,
+"what_it_shows": "The AI industry's pro-innovation super PAC network paid for digital ads and texts backing him, a sign it sees him as friendly to its agenda."
+},
+{
+"type": "pac",
+"title": "Transformer PAC tracker: Think Big independent expenditures supporting Jimmy Panetta",
+"url": "https://elections.transformernews.ai/pacs/C00923417",
+"date": "2026-05-19",
+"quote": null,
+"what_it_shows": "Second source confirming $599,280 in Think Big support."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "He cosponsors specific consumer and safety fixes: blocking foreign scam robocalls, age checks to keep kids off betting and prediction platforms, online political ad disclosure, and reproductive health data privacy.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 6152, Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2025-11-19",
+"quote": null,
+"what_it_shows": "Supports a crackdown on scam robocalls from abroad."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 9706, Facial Recognition to Protect Children Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9706",
+"date": "2026-07-15",
+"quote": null,
+"what_it_shows": "Backs mandatory face-scan age verification on wagering and prediction market platforms to keep minors out."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 2599, Honest Ads Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2599",
+"date": "2023-04-17",
+"quote": null,
+"what_it_shows": "Supports making online political ads follow TV and radio disclosure rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 3420, My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Supports limits on collecting and sharing reproductive health data."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI law moratorium, and no statement on the Dec 2025 executive order or Mar 2026 White House framework was located.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position on export controls or Nvidia chip sales found. He supports tax credits for building chip plants in the U.S. and a bill to expand U.S. tech and AI partnerships in Africa, neither of which addresses controls.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 802, STAR Act of 2025 (chip manufacturing tax credit)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2025-01-28",
+"quote": null,
+"what_it_shows": "Supports domestic chip factory incentives, a competitiveness measure that says nothing about selling chips to China."
+},
+{
+"type": "statement",
+"title": "Press release: Panetta introduces BRIDGE Africa Act to boost tech and AI partnerships with African nations",
+"url": "https://panetta.house.gov/media/press-releases/rep-jimmy-panetta-introduces-bipartisan-legislation-boost-tech-and-ai",
+"date": "2025-07-25",
+"quote": "Strengthening these ties will not only promote shared economic prosperity, but also bolster mutual security and digital resilience on the African continent and across the globe.",
+"what_it_shows": "Frames U.S. AI diplomacy as a way to build markets and security ties abroad; his Republican co-lead cast it as countering China."
+}
+]
+}
+},
+"search_notes": "Ran 12 news queries (AI, data centers, PAC support, chatbot/deepfake/Big Tech, Nvidia/export controls, preemption, town halls, TikTok/KOSA/privacy) plus a site listing and press page scan of panetta.house.gov. Opened: BRIDGE Africa release, Liccardo SKILL Act release, Local News Matters SKILL Act story, Nextgov and BenitoLink on his energy storage bill, Tech Policy Press July 2026 roundup, AI Money Watch and Transformer PAC pages, govtrack roll call 356. Downloaded the Matsui Nov 26, 2025 letter PDF and extracted text: Panetta is not among the signers; he is also absent from the Clarke Dec 3, 2025 letter page. Politico's June 23, 2026 '$26M tech industry war' piece was 403 and could not be read. Could not find any Panetta statement responding to the Think Big spending, and no statement on data centers, preemption, or chip export controls."
+},
+{
+"bioguide": "F000480",
+"name": "Vince Fong",
+"signature": "AI Caucus member and Science Committee Republican who sponsors the NSF AI Education Act and frames AI as a race to win against China; favors national frameworks over state patchworks for autonomous trucks.",
+"groups": [
+"Congressional Artificial Intelligence Caucus (member)"
+],
+"notable_quote": {
+"text": "The question is not whether artificial intelligence will shape our world, but whether we will harness it to strengthen the nation, improve daily life, and win the global AI race against adversaries like China.",
+"date": "2026-07-01",
+"url": "https://thehill.com/homenews/5947976-ai-leadership-america-future/"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "He supports AI infrastructure growth and voted for the SPEED Act permitting bill, while cosponsoring a bill to cut data center energy and water use through liquid cooling. He has asked whether data centers should be designated critical infrastructure. No statement found on ratepayer costs or the Tulare County pause in his district.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 5332, Liquid Cooling for AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5332",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "Backs federal study and promotion of cooling technology so AI data centers use less power and water, accepting growth while addressing its costs."
+},
+{
+"type": "vote",
+"title": "Roll call 356: voted Yea on H.R. 4776, the SPEED Act permitting reform bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Supported faster federal permitting for energy and infrastructure projects, which developers say speeds data center buildout."
+},
+{
+"type": "hearing",
+"title": "CyberScoop: Congress, industry ponder government posture for protecting data centers (House Homeland Security hearing)",
+"url": "https://cyberscoop.com/congress-industry-ponder-government-posture-for-protecting-data-centers/",
+"date": "2026-04-29",
+"quote": null,
+"what_it_shows": "At a hearing he asked witnesses about federal protection of data centers and whether Congress should follow the U.K. in naming them a critical infrastructure sector, treating them as assets to secure."
+},
+{
+"type": "hearing",
+"title": "MeriTalk: Data Centers, Satellites Could Gain Critical Infrastructure Label",
+"url": "https://www.meritalk.com/articles/data-centers-satellites-could-gain-critical-infrastructure-label/",
+"date": "2026-04-29",
+"quote": null,
+"what_it_shows": "Reports all witnesses agreed with Fong's suggestion that Congress mirror the U.K.'s critical infrastructure designation for data centers."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "In his own op-ed he calls for winning the AI race against China through American leadership, education and innovation, with no call for safety mandates or new AI rules. His signature bill funds AI scholarships and training rather than regulation.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "The Hill op-ed by Rep. Fong: Securing America's future in the age of AI",
+"url": "https://thehill.com/homenews/5947976-ai-leadership-america-future/",
+"date": "2026-07-01",
+"quote": "That is why I support policies that promote American leadership in AI, expand education, and ensure this transformative technology develops in a way that fuels innovation and benefits people across the country.",
+"what_it_shows": "His stated AI agenda is leadership, education and innovation; the op-ed's only risks named are adversaries and cybercriminals using AI, not harms from AI itself."
+},
+{
+"type": "sponsor",
+"title": "Sponsored H.R. 5351, NSF AI Education Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
+"date": "2025-09-15",
+"quote": null,
+"what_it_shows": "His main AI bill expands NSF scholarships, fellowships and community college AI centers; it passed the Science Committee unanimously in June 2026 and was endorsed by OpenAI."
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Fong introduces AI Education Act of 2025",
+"url": "https://fong.house.gov/media/press-releases/congressman-fong-introduces-ai-education-act-2025-strengthen-americas",
+"date": "2025-09-16",
+"quote": "As emerging technologies like AI reshape the global economy, it’s critical that rural communities, like those in California’s Central Valley, are empowered",
+"what_it_shows": "Frames AI as an economic opportunity for rural workers to prepare for, not a danger to contain."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: House Science hearing with OSTP Director Kratsios on the AI Action Plan",
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"date": "2026-01-14",
+"quote": "First, I'd like to thank you, Director Kratsios, for your work on advancing AI policy and AI education specifically.",
+"what_it_shows": "He used his time to praise the administration's AI education work and ask about AI test beds, raising no concerns about the AI Action Plan or the December preemption executive order."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on Big Tech, Section 230, kids online safety or privacy legislation. Searches for chatbot, deepfake, Section 230 and Kids Online Safety Act statements returned nothing.",
+"evidence": []
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "He has not spoken on the state AI law moratorium or the Dec 2025 executive order. But in a 2025 op-ed on autonomous trucking, an AI-driven technology, he argued a patchwork of state rules threatens innovation and called for one national framework, which suggests a lean toward federal standards.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Fong editorial in The Hill: The future of freight, a national framework for autonomous trucking",
+"url": "https://fong.house.gov/media/editorial/future-freight-national-framework-autonomous-trucking",
+"date": "2025-08-18",
+"quote": "But without a clear and consistent national framework, we risk stalling progress and creating a confusing patchwork of state regulations that threaten public safety, innovation and economic growth.",
+"what_it_shows": "He wants Congress to set national rules for autonomous trucks and define federal versus state roles; this is about vehicles, not general AI laws, so it is only an indirect signal."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position on export controls or Nvidia chip sales found. He calls China an AI adversary and cosponsors a domestic chip design and manufacturing tax credit, but has not addressed which chips may be sold abroad.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 8959, Semiconductor Superiority Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8959",
+"date": "2026-09-04",
+"quote": null,
+"what_it_shows": "Supports tax breaks for designing and building chips in America, a competitiveness measure that does not address export controls."
+},
+{
+"type": "op_ed",
+"title": "The Hill op-ed by Rep. Fong: Securing America's future in the age of AI",
+"url": "https://thehill.com/homenews/5947976-ai-leadership-america-future/",
+"date": "2026-07-01",
+"quote": "From China, Russia and Iran to sophisticated cybercriminal networks, adversaries are leveraging AI to increase the scale and complexity of attacks against the U.S., our infrastructure and our communities.",
+"what_it_shows": "Treats China as the main AI rival but says nothing about chip sales or controls."
+}
+]
+}
+},
+"search_notes": "Ran 11 news queries (AI, data centers, Tulare County firewall, ratepayers, chatbot/deepfake/Big Tech, Nvidia/export controls, preemption/executive order, AI Caucus, hearings) plus a site listing of fong.house.gov. Opened: his July 2026 Hill op-ed, Aug 2025 autonomous trucking editorial, Nov 2025 Fox News energy editorial (no data center mention), AI Education Act release, Quiver copy of the committee passage release, CyberScoop and MeriTalk hearing coverage, Tech Policy Press Kratsios hearing transcript, Sun-Gazette Tulare County article (mentions him only on a FEMA inquiry), govtrack roll call 356. Not a signer of the Matsui letter (Republican). Tech Policy Press June 2026 AI security hearing page returned a 308 redirect and could not be read. No statement found on data center ratepayer costs, the state AI law moratorium, or export controls."
+},
+{
+"bioguide": "C001059",
+"name": "Jim Costa",
+"signature": "Central Valley Democrat who wrote the Unleashing Low-Cost Rural AI Act to study data centers' rural energy and water costs, one of few Democrats to vote for the SPEED Act, and a skeptic of the H200 chip deal with China.",
+"groups": [],
+"notable_quote": {
+"text": "AI Data Centers are expanding rapidly and using more energy and water than entire cities. That energy demand is driving up utility costs for consumers",
+"date": "2025-09-11",
+"url": "https://costa.house.gov/media/press-releases/news-representatives-costa-moore-call-federal-study-ai-data-centers-impact"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "He wants growth planned so Valley families do not pay higher utility bills, but also wants rural areas to share in data center opportunities. He sponsored a bipartisan study bill, cosponsored the liquid cooling bill, and was one of a handful of Democrats voting for the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsored H.R. 5227, Unleashing Low-Cost Rural AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5227",
+"date": "2025-09-09",
+"quote": null,
+"what_it_shows": "His bill orders the Energy, Interior and Agriculture departments to study AI data center impacts on rural energy, water and utility costs."
+},
+{
+"type": "statement",
+"title": "Press release: Representatives Costa, Moore call for federal study on AI data centers' impact in rural America",
+"url": "https://costa.house.gov/media/press-releases/news-representatives-costa-moore-call-federal-study-ai-data-centers-impact",
+"date": "2025-09-11",
+"quote": "My legislation ensures we take a hard look at how this growth impacts rural communities that are powering the AI industry, and make sure families aren’t left paying the price.",
+"what_it_shows": "Puts ratepayer protection at the center of his data center position."
+},
+{
+"type": "statement",
+"title": "Press release: Costa on rural opportunities from AI data centers (same release)",
+"url": "https://costa.house.gov/media/press-releases/news-representatives-costa-moore-call-federal-study-ai-data-centers-impact",
+"date": "2025-09-11",
+"quote": "it’s important that rural communities are not left behind in the new opportunities that AI data centers will provide",
+"what_it_shows": "He also sees data centers as an economic opportunity for rural areas, so he is not seeking to block them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 5332, Liquid Cooling for AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5332",
+"date": "2026-03-19",
+"quote": null,
+"what_it_shows": "Supports promoting cooling technology so data centers use less energy and water."
+},
+{
+"type": "vote",
+"title": "Roll call 356: voted Yea on H.R. 4776, the SPEED Act permitting reform bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "One of roughly a dozen Democrats to back the Republican permitting bill that developers say would speed energy and data center projects."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "He backs specific guardrails: a ban on AI alone denying Medicare care, a civil remedy for AI sexual deepfakes, and the TAKE IT DOWN Act. No statements found on frontier AI safety or licensing.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 6361, Ban AI Denials in Medicare Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6361",
+"date": "2026-01-07",
+"quote": null,
+"what_it_shows": "Supports stopping Medicare from letting an algorithm alone deny medical care, a human-in-the-loop rule."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 3562, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "Supports letting victims sue over AI-generated intimate images."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 633, TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-02-06",
+"quote": null,
+"what_it_shows": "Backed criminal penalties and fast takedowns for real or AI-faked intimate images; the bill became law in 2025."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "He supports targeted platform rules: forcing TikTok's sale or ban, quick takedowns of nonconsensual images, and limits on reproductive health data collection.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "Backed the TikTok divest-or-ban law."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 633, TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-02-06",
+"quote": null,
+"what_it_shows": "Supports requiring websites to remove nonconsensual intimate images within 48 hours."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 3420, My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2024-11-12",
+"quote": null,
+"what_it_shows": "Supports limits on apps collecting or sharing reproductive health data."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter opposing a state AI law moratorium, and no statement on the Dec 2025 executive order or Mar 2026 White House framework was located.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "At a January 2026 Foreign Affairs hearing he cast doubt on the administration's rule allowing Nvidia H200 sales to China, saying its no-military-use condition rings hollow given Beijing's military-civil fusion strategy. No bill cosponsorships on export controls found.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Nextgov: Lawmakers worry over new rule that will allow sales of Nvidia's H200 chips to China (House Foreign Affairs hearing)",
+"url": "https://www.nextgov.com/emerging-tech/2026/01/lawmakers-worry-over-new-rule-will-allow-sales-nvidias-h200-chips-china/410696/",
+"date": "2026-01-14",
+"quote": "Rep. Jim Costa, D-Calif., said the new policy’s requirement that Chinese customers cannot use the chips for military purposes “rings hollow” because of Beijing’s strategy.",
+"what_it_shows": "Reporter's account of his hearing remark; he questioned whether the H200 export rule's safeguards can work, leaning toward tighter controls."
+}
+]
+}
+},
+"search_notes": "Ran 10 news queries (AI, data centers, Fresno/Tulare utility costs, Nvidia/H200/export controls, chatbot/deepfake/Big Tech/TikTok, preemption/executive order, Medicare AI denials) plus a site listing of costa.house.gov. Opened: his Sept 11, 2025 press release on H.R. 5227, Nextgov's Jan 14, 2026 H200 hearing story, govtrack roll call 356, Hoodline Hanford article (no Costa mention). Could not read The Business Journal's Aug 28, 2026 'Costa touts bill' article (HTTP 503 on direct fetch, WebFetch, and Wayback), so the 'families in Fresno and Tulare' quote from the state context is unverified and omitted. Agri-Pulse Sept 17, 2025 article URL redirected to an unrelated story; FedScoop Sept 11, 2025 story returned 404; Axios June 2025 TikTok letter was 403. Matsui letter PDF text extracted: Costa not among signers; also absent from the Clarke letter page."
+},
+{
+"bioguide": "V000129",
+"name": "David G. Valadao",
+"signature": "Swing-district Republican appropriator facing a data center moratorium challenge in Hanford; cosponsored the Ratepayer Protection Act and sponsors online dating scam and child safety bills.",
+"groups": [],
+"notable_quote": {
+"text": "Millions of Americans use online dating platforms to connect with romantic partners, but unfortunately, they’ve also become a way for scammers to target and exploit unsuspecting victims",
+"date": "2025-06-23",
+"url": "https://valadao.house.gov/news/documentsingle.aspx?DocumentID=3067"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "He says data centers matter for the economy and national security but must be built responsibly with local input and protections for electric bills. He cosponsored the Ratepayer Protection Act in Sept 2026 as his Democratic opponent called for a one-year moratorium, and voted for the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 9340, Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "Signed onto the bipartisan bill to keep households from paying for power that data centers and other large new users need."
+},
+{
+"type": "statement",
+"title": "Hoodline: Hanford data center fight turns into a California midterm battleground",
+"url": "https://hoodline.com/2026/09/hanford-data-center-fight-turns-into-a-california-midterm-battleground/",
+"date": "2026-09-06",
+"quote": "Valadao has said data centers are important to the economy and national security, but has also said data-center construction requires a responsible approach that includes local input and ratepayer protections.",
+"what_it_shows": "Reporter's summary of his position as opponent Randy Villegas pushes a moratorium of at least one year; he supports building with conditions rather than a pause."
+},
+{
+"type": "vote",
+"title": "Roll call 356: voted Yea on H.R. 4776, the SPEED Act permitting reform bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Supported faster federal permitting that developers say speeds energy and data center projects."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI safety rules. His AI-related bills are about workforce education and using automation to speed veterans' claims, neither of which addresses AI risk.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 5351, NSF AI Education Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
+"date": "2026-04-23",
+"quote": null,
+"what_it_shows": "Supports NSF scholarships and community college AI centers; a workforce bill, not a safety position."
+},
+{
+"type": "sponsor",
+"title": "Sponsored H.R. 3854, Modernizing All Veterans and Survivors Claims Processing Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3854",
+"date": "2025-06-09",
+"quote": null,
+"what_it_shows": "Wants the VA to use automated tools to process benefit claims faster, a pro-adoption government use of AI."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "He writes and backs targeted online safety rules: his Romance Scam Prevention Act requiring dating apps to warn users about banned scammers passed the House unanimously, and he cosponsors the STOP CSAM Act and earlier child safety and image abuse bills.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsored H.R. 2481, Romance Scam Prevention Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2481",
+"date": "2025-03-31",
+"quote": null,
+"what_it_shows": "His bill makes dating apps notify users who interacted with someone removed for fraud."
+},
+{
+"type": "statement",
+"title": "Press release: House passes Congressman Valadao's Romance Scam Prevention Act",
+"url": "https://valadao.house.gov/news/documentsingle.aspx?DocumentID=3067",
+"date": "2025-06-23",
+"quote": "As criminals become more sophisticated, it’s important we have safeguards in place to protect users.",
+"what_it_shows": "He frames platform safeguards as necessary consumer protection."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 3921, STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-08-17",
+"quote": null,
+"what_it_shows": "Supports making platforms report and remove child sexual abuse material and letting victims sue them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 5182, Child Online Safety Modernization Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2023-09-14",
+"quote": null,
+"what_it_shows": "Earlier support for stronger platform reporting duties on child abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsored H.R. 3686, SHIELD Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3686",
+"date": "2024-09-24",
+"quote": null,
+"what_it_shows": "Supported a federal crime for sharing private intimate images without consent."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption of state AI laws. Searches for statements on the moratorium, the Dec 2025 executive order and the Mar 2026 White House framework returned nothing.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China. Searches for Nvidia, export controls and China chips statements returned nothing.",
+"evidence": []
+}
+},
+"search_notes": "Ran 11 news queries (AI, data centers, Hanford/Villegas/moratorium, Ratepayer Protection Act, electric bills, chatbot/deepfake/Big Tech/KOSA/romance scam, Nvidia/export controls/preemption, local outlets) and scanned valadao.house.gov press release index pages (site listing tool returned zero, so paged the index manually). Opened: his June 23, 2025 Romance Scam Prevention Act release, Hoodline Sept 6, 2026 Hanford article, govtrack roll call 356, his press index pages. Could not read the Sacramento Bee Sept 9, 2026 fact check (direct fetch timed out repeatedly; WebFetch blocked; Wayback unavailable) or Politico's Sept 3, 2026 data centers midterms story (403), so the quotes attributed to him in the state context file ('Central Valley families are already facing high electric bills' and the Jeffries pushback) are unverified and omitted; Hoodline's paraphrase is used instead. Hanford Sentinel July 2026 data center stories could not be decoded. Fresnoland candidate profile returned 404. No statement found on AI risk, preemption, or export controls."
+}
+]

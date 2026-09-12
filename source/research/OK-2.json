@@ -1,0 +1,375 @@
+[
+{
+"bioguide": "L000491",
+"name": "Frank D. Lucas",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers found as of Sept 2026, even though Google's Stillwater AI campus sits in his district. I searched his press releases, Oklahoma news, and hearing remarks for data centers, electricity bills, and grid demand.",
+"evidence": []
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Lucas treats AI as a competitiveness and research issue. As House Science chairman he backed federal AI research, NIST standards work, and workforce bills, while warning against overregulation and questioning the quality of the AI safety research field.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement as Science Committee chairman at the June 22, 2023 hearing 'Artificial Intelligence: Advancing Innovation Towards the National Interest' (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-house-hearing-on-ai-advancing-innovation-in-the-national-interest/",
+"date": "2023-06-22",
+"quote": "To do so, Congress needs to make strategic investments, build our workforce and establish proper safeguards without overregulation, but we cannot do it alone.",
+"what_it_shows": "He accepts the need for some safeguards but frames the job as investing in research and workforce while avoiding overregulation."
+},
+{
+"type": "statement",
+"title": "Press release: Science Committee passes nine AI bills under Chairman Lucas",
+"url": "https://science.house.gov/2024/9/science-committee-passes-nine-bills-to-support-the-advancement-of-artificial-intelligence",
+"date": "2024-09-11",
+"quote": "Today’s markup is a significant step in our committee’s commitment to driving AI technology forward and maintaining America's competitive edge in this critical field without burdensome or unnecessary regulations.",
+"what_it_shows": "He pairs pro-AI research and workforce bills with an explicit promise of no burdensome regulation."
+},
+{
+"type": "letter",
+"title": "Press release: Lucas and Ranking Member Lofgren letter to NIST on the AI Safety Institute's research funding",
+"url": "https://science.house.gov/2023/12/science-committee-leaders-stress-importance-of-diligence-in-nist-ai-safety-research-funding",
+"date": "2023-12-14",
+"quote": "Unfortunately, the current state of the AI safety research field creates challenges for NIST as it navigates its leadership role on the issue",
+"what_it_shows": "He pressed NIST to award AI safety research money carefully and voiced doubts about the AI safety field's rigor, rather than calling for binding rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Workforce for AI Trust Act (H.R. 9334, 119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9334",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Backs training more people to work on AI trust and safety, a research and workforce approach instead of mandates."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI Advancement and Reliability Act of 2024 (H.R. 9497, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9497",
+"date": "2024-09-09",
+"quote": null,
+"what_it_shows": "Supports a NIST center to study how to make AI reliable and trustworthy, a standards-based approach."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Workforce for AI Trust Act (H.R. 9215, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9215",
+"date": "2024-07-30",
+"quote": null,
+"what_it_shows": "Earlier version of the same AI trust workforce bill, showing a consistent research-first stance."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No positions found on Big Tech, Section 230, kids online safety, or privacy in the 118th or 119th Congress. Searches for Lucas with those terms returned only unrelated results.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on the state AI law moratorium, the Dec 2025 executive order, or the March 2026 White House framework. He is not on the GUARDRAILS Act or the preemption bills.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Nothing found on Nvidia chip sales or the chip export control bills. As Science chairman he went after Huawei money hidden in U.S. research grants and framed AI as a race with China, so he leans hawkish on China technology, but this is not a chip-specific position.",
+"evidence": [
+{
+"type": "letter",
+"title": "News report: Lucas and Lofgren letter to Optica over anonymized Huawei research funding, and their joint statement after Optica's leadership change",
+"url": "https://okenergytoday.com/2024/08/lucas-and-house-committee-members-think-optica-leadership-changes-will-ease-concerns-about-chinese-influence/",
+"date": "2024-08-26",
+"quote": "International collaboration on sensitive research topics must be undertaken with the utmost risk awareness and transparency.",
+"what_it_shows": "He used the Science chairmanship to police money from a sanctioned Chinese tech company flowing into U.S. research prizes."
+},
+{
+"type": "letter",
+"title": "AIP report: Science Committee leaders question Optica's use of anonymous Huawei donations",
+"url": "https://www.aip.org/fyi/lawmakers-question-optics-society-for-using-anonymous-donations-from-huawei",
+"date": "2024-05-22",
+"quote": null,
+"what_it_shows": "The letter argued Optica's conduct was troubling because the U.S. bans Huawei products and restricts exports to the company."
+},
+{
+"type": "op_ed",
+"title": "Op-ed with Rep. Bice in The Oklahoman: Spurring science and innovation in Oklahoma, across the nation",
+"url": "https://lucas.house.gov/posts/lucas-bice-in-the-oklahoman-spurring-science-and-innovation-in-oklahoma-across-the-nation",
+"date": "2021-07-14",
+"quote": "Our continued success requires us to invest in next-generation technologies and to protect our research from theft.",
+"what_it_shows": "He casts AI and quantum as a race with the Chinese Communist Party and wants research protected from theft."
+}
+]
+}
+},
+"signature": "Former House Science Committee chairman who advanced AI research, NIST standards, and workforce bills while warning against overregulation; no positions found on data centers, preemption, or chip exports.",
+"notable_quote": {
+"text": "Today’s markup is a significant step in our committee’s commitment to driving AI technology forward and maintaining America's competitive edge in this critical field without burdensome or unnecessary regulations.",
+"url": "https://science.house.gov/2024/9/science-committee-passes-nine-bills-to-support-the-advancement-of-artificial-intelligence",
+"date": "2024-09-11"
+},
+"groups": [
+"Chairman, House Committee on Science, Space, and Technology (118th Congress, 2023 to 2024)",
+"Chair, House Agriculture Subcommittee on Conservation, Research, and Biotechnology"
+],
+"search_notes": "14 Google News searches (AI, data center, chatbot/deepfake, Section 230/Big Tech, Chairman Lucas AI, NIST/AI Safety Institute, agriculture AI, financial services AI, electricity/grid, China research security, hearing statements, preemption, Stillwater Google, Nvidia/semiconductors) plus two archived-URL listings of lucas.house.gov and fetches of his 2020 deepfake bill release, 2022 CHIPS floor statement, 2025 fintech bill release, the 2021 Oklahoman op-ed, three science.house.gov releases, the Tech Policy Press 2023 hearing transcript (speaker of the overregulation line confirmed as Lucas, followed by Lofgren), and the Optica/Huawei coverage. Most of his AI record is from his 2023 to 2024 Science chairmanship; his current committees are Agriculture and Financial Services and his site's press listing is JavaScript-only, so 2025 to 2026 posts could only be reached via archived slugs. No AI super PAC activity found. Data centers, preemption, tech regulation: nothing found."
+},
+{
+"bioguide": "C001053",
+"name": "Tom Cole",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No statements from Cole himself on data centers found as of Sept 2026. The Appropriations Committee he chairs handled data-center language in the FY27 Defense bill and rejected Democratic data-center amendments to the FY27 Interior bill, but his personal role and views are not described in the coverage I could read.",
+"evidence": [
+{
+"type": "other",
+"title": "E&E News: Appropriators weigh in on data centers, minerals loan (FY27 Defense bill adds scrutiny of data centers on military bases)",
+"url": "https://www.eenews.net/articles/appropriators-weigh-in-on-data-centers-minerals-loan/",
+"date": "2026-06-26",
+"quote": null,
+"what_it_shows": "His committee added language requiring scrutiny of proposed data centers on military installations; the article does not attribute the language or any comment to Cole."
+},
+{
+"type": "other",
+"title": "E&E News: Republicans reject renewable energy, data center amendments to Interior-EPA bill",
+"url": "https://www.eenews.net/articles/republicans-reject-renewable-energy-data-center-amendments-to-interior-epa-bill/",
+"date": "2026-06-04",
+"quote": null,
+"what_it_shows": "Committee Republicans under Cole voted down Democratic data-center amendments on a party-line 35 to 27 vote; the paywalled text gives no Cole quote."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "As Appropriations chairman, Cole's FY27 bills fund AI research, the Genesis Mission, and Trump's AI innovation order, and he talks about protecting innovation and beating China. I found no statements from him on AI safety rules, so the light-touch lean rests only on his funding priorities.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Committee approves FY27 Commerce, Justice, Science appropriations bill, with Chairman Cole statement",
+"url": "https://appropriations.house.gov/news/press-releases/committee-approves-fy27-commerce-justice-science-and-related-agencies",
+"date": "2026-05-13",
+"quote": "This just-advanced measure backs the men and women on the frontlines of law enforcement, strengthens our response to fentanyl and emerging security threats, and protects the innovation that powers America’s economic edge.",
+"what_it_shows": "The bill invests in AI, quantum, and advanced manufacturing to counter China; his framing is innovation and competitiveness, not safety rules."
+},
+{
+"type": "statement",
+"title": "Press release: Committee approves FY27 Energy and Water appropriations bill",
+"url": "https://appropriations.house.gov/news/press-releases/committee-approves-fy27-energy-and-water-development-appropriations-act",
+"date": "2026-05-20",
+"quote": "Furthering President Trump’s executive order on the Genesis Mission, a coordinated national effort to leverage artificial intelligence to accelerate discovery, strengthen national security, and drive energy innovation.",
+"what_it_shows": "His committee's bill funds the administration's AI-for-science push."
+},
+{
+"type": "statement",
+"title": "Press release: Committee approves FY27 Defense appropriations bill",
+"url": "https://appropriations.house.gov/news/press-releases/committee-approves-fy27-defense-appropriations-act",
+"date": "2026-06-24",
+"quote": "Advancing the President's Executive Order 14409, Promoting Advanced Artificial Intelligence Innovation and Security.",
+"what_it_shows": "His committee's defense bill carries out Trump's AI innovation order for the military."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His only tech-rule actions found are national-security ones: stopping data brokers from selling troops' personal data to hostile countries and banning new DJI drones from U.S. airwaves. Nothing found on Big Tech, Section 230, or kids online safety.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Military Servicemembers' Data Act of 2023 (H.R. 6573, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2023-12-04",
+"quote": null,
+"what_it_shows": "Supports a targeted data-broker rule to protect service members from hostile countries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Countering CCP Drones Act (H.R. 2864, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2864",
+"date": "2024-04-09",
+"quote": null,
+"what_it_shows": "Backs banning new DJI drones over spying worries, a China-focused tech restriction."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on the state AI law moratorium, the Dec 2025 executive order, or the March 2026 White House framework. He is not on the preemption bills on either side.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "No statements found on Nvidia chip sales or the Chip Security Act. His FY27 spending bill adds money for export-control enforcement and he talks about confronting China's theft of U.S. technology, so he leans hawkish, with low confidence.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Committee approves FY27 Commerce, Justice, Science appropriations bill (BIS export-control funding)",
+"url": "https://appropriations.house.gov/news/press-releases/committee-approves-fy27-commerce-justice-science-and-related-agencies",
+"date": "2026-05-13",
+"quote": "Safeguarding American technology by increasing funding for the Bureau of Industry and Security (BIS) to fully support President Trump’s export control strategy.",
+"what_it_shows": "His committee boosted the export-control agency's budget, and his own quote in the release says the bill confronts Communist China's theft of U.S. ingenuity."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Countering CCP Drones Act (H.R. 2864, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2864",
+"date": "2024-04-09",
+"quote": null,
+"what_it_shows": "Shows a general willingness to restrict Chinese technology on security grounds."
+}
+]
+}
+},
+"signature": "House Appropriations chairman whose FY27 bills fund AI research, Trump's AI executive orders, and export-control enforcement; no personal statements found on AI rules, data centers, or state preemption.",
+"notable_quote": {
+"text": "This just-advanced measure backs the men and women on the frontlines of law enforcement, strengthens our response to fentanyl and emerging security threats, and protects the innovation that powers America’s economic edge.",
+"url": "https://appropriations.house.gov/news/press-releases/committee-approves-fy27-commerce-justice-science-and-related-agencies",
+"date": "2026-05-13"
+},
+"groups": [
+"Chairman, House Committee on Appropriations"
+],
+"search_notes": "10 Google News searches (AI Oklahoma, data centers, appropriations AI, Nvidia/export controls, Kratsios/Genesis Mission, Chairman Cole AI, chatbot/deepfake/Section 230, Tom Cole AI broad, data centers Norman, AI super PACs) plus an archived-URL listing of cole.house.gov, his press-release index via WebFetch, and fetches of his FY26 Energy-Water, FY27 NDAA, and FY27 State-Foreign Ops statements (no AI content) and the committee's FY27 CJS, Energy-Water, Defense, and Interior releases. E&E News articles on committee data-center amendments were paywalled beyond the teaser. His weekly-column archive returned only navigation text. No AI super PAC activity found. His committee's actions are documented; his own words on AI regulation, data centers, preemption, and chips are not."
+},
+{
+"bioguide": "B000740",
+"name": "Stephanie I. Bice",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No statements on data centers found as of Sept 2026, despite Google's $9 billion Oklahoma expansion and the state's fight over shifting data-center power costs. Searched her press releases, columns, Oklahoma news, and her Aug 2026 leaked-audio coverage.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Bice cosponsored the TAKE IT DOWN Act against AI-made sexual deepfakes and is an eager adopter of AI tools inside the House. No statements found on frontier AI safety, licensing, or liability, so the guardrail lean rests on one bill.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (H.R. 633, 119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "Backs a criminal ban and fast takedown rule for real or AI-faked sexual images, a targeted guardrail on AI harms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: NSF AI Education Act of 2025 (H.R. 5351, 119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
+"date": "2026-04-20",
+"quote": null,
+"what_it_shows": "Supports AI scholarships and teacher training, a pro-adoption stance that says nothing about rules."
+},
+{
+"type": "statement",
+"title": "Federal News Network: House digital modernization push includes new AI assistant (Bice statement requesting funding for the 'Mia' AI agent)",
+"url": "https://federalnewsnetwork.com/it-modernization/2026/07/house-digital-modernization-push-includes-new-ai-assistant/",
+"date": "2026-07-28",
+"quote": "House staff are already building AI tools for managing schedules, summarizing bills, monitoring floor activity, and more. Mia will accelerate the kind of ongoing innovation that’s needed to ensure that Congress remains current.",
+"what_it_shows": "She is pushing AI adoption inside Congress, which shows comfort with the technology but is not a position on regulating it."
+},
+{
+"type": "interview",
+"title": "AEI / Washington Examiner profile: Rep. Stephanie Bice and the Modernization Subcommittee are rolling out AI and upgrades",
+"url": "https://www.aei.org/commentary/rep-stephanie-bice-and-the-modernization-subcommittee-are-rolling-out-ai-and-upgrades/",
+"date": "2026-05-08",
+"quote": "I actually used it today to write a nominating speech for one of my colleagues,",
+"what_it_shows": "Her subcommittee gave thousands of Hill staff CoPilot licenses and she uses AI herself; again adoption, not regulation."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "She repeatedly cosponsors targeted online rules: a criminal deepfake takedown law, age checks for adult sites, a crackdown on foreign scam robocalls, the TikTok forced-sale law, and limits on selling troops' data. Nothing found on Section 230 repeal or breaking up Big Tech.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (H.R. 633, 119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "Forces websites to remove nonconsensual sexual images quickly, a specific platform duty."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: SCREEN Act (H.R. 1623, 119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-09-16",
+"quote": null,
+"what_it_shows": "Requires adult-content sites to verify users' ages, a kids online safety rule."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Foreign Robocall Elimination Act (H.R. 6152, 119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2025-11-20",
+"quote": null,
+"what_it_shows": "Backs a targeted crackdown on scam robocalls from abroad."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Americans from Foreign Adversary Controlled Applications Act (H.R. 7521, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "Supported forcing TikTok's Chinese owner to sell or face a ban."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Military Servicemembers' Data Act of 2023 (H.R. 6573, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2023-12-04",
+"quote": null,
+"what_it_shows": "Supports stopping data brokers from selling troops' personal data to hostile countries."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on the state AI law moratorium, the Dec 2025 executive order, or the March 2026 framework. She publicly broke with Trump over his Rob Reiner remarks that same week but is not recorded taking a side on the AI order.",
+"evidence": [
+{
+"type": "other",
+"title": "The Hill Morning Report: Cracks in Trump's GOP widen over Reiner comments, AI",
+"url": "https://thehill.com/newsletters/morning-report/5650663-trump-gop-backlash-reiner-ai/",
+"date": "2025-12-16",
+"quote": null,
+"what_it_shows": "Names Bice among Republicans criticizing Trump's Reiner post but does not list her among those objecting to the executive order preempting state AI laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on chip export controls, Nvidia sales, or the Chip Security Act. Her TikTok forced-sale cosponsorship is counted under tech rules, not chips.",
+"evidence": []
+}
+},
+"signature": "Chairs the House Administration Subcommittee on Modernization and Innovation, where she is rolling out AI tools for Congress; cosponsored the TAKE IT DOWN Act and other targeted online-safety bills.",
+"notable_quote": {
+"text": "House staff are already building AI tools for managing schedules, summarizing bills, monitoring floor activity, and more. Mia will accelerate the kind of ongoing innovation that’s needed to ensure that Congress remains current.",
+"url": "https://federalnewsnetwork.com/it-modernization/2026/07/house-digital-modernization-push-includes-new-ai-assistant/",
+"date": "2026-07-28"
+},
+"groups": [
+"Chair, Committee on House Administration Subcommittee on Modernization and Innovation",
+"Commissioner, National Security Commission on Emerging Biotechnology"
+],
+"search_notes": "13 Google News searches (AI, data centers, preemption/executive order, chatbot/deepfake/TAKE IT DOWN, Modernization AI, Nvidia/chips, Big Tech/Section 230/TikTok, kids safety bills, AI assistant, AI regulation Oklahoma, AI super PACs, AI in elections/House Administration, leaked audio) plus an archived-URL listing of bice.house.gov, her press-release index pages 1 to 3, weekly columns and in-the-news pages, and fetches of the FNN, PYMNTS, AEI, Daily Beast, NSCEB, and Hill articles. The Aug 2026 leaked-audio story (Daily Beast) is about Trump fatigue and Lake Ontario, with no AI or data-center content; KFOR blocked all fetch attempts and Google News link decoding hit rate limits, so the KFOR and News 9 versions could not be read. No AI super PAC activity found for her."
+}
+]

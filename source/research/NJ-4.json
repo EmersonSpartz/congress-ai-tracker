@@ -1,0 +1,312 @@
+[
+{
+"bioguide": "M001246",
+"name": "Analilia Mejia",
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "medium",
+"summary": "Campaigned in 2026 on a pledge to cosponsor Sanders' moratorium on new AI data centers and to make Big Tech pay for the power it uses, blaming data centers for New Jersey's rising electric bills. In office she has cosponsored the broad Energy Bills Relief Act, but as of Sept 2026 she had not yet signed the House moratorium bill she promised to back.",
+"evidence": [
+{
+"type": "statement",
+"title": "Campaign platform, 'Make Big Tech Pay & Lower Our Utility Bills' (campaign website text archived by Ballotpedia)",
+"url": "https://ballotpedia.org/Analilia_Mejia",
+"date": null,
+"quote": "In Congress, I’ll hold Big Tech accountable. I’ll co-sponsor Bernie’s moratorium on new AI data centers, and make sure they pay for the energy they use.",
+"what_it_shows": "She publicly committed to a federal moratorium on new AI data centers and to making data centers pay their own energy costs."
+},
+{
+"type": "statement",
+"title": "Campaign platform, 'Make Big Tech Pay & Lower Our Utility Bills' (campaign website text archived by Ballotpedia)",
+"url": "https://ballotpedia.org/Analilia_Mejia",
+"date": null,
+"quote": "Big Tech companies are building massive AI data centers that use enormous amounts of energy, driving up costs for everyone else while they rake in billions. They don’t even have to pay for the energy they use!",
+"what_it_shows": "She blames AI data centers for pushing up household utility bills and frames the issue as Big Tech shifting costs onto families."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Energy Bills Relief Act (H.R.7977), joined April 27, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-04-27",
+"quote": null,
+"what_it_shows": "One week after being sworn in she joined a House Democratic energy-affordability package whose provisions include making facilities like data centers pay their own grid costs; a broad bill, so weak evidence on its own."
+},
+{
+"type": "other",
+"title": "GovTrack cosponsor list for H.R.9442, AI Data Center Moratorium Act (Mejia not listed as of Sept 12, 2026)",
+"url": "https://www.govtrack.us/congress/bills/119/hr9442/cosponsors",
+"date": "2026-09-12",
+"quote": null,
+"what_it_shows": "Despite her campaign pledge, she had not signed on to the House moratorium bill nearly three months after it was introduced, so the pledge remains unfulfilled so far."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI safety rules, chatbots, deepfakes or algorithm bias as of Sept 2026. Searched her press releases, campaign platform, cosponsorships and news coverage; her only AI-related statements concern data centers' energy use and Big Tech's market power.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "low",
+"summary": "Her campaign platform calls for breaking up monopolies, blocking corporate mergers and holding Big Tech accountable, but she has taken no tech-specific legislative action in her first five months. She voted against the House KIDS Act without explaining why.",
+"evidence": [
+{
+"type": "statement",
+"title": "Campaign platform, 'Break Up Monopolies & Bring Back Small Businesses' (campaign website text archived by Ballotpedia)",
+"url": "https://ballotpedia.org/Analilia_Mejia",
+"date": null,
+"quote": "I’ll fight to break up monopolies, block corporate mergers, and cut red tape for small businesses so local economies can thrive again.",
+"what_it_shows": "She ran on aggressive antitrust, naming technology among the sectors controlled by a handful of corporations."
+},
+{
+"type": "vote",
+"title": "House roll call 228, June 29, 2026: KIDS Act (H.R.7757), Mejia voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "She voted against the Republican kids online safety package, which passed 267-117; most Democrats voting no objected that it lacked a duty of care, but Mejia issued no statement, so her own reasoning is not on record."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. She is not a cosponsor of the GUARDRAILS Act and no statement on the Dec 2025 executive order, the March 2026 White House framework or the state AI law moratorium was found. She took office in April 2026, after the main 2025 fights.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls, Nvidia sales to China or the Chip Security Act. Searched press releases, campaign platform and news coverage.",
+"evidence": []
+}
+},
+"signature": "Progressive freshman (sworn in April 2026) who campaigned on a moratorium on new AI data centers and making Big Tech pay for its power, but has not yet turned that into AI legislation in office.",
+"notable_quote": {
+"text": "In Congress, I’ll hold Big Tech accountable. I’ll co-sponsor Bernie’s moratorium on new AI data centers, and make sure they pay for the energy they use.",
+"url": "https://ballotpedia.org/Analilia_Mejia",
+"date": null
+},
+"groups": [],
+"search_notes": "Ran 12 Google News queries (AI, data centers, utility bills/PJM, chatbot/deepfake/Big Tech/Nvidia/preemption, KIDS Act, surveillance tech, AI super PACs, moratorium) plus a site listing of mejia.house.gov. Read her official press release list (Apr-Sept 2026: all ICE, Delaney Hall, minimum wage, 14th Amendment, Medicaid; nothing on AI or data centers), her energy issue page (placeholder), committees page (placeholder), Wikipedia, Ballotpedia (which reproduces her campaign website platform), the Insider NJ copy of her 100-days release, and govtrack cosponsor lists for H.R.7977, 9442, 8031, 9314, 9340, 4640, 6529, 7858, 8488 (she appears only on H.R.7977). Her campaign site analiliaforcongress.com is a placeholder and analiliamejia.com returned 403. Google News link decoding was rate-limited (429) so NJ Monitor, northjersey.com and NJ Globe articles about her debate and platform could not be opened; NJ Monitor also returned 403 direct. No AI super PAC support or attacks found; she launched her own progressive super PAC in Sept 2026, unrelated to AI. Record file listed zero relevant bills, consistent with govtrack checks."
+},
+{
+"bioguide": "W000822",
+"name": "Bonnie Watson Coleman",
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "high",
+"summary": "Sponsored the Data Center Community Impact Act to study data centers' effects on nearby communities, and is an original cosponsor of the House AI Data Center Moratorium Act and a bill banning AI data centers on federal land. She says data centers matter for growth but people's health, water and bills must come first.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: Data Center Community Impact Act (H.R.7858), introduced March 5, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7858",
+"date": "2026-03-05",
+"quote": null,
+"what_it_shows": "Her own bill orders a federal study of data centers' environmental, economic and health effects on surrounding communities, focused on communities of color and low-income areas."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Watson Coleman Introduces Bill to Study Impact of AI Data Centers on Local Communities",
+"url": "https://watsoncoleman.house.gov/newsroom/press-releases/rep-watson-coleman-introduces-bill-to-study-impact-of-ai-data-centers-on-local-communities",
+"date": "2026-03-06",
+"quote": "Infrastructure projects, like the AI data centers being built, are important to the success of industry and economic growth in this country, but we must first protect the health of people and the planet",
+"what_it_shows": "In her own words she accepts data centers as part of economic growth but puts community health and environment first, comparing the buildout to highways that polluted Black and Brown neighborhoods."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: Artificial Intelligence Data Center Moratorium Act (H.R.9442), June 24, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "She backed from day one the House bill to halt new data center construction and expansion until Congress passes safeguards on bills, environment and safety."
+},
+{
+"type": "statement",
+"title": "Press release: Ocasio-Cortez Introduces House Version of the AI Data Center Moratorium Act (lists original cosponsors)",
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "Names Watson Coleman among the nine original cosponsors of the moratorium bill, confirming the record."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: No AI Data Centers on Federal Lands Act (H.R.9939), July 23, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "She supports permanently banning large AI data centers on federal land, including military bases; Tlaib's release names her as an original cosponsor."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Families from AI Data Center Energy Costs Act (H.R.6529), January 8, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2026-01-08",
+"quote": null,
+"what_it_shows": "She backs keeping the cost of grid upgrades for AI data centers off household electric bills."
+},
+{
+"type": "statement",
+"title": "Press release: Reps. Casten, Levin, Watson Coleman Lead Sweeping Energy Bills Relief Act",
+"url": "https://watsoncoleman.house.gov/newsroom/press-releases/reps-casten-levin-watson-coleman-lead-sweeping-energy-bills-relief-act-to-lower-utility-bills-for-hardworking-americans",
+"date": "2026-03-20",
+"quote": "The people of New Jersey have seen their electricity bills go up by as much as 16.9%. That is unacceptable, and Congress must act quickly to bring costs down",
+"what_it_shows": "She co-led a package whose planks include making facilities like data centers pay their own costs, tying her stance to New Jersey's PJM-driven bill increases."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Supports targeted AI guardrails focused on civil rights and bias: cosponsor of the AI Civil Rights Act, the Eliminating Bias in Algorithmic Systems Act, a ban on AI-only Medicare denials, and deepfake and election-deception bills. Her concern with AI bias dates to a 2017 letter to the internet industry; she has not framed AI as an existential danger in her own words.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Artificial Intelligence Civil Rights Act of 2025 (H.R.6356), December 2, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "She backs banning discriminatory AI systems and requiring companies to test their AI for unfair treatment before and after deployment."
+},
+{
+"type": "statement",
+"title": "Press release: Pressley, Clarke, Markey Reintroduce AI Civil Rights Act (lists House cosponsors)",
+"url": "https://pressley.house.gov/2025/12/03/pressley-clarke-markey-reintroduce-ai-civil-rights-act-to-eliminate-ai-discrimination/",
+"date": "2025-12-03",
+"quote": null,
+"what_it_shows": "Names Watson Coleman among the original House cosponsors of the AI Civil Rights Act."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Eliminating Bias in Algorithmic Systems Act of 2026 (H.R.7110), January 15, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7110",
+"date": "2026-01-15",
+"quote": null,
+"what_it_shows": "She supports requiring agencies to set up civil rights offices to catch algorithms that treat people unfairly; she also cosponsored the 2024 version (H.R.10092)."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Ban AI Denials in Medicare Act (H.R.6361), December 2, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6361",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "One of only three cosponsors of a bill to stop Medicare from testing AI-driven prior authorization denials."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: DEFIANCE Act of 2025 (H.R.3562), January 22, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "She supports letting victims sue over AI-made sexual deepfakes; she also cosponsored the 118th Congress Preventing Deepfakes of Intimate Images Act."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Deceptive Practices and Voter Intimidation Prevention Act of 2025 (H.R.4894), August 5, 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "She backs outlawing AI-made fake content that spreads voting lies before federal elections."
+},
+{
+"type": "letter",
+"title": "Press release: Watson Coleman and Cleaver letter to the Internet Association on AI exacerbating racial and gender bias",
+"url": "https://watsoncoleman.house.gov/newsroom/press-releases/congresswoman-watson-coleman-and-congressman-cleaver-demand-accountability-from-the-internet-association-to-address-the-use-of-artificial-intelligence-exacerbating-on-line-racial-and-gender-bias",
+"date": "2017-11-20",
+"quote": "it is imperative that policy makers carefully attempt to balance policies and regulations that mitigate social and ethical risks while providing an environment that allows for and supports innovation in industries such as yours",
+"what_it_shows": "Shows a long-running focus on AI bias paired with a stated wish to balance regulation and innovation."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Wants stronger rules for social media and kids' privacy than Republicans offered: she voted against the House KIDS Act in June 2026 because it dropped the duty of care and did not address social media's effect on youth mental health. Earlier she cosponsored the Kids PRIVACY Act and reproductive data privacy bills.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 228, June 29, 2026: KIDS Act (H.R.7757), Watson Coleman voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2026/h228",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "She was among 85 Democrats voting against the Republican kids online safety package, which passed 267-117."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Watson Coleman Votes to Reject Kids Internet and Digital Safety Act",
+"url": "https://watsoncoleman.house.gov/newsroom/press-releases/rep-watson-coleman-votes-to-reject-kids-internet-and-digital-safety-act",
+"date": "2026-06-29",
+"quote": "While the KIDS Act took some steps in the right direction to protect children, it failed to address the serious concerns of social media’s impact on children’s mental health and suicidal ideation.",
+"what_it_shows": "She voted no because the bill was too weak, calling it half measures and demanding a duty of care and enforcement against social media companies."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids PRIVACY Act (118th Congress, H.R.2801), May 23, 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2801",
+"date": "2023-05-23",
+"quote": null,
+"what_it_shows": "She backed limits on how apps and websites collect and use data from kids and teens."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: My Body, My Data Act of 2023 (118th Congress, H.R.3420), May 17, 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "She supported a privacy law stopping apps and companies from collecting or sharing reproductive health data without need."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Preventing the Algorithmic Facilitation of Rental Housing Cartels Act of 2024 (118th Congress, H.R.8622), June 5, 2024",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8622",
+"date": "2024-06-05",
+"quote": null,
+"what_it_shows": "She backed banning landlords from using shared pricing software to coordinate rents, a targeted algorithmic antitrust fix."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Opposes federal preemption of state AI laws. She is an original cosponsor of the GUARDRAILS Act to undo the December 2025 executive order and signed the December 2025 Clarke letter telling defense bill negotiators to keep any AI moratorium or preemption out of the NDAA.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: GUARDRAILS Act (H.R.8031), March 20, 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "She backed from introduction the House bill protecting states' right to pass their own AI laws against federal override."
+},
+{
+"type": "letter",
+"title": "Press release: Clarke leads letter of 44 House Democrats calling for exclusion of AI moratorium in FY26 NDAA (Watson Coleman signer)",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "Any kind of preemption would cause a slew of unintended consequences putting all Americans at risk online; a moratorium would be wildly irresponsible given the lack of any federal legislation.",
+"what_it_shows": "She joined 43 colleagues urging Armed Services leaders to block any state AI law moratorium or preemption in the defense bill."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls, Nvidia H20/H200 sales to China or the Chip Security Act as of Sept 2026. Searched her press releases and news coverage for export controls, Nvidia, Huawei and semiconductors; she is not a cosponsor of the main chips bills.",
+"evidence": []
+}
+},
+"signature": "Retiring New Jersey progressive who sponsored the Data Center Community Impact Act, is an original cosponsor of the House AI data center moratorium, and has pushed AI civil rights and anti-bias bills since a 2017 letter to the internet industry.",
+"notable_quote": {
+"text": "Infrastructure projects, like the AI data centers being built, are important to the success of industry and economic growth in this country, but we must first protect the health of people and the planet",
+"url": "https://watsoncoleman.house.gov/newsroom/press-releases/rep-watson-coleman-introduces-bill-to-study-impact-of-ai-data-centers-on-local-communities",
+"date": "2026-03-06"
+},
+"groups": [],
+"search_notes": "Ran 12 Google News queries (data center, AI, chatbot/Section 230/Big Tech/antitrust, Nvidia/export controls/preemption, electricity/PJM, Medicare AI/algorithm, kids online safety/KOSA/TikTok, executive order/AI Civil Rights, semiconductor/CHIPS/Huawei, duty of care/KIDS Act) plus a site listing of watsoncoleman.house.gov. Opened her Data Center Community Impact Act release, Energy Bills Relief Act release, KIDS Act statement, 2017 Internet Association letter release, caucus membership page, current press release list (Jun-Sept 2026), E&E News coverage of her bill, the AOC and Tlaib releases naming her as cosponsor, the Pressley AI Civil Rights release, the Clarke letter release, and govtrack cosponsor lists and roll call h228. congress.gov returned 403, so cosponsorships were verified on govtrack and in sponsors' releases. The Matsui Nov 26 2025 letter PDF did not parse and the Matsui release text lists no signers, so her signature there is unconfirmed. She is not on the Ratepayer Protection Act (H.R.9340) cosponsor list. Her caucus page lists no AI caucus; she chaired the 2019 CBC Emergency Taskforce on Black Youth Suicide and Mental Health, which she cites in her KIDS Act statement. No AI super PAC support or attacks found; she is not seeking reelection in 2026. Google News link decoding was rate-limited, so the Bergen Record and NJ Spotlight articles could not be opened."
+}
+]

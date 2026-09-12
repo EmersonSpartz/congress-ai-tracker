@@ -1,0 +1,228 @@
+[
+{
+"bioguide": "Y000064",
+"checks": [
+{
+"url": "https://www.nextgov.com/artificial-intelligence/2026/01/bipartisan-pair-senators-acknowledge-need-federal-ai-standard-accounts-state-laws/411019/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-01-28",
+"note": "Quote is verbatim and the article does say Young 'advocated for the Trump administration's permitting reform for data center construction as a near-term opportunity to fortify U.S. infrastructure, something he said was supported at a bipartisan level.' But the 'certainty' quote is about the state-law patchwork vs a federal regulatory standard (the sentence continues 'The investment will stop if the investors lose faith in our regulatory system'), not about permitting; the item stitches two separate points together. CSIS event was Wednesday Jan 28, 2026."
+},
+{
+"url": "https://broadbandbreakfast.com/lawmakers-urge-faster-tech-investment-as-u-s-competes-with-china/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-28",
+"note": "Article (Jan 28, 2026) states: 'He said slow permitting and regulatory uncertainty can discourage investment in data centers, energy infrastructure, and advanced manufacturing. \"We need to think about speed and scale,\" Young said.' Verbatim."
+},
+{
+"url": "https://www.young.senate.gov/newsroom/press-releases/young-opposes-effort-by-senate-democrats-to-raise-energy-costs-for-hoosiers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-17",
+"note": "Direct fetch and Wayback both blocked (Akamai 403); read via the user's Chrome. Press release dated Sept 17, 2025 on floor remarks against S.J.Res. 60 (CRA resolution, rejected 47-51). Quote verbatim. Release never mentions data centers or large loads; the item's own claim already flags this, so weak relevance to the data_centers dimension."
+},
+{
+"url": "https://www.young.senate.gov/newsroom/press-releases/young-cantwell-reintroduce-future-of-ai-innovation-act/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-26",
+"note": "Read via Chrome (site 403s scripted fetches). Release dated Feb 26, 2026. Quote verbatim. Bill authorizes CAISI at NIST to develop 'voluntary guidelines and standards', testbeds, grand challenges; explicitly aligned with Trump AI Action Plan and 'pro-innovation rebranding of CAISI'. Supports the light-touch characterization."
+},
+{
+"url": "https://www.young.senate.gov/newsroom/press-releases/young-kelly-introduce-legislation-to-protect-american-ai-innovation/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-19",
+"note": "Read via Chrome. Release dated Nov 19, 2025. Quote verbatim. Bill directs NSA AI Security Center to build an AI Security Playbook against foreign theft/sabotage; no obligations on developers. Claim accurate."
+},
+{
+"url": "https://www.young.senate.gov/newsroom/press-releases/young-colleagues-push-for-more-data-on-ais-impact-on-american-workforce/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-06",
+"note": "Read via Chrome. Release dated March 6, 2026; Young joined eight other senators (Warner, Hawley, Banks, Hassan, Hickenlooper, Kelly, Kaine, Rounds). Quote appears verbatim in the letter text. Letter urges BLS/Census/DOL to expand CPS, JOLTS, NLS data on AI's labor impact; purely informational."
+},
+{
+"url": "https://www.nextgov.com/artificial-intelligence/2026/01/bipartisan-pair-senators-acknowledge-need-federal-ai-standard-accounts-state-laws/411019/",
+"verdict": "confirmed",
+"corrected_quote": "I favor coming up with a federal standard that's consistent with our constitutional responsibilities to facilitate interstate commerce, but I, as a practical matter, recognize that we may have to accommodate narrow areas of state concern, so an example might be the deepfake laws that a handful of states have",
+"corrected_date": "2026-01-28",
+"note": "Quote verbatim (item truncates the trailing deepfake clause). Article dated Jan 28, 2026, weeks after the Dec 2025 EO; Young 'told Nextgov/FCW during the event' at CSIS. Supports leans-national-rule with carve-outs."
+},
+{
+"url": "https://broadbandbreakfast.com/lawmakers-urge-faster-tech-investment-as-u-s-competes-with-china/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-28",
+"note": "Quote verbatim. Article: 'Young pointed to recent supply chain disruptions as evidence that markets alone cannot address national security risks, emphasizing the need for semiconductor export controls and hardened critical infrastructure.' Note this is the reporter's paraphrase; no direct Young quote on export controls."
+},
+{
+"url": "https://www.young.senate.gov/newsroom/press-releases/young-kelly-introduce-legislation-to-protect-american-ai-innovation/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-19",
+"note": "Same release as item 5. Claim accurately describes an NSA-playbook security measure, not an export control; it is only indirect evidence for the china_chips dimension (adversaries generally, China not named)."
+},
+{
+"url": "https://www.nextgov.com/artificial-intelligence/2026/01/bipartisan-pair-senators-acknowledge-need-federal-ai-standard-accounts-state-laws/411019/",
+"verdict": "confirmed",
+"corrected_quote": "I favor coming up with a federal standard that's consistent with our constitutional responsibilities to facilitate interstate commerce, but I, as a practical matter, recognize that we may have to accommodate narrow areas of state concern, so an example might be the deepfake laws that a handful of states have",
+"corrected_date": "2026-01-28",
+"note": "Verbatim as far as it goes; full sentence adds the deepfake example."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the ten sourced items concerns platform or Big Tech regulation; the -1 'Targeted rules' score has no supporting evidence in this record. Either add a source (e.g., a kids-online-safety or antitrust position) or move to Mixed.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "china_chips",
+"objection": "The -1 score rests on a reporter's paraphrase in one Broadband Breakfast piece plus an NSA anti-theft bill that never mentions chips or China. Direction is plausible but evidence is thin; a direct Young statement on export controls (e.g., on Nvidia H20/China sales) should be added before keeping a definite lean.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+}
+]
+},
+{
+"bioguide": "B001299",
+"checks": [
+{
+"url": "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "senate.gov returns 403 to scripted fetches and Wayback was unreachable from this sandbox; page read via the Chrome browser. Quote appears verbatim in the letter to Bessent, Cairncross, Kratsios, Lutnick and Rubio. Letter raises loss-of-control and superintelligence risks, asks about mandated reporting and limits of voluntary agreements, and frames reaching the recursive-self-improvement threshold before the PRC as imperative. Page text carries no visible date."
+},
+{
+"url": "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim. Letter says some 'naively argued' for an AI grand bargain or arms-control analogue with China, urges a 'less ambitious, narrower range' of issues, and rejects bilateral arms-control-style agreements citing CCP non-compliance. Note he also explicitly rejects a laissez-faire approach, so this is genuinely mixed rather than light-touch."
+},
+{
+"url": "https://www.banks.senate.gov/news/press-releases/banks-outlines-priorities-for-pentagons-u-s-china-ai-strategy-as-tech-rivalry-intensifies/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Read via Chrome (403 to scripted fetch). Quote verbatim in letter to Secretary of War Hegseth. Letter asks the AI Futures Steering Committee to examine 'rapid capability amplification (also called recursive improvement)', PRC views of AGI/ASI, and detection of covert AI development in secret data centers."
+},
+{
+"url": "https://www.banks.senate.gov/news/press-releases/senator-banks-raises-concerns-over-chinese-espionage-targeting-u-s-artificial-intelligence-sector/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Read via Chrome. Quote verbatim. Banks and Grassley letter to nine companies (OpenAI, Anthropic, Google, xAI, Meta, Microsoft, Amazon, SSI, Thinking Machines); asks about insider threats, model weight security, and notification policy if a model or agent itself 'attempted to exfiltrate model weights'. Responses requested by May 26, 2026, so letter is roughly April-May 2026."
+},
+{
+"url": "https://readthereporter.com/sen-banks-introduce-bill-to-help-american-ai-companies-combat-chinese-espionage/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim (curly apostrophe). Article describes the bill as a narrow antitrust safe harbor for AI companies to share threat information; Banks frames it as not losing the AI race to China. Page carries no date in extracted text."
+},
+{
+"url": "https://rollcall.com/2026/07/29/lawmakers-want-better-data-on-ais-workforce-impacts/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Quote verbatim, attributed to Banks at a HELP Employment and Workforce Safety subcommittee hearing he chairs; pushes the AI Workforce PREPARE Act (Labor Dept research hub and data collection), no restrictions on AI."
+},
+{
+"url": "https://www.banks.senate.gov/news/press-releases/banks-introduces-ai-overwatch-act/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Read via Chrome. Quote verbatim. Cosponsors Warren, Cotton, Cortez Masto, Ricketts, Shaheen confirmed. Bill 'codifies into law President Trump's prohibition on exports of the most capable AI chips to foreign adversaries' and requires Commerce end-user certification; also fast-tracks exports to allies. Page text has no visible date ('Last week')."
+},
+{
+"url": "https://www.banks.senate.gov/news/press-releases/icymi-jim-banks-ai-chip-legislation-opens-rift-between-china-hawks-industry-leaders/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Read via Chrome. Quote verbatim from Banks statement to National Review about the GAIN AI Act (FY2026 NDAA amendment giving US customers right of first refusal before chips go to China). Headline itself frames the rift with industry leaders."
+},
+{
+"url": "https://www.tomshardware.com/tech-industry/us-senators-want-to-suspend-nvidia-ai-chip-export-licenses-to-china-and-its-intermediaries-bipartisan-letter-to-commerce-dept-says-that-huangs-claims-of-no-chip-diversion-were-contradicted-by-reporting-available",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-24",
+"note": "Article names Banks and Warren as authors of the letter to Lutnick; quote verbatim as an excerpt of a longer sentence covering China plus intermediaries in Malaysia, Thailand, Vietnam and Singapore, sent after Super Micro smuggling charges. 'Opposing the H200 sales policy' is an inference consistent with the letter but the fetched text I checked did not name H200 explicitly."
+},
+{
+"url": "https://www.banks.senate.gov/news/press-releases/banks-warren-press-nvidia-on-national-security-risks-of-shanghai-rd-facility/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Read via Chrome. Quote verbatim. Letter criticizes the H20 chip 'specially designed for the PRC market' and calls Nvidia's pursuit of PRC sales 'reckless and short-sighted'; responses demanded by June 20, 2025, so the letter dates to roughly May 2025."
+},
+{
+"url": "https://www.quiverquant.com/news/Press+Release:+Senator+Jim+Banks+Addresses+AI+Competition+with+China+at+Hill+and+Valley+Forum",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-25",
+"note": "Quiver AI summary says Banks framed the AI race with China as a moral issue, quoted him 'We can't let China win it', and highlighted stronger export controls and his GAIN AI Act. Note this is a third-party AI-generated summary of a press release, not a primary source."
+},
+{
+"url": "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim in the Bessent/Cairncross/Kratsios/Lutnick/Rubio letter, immediately before the superintelligence sentence."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "M001214",
+"checks": [
+{
+"url": "https://www.lcv.org/blog/how-democrats-energy-bills-relief-act-would-put-money-back-in-your-pocket/",
+"verdict": "partially_supported",
+"corrected_quote": "Ensure the cost of powering large energy consumers, like data centers, doesn’t fall on households and small businesses.",
+"corrected_date": "2026-03-18",
+"note": "Quote appears verbatim (curly apostrophe) and the page confirms the Energy Bills Relief Act includes the data-center cost-shift provision. But the page never names Mrvan; it credits Casten and Levin plus '122 Democratic cosponsors'. Mrvan's cosponsorship must be verified elsewhere (congress.gov)."
+},
+{
+"url": "https://mrvan.house.gov/media/press-releases/mrvan-letter-doe-utility-affordability",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-22",
+"note": "Verbatim quote found. Letter opposes DOE Emergency Order 202-26-29 forcing NIPSCO to keep two Wheatfield/Schahfer coal units running; cites 26% rate jump and NWI steel/manufacturing input costs. Data centers are not mentioned, as the claim states. Note the page itself does not frame the order as tied to Indiana load growth; that gloss is the tracker's."
+},
+{
+"url": "https://mrvan.house.gov/media/press-releases/mrvan-requests-federal-investigation-nwi-power-outages",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Verbatim quote found. Letter to FERC (in coordination with NERC) requests review of outages after the Aug. 11, 2026 derecho; 'nearly two weeks' without power for tens of thousands; cites $2.3 billion in customer-funded infrastructure replacement since 2016. No data-center mention, matching the claim."
+},
+{
+"url": "https://mrvan.house.gov/media/press-releases/mrvan-letter-doe-utility-affordability",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-22",
+"note": "Verbatim quote appears in the letter text on the page."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the four sources touches AI safety or AI regulation; all are about utility rates, coal orders, and outage reliability. There is no evidence in the checked items for a -1 'Targeted guardrails' position.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No source addresses Big Tech or tech regulation. The only tech-adjacent item is a cost-allocation provision for data centers in a bill whose Mrvan cosponsorship is not confirmed by the cited page. Evidence is too thin for -1 'Targeted rules'.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

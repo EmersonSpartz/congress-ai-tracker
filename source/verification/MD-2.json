@@ -1,400 +1,94 @@
 [
 {
-"bioguide": "I000058",
+"bioguide": "O000176",
 "checks": [
 {
 "url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
 "verdict": "confirmed",
-"corrected_quote": null,
+"corrected_quote": "Maryland families are struggling with ever-increasing utility bills. Lowering the cost of living has to be the top priority for all levels of government. I will continue fighting to protect Maryland consumers and ensure we're building out a reliable, sustainable and — most importantly — affordable energy future",
 "corrected_date": "2026-03-12",
-"note": "Quote appears verbatim, attributed to 'said Congressman Glenn Ivey'. Page dated March 12, 2026. Ratepayer-first reading is accurate."
+"note": "Quote appears verbatim, attributed to 'Congressman Johnny Olszewski' in the Mfume delegation release dated March 12, 2026; the item truncates the sentence, full sentence adds the reliability/affordability clause. Release covers a meeting with PJM, the PSC and the People's Counsel on energy costs. Note the release itself does not use the words 'data center'; the cost framing is about utility bills generally."
 },
 {
 "url": "https://mcclaindelaney.house.gov/media/press-releases/maryland-democrats-urge-ferc-protect-marylanders-rising-electricity-costs-due",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-07-28",
-"note": "Ivey explicitly listed among the Maryland delegation signers; quote appears verbatim in the letter text. Letter asks FERC to require PJM to assign costs to data centers rather than Maryland ratepayers."
-},
-{
-"url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-jackson-lee-clarke-gomez-ivey-and-veasey-introduce-bill",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2023-10-27",
-"note": "Quote appears verbatim (curly apostrophe in 'state’s' only difference), attributed to Congressman Ivey. Bill is the Facial Recognition Act regulating law enforcement FRT use."
-},
-{
-"url": "https://ivey.house.gov/media/videos/glenn-ivey-raises-concerns-government-isnt-able-keep-development-pace-ai",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2023-11-23",
-"note": "Page title matches the headline claim, but the only body text says he questioned witnesses about DOJ antitrust suits and competition; no transcript or AI-specific text on the page. Claim already acknowledges this; support rests on the headline alone."
-},
-{
-"url": "https://ivey.house.gov/media/in-the-news/big-tech-critics-looking-their-next-house-antitrust-champion",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2023-04-19",
-"note": "Quote appears verbatim, attributed to Ivey, in the reposted Politico item about the next ranking member on the antitrust subcommittee. Page notes he did not address his own interest."
-},
-{
-"url": "https://ivey.house.gov/about/committees-and-caucuses",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": null,
-"note": "'Monopoly Busters Caucus' appears in the caucus membership list on Ivey's official site."
-},
-{
-"url": "https://ivey.house.gov/media/videos/rep-ivey-questions-rep-clines-proposal-transfer-antitrust-enforcement-ftc-doj",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2024-04-18",
-"note": "Page contains only the title and 'From the House Committee on the Judiciary on April 18, 2024.' The title supports that he questioned Cline's FTC-to-DOJ transfer proposal; 'pushed back' and the Big Tech framing are inferences not stated on the page."
-},
-{
-"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-12",
-"note": "Same page as item 1; quote verbatim and attributed to Ivey."
-}
-],
-"score_objections": []
-},
-{
-"bioguide": "H000874",
-"checks": [
-{
-"url": "https://mcclaindelaney.house.gov/media/press-releases/maryland-democrats-urge-ferc-protect-marylanders-rising-electricity-costs-due",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-28",
-"note": "Page (McClain Delaney release, July 28, 2026) names Steny Hoyer among the Maryland delegation members calling on FERC. Quote appears verbatim. Letter explicitly states out-of-state data centers are driving PJM transmission expansion and Marylanders should not pay for it, supporting the claim."
-},
-{
-"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-12",
-"note": "Quote appears verbatim and is attributed to 'Congressman Steny Hoyer'. His statement does not mention data centers (the adjacent data-center quote belongs to a different member), while other delegation members' statements do, so the claim is accurate. Release dated March 12, 2026."
-},
-{
-"url": "https://hoyer.house.gov/media/press-releases/hoyer-americans-deserve-have-their-government-and-representatives-work-bring",
-"verdict": "confirmed",
-"corrected_quote": "Americans deserve to have their government and their representatives work to bring energy costs down, not up",
-"corrected_date": "2026-05-20",
-"note": "Hoyer's own press release, May 20, 2026, opening remarks at Appropriations full committee markup of FY2027 Energy and Water bill. Quote is verbatim in the transcript body. No occurrence of 'data center' anywhere on the page, matching the claim."
-},
-{
-"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-12",
-"note": "Same page as item 2; quote verbatim and attributed to Hoyer. Suitable as headline quote, though note it does not itself mention data centers or AI."
-}
-],
-"score_objections": []
-},
-{
-"bioguide": "M001232",
-"checks": [
-{
-"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-12",
-"note": "Quote appears verbatim and is attributed to Congresswoman April McClain Delaney; she ties it to her 'Costs Down, Opportunity Up' affordability agenda."
-},
-{
-"url": "https://mcclaindelaney.house.gov/media/press-releases/maryland-democrats-urge-ferc-protect-marylanders-rising-electricity-costs-due",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-28",
-"note": "Her own office's release; quote is verbatim from the letter text asking FERC to reallocate data-center-driven transmission costs away from Maryland ratepayers."
-},
-{
-"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2026-08-10",
-"note": "Quote verbatim and McClain Delaney (MD-06) is listed among the 20 signers. But the letter says models 'pose a clear risk to the safety and security of the American people'; the phrase 'national security risk' does not appear. Claim slightly overstates the framing."
-},
-{
-"url": "https://casar.house.gov/media/press-releases/casar-leads-demand-information-open-ai-about-security-incident",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-08-10",
-"note": "April McClain Delaney (MD-06) is listed as a signer of the Casar/Matsui letter to OpenAI with 23+ questions about the security incident."
-},
-{
-"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-20",
-"note": "Quote verbatim, attributed to Rep. April McClain Delaney, who is a named co-lead of the bill."
-},
-{
-"url": "https://www.meritalk.com/articles/delaney-hints-at-new-quantum-ai-legislation/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": null,
-"note": "Quote verbatim. Article states 'Delaney said she supports Obernolte's proposal' (sector-by-sector, NIST-centered) and that she called for comprehensive federal legislation. Page carries no publication date; companion Broadband Breakfast coverage of the same State of the Net remarks is dated 2026-02-09."
-},
-{
-"url": "https://www.hometownstation.com/santa-clarita-news/politics/reps-whitesides-mcclain-delaney-salinas-introduce-bill-to-help-study-impact-of-artificial-intelligence-in-the-classroom-604571",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-08-05",
-"note": "Quote verbatim, attributed to Rep. McClain-Delaney; she says AI's impact on kids should be studied 'before it becomes embedded in their classrooms.'"
-},
-{
-"url": "https://mcclaindelaney.house.gov/media/press-releases/rep-mcclain-delaney-rep-kennedy-introduce-bipartisan-algorithm-accountability",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-11-21",
-"note": "Quote verbatim. Release says the bill 'modernizes Section 230,' establishes a duty of care, and grants individuals a cause of action for algorithmic harm."
-},
-{
-"url": "https://broadbandbreakfast.com/rep-april-mcclain-delaney-hopes-to-pass-new-quantum-ai-measures/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-02-09",
-"note": "Quote verbatim (spoken about social media platforms). Article also says she pointed to the EU's Digital Services Act and Digital Markets Act as protections the US should look at integrating."
-},
-{
-"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-20",
-"note": "Quote verbatim, attributed to Rep. April McClain Delaney."
+"note": "Release dated July 28, 2026 lists Olszewski among the Maryland delegation signers of the letter to FERC backing the OPC complaint (Docket EL26-63) on transmission costs driven by out-of-state data centers. Quote appears verbatim in the letter text."
 },
 {
 "url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2025-11-26",
-"note": "PDF text extracted directly (fetch tool returned 0 chars for the PDF). Quote verbatim as the letter's opening sentence. Signature block lists 81 members, with Matsui, Lieu, McClain Delaney and Rivas as the first four (lead) signers."
+"note": "PDF dated November 26, 2025 to Johnson, Thune, Jeffries and Schumer; 'Johnny Olszewski, Jr., Member of Congress' appears on the signature pages. Quote appears verbatim. Fetch tool returned zero chars for the PDF; verified by downloading and extracting text directly."
 },
 {
-"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2025-12-03",
-"note": "Quote verbatim; April McClain Delaney is listed among the 44 signers."
+"corrected_date": "2026-02-10",
+"note": "Release dated Feb 10, 2026 names 'Congressman Johnny Olszewski' as a cosigner of the Moolenaar/Mast letter to Rubio and Lutnick. Quote appears verbatim in the letter text; letter also says the US should be prepared to close gaps unilaterally if allies do not act."
 },
 {
-"url": "https://www.meritalk.com/articles/delaney-hints-at-new-quantum-ai-legislation/",
+"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
 "verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": null,
-"note": "Article says she 'criticized the current patchwork of state laws as inadequate' and supports Obernolte's framework, which the article describes as preserving states' authority to legislate. Claim matches."
-},
-{
-"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-20",
-"note": "Quote verbatim, attributed to Rep. April McClain Delaney."
+"corrected_quote": "Maryland families are struggling with ever-increasing utility bills. Lowering the cost of living has to be the top priority for all levels of government. I will continue fighting to protect Maryland consumers and ensure we're building out a reliable, sustainable and — most importantly — affordable energy future",
+"corrected_date": "2026-03-12",
+"note": "Same source as item 1; verbatim quote attributed to Olszewski, truncated mid-sentence in the item."
 }
 ],
 "score_objections": [
 {
 "dimension": "china_chips",
-"objection": "None of the 14 sourced items touches chip export controls, China, or semiconductor policy. A -2 'Tighten export controls' score has no supporting evidence in this record.",
-"suggested_score": null,
-"suggested_label": null
-}
-]
+"objection": "The only cited evidence is a letter he cosigned that explicitly urges the Administration to press allies for countrywide controls on chokepoint chipmaking tools and to act unilaterally to close gaps if allies do not. That is an affirmative call to tighten controls, not merely a lean; -1 undersells the source. If -1 is kept because he is a cosigner rather than lead author, that reasoning should be noted.",
+"suggested_score": -2,
+"suggested_label": "Tighten export controls"
 },
 {
-"bioguide": "M000687",
-"checks": [
-{
-"url": "https://mfume.house.gov/media/press-releases/reps-mfume-tonko-introduce-power-for-the-people-act-to-shield-consumers-from-rising-energy-costs",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-04-09",
-"note": "Quote appears verbatim, attributed to Rep. Mfume. Release also states data centers are 'critical to national security, economic development, and job growth' and that the bill prioritizes data centers bringing their own generation/storage. Van Hollen leads Senate companion."
-},
-{
-"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-12",
-"note": "Quote verbatim in Mfume's statement, which ends 'Congress must pass the POWER FOR THE PEOPLE ACT.' He also calls on the MD PSC and PJM to act swiftly."
-},
-{
-"url": "https://mcclaindelaney.house.gov/media/press-releases/maryland-democrats-urge-ferc-protect-marylanders-rising-electricity-costs-due",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-28",
-"note": "Mfume listed among delegation signers; quote verbatim from letter text; release says roughly $2 billion of PJM data-center-driven transmission costs assigned to Maryland ratepayers."
-},
-{
-"url": "https://thedig.howard.edu/all-stories/congressmen-kweisi-mfume-and-ro-khanna-join-howard-university-discuss-ai-workforce-and-tech",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-02",
-"note": "Quote verbatim, attributed to Mfume addressing students on AI and workforce. Page shows date 'Tue, 12/02' (Dec 2, 2025 was a Tuesday). Note the quote is about opportunity/workforce, not AI safety rules; weak evidence for the ai_risk dimension."
-},
-{
-"url": "https://fedscoop.com/digital-identity-fraud-login-dot-gov-federal-response/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-17",
-"note": "FedScoop reports ranking member Mfume 'committed to working on updating' the Privacy Act of 1974; quote verbatim. Hearing context is AI-fueled identity fraud."
-},
-{
-"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-03",
-"note": "Mfume named among 44 signers; quote verbatim from the letter excerpt, which urges excluding 'any AI moratorium or preemption' from the FY26 NDAA."
-},
-{
-"url": "https://mfume.house.gov/media/press-releases/reps-mfume-tonko-introduce-power-for-the-people-act-to-shield-consumers-from-rising-energy-costs",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-04-09",
-"note": "Headline quote appears verbatim in Mfume's statement in the release."
-}
-],
-"score_objections": [
-{
-"dimension": "data_centers",
-"objection": "None of the three sources call for pausing or blocking data centers. Mfume's own bill release calls data centers 'critical to national security, economic development, and job growth' and the bill creates a load queue that prioritizes data centers bringing their own generation; the FERC letter and delegation statement are about shifting costs off ratepayers. His position is cost allocation and ratepayer protection, not a moratorium.",
+"dimension": "tech_regulation",
+"objection": "None of the five cited sources address Big Tech regulation directly; the closest is the Matsui letter's general endorsement of 'common-sense guardrails' for AI. The -1 score is plausible but rests on thin evidence in this item set.",
 "suggested_score": -1,
-"suggested_label": "Protect ratepayers first"
+"suggested_label": "Targeted rules"
 }
 ]
 },
 {
-"bioguide": "R000606",
+"bioguide": "E000301",
 "checks": [
+{
+"url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-12",
+"note": "Page loads directly (status 200, published 2026-03-12). Quote is attributed to 'Congresswoman Sarah Elfreth' and appears verbatim; the same statement contains the China/environmental-safeguards line, so both halves of the claim are supported."
+},
 {
 "url": "https://mcclaindelaney.house.gov/media/press-releases/maryland-democrats-urge-ferc-protect-marylanders-rising-electricity-costs-due",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-07-28",
-"note": "Page lists Jamie Raskin among the delegation signers; quote appears verbatim in the letter text; letter asks FERC to require PJM to assign data-center-driven transmission costs to data centers rather than Maryland ratepayers."
+"note": "Release dated July 28, 2026 lists Sarah Elfreth among the Maryland delegation signers; quote appears verbatim in the letter text; letter references OPC docket EL26-63 and out-of-state data centers driving PJM transmission costs, matching the claim."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "The fetch tool returned zero chars for the PDF, so I downloaded it with curl and extracted text with pypdf. Letter dated November 26, 2025 to Johnson, Thune, Jeffries and Schumer; quote appears verbatim; 'Sarah Elfreth, Member of Congress' appears in the signature block (page 6). Did not independently count the 81 signers."
 },
 {
 "url": "https://mfume.house.gov/media/press-releases/congressman-mfume-maryland-delegation-holds-meeting-to-discuss-energy-affordability-and-reliability",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-03-12",
-"note": "Quote is verbatim and attributed to Raskin. His two-sentence statement does not mention data centers; other members (Van Hollen, Harris, Ivey) do, so the claim's characterization is accurate."
-},
-{
-"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-subcommittee-hearing-on-protecting-creators-in-the-age-of-ai-and-the-internet",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-30",
-"note": "Quote verbatim. Statement calls for safe adoption of generative AI accounting for environmental, labor and social consequences; the data-center linkage is the tracker's inference but reasonable."
-},
-{
-"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-subcommittee-hearing-on-protecting-creators-in-the-age-of-ai-and-the-internet",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-30",
-"note": "Quote verbatim. Immediately preceding sentence: 'There's no reason we should do away with common law tort claims that act as the basic national safety net for fairness,' supporting the tort-liability half of the claim."
-},
-{
-"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-09-18",
-"note": "Quote verbatim (curly apostrophe in Americans'). Page also raises 'what is an appropriate standard of care for AI platforms to protect users from harmful consequences' as an open question Congress must examine."
-},
-{
-"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-remarks-at-subcommittee-hearing-on-artificial-intelligence-innovation-and-competition",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-04-02",
-"note": "Quote verbatim. Preceding text says the Trump administration reversed Biden's 2023 AI executive order that laid out guardrails, then hobbled the FTC."
-},
-{
-"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-subcommittee-hearing-on-government-surveillance-and-the-protection-of-americans-sensitive-data",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-04-08",
-"note": "Quote verbatim; next sentences describe data brokers re-identifying data sold to government and facial-recognition cameras, framed as making it harder to rein in government intrusion."
-},
-{
-"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-remarks-at-subcommittee-hearing-on-artificial-intelligence-innovation-and-competition",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-04-02",
-"note": "Quote verbatim; opens with 'It's hard to think of an antitrust matter more pressing than concentration in the AI market.'"
-},
-{
-"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-members-raskin-and-pallone-demand-trump-reinstate-ftc-commissioners",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-03-21",
-"note": "Quote verbatim from the Raskin-Pallone letter to Trump about the firing of Commissioners Bedoya and Slaughter."
-},
-{
-"url": "https://raskin.house.gov/2022/4/rep-raskin-sends-letter-to-ftc-doj-calling-for-increased-scrutiny-of-big-tech-s-creeping-capture-and-takeover-of-the-auto-industry",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2022-04-01",
-"note": "Quote verbatim from the lawmakers' letter to FTC and DOJ; page names Google and other Big Tech giants' moves into the auto market."
-},
-{
-"url": "https://raskin.house.gov/2023/2/raskin-markey-urge-nih-to-investigate-the-impact-of-technology-and-social-media-on-children",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2023-02-27",
-"note": "Page states 'Congressman Raskin led the CAMRA Act in the U.S. House of Representatives for three Congresses before its enactment into law' and that it funds NIH research on social media, AI and other tech's effects on children. 'Groundwork for kids online rules' is the tracker's framing, not on the page."
-},
-{
-"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-09-18",
-"note": "Quote verbatim; statement cites the bipartisan attorneys general letter and 17 Republican governors' letter opposing the moratorium."
-},
-{
-"url": "https://democrats-judiciary.house.gov/media-center/press-releases/at-hearing-on-federal-preemption-of-state-ai-laws-subcommittee-democrats-underscore-need-for-guardrails-to-protect-americans-while-promoting-innovation",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-09-18",
-"note": "Quote verbatim as Raskin's question; Professor Richards replied 'Absolutely' and then said 'I think it would be disastrous.'"
-},
-{
-"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-subcommittee-hearing-on-protecting-creators-in-the-age-of-ai-and-the-internet",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2026-06-30",
-"note": "Quote verbatim and the full sentence ends 'with no federal regulation at all,' supporting the core claim. But the page never mentions a White House framework; the 'After the White House framework' framing is not sourced here."
-},
-{
-"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-subcommittee-hearing-on-threats-to-ai-innovation",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-05-07",
-"note": "Quote verbatim; he goes on to name China's economic espionage as cause for congressional scrutiny. Nothing on the page addresses chips or export controls, as the claim itself concedes."
-},
-{
-"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-09-18",
-"note": "Quote verbatim, in a passage rejecting the argument that unrestrained AI development is needed to compete with China. It is about safeguards, not chip exports."
-},
-{
-"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-subcommittee-hearing-on-protecting-creators-in-the-age-of-ai-and-the-internet",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-30",
-"note": "Headline quote appears verbatim (page uses a curly apostrophe in I'm)."
+"note": "Quote appears verbatim, attributed to Congresswoman Sarah Elfreth, in the March 12, 2026 delegation release."
 }
 ],
 "score_objections": [
 {
-"dimension": "china_chips",
-"objection": "Neither source addresses chip sales or export controls. Item 15 is about trade-secret theft and espionage; item 16 is about not dropping AI safeguards to compete with China. There is no evidence of a position on semiconductor export policy, so -1 'Leans hawkish' is not supported by the cited material.",
+"dimension": "tech_regulation",
+"objection": "None of the four sources speaks to Big Tech or platform regulation; the only AI-policy item is the anti-preemption letter, which is about state authority over AI rather than a general stance on regulating tech companies. Evidence for a -1 on this axis is too thin from these sources alone.",
 "suggested_score": null,
 "suggested_label": null
 }

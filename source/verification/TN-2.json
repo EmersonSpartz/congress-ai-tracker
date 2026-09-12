@@ -1,309 +1,159 @@
 [
 {
-"bioguide": "O000175",
+"bioguide": "B001309",
 "checks": [
 {
-"url": "https://homeland.house.gov/2026/04/23/media-advisory-subcommittee-chairman-ogles-announces-hearing-on-combating-cyber-threats-to-telecom-networks-data-centers-satellites",
+"url": "https://thehill.com/homenews/house/6062972-data-centers-republicans-trump-burchett/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-04-23",
-"note": "Quote appears verbatim, attributed to Subcommittee Chairman Ogles. Page frames data centers purely as infrastructure to defend from CCP cyber threats (Salt Typhoon); nothing on siting, power or build-out, matching the claim."
+"corrected_date": "2026-09-01",
+"note": "Page names Burchett, contains 'I guess I'm backwards and poor' (to MeidasTouch on the House steps), the military-installation suggestion, and the verbatim quote 'We need more local control. We should have brought everybody to the table.'"
 },
 {
-"url": "https://homeland.house.gov/2026/06/04/subcommittee-chairman-ogles-opens-hearing-on-frontier-ai-models-the-future-of-cybersecurity",
-"verdict": "confirmed",
+"url": "https://www.knoxnews.com/story/news/politics/2026/09/09/tim-burchett-and-michaela-bartlett-stand-on-data-centers-congress/91596941007/",
+"verdict": "unreachable",
 "corrected_quote": null,
-"corrected_date": "2026-06-04",
-"note": "Verbatim in Ogles's prepared opening statement. Following passage explicitly raises bioweapon uplift once a foreign adversary strips safeguards from a copied American model, supporting the claim."
+"corrected_date": null,
+"note": "Knox News returned 403 on direct fetch; Wayback fallback connection refused; WebFetch also blocked. Claim could not be verified from the page."
 },
 {
-"url": "https://www.techpolicy.press/house-subcommittee-on-cybersecurity-and-infrastructure-protection-hosts-hearing-on-ai-security/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-04",
-"note": "Verbatim in the lightly edited transcript, attributed to Rep. Andy Ogles (R-Tenn.), addressed to Sandra Joyce. Transcript published 2026-06-07; hearing was June 4, 2026. Tech Policy Press notes the transcript may contain small errors."
-},
-{
-"url": "https://homeland.house.gov/2025/12/17/subcommittee-chairmen-ogles-brecheen-deliver-opening-statements-in-hearing-with-anthropic-google-quantum-xchange-on-future-of-cybersecurity",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-17",
-"note": "Verbatim, located in Ogles's prepared statement (before the 'Watch Chairman Brecheen's opening statement' break). Context is congressional oversight ensuring 'security keeps pace with adoption', framed as not slowing innovation."
-},
-{
-"url": "https://cyberscoop.com/house-hearing-frontier-ai-cybersecurity-threats/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-05-28",
-"note": "Verbatim, attributed to Ogles 'in a written statement'; he also says he wants to 'win this AI arms race.' Supports the strategic-weapon / race framing. Whether that is 'light-touch' is interpretation, not stated on the page."
-},
-{
-"url": "https://homeland.house.gov/2025/11/26/homeland-republicans-request-anthropic-google-quantum-xchange-testimony-following-report-of-ai-assisted-partially-autonomous-prc-cyber-operation",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-11-26",
-"note": "Ogles is a named co-signer of the letters to Anthropic, Google and Quantum Xchange; release cites Anthropic's report of a PRC actor executing an autonomous attack 'with minimal human involvement' and calls it a growing homeland security risk."
-},
-{
-"url": "https://homeland.house.gov/2026/06/04/subcommittee-chairman-ogles-opens-hearing-on-frontier-ai-models-the-future-of-cybersecurity",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-04",
-"note": "Verbatim. Next sentence calls for 'a serious strategy to ensure capable American models, especially open-weight models' are a real alternative. Note this is about model competition, not chip export controls."
-},
-{
-"url": "https://cyberscoop.com/house-hearing-frontier-ai-cybersecurity-threats/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-05-28",
-"note": "Verbatim, attributed to Ogles's written statement. Supports China-competition framing; no mention of chips or export controls."
-},
-{
-"url": "https://homeland.house.gov/2026/04/29/chairmen-garbarino-moolenaar-announce-joint-investigation-into-national-security-risks-posed-by-prc-ai-models",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2026-04-29",
-"note": "Release is by Garbarino and Moolenaar; Ogles appears only in a background paragraph as co-signer of the Nov 2025 letters to Anthropic/Google/Quantum Xchange. The page does not say his subcommittee's work 'fed into' the investigation; that is inference. No chip or export-control content."
-},
-{
-"url": "https://homeland.house.gov/2026/06/04/subcommittee-chairman-ogles-opens-hearing-on-frontier-ai-models-the-future-of-cybersecurity",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-04",
-"note": "Verbatim in Ogles's prepared opening statement."
-}
-],
-"score_objections": [
-{
-"dimension": "china_chips",
-"objection": "None of the four china_chips sources mention semiconductors, chips, Nvidia, or export controls. They show general China hawkishness on cyber threats and Chinese AI models, and the June 4 statement actually pushes for American open-weight models to be adopted worldwide (a 'spread American tech' posture that does not map cleanly onto tightening chip exports). Evidence is too thin to place him on the chip-export scale; if a score is kept, -1 is the only defensible inference but it rests on inference, not sourced chip statements.",
-"suggested_score": null,
-"suggested_label": null
-}
-]
-},
-{
-"bioguide": "R000612",
-"checks": [
-{
-"url": "https://www.williamsonscene.com/news/john-rose-spring-hill-tn/article_17bd3208-f7b6-4e26-bba9-dec8762c521e.html",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-22",
-"note": "Quote appears verbatim (brackets are in the original). Article also says Rose 'is not opposed to all data centers' and warned total opposition could let China control Americans' data. Page published 2026-07-22."
-},
-{
-"url": "https://www.local3news.com/local-news/data-centers-and-flock-cameras-what-do-the-republican-candidates-for-governor-think-about-these/article_bd1e215e-ccde-41ba-9fa2-5759bd9622fe.html",
+"url": "https://fox17.com/news/local/we-gotta-ban-these-dadgum-things-congressman-criticizes-flock-cameras-police-respond",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-07-24",
-"note": "Verbatim in Congressman Rose's response. He goes on to say the state should lay out a framework to help local communities evaluate data centers; no state-level block proposed. Published 2026-07-24 (updated 2026-08-06)."
+"note": "Quote appears verbatim; article says he claims Flock cameras violate Fourth Amendment rights and that Americans should 'never choose between safety and liberty.' Note the topic is license-plate-reader surveillance (Protection Against Mass Surveillance Act), not AI model regulation."
 },
 {
-"url": "https://www.local3news.com/local-news/data-centers-and-flock-cameras-what-do-the-republican-candidates-for-governor-think-about-these/article_bd1e215e-ccde-41ba-9fa2-5759bd9622fe.html",
+"url": "https://ultimateclassicrock.com/jack-white-congressman-ai-video/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-07-24",
-"note": "Verbatim. He says China wants US communities to turn away data centers so they locate in China, and that the US should not depend on China for powering AI. Pro-build framing is fair."
+"corrected_date": "2025-12-30",
+"note": "Article confirms Burchett posted an AI-generated fake video of Jack White saying something he never said and that White publicly rebuked him. As the claim itself says, this is conduct, not a policy position."
 },
 {
-"url": "https://www.local3news.com/local-news/data-centers-and-flock-cameras-what-do-the-republican-candidates-for-governor-think-about-these/article_bd1e215e-ccde-41ba-9fa2-5759bd9622fe.html",
+"url": "https://burchett.house.gov/media/press-releases/rep-burchett-votes-require-ccp-affiliated-company-divest-tiktok",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-07-24",
-"note": "Verbatim. The passage is national-security framing only; nothing on AI safety rules, so it does not support an ai_risk score by itself, matching the claim."
+"corrected_date": "2024-03-13",
+"note": "Press release contains the quote verbatim and frames the vote as stopping the CCP from controlling 'an enormous information mining source.'"
 },
 {
-"url": "https://johnrose.house.gov/media/press-releases/rep-rose-tiktok-currently-poses-clear-and-present-danger-united-states",
+"url": "https://thehill.com/homenews/house/6062972-data-centers-republicans-trump-burchett/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2024-03-12",
-"note": "Verbatim from floor remarks as prepared. He rose in support of the Protecting Americans from Foreign Adversary Controlled Applications Act. Press release dated March 12, 2024."
-},
-{
-"url": "https://johnrose.house.gov/media/in-the-news/gop-support-house-takes-first-big-step-curb-power-big-tech",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2022-10-04",
-"note": "Page says Rose, 'along with 38 House Republicans, voted for legislation to curb Big Tech' (39 total), linking a Daily Signal article. Posted Oct 4, 2022."
-},
-{
-"url": "https://johnrose.house.gov/media/press-releases/president-trump-signs-rep-roses-bill-safeguard-homebuyer-privacy-law",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-09-05",
-"note": "Homebuyers Privacy Protection Act, introduced by Rose, signed Sept 5, 2025; targets trigger-lead solicitations after mortgage applications. Narrow consumer privacy fix as claimed."
-},
-{
-"url": "https://www.williamsonscene.com/news/john-rose-spring-hill-tn/article_17bd3208-f7b6-4e26-bba9-dec8762c521e.html",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-22",
-"note": "Headline quote is verbatim on the page."
-}
-],
-"score_objections": []
-},
-{
-"bioguide": "V000139",
-"checks": [
-{
-"url": "https://vanepps.house.gov/media/press-releases/rep-van-epps-speaks-at-sst-budget-hearing-on-revitalizing-american-scientific-research",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-23",
-"note": "Page loaded directly (status 200, published 2026-07-23). Quote appears verbatim in Van Epps' opening remarks: 'Director Kratsios and OSTP have delivered by supporting these goals: the National AI Legislative Framework provided clear direction on how Congress should act to spur…on AI innovation that serves Americans'. Praise for the administration's innovation-first framework is clearly supported."
-},
-{
-"url": "https://vanepps.house.gov/media/press-releases/rep-van-epps-speaks-at-sst-budget-hearing-on-revitalizing-american-scientific-research",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-23",
-"note": "Quote verbatim in his question to Kratsios. He follows it with questions about balancing an open innovation ecosystem against IP theft and protecting American AI leadership; no request for safety rules. Claim is a fair reading."
-},
-{
-"url": "https://vanepps.house.gov/media/press-releases/rep-van-epps-speaks-at-sst-budget-hearing-on-revitalizing-american-scientific-research",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2026-07-23",
-"note": "Quote verbatim, but the page never mentions preemption, state AI laws, or a national rulebook; the claim itself concedes this. Support for a preemption position is inferred from generic praise of the framework, so the page only partially supports a preemption item."
-},
-{
-"url": "https://vanepps.house.gov/media/press-releases/rep-van-epps-speaks-at-sst-budget-hearing-on-revitalizing-american-scientific-research",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-23",
-"note": "Quote verbatim: 'how is OSTP responding to the threat to American AI leadership posed by Chinese open source and open weight models?' He also cites Moonshot's 'large-scale covert distillation'. Claim supported. Note this is about models/distillation, not chip export controls."
-},
-{
-"url": "https://vanepps.house.gov/media/press-releases/rep-van-epps-speaks-at-sst-budget-hearing-on-revitalizing-american-scientific-research",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-23",
-"note": "Quote appears verbatim as the opening line of his question to Kratsios."
-}
-],
-"score_objections": [
-{
-"dimension": "preemption",
-"objection": "The only source never mentions preemption, state laws, or a single federal rulebook. Scoring +1 rests entirely on inferring that praising the White House framework in a budget hearing equals endorsing its preemption plank; evidence is too thin for a directional score.",
-"suggested_score": null,
-"suggested_label": null
-},
-{
-"dimension": "china_chips",
-"objection": "The only source concerns Chinese open-weight models and covert distillation of US models, not semiconductor export controls or chip sales. Nothing here speaks to the china_chips dimension as defined; a -1 'Leans hawkish' score is not supported by this evidence.",
-"suggested_score": null,
-"suggested_label": null
-}
-]
-},
-{
-"bioguide": "K000392",
-"checks": [
-{
-"url": "https://www.commercialappeal.com/story/news/local/2024/06/05/elon-musk-xai-memphis-politicians-react/73989801007/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2024-06-05",
-"note": "Live page is bot-blocked (403/TollBit) and the Dec 2024 and Mar 2025 Wayback captures are 406 error pages, but the 2024-06-06 Wayback capture (web.archive.org/web/20240606184956) loads the full article (datePublished 2024-06-05T21:29Z). It says Kustoff 'took to X' and quotes him verbatim: 'This historic investment, which is the largest single investment in Memphis' history, will lead us into the next generation of technology and transform West Tennessee into an innovation hub.' No caveats or conditions attached, so 'unconditional welcome' is fair."
-},
-{
-"url": "https://kustoff.house.gov/media/press-releases/congressman-david-kustoff-statement-hatachi-energy-investment-crockett-county",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-08-20",
-"note": "Press release dated 2025-08-20 loads directly; quote appears verbatim ('Beyond the creation of 100 new jobs, this project strengthens our nation's energy infrastructure and ensures grid stability as we meet growing energy demand.'). Caveat: Hitachi Energy's $106M Alamo plant is a grid-equipment (transformer) factory, not a data center, and the release never mentions AI or data centers; it supports the 'build for demand' framing only indirectly."
-},
-{
-"url": "https://www.commercialappeal.com/story/news/local/2024/06/05/elon-musk-xai-memphis-politicians-react/73989801007/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2024-06-05",
-"note": "Same page as item 1; quote verbatim in the 2024-06-06 Wayback capture, attributed to Kustoff's X post."
+"corrected_date": "2026-09-01",
+"note": "'I guess I'm backwards and poor' appears verbatim, attributed to Burchett."
 }
 ],
 "score_objections": [
 {
 "dimension": "ai_risk",
-"objection": "None of the sources in this batch touch AI safety or AI rules; the only Kustoff AI-related material is a celebratory X post about xAI's Memphis investment. If no other evidence exists, -1 'Targeted guardrails' is unsupported and the dimension should be left unscored.",
+"objection": "The two ai_risk sources are a Flock license-plate-camera surveillance bill (Fourth Amendment framing) and his own posting of an AI deepfake, which the item itself says is not a policy position. Neither addresses AI model safety, frontier-AI rules, or AI liability. Evidence is too thin to place him at -1; suggest no position unless an AI-specific source is found.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "F000459",
+"checks": [
+{
+"url": "https://newschannel9.com/news/local/repfleischmann-says-tva-customers-shouldnt-see-surprise-rate-hikes-tied-to-data-centers-chuck-fleischmann-tva-rates-data-center-electricity-demand-tennessee-tva-ai-power-usage-chattanooga-electricity-rates-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-27",
+"note": "Quote appears verbatim. Article says he pointed to a Trump executive order he says would require data centers to cover their own power costs; also 'That will not happen now' on local bills going up. Published May 27, 2026."
+},
+{
+"url": "https://newschannel9.com/news/local/repfleischmann-says-tva-customers-shouldnt-see-surprise-rate-hikes-tied-to-data-centers-chuck-fleischmann-tva-rates-data-center-electricity-demand-tennessee-tva-ai-power-usage-chattanooga-electricity-rates-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-27",
+"note": "Quote verbatim. Article: he acknowledged TVA faces rising demand pressure and says the utility is expanding generation including additional natural gas plants. He does not call for limiting data center growth."
+},
+{
+"url": "https://broadbandbreakfast.com/nuclear-congressman-says-small-modular-reactors-key-to-data-center-growth/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-03-27",
+"note": "Quote verbatim at Broadband Breakfast Data Centers, Nuclear Power and Broadband Summit (Mar 27, 2025). Also: 'In order for AI to boom — and it will boom — we're going to need nuclear' and 'put one of these small modular or advanced small reactors right on site'."
+},
+{
+"url": "https://www.eenews.net/articles/appropriators-add-data-center-language-to-energy-water-bill/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-21",
+"note": "Article names Fleischmann as subcommittee chair; committee advanced FY27 Energy-Water bill 34-25 after Democratic amendments on data centers, rising energy bills; bill shores up DOE science and AI initiatives and nuclear funding."
+},
+{
+"url": "https://fleischmann.house.gov/media/in-the-news/the-time-to-forge-america-s-nuclear-energy-future-is-now",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-30",
+"note": "Washington Times op-ed reposted on his site, April 30, 2025. Quote verbatim; argues AI-driven demand requires more nuclear energy."
+},
+{
+"url": "https://newschannel9.com/news/local/federal-energy-leaders-address-chattanooga-concerns-over-ai-data-centers-and-power-rates-us-deputy-secretary-of-the-department-of-energy-james-danly-congressman-chuck-fleischmann-tva",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-28",
+"note": "Article recaps that Fleischmann promised constituents would not see rate hikes from data centers, alongside DOE Deputy Secretary James Danly's Chattanooga visit."
+},
+{
+"url": "https://fleischmann.house.gov/media/press-releases/icymi-energy-water-chairman-fleischmann-hosts-energy-secretary-wright-at-oak-ridge-national-lab",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-03-06",
+"note": "Quote verbatim in his statement. No mention of AI guardrails on the page."
+},
+{
+"url": "https://fleischmann.house.gov/media/press-releases/rep-fleischmann-chairman-of-the-energy-and-water-appropriations-subcommittee-releases-fy27-legislation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-15",
+"note": "Quote appears verbatim as a bullet in the FY27 bill highlights."
+},
+{
+"url": "https://www.eenews.net/articles/house-energy-water-bill-backs-nuclear-and-ai-cuts-renewables/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-14",
+"note": "Quote verbatim, attributed to Fleischmann. Article says bill proposes to surge funding for nuclear energy and AI while slashing Biden-era energy priorities."
+},
+{
+"url": "https://newschannel9.com/news/local/repfleischmann-says-tva-customers-shouldnt-see-surprise-rate-hikes-tied-to-data-centers-chuck-fleischmann-tva-rates-data-center-electricity-demand-tennessee-tva-ai-power-usage-chattanooga-electricity-rates-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-27",
+"note": "Headline quote appears verbatim and is attributed to Fleischmann."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the ten sources mention export controls, chips, or China. A -2 'Tighten export controls' score has no evidentiary support in the item list; either add a source or leave unscored.",
 "suggested_score": null,
 "suggested_label": null
 },
 {
 "dimension": "tech_regulation",
-"objection": "No source in this batch addresses Big Tech or platform regulation; -1 'Targeted rules' has no cited evidence here. Leave unscored unless other items support it.",
+"objection": "No source touches Big Tech regulation, platform rules, or kids' online safety. The -1 'Targeted rules' score is unsupported by the listed evidence; add a source or leave unscored.",
 "suggested_score": null,
 "suggested_label": null
 }
 ]
 },
 {
-"bioguide": "C001068",
+"bioguide": "D000616",
 "checks": [
 {
-"url": "https://cohen.house.gov/media-center/press-releases/congressman-cohen-introduces-clean-cloud-act",
+"url": "https://desjarlais.house.gov/2025/5/desjarlais-celebrates-house-passage-of-one-big-beautiful-bill",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2025-11-20",
-"note": "Quote appears verbatim in Cohen's statement. Page also says the bill ensures data-center development 'inevitably grows' but is powered responsibly, i.e. conditions on growth rather than a block."
-},
-{
-"url": "https://cohen.house.gov/media-center/press-releases/congressman-cohen-submits-public-comment-xai-emissions-permit",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-05-01",
-"note": "Verbatim. Page also confirms he asked SCHD for the most stringent controls, frequent reporting, regular site visits and real-time monitoring, matching the claim."
-},
-{
-"url": "https://cohen.house.gov/media-center/press-releases/congressman-cohen-seeks-greater-transparency-xai-its-power-generation",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-02-25",
-"note": "Verbatim, including the 'largescale' spelling. Claim matches: acknowledges economic upside, demands transparency and community engagement."
-},
-{
-"url": "https://cohen.house.gov/media-center/press-releases/congressman-cohen-urges-immediate-continuation-colossus-water-recycling",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-04-10",
-"note": "Verbatim. Statement urges xAI to complete the greywater plant as promised and backs Mayor Young's call for ironclad assurances."
-},
-{
-"url": "https://cohen.house.gov/media-center/press-releases/congressman-cohen-applauds-economic-impact-xai-gigafactory-memphis",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2024-06-05",
-"note": "Verbatim. Cohen cheered the xAI announcement, calling Musk's decision 'smart' and a boon to the tech industry; predates the turbine and water disputes."
-},
-{
-"url": "https://clarke.house.gov/?p=102767",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-03",
-"note": "Redirects to clarke.house.gov post. Quote verbatim; Steve Cohen is listed among the 44 signers. Letter urges excluding any AI moratorium or preemption from the FY26 NDAA."
-},
-{
-"url": "https://cohen.house.gov/media-center/press-releases/congressman-cohen-introduces-clean-cloud-act",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-11-20",
-"note": "Headline quote appears verbatim on the Clean Cloud Act release."
+"corrected_date": "2025-05-22",
+"note": "Page loaded directly (status 200). DesJarlais (R-TN-04) statement of May 22, 2025 praises H.R. 1 for the tax cut, energy production, southern border and military, and advancing Trump's agenda. The page contains no mention of AI, the moratorium, or state preemption, exactly as the claim states. Note: the page is evidence of silence only; it does not establish any preemption position."
 }
 ],
-"score_objections": [
-{
-"dimension": "data_centers",
-"objection": "None of the sources show Cohen wanting to pause or block data centers. He cheered the xAI project, says data-center growth is 'inevitable' and should be powered responsibly, acknowledges 'transformative economic potential', and frames the Clean Cloud Act around not raising Memphis bills or straining TVA. Even the tracker's own item 1 claim says he 'puts ratepayers and the grid ahead of data center growth', which is the -1 label, not -2.",
-"suggested_score": -1,
-"suggested_label": "Protect ratepayers first"
-},
-{
-"dimension": "china_chips",
-"objection": "No item in the evidence set touches export controls, chips or China. A -2 score has no support in these sources.",
-"suggested_score": null,
-"suggested_label": null
-}
-]
+"score_objections": []
 }
 ]

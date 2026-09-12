@@ -1,0 +1,364 @@
+[
+{
+"bioguide": "H001072",
+"name": "J. French Hill",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Hill treats data center growth as a sign of a strong economy and wants more nuclear power and grid upgrades so the new demand can be met reliably and affordably. He has not called for limits on data centers, but I could not read his reported Feb 2026 comments on Arkansas projects.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Op-ed: Our Energy Future (Arkansas Democrat-Gazette, reposted on Hill's site)",
+"url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9429",
+"date": "2025-01-16",
+"quote": "Across the country, energy demand is growing, fueled by data-center expansion, increased broad-based electrification, and the onshoring of American manufacturing.",
+"what_it_shows": "He frames data center demand as economic growth and says the challenge is delivering power reliably and affordably, mainly through nuclear plants and grid modernization."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "high",
+"summary": "Hill is a light-touch, pro-innovation voice on AI. He sponsors a bill letting banks test AI in regulatory sandboxes with some rules waived, says regulators should not stop firms from experimenting, and prefers principles like a human in the loop and existing laws over new AI mandates.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 4801, Unleashing AI Innovation in Financial Services Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4801",
+"date": "2025-07-29",
+"quote": null,
+"what_it_shows": "His bill creates regulatory sandboxes at federal financial agencies where AI projects can run with some normal rules turned off."
+},
+{
+"type": "statement",
+"title": "Press release: Chairman Hill introduces bipartisan bill to promote AI in financial services",
+"url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410824",
+"date": "2025-07-30",
+"quote": "The Unleashing AI Innovation in Financial Services Act ensures that federal financial agencies allow the companies they oversee to experiment with AI through regulatory sandboxes.",
+"what_it_shows": "In his own words, the goal is to let regulated firms experiment with AI and keep the U.S. at the front of AI innovation."
+},
+{
+"type": "hearing",
+"title": "Hearing release: Financial Services Committee examines artificial intelligence in financial services",
+"url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410946",
+"date": "2025-12-10",
+"quote": "Identifying gaps and obstacles in our regulatory frameworks will help Congress create an AI landscape where innovation can flourish without unnecessary barriers, while ensuring robust consumer protections, and risk-based, technology-neutral regulation.",
+"what_it_shows": "As chairman he frames the job as removing barriers to AI while keeping consumer protections, and he wants rules that are risk-based and technology-neutral rather than AI-specific."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Hill applauds AI Task Force report on guiding principles for AI",
+"url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9405",
+"date": "2024-12-17",
+"quote": "In my view, two guiding principles should guide adoption. First, there should be a ‘human in the loop’ when using AI enhanced technology.",
+"what_it_shows": "His preferred safeguards are human oversight and company disclosure of AI use, not licensing or binding safety testing."
+},
+{
+"type": "statement",
+"title": "Speech: Rep. Hill speaks about AI at Ripon Society event",
+"url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9343",
+"date": "2024-07-24",
+"quote": "People freeze up and don’t do anything or they try to put a rock over the top of it and not let it advance or move, and that’s not realistic.",
+"what_it_shows": "He rejects a restrictive response to AI, compares it to the hands-off 1990s internet approach, and says regulators should not stop banks from using AI."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Mixed, leaning toward targeted rules. Hill says the country needs a nationwide privacy law giving consumers control of their data and is leading a rewrite of financial data privacy law, but he generally praises the light-touch approach taken toward the early internet.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Hill applauds AI Task Force report on guiding principles for AI",
+"url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9405",
+"date": "2024-12-17",
+"quote": "I believe we need a nationwide privacy law that facilitates consumers protecting their own Personally Identifiable Information (PII) and their right to own and control their own data.",
+"what_it_shows": "He backs a federal consumer privacy law, a specific new rule for tech and data companies."
+},
+{
+"type": "hearing",
+"title": "Hearing release: Full Committee examines the current U.S. financial data privacy framework",
+"url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411059",
+"date": "2026-03-18",
+"quote": "Most state consumer privacy laws exempt either GLBA compliant institutions or GLBA compliant data.",
+"what_it_shows": "He is exploring an update to the federal financial privacy law and is concerned about states diverging from the federal standard."
+},
+{
+"type": "letter",
+"title": "Press release: Chairman Hill and Vice-Chairman Huizenga letter to CFPB on consumer financial data rights",
+"url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410920",
+"date": "2025-11-21",
+"quote": "Hill and Huizenga commend the CFPB for their efforts to ensure consumers can meaningfully control and use their personal financial data.",
+"what_it_shows": "He supports rules that let consumers control and share their own financial data, built on existing law rather than a new regime."
+},
+{
+"type": "statement",
+"title": "Speech: Rep. Hill speaks about AI at Ripon Society event",
+"url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9343",
+"date": "2024-07-24",
+"quote": null,
+"what_it_shows": "Contradictory signal: he praises Congress for not regulating the internet in 1996 and says a free and open internet let the whole globe prosper."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "Hill has not said directly whether Congress should block state AI laws. His committee's Dec 2025 AI hearing release promoted unified federal AI rules over a patchwork of state laws, and he has voiced similar concern about states moving away from the federal financial privacy standard.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Hearing release: Financial Services Committee examines artificial intelligence in financial services (section 'On How Unified AI Laws Promote Innovation')",
+"url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410946",
+"date": "2025-12-10",
+"quote": null,
+"what_it_shows": "The release from Hill's committee highlights members calling for a unified federal AI framework to replace conflicting state rules; the quoted words belong to other members, not Hill."
+},
+{
+"type": "hearing",
+"title": "Hearing release: Full Committee examines the current U.S. financial data privacy framework",
+"url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411059",
+"date": "2026-03-18",
+"quote": "Most state consumer privacy laws exempt either GLBA compliant institutions or GLBA compliant data.",
+"what_it_shows": "On privacy, not AI, he questions states that diverge from the federal standard, a hint that he leans toward one national rule."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. His only related record is cosponsoring a 2024 bill giving a tax break for chip design done in America, which does not address exports.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9183, STAR Act of 2024 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9183",
+"date": "2024-10-01",
+"quote": null,
+"what_it_shows": "Supports a tax credit for domestic chip design and research; neutral on export controls."
+}
+]
+}
+},
+"signature": "House Financial Services chairman who champions AI regulatory sandboxes for banks and a principles-based, human-in-the-loop approach instead of new AI mandates.",
+"notable_quote": {
+"date": "2024-07-24",
+"text": "People freeze up and don’t do anything or they try to put a rock over the top of it and not let it advance or move, and that’s not realistic.",
+"url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9343"
+},
+"groups": [
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress), member",
+"House Financial Services Committee Bipartisan Working Group on Artificial Intelligence (118th Congress), Republican co-chair",
+"Chairman, House Committee on Financial Services (119th Congress), which includes the Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence"
+],
+"search_notes": "Ran about 14 Google News queries (AI, data center, AI regulation/preemption, chips/Nvidia/China, Big Tech/Section 230/KOSA, chatbot/deepfake/fraud, AVAIO/Google data centers, outbound investment, PACs) and scanned all 12 pages of his press releases (2024 to Sept 2026) plus his Speeches, Interviews and In the News listings; searched the Financial Services Committee site for AI, preemption, privacy, COINS and China. Opened and read: his Dec 2024 AI Task Force statement, Aug 2024 and July 2025 sandbox bill releases, July 2024 Ripon AI speech, July 2024 AI education op-ed, Jan 2025 energy op-ed, the committee's Dec 2025 AI hearing and Sept 2025 subcommittee AI hearing releases, the March 2026 financial data privacy hearing release, the Nov 2025 CFPB letter release, and a July 2026 PYMNTS story on the committee's AI-and-fraud report. Limits: Google News link decoding was rate-limited and the Wayback Machine was unreachable, so several news items could only be seen as headlines; the Feb 27, 2026 Arkansas Democrat-Gazette story quoting Hill on data centers is paywalled and could not be read, so that lead is not used. No AI super PAC support or attacks found. The landscape lead that he belongs to the Congressional AI Caucus could not be verified; his own caucus page does not list it, so it is omitted."
+},
+{
+"bioguide": "W000809",
+"name": "Steve Womack",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers, electricity bills or ratepayer protections as of Sept 2026, including on the Fort Smith data center rules in his district. Searched news and every press release title from 2024 to 2026.",
+"evidence": []
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI safety rules, chatbots, deepfakes or AI regulation. His only AI-adjacent language is support for defense spending on autonomous systems in NDAA vote statements, which does not speak to civilian AI rules.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His one verified action is cosponsoring the House Kids Online Safety Act in 2024, a major bill requiring apps to protect children. No statements on Big Tech, privacy or Section 230 were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7891, Kids Online Safety Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-09-17",
+"quote": null,
+"what_it_shows": "Supported requiring social media and other apps to protect kids from harmful content and addictive design."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on the state AI law moratorium, the Dec 2025 executive order or the March 2026 White House framework.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on AI chip export controls or Nvidia sales to China. His NDAA and appropriations statements mention deterring China in general terms only.",
+"evidence": []
+}
+},
+"signature": "No notable public AI activity found; cosponsored the House Kids Online Safety Act in 2024.",
+"notable_quote": null,
+"groups": [],
+"search_notes": "Ran 10 Google News queries (AI/artificial intelligence, data center Arkansas, chatbot/deepfake/KOSA/Big Tech/Section 230, China chips/Nvidia/TikTok, appropriations and FSGG AI, Fort Smith or Bentonville data center, technology 2026, Walmart/Tyson automation) and found nothing on AI policy. Scanned every press release title on womack.house.gov for 2024, 2025 and 2026 (about 90 releases) and his issues page; opened his FY26 and FY27 NDAA vote statements and Jan 2026 spending package statement, which mention autonomous systems and countering China's research spending but not AI rules, data centers or chips. His newsletters link to external pages that could not be retrieved. An Aug 26, 2026 5NEWS story titled 'Congressman Womack warns defense spending must keep pace as technology advances' could not be opened (Google News decoding rate-limited, Wayback unreachable). No AI PAC support or attacks found."
+},
+{
+"bioguide": "W000821",
+"name": "Bruce Westerman",
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "high",
+"summary": "Westerman wants to build faster. He wrote the House-passed SPEED Act to speed permits so America can meet energy demand and win the AI race, called the idea of a data center moratorium ridiculous, argues coordinated buildout can lower rates, plays down water concerns, and celebrated a new gas plant that will power data centers.",
+"evidence": [
+{
+"type": "interview",
+"title": "E&E News: Data center moratorium still has few takers on Capitol Hill",
+"url": "https://www.eenews.net/articles/data-center-moratorium-still-has-few-takers-on-capitol-hill/",
+"date": "2026-07-01",
+"quote": "The part that everybody’s missing is there’s an opportunity to help lower costs for everyone",
+"what_it_shows": "He called a national data center moratorium 'ridiculous' and said that if utilities, state regulators and data companies coordinate, higher grid use can spread costs and lower rates."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 4776, Standardizing Permitting and Expediting Economic Development (SPEED) Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4776",
+"date": "2025-07-25",
+"quote": null,
+"what_it_shows": "His permitting reform bill, passed by the House in Dec 2025, shortens environmental reviews and limits lawsuits against energy and infrastructure projects."
+},
+{
+"type": "statement",
+"title": "Press release: Westerman and Golden introduce bipartisan permitting reform legislation",
+"url": "https://naturalresources.house.gov/news/documentsingle.aspx?DocumentID=418297",
+"date": "2025-07-25",
+"quote": "The SPEED Act will help launch America into a future where we can effectively innovate and implement to revitalize our infrastructure, meet skyrocketing energy demands, lead the world in the AI race and work in harmony with our natural environment.",
+"what_it_shows": "He ties permitting reform directly to meeting AI-driven energy demand and winning the AI race."
+},
+{
+"type": "statement",
+"title": "Press release: House passes historic bipartisan permitting reform legislation",
+"url": "https://naturalresources.house.gov/news/documentsingle.aspx?DocumentID=418526",
+"date": "2025-12-18",
+"quote": "To build the infrastructure needed to deliver affordable energy to American families and defend against 21st-century threats, we must fix this process.",
+"what_it_shows": "On House passage he urged the Senate to act quickly, framing faster permitting as the path to affordable energy."
+},
+{
+"type": "interview",
+"title": "El Dorado News-Times: Westerman visits SAU, talks lithium, data centers and nuclear power",
+"url": "https://www.eldoradonews.com/news/2026/sep/12/westerman-visits-sau-talks-lithium-data-centers/",
+"date": "2026-09-12",
+"quote": "So the water is not near as big an issue as people like to make it out to be.",
+"what_it_shows": "He dismisses water-use worries about hyperscale data centers, saying new ones recirculate water, and expects nuclear power to accelerate to meet AI demand."
+},
+{
+"type": "statement",
+"title": "Hot Springs Village Voice: Entergy breaks ground for Ironwood Power Plant (Westerman remarks)",
+"url": "https://www.hsvvoice.com/stories/entergy-breaks-ground-for-ironwood-power-plant,155306",
+"date": "2026-09-08",
+"quote": "This plant is what I would call a clean energy plant. It is much more efficient than older plants.",
+"what_it_shows": "He called the 446 MW gas plant groundbreaking a milestone and the start of a new era supplying power for manufacturing and data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Mixed, leaning toward targeted guardrails. Westerman says AI can be used for bad things and that in some areas he wishes it had never been discovered, and he wants Congress to set guardrails on AI chatbots and AI-generated images that harm kids. At the same time he frames AI as a cold war with China that America must win.",
+"evidence": [
+{
+"type": "interview",
+"title": "El Dorado News-Times: Westerman visits SAU, talks lithium, data centers and nuclear power",
+"url": "https://www.eldoradonews.com/news/2026/sep/12/westerman-visits-sau-talks-lithium-data-centers/",
+"date": "2026-09-12",
+"quote": "So the more I learn about AI, the more I wish it was something we'd never discovered in some areas, but in other areas it can be very beneficial.",
+"what_it_shows": "He voices real unease about AI harms while saying it is not going away and someone will develop it."
+},
+{
+"type": "op_ed",
+"title": "Weekly column: Protecting our Kids in a Digital World",
+"url": "https://westerman.house.gov/media-center/weekly-columns/protecting-our-kids-digital-world",
+"date": "2026-03-13",
+"quote": "From AI-generated photos to chatbots on social media, we are seeing an increased amount of deception online that feed dangerous narratives.",
+"what_it_shows": "He backs the KIDS Act, cites a mother whose son died after interacting with an AI chatbot, and says Congress must step in to create guardrails for kids online."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9706, Facial Recognition to Protect Children Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9706",
+"date": "2026-07-15",
+"quote": null,
+"what_it_shows": "Supports face-scanning age checks so kids cannot reach adult accounts and products online."
+},
+{
+"type": "statement",
+"title": "Press release: Westerman and Golden introduce bipartisan permitting reform legislation",
+"url": "https://naturalresources.house.gov/news/documentsingle.aspx?DocumentID=418297",
+"date": "2025-07-25",
+"quote": null,
+"what_it_shows": "Contradictory signal: he frames federal policy around leading the world in the AI race, an innovation-first lens."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Westerman wants targeted rules aimed at protecting kids online. He says Big Tech refuses to take responsibility, backs the KIDS Act with age checks for adult sites, cosponsors a facial recognition age-verification bill, and wrote a bill to study cell phones in schools.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Weekly column: Protecting our Kids in a Digital World",
+"url": "https://westerman.house.gov/media-center/weekly-columns/protecting-our-kids-digital-world",
+"date": "2026-03-13",
+"quote": "Big Tech companies continuously refuse to take responsibility for the impact their content can have on kids and families.",
+"what_it_shows": "He calls for Congress to hold Big Tech accountable and require adult websites to verify ages, and notes his own Focus on Learning Act on phones in schools."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9706, Facial Recognition to Protect Children Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9706",
+"date": "2026-07-15",
+"quote": null,
+"what_it_shows": "A specific kids online safety rule pushing services to use face-scanning age checks."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on the state AI law moratorium, the Dec 2025 executive order or the March 2026 White House framework. His July 2026 weekly column on federalism praised working with state legislators but did not mention AI.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China. He calls AI leadership a national security issue in a cold war with China and does not want Arkansas lithium shipped to China, but I found nothing on chip exports specifically.",
+"evidence": [
+{
+"type": "interview",
+"title": "El Dorado News-Times: Westerman visits SAU, talks lithium, data centers and nuclear power",
+"url": "https://www.eldoradonews.com/news/2026/sep/12/westerman-visits-sau-talks-lithium-data-centers/",
+"date": "2026-09-12",
+"quote": "the implications of leading the world in AI development has become a national security issue",
+"what_it_shows": "General China-hawk framing of the AI race; it does not address chip export policy."
+}
+]
+}
+},
+"signature": "House Natural Resources chairman and SPEED Act permitting sponsor who calls a data center moratorium ridiculous, yet wants guardrails to protect kids from AI chatbots and deepfakes.",
+"notable_quote": {
+"date": "2026-09-12",
+"text": "So the more I learn about AI, the more I wish it was something we'd never discovered in some areas, but in other areas it can be very beneficial.",
+"url": "https://www.eldoradonews.com/news/2026/sep/12/westerman-visits-sau-talks-lithium-data-centers/"
+},
+"groups": [
+"Chairman, House Committee on Natural Resources (119th Congress)",
+"Conservative Climate Caucus, member",
+"Rural Broadband Caucus, member"
+],
+"search_notes": "Ran about 10 Google News queries (AI/artificial intelligence, data center(s), SPEED Act and AI, preemption/state AI laws, critical minerals and China AI, national security/nuclear data centers, PACs) and scanned all press release and weekly column slugs on westerman.house.gov plus the Natural Resources Committee press release, op-ed, floor statement and ICYMI listings (pages 1 to 18). Opened and read: E&E News July 2026 moratorium story, El Dorado News-Times Sept 12, 2026 interview, Hot Springs Village Voice Sept 8, 2026 Ironwood groundbreaking report, the committee's July 2025, Sept 2025 and Dec 2025 SPEED Act releases, his April 2025 permitting technology statement, and his March 2026 kids online safety, Feb 2026, June 2026 and July 2026 weekly columns. Limits: Google News link decoding was rate-limited and the Wayback Machine unreachable; the Feb 27, 2026 Arkansas Democrat-Gazette story quoting him on sizing data centers to available power is paywalled and could not be read; a Sept 23, 2025 Fox News op-ed titled 'Rapid rise of AI puts new urgency on Congress to unleash American energy' surfaced in his search results but its URL could not be found, so it is not used; a CSIS April 2025 event page returned 404. No AI super PAC support or attacks found. Congress.gov pages were blocked, so the H.R. 4776 sponsorship is confirmed through the committee's own releases."
+}
+]

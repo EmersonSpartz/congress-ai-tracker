@@ -1,0 +1,574 @@
+[
+{
+"bioguide": "S001224",
+"name": "Keith Self",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. Searches for Self with data center, electricity bills, ratepayers, ERCOT and the Westlake and Collin County fights turned up nothing in his own words.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Self's only AI-related guardrail is about government use of AI surveillance: his PRIVACY Act would make federal agents get a warrant before pulling data from AI-powered license plate cameras. He has taken no public position found on rules for advanced AI developers.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Self introduces the PRIVACY Act requiring warrants for federal access to AI-enhanced surveillance data",
+"url": "https://keithself.house.gov/media/press-releases/congressman-keith-self-introduces-privacy-act-protect-americans-fourth",
+"date": "2026-07-15",
+"quote": "Americans' Fourth Amendment right to be secure in their privacy does not disappear just because of new technology or artificial intelligence",
+"what_it_shows": "He wants a legal guardrail on how government uses AI-driven surveillance tools such as Flock cameras."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Self backs targeted tech rules aimed at kids, surveillance and China-linked products: age checks for adult sites, warrants for surveillance data, a ban on Chinese connected-car tech, and car-data privacy. No broad Big Tech break-up or Section 230 position found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Self introduces the PRIVACY Act (warrant requirement for surveillance data, limits on data retention)",
+"url": "https://keithself.house.gov/media/press-releases/congressman-keith-self-introduces-privacy-act-protect-americans-fourth",
+"date": "2026-07-15",
+"quote": "Americans have a constitutional right to be secure in their persons, houses, papers, and effects, and our government is supposed to get a warrant before invading that privacy. This bill simply restores that protection. Get a warrant.",
+"what_it_shows": "He is willing to write new federal limits on surveillance technology."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1623 SCREEN Act (age verification for adult websites)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-02-27",
+"quote": null,
+"what_it_shows": "Supports a kids-online-safety mandate on websites."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-13",
+"quote": null,
+"what_it_shows": "Supports banning connected-car tech from China, Russia, Iran and North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6734 Auto Data Privacy and Autonomy Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6734",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Supports giving car owners control over data their cars collect."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 231 Terminate TikTok on Campus Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/231",
+"date": "2023-03-08",
+"quote": null,
+"what_it_shows": "Earlier support for restricting a Chinese-owned app."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption or a moratorium on state AI laws. Searched for Self with state AI laws, preemption, moratorium and the Dec 2025 executive order; nothing found and he is not on the GUARDRAILS Act or the pro-preemption bills.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Self is a consistent export-control hawk. He wrote a bill to quadruple penalties for export-control violations and cosponsors the Chip Security Act, the Remote Access Security Act and the AI OVERWATCH Act, which would let Congress block AI chip sales to China.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 5853, bill to increase civil penalties under the Export Control Reform Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5853",
+"date": "2025-10-28",
+"quote": null,
+"what_it_shows": "He authored a bill to raise fines on companies that break export-control rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3447 Chip Security Act (location verification for advanced AI chips)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-10-03",
+"quote": null,
+"what_it_shows": "Supports built-in tracking to stop chip smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6875 AI OVERWATCH Act (congressional review of AI chip sales to adversaries)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Supports giving Congress power to block AI chip exports to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2683 Remote Access Security Act (closes cloud loophole in chip export rules)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"date": "2025-10-08",
+"quote": null,
+"what_it_shows": "Supports extending export controls to remote cloud access."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6603 No Technology for Terror Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6603",
+"date": "2024-02-01",
+"quote": null,
+"what_it_shows": "Earlier support for tightening tech export rules against Iran."
+}
+]
+}
+},
+"signature": "Export-control hawk on AI chips (wrote a bill to quadruple penalties, backs Chip Security and AI OVERWATCH Acts) and author of the PRIVACY Act requiring warrants for AI-powered license plate camera data.",
+"notable_quote": {
+"date": "2026-07-15",
+"text": "Americans' Fourth Amendment right to be secure in their privacy does not disappear just because of new technology or artificial intelligence",
+"url": "https://keithself.house.gov/media/press-releases/congressman-keith-self-introduces-privacy-act-protect-americans-fourth"
+},
+"groups": [],
+"search_notes": "Google News queries: Self + artificial intelligence; AI; data center; PRIVACY Act Flock; chatbot/deepfake/Big Tech/Section 230; Nvidia/export controls/Chip Security/AI Overwatch; state AI laws/preemption/executive order; electricity/ratepayers/ERCOT; DeepSeek/TikTok/Huawei; Science Committee hearings. Site listing tool returned 503 for keithself.house.gov, so I fetched the press release listing and the PRIVACY Act release directly. Only AI-related item in his own words is the PRIVACY Act (July 2026, Flock camera backlash). No data center, preemption or frontier-AI statements found. Chips position rests on the verified bill record (one sponsorship plus four cosponsorships)."
+},
+{
+"bioguide": "F000246",
+"name": "Pat Fallon",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Fallon publicly praised Gov. Abbott's August 2026 order to audit every queued data center project and pause new grid hookups, saying he shares constituents' concerns, and he cosponsors the Ratepayer Protection Act to keep data-center power costs off household bills.",
+"evidence": [
+{
+"type": "interview",
+"title": "CBS News Texas interview: Fallon praises Abbott's data center audit and interconnection pause",
+"url": "https://www.cbsnews.com/texas/news/push-back-data-centers-texas-voters-gop-leaders-democratic-challengers/",
+"date": "2026-08-17",
+"quote": "I think it was a thoughtful, good step that the governor put in place. He was listening to his constituents, over 30 million of them. They share those concerns, as I do.",
+"what_it_shows": "He sides with the state's pause-and-audit approach and with voters worried about data centers."
+},
+{
+"type": "interview",
+"title": "CBS News Texas video: Fallon on where he stands on data centers",
+"url": "https://www.cbsnews.com/texas/video/republican-u-s-rep-pat-fallon-on-where-he-stands-on-data-centers-and-the-construction-at-big-bend/",
+"date": "2026-08-14",
+"quote": null,
+"what_it_shows": "CBS summarizes that Fallon agrees with constituents and Gov. Abbott's stance on data centers in Texas."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9340 Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "Supports shielding ordinary electric customers from paying for power that data centers need."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Fallon frames AI as a race with China that the U.S. military and government must win by adopting AI faster through free-market competition and better hiring. No support found for binding safety rules on AI developers.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Fallon introduces the FAST Act (Pentagon software and data purchasing to build AI systems)",
+"url": "https://fallon.house.gov/news/documentsingle.aspx?DocumentID=1598",
+"date": "2025-06-09",
+"quote": "If we want to win the AI race with China, it's critical that the US military embraces our competitive advantage",
+"what_it_shows": "He treats AI as a competition with China to be won by speeding up adoption, not by new rules."
+},
+{
+"type": "statement",
+"title": "Press release (Rep. Jacobs): AI Talent Act introduced with Fallon as co-lead",
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-obernolte-fallon-brown-and-sens-kim-husted-lead-bipartisan-and-bicameral-bill-to-recruit-top-ai-talent-to-federal-government",
+"date": "2025-12-10",
+"quote": "To keep that edge and protect our national security, we must have the world's best AI talent. Right now, an outdated, bureaucratic hiring system is pushing that talent elsewhere.",
+"what_it_shows": "His AI agenda is about government capacity and U.S. leadership rather than safety limits."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 3434 Protecting AI and Cloud Competition in Defense Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3434",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "He wants many vendors, not a few giants, competing for Pentagon AI and cloud contracts."
+},
+{
+"type": "statement",
+"title": "Press release: Fallon leads introduction of the Protecting AI and Cloud Competition in Defense Act",
+"url": "https://fallon.house.gov/news/documentsingle.aspx?DocumentID=1592",
+"date": "2025-05-15",
+"quote": "By relying on free market principles, the Department of Defense can help ensure competition and innovation when it comes to the bidding process for government AI and cloud contracts",
+"what_it_shows": "Free-market framing of AI policy, with data security as the main condition."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6573 AI Talent Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6573",
+"date": "2025-12-10",
+"quote": null,
+"what_it_shows": "Backs helping agencies hire AI experts."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Fallon's tech bills target China-linked risks: he wrote a bill stopping data brokers from selling service members' data to hostile countries and cosponsored a crackdown on TikTok-style apps. No position found on Section 230, antitrust or broad privacy law.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 6573 Protecting Military Servicemembers' Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2023-12-04",
+"quote": null,
+"what_it_shows": "He authored a targeted data-broker restriction."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4927 ACES Act of 2023 (118th Congress, Chinese-controlled social media apps)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4927",
+"date": "2023-07-26",
+"quote": null,
+"what_it_shows": "Supports restrictions on apps controlled by China."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting or pausing state AI laws. Searched for Fallon with state AI laws, preemption, moratorium and executive order; nothing found and he is not on the GUARDRAILS Act or the pro-preemption bills.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls or Nvidia sales to China. His China-focused bills deal with universities, data brokers and apps, not semiconductors. Searched for Fallon with Nvidia, export controls, Chip Security, Huawei and semiconductor; nothing relevant.",
+"evidence": []
+}
+},
+"signature": "Backs Abbott's data center audit and the Ratepayer Protection Act while pushing 'win the AI race with China' bills on Pentagon AI buying and federal AI hiring.",
+"notable_quote": {
+"date": "2026-08-17",
+"text": "I think it was a thoughtful, good step that the governor put in place. He was listening to his constituents, over 30 million of them. They share those concerns, as I do.",
+"url": "https://www.cbsnews.com/texas/news/push-back-data-centers-texas-voters-gop-leaders-democratic-challengers/"
+},
+"groups": [
+"House Armed Services Committee, Subcommittee on Cyber, Information Technologies, and Innovation (member)"
+],
+"search_notes": "Google News queries: Fallon + artificial intelligence; AI; data center; chatbot/deepfake/Big Tech/Section 230/TikTok; Nvidia/export controls/Chip Security/Huawei/semiconductor; state AI laws/preemption/executive order; electricity/ratepayers/ERCOT/Ratepayer Protection; Protecting AI and Cloud Competition; Armed Services AI hearings; TikTok/DeepSeek/data brokers. Site listing tool returned 503 for fallon.house.gov; fetched the news listing and two 2025 press releases directly (FAST Act, AI and Cloud Competition Act). Verified the CBS quote word for word and the AI Talent Act quote on Rep. Jacobs' site. No statements found on chip export controls or preemption."
+},
+{
+"bioguide": "G000589",
+"name": "Lance Gooden",
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "high",
+"summary": "Gooden is an aggressive data center booster. In July 2026 he led a letter asking the acting Attorney General to investigate alleged Chinese and Russian influence behind anti-data-center campaigns, and he praised the Energy Department's AI Genesis Mission. The Leading the Future AI super PAC endorsed him.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter to acting AG Todd Blanche (led by Gooden) seeking a DOJ probe of foreign influence in campaigns against data centers",
+"url": "https://www.foxnews.com/politics/blanche-urged-investigate-alleged-foreign-influence-fight-against-data-centers",
+"date": "2026-07-24",
+"quote": "Recent reports have also identified involvement of China-based tycoon Neville Roy Singham and his network of Marxist, communist, and socialist nonprofit organizations in influencing American AI discourse",
+"what_it_shows": "He treats local opposition to data centers as a foreign-influence problem to be investigated, not a concern to accommodate."
+},
+{
+"type": "interview",
+"title": "Fox News Digital interview on the DOJ letter",
+"url": "https://www.foxnews.com/politics/blanche-urged-investigate-alleged-foreign-influence-fight-against-data-centers",
+"date": "2026-07-24",
+"quote": "We believe that the Chinese and also the Russians are colluding and working to make sure that the United States of America is not the leader when it comes to AI policy and development",
+"what_it_shows": "He frames blocking data centers as helping China win the AI race."
+},
+{
+"type": "statement",
+"title": "Washington Reporter: Gooden leads letter to Energy Secretary Wright praising the AI Genesis Mission",
+"url": "https://washingtonreporter.news/exclusive-lawmakers-laud-trump-administrations-ai-genesis-mission/",
+"date": "2026-03-27",
+"quote": "The Genesis Mission accelerates AI-driven discovery, strengthens our energy future, and ensures the U.S. drives the next generation of technological breakthroughs.",
+"what_it_shows": "He celebrates federal AI and energy buildout as a national priority."
+},
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future super PAC endorses Gooden in its second slate of House GOP champions",
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"date": "2026-05-22",
+"quote": "We're proud to back these leaders who recognize what's at stake in the global race for AI and the need for continued American leadership",
+"what_it_shows": "The pro-buildout AI industry super PAC counts him as an ally."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. In 2023 Gooden called AI 'very scary,' warned it could sneak up on society and urged caution before it is too late. Since 2026 he has pushed innovation-first messaging (beat the Chinese Communist Party, back the Genesis Mission) and accepted the Leading the Future endorsement, while cosponsoring targeted deepfake bills.",
+"evidence": [
+{
+"type": "interview",
+"title": "Fox News: Gooden warns of 'very scary' consequences if AI overtakes human decision-making",
+"url": "https://www.foxnews.com/politics/texas-congressman-lance-gooden-warns-very-scary-consequences-ai-overcomes-american-society",
+"date": "2023-04-05",
+"quote": "This is something that is going to sneak up on us, and we'll get to the point where we're in too deep to really make meaningful changes before it's too late",
+"what_it_shows": "Early on he voiced real worry about AI and said Congress should act before it is too late."
+},
+{
+"type": "interview",
+"title": "Fox News: Gooden on AI replacing government functions",
+"url": "https://www.foxnews.com/politics/texas-congressman-lance-gooden-warns-very-scary-consequences-ai-overcomes-american-society",
+"date": "2023-04-05",
+"quote": "I am worried about being pulled over and questioned by a robot someday. I don't want to live in a society where a task of government that should be fulfilled by real life people are being replaced with AI",
+"what_it_shows": "His concern centers on AI replacing humans in government roles; he said 'we need to be very cautious.'"
+},
+{
+"type": "statement",
+"title": "Washington Reporter: Gooden praises the AI Genesis Mission",
+"url": "https://washingtonreporter.news/exclusive-lawmakers-laud-trump-administrations-ai-genesis-mission/",
+"date": "2026-03-27",
+"quote": "America must lead the world in innovation, not fall behind the Chinese Communist Party.",
+"what_it_shows": "His 2026 framing is about speed and beating China, not safety rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-04-01",
+"quote": null,
+"what_it_shows": "Supports a targeted rule against AI-faked sexual images."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3562 DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-15",
+"quote": null,
+"what_it_shows": "Supports letting deepfake victims sue."
+},
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future endorsement of Gooden",
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"date": "2026-05-22",
+"quote": null,
+"what_it_shows": "The industry super PAC that opposes heavy AI regulation backs him."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Gooden supports targeted online rules, mostly for kids and victims: the TAKE IT DOWN and DEFIANCE Acts on nonconsensual and deepfake images, the RESET Act on teen social media harms, a child-abuse reporting bill, and a ban on Chinese connected-car tech. He also backed a bill against government pressure on platforms to remove speech.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6488 RESET Act (teen social media protections)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6488",
+"date": "2026-06-04",
+"quote": null,
+"what_it_shows": "Supports new duties on social media companies toward teens."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-04-01",
+"quote": null,
+"what_it_shows": "Supports a takedown mandate on platforms for intimate images."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-14",
+"quote": null,
+"what_it_shows": "Supports banning connected-car tech tied to China and other adversaries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5182 Child Online Safety Modernization Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2024-02-07",
+"quote": null,
+"what_it_shows": "Supports stronger child-abuse reporting duties for online companies."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4791 Free Speech Protection Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4791",
+"date": "2023-07-20",
+"quote": null,
+"what_it_shows": "Wants to bar officials from pressuring platforms to censor, a limit on government rather than on companies."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement by Gooden found on preempting or pausing state AI laws. The Leading the Future PAC said its endorsees, including Gooden, would help advance a national AI framework, but that is the PAC's expectation, not his own words. He is not on the GUARDRAILS Act or the pro-preemption bills.",
+"evidence": [
+{
+"type": "pac",
+"title": "Breitbart: Leading the Future says endorsed members will help advance a national AI framework",
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"date": "2026-05-22",
+"quote": null,
+"what_it_shows": "The PAC expects him to back a national framework; Gooden himself has not stated a preemption position."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Gooden cosponsors the AI OVERWATCH Act, which would let Congress block advanced AI chip sales to China, and he frames AI policy around not falling behind the Chinese Communist Party. No statements found specifically on Nvidia H20/H200 sales or the Chip Security Act.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6875 AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-07-22",
+"quote": null,
+"what_it_shows": "Supports congressional power to stop AI chip exports to China and other risky countries."
+},
+{
+"type": "statement",
+"title": "Washington Reporter: Gooden on the Genesis Mission and China",
+"url": "https://washingtonreporter.news/exclusive-lawmakers-laud-trump-administrations-ai-genesis-mission/",
+"date": "2026-03-27",
+"quote": "America must lead the world in innovation, not fall behind the Chinese Communist Party.",
+"what_it_shows": "His AI agenda is framed as a contest with China."
+}
+]
+}
+},
+"signature": "Data center booster who asked DOJ to probe alleged Chinese and Russian influence behind anti-data-center campaigns; endorsed by the Leading the Future AI super PAC; cosponsors deepfake and kids-safety bills.",
+"notable_quote": {
+"date": "2026-07-24",
+"text": "We believe that the Chinese and also the Russians are colluding and working to make sure that the United States of America is not the leader when it comes to AI policy and development",
+"url": "https://www.foxnews.com/politics/blanche-urged-investigate-alleged-foreign-influence-fight-against-data-centers"
+},
+"groups": [
+"House Judiciary Committee, Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet (member)",
+"House Armed Services Committee, Subcommittee on Cyber, Information Technologies, and Innovation (member)"
+],
+"search_notes": "Google News queries: Gooden + artificial intelligence; AI; data center; DOJ foreign influence AI policy; Genesis Mission; chatbot/deepfake/Big Tech/Section 230/TikTok; Nvidia/export controls/AI Overwatch/chips China; state laws/preemption/moratorium/national framework; Leading the Future; Judiciary AI hearings; electricity/ratepayers; Kaufman County data centers; 2023 Fox 'very scary'. gooden.house.gov refused connections throughout and the Wayback fallback was unreachable, so his press releases were read via Fox News, Washington Reporter and Breitbart pages fetched directly (quotes grep-verified). Could not open the Washington Examiner op-ed 'Don't fear agentic AI' (Google News link would not decode); authorship unconfirmed so it is not used. Ethics investigation coverage (July 2026) not AI-related and omitted."
+},
+{
+"bioguide": "E000071",
+"name": "Jake Ellzey",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Ellzey welcomes data centers, stood with Gov. Abbott and Google's CEO at the $40 billion Texas announcement, and credits Texas' low-regulation environment for the boom. As a subcommittee chair he has held two 2026 hearings on data centers and says large new power users should pay for the grid upgrades they trigger so families and small businesses do not.",
+"evidence": [
+{
+"type": "statement",
+"title": "Community Impact: Ellzey at Google's $40B Texas data center announcement in Midlothian",
+"url": "https://communityimpact.com/mckinney/austin/google-commits-40b-to-3-new-data-centers-infrastructure-in-texas-through-2027/",
+"date": "2025-11-14",
+"quote": "It brings good jobs, new opportunities and steady growth for families across our district",
+"what_it_shows": "He celebrates the data center in his district as an economic win."
+},
+{
+"type": "hearing",
+"title": "Opening statement: Ellzey chairs Small Business subcommittee hearing on data centers in rural America",
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407372",
+"date": "2026-01-21",
+"quote": "Texas is leading the charge in data center development because of our pro-growth, pro-energy, low regulatory environment that has minimized the hinderance of red-tape.",
+"what_it_shows": "He ties the buildout to light regulation and sees rural data centers as opportunity."
+},
+{
+"type": "hearing",
+"title": "Roll Call: Ellzey at January 2026 hearing on AI data center infrastructure",
+"url": "https://rollcall.com/2026/04/14/winning-the-ai-arms-race-holds-appeal-for-both-parties/",
+"date": "2026-04-14",
+"quote": "keep us competitive with the AI race with China",
+"what_it_shows": "He said investments in advanced energy solutions for data centers keep the U.S. competitive with China."
+},
+{
+"type": "hearing",
+"title": "Opening statement: Ellzey chairs hearing 'Fueling the Golden Age' on energy and water demand from data centers and manufacturing",
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407489",
+"date": "2026-09-01",
+"quote": "While we welcome this growth, it brings with it a duty for this Committee, Congress, and state legislatures to ensure that its costs do not fall unfairly on Main Street.",
+"what_it_shows": "Supportive of growth but wants the costs kept off households and small businesses."
+},
+{
+"type": "hearing",
+"title": "Opening statement: Ellzey points to state rules making large users pay for grid upgrades",
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407489",
+"date": "2026-09-01",
+"quote": "others are adopting rate structures that require large users to pay for the upgrades they trigger, ensuring that American households and small-business ratepayers don't bear the upgrade costs",
+"what_it_shows": "He endorses the large-load-pays model as a condition on the buildout."
+},
+{
+"type": "statement",
+"title": "Press release: Subcommittee hearing on energy, water and workforce needs (Ellzey quote)",
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407490",
+"date": "2026-09-02",
+"quote": "We must build the infrastructure needed to keep growing, alongside water and energy demands, without leaving families, farmers, and small businesses to pay the bill.",
+"what_it_shows": "Build, but protect ratepayers."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "Ellzey talks about AI only as a race with China that the U.S. must win by building energy and data centers. He has not spoken publicly, as far as found, about safety rules for advanced AI.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Roll Call: Ellzey frames data center energy investment as staying competitive with China",
+"url": "https://rollcall.com/2026/04/14/winning-the-ai-arms-race-holds-appeal-for-both-parties/",
+"date": "2026-04-14",
+"quote": "keep us competitive with the AI race with China",
+"what_it_shows": "Innovation and beating China is his frame; no guardrail proposals found."
+},
+{
+"type": "hearing",
+"title": "Opening statement: 'As the demand for AI accelerates' rural communities are at the center of AI-driven growth",
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407372",
+"date": "2026-01-21",
+"quote": "Our rural communities and small businesses are at the center of America's AI-driven growth.",
+"what_it_shows": "He presents AI growth as an opportunity to capture, not a risk to manage."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on Big Tech regulation, kids online safety, Section 230 or privacy law. He has no relevant bills in the 118th or 119th Congress and searches for Ellzey with chatbot, deepfake, Big Tech, Section 230, TikTok and kids online returned nothing.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting or pausing state AI laws. Searches for Ellzey with state AI laws, preemption, moratorium and executive order returned only a photo caption in an unrelated article.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI chip export controls. Searches for Ellzey with Nvidia, export controls, semiconductor and chips China returned nothing, and he is not on the Chip Security or AI OVERWATCH Acts.",
+"evidence": []
+}
+},
+"signature": "Chairs the House Small Business energy subcommittee, where he held two 2026 hearings on data centers; welcomed Google's $40B Texas buildout and says large power users should pay for the grid upgrades they trigger.",
+"notable_quote": {
+"date": "2026-09-02",
+"text": "We must build the infrastructure needed to keep growing, alongside water and energy demands, without leaving families, farmers, and small businesses to pay the bill.",
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407490"
+},
+"groups": [
+"House Small Business Committee, Subcommittee on Rural Development, Energy, and Supply Chains (Chairman)"
+],
+"search_notes": "Google News queries: Ellzey + artificial intelligence; AI; data center; Google Midlothian; subcommittee hearing data center small business; chatbot/deepfake/Big Tech/Section 230/TikTok/kids online; Nvidia/export controls/semiconductor/chips China; state AI laws/preemption/executive order/moratorium; electricity/ratepayers/power bills/ERCOT; appropriations AI. ellzey.house.gov press release pages returned 404 and Wayback was unreachable, so his own words come from smallbusiness.house.gov (Jan 21 and Sept 1-2, 2026 opening statements and releases, fetched directly), Community Impact (Google quote) and Roll Call (Jan 2026 hearing quote), plus Legis1 hearing coverage. Record has no relevant bills. No statements found on tech regulation, preemption or chips."
+}
+]

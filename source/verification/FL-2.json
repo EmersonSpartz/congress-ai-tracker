@@ -1,0 +1,180 @@
+[
+{
+"bioguide": "C001039",
+"checks": [
+{
+"url": "https://americanbazaaronline.com/2025/08/13/congresswoman-kat-cammack-urges-healthy-and-smart-adoption-of-ai-466166/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-13",
+"note": "Quote appears verbatim (with the article's own ellipses). Article says she called for an 'above-all approach' to energy supporting high compute demands; the item's 'all-of-the-above' is a reasonable paraphrase of the article's wording, not a direct quote."
+},
+{
+"url": "https://fedscoop.com/election-integrity-and-digital-liberty-kat-cammack",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-04",
+"note": "Quote verbatim. Article also says she 'would love to see' the FEC identify top concerns and establish guardrails around AI in elections where it has authority, with Congress filling gaps, matching the claim."
+},
+{
+"url": "https://americanbazaaronline.com/2025/08/13/congresswoman-kat-cammack-urges-healthy-and-smart-adoption-of-ai-466166/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-13",
+"note": "Quote verbatim. Article has 'doomsdayers... [wanting] to shut everything down' described as 'terrible for innovation', the OpenAI/Google barriers-to-entry point, and the 'national right to compute law'. Note she also said there should be 'consequences for models that have deliberate bias' (a mild guardrail note)."
+},
+{
+"url": "https://cammack.house.gov/media/press-releases/rep-cammack-announces-launch-rsc-emerging-tech-task-force",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-07",
+"note": "Quote verbatim from Cammack's statement as RSC Emerging Technologies Chair; release frames the agenda around innovation, growth, and US leadership with no safety framing."
+},
+{
+"url": "https://washingtonreporter.news/rep-kat-cammack-lays-out-her-app-store-fix-tim-scott-rebukes-the-eus-sustainability-measures-and-more",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-12",
+"note": "Quote verbatim. Article says she bills the App Store Freedom Act as needed to tackle a 'monopoly' between Apple and Google."
+},
+{
+"url": "https://rollcall.com/2025/12/11/house-panel-advances-kids-online-safety-bills/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Article states Cammack said her App Store Freedom Act would allow parents greater control over kids' apps and that she implied it was left out of the markup due to tech company opposition. The markup was at the Energy and Commerce subcommittee level."
+},
+{
+"url": "https://cammack.house.gov/media/press-releases/rep-cammack-introduces-caution-act-passes-bill-out-house-energy-commerce",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-02-07",
+"note": "Quote verbatim; CAUTION Act requires disclaimers/warnings on apps with CCP ties such as TikTok."
+},
+{
+"url": "https://cammack.house.gov/media/press-releases/congresswoman-kat-cammack-fl-03-issues-statement-social-media-censorship",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-01-10",
+"note": "Quote verbatim; statement issued after Trump's social media ban, framed as free speech and Big Tech censorship."
+},
+{
+"url": "https://americanbazaaronline.com/2025/08/13/congresswoman-kat-cammack-urges-healthy-and-smart-adoption-of-ai-466166/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-13",
+"note": "Quote verbatim. Article says she warned against a fragmented regulatory environment and the patchwork of state laws and called for a national standard."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/07/22/exclusive-rep-kat-cammack-chinese-government-has-been-building-digital-twins-of-lawmakers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Quote verbatim. Article contains no mention of chips or export controls, consistent with the claim that she did not address chip exports."
+},
+{
+"url": "https://fedscoop.com/election-integrity-and-digital-liberty-kat-cammack",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-04",
+"note": "Quote verbatim from FedScoop interview."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "B001314",
+"checks": [
+{
+"url": "https://fedscoop.com/republican-lawmakers-ai-federal-agency-rule-review-bill/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-26",
+"note": "Page states 'The bill was co-sponsored by Republican Rep. Aaron Bean of Florida' for Rep. Blake Moore's bill using AI to review agency rules; Bean is tagged but not quoted."
+},
+{
+"url": "https://fedscoop.com/irs-data-scientists-fellowship-program-house-bill/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-02",
+"note": "Page says the AI Tax Integrity Act (H.R. 9501) from Buchanan, Horsford, Bean and Schweikert 'unanimously advanced out of committee'; Bean is not quoted. Note the article headline is about the IRS data scientists bill; the AI bill is a secondary section."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "Neither source addresses Big Tech or platform regulation. Item 1 is about an AI tool to flag agency rules for deregulatory review (a hands-off/deregulatory signal if anything) and item 2 is an IRS AI fraud-detection pilot. Evidence is too thin to support -1 'Targeted rules'; no position is supported by these sources.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "F000484",
+"checks": [
+{
+"url": "https://flvoicenews.com/u-s-rep-randy-fine-pushes-ai-education-measures-dual-citizenship-ban/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-11",
+"note": "Article (May 11, 2026) says Fine stated data centers bring high-paying jobs, up to 400 per center, but must be built without raising local utility rates or depleting community water resources. Matches claim."
+},
+{
+"url": "https://flvoicenews.com/u-s-rep-randy-fine-pushes-ai-education-measures-dual-citizenship-ban/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-11",
+"note": "Quote appears verbatim. Article says Fine compared AI's expansion to the introduction of narcotics a century ago, offering 'incredible good' but significant risks if misused; his two bills described are education funding and promoting the US AI stack globally. The 'not binding rules' part is the tracker's inference but consistent with the article, which mentions no regulatory proposal."
+},
+{
+"url": "https://fine.house.gov/news/documentsingle.aspx?DocumentID=209",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-12",
+"note": "Quote verbatim from Fine's statement (May 12, 2026 release). Release says the bill 'has no fiscal impact and creates no new spending programs' and simply clarifies existing dollars can be used; Fine says 'without new spending or Washington interference.' 'No federal mandates' is a fair paraphrase."
+},
+{
+"url": "https://flvoicenews.com/u-s-rep-randy-fine-pushes-ai-education-measures-dual-citizenship-ban/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-11",
+"note": "Quote verbatim. Article says his second bill seeks to promote the 'U.S. AI stack' as the global standard specifically to counter competition from China."
+},
+{
+"url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-match-act",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "Page lists H.R. 6996 ('To facilitate the export of United States artificial intelligence systems, computing hardware, and standards globally') among bills advanced at a markup framed as 'ensuring America continues to lead in the AI Arms Race.' But the page never names Fine, does not say the bills were 'GOP-led' (Prospect reports a 37-7 bipartisan vote), and the list contains well over 15 bills (MATCH Act plus roughly 20 others; page calls it the largest export control markup in Congress history). The '15 GOP-led' detail is not supported."
+},
+{
+"url": "https://prospect.org/2026/05/01/subsidize-build-export-repeat-ai-stack-national-security",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-01",
+"note": "Article says Rep. Randy Fine introduced H.R. 6996, the Full AI Stack Export Promotion Act, in January; it would make it US policy to promote export of the entire American AI stack (semiconductors, cloud, models, data pipelines, standards) as a bundled package; and it advanced through House Foreign Affairs on a bipartisan 37-7 vote."
+},
+{
+"url": "https://flvoicenews.com/u-s-rep-randy-fine-pushes-ai-education-measures-dual-citizenship-ban/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-11",
+"note": "Headline quote appears verbatim, attributed to Fine."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "Fine's signature AI bill (H.R. 6996, Full AI Stack Export Promotion Act) is an export PROMOTION measure: it makes it US policy to sell the whole American AI stack, chips included, to foreign governments and markets. That is the 'sell more chips abroad' direction on this scale, even though it is framed as beating China. Nothing in the sources shows him backing tighter export controls; his bill merely rode along in an HFAC markup with control bills, and the HFAC page does not name him. -1 'Leans hawkish' has the sign backwards relative to his actual proposal.",
+"suggested_score": 1,
+"suggested_label": "Leans sell more"
+},
+{
+"dimension": "tech_regulation",
+"objection": "None of the cited sources touch Big Tech regulation, platform rules, antitrust, or kids online safety. The evidence is too thin to place him at -1; the only tenor in the sources is education and export promotion with 'no new spending or Washington interference.'",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

@@ -1,0 +1,199 @@
+[
+{
+"bioguide": "H001100",
+"checks": [
+{
+"url": "https://rollcall.com/2026/06/03/congress-finds-a-unifying-issue-geothermal-energy/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-03",
+"note": "Roll Call (David Jordan, June 3, 2026) names Hurd as sponsor of the base bill combining six geothermal permitting measures that passed the House by voice vote; the quote appears verbatim. Article never mentions data centers, so the claim's caveat is accurate. Weak evidence for any data-center position specifically."
+},
+{
+"url": "https://science.house.gov/2026/6/full-committee-markup-of-h-r-9341-9363-2385-5351-5584-6461-8893-9333-9334-and-9372",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-25",
+"note": "Markup page (June 25, 2026) contains the quote verbatim and confirms H.R. 9333 was favorably reported 29-0, but it does not name Hurd anywhere. His role was verified separately via GovTrack: bill is sponsored by Rep. Deborah Ross (D-NC) with Hurd as the sole Republican original cosponsor. 'Co-led' is a fair description but this page alone does not establish it."
+},
+{
+"url": "https://tsscolorado.com/colorado-congressional-delegation-finds-some-bipartisan-agreement-on-ai-tax-credit-extensions",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-12",
+"note": "Site blocks the fetch tool (TLS error) but loaded via curl. Article published Aug 12, 2025 (Colorado Chamber congressional luncheon). Quote verbatim. Article says Hurd 'has heard from business leaders about how intrusive Colorado's law is regarding disclosures and appeals of AI-generated decisions' and that he believes it is a federal issue because of national-security risks; he vowed to try to get something through Congress. Note the 'intrusive' characterization is relayed from business leaders, not a direct quote."
+},
+{
+"url": "https://tsscolorado.com/colorado-congressional-delegation-finds-some-bipartisan-agreement-on-ai-tax-credit-extensions",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-12",
+"note": "Quote verbatim. Article states 'Pettersen and Hurd said Tuesday that they'd prefer that Colorado let Congress take the driver's seat on this topic.' He did not explicitly call for blocking state laws, only expressed concern about piecemeal state rules and a preference for federal action."
+},
+{
+"url": "https://coloradosun.com/2026/06/04/jeff-hurd-ron-hanks-colorado-primary-election-cd3-issue-guide",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-04",
+"note": "Colorado Sun CD3 GOP primary issue guide (June 4, 2026) includes the question 'Do you think Congress should pass a law regulating artificial intelligence? If yes, what regulations do you support?' and repeats 'Hurd declined to participate in the Sun's issue guide.' verbatim under each topic. He declined the entire guide, not the AI question specifically; the claim is accurate as framed."
+},
+{
+"url": "https://tsscolorado.com/colorado-congressional-delegation-finds-some-bipartisan-agreement-on-ai-tax-credit-extensions",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-12",
+"note": "Headline quote appears verbatim, attributed to Hurd at the Aug 12, 2025 Colorado Chamber luncheon."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only data-center source is a geothermal permitting quote about needing more electricity generally; it never mentions data centers, ratepayers, or siting. That is too thin to assign any position, including 'Mixed', which implies he has weighed both sides.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "None of the six sources address Big Tech regulation, antitrust, kids online safety, or platform rules. Nothing here supports -1 'Targeted rules'; unless other evidence exists outside this item list, the score is unsupported.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "B000825",
+"checks": [
+{
+"url": "https://www.yahoo.com/news/politics/articles/rep-lauren-boebert-won-t-123549824.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Yahoo syndication of a Where Is The Buzz / MeidasTouch item dated 2026-09-01. Quote appears verbatim; she is asked directly whether she disagrees with Trump and answers with the local-control line, so the claim that she distanced herself and framed the issue as local siting control is supported."
+},
+{
+"url": "https://boebert.house.gov/media/press-releases/representatives-massie-boebert-introduce-surveillance-accountability-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-23",
+"note": "Release dated 2026-04-23. Bullet appears verbatim; the bill also requires warrants for government searches and restricts license plate reader location databases without a court order, matching the claim."
+},
+{
+"url": "https://boebert.house.gov/media/press-releases/rep-boebert-surveillance-every-corner-not-freedom",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Release dated 2026-09-01 summarizing her Daily Caller op-ed. The quoted list of steps appears verbatim (in the release's paraphrase of the op-ed, not as a direct quote from her); the release explicitly references Flock-style camera networks."
+},
+{
+"url": "https://boebert.house.gov/media/press-releases/rep-lauren-boebert-introduces-elon-act-audit-government-collusion-big-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-02-09",
+"note": "Release dated 2023-02-09 (118th Congress). Quote appears verbatim in the first paragraph. Bill requires a DOJ report on payments to Twitter, Meta, Google, Microsoft, Apple and a one-year moratorium on new payments; framed as anti-censorship / government-collusion rather than regulation of the platforms themselves."
+},
+{
+"url": "https://www.yahoo.com/news/politics/articles/rep-lauren-boebert-won-t-123549824.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Quote appears verbatim as her answer to 'So you disagree, basically?'"
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the five sourced items touches chip export controls, Nvidia sales, or China tech policy at all. A -1 'Leans hawkish' score has no supporting evidence in this record; unless other sources exist, the position should be left unscored.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "The only tech_regulation source is the 2023 ELON Act, which targets the FBI/DOJ paying platforms and government-driven censorship, not rules on the platforms themselves. It is anti-'collusion' rather than pro-regulation, so -1 'Targeted rules' rests on a single, somewhat off-axis item. Evidence is thin; 0 'Mixed' would be more defensible absent additional sources such as a KOSA or Section 230 position.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+},
+{
+"bioguide": "C001137",
+"checks": [
+{
+"url": "https://gabeevans.house.gov/media/press-releases/reps-crank-and-evans-join-secretary-wright-tour-ray-d-nixon-power-plant",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-09-04",
+"note": "Quote appears verbatim and is attributed to Rep. Jeff Crank (CO-05) on the page (dated Sept 4, 2026). However, the release never mentions data centers or AI. Crank's own quote is about coal reliability, state mandates, utility bills and national security assets; the 'growing electricity demand' framing comes from Evans and Secretary Wright, not Crank. The claim's link to data-center-driven load growth is the tracker's inference, not something the source says."
+},
+{
+"url": "https://crank.house.gov/media/press-releases/rep-crank-votes-lower-electricity-costs",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-18",
+"note": "Page is Crank's own release (Sept 18, 2025) on his vote for H.R. 1047, the Grid Power Act; the quote appears verbatim attributed to Rep. Crank. Supports the claim that he frames grid reliability and low electricity costs as priorities. No mention of data centers."
+},
+{
+"url": "https://gabeevans.house.gov/media/press-releases/reps-crank-and-evans-join-secretary-wright-tour-ray-d-nixon-power-plant",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-04",
+"note": "Headline quote appears verbatim on the page and is attributed to Rep. Jeff Crank (CO-05)."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "Neither source mentions data centers, AI, or load growth from computing. Both are general energy-reliability/coal-plant releases; the data-center connection is inferred. Evidence is too thin to assign any data_centers position, even 'Mixed'. If a score must be kept, the sources lean supply-side (keep baseload online, expedite grid resources, low costs), which would point toward +1 'Build with conditions' rather than 0, but the honest reading is no position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "C001121",
+"checks": [
+{
+"url": "https://fedscoop.com/ai-data-centers-canceled-energy-projects-colorado-democrats/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-14",
+"note": "Quote appears verbatim in the FedScoop article (published 2025-10-15, letter sent Tuesday 2025-10-14). Crow is named as a signatory alongside Bennet, Hickenlooper, Neguse, DeGette, Pettersen. Letter is a joint delegation letter about canceled DOE grants; it treats data center demand as a reason to keep investing in affordable energy. It is not a Crow-specific statement and says nothing for or against data center buildout itself, so it is weak evidence for a data_centers position."
+},
+{
+"url": "https://crow.house.gov/media/press-releases/crow-discusses-national-security-bipartisanship-with-center-for-a-new-american-security",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-12",
+"note": "Quote is verbatim on Crow's official press release (dated 2026-06-12). Surrounding text also says 'We are not having the level of conversations, though, on some of the risks that we need to have' and that AI 'has to be a component' of military strategy. Note 'binding' in the claim is an interpretation; he states a personal principle, not a specific legislative mandate."
+},
+{
+"url": "https://tsscolorado.com/colorado-congressional-delegation-finds-some-bipartisan-agreement-on-ai-tax-credit-extensions",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-12",
+"note": "Site rejects the research_tools fetcher (TLS error) but loads via curl. Article (2025-08-12) says Crow wants reform of DoD contracting policies that make it 'excruciatingly difficult' to get new technology into field use quickly and hard for smaller companies to work with the government. It says 'new technology', not AI specifically. Separately, the article's AI-preemption section quotes Pettersen and Hurd, not Crow, so it gives no Crow preemption position."
+},
+{
+"url": "https://crow.house.gov/media/press-releases/reps-crow-kean-introduce-bipartisan-legislation-to-prevent-critical-us-technology-from-being-used-by-adversaries",
+"verdict": "confirmed",
+"corrected_quote": "Protecting the U.S. from foreign threats is not a partisan issue. Our bipartisan bill helps keep us safe by making it harder for critical U.S. technologies, like chips and advanced computer software, from falling into the hands of America's adversaries",
+"corrected_date": "2025-08-08",
+"note": "Crow's quote is verbatim (press release 2025-08-08, BIS IT Modernization Act). Caveat: the explicit 'China and Russia' naming is in Rep. Kean's quote, not Crow's; Crow says 'America's adversaries'. The claim's framing as national security enforcement is supported; the China/Russia attribution should be softened to the bill/press release rather than Crow's own words."
+},
+{
+"url": "https://crow.house.gov/media/press-releases/crow-discusses-national-security-bipartisanship-with-center-for-a-new-american-security",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-12",
+"note": "Headline quote is verbatim on the official press release dated 2026-06-12."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the five sources addresses Big Tech, platform, privacy, or consumer tech regulation. The assigned -1 'Targeted rules' has no supporting evidence in this item set; either add a source or leave the dimension unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

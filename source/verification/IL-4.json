@@ -1,0 +1,167 @@
+[
+{
+"bioguide": "F000454",
+"checks": [
+{
+"url": "https://foster.house.gov/media/in-the-news/notus-how-congress-fumbled-regulating-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": "The idea that there's this data center in my back yard that is doubling the price of electricity, or that AI is taking my jobs and that the government should do nothing about it is going to be a massive loser",
+"corrected_date": "2025-12-08",
+"note": "Quote appears verbatim, attributed to Foster in the NOTUS piece reposted on his site; the item's excerpt just drops the leading 'The idea that'. Supports the claim that he treats data-center electricity costs as something government must address."
+},
+{
+"url": "https://foster.house.gov/media/in-the-news/chicago-tribune-construction-350m-cyrus-one-data-center-sets-begin-aurora",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2024-10-03",
+"note": "Article confirms Foster attended the CyrusOne groundbreaking in Aurora, but he is not quoted and the piece says nothing about his views; 'a sign he supports the projects' is inference from attendance only."
+},
+{
+"url": "https://www.usatoday.com/story/news/politics/2026/09/11/data-center-house-bill-vote/91706402007/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Quote verbatim. Article says Foster and Ted Lieu met with Jeffries about a potentially powerful select committee on AI if Democrats win the majority; 'co-leading' is a fair reading of that."
+},
+{
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-06",
+"note": "Quote verbatim and attributed to Foster; article frames it as his worry about AI's impact on jobs and the economy."
+},
+{
+"url": "https://foster.house.gov/media/press-releases/foster-leads-effort-calling-action-potential-ai-bubble",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-11-20",
+"note": "Quote verbatim; Foster led 21 HFSC members asking FSOC to map exposures. But the release speaks of 'AI-related assets and infrastructure' and never mentions data centers or data center construction, so that part of the claim is the tracker's gloss."
+},
+{
+"url": "https://foster.house.gov/media/press-releases/foster-sessions-introduce-bipartisan-bill-requiring-government-agencies-label",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-10",
+"note": "Quote verbatim from Foster's statement on the REAL Act, which requires agencies to label AI-generated content."
+},
+{
+"url": "https://foster.house.gov/media/in-the-news/daily-herald-congressman-bill-foster-using-ai-and-hes-worried",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-09-22",
+"note": "Quote verbatim; immediately preceded by Foster saying 'It's a short-term emergency' about cloned-voice/image fraud. Note the piece is from Sept 2023."
+},
+{
+"url": "https://foster.house.gov/media/press-releases/foster-statement-bipartisan-house-task-force-report-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12-17",
+"note": "Quote verbatim from his statement on the House AI Task Force report; he calls for legislation that both harnesses AI and protects against its dangers."
+},
+{
+"url": "https://foster.house.gov/media/press-releases/foster-sherman-seek-regulatory-clarity-agentic-ai-trading",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-24",
+"note": "Quote verbatim from the letter to SEC Chair Atkins; letter asks about legal responsibilities of broker-dealers and AI developers and whether existing securities law suffices."
+},
+{
+"url": "https://foster.house.gov/media/press-releases/rep-foster-introduces-bill-improve-financial-sector-security-amid-rising-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-02",
+"note": "Quote verbatim; release says the Strengthening Oversight for the Financial Sector Act gives NCUA and FHFA authority over third-party vendors of the entities they regulate."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF (extracted locally; fetch tool returned no text) is dated Nov 26, 2025, addressed to Johnson, Thune, Jeffries, Schumer, opposes an NDAA moratorium and a preemption executive order, contains the quote verbatim, lists 81 'Member of Congress' signature lines, and Bill Foster appears among signers."
+},
+{
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-06",
+"note": "Article states Foster 'says states, or a coalition of states, should take the lead in creating regulations until Congress acts,' while also wanting a full congressional IT committee to tackle AI."
+},
+{
+"url": "https://foster.house.gov/media/in-the-news/reuters-exclusive-us-lawmaker-targets-nvidia-chip-smuggling-china-new-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-05",
+"note": "Quote verbatim (preceded by 'This is not an imaginary future problem'). Article describes his planned bill: location tracking under export licenses and preventing chips from booting if not properly licensed."
+},
+{
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-06",
+"note": "Headline quote appears verbatim, attributed to Foster."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "Sources show he opposes a moratorium/preemption while no federal protections exist and says states should lead 'until Congress acts', but he also wants a full congressional committee and federal AI legislation. That is a conditional, states-for-now position rather than a settled 'let states regulate' stance, so -1 fits the evidence better than -2.",
+"suggested_score": -1,
+"suggested_label": "Leans states"
+}
+]
+},
+{
+"bioguide": "B001315",
+"checks": [
+{
+"url": "https://ipmnewsroom.org/congresswoman-nikki-budzinski-discusses-her-record-makes-case-for-third-term/",
+"verdict": "confirmed",
+"corrected_quote": "So I think a data center developer would have to come in and make the case that that development is not going to increase a single resident's utility bill by $1.",
+"corrected_date": "2026-08-27",
+"note": "Page (IPM Newsroom, Aug 27 2026) quotes Budzinski verbatim on the no-bill-increase test, adds transparency and accountability, water consumption (closed-loop), environment and noise concerns, and tax-investment opportunities. Quote matches; only the leading 'So I think' is omitted."
+},
+{
+"url": "https://www.nextgov.com/artificial-intelligence/2026/07/ai-wont-replace-human-claims-processors-va-officials-say-democrats-worry-over-staffing-levels/414753/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-14",
+"note": "Nextgov names Budzinski as the panel's ranking member and quotes the sentence verbatim; the article adds that she said new technology cannot solve VA staffing declines (1,100 claims examiners lost). Claim fully supported."
+},
+{
+"url": "https://fedscoop.com/lawmakers-aim-to-prevent-sale-of-veterans-data-for-ai-scams/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-26",
+"note": "FedScoop quotes Budzinski (ranking member, HVAC Subcommittee on Tech Modernization) verbatim; she says even de-identified data is not safe, asks what safeguards are in place, and warns vendors could resell veterans' data or products built on it. Claim supported."
+},
+{
+"url": "https://ipmnewsroom.org/congresswoman-nikki-budzinski-discusses-her-record-makes-case-for-third-term/",
+"verdict": "confirmed",
+"corrected_quote": "So I think a data center developer would have to come in and make the case that that development is not going to increase a single resident's utility bill by $1.",
+"corrected_date": "2026-08-27",
+"note": "Same IPM Newsroom page; quote appears verbatim apart from the dropped 'So I think' opener."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "U000040",
+"checks": [
+{
+"url": "https://underwood.house.gov/media/press-releases/vice-chair-underwood-chairman-thompson-press-top-social-media-companies",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2019-11-26",
+"note": "Fetched directly (status 200). Quote appears verbatim twice: in the press release body attributed to 'the members' and in the full letter text. Page names Vice Chair Underwood and Chairman Thompson pressing Facebook/Instagram/WhatsApp, Twitter, etc. to give users accessible guidelines and tools to identify and report election misinformation/disinformation. Claim is accurately characterized as a targeted accountability ask; it is a letter, not legislation. Note the item is from Nov 2019 and predates the generative-AI era."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "No source in the checked items touches data centers, energy, or ratepayers; the -1 'Protect ratepayers first' score has no supporting evidence here. Unless other sources exist, the score should be left unassigned rather than inferred.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

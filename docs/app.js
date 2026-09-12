@@ -473,7 +473,7 @@
   }
 
   // ---------- boot
-  const DATA_URL = 'data.json?v=77909cf013';
+  const DATA_URL = 'data.json?v=beb09f9e0a';
   fetch(DATA_URL).then(r => r.json()).then(data => {
     D = data;
     D.members.forEach(m => { byId[m.id] = m; });

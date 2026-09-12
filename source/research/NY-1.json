@@ -1,0 +1,736 @@
+[
+{
+"bioguide": "G000555",
+"name": "Kirsten E. Gillibrand",
+"signature": "Backs New York's one-year data center pause and local veto power, and wrote the Senate's first bill to put binding limits on Pentagon AI.",
+"notable_quote": {
+"text": "Removing guardrails doesn't produce efficiency; it guarantees a future of catastrophic harm.",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-statement-on-secretary-hegseths-rejection-of-ai-guardrails",
+"date": "2026-02-27"
+},
+"groups": [
+"Senate Special Committee on Aging (Ranking Member, 119th Congress)",
+"Senate Armed Services Committee (member; Cybersecurity and Emerging Threats subcommittees)",
+"Senate Select Committee on Intelligence (member)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Gillibrand applauded Gov. Hochul's one-year pause on large data centers and says communities should be able to say no. She wants ironclad guarantees on power bills, water and air before projects move forward, and says data centers should bring their own power and use closed-loop cooling, but she also calls them a development opportunity and declined to oppose the Stream project.",
+"evidence": [
+{
+"type": "statement",
+"title": "Statement applauding Hochul's data center moratorium (WRGB/CBS6 Albany)",
+"url": "https://cbs6albany.com/news/local/reaction-pours-in-over-hochuls-data-center-moratorium-wrgb",
+"quote": "Before we move forward, our communities need ironclad guarantees that their energy bills won't spike, their water will be protected, and their air will remain clean.",
+"what_it_shows": "She endorsed the state's one-year pause and set conditions on bills, water and air for any new project.",
+"date": "2026-07-14"
+},
+{
+"type": "statement",
+"title": "Statement applauding Hochul's data center moratorium (WRGB/CBS6 Albany), trust language",
+"url": "https://cbs6albany.com/news/local/reaction-pours-in-over-hochuls-data-center-moratorium-wrgb",
+"quote": "This one-year moratorium is fundamentally about trust. Right now, New Yorkers aren't convinced these massive facilities benefit them.",
+"what_it_shows": "She framed the pause as temporary and about winning public trust rather than blocking data centers for good.",
+"date": "2026-07-14"
+},
+{
+"type": "interview",
+"title": "Press remarks on the Stream/STAMP data center (Batavia Daily News)",
+"url": "https://www.thedailynewsonline.com/news/gillibrand-cites-data-center-concerns-but-doesn-t-take-stand-on-stream-project/article_1a092e25-311c-41ef-8753-bea73e21ba8d.html",
+"quote": "It's up to the community to decide, and if the community does not want a data center, they should not have to have a data center in their community",
+"what_it_shows": "She backs local veto power, said new data centers should find their own energy rather than lean on ratepayers and use closed-loop cooling, called them a possible development opportunity, and declined to take a stand on the $19.5B Stream project.",
+"date": "2026-06-24"
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Gillibrand wants binding rules for military AI, including a ban on AI in nuclear launch decisions, and has repeatedly attacked the Pentagon for punishing Anthropic over safety guardrails. She calls for clear federal rules of the road and protections for kids, seniors and workers, while also pressing the administration for predictable policy that does not push customers to Chinese models.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.4656, Secure and Accountable Military AI Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4656",
+"quote": null,
+"what_it_shows": "She introduced binding limits on how the Pentagon may deploy AI, keeping humans in charge of life-and-death decisions.",
+"date": "2026-06-02"
+},
+{
+"type": "statement",
+"title": "Press release: Gillibrand introduces bill to regulate the Pentagon's use of AI",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-introduces-groundbreaking-new-bill-to-regulate-the-pentagons-use-of-artificial-intelligence",
+"quote": "Right now, the Pentagon is moving toward deploying incredibly powerful AI technology without commonsense guardrails in place, which could have catastrophic consequences that make all of us less safe.",
+"what_it_shows": "Her own words treat unguarded military AI as a potentially catastrophic danger requiring rules now.",
+"date": "2026-06-02"
+},
+{
+"type": "statement",
+"title": "Press release: Gillibrand statement on Secretary Hegseth's rejection of AI guardrails",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-statement-on-secretary-hegseths-rejection-of-ai-guardrails",
+"quote": "Removing guardrails doesn't produce efficiency; it guarantees a future of catastrophic harm.",
+"what_it_shows": "She sided with Anthropic's request for safety guardrails and called for AI safety procedures across military and civilian life with humans in control.",
+"date": "2026-02-27"
+},
+{
+"type": "statement",
+"title": "Fortune: Pentagon designates Anthropic a supply chain risk; Gillibrand reaction",
+"url": "https://fortune.com/2026/03/06/pentagon-officially-defines-anthropic-as-supply-chain-risk/",
+"quote": "This reckless action is shortsighted, self-destructive, and a gift to our adversaries.",
+"what_it_shows": "She called the Pentagon's blacklisting of a safety-focused AI company a dangerous misuse of a tool meant for adversary technology.",
+"date": "2026-03-05"
+},
+{
+"type": "letter",
+"title": "Press release: Gillibrand and colleagues press AI companies on their engagements with DoD",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-colleagues-press-for-answers-on-ai-companies-engagements-with-dod",
+"quote": "the Trump administration's reckless push to strip away safeguards and punish companies that insist on basic guardrails puts Americans' privacy and our national security at risk",
+"what_it_shows": "With five Democratic senators she demanded that xAI, OpenAI, Alphabet, Meta, AWS and Microsoft explain what protections govern military use of their models.",
+"date": "2026-03-26"
+},
+{
+"type": "letter",
+"title": "Fortune: Gillibrand-led letter calls administration's AI approach unfocused and ad hoc",
+"url": "https://fortune.com/2026/08/04/trump-ai-regulation-china-national-security/",
+"quote": "The American people and leading AI companies need clear rules, not constantly changing dictates from the White House.",
+"what_it_shows": "She wants a public, durable federal framework and criticized opaque restrictions on models like Fable 5 and Mythos 5, a pro-clarity rather than pro-restriction stance.",
+"date": "2026-08-03"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3062, GUARD Act (age checks and no AI companion bots for kids)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"quote": null,
+"what_it_shows": "She supports binding rules keeping children away from AI companion chatbots.",
+"date": "2026-03-05"
+},
+{
+"type": "hearing",
+"title": "LeadingAge: Senate Aging Committee hearing on AI deepfakes, chatbots and senior fraud",
+"url": "https://leadingage.org/us-senate-aging-committee-addresses-ai-fraud-against-older-adults/",
+"quote": null,
+"what_it_shows": "As ranking member she co-led a July 29, 2026 hearing and report on AI scams and, with Sen. Kelly, wrote nine AI companies asking how their chatbot companions protect seniors.",
+"date": "2026-07-29"
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Gillibrand favors targeted rules on tech platforms: she signed the 2026 letter demanding platforms remove sexualized AI deepfakes, cosponsors kids' safety bills like the GUARD Act and ECCHO Act, and backed the RESTRICT Act on foreign-controlled apps.",
+"evidence": [
+{
+"type": "letter",
+"title": "TechCrunch: Eight senators demand answers from X, Meta, Alphabet, Snap, Reddit and TikTok on sexualized deepfakes",
+"url": "https://techcrunch.com/2026/01/15/us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes",
+"quote": "In practice, however, as seen in the examples above, users are finding ways around these guardrails. Or these guardrails are failing.",
+"what_it_shows": "She signed a letter pressing the largest platforms to explain and fix their handling of nonconsensual AI sexual images, including of minors.",
+"date": "2026-01-15"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3397, ECCHO Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3397",
+"quote": null,
+"what_it_shows": "She supports a new federal crime for pressuring kids online into self-harm.",
+"date": "2026-05-21"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.2912, Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2912",
+"quote": null,
+"what_it_shows": "She backs banning AI-driven lies about how to vote before federal elections.",
+"date": "2025-09-18"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): S.686, RESTRICT Act",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"quote": null,
+"what_it_shows": "She supported giving the government power to review and block apps from rival countries.",
+"date": "2023-03-07"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): S.1656, My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1656",
+"quote": null,
+"what_it_shows": "She supports limits on collecting and selling reproductive health data.",
+"date": "2023-05-17"
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption of state AI laws as of Sept 2026. Searched for statements on the 2025 moratorium fight, the Dec 2025 executive order and the Mar 2026 White House framework, and for cosponsorship of the States' Right to Regulate AI Act; found only her Yea on the 99-1 vote, which nearly every senator cast.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 363 (Jul 1, 2025): Yea on Blackburn amendment striking the 10-year state AI law moratorium",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"quote": null,
+"what_it_shows": "She voted with 98 colleagues to remove the moratorium; because the vote was 99-1 after the deal collapsed, it is not by itself evidence of opposing preemption.",
+"date": "2025-07-01"
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Gillibrand signed the May 2025 Senate Democratic letter urging the administration to rethink Saudi and UAE chip deals without protections against diversion to China. She has not taken a lead role on chip export bills, and her Aug 2026 letter also warned that unpredictable US restrictions push customers toward Chinese models.",
+"evidence": [
+{
+"type": "letter",
+"title": "Senate Democrats' letter to Lutnick and Rubio on Middle East AI chip deals (Gillibrand signer)",
+"url": "https://www.democrats.senate.gov/newsroom/press-releases/trumps-middle-east-chip-deals-are-the-art-of-the-steal-presenting-major-national-security-risk-of-china-stealing-sensitive-american-technology-leader-schumer-and-senator-warren-lead-senate-democrats-in-standing-up-against-the-loss-of-building-the-ai-future-in-america-and-urges-admin-to-reconsider-catastrophic-agreements",
+"quote": null,
+"what_it_shows": "She joined eight Democrats saying the Saudi and UAE chip deals lacked enforceable protections to keep advanced chips from reaching China.",
+"date": "2025-05-19"
+},
+{
+"type": "letter",
+"title": "CyberScoop: Senators warn Trump's AI interventions could drive users to Chinese models",
+"url": "https://cyberscoop.com/trump-ai-policy-chinese-models-risk/",
+"quote": "The Administration's ad hoc and unpredictable approach undermines U.S. competitiveness, heightening market incentives to adopt open weight models from vendors based in the People's Republic of China (PRC),",
+"what_it_shows": "Her letter argues that opaque export-control style restrictions on US models help Chinese competitors, a competitiveness concern that cuts against blunt controls.",
+"date": "2026-08-03"
+}
+]
+}
+},
+"search_notes": "Ran about 12 news searches plus a site listing of gillibrand.senate.gov. Opened cbs6albany, the Batavia Daily News (paywalled text decoded from the page's ROT47 markup), gillibrand.senate.gov releases via Wayback (military AI bill, Hegseth statement, DoD engagement letter), Fortune (Mar 6 and Aug 4 2026), CyberScoop, The Hill, TechCrunch, LeadingAge, democrats.senate.gov, govtrack s363. gillibrand.senate.gov returns 403 directly and Wayback was intermittently refusing connections, so the AI toys letter (Gillibrand/Duckworth), the sexualized-AI-images release and the Uyghur export controls release could not be opened; the deepfake letter was confirmed via TechCrunch instead. No statements on state AI law preemption were found."
+},
+{
+"bioguide": "S000148",
+"name": "Charles E. Schumer",
+"signature": "Senate Democratic leader who convened the 2023 AI Insight Forums, wants guardrails with innovation first, and is a leading critic of Nvidia chip sales to China.",
+"notable_quote": {
+"text": "will push for what people want, not [President] Trump's toothless, stupid pledge, but strong, enforceable consumer protections.",
+"url": "https://thehill.com/policy/energy-environment/5802754-schumer-green-tax-credits-data-center-reform-midterms/",
+"date": "2026-03-25"
+},
+"groups": [
+"Senate Democratic Leader (Minority Leader, 119th Congress)",
+"Bipartisan Senate AI Working Group (convener as Majority Leader, 118th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Schumer says Democrats have not said 'don't build data centers' and calls them important, but insists they pay their fair share, run on clean energy and come with strong, enforceable consumer protections, rejecting Trump's voluntary pledge. He has not endorsed a moratorium.",
+"evidence": [
+{
+"type": "statement",
+"title": "The Hill: Schumer lays out data center reforms at League of Conservation Voters dinner",
+"url": "https://thehill.com/policy/energy-environment/5802754-schumer-green-tax-credits-data-center-reform-midterms/",
+"quote": "will push for what people want, not [President] Trump's toothless, stupid pledge, but strong, enforceable consumer protections.",
+"what_it_shows": "He wants binding consumer protections and clean energy for data centers, and criticized pollution from the xAI facility in Memphis, but framed it as reform rather than a halt.",
+"date": "2026-03-25"
+},
+{
+"type": "statement",
+"title": "E&E News: Pallone plots data center crackdown (Schumer's July 14 remarks to union leaders)",
+"url": "https://www.eenews.net/articles/pallone-plots-data-center-crackdown/",
+"quote": "has taken a position that data centers must pay their fair share and promote healthy communities, but we have not said, 'Don't build data centers.'",
+"what_it_shows": "He explicitly declined to join calls for a moratorium while demanding data centers cover their costs.",
+"date": "2026-07-14"
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Schumer has said the dangers of AI could be extreme and that Congress must set guardrails, including on explainability and elections, but his framework puts innovation first and he has not backed licensing or a pause. In 2026 he said any AI law must keep innovation strong but have guardrails to prevent the dangers, and he pressed DHS to prepare for frontier-model hacking.",
+"evidence": [
+{
+"type": "statement",
+"title": "CSIS transcript: Schumer launches SAFE Innovation Framework for AI",
+"url": "https://www.csis.org/analysis/sen-chuck-schumer-launches-safe-innovation-ai-age-csis",
+"quote": "But if people think AI innovation is not done safely, if there are not adequate guardrails in place, it will stifle or even halt innovation altogether. So it is safe innovation we must seek.",
+"what_it_shows": "He called innovation the North Star but said companies will not add guardrails on their own and Congress must act, warning the dangers of AI could be extreme.",
+"date": "2023-06-21"
+},
+{
+"type": "interview",
+"title": "IAPP: Schumer's Politico interview on passing AI legislation",
+"url": "https://iapp.org/news/a/a-view-from-dc-the-plan-to-trade-kids-safety-rules-for-ai-preemption",
+"quote": "keep innovation strong, but have guardrails to prevent the dangers.",
+"what_it_shows": "In June 2026 he said Congress should get something done on AI, balanced between innovation and guardrails, the sooner the better.",
+"date": "2026-06"
+},
+{
+"type": "letter",
+"title": "MeriTalk: Schumer presses DHS for frontier AI cyber response plan for state and local governments",
+"url": "https://www.meritalk.com/articles/schumer-presses-dhs-for-frontier-ai-cyber-response-plan-for-sltt-governments/",
+"quote": "This is a race between cybersecurity defenders and AI-enabled hacking",
+"what_it_shows": "He treats frontier models like Claude Mythos as a near-term hacking threat that government must plan for.",
+"date": "2026-05-07"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): S.4178, Future of Artificial Intelligence Innovation Act of 2024",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/4178",
+"quote": null,
+"what_it_shows": "He backed a government AI Safety Institute writing voluntary testing standards, a light-touch approach to frontier risk.",
+"date": "2024-11-13"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4441, CREATE AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4441",
+"quote": null,
+"what_it_shows": "He supports public compute for AI research, part of his innovation-first agenda.",
+"date": "2026-04-30"
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Schumer cosponsors the Kids Online Safety Act, the children's privacy update (COPPA 2.0), the DEFIANCE Act on AI sexual deepfakes and the Connected Vehicle Security Act, and sponsors the MIND Act on brain data. These are targeted fixes rather than break-ups or a Section 230 repeal.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748, Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"quote": null,
+"what_it_shows": "He supports a duty of care for platforms toward minors.",
+"date": "2025-05-14"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.836, Children and Teens' Online Privacy Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
+"quote": null,
+"what_it_shows": "He supports stronger limits on collecting kids' and teens' data.",
+"date": "2025-05-13"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1837, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1837",
+"quote": null,
+"what_it_shows": "He supports letting victims sue over AI sexual deepfakes.",
+"date": "2025-05-21"
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.2925, MIND Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2925",
+"quote": null,
+"what_it_shows": "He introduced a bill to start protecting neural data collected by consumer devices.",
+"date": "2025-09-29"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"quote": null,
+"what_it_shows": "He backs banning connected-car tech from China, Russia, Iran and North Korea.",
+"date": "2026-07-13"
+}
+]
+},
+"preemption": {
+"score": 0,
+"confidence": "low",
+"summary": "Schumer has not taken a clear public stand on preempting state AI laws. He voted to strip the 2025 moratorium along with 98 other senators, and 2026 reporting describes him as open to a balanced federal AI bill, which trade press read as bullish on a preemptive law, but his own quoted words stop at wanting guardrails plus innovation.",
+"evidence": [
+{
+"type": "interview",
+"title": "IAPP: The plan to trade kids' safety rules for AI preemption (reporting on Thune and Schumer)",
+"url": "https://iapp.org/news/a/a-view-from-dc-the-plan-to-trade-kids-safety-rules-for-ai-preemption",
+"quote": "keep innovation strong, but have guardrails to prevent the dangers.",
+"what_it_shows": "IAPP reports Thune and Schumer are bullish on passing a preemptive AI bill this term, but Schumer's quoted words only call for a balanced law.",
+"date": "2026-06-12"
+},
+{
+"type": "vote",
+"title": "Roll call 363 (Jul 1, 2025): Yea on Blackburn amendment striking the 10-year state AI law moratorium",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"quote": null,
+"what_it_shows": "He voted to remove the moratorium in a 99-1 vote after the deal collapsed, so the vote alone does not show opposition to preemption.",
+"date": "2025-07-01"
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Schumer wants tighter chip export controls. He cosponsors the GAIN AI Act and the Chip Security Act, signed letters against the H20 and H200 sales and the 15 percent fee deal, led a letter against the Saudi and UAE chip deals, and said Trump was selling out America by letting Nvidia ship H200s to China.",
+"evidence": [
+{
+"type": "statement",
+"title": "Fox Business: Schumer accuses Trump of 'selling out America' over Nvidia H200 exports",
+"url": "https://www.foxbusiness.com/politics/schumer-accuses-trump-selling-out-america-after-greenlighting-nvidia-ai-chip-exports-china",
+"quote": "Let's be clear. You can't claim to be tough on China if you willingly sell them some of the most advanced chips in the world, so they can use it to strengthen their military,",
+"what_it_shows": "He opposes the H200 sales to China in his own words.",
+"date": "2025-12-09"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3150, GAIN AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3150",
+"quote": null,
+"what_it_shows": "He backs making chipmakers serve American buyers before exporting advanced chips to China.",
+"date": "2025-11-06"
+},
+{
+"type": "statement",
+"title": "Senate Banking press release: Banks, Warren, Cotton, Schumer, McCormick, Coons introduce GAIN AI Act",
+"url": "https://www.banking.senate.gov/newsroom/minority/banks-warren-cotton-schumer-mccormick-coons-introduce-landmark-bipartisan-gain-ai-act-to-maintain-us-position-as-worlds-leader-in-critical-artificial-intelligence-chips",
+"quote": "The bipartisan GAIN AI Act would ensure that all American innovators, from universities to industry of all size, have first access to American-made chips to drive continued American leadership in AI and strengthen our national security.",
+"what_it_shows": "His own statement ties chip export limits to national security and US leadership.",
+"date": "2025-11-06"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1705, Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"quote": null,
+"what_it_shows": "He supports location verification on exported chips to stop smuggling to China.",
+"date": "2026-06-15"
+},
+{
+"type": "letter",
+"title": "Coons press release: Top Senate Democrats sound alarm on decision to resume H20 chip sales to China",
+"url": "https://www.coons.senate.gov/news/press-releases/top-senate-democrats-sound-alarm-on-administrations-decision-to-resume-ai-chip-sales-to-china",
+"quote": "restricting access to leading-edge chips has been the defining barrier for the PRC's efforts to achieve AI parity.",
+"what_it_shows": "He signed a letter of grave concern over reversing the April 2025 H20 ban.",
+"date": "2025-07-28"
+},
+{
+"type": "letter",
+"title": "Warner press release: Top Senate Democrats warn Trump AI chip deal with China raises legal and national security risks",
+"url": "https://www.warner.senate.gov/newsroom/press-releases/top-senate-democrats-warn-trump-ai-chip-deal-with-china-raises-legal-and-national-security-risks/",
+"quote": "We again urge your administration to quickly reverse course and abandon this reckless plan to trade away U.S. technology leadership.",
+"what_it_shows": "He signed a letter demanding Trump reverse the 15 percent fee deal for Nvidia and AMD chip sales to China.",
+"date": "2025-08-15"
+},
+{
+"type": "letter",
+"title": "Senate Banking press release: Warren, Schumer, colleagues press Lutnick on H200 sales to China",
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-schumer-colleagues-press-lutnick-on-administrations-decision-to-sell-out-us-national-and-economic-security-by-greenlighting-the-sale-of-h200-chips-to-china",
+"quote": "The President's dangerous decision to give away critical national security controls represents a significant departure from longstanding bipartisan efforts to ensure that U.S. technology does not turbocharge China's military and technological capabilities,",
+"what_it_shows": "He signed a letter citing DOJ warnings against letting H200 chips reach China and questioning Nvidia lobbying.",
+"date": "2025-12-12"
+},
+{
+"type": "letter",
+"title": "Senate Democrats' letter to Lutnick and Rubio urging reconsideration of Saudi and UAE chip deals (Schumer and Warren lead)",
+"url": "https://www.democrats.senate.gov/newsroom/press-releases/trumps-middle-east-chip-deals-are-the-art-of-the-steal-presenting-major-national-security-risk-of-china-stealing-sensitive-american-technology-leader-schumer-and-senator-warren-lead-senate-democrats-in-standing-up-against-the-loss-of-building-the-ai-future-in-america-and-urges-admin-to-reconsider-catastrophic-agreements",
+"quote": null,
+"what_it_shows": "He led eight Democrats in saying the Middle East chip deals lacked enforceable protections against diversion to China.",
+"date": "2025-05-19"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1053, FIGHT China Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1053",
+"quote": null,
+"what_it_shows": "He supports screening US investment in Chinese military and surveillance tech companies.",
+"date": "2025-03-13"
+}
+]
+}
+},
+"search_notes": "Ran about 14 news searches plus a site listing of schumer.senate.gov (mostly CHIPS Act funding releases; the Apple/YMTC chips release returned 403 and Wayback was down). Opened The Hill (Mar 26 2026), E&E News (Jul 29 2026), IAPP (Jun 12 2026), CSIS 2023 transcript, MeriTalk (May 2026), Fox Business (Dec 9 2025), Coons, Warner and Senate Banking letters, GAIN AI release, democrats.senate.gov Middle East letter, govtrack s363. Could not open the Sept 2026 Newsweek recap of his data center remarks, the Bloomberg Government Jul 14 2026 story or the Politico June 2026 interview directly (Google News link decoding was rate-limited), so the Politico quote is taken from IAPP's verbatim excerpt. No direct statement on the Dec 2025 executive order or the Mar 2026 White House preemption framework was found."
+},
+{
+"bioguide": "L000598",
+"name": "Nick LaLota",
+"signature": "Long Island Republican whose AI record is limited to deepfake and kids' safety bills and China-tech hawkishness; no data center or preemption statements found.",
+"notable_quote": {
+"text": "As a father raising three daughters in an increasingly digital world, I'm alarmed by the rise of AI-generated explicit content and the exploitation of innocent people online,",
+"url": "https://lalota.house.gov/media/press-releases/lalota-backs-bipartisan-effort-protect-minors-ai-generated-exploitation",
+"date": "2025-05-02"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. Searched his press releases, Long Island and national news for data centers, electricity bills and ratepayers; found only his Yea on the SPEED Act permitting bill, which is not specific to data centers.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356 (Dec 18, 2025): Yea on H.R.4776, SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"what_it_shows": "He voted for general permitting reform; the bill is not specific to data centers, so this is context rather than a data center position.",
+"date": "2025-12-18"
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "LaLota's AI record is about specific harms: he voted for and cosponsored the TAKE IT DOWN Act on AI sexual deepfakes, cosponsors the DEFIANCE Act and a face-scan age verification bill, and backs an AI research bill. No statements on frontier AI safety, licensing or broader regulation were found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: LaLota backs bipartisan effort to protect minors from AI-generated exploitation",
+"url": "https://lalota.house.gov/media/press-releases/lalota-backs-bipartisan-effort-protect-minors-ai-generated-exploitation",
+"quote": "As a father raising three daughters in an increasingly digital world, I'm alarmed by the rise of AI-generated explicit content and the exploitation of innocent people online,",
+"what_it_shows": "He voted for the TAKE IT DOWN Act and wants platforms held accountable for AI-forged sexual images.",
+"date": "2025-05-02"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3562, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"quote": null,
+"what_it_shows": "He supports a civil right to sue over AI sexual deepfakes.",
+"date": "2026-02-02"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6304, AI for America Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6304",
+"quote": null,
+"what_it_shows": "He supports federal AI research and training so the US stays ahead, an innovation-side signal.",
+"date": "2026-04-29"
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "LaLota called for banning TikTok in 2023, cosponsored the TAKE IT DOWN and DEFIANCE Acts, a face-scan age verification bill for kids, and the Connected Vehicle Security Act. These are targeted rules aimed at specific harms and Chinese-linked tech, not broad antitrust or Section 230 changes.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: LaLota calls for TikTok to be banned in United States",
+"url": "https://lalota.house.gov/media/press-releases/lalota-calls-tiktok-be-banned-united-states",
+"quote": "TikTok poses a direct threat to our national security, mental health, and privacy. There is irrefutable evidence that the Chinese Communist Party has a large influence and control over TikTok,",
+"what_it_shows": "He backed a government ban on a major social media platform over Chinese control.",
+"date": "2023-03-23"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.633, TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"quote": null,
+"what_it_shows": "He supports criminal penalties and fast takedown duties for nonconsensual and AI sexual images.",
+"date": "2025-03-31"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.9706, Facial Recognition to Protect Children Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9706",
+"quote": null,
+"what_it_shows": "He supports pushing online services to use face-scan age checks to keep kids out of adult products.",
+"date": "2026-07-15"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"quote": null,
+"what_it_shows": "He supports banning connected-car tech from China, Russia, Iran and North Korea.",
+"date": "2026-08-20"
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting state AI laws. He voted for the House version of H.R.1 that contained the 10-year state AI law moratorium, but that was a vote on the whole tax and spending package and no statement on the AI provision, the Dec 2025 executive order or the Mar 2026 framework was found.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145 (May 22, 2025): Yea on passage of H.R.1, which included the state AI law moratorium",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"quote": null,
+"what_it_shows": "He voted for the reconciliation bill containing the moratorium, but a vote on a package this large is not a clear stance on preemption.",
+"date": "2025-05-22"
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "LaLota leans hawkish on Chinese technology: he cosponsored the No DeepSeek on Government Devices Act and called for a TikTok ban. No statements on Nvidia chip exports or export controls were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.1121, No DeepSeek on Government Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"quote": null,
+"what_it_shows": "He supports removing the Chinese AI app DeepSeek from federal devices.",
+"date": "2025-02-07"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R.3249, Protecting Circuit Boards and Substrates Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3249",
+"quote": null,
+"what_it_shows": "He backed tax breaks for making circuit boards in America rather than overseas.",
+"date": "2023-06-14"
+}
+]
+}
+},
+"search_notes": "Ran 10 news searches (AI, data centers, chatbot/deepfake/Big Tech, chips/DeepSeek, preemption, electricity costs, Long Island tech) plus a site listing of lalota.house.gov, which surfaced only 8 tech or energy pages. Opened his TAKE IT DOWN and TikTok releases, his committees and caucuses page (no AI caucus), and govtrack roll calls 145 and 356. The May 2026 Newsday piece on Long Island members' caucuses could not be decoded from Google News. No statements on data centers, AI regulation, preemption or chip exports were found."
+},
+{
+"bioguide": "G000597",
+"name": "Andrew R. Garbarino",
+"signature": "House Homeland Security chairman who treats AI as a cyber and national security problem, probing US firms' use of Chinese AI models and warning that jailbroken models hand out attack plans.",
+"notable_quote": {
+"text": "It spit out an answer in under three seconds. [It offered] ways to find them, where to look for them. You know, the best spots to do it,",
+"url": "https://homeland.house.gov/2026/04/24/icymi-politico-house-lawmakers-get-a-chilling-demo-of-jailbroken-ai/",
+"date": "2026-04-24"
+},
+"groups": [
+"House Committee on Homeland Security (Chairman, 119th Congress)",
+"House Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection (Chairman, 118th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. Searched his press releases and Long Island and national coverage for data centers, ratepayers and electricity costs; found only his Yea on the SPEED Act permitting bill, which is not specific to data centers.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356 (Dec 18, 2025): Yea on H.R.4776, SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"what_it_shows": "He voted for general permitting reform; the bill is not specific to data centers, so this is context rather than a data center position.",
+"date": "2025-12-18"
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Garbarino sees advanced AI mainly as a security threat: after a demo of a jailbroken model he described asking it how to kidnap a member of Congress and getting an answer in seconds, he says security must stay at the forefront of AI innovation, and he called the 2023 Biden AI executive order a first step. A pro-safeguards group features him in ads for AI security and accountability. He has not called for broad licensing or a pause.",
+"evidence": [
+{
+"type": "statement",
+"title": "Homeland Security Committee ICYMI: Politico, House lawmakers get a chilling demo of jailbroken AI",
+"url": "https://homeland.house.gov/2026/04/24/icymi-politico-house-lawmakers-get-a-chilling-demo-of-jailbroken-ai/",
+"quote": "It spit out an answer in under three seconds. [It offered] ways to find them, where to look for them. You know, the best spots to do it,",
+"what_it_shows": "He told reporters a large language model gave him a plan to kidnap a member of Congress, framing missing guardrails as a real danger.",
+"date": "2026-04-24"
+},
+{
+"type": "hearing",
+"title": "Chairman Garbarino opening statement, hearing on securing AI in the US cybersecurity mission",
+"url": "https://homeland.house.gov/2025/06/12/adversaries-increasingly-weaponize-ai-chairman-garbarino-opens-hearing-on-securing-ai-in-the-us-cybersecurity-mission",
+"quote": "As our enemies continue their endeavors to compromise and weaponize AI systems, we must ensure that security remains at the forefront of innovation in artificial intelligence.",
+"what_it_shows": "He wants security built into AI from the start while also using AI for cyber defense.",
+"date": "2025-06-12"
+},
+{
+"type": "hearing",
+"title": "Subcommittee Chairman Garbarino opening statement, hearing on the Biden AI executive order",
+"url": "https://homeland.house.gov/2023/12/12/subcommittee-chairman-garbarino-delivers-opening-statement-in-hearing-on-biden-administrations-artificial-intelligence-executive-order",
+"quote": "The Administration's Executive Order, or EO, is the first step in building that foundation.",
+"what_it_shows": "Unlike many Republicans, he described the Biden AI order's security tasks for DHS and CISA as a first step, focusing on implementation.",
+"date": "2023-12-12"
+},
+{
+"type": "pac",
+"title": "Public First Action launches $15 million Conservative AI Consensus Project (Garbarino among 12 Republicans to be featured)",
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"quote": "Over the next month, Public First Action will also be rolling out advertisements highlighting the strong records of 12 Republican members of Congress who are leading on AI security and accountability.",
+"what_it_shows": "The Anthropic-backed pro-safeguards network chose to promote him as a Republican leading on AI security and accountability.",
+"date": "2026-07-17"
+},
+{
+"type": "other",
+"title": "Homeland Security Committee 25th anniversary report on national security 25 years after 9/11 (AI section)",
+"url": "https://homeland.house.gov/2026/09/10/25th-anniversary-report-national-security-improvements-and-the-domestic-threat-landscape-25-years-after-9-11-01/",
+"quote": "But the same capabilities can also assist malicious actors.",
+"what_it_shows": "His committee's report warns AI is accelerating nation-state cyber campaigns even as it helps defenders.",
+"date": "2026-09-10"
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Garbarino backs targeted fixes: he cosponsors the Foreign Robocall Elimination Act and the DEFIANCE Act on AI sexual deepfakes, and has flagged deepfakes as a security concern. No positions on Section 230, antitrust or broad privacy law were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.6152, Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"quote": null,
+"what_it_shows": "He supports cracking down on scam robocalls from abroad.",
+"date": "2025-12-15"
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3562, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"quote": null,
+"what_it_shows": "He supports letting victims sue over AI sexual deepfakes.",
+"date": "2026-06-30"
+},
+{
+"type": "hearing",
+"title": "Garbarino opening statement in emerging technologies hearing (as subcommittee ranking member)",
+"url": "https://garbarino.house.gov/media/press-releases/garbarino-opening-statement-emerging-technologies-hearing",
+"quote": "Striking the proper balance between security and harnessing technological innovation is critical in maintaining an edge against our adversaries and criminal entities, ensuring national prosperity.",
+"what_it_shows": "He frames tech policy as balancing security against innovation rather than broad regulation.",
+"date": "2022-06-22"
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting state AI laws. He did not vote on the House passage of H.R.1 that carried the moratorium, and no statement on the moratorium, the Dec 2025 executive order or the Mar 2026 framework was found. Public First's description of its 12 featured Republicans mentions work to keep preemption out of the NDAA, but does not attribute that to him specifically.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145 (May 22, 2025): Not Voting on passage of H.R.1, which included the state AI law moratorium",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"quote": null,
+"what_it_shows": "He was recorded as not voting on the bill that carried the moratorium, so it gives no signal.",
+"date": "2025-05-22"
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Garbarino is hawkish on Chinese AI: with China Select Committee chair Moolenaar he opened a probe into Airbnb, Anysphere and DoorDash's use of PRC models like DeepSeek, Alibaba, Moonshot and MiniMax, and asked the Pentagon to list DeepSeek as a Chinese military company. He has not cosponsored the chip export control bills themselves.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Chairmen Garbarino, Moolenaar announce joint investigation into national security risks posed by PRC AI models",
+"url": "https://homeland.house.gov/2026/04/29/chairmen-garbarino-moolenaar-announce-joint-investigation-into-national-security-risks-posed-by-prc-ai-models/",
+"quote": null,
+"what_it_shows": "He launched a probe into US companies adopting Chinese open-weight models, citing distillation of American frontier models and cyber risk.",
+"date": "2026-04-29"
+},
+{
+"type": "letter",
+"title": "Press release: Chairmen Garbarino, Moolenaar continue joint investigation into PRC open-weight AI models (DoorDash letter)",
+"url": "https://homeland.house.gov/2026/07/31/chairmen-garbarino-moolenaar-continue-joint-investigation-into-security-risks-posed-by-prc-open-weight-ai-models",
+"quote": null,
+"what_it_shows": "He extended the probe to DoorDash after the White House said Moonshot may have run covert distillation against US models.",
+"date": "2026-07-31"
+},
+{
+"type": "letter",
+"title": "Press release: Chairmen Garbarino, Moolenaar, Crawford lead letter asking Pentagon to list DeepSeek, Gotion, Unitree and Wuxi as Chinese military companies",
+"url": "https://homeland.house.gov/2025/12/19/chairmen-garbarino-moolenaar-crawford-lead-letter-asking-pentagon-to-list-deepseek-gotion-unitree-and-wuxi-as-chinese-military-companies",
+"quote": null,
+"what_it_shows": "He wants DeepSeek and 16 other firms on the Pentagon's 1260H list, barring defense contracts with them.",
+"date": "2025-12-19"
+}
+]
+}
+},
+"search_notes": "Ran about 14 news searches plus site listings of garbarino.house.gov and homeland.house.gov. Opened the Apr 29 and Jul 31 2026 PRC AI model probe releases, the Dec 2025 DeepSeek 1260H letter, the June 2025 and Dec 2023 hearing statements, the 2022 emerging tech statement, the committee's Politico ICYMI on the jailbroken AI demo, the Sept 10 2026 9/11 anniversary report, the Public First Action release, and govtrack roll calls 145 and 356. Could not open the June 2026 Punchbowl, WION and News International pieces quoting him calling the Anthropic Mythos demo scary, the Apr 2026 Washington Post AI brief on AI query red flags, or the Nextgov and Axios briefing stories (Google News link decoding was rate-limited and guessed URLs failed), so those are not cited. No statements on data centers, ratepayers or state AI law preemption were found."
+}
+]

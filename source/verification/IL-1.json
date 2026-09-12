@@ -1,0 +1,291 @@
+[
+{
+"bioguide": "D000563",
+"checks": [
+{
+"url": "https://www.durbin.senate.gov/newsroom/press-releases/as-utility-costs-rise-durbin-introduces-new-legislation-to-bring-transparency-to-energy-and-water-consumption-by-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-25",
+"note": "Site returns 403 to scripted fetches and Wayback was unreachable; read via real browser. Release (Mar 25, 2026) contains Durbin quote: 'If you've noticed a sharp increase in your utility bills lately, it may be from the growth of energy-hungry data centers. Illinoisans deserve an honest analysis of the electricity and water needs of these data centers...' and closes with 'Durbin wrote about the rising costs of water and electric bills in the Chicago Tribune earlier this month.' Bill is the Data Center Water and Energy Transparency Act."
+},
+{
+"url": "https://www.datacenterdynamics.com/en/news/senate-democrats-propose-legislation-to-curb-data-center-grid-impact/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "403 from fetch tool, curl, WebFetch; browser navigation denied; Wayback connection refused and archive.ph has no copy. Could not verify the DCD quote verbatim (note it omits Peter Welch, who appears in the sponsor's list). The underlying cosponsorship claim is independently confirmed by Van Hollen's Jan 15, 2026 release (item 3), which describes new data center rate classes, a FERC rule on local transmission upgrades, and an interconnection management system."
+},
+{
+"url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-leads-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Read via browser (site 403s scripted fetches). Release dated 01.15.2026: 'Joining Senator Van Hollen as cosponsors of this legislation are Senators Dick Durbin (D-Ill.), Richard Blumenthal...' Supporters list includes 'Illinois Citizens Utility Board' with a quote from CUB Illinois director Sarah Moskowitz. Release does not literally say 'original cosponsor' but the bill was introduced that day with Durbin listed."
+},
+{
+"url": "https://www.hawley.senate.gov/hawley-durbin-introduce-legislation-empowering-americans-to-bring-liability-claims-against-ai-companies/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-30",
+"note": "Read via browser. Quote appears verbatim, attributed to Durbin, in the Sept 30, 2025 release on the AI LEAD Act. Preceding sentence 'Big Tech's time to police itself is over' supports the 'not self-policing' framing."
+},
+{
+"url": "https://www.durbin.senate.gov/newsroom/press-releases/durbin-exposes-harms-of-unregulated-ai-chatbots-during-senate-judiciary-committee-hearing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-16",
+"note": "Read via browser. Sept 16, 2025 release: witnesses include parents harmed by Character.AI and ChatGPT; Durbin quote 'It's about money. It's about profit... If you make them pay a price for the devastation they've brought to your families and other families, it will change.' Final paragraph: 'At the top of today's hearing, Durbin previewed his new AI LEAD Act.'"
+},
+{
+"url": "https://rollcall.com/2026/04/30/ban-on-kids-companion-chatbots-advanced-by-senate-committee/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Fetch tool text: 'The legislation has 18 co-sponsors across both parties, including the committee's ranking member, Sen. Richard J. Durbin, D-Ill.' GUARD Act advanced by Senate Judiciary."
+},
+{
+"url": "https://rollcall.com/2026/01/13/senate-passes-bill-targeting-nonconsensual-deepfake-images/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-13",
+"note": "Quote appears verbatim. Article: 'Bill sponsor Sen. Richard J. Durbin, D-Ill., who sought and won unanimous consent to pass the bipartisan bill'; Durbin criticized X for not preventing Grok from creating the 'exploitive images.'"
+},
+{
+"url": "https://ipwatchdog.com/2026/04/22/senate-judiciary-hearing-on-chinese-ip-theft/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "Quote appears verbatim; Toner replied 'it's truly unprecedented the mismatch between how strategically important this technology is and how little involvement government has in developing it.'"
+},
+{
+"url": "https://www.durbin.senate.gov/newsroom/press-releases/durbin-delivers-opening-statement-in-senate-judiciary-subcommittee-hearing-on-the-way-ai-interacts-with-copyrights",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-16",
+"note": "Read via browser. July 16, 2025 release: 'AI innovation and protection of intellectual property rights are not mutually exclusive' and 'companies like Meta and Anthropic have obtained copyrighted materials from sites that host pirated copies of the authors' books' without compensating creators."
+},
+{
+"url": "https://www.courthousenews.com/10-things-i-hate-about-section-230-joseph-gordon-levitt-urges-rollback-of-big-tech-protections/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-04",
+"note": "Quote appears verbatim (reporter paraphrase with 'real accountability' in quotes). Article: Gordon-Levitt 'joined Senator Dick Durbin on Capitol Hill'; Durbin 'acknowledged that lawmakers would face a serious challenge from the tech lobby in Washington.' Bill described as sunsetting Section 230."
+},
+{
+"url": "https://www.hawley.senate.gov/hawley-durbin-launch-investigation-into-child-sexual-abuse-on-roblox/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-13",
+"note": "Read via browser. Release Aug 13, 2026 (letter dated Aug 12): letter signed by Durbin as Ranking Member of the Crime and Counterterrorism Subcommittee; text says 'Roblox appears to prioritize revenue and engagement metrics over the safety and well-being of our children' and 'Roblox is hereby directed to preserve all records... in connection with child safety.'"
+},
+{
+"url": "https://unchainedcrypto.com/senate-democrats-demand-hearings-on-uaes-reported-500-million-stake-in-trump-family-crypto-venture/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-24",
+"note": "Quote appears verbatim and Durbin is named as a signer. But the letter's subject is foreign influence via the Trump crypto venture; the G42 Blackwell transfer is listed as one of several 'policy decisions benefiting the UAE', and the 'despite warnings from U.S. intelligence' clause reads as the reporter's context rather than a quoted letter passage. Weak evidence of an export-control position; it is an anti-corruption framing."
+},
+{
+"url": "https://ipwatchdog.com/2026/04/22/senate-judiciary-hearing-on-chinese-ip-theft/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "Page supports the modest claim: Durbin asked about greater government involvement in AI development at the Chinese IP theft hearing; no chip export position is attributed to him."
+},
+{
+"url": "https://www.hawley.senate.gov/hawley-durbin-introduce-legislation-empowering-americans-to-bring-liability-claims-against-ai-companies/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-30",
+"note": "Headline quote appears verbatim, attributed to Durbin, Sept 30, 2025."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "None of the 14 sourced items addresses federal preemption of state AI laws. The AI LEAD Act lets state AGs sue and the transparency bill routes reporting through states, but no source shows Durbin taking a position on a moratorium or a single national rule. Evidence is too thin for a firm -2.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "china_chips",
+"objection": "The only chips evidence is a passing mention of the G42 Blackwell transfer inside a letter about UAE influence on the Trump family's crypto venture (item 12), and item 13 explicitly says he 'did not stake out a chips position.' That does not establish a 'Leans hawkish' export-control stance.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "D000622",
+"checks": [
+{
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-06",
+"note": "Fetched directly (status 200). Quote appears verbatim, attributed to Duckworth (curly apostrophes aside; page continues 'So, we need strong community input.'). Article paraphrases all claim elements: no raising utility/water bills, wastewater not drinking water, own generators / co-locate with nuclear, guardrails before the industry explodes 'as it did in California.'"
+},
+{
+"url": "https://www.datacenterdynamics.com/en/news/senate-democrats-propose-legislation-to-curb-data-center-grid-impact/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-27",
+"note": "Site returned 403 to the fetch script, curl and WebFetch; read via Chrome. Cosponsor sentence appears verbatim naming Duckworth. Article describes FERC-mandated data center load queues, state data center rate classes, and allocating local transmission upgrade costs to data centers. Note the sponsor's own release also lists Peter Welch, whom DCD omits."
+},
+{
+"url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-leads-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "403 to scripted fetch; read via Chrome. Release dated 01.15.2026 lists Duckworth as cosponsor and includes a Duckworth quote ('the last thing they need is to foot the bill for data center energy costs' while 'supporting the development and improvement of data centers'). States PJM households will see bills rise $70/month by 2028 due to capacity costs."
+},
+{
+"url": "https://www.techpolicy.press/senate-committee-advances-four-bills-aimed-at-protecting-children-online/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-06",
+"note": "Fetched directly. The quoted sentence appears verbatim as the reporter's paraphrase of Duckworth (not a direct Duckworth quotation). Page also describes her Children's Artificial Intelligence Toy Safety Act (National Academies study, FTC/CPSC joint action plan)."
+},
+{
+"url": "https://www.duckworth.senate.gov/news/press-releases/duckworth-gillibrand-demand-trump-administration-protect-our-children-from-risky-age-inappropriate-ai-toys",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-12",
+"note": "403 to scripted fetch; read via Chrome. Letter to FTC Chairman Ferguson urges investigation of Mattel and other AI toy companies for unfair/deceptive marketing, seeking a preliminary injunction, and sanctioning COPPA violations; cites plush bear telling children where to find knives and a plush bunny having sexually explicit conversations."
+},
+{
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-06",
+"note": "Quote appears verbatim, attributed to Duckworth, immediately after her saying AI 'has some real potential for breakthroughs in healthcare, in particular.'"
+},
+{
+"url": "https://www.duckworth.senate.gov/news/press-releases/duckworth-stresses-importance-of-illinois-national-labs-to-ai-leaders-condemns-trump-and-musks-cuts-to-technology-innovation-research",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-08",
+"note": "403 to scripted fetch; read via Chrome. Release says she spoke to Sam Altman and other AI leaders at a Commerce hearing about Fermilab and Argonne and called the research cuts 'a self-sabotaging attack.' The 'supports federal AI research rather than slowing it' gloss is the tracker's inference but reasonable. Note this is about federal research funding, weak as ai_risk evidence."
+},
+{
+"url": "https://www.duckworth.senate.gov/news/press-releases/duckworth-pushes-tesla-and-waymo-to-ensure-autonomous-vehicles-are-safe-and-accessible-for-all-americans",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-04",
+"note": "403 to scripted fetch; read via Chrome. Release: at a Commerce Committee hearing she 'pressed Tesla and Waymo to not only prioritize the safety of all Americans but also to proactively ensure universal accessibility'; quote 'There's been too much lip service paid to accessibility by so-called autonomous driving technology companies.' Emphasis is overwhelmingly disability accessibility, safety is framing; thin as tech_regulation evidence."
+},
+{
+"url": "https://www.commerce.senate.gov/press/dem/release/cantwell-commerce-committee-democrats-call-for-regular-order-on-dangerous-and-damaging-commerce-title-of-reconciliation-bill-2025-6/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06",
+"note": "403 to scripted fetch; read via Chrome. Duckworth is among Cantwell plus 11 Democrats (12 total) urging Cruz to mark up the reconciliation text released June 5, 2025. Letter states verbatim 'the AI moratorium proposal tramples states' rights and holds the $42 billion BEAD program hostage.' Exact release day not shown on page (URL indicates June 2025)."
+},
+{
+"url": "https://www.foreign.senate.gov/press/dem/release/senate-foreign-relations-democrats-statement-on-trump-xi-summit",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-15",
+"note": "403 to scripted fetch; read via Chrome. Ten SFRC Democrats including Duckworth. Statement: 'AI safety talks cannot serve as a Trojan Horse for technological surrender'; administration 'dangerously greenlit' sale of advanced AI chips to Alibaba and Tencent 'with direct ties to the Chinese military'; 'reiterate bipartisan calls for strict enforcement of export controls and the closure of loopholes.'"
+},
+{
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-06",
+"note": "Headline quote appears verbatim and is attributed to Duckworth."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "The only preemption evidence is a single group letter (Cantwell-led, 12 signers, primarily about regular order and spectrum/BEAD) with one clause saying the AI moratorium 'tramples states' rights.' Duckworth has no individual statement on preemption in the sources. That supports opposition to a blanket moratorium but is too thin for the strongest 'Let states regulate' position.",
+"suggested_score": -1,
+"suggested_label": "Leans states"
+}
+]
+},
+{
+"bioguide": "K000385",
+"checks": [
+{
+"url": "https://news.bgov.com/bloomberg-government-news/data-center-backlash-floods-campaign-trail-as-hill-action-stalls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-04",
+"note": "Quote appears verbatim, attributed to Rep. Robin Kelly (D-Ill.), in the context of a House bill to shield ratepayers from data-center costs that leadership has not scheduled. Note the quote says 'we definitely do need to look at that', which is a measured call for attention rather than a specific demand for legislation."
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-11",
+"note": "Quote is verbatim in Kelly's remarks. She also says 'We could not simultaneously pull back from these critical investments' and touts the Illinois Quantum and Microelectronics Park on Chicago's southeast side, plus 'other large scale data centers coming to the area', which she frames positively. Transcript published 2025-04-11 (hearing was earlier that week)."
+},
+{
+"url": "https://robinkelly.house.gov/media-center/press-releases/health-insurance-ceo-cant-commit-safe-ai-practices-congressional",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Quote verbatim. Release describes her questioning UnitedHealth Group CEO Hemsley on who determines denials and whether AI is still improperly denying claims, and says insurers should not be 'weaponizing AI to deny Americans essential care.'"
+},
+{
+"url": "https://capitolnewsillinois.com/news/candidates-for-u-s-senate-in-illinois-respond-to-questionnaire/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-17",
+"note": "Quote verbatim in Kelly's answer to the standard questionnaire item 'What are your views on artificial intelligence? Do you think government has a role in regulating AI? If so, how?' She cites five bipartisan white papers, worker preparation, civil liberties and US leadership. Notably she does not directly say whether government should regulate."
+},
+{
+"url": "https://robinkelly.house.gov/media-center/editorials/us-leadership-ai-not-guaranteed-its-possible-heres-how",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2020-09-22",
+"note": "Quote verbatim. Editorial (with Will Hurd) lays out a national AI strategy with four pillars (workforce, national security, R&D, ethics), calls for increasing federal AI R&D funding, and says existing anti-discrimination rules should be the starting point for AI regulation via committee oversight. Dated Sept 2020, so it is old."
+},
+{
+"url": "https://robinkelly.house.gov/media-center/press-releases/reps-kelly-jayapal-leads-26-members-congress-letter-major-tech-telecom",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-03",
+"note": "Quote is the release's verbatim subheadline. Letter asks tech and telecom companies how they respond to, track and comply with DHS administrative subpoenas; ACLU endorsement is stated. However this is government-surveillance oversight aimed at DHS, not regulation of tech companies' own conduct, so it is weak evidence for a tech_regulation score."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned empty text for the PDF; downloaded and extracted it directly. Letter dated Nov 26, 2025 to Johnson/Thune urges them to 'oppose any effort to reinsert an AI moratorium barring state and local governments from enforcing their laws', objects to the planned preemption executive order and to conditioning BEAD funds on state preemption. 'Robin L. Kelly' appears in the signer list."
+},
+{
+"url": "https://robinkelly.house.gov/media-center/editorials/us-leadership-ai-not-guaranteed-its-possible-heres-how",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2020-09-22",
+"note": "Page says 'The Chinese Communist Party is the biggest threat to America's leadership in this realm' and calls for increasing federal AI R&D funding, noting China's R&D has quadrupled. It says nothing about chips or export controls, and is from 2020, so it is indirect evidence for a china_chips position."
+},
+{
+"url": "https://capitolnewsillinois.com/news/candidates-for-u-s-senate-in-illinois-respond-to-questionnaire/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-17",
+"note": "Verbatim in Kelly's questionnaire answer."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The two sources cut both ways: at the April 2025 hearing she celebrated the quantum campus and 'other large scale data centers coming to the area' and called for bringing new clean generation online, while in Sept 2026 she said Congress should 'look at' utility-bill complaints in measured terms. Neither source shows a ratepayer-first stance; the record reads as welcoming buildout while acknowledging bill concerns.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "tech_regulation",
+"objection": "The only tech_regulation source is a letter asking tech and telecom firms how they handle DHS administrative subpoenas, which is oversight of government surveillance and speech suppression, not a position on regulating Big Tech. Evidence for -1 is too thin from the cited sources.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+}
+]

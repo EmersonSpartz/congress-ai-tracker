@@ -1,346 +1,187 @@
 [
 {
-"bioguide": "K000367",
+"bioguide": "M001143",
 "checks": [
 {
-"url": "https://kfgo.com/2026/08/12/1339958/",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-08-12",
-"note": "Fetched directly. Quote appears verbatim (page prefixes '(Data centers)' in brackets). Same passage also has her saying of NDAs signed by officials, 'I don't think that should be happening.' Claim fully supported."
+"corrected_date": "2025-11-26",
+"note": "PDF (fetch tool returned 0 chars; downloaded and extracted text directly). Letter dated Nov 26, 2025 to Johnson/Thune/Jeffries/Schumer. Quote appears verbatim in the opening paragraph; it also opposes the proposed preemption executive order. 'Betty McCollum' appears in the signer list."
 },
 {
-"url": "https://www.wctrib.com/news/minnesota/where-do-minnesota-statewide-office-candidates-stand-on-data-centers",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-09-11",
-"note": "Fetched directly (Forum News Service, published Sept 11, 2026). Quote verbatim. Article says she would require projects to cover 100% of energy and grid costs, disclose electricity and water demand before local approval, require annual public reporting, and that she said Demuth 'blocked' the NDA bill. All claim elements present."
-},
-{
-"url": "https://minnesotareformer.com/2026/07/31/where-do-the-candidates-for-governor-stand-on-data-centers/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-31",
-"note": "Fetch tool got Cloudflare 403 and Wayback was unavailable; page text read after Cloudflare auto-check passed in Chrome. Spokesman Darwin Forsyth quote is verbatim. Article states she 'did not respond directly to the Reformer's specific questions about local moratoriums or the use of NDAs' and that the 2025 full-cost energy law 'was a good start.' Claim supported."
-},
-{
-"url": "https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-11",
-"note": "Fetched directly. Quote verbatim. Democratic committee aide quote 'primarily a voluntary standard type situation' present; article says Cantwell supports language mandating vetting by federal agencies such as the national labs and national security agencies. Note the tension: the aide characterizes her own draft as largely voluntary, which cuts against reading her statement as 'binding' oversight."
-},
-{
-"url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/5/klobuchar-presses-for-bipartisan-path-forward-on-safe-ai-development-highlights-need-for-legislation-to-give-americans-control-over-their-voice-and-likeness",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-05-08",
-"note": "Fetch tool reached a Jan 2026 Wayback snapshot for the quote; full transcript read in Chrome after site blocked (Akamai 403). Quote verbatim. Transcript: 'basic guardrails for the riskiest non-defense applications of AI' and Altman answers 'I do, that makes a lot of sense to me' to whether a risk-based approach is best. Claim supported."
-},
-{
-"url": "https://www.commerce.senate.gov/2026/1/cantwell-klobuchar-markey-raise-concerns-on-the-use-of-ai-in-toys",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-01-15",
-"note": "Fetched via Wayback (Mar 2026 snapshot). Quote verbatim in both the release summary and the letter text. Letter is a CPSC oversight/information request signed with Cantwell and Markey; 'be required to mitigate these risks before marketing' supports the mandatory-rule framing."
-},
-{
-"url": "https://techpolicy.press/transcript-us-senate-hearing-on-examining-the-harm-of-ai-chatbots",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-09-16",
-"note": "Fetched directly (URL needs trailing slash; redirects to www.techpolicy.press). Quote verbatim. Transcript shows her asking Megan Garcia whether human-mimicking design makes chatbots more addictive, asking Torney about safeguards, and asking whether parents should have the right to know their children are using a chatbot and whether conversations indicate danger. Hearing was Sept 16, 2025; transcript published Sept 17."
-},
-{
-"url": "https://ari.us/cotton-klobuchar-intro-biosecurity-modernization-and-innovation-act-to-address-ai-era-biosecurity-risks/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-02-04",
-"note": "Fetched directly. ARI release says the Cotton-Klobuchar bill would 'establish mandatory gene synthesis security screening standards' and 'require companies that manufacture or sell synthetic DNA to screen orders for hazardous sequences,' motivated by AI lowering barriers to designing dangerous sequences. Claim supported. Source is an advocacy group's endorsement release, not the senators' own."
-},
-{
-"url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/9/klobuchar-statement-on-the-google-antitrust-remedy-decision",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-09-02",
-"note": "Site blocks fetch tool (Akamai 403) and Wayback was rate-limiting; page read in Chrome. Quote verbatim. Statement continues: 'That's why we must pass my bipartisan American Innovation and Choice Online Act to stop dominant platforms like Google from continuing to unfairly preference their own products.' Claim supported."
-},
-{
-"url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/9/klobuchar-opening-remarks-at-hearing-on-meta-s-neglect-of-children-s-online-safety",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-09-09",
-"note": "Site blocks fetch tool; page read in Chrome. Quote verbatim. Release identifies her as Ranking Member of the Judiciary Subcommittee on Privacy, Technology, and the Law; she says Meta 'blocked, manipulated, hid, and deleted research' and calls for Democrats and Republicans to 'set up common-sense rules,' endorses KOSA and repealing Section 230. Claim supported."
-},
-{
-"url": "https://www.klobuchar.senate.gov/public/index.cfm/2024/9/klobuchar-colleagues-urge-justice-department-federal-trade-commission-to-investigate-generative-ai-products-for-potential-antitrust-violations",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2024-09-10",
-"note": "Fetched via Wayback (Mar 2026 snapshot) and re-read in Chrome. Quote verbatim. Signers: Klobuchar plus Blumenthal, Hirono, Durbin, Whitehouse, Duckworth, Warren, Smith, i.e. seven Democratic colleagues. Letter names Google and Meta and argues AI summaries keep users on the platform, harming journalists. Claim supported."
-},
-{
-"url": "https://www.nytimes.com/2025/12/09/opinion/klobuchar-trump-ai.html",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-09",
-"note": "NYT blocks fetch tool and Wayback; preview text read in Chrome. Byline Amy Klobuchar, headline 'State A.I. Laws Keep Us Safe. Trump's Next Move Could Upend That.', dated Dec. 9, 2025. Argues Trump's planned executive order replacing state laws with 'One Rulebook' should concern every American and that states must be able to protect people until federal standards pass. Also calls on Congress to pass federal standards, so it is pro-state-now rather than anti-federal-rule."
-},
-{
-"url": "https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-11",
-"note": "Fetched directly. Quote verbatim. Article confirms she is a sponsor with Thune (input from Cruz) and that Cantwell posted on X opposing a 'weak federal standard' that undermines existing state AI legislation. Article does not itself describe the bill's preemption language, so 'preemption terms remain the fight' is an inference."
-},
-{
-"url": "https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-11",
-"note": "Fetched directly. Verbatim in her statement to Nextgov/FCW, Sept 11, 2026."
+"corrected_date": "2025-12-03",
+"note": "Press release dated Dec 3, 2025. Quote appears verbatim. Page states the letter was signed by 44 Members and lists 'Betty McCollum' among them. Letter urges no AI moratorium or preemption in final FY26 NDAA."
 }
 ],
 "score_objections": []
 },
 {
-"bioguide": "S001203",
+"bioguide": "O000173",
 "checks": [
 {
-"url": "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=4569",
+"url": "https://omar.house.gov/media/press-releases/workforce-protections-ranking-member-omar-opening-remarks-hearing-ai-role",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-04-09",
-"note": "Page lists 'Tina Smith (D-MN)' among Senate cosponsors of the Power for the People Act, a bill to shield consumers from rising energy costs tied to data centers. Published 2026-04-09."
+"corrected_date": "2026-02-11",
+"note": "Item 1. Quote appears verbatim in her Feb 11, 2026 opening statement; she goes on to call for 'greater transparency and accountability about resource use, community benefit agreements... and a real seat at the table.' Claim fully supported."
 },
 {
-"url": "https://broadbandbreakfast.com/senate-bill-to-offset-data-centers-impact-on-energy-costs-introduced/",
+"url": "https://omar.house.gov/media/press-releases/workforce-protections-ranking-member-omar-opening-remarks-hearing-ai-role",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-11",
+"note": "Item 2. Quote verbatim. Preceding paragraph explicitly rejects the 'government must stay out of the way and keep its hands off AI' framing, then says 'But we do need government to act.' Claim supported."
+},
+{
+"url": "https://omar.house.gov/media/press-releases/workforce-protections-ranking-member-omar-opening-remarks-7th-hearing-ais",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-17",
+"note": "Item 3. Quote verbatim (Apr 17, 2026). Page also says 'After seven AI hearings, Committee Republicans have not produced a single plan or bill to protect workers from AI risks.' Claim supported."
+},
+{
+"url": "https://omar.house.gov/media/press-releases/rep-omar-submits-9-amendments-national-defense-authorization-act-ndaa",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-30",
+"note": "Item 4. Quote is the verbatim description of amendment #1302; #1303 requires DoD reporting on 'meaningful human command' over autonomous weapons; intro says amendments 'strengthen congressional oversight over the DoD's use of artificial intelligence.' Claim supported."
+},
+{
+"url": "https://www.huffpost.com/entry/thomas-massie-throuple-attack-ad-cheating-squad_n_69f8dca9e4b06e9242f57b3f",
 "verdict": "partially_supported",
 "corrected_quote": null,
-"corrected_date": "2026-01-23",
-"note": "Article (2026-01-23) says Van Hollen's bill has support from 'other Democratic senators' and tags Tina Smith; the exact count 'seven' is not visible in the unpaywalled text, and her name appears only as a post tag, not in the body. Claim is directionally right but thin on its own; the Tonko release is the stronger source."
+"corrected_date": "2026-05-04",
+"note": "Item 5. Quote verbatim; she also said 'This ad must be taken down immediately.' The takedown call is confirmed, but the article never mentions any Omar deepfake bills, so the 'consistent with her deepfake bills' clause is not supported by this source."
 },
 {
-"url": "https://fedscoop.com/federal-reserve-ai-task-force-kevin-warsh/",
+"url": "https://omar.house.gov/media/press-releases/rep-omar-statement-proposals-ban-tiktok",
 "verdict": "confirmed",
-"corrected_quote": "So can you can you understand why a task force that is led by people, in large part, who are likely to get richer by AI, might not be the most credible people to folks on the ground who are doing the work, who are worried about what impact this AI is going to have on their jobs",
-"corrected_date": "2026-07-16",
-"note": "Quote appears verbatim as an excerpt of a longer sentence attributed to Smith at the Senate Banking hearing. Article also confirms she asked 'Is there anyone on the task force who has experience in the labor market?' Note: her remarks are about the composition of the Fed's AI task force and worker perspective, not about AI safety rules or regulation per se."
+"corrected_quote": null,
+"corrected_date": "2023-03-28",
+"note": "Item 6. Quote verbatim. She opposes banning TikTok, cites First Amendment and censorship concerns, and calls for standards on data harvesting/privacy 'across social media companies.' Claim supported."
 },
 {
-"url": "https://www.klobuchar.senate.gov/public/index.cfm/2024/9/klobuchar-colleagues-urge-justice-department-federal-trade-commission-to-investigate-generative-ai-products-for-potential-antitrust-violations",
+"url": "https://www.minnpost.com/dc-memo/2024/03/to-ban-or-not-to-ban-minnesota-lawmakers-disagree-on-tiktok/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-15",
+"note": "Item 7. Fragment quoted verbatim: Omar said the bill 'raises concerns about the First Amendment' and that the government should 'set a standard for all social media platforms.' Article is a MinnPost news roundup quoting her, not an interview per se, but the claim is supported."
+},
+{
+"url": "https://omar.house.gov/media/press-releases/workforce-protections-ranking-member-omar-opening-remarks-hearing-ai-role",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-11",
+"note": "Item 8. Quote verbatim. She also says the AI narrative rests on 'a very small number of powerful companies with access to massive amounts of data and computing resources.' Claim supported."
+},
+{
+"url": "https://omar.house.gov/media/press-releases/omar-jayapal-norcross-introduce-legislation-protect-app-based-workers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Item 9. Quote verbatim. Release says the bill 'would put guardrails on digital labor platforms, including Uber, Lyft, DoorDash, and Amazon, to ensure that automated decisions do not lead to discrimination and price-gouging.' Claim supported."
+},
+{
+"url": "https://omar.house.gov/media/press-releases/workforce-protections-ranking-member-omar-opening-remarks-7th-hearing-ais",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-17",
+"note": "Item 10. Quote verbatim, preceded by praise for states that 'passed their own guardrails on the use of AI.' Claim supported."
+},
+{
+"url": "https://omar.house.gov/media/press-releases/workforce-protections-ranking-member-omar-opening-remarks-hearing-ai-role",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-11",
+"note": "Item 11. Headline quote appears verbatim as the closing line of her Feb 11, 2026 statement."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "E000294",
+"checks": [
+{
+"url": "https://www.minnpost.com/national/washington/2026/09/minnesota-gop-lawmakers-grapple-with-data-centers-as-republican-voters-turn-against-the-projects/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-03",
+"note": "MinnPost (published 2026-09-03) quotes Emmer's X post verbatim, says he 'immediately embraced' Trump's message, quotes Trump's 'backwards and poor' line, and says other Minnesota Republicans (e.g., Finstad) rejected Trump's approach and stressed communities' right to decide. The X post link is x.com/GOPMajorityWhip/status/2094445903855714684."
+},
+{
+"url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2eW5hTUNqUlhZNjc5TGRyaDgtN2g1RW40STdsV1d3dmJiYVJnSGZPMXVOMDFweDZkdUkySUlWUGFHaF9mb3JBR1J0QU5ONGV1Mjc1RVZoOWZTQmM?oc=5",
 "verdict": "unreachable",
 "corrected_quote": null,
 "corrected_date": null,
-"note": "klobuchar.senate.gov returned HTTP 403 on three direct attempts and via WebFetch; Wayback Machine returned 429/empty. Could not verify the quote or that Smith is a signer."
-},
-{
-"url": "https://fedscoop.com/federal-reserve-ai-task-force-kevin-warsh/",
-"verdict": "confirmed",
-"corrected_quote": "So can you can you understand why a task force that is led by people, in large part, who are likely to get richer by AI, might not be the most credible people to folks on the ground who are doing the work, who are worried about what impact this AI is going to have on their jobs",
-"corrected_date": "2026-07-16",
-"note": "Same source as item 3; quote is a verbatim excerpt attributed to 'the Minnesota Democrat' (Smith)."
-}
-],
-"score_objections": [
-{
-"dimension": "ai_risk",
-"objection": "The only ai_risk evidence is a hearing exchange about who sits on the Fed's AI task force (labor vs. investor perspective on AI's job impact). It says nothing about AI safety rules, guardrails, or regulation, so it does not support placing her at -1 'Targeted guardrails' versus any other position. Evidence too thin for a score.",
-"suggested_score": null,
-"suggested_label": null
-},
-{
-"dimension": "tech_regulation",
-"objection": "The sole tech_regulation source (Klobuchar letter to DOJ/FTC) could not be loaded to confirm Smith signed it or that the quote exists. If it is confirmed elsewhere, -1 'Targeted rules' is reasonable; until then the score rests on an unverified item.",
-"suggested_score": null,
-"suggested_label": null
-}
-]
-},
-{
-"bioguide": "F000475",
-"checks": [
-{
-"url": "https://www.kttc.com/2026/08/19/congressional-candidate-demands-data-center-moratorium-ahead-googles-pine-island-celebration/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-08-19",
-"note": "KTTC (2026-08-19) carries Finstad's statement verbatim, including 'can play an important role in our economic future and national security' and the local-control line. Article frames it as a response to challenger Jake Johnson's moratorium demand ahead of Google's Pine Island event."
+"note": "Google News redirect returns an empty 'Google News' shell (0 chars) via direct fetch and WebFetch; no Wayback mirror and Fox Business search endpoint 404s. Headline could not be verified from any page; the item rests solely on an unverifiable headline."
 },
 {
 "url": "https://www.minnpost.com/national/washington/2026/09/minnesota-gop-lawmakers-grapple-with-data-centers-as-republican-voters-turn-against-the-projects/",
 "verdict": "confirmed",
 "corrected_quote": null,
 "corrected_date": "2026-09-03",
-"note": "MinnPost (2026-09-03) quotes the transparency line verbatim from Finstad's emailed statement and explicitly contrasts Emmer's 'President Trump is absolutely spot on' embrace of the 'backwards and poor' post with 'other Minnesota Republicans' including Finstad, who say communities should decide."
+"note": "Quote appears verbatim in MinnPost. Note the post is about data centers/Trump's post, not AI safety rules per se; the light-touch inference is reasonable but indirect."
 },
 {
-"url": "https://finstad.house.gov/2026/05/20/finstad-applauds-committee-passage-of-the-sba-artificial-intelligence-utilization-act-of-2026",
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
+"verdict": "confirmed",
+"corrected_quote": "We’re proud to support these conservative leaders who understand the importance of keeping the United States the global leader in AI innovation",
+"corrected_date": "2026-04-16",
+"note": "Breitbart names 'House Majority Whip Tom Emmer (R-MN)' on Leading the Future's 'First Round of House GOP Champions'; the quote is from co-strategist Zac Moffatt and appears verbatim (full sentence begins 'We're proud...'). Byline date 2026-04-16 (page metadata shows 2026-04-17)."
+},
+{
+"url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2eW5hTUNqUlhZNjc5TGRyaDgtN2g1RW40STdsV1d3dmJiYVJnSGZPMXVOMDFweDZkdUkySUlWUGFHaF9mb3JBR1J0QU5ONGV1Mjc1RVZoOWZTQmM?oc=5",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Same Google News link as item 2; empty page, no mirror. Headline and the 'AI infrastructure' framing cannot be verified."
+},
+{
+"url": "https://financialservices.house.gov/119th-congress-subcommittees/subcommittee-on-digital-assets-financial-technology-and-artificial-intelligence.htm",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-05-20",
-"note": "Press release (2026-05-20) quotes Finstad verbatim; H.R. 8881 requires the SBA to report annually on its AI use 'while also assessing the advantages and risks.' Nothing in the release addresses rules for AI developers, matching the claim."
+"corrected_date": null,
+"note": "Page lists 'Tom Emmer, Minnesota, Vice Chairman' under Chairman Bryan Steil for the 119th Congress. The page only confirms the role; the claim that his record there 'is focused on crypto and fintech innovation' is not supported by this page itself."
 },
 {
-"url": "https://www.kttc.com/2026/08/19/congressional-candidate-demands-data-center-moratorium-ahead-googles-pine-island-celebration/",
+"url": "https://www.minnpost.com/dc-memo/2024/03/to-ban-or-not-to-ban-minnesota-lawmakers-disagree-on-tiktok/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-08-19",
-"note": "Headline quote appears verbatim in the KTTC article, attributed to Finstad."
-}
-],
-"score_objections": [
-{
-"dimension": "data_centers",
-"objection": "Both sources show Finstad affirmatively supportive of data centers ('can play an important role in our economic future and national security'), with his only conditions being local approval and developer transparency; he does not endorse a moratorium or ratepayer protections. That reads as 'Build with conditions' rather than 'Mixed.' Weak objection: 0 is defensible given he declined to back Google's Pine Island project outright.",
-"suggested_score": 1,
-"suggested_label": "Build with conditions"
-}
-]
+"corrected_date": "2024-03-15",
+"note": "MinnPost (2024-03-15) quotes Emmer's X post verbatim: 'TikTok is a (Chinese Communist Party) spy app. Plain and simple,' followed by 'House Republicans just passed a nonpartisan bill protecting Americans' data...' Supports the data-protection/China framing. He did vote for and champion the divest-or-ban law, which is itself a regulatory action against a tech platform."
 },
 {
-"bioguide": "C001119",
-"checks": [
-{
-"url": "https://www.mprnews.org/story/2026/07/27/angie-craig-peggy-flanagan-senate-race-debate-hosted-by-mpr-news",
+"url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-07-27",
-"note": "Quote appears verbatim. Article states: 'Craig said federal regulations on the AI industry and data centers that power them are appropriate.'"
+"corrected_date": "2026-04-16",
+"note": "Moffatt quote appears verbatim. Caveat: this is the PAC's statement, not Emmer's; the page contains no statement by Emmer on preemption or state AI laws."
 },
 {
-"url": "https://www.mankatofreepress.com/news/local_news/where-the-candidates-stand-flanagan-vs-craig/article_ec52c4f4-346a-468d-a513-5631d38dd45f.html",
+"url": "https://www.minnpost.com/national/washington/2026/09/minnesota-gop-lawmakers-grapple-with-data-centers-as-republican-voters-turn-against-the-projects/",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-08-07",
-"note": "Quote appears verbatim (parenthetical '(them)' is the paper's insertion). Attributed to Craig, sourced to MPR News debate. Article published 2026-08-07; the remark itself is from the 2026-07-27 debate."
-},
-{
-"url": "https://www.inforum.com/news/minnesota/us-senate-candidates-exchange-political-jabs-during-farmfest-forum",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-08-05",
-"note": "Page: 'Craig called for transparency on data centers, as several projects across the state have used nondisclosure agreements with local government.' Forum was Aug. 5, 2026 at Farmfest."
-},
-{
-"url": "https://www.mprnews.org/story/2026/07/27/angie-craig-peggy-flanagan-senate-race-debate-hosted-by-mpr-news",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-27",
-"note": "Quote verbatim. Article says both expressed concern the technology could get out of control without adequate oversight and advocated guardrails and a 'kill switch'."
-},
-{
-"url": "https://www.mankatofreepress.com/news/local_news/where-the-candidates-stand-flanagan-vs-craig/article_ec52c4f4-346a-468d-a513-5631d38dd45f.html",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-08-07",
-"note": "Quote verbatim, attributed to Craig via MPR News debate (2026-07-27)."
-},
-{
-"url": "https://craig.house.gov/media/press-releases/rep-craig-introduces-bill-block-use-ai-medicare-coverage-decisions-prevent",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-11-07",
-"note": "Quote verbatim. Release describes the Seniors Deserve SMARTER Care Act prohibiting CMMI from implementing the WISeR model, which hires private companies to use AI for prior authorization in Traditional Medicare."
-},
-{
-"url": "https://craig.house.gov/media/press-releases/rep-craig-introduces-bill-require-social-media-companies-keep-students-their",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-09-08",
-"note": "Quote verbatim. Release confirms state AGs and FTC enforcement and the K-12 school-hours blocking requirement."
-},
-{
-"url": "https://craig.house.gov/media/press-releases/rep-craig-demands-answers-instacart-following-reporting-company-used-sensitive",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2025-12-12",
-"note": "Quote verbatim from her letter to Instacart's CEO. However, the page contains no mention of Instacart ending the practice, an FTC probe, or Consumer Reports; those parts of the claim are not supported by this URL."
-},
-{
-"url": "https://www.techtimes.com/articles/323924/20260811/minnesota-voters-decide-who-casts-cryptos-senate-vote-after-20m-industry-push-craig.htm",
-"verdict": "partially_supported",
-"corrected_quote": null,
-"corrected_date": "2026-08-11",
-"note": "Quote verbatim; article confirms ~$20M crypto/data-center outside money backing Craig, citing her CLARITY Act cosponsorship, and separately names the AI super PACs (Meta California, Leading the Future) as broader context. But the article was published on primary day and does not report that she lost to Flanagan; it only cites polling showing Flanagan ahead 46-32. The loss claim needs another source. Article also notes Craig 'called for regulating AI itself, at least rhetorically.'"
-},
-{
-"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-20",
-"note": "Angie Craig (D-MN) is listed among House cosponsors of the GUARDRAILS Act to repeal the Trump executive order establishing a moratorium on state AI laws."
-},
-{
-"url": "https://www.mprnews.org/story/2026/07/27/angie-craig-peggy-flanagan-senate-race-debate-hosted-by-mpr-news",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-07-27",
-"note": "Headline quote appears verbatim: 'I do think we have to consider a kill switch,' Craig said."
+"corrected_date": "2026-09-03",
+"note": "Verbatim in MinnPost, attributed to Emmer's X post."
 }
 ],
 "score_objections": [
 {
 "dimension": "preemption",
-"objection": "The only preemption evidence is her name in a list of ~30 cosponsors of the GUARDRAILS Act, with no statement of her own on states' role. Meanwhile her debate remarks call for federal regulation of AI and data centers. Opposing a moratorium-by-executive-order without any own words on state authority supports 'Leans states' rather than the strongest 'Let states regulate' position.",
-"suggested_score": -1,
-"suggested_label": "Leans states"
+"objection": "The only preemption evidence is a super PAC's own statement about what it hopes its endorsees will do; nothing in the sources shows Emmer himself endorsing a national AI standard or opposing state AI laws. An endorsement from Leading the Future is a weak proxy, not a position. Evidence is too thin to place him at +1.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "Both direct quotes concern data centers and China competition, not AI safety rules, and the two Fox Business items are unverifiable (empty Google News page). The +1 'Light touch' score is plausible from the innovation framing and the LTF endorsement, but it rests on inference rather than any statement about AI regulation; treat as low confidence. Not proposing a change in score.",
+"suggested_score": 1,
+"suggested_label": "Light touch"
 }
 ]
-},
-{
-"bioguide": "M001234",
-"checks": [
-{
-"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-10-28",
-"note": "Page (dated Oct 28, 2025) lists Kelly Morrison (MN-03) among co-signers of the Mullin-led letter; quote appears verbatim. The letter asks the recipients what approaches 'such as minimum usage commitments, separate rate classes, or upfront cost recovery' could protect consumers, framed as questions rather than a demand, so 'joined the request for' is a slight overstatement but the substance holds."
-},
-{
-"url": "https://legis1.com/news/energy-policy-small-business-clashes-over-costs",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-02",
-"note": "Legis1 article (published Sept 11, 2026) covers a Sept 2, 2026 House Small Business subcommittee hearing; names Rep. Kelly Morrison (D-MN) as ranking member criticizing tariffs, renewable restrictions and clean energy incentive changes; Democratic witness Trevor Higgins (CAP) called for data centers to pay grid connection/expansion costs. Hearing was on resource needs broadly, with data centers prominent."
-},
-{
-"url": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-introduces-bipartisan-legislation-crack-down-scammers",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-11",
-"note": "Quote appears verbatim. Page says bill requires FCC, in consultation with FTC and DOJ, to establish an interagency taskforce; endorsed by AARP and USTelecom. Note this is anti-scam/telecom regulation, not regulation of tech platforms."
-},
-{
-"url": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-working-stop-elon-musk-invading-minnesotans-privacy",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-02-07",
-"note": "Quote appears verbatim in Morrison's statement. Page confirms she joined the Taxpayer Data Protection Act targeting Musk/DOGE access to Treasury payment systems; item's own caveat (government data access, not tech companies) is accurate."
-},
-{
-"url": "https://clarke.house.gov/?p=102767",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-03",
-"note": "Redirects to Clarke press release dated Dec 3, 2025; Kelly Morrison is the last of 44 listed signers. Quote appears verbatim; letter also says preemption 'would create an unnecessary regulatory vacuum that lets Big Tech run rampant' and urges no AI moratorium or preemption in the final FY26 NDAA."
-},
-{
-"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-03-20",
-"note": "Press release dated March 20, 2026 lists Kelly Morrison (D-MN) among original cosponsors of the GUARDRAILS Act to block Trump's executive order preempting state AI laws."
-},
-{
-"url": "https://clarke.house.gov/?p=102767",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-03",
-"note": "Quote is verbatim from the group letter text quoted in the release; it is the letter's collective language (44 signers), not a personal Morrison statement. Consider attributing as 'letter she signed'."
-}
-],
-"score_objections": []
 }
 ]

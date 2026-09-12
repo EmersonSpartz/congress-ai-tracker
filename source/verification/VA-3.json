@@ -1,0 +1,374 @@
+[
+{
+"bioguide": "V000138",
+"checks": [
+{
+"url": "https://vindman.house.gov/2026/08/04/vindman-introduces-legislation-to-prevent-data-center-development-near-neighborhoods-schools-parks/",
+"verdict": "confirmed",
+"corrected_quote": "Virginia should welcome innovation, but not at any cost. We need to ensure data centers pay their fair share and are built in places that make sense — not next to neighborhoods, schools, or our public lands",
+"corrected_date": "2026-08-04",
+"note": "Page loaded directly (200). Quote appears verbatim as a prefix; the sentence continues 'not next to neighborhoods, schools, or our public lands.' Smart Data Center Policy Act directs a Commerce study on siting in industrial zones vs near residential areas. Claim supported."
+},
+{
+"url": "https://vindman.house.gov/2026/08/04/vindman-opposes-terrible-deal-to-hand-over-virginias-energy-grid-to-nextera-jack-up-virginians-utility-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-04",
+"note": "Letter to Virginia SCC opposing Dominion-NextEra merger; quote appears verbatim in the letter text. He explicitly frames the cost-shifting risk as data centers not paying their fair share, with consumers absorbing costs. Claim supported."
+},
+{
+"url": "https://vindman.house.gov/2026/02/09/icymi-vindman-launches-congressional-lowering-utility-bills-caucus/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-09",
+"note": "Quote appears verbatim; Vindman co-launched the Congressional Lowering Utility Bills Caucus with Rep. Josh Riley and 14 others. Supports the claim that utility affordability is a signature issue."
+},
+{
+"url": "https://www.eenews.net/articles/virginia-girds-for-data-center-focused-house-races/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-04",
+"note": "E&E News (Aug 4, 2026) names Vindman in the competitive 7th District at the forefront of the data center boom; describes the Home Energy Affordability Act (H.R. 8948, limiting utility rate-hike requests), the Utility Hikes Transparency Act (H.R. 8947, database of rate changes), and a third bill directing Commerce to study data center siting. Also notes he 'trod lightly' on the issue in 2024 and has since sharpened his stance. Claim supported."
+},
+{
+"url": "https://vindman.house.gov/2025/09/24/vindman-moylan-introduce-bipartisan-legislative-package-to-safeguard-u-s-tech-leadership-and-national-security/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-24",
+"note": "Quote appears verbatim. Package: AI Sovereignty Act (Commerce tracks offshore AI/IP), China Advanced Technology Monitoring Act (DoD annual reports on China's semiconductor capabilities and effectiveness of U.S. export controls), Semiconductor Sovereignty Act (Commerce supply-chain mapping). Claim supported; note these are monitoring/reporting bills, not new export restrictions."
+},
+{
+"url": "https://vindman.house.gov/2026/08/04/vindman-introduces-legislation-to-prevent-data-center-development-near-neighborhoods-schools-parks/",
+"verdict": "confirmed",
+"corrected_quote": "Virginia should welcome innovation, but not at any cost. We need to ensure data centers pay their fair share and are built in places that make sense — not next to neighborhoods, schools, or our public lands",
+"corrected_date": "2026-08-04",
+"note": "Same page as item 1; headline quote is verbatim but truncated mid-sentence. Fine as a notable quote."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the six sources address AI safety rules or guardrails. The only AI-related item (AI Sovereignty Act) is a competitiveness/national-security monitoring bill directing Commerce to track offshore AI, not a regulatory or risk-mitigation position. Evidence is too thin for -1 'Targeted guardrails'; no position should be recorded unless another source exists.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No source in this set concerns regulating Big Tech, platforms, or consumer tech. The data center items are about utilities and siting, not tech regulation. -1 'Targeted rules' is unsupported by the cited evidence.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "B001292",
+"checks": [
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9183",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-30",
+"note": "Press release dated July 30, 2026 with full letter text. Quote appears verbatim in Beyer's letter to the Fairfax County Planning Commission requesting denial. Letter also says 'I recognize the important[ce] of maintaining the infrastructure necessary to support our region's economy and technological...' supporting the balancing half of the claim."
+},
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-28",
+"note": "Release dated Oct 28, 2025. Letter authored by Rep. Kevin Mullin; 'Donald Beyer (VA-08)' is listed among co-signers. Quote appears verbatim in the letter text. Letter asks recipients how to keep grid costs from being passed to consumers."
+},
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9143",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-10",
+"note": "Release dated June 10, 2026. Quote is verbatim from Beyer's statement; bill framed around data, coordination, transparency on environmental impacts, not a ban."
+},
+{
+"url": "https://www.eenews.net/articles/virginia-girds-for-data-center-focused-house-races/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-04",
+"note": "E&E News article dated Aug 4, 2026. Quote verbatim, attributed to Beyer telling POLITICO. Article also says he previously thought data centers would have little midterm influence but now sees them as a 'growing concern among so many Americans.'"
+},
+{
+"url": "https://www.arlnow.com/2026/06/25/beyer-calls-trump-administrations-approach-to-ai-haphazard-after-advanced-models-pulled/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-25",
+"note": "ARLnow June 25, 2026. Quote verbatim. Article also has Beyer calling the last-minute export-control suspension 'not a sustainable blueprint for safe and responsible AI governance' and saying the answer lies with Congress, supporting the claim."
+},
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9132",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Release dated June 2, 2026. Quote verbatim. Next sentence: 'this order continues to allow companies to release powerful models to the public without undergoing meaningful evaluation or review,' matching the claim."
+},
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9013",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-26",
+"note": "Release dated March 26, 2026. Quote verbatim from Beyer's statement; bill is a transparency measure for foundation models, citing bias in housing, loans, medical decisions."
+},
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9164",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Release dated July 17, 2026. Quote verbatim from Beyer's statement; bill requires meaningful human oversight for lethal strikes by AI-enabled weapons."
+},
+{
+"url": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-09",
+"note": "The Hill, Sept 9, 2026. Quote verbatim, attributed to Beyer's social media post. Article also reports he said action is 'moving too slowly' and 'At a minimum we should be holding hearings, getting answers from the companies involved... and passing those bills that are ready ASAP.'"
+},
+{
+"url": "https://www.ffxnow.com/2026/09/11/candidates-for-virginias-8th-district-offer-mixed-views-on-tackling-ai-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "FFXnow Sept 11, 2026, covering a Sept 8 Arlington County Civic Federation forum. Quote verbatim; article says Beyer agreed AI has the potential to be a net plus, pointing to health care advances. Article headline also notes he expressed 'wariness' of data centers and AI."
+},
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9009",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-20",
+"note": "Release dated March 20, 2026. Quote verbatim from Beyer's statement on bill to repeal the White House preemption executive order."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned no text; downloaded the PDF directly and extracted text. 'Donald S. Beyer Jr.' appears in the signer list. Letter urges opposition to reinserting an AI moratorium in the NDAA and expresses concern about the reported preemption executive order. Date taken from the filename (11.26.25). The '81 signers' count was not independently tallied."
+},
+{
+"url": "https://clarke.house.gov/?p=102767",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Redirects to Clarke's press release dated Dec 3, 2025. Quote verbatim from the letter text. 'Donald Beyer Jr.' listed among the 44 signers."
+},
+{
+"url": "https://www.meritalk.com/articles/democrats-push-bill-to-restore-state-power-on-ai-laws/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-25",
+"note": "MeriTalk, March 25, 2026. Article quotes Beyer's office press release saying the White House framework lacks 'clear, enforceable guardrails to address the urgent risks posed by AI systems – in addition to attempting to limit Congressional regulatory action.' Matches the claim."
+},
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9009",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-20",
+"note": "Same March 20, 2026 release. Headline quote appears verbatim in Beyer's statement."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "G000568",
+"checks": [
+{
+"url": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=405787",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-07",
+"note": "Quote appears verbatim in the Aug 7, 2026 release. Page text contains no occurrence of 'data' at all, so the claim that data centers are not mentioned is accurate. Release focuses on ratepayers, utility jobs, and the Virginia City Hybrid Energy Center coal plant."
+},
+{
+"url": "https://energycommerce.house.gov/posts/chairman-griffith-delivers-opening-statement-at-subcommittee-on-health-hearing-on-the-meaningful-impacts-of-ai-applications-in-our-american-health-care-system",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-03",
+"note": "Verbatim. Preceding sentence: 'The Trump Administration has also been forward leaning on advancing AI in the health space and streamlining regulations to increase its application.' Page dated Sep 03, 2025."
+},
+{
+"url": "https://energycommerce.house.gov/posts/chairman-griffith-delivers-opening-statement-at-subcommittee-on-health-hearing-on-the-meaningful-impacts-of-ai-applications-in-our-american-health-care-system",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-03",
+"note": "Verbatim. Followed by 'We must ensure that these tools continue to empower – and not replace – the providers that serve our communities,' supporting the clinicians-in-the-loop claim."
+},
+{
+"url": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=405775",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-27",
+"note": "Verbatim. Surrounding text: 'unlocking AI's full potential in health care requires human supervision. We need responsible administration and active oversight of AI tools, while also placing an emphasis on safety.' Posted July 27, 2026."
+},
+{
+"url": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=405775",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-27",
+"note": "Verbatim. Next sentence: 'Where a patient request for treatment is denied coverage, a human must oversee that decision.' Both specific human-review demands are present."
+},
+{
+"url": "https://www.meritalk.com/articles/house-republicans-form-task-force-to-tackle-data-privacy-standards/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-18",
+"note": "Article (Feb 18, 2025) lists Griffith first among the working group members and says the intended law would include 'provisions that would prevent states from placing additional restrictions on top of the Federal policy.' Griffith himself is not quoted; the preemption language is the group's, not his."
+},
+{
+"url": "https://iapp.org/news/a/a-view-from-dc-us-house-republicans-organize-a-privacy-working-group",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-14",
+"note": "Page states Griffith is a working group member and 'has previously spoken about the importance of privacy legislation.'"
+},
+{
+"url": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=405775",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-27",
+"note": "Verbatim headline quote from the July 27, 2026 op-ed."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only data_centers source is a merger press release that never mentions data centers (confirmed by grep: no occurrence of 'data' in the page text). Ratepayer and coal-plant concerns in a utility merger do not establish a position on data center buildout. Evidence is too thin for any score.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "All sources on this dimension point the same direction: he calls a guardrail-free embrace of AI 'irresponsible policy,' demands human supervision, 'active oversight,' and names specific rules (human review of mental-health chatbot conversations and of AI coverage denials), and says Congress has a 'moral obligation' to ensure AI assists rather than replaces clinicians. Praise for the administration's AI adoption is pro-use, not anti-guardrail. This is a consistent targeted-guardrails posture, not Mixed.",
+"suggested_score": -1,
+"suggested_label": "Targeted guardrails"
+}
+]
+},
+{
+"bioguide": "S001230",
+"checks": [
+{
+"url": "https://subramanyam.house.gov/media/press-releases/rep-subramanyam-introduces-national-data-center-plan",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-08",
+"note": "Quote verbatim. Page lists four bills and says the package requires data centers to pay for their own energy, evaluate cumulative impacts on communities/environment/national security, and accurately measure water and energy usage."
+},
+{
+"url": "https://wtop.com/virginia/2026/09/a-trojan-horse-northern-virginia-congressman-pushes-national-data-center-legislation/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-09",
+"note": "Quote verbatim (split across two sentences with 'Subramanyam said' between). Event was outside Discovery Elementary School in Ashburn on Sept. 8, 2026; article says he wants industry to pay for its own power infrastructure via large-user electricity rates."
+},
+{
+"url": "https://subramanyam.house.gov/media/press-releases/congressman-suhas-subramanyam-calls-national-strategic-data-center-plan-and",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-01",
+"note": "Quote verbatim in remarks as delivered. Page uses 'cautionary tale', cites utility bills, power lines, water, security, and says his goal is for communities and data centers to coexist."
+},
+{
+"url": "https://subramanyam.house.gov/media/press-releases/congressman-subramanyam-writes-commissioners-scc-about-dominion-energys",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-04",
+"note": "Quote verbatim. Letter raises routes impacting residential and school properties (two Loudoun schools, Loudoun Valley Estates) and urges commissioners to 'carefully consider other options'; 'reroute' is a fair paraphrase though the page's wording is softer."
+},
+{
+"url": "https://subramanyam.house.gov/media/press-releases/rep-subramanyam-introduces-bill-protect-homes-and-property-near-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-08",
+"note": "Quote verbatim. Bill creates a security strategy for communities near data centers; national security framing present."
+},
+{
+"url": "https://rollcall.com/2026/08/12/data-centers-coming-is-congress-ready/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-12",
+"note": "Quote verbatim. He says this may be the first cycle where data centers are 'a huge issue on voters' minds' and that Democrats have a platform of 'being with the communities'."
+},
+{
+"url": "https://www.nextgov.com/artificial-intelligence/2026/08/dem-lawmaker-hopes-add-ai-containment-language-frontier-act/415602/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Quote verbatim (from a longer sentence). Article says he wants explicit containment language in the FRONTIER Act and is looking to codify containment 'outside of voluntary participation from large AI developers'."
+},
+{
+"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-04",
+"note": "Quote verbatim (including the 'leader in AI race' phrasing). He is one of four additional members named as releasing the Great American AI Act discussion draft with Trahan and Obernolte."
+},
+{
+"url": "https://subramanyam.house.gov/media/press-releases/congressman-subramanyam-calls-investigation-assess-and-prepare-impacts-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-18",
+"note": "Quote verbatim. Press release frames major AI companies' market share as 'too big to fail' style systemic concern and asks for investigation."
+},
+{
+"url": "https://subramanyam.house.gov/media/press-releases/rep-subramanyam-introduces-bipartisan-bill-support-small-ai-businesses",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-17",
+"note": "Quote verbatim. Small AI Innovators Empowerment Act with Obernolte; mentions challenges 'navigating regulations' for small businesses."
+},
+{
+"url": "https://www.cnbc.com/2026/04/15/ai-2026-elections-midterms-campaign-donations.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-15",
+"note": "Article names him among five House Democrats endorsed by Leading the Future and says a Tech Oversight Project-led coalition sent a letter pressuring them to denounce the group."
+},
+{
+"url": "https://newrepublic.com/post/215341/anthropic-ai-regulate-money-extinction",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Article lists him among Think Big endorsements ('but not financial support') and notes he is a co-sponsor of the FRONTIER Act."
+},
+{
+"url": "https://subramanyam.house.gov/media/press-releases/rep-subramanyam-statement-kids-act-vote",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-29",
+"note": "Quote verbatim. He says the bill leaves out requirements that tech companies make reasonable design efforts to minimize harm. Page does not itself label the bill as GOP; that characterization is external."
+},
+{
+"url": "https://newrepublic.com/post/215224/ai-democrats-regulate-lori-trahan",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-09-09",
+"note": "Quote verbatim and the article describes the narrowed preemption, but the page does not name Subramanyam anywhere; his cosponsorship comes from other sources."
+},
+{
+"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-04",
+"note": "Quote verbatim and page confirms he was one of six members releasing the draft. However the press release does not mention preemption, a national standard superseding states, or any multi-year moratorium; that detail is not supported by this page."
+},
+{
+"url": "https://wtop.com/virginia/2026/09/a-trojan-horse-northern-virginia-congressman-pushes-national-data-center-legislation/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-09",
+"note": "Verbatim, delivered at Sept. 8, 2026 Ashburn press conference."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "Sources show a bipartisan, innovation-balancing posture rather than 'strict rules now': he cosponsors the Obernolte/Trahan FRONTIER Act (a preemptive federal framework, endorsed by the industry-funded Leading the Future/Think Big network), introduced a small-AI-business bill with Obernolte citing regulatory burdens, and stresses US leadership in the 'AI race'. His containment push and AI-bubble letter are targeted asks, not a comprehensive strict regime. -1 fits better than -2.",
+"suggested_score": -1,
+"suggested_label": "Targeted guardrails"
+}
+]
+}
+]

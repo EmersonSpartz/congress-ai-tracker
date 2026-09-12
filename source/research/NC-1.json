@@ -1,0 +1,815 @@
+[
+{
+"bioguide": "T000476",
+"name": "Thom Tillis",
+"signature": "Retiring Judiciary IP subcommittee chair who defends data centers as a fixable GOP liability, backs NO FAKES and the Chip Security Act, and cast the lone Senate vote to keep the 2025 freeze on state AI laws.",
+"notable_quote": {
+"text": "There's this irrational response. 'Data centers are bad.' Are they really? If they're off-the-grid, they have power generation, they're silent, they capture their own water and use it for cooling, that's bad?",
+"url": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
+"date": "2026-09-10"
+},
+"groups": [
+"Chair, Senate Judiciary Subcommittee on Intellectual Property (119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Tillis wants North Carolina to build a lasting base of data centers and calls public anger at them irrational, though he frames the good projects as ones that bring their own power and capture their own water. He admits the issue has become a political problem for Republicans.",
+"evidence": [
+{
+"type": "interview",
+"title": "The Hill: Public anger over AI boom triggers GOP midterm worries",
+"url": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
+"date": "2026-09-10",
+"quote": "There's this irrational response. 'Data centers are bad.' Are they really? If they're off-the-grid, they have power generation, they're silent, they capture their own water and use it for cooling, that's bad?",
+"what_it_shows": "He defends data centers and calls the backlash irrational, but ties his defense to projects that are off the grid with their own power and water."
+},
+{
+"type": "interview",
+"title": "The Hill: Tillis on wanting a sustainable data center base in North Carolina",
+"url": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
+"date": "2026-09-10",
+"quote": "I hope we just get reasonable so we can have a good, sustainable commercial base of data centers in and around North Carolina.",
+"what_it_shows": "He wants more data centers built in and around his state and says Republicans need to educate the public."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Tillis backs specific AI guardrails: a federal right to stop AI copies of a person's voice or face, tracking of AI security incidents, and a role for Congress in limiting military AI that could enable mass surveillance. He also cosponsored a bill letting financial firms test AI with fewer rules, so his record is targeted rather than sweeping.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: NO FAKES Act of 2025 (S.1367)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1367",
+"date": "2025-04-09",
+"quote": null,
+"what_it_shows": "Gives everyone the legal right to stop AI copies of their voice or face from being used without permission."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: NO FAKES Act of 2026 (S.4591)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4591",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "Renewed his support for a federal digital-replica right against unauthorized AI fakes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Secure A.I. Act of 2024 (S.4230, with Sen. Warner)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/4230",
+"date": "2024-05-01",
+"quote": null,
+"what_it_shows": "Would set up a system for tracking and reporting security problems and attacks on AI systems."
+},
+{
+"type": "interview",
+"title": "Axios: Congress rips Pentagon over Anthropic fight",
+"url": "https://www.axios.com/2026/02/26/anthropic-pentagon-ultamatim-congress-deadline",
+"date": "2026-02-26",
+"quote": "It's fair to say that Congress needs to weigh in if they have a tool that could actually result in mass surveillance,",
+"what_it_shows": "He wants Congress, not just the Pentagon and an AI company, to set limits on military AI that could enable mass surveillance, and called the public fight sophomoric."
+},
+{
+"type": "hearing",
+"title": "IPWatchdog: Copyright Office oversight hearing chaired by Tillis",
+"url": "https://ipwatchdog.com/2026/05/13/senators-defend-copyright-office-independence-ai-executive-overreach-dominate-oversight-hearing/",
+"date": "2026-05-13",
+"quote": "While there's no question that the U.S. is in an AI race with China, the U.S. should not be in a race to the bottom.",
+"what_it_shows": "He rejects sacrificing creators' copyright protections in the name of winning the AI race."
+},
+{
+"type": "letter",
+"title": "Press release: Tillis, Hickenlooper urge action on AI cyber threats",
+"url": "https://www.tillis.senate.gov/2023/9/tillis-hickenlooper-urge-action-to-bolster-cyber-defenses-against-artificial-intelligence-threats",
+"date": "2023-09-11",
+"quote": "urging the White House to provide updates on efforts to reduce artificial intelligence's (AI) potential threat to the nation's cyber infrastructure",
+"what_it_shows": "Early bipartisan letter treating AI as a cybersecurity threat that the government must actively manage."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Unleashing AI Innovation in Financial Services Act (S.2528)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2528",
+"date": "2025-07-29",
+"quote": null,
+"what_it_shows": "Cuts the other way: would let banks and financial firms try out AI tools in special zones with fewer regulations."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Tillis repeatedly cosponsors targeted rules on tech platforms: kids' online safety, child abuse material, counterfeit goods and China-linked apps like TikTok. He has not pushed break-ups or a full repeal of Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (S.1748)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-07-31",
+"quote": null,
+"what_it_shows": "Requires apps and platforms to build in safety tools and protect kids under 17; he also cosponsored the 2024 version."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: STOP CSAM Act of 2025 (S.1829)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2026-06-01",
+"quote": null,
+"what_it_shows": "Makes platforms do more to remove child sexual abuse material and lets victims sue them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: EARN IT Act of 2023 (S.1207)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1207",
+"date": "2023-04-19",
+"quote": null,
+"what_it_shows": "Would strip platforms' Section 230 shield when they let child abuse material spread."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: RESTRICT Act (S.686)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-21",
+"quote": null,
+"what_it_shows": "Lets the government review and block apps and tech from rival countries like China; the bill behind the TikTok debate."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: SHOP SAFE Act of 2023 (S.2934)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2934",
+"date": "2023-09-26",
+"quote": null,
+"what_it_shows": "Would make online marketplaces liable for counterfeit goods unless they vet sellers carefully."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "Tillis cast the only vote to keep the 2025 moratorium on state AI laws, but Time reported that a source said the 4 a.m. vote may have been a mistake, and he has not explained it publicly. No other statement on preempting state AI laws was found.",
+"evidence": [
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the 10-year state AI law moratorium (Tillis voted Nay)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He was the only senator, out of 100, who voted to keep the 10-year freeze on state AI laws in the budget bill."
+},
+{
+"type": "other",
+"title": "Time: Senators reject 10-year ban on state-level AI regulation",
+"url": "https://time.com/7299044/senators-reject-10-year-ban-on-state-level-ai-regulation-in-blow-to-big-tech/",
+"date": "2025-07-01",
+"quote": "Republican Senator Thom Tillis was the only lawmaker who voted to keep the moratorium in the bill",
+"what_it_shows": "Time added that the vote happened after 4 a.m. and that a person with knowledge of the matter said it may have been a mistake, so the vote is weak evidence of his view."
+}
+]
+},
+"china_chips": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Tillis cosponsors the Chip Security Act to track advanced chips so they cannot be smuggled to China, but he also signed a letter to scrap the Biden AI export rule and said he had no real problem letting Nvidia sell some chips to China if the U.S. knows where they end up.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Chip Security Act (S.1705)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2026-05-11",
+"quote": null,
+"what_it_shows": "Advanced chips sold overseas would need a built-in way to prove where they are so they cannot be diverted to China."
+},
+{
+"type": "interview",
+"title": "CNBC: Trump's blessing of Nvidia AI chip sales to China gets a chilly reception from GOP",
+"url": "https://www.cnbc.com/2025/12/09/trump-nvidia-china-ai-chips-gop-congress.html",
+"date": "2025-12-09",
+"quote": "I don't have a real problem with providing them some [chips],",
+"what_it_shows": "Unlike many GOP hawks, he accepted letting Nvidia sell some AI chips to China, adding that the U.S. has to know where the chips are and how they are used."
+},
+{
+"type": "letter",
+"title": "PYMNTS/CPI: Republican senators urge reversal of Biden's AI export controls (Ricketts-led letter to Lutnick)",
+"url": "https://www.pymnts.com/cpi-posts/republican-lawmakers-urge-reversal-of-bidens-ai-export-controls/",
+"date": "2025-04-14",
+"quote": "Signatories of the letter include Senators Pete Ricketts, Thom Tillis, Markwayne Mullin, Ted Budd, Roger Wicker, Eric Schmitt, and Tommy Tuberville.",
+"what_it_shows": "He asked Commerce to withdraw the Biden AI Diffusion Rule that limited AI chip exports worldwide and replace it with a lighter alternative."
+},
+{
+"type": "hearing",
+"title": "IPWatchdog: Senate Judiciary hearing on Chinese IP theft, chaired by Tillis",
+"url": "https://ipwatchdog.com/2026/04/22/senate-judiciary-hearing-on-chinese-ip-theft/",
+"date": "2026-04-21",
+"quote": "The United States must overcome its historic and ideological views that China is unable to innovate,",
+"what_it_shows": "He warned that China is moving from imitator to innovator, including in AI, framing it as a competitive threat."
+}
+]
+}
+},
+"search_notes": "Searches: Tillis AI; data centers; preemption/moratorium; Nvidia/export controls; chatbot/deepfake/KOSA; Big Tech/230; moratorium vote explanation; Anthropic/frontier; Chip Security Act; superintelligence; KOSA/Secure AI Act; executive order. tillis.senate.gov returns 403 and the Wayback Machine was down or rate-limited for much of the session, so his 2024 KOSA release, the Warner-Tillis Secure AI Act release, and the Ricketts letter page could not be opened directly; the Ricketts letter signers were verified via PYMNTS/CPI. The Hill, Axios, IPWatchdog (two hearings), CNBC, Time and one 2023 Tillis release were opened and quotes grep-verified. No statement found explaining his Nay vote on roll call 363, nor any reaction to the Dec 2025 executive order or Mar 2026 White House framework. No AI super PAC activity found (he is retiring)."
+},
+{
+"bioguide": "B001305",
+"name": "Ted Budd",
+"signature": "Commerce subcommittee chair who casts AI as a race with China to be won through the free market, abundant energy and fewer regulatory roadblocks, while backing kids' social media limits and anti-robocall rules.",
+"notable_quote": {
+"text": "I firmly believe that our country's free market, private sector led way of doing things will be key to remaining ahead of Chinese state backed AI developers to accelerate AI innovation.",
+"url": "https://www.techpolicy.press/white-house-office-of-science-and-technology-policy-director-michael-kratsios-testifies-in-senate/",
+"date": "2025-09-10"
+},
+"groups": [
+"Chair, Senate Commerce Subcommittee on Science, Manufacturing, and Competitiveness (119th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "medium",
+"summary": "Budd wants the energy supply and permitting reform needed to build AI infrastructure fast, framing it as a race with China the U.S. cannot lose for lack of power. His one data center bill funds research on liquid cooling to ease grid strain and, in his words, lower costs for consumers. He has not backed moratoria or ratepayer-protection mandates.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: Budd opening statement at Commerce subcommittee hearing on the AI Action Plan",
+"url": "https://www.techpolicy.press/white-house-office-of-science-and-technology-policy-director-michael-kratsios-testifies-in-senate/",
+"date": "2025-09-10",
+"quote": "Congress needs to work on comprehensive permitting reform to ensure that we don't lose this race because of a lack of energy production.",
+"what_it_shows": "He wants faster permitting so energy shortages do not slow AI infrastructure."
+},
+{
+"type": "statement",
+"title": "Press release (Sen. Schiff's office): Liquid Cooling for AI Act introduced with Budd as cosponsor",
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-joined-senators-mccormick-and-coons-to-introduce-bill-to-boost-u-s-ai-leadership-with-energy-efficient-liquid-cooling-technology/",
+"date": "2025-11-20",
+"quote": "The United States must win the AI Race against China, but it cannot do so without access to abundant and affordable energy.",
+"what_it_shows": "He ties data center growth to winning the AI race and says more efficient cooling can ease grid strain and lower costs for consumers."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Liquid Cooling for AI Act of 2025 (S.3269)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3269",
+"date": "2025-11-20",
+"quote": null,
+"what_it_shows": "Has the Energy Department study and promote liquid cooling so AI data centers use less power and water."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "high",
+"summary": "Budd treats AI mainly as an economic and national security race that America wins through the free market, regulatory certainty and fewer roadblocks, and he praised Sen. Cruz's regulatory sandbox bill. He does back narrow, study-oriented measures on AI threats to public health and biosecurity and on keeping child abuse images out of training data.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: Budd opening statement, Commerce subcommittee hearing on the AI Action Plan",
+"url": "https://www.techpolicy.press/white-house-office-of-science-and-technology-policy-director-michael-kratsios-testifies-in-senate/",
+"date": "2025-09-10",
+"quote": "I look forward to hearing from you on how Congress can partner with the administration and industry to remove roadblocks and provide regulatory certainty to let innovators innovate.",
+"what_it_shows": "His framing of Congress's job is removing obstacles for AI developers, not adding mandates."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: Budd endorses Cruz's SANDBOX Act",
+"url": "https://www.techpolicy.press/white-house-office-of-science-and-technology-policy-director-michael-kratsios-testifies-in-senate/",
+"date": "2025-09-10",
+"quote": "Chairman Cruz's AI regulatory sandbox Bill will be very helpful here.",
+"what_it_shows": "He publicly backed a bill letting AI companies get waivers from federal rules to test products."
+},
+{
+"type": "hearing",
+"title": "Commerce Committee: Budd chairs hearing on deploying AI for workforce, healthcare and industry",
+"url": "https://www.commerce.senate.gov/2026/3/senator-budd-chairs-subcommittee-hearing-to-evaluate-innovative-deployment-of-ai-to-support-workforce-healthcare-and-industry",
+"date": "2026-03-03",
+"quote": "Artificial Intelligence will undoubtedly usher in significant improvements in quality of life for the American people.",
+"what_it_shows": "Strongly optimistic view of AI; he also said lawmakers should listen to concerns and address potential harms in a bipartisan way, and that winning the AI race against China is paramount."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats (S.501)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/501",
+"date": "2025-02-10",
+"quote": null,
+"what_it_shows": "Tells health officials to write a plan for handling AI-related threats to public health; a study bill, not a mandate on AI companies."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Artificial Intelligence and Biosecurity Risk Assessment Act (S.2399)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2399",
+"date": "2023-07-19",
+"quote": null,
+"what_it_shows": "Has health officials study whether AI could help someone build a bioweapon; shows he takes catastrophic misuse seriously as a research question."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: PROACTIV Artificial Intelligence Data Act of 2025 (S.2381)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2381",
+"date": "2025-12-01",
+"quote": null,
+"what_it_shows": "Would require AI companies to screen training data so models cannot learn from or make child abuse images."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Budd backs targeted rules: keeping young kids off social media, criminalizing nonconsensual intimate images, fighting foreign robocalls and banning China-linked connected-car tech. He also voted to cancel a CFPB rule overseeing big payment apps, so he is not a broad Big Tech regulator.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Off Social Media Act (S.278)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/278",
+"date": "2025-01-28",
+"quote": null,
+"what_it_shows": "Bans kids under 13 from social media and stops algorithmic feeds aimed at teens; he cosponsored the 2024 version too."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (S.146)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Now law; criminalizes posting real or AI-faked intimate images and forces fast takedowns."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Foreign Robocall Elimination Act (S.2666)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2666",
+"date": "2025-08-01",
+"quote": null,
+"what_it_shows": "Creates a government task force to fight scam robocalls from overseas."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (S.4429)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-09",
+"quote": null,
+"what_it_shows": "Bans selling connected cars and car software made by companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.J.Res.28 disapproving the CFPB rule on large digital payment apps",
+"url": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/28",
+"date": "2025-02-27",
+"quote": null,
+"what_it_shows": "Cuts the other way: cancels a rule that let the government supervise big payment apps like Venmo and Apple Pay."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "Budd has not taken a clear public position on blocking state AI laws. He voted with 98 colleagues to strip the 2025 moratorium after the deal collapsed, but he praised Cruz's SANDBOX Act and calls for regulatory certainty, which leans toward a single national approach.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: Budd endorses Cruz's SANDBOX Act at AI Action Plan hearing",
+"url": "https://www.techpolicy.press/white-house-office-of-science-and-technology-policy-director-michael-kratsios-testifies-in-senate/",
+"date": "2025-09-10",
+"quote": "Chairman Cruz's AI regulatory sandbox Bill will be very helpful here.",
+"what_it_shows": "He endorsed the SANDBOX Act, which this tracker treats as favoring a federal-first approach; he has not said directly whether states should be barred from regulating AI."
+},
+{
+"type": "vote",
+"title": "Senate roll call 363: Blackburn amendment striking the state AI law moratorium (Budd voted Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined the 99-1 vote to remove the moratorium after the compromise fell apart; nearly every senator did, so this alone does not show opposition to preemption."
+}
+]
+},
+"china_chips": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Budd is hawkish on Chinese AI itself, seeking a probe of DeepSeek and cosponsoring a ban on federal use of adversary AI, but he signed the letter to scrap the Biden AI chip export rule and wants America to export its AI tech stack widely. No statement found on Nvidia H20 or H200 sales to China.",
+"evidence": [
+{
+"type": "letter",
+"title": "PYMNTS/CPI: Republican senators urge reversal of Biden's AI export controls (Ricketts-led letter, Budd a signer)",
+"url": "https://www.pymnts.com/cpi-posts/republican-lawmakers-urge-reversal-of-bidens-ai-export-controls/",
+"date": "2025-04-14",
+"quote": "Signatories of the letter include Senators Pete Ricketts, Thom Tillis, Markwayne Mullin, Ted Budd, Roger Wicker, Eric Schmitt, and Tommy Tuberville.",
+"what_it_shows": "He asked Commerce to withdraw the Biden AI Diffusion Rule limiting AI chip exports worldwide and write a lighter alternative."
+},
+{
+"type": "letter",
+"title": "PYMNTS/CPI: US senators urge Commerce Department to probe risks from Chinese open-source AI (Budd a signer)",
+"url": "https://www.pymnts.com/cpi-posts/us-senators-urge-commerce-department-to-probe-risks-from-chinese-open-source-ai/",
+"date": "2025-08-05",
+"quote": "are urging the department to evaluate whether AI applications powered by Chinese-developed models may be transmitting personal or corporate data from the United States back to servers in China.",
+"what_it_shows": "He joined seven GOP senators asking Commerce to investigate DeepSeek and other Chinese models for data flows to China's military."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: Budd on exporting the American AI stack",
+"url": "https://www.techpolicy.press/white-house-office-of-science-and-technology-policy-director-michael-kratsios-testifies-in-senate/",
+"date": "2025-09-10",
+"quote": "To lead an AI internationally, the US must lean in to exporting our AI tech stack across the world to allies, partners in important third countries,",
+"what_it_shows": "He favors wide export of American AI hardware and software rather than tight controls on allies and third countries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protection Against Foreign Adversarial Artificial Intelligence Act of 2025 (S.1638)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1638",
+"date": "2025-07-31",
+"quote": null,
+"what_it_shows": "Stops the U.S. government from using AI made by companies in China and other rival countries."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Semiconductor Superiority Act (S.4750)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4750",
+"date": "2026-06-11",
+"quote": null,
+"what_it_shows": "Uses tax breaks to get more chips made in America; industrial policy rather than export control."
+}
+]
+}
+},
+"search_notes": "Searches: Budd AI; data centers; preemption/patchwork/national standard; Nvidia/export controls/AI Diffusion; chatbot/deepfake/KOSA/GUARD; Big Tech/230/TikTok; AI Action Plan hearing; WaPo Live Powering the AI Age; CAISI letter; DeepSeek letter; Cruz moratorium; Youth AI Privacy/CHATBOT Act; Quiver mirrors. budd.senate.gov, commerce.senate.gov and ricketts.senate.gov all return 403 and the Wayback Machine was down or rate-limited, so the June 30 2026 CAISI letter release, the Feb 2026 WaPo Live remarks, the Sept 11 2025 hearing release, the 2024 Kids Off Social Media release and the Aug 2025 DeepSeek release could not be read directly. Positions were verified instead through the Tech Policy Press hearing transcript (grep-verified), Sen. Schiff's release, an archived Commerce Committee page, and PYMNTS/CPI coverage of both letters. The July 2025 Ricketts letter on a stable regulatory environment could not be opened, so its signers are unverified. No AI super PAC activity found."
+},
+{
+"bioguide": "D000230",
+"name": "Donald G. Davis",
+"signature": "Swing-district Democrat who calls AI a defining opportunity, voted for the SPEED Act permitting bill and declined to back a data center moratorium, while cosponsoring deepfake and kids' online safety bills.",
+"notable_quote": {
+"text": "should not prevent us from embracing the future, they should help us shape it responsibly. Artificial intelligence is one of the defining opportunities of our time.",
+"url": "https://spectrumlocalnews.com/nc/charlotte/news/2026/07/23/data-center-moratorium-cooper-whatley",
+"date": "2026-07-23"
+},
+"groups": [
+"Ranking Member, House Agriculture Subcommittee on Commodity Markets, Digital Assets, and Rural Development"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Davis calls AI a defining opportunity and did not endorse a data center moratorium when asked, saying communities must be part of decisions. He was one of 11 House Democrats to vote for the SPEED Act permitting bill. No statement found on electric bills or specific North Carolina projects.",
+"evidence": [
+{
+"type": "interview",
+"title": "Spectrum News: Where N.C. candidates stand on a federal data center moratorium",
+"url": "https://spectrumlocalnews.com/nc/charlotte/news/2026/07/23/data-center-moratorium-cooper-whatley",
+"date": "2026-07-23",
+"quote": "should not prevent us from embracing the future, they should help us shape it responsibly. Artificial intelligence is one of the defining opportunities of our time.",
+"what_it_shows": "Asked about a moratorium, he did not back one; he said communities must be part of decision-making and that questions about data centers should shape AI responsibly rather than stop it."
+},
+{
+"type": "vote",
+"title": "House roll call 356: passage of H.R. 4776, the SPEED Act (Davis voted Yea)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "One of only 11 Democrats to vote for the Republican permitting-reform bill that speeds environmental reviews for energy and infrastructure projects."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Davis supports targeted guardrails on AI harms, cosponsoring bills against sexual deepfakes, AI election deception and AI-generated child abuse. At the same time he is an AI booster, calling it a defining opportunity and co-leading a bill to speed AI adoption on farms.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: DEFIANCE Act of 2025 (H.R.3562)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "Lets people sue anyone who makes or shares AI-made sexual images of them without consent."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Securing Elections From AI Deception Act (H.R.8858)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-07-10",
+"quote": null,
+"what_it_shows": "Bans using AI fakes to trick voters or lie about how to vote in federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: No AI FRAUD Act (H.R.6943)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6943",
+"date": "2024-01-31",
+"quote": null,
+"what_it_shows": "Lets people sue over AI fakes of their voice or likeness."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Child Exploitation and Artificial Intelligence Expert Commission Act of 2024 (H.R.8005)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8005",
+"date": "2024-04-15",
+"quote": null,
+"what_it_shows": "Creates an expert commission on how AI is used to exploit children."
+},
+{
+"type": "statement",
+"title": "Press release: Davis, Nunn introduce FARM AI Act",
+"url": "https://dondavis.house.gov/media/press-releases/davis-nunn-introduce-bipartisan-bill-put-artificial-intelligence-work-north",
+"date": "2026-07-16",
+"quote": "Feeding America is national security, and the future of agriculture will depend on our ability to innovate,",
+"what_it_shows": "He is promoting faster AI adoption in farming through USDA research and training, an optimistic view of the technology."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: FARM AI Act of 2026 (H.R.9686)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9686",
+"date": "2026-07-14",
+"quote": null,
+"what_it_shows": "Funds research on using AI to help farmers grow food."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Davis has a steady record of cosponsoring targeted tech rules: kids' online safety, tougher reporting of child abuse material, a crackdown on foreign robocalls, a ban on China-linked connected-car tech, and limits on selling servicemembers' data. Nothing found on break-ups or Section 230 repeal.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (H.R.7891)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-04-16",
+"quote": null,
+"what_it_shows": "House version requiring apps to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Foreign Robocall Elimination Act (H.R.6152)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-02-03",
+"quote": null,
+"what_it_shows": "Cracks down on scam robocalls coming from other countries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (H.R.8730)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-06-30",
+"quote": null,
+"what_it_shows": "Bans connected cars and car software from companies tied to China and other adversaries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Child Online Safety Modernization Act of 2023 (H.R.5182)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2023-08-29",
+"quote": null,
+"what_it_shows": "Makes online companies report child abuse material more fully and keep evidence longer."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Military Servicemembers' Data Act of 2023 (H.R.6573)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2023-12-04",
+"quote": null,
+"what_it_shows": "Stops data brokers from selling U.S. military members' personal information to hostile countries."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI-law moratorium that many House Democrats signed, and no statement on the Dec 2025 executive order or the March 2026 White House framework was located.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium and preemption executive order (Davis is not a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": null,
+"what_it_shows": "The signature pages list Danny K. Davis but not Don Davis; he stayed off the main House Democratic letter against preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans hawkish on Chinese tech based only on cosponsorships: removing DeepSeek from government devices and banning China-linked connected-car tech. No statement found on chip export controls or Nvidia sales to China.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: No DeepSeek on Government Devices Act (H.R.1121)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-07",
+"quote": null,
+"what_it_shows": "Makes the government remove the Chinese AI app DeepSeek from all federal computers and phones."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (H.R.8730)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-06-30",
+"quote": null,
+"what_it_shows": "Bans internet-connected cars and parts made by companies tied to China and other adversaries."
+}
+]
+}
+},
+"search_notes": "Searches: Don Davis AI; data centers; chatbot/deepfake/KOSA/TikTok/Big Tech; DeepSeek/China chips/preemption; SPEED Act/electricity/Duke Energy; Congressman Don Davis AI/technology; FARM AI; SPEED Act Democrats; DeepSeek/TikTok votes; NDAA AI provisions; AI Caucus. Opened Spectrum News (quote grep-verified), govtrack roll call 356 (Yea), clerk.house.gov roll 278 on the FY27 NDAA (Yea), his FARM AI press release, and his press release index (pages 1, 3 and 4), which has no release on the SPEED Act vote, DeepSeek, or data centers. Extracted the Matsui letter PDF locally and read the Clarke letter: he signed neither. Google News queries on chatbots, Big Tech, China chips and preemption returned nothing relevant. No AI super PAC support or attack found for him (AI PAC money in NC went to Foushee's and Buckhout's primaries)."
+},
+{
+"bioguide": "R000305",
+"name": "Deborah K. Ross",
+"signature": "Research Triangle Democrat who writes AI security and incident-reporting bills, leads letters against preempting state AI laws, and presses Duke Energy on rates as ranking member of the Science Committee's Energy subcommittee.",
+"notable_quote": {
+"text": "AI has the profound potential to improve the lives of Americans, but we must put in place the necessary guardrails to manage the risks that come with this rapidly evolving field.",
+"url": "https://ross.house.gov/2026/4/ross-bill-included-in-bipartisan-proposal-to-advance-american-leadership-in-ai",
+"date": "2026-04-28"
+},
+"groups": [
+"Member, Congressional Artificial Intelligence Caucus (119th Congress)",
+"Ranking Member, House Science, Space, and Technology Subcommittee on Energy",
+"Member, House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Ross leans toward protecting ratepayers: she was an original cosponsor of the Energy Bills Relief Act, voted against the SPEED Act permitting bill, and has attacked Duke Energy's proposed rate increase. She has not been found taking a position on specific data center projects or a moratorium.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: Energy Bills Relief Act (H.R.7977)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Joined at introduction a House Democratic bill aimed at holding down household electric bills as demand surges; cosponsorship confirmed on GovTrack."
+},
+{
+"type": "vote",
+"title": "House roll call 356: passage of H.R. 4776, the SPEED Act (Ross voted Nay)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Opposed the Republican permitting-reform bill that would speed environmental reviews for energy and infrastructure projects."
+},
+{
+"type": "letter",
+"title": "Press release: Ross, Foushee, Adams demand answers from Duke Energy on offshore wind lease deal",
+"url": "https://ross.house.gov/2026/7/congresswomen-ross-foushee-adams-demand-answers-from-duke-energy-on-trump-admin-deal-to-cancel-offshore-wind-lease",
+"date": "2026-07-21",
+"quote": "As Duke seeks to raise energy prices by 11.6%, this deal appears to send a message that Duke Energy prioritizes the President's favor over providing clean, affordable energy to North Carolinians.",
+"what_it_shows": "She is fighting Duke Energy's rate hike and pushing for affordable clean power from the utility that serves North Carolina's data center boom, though this letter is about offshore wind rather than data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Ross favors targeted, security-focused guardrails: her bills set up NIST systems for reporting AI flaws and incidents, and she backs deepfake liability and creators' rights. She frames the risks as serious, comparing AI to nuclear power, but her proposals are voluntary reporting programs rather than licensing or a pause.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: AI Flaw Reporting and Security Enhancement Act (H.R.9333)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9333",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Creates a voluntary NIST program for AI developers to report vulnerabilities so flaws are fixed before they are exploited; reported by the Science Committee in June 2026."
+},
+{
+"type": "statement",
+"title": "Press release: Ross, Hurd, Beyer introduce bipartisan bill to strengthen AI security and vulnerability reporting",
+"url": "https://ross.house.gov/2026/6/ross-hurd-beyer-introduce-bipartisan-bill-to-strengthen-ai-security-and-vulnerability-reporting",
+"date": "2026-06-23",
+"quote": "we must put appropriate safeguards in place to address the risks that come with this rapidly evolving technology.",
+"what_it_shows": "Her own framing: safeguards for AI risks paired with responsible development."
+},
+{
+"type": "statement",
+"title": "Press release: Ross bill included in Lieu-Obernolte American Leadership in AI Act package",
+"url": "https://ross.house.gov/2026/4/ross-bill-included-in-bipartisan-proposal-to-advance-american-leadership-in-ai",
+"date": "2026-04-28",
+"quote": "AI has the profound potential to improve the lives of Americans, but we must put in place the necessary guardrails to manage the risks that come with this rapidly evolving field.",
+"what_it_shows": "She calls for guardrails while supporting the bipartisan AI package built around her incident-reporting bill."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: AI Incident Reporting and Security Enhancement Act (H.R.9720)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9720",
+"date": "2024-09-20",
+"quote": null,
+"what_it_shows": "Has NIST set up a way to track and report when AI systems cause problems or are hacked."
+},
+{
+"type": "statement",
+"title": "Press release: Ross, Beyer introduce Secure Artificial Intelligence Act",
+"url": "https://ross.house.gov/2024/9/ross-beyer-introduce-legislation-to-regulate-artificial-intelligence-security-mitigate-risk-incidents",
+"date": "2024-09-23",
+"quote": "it is essential that we implement smart policies to address security and safety risks while continuing to foster innovation and competitiveness.",
+"what_it_shows": "House companion to the Warner-Tillis Secure AI Act; she pairs safety rules with innovation."
+},
+{
+"type": "interview",
+"title": "NC Newsline (via ross.house.gov): NC tech experts, members of Congress meet in Durham to discuss AI",
+"url": "https://ross.house.gov/2024/2/nc-tech-experts-members-of-congress-meet-in-durham-to-discuss-ai",
+"date": "2024-02-20",
+"quote": "And all I was thinking about was AI, the whole time.",
+"what_it_shows": "After watching Oppenheimer she compared AI to nuclear power, with great positive uses and destructive applications, and discussed how to hold companies responsible for AI use."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: DEFIANCE Act of 2025 (H.R.3562)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "Lets victims sue over AI-made sexual images shared without consent."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Protect Working Musicians Act of 2026 (H.R.8994)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8994",
+"date": "2026-05-21",
+"quote": null,
+"what_it_shows": "Lets small musicians bargain collectively with, or refuse, AI companies that want to train on their songs."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Ross backs targeted rules on tech companies: protecting reproductive health data, tougher penalties for illegal robocalls and robotexts, cutting abusers' remote access to connected cars, and pressing platforms on misinformation. She has not called for breaking up Big Tech or repealing Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Reproductive Data Privacy and Protection Act (H.R.3218)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-05-06",
+"quote": null,
+"what_it_shows": "Stops companies from collecting or selling reproductive health data without permission; she is a lead sponsor of this recurring bill."
+},
+{
+"type": "statement",
+"title": "Press release: Ross, Cortez Masto, Kustoff introduce DO NOT Call Act on illegal robocalls and robotexts",
+"url": "https://ross.house.gov/2025/12/ross-cortez-masto-kustoff-introduce-legislation-to-crack-down-on-illegal-robocalls-and-robotexts",
+"date": "2025-12-05",
+"quote": "Congress has a responsibility to step up with stronger protections and clear consequences for those who profit from these harmful tactics.",
+"what_it_shows": "She wants criminal penalties and more enforcement against robocallers, including scammers using AI voice cloning."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Safe Vehicle Access for Survivors Act (H.R.2110)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2110",
+"date": "2025-03-14",
+"quote": null,
+"what_it_shows": "Car companies must cut off an abuser's remote access to a car's apps and location data when a survivor asks."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: My Body, My Data Act of 2023 (H.R.3420)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Earlier version of the reproductive data privacy bill."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Ross is a leading opponent of preempting state AI laws. In December 2025 she led women lawmakers in a letter against a moratorium in the defense bill and signed both the 81-member Matsui letter and the 44-member Clarke letter; she has said states have a real role on deepfakes and election security.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Ross leads letter from women lawmakers opposing proposed AI moratorium",
+"url": "https://ross.house.gov/2025/12/ross-leads-letter-from-women-lawmakers-opposing-proposed-ai-moratorium-that-would-jeopardize-protections-for-women-and-girls",
+"date": "2025-12-03",
+"quote": "A federal moratorium would strip women and girls of existing protections and prevent states from enacting new safeguards.",
+"what_it_shows": "She organized the letter urging Speaker Johnson and Leader Jeffries to keep any broad moratorium on state and local AI laws out of the NDAA or any other bill."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium and the preemption executive order (Ross a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws",
+"what_it_shows": "Deborah K. Ross appears on the signature pages; the letter also opposed using an executive order or broadband funds to override state AI laws."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Ross a signer)",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation.",
+"what_it_shows": "She is listed among the 44 signers telling defense-bill negotiators to keep preemption out."
+},
+{
+"type": "interview",
+"title": "NC Newsline (via ross.house.gov): Ross on the role of states in AI policy",
+"url": "https://ross.house.gov/2024/2/nc-tech-experts-members-of-congress-meet-in-durham-to-discuss-ai",
+"date": "2024-02-20",
+"quote": "And in those areas, states really do have a role to play.",
+"what_it_shows": "She said much AI work must happen federally because AI crosses state lines, but that states have a real role on deepfakes and election security."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Searched for statements on chip export controls, Nvidia sales to China, DeepSeek and the Chip Security Act and found none; her semiconductor work is about CHIPS Act manufacturing in North Carolina, not export policy.",
+"evidence": []
+}
+},
+"search_notes": "Searches: Deborah Ross AI; data centers/electricity; chatbot/deepfake/KOSA/230/Big Tech; AI moratorium/preemption/executive order; chips/export controls/Nvidia/DeepSeek; Energy Bills Relief/Duke Energy/ratepayers; AI Caucus/Judiciary AI subcommittee; chatbot letter to Google/OpenAI; Casar energy bills; Wright hearing; AI flaw reporting bill; September 2026 electricity video. Opened and grep-verified her press releases (Dec 2025 moratorium letter, Apr and Jun 2026 AI bills, Sept 2024 Secure AI Act, Dec 2025 robocalls, Jul 2026 Duke Energy and NDAA statements), two 2024 in-the-news items, GovTrack cosponsors for H.R. 7977, roll call 356, the Clarke letter page, and the Matsui letter PDF (extracted locally). The June 8 2026 NC Newsline story on NC members' letter to Google and OpenAI about chatbots and mass shootings returned 403 and did not appear on her or Foushee's press index, so it is unverified; her Sept 2026 Facebook video on electricity demand could not be opened. Her clash with Energy Secretary Wright (June 2026) was about clean energy grant cancellations, not data centers. No AI super PAC activity found."
+}
+]

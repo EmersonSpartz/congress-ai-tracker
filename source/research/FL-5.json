@@ -1,0 +1,650 @@
+[
+{
+"bioguide": "L000597",
+"name": "Laurel M. Lee",
+"groups": [
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress), member"
+],
+"signature": "Kids-online-safety and deepfake bills (DEFIANCE, NO FAKES, COPPA 2.0), sponsor of the Stealth Bot Prohibition Act, House AI Task Force alum who backs data center growth with ratepayer protections.",
+"notable_quote": {
+"text": "So as policymakers, we have two responsibilities. One is to protect the public from real risks, but second, to ensure that American innovation continues to lead the world. Those goals are not mutually exclusive.",
+"date": "2025-05-21",
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/"
+},
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "medium",
+"summary": "Lee wants the grid built out to meet AI and data center demand and voted for the SPEED Act permitting bill, but she cosponsors the Ratepayer Protection Act so large data centers pay for their own power instead of households. Build, with conditions.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9340, Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-08-17",
+"quote": null,
+"what_it_shows": "She signed onto the bipartisan bill that makes 100 MW+ data centers pay for the power and grid upgrades they need so household bills do not rise."
+},
+{
+"type": "hearing",
+"title": "Press release: Rep. Laurel Lee questions witnesses on energy demand and grid reliability at Energy Subcommittee hearing",
+"url": "https://laurellee.house.gov/media/press-releases/rep-laurel-lee-questions-witnesses-addresses-energy-demand-and-grid",
+"date": "2025-03-05",
+"quote": "With rapid population growth, increased manufacturing, and advances in technologies including AI and data centers, our electricity demand and production will only continue to rise.",
+"what_it_shows": "She treats AI and data center demand as growth the grid must be ready to serve, not something to block."
+},
+{
+"type": "hearing",
+"title": "Energy and Commerce excerpts: Energy Subcommittee hearing on electricity transmission for reliable and affordable power",
+"url": "https://energycommerce.house.gov/posts/energy-subcommittee-holds-hearing-on-electricity-transmission-for-reliable-and-affordable-power",
+"date": "2026-05-13",
+"quote": "The system wasn't built by federal mandate. It was built state by state utility, by utility",
+"what_it_shows": "At a hearing on building transmission for rising power demand she praised the state-led, utility-led way the grid was built, signaling deference to states and utilities on grid growth."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 4776, SPEED Act (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted for a broad permitting reform bill that speeds federal environmental reviews for energy and infrastructure projects; it is general permitting reform, not data-center specific."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Lee backs specific AI rules: lawsuits over sexual deepfakes, a right to control AI copies of your voice and face, disclosure of training data, and her own bill forcing AI web crawlers to identify themselves. She pairs this with pro-innovation framing and interest in voluntary NIST standards, not sweeping AI mandates.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Hearing remarks: House Judiciary subcommittee hearing 'AI Regulation and the Future of US Leadership' (Tech Policy Press transcript)",
+"url": "https://www.techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership/",
+"date": "2025-05-21",
+"quote": "So as policymakers, we have two responsibilities. One is to protect the public from real risks, but second, to ensure that American innovation continues to lead the world. Those goals are not mutually exclusive.",
+"what_it_shows": "She frames AI policy as balancing real risks against innovation; in the same hearing she asked whether model card disclosures should be mandated and whether NIST should write voluntary AI standards."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Laurel Lee introduces bipartisan Stealth Bot Prohibition Act",
+"url": "https://laurellee.house.gov/media/press-releases/rep-laurel-lee-introduces-bipartisan-stealth-bot-prohibition-act-increase",
+"date": "2026-07-23",
+"quote": "As artificial intelligence becomes more sophisticated, we must ensure innovation is accompanied by transparency and accountability.",
+"what_it_shows": "Her own bill would require AI web crawlers to identify themselves and let the FTC fine deceptive bots, a targeted transparency rule on AI companies."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3562, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2025-05-21",
+"quote": null,
+"what_it_shows": "Supports letting victims sue over AI-made sexual deepfakes; she co-led the House push with Rep. Ocasio-Cortez."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8915, NO FAKES Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8915",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "Supports a legal right to stop unauthorized AI copies of a person's voice and face; she also cosponsored the 2025 version (H.R. 2794)."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7209, TRAIN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7209",
+"date": "2026-03-24",
+"quote": null,
+"what_it_shows": "Supports letting artists and writers force AI companies to reveal whether their work was used in training."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Laurel Lee appointed to the House Task Force on Artificial Intelligence",
+"url": "https://laurellee.house.gov/media/press-releases/rep-laurel-lee-appointed-house-task-force-artificial-intelligence",
+"date": "2024-02-26",
+"quote": "Because of quick advancements in AI, it is important for Congress to remain diligent and plan for complexities to keep a competitive edge",
+"what_it_shows": "Her early framing stresses competitiveness and diligence rather than alarm about AI danger."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 6998, Renewed Hope Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6998",
+"date": "2026-01-09",
+"quote": null,
+"what_it_shows": "She also promotes beneficial uses of AI, here letting investigators use face-matching technology to identify children in abuse images."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Lee is a kids-online-safety legislator: she co-led the House COPPA 2.0 update, sponsored the Promoting a Safe Internet for Minors Act and the REPORT Act, and backs the KIDS Act package. Her approach is targeted rules for platforms, not break-ups or repealing Section 230.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release (Walberg office): Walberg and Lee lead effort to protect children's online privacy (COPPA 2.0)",
+"url": "https://walberg.house.gov/media/press-releases/walberg-and-lee-lead-effort-protect-childrens-online-privacy",
+"date": "2025-11-25",
+"quote": "COPPA 2.0 provides necessary updates to existing law, sets clear limits on data collection, and ensures platforms act to protect the privacy and data of young users.",
+"what_it_shows": "She co-leads the House bill limiting how platforms collect data on children and teens."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6291, Children and Teens' Online Privacy Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6291",
+"date": "2025-11-25",
+"quote": null,
+"what_it_shows": "Formal cosponsorship of the House COPPA 2.0 bill she co-leads."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Laurel Lee introduces bipartisan legislation to strengthen online safety for children",
+"url": "https://laurellee.house.gov/media/press-releases/rep-laurel-lee-introduces-bipartisan-legislation-strengthen-online-safety",
+"date": "2025-12-01",
+"quote": "The digital landscape is constantly evolving, and our approach to online safety must evolve with it.",
+"what_it_shows": "Her Promoting a Safe Internet for Minors Act directs the FTC to run a national online-safety education campaign, citing deepfakes and AI-generated abuse material."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 6289, Promoting a Safe Internet for Minors Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6289",
+"date": "2025-11-25",
+"quote": null,
+"what_it_shows": "Her own kids-online-safety bill, introduced with Democrat Darren Soto."
+},
+{
+"type": "sponsor",
+"title": "Sponsor (118th): H.R. 5082, REPORT Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5082",
+"date": "2023-07-28",
+"quote": null,
+"what_it_shows": "Her earlier bill made platforms report more kinds of child exploitation to the national tipline; it passed the House in 2024."
+},
+{
+"type": "statement",
+"title": "Roll Call: House panel advances kids online safety bills",
+"url": "https://rollcall.com/2025/12/11/house-panel-advances-kids-online-safety-bills/",
+"date": "2025-12-11",
+"quote": null,
+"what_it_shows": "Roll Call reports she cosponsored the House children's privacy bill that advanced 14-10 at the Energy and Commerce subcommittee markup over Democratic objections to its preemption clause."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Lee leans toward one national standard. She defended the House COPPA 2.0's override of state kids' privacy laws, saying a child's protection should not depend on zip code, and has asked whether a single federal body should set AI model standards. We found no statement from her on the 2025 state AI law moratorium or the Dec 2025 executive order.",
+"evidence": [
+{
+"type": "statement",
+"title": "Roll Call: Lee defends preemption in House COPPA 2.0 at Energy and Commerce subcommittee markup",
+"url": "https://rollcall.com/2025/12/11/house-panel-advances-kids-online-safety-bills/",
+"date": "2025-12-11",
+"quote": "A child's level of protection should not depend on their zip code",
+"what_it_shows": "She argued that preempting state children's privacy laws would standardize protections and fix the patchwork of state rules, over Democratic objections."
+},
+{
+"type": "hearing",
+"title": "Floridian Press: Laurel Lee discusses the federalization of AI regulations (House Judiciary hearing)",
+"url": "https://floridianpress.com/2025/09/laurel-lee-discusses-the-federalization-of-ai-regulations/",
+"date": "2025-09-19",
+"quote": "Should we designate a single federal entity to try and develop those standards?",
+"what_it_shows": "She asked witnesses about state AI laws as 'laboratories of democracy' and about giving NIST or CAISI authority over frontier model standards; the reporter characterized this as discussing the need for a federal standard, but she did not state a firm position."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls as of Sept 2026. We searched for Chip Security Act, H20/H200, Nvidia and export control statements; her only semiconductor remarks concern protecting intellectual property and Florida's chip workforce.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Energy and Commerce excerpts: CMT Subcommittee hearing on the semiconductor ecosystem and supply chain",
+"url": "https://energycommerce.house.gov/posts/cmt-subcommittee-holds-hearing-on-the-semiconductor-ecosystem-and-supply-chain",
+"date": "2026-04-15",
+"quote": "When it comes to semiconductors, U.S. leadership depends not just on investment, but on protecting our intellectual property that drives innovation and ensuring that we have the workforce to sustain it.",
+"what_it_shows": "Her semiconductor focus is IP protection and workforce, with no statement on selling or restricting AI chips to China."
+}
+]
+}
+},
+"search_notes": "About 16 Google News queries (AI, data center, ratepayers/Ratepayer Protection Act, chatbot/deepfake/Big Tech, Section 230/antitrust, chips/China/export controls, preemption/moratorium, KOSA/KIDS Act, copyright/NO FAKES, Safe Cloud Storage, frontier AI/OpenAI/Anthropic) plus site listings of laurellee.house.gov, walberg.house.gov and energycommerce.house.gov. Opened her press releases, the May 2025 Judiciary hearing transcript, Roll Call, Floridian Press and E&C hearing excerpts. Could not open: a Fox Business segment dated Sept 4, 2026 headlined 'We can ensure responsible data center buildouts, Rep Laurel Lee says' (Google News link would not decode and no Fox URL was found; not used as evidence), Florida Politics pages (403), and a Sept 10, 2026 Bloomberg Government item saying she is seeking the top GOP spot on a House Judiciary panel. The Wayback Machine was unreachable during the session. Landscape leads about a SCREEN Act sponsorship, the BIAS Act and the Casar letter on AI CEOs belong to Sen. Mike Lee and Rep. Summer Lee, not her, and were discarded. Her reported X post backing the Ratepayer Protection Act was not opened."
+},
+{
+"bioguide": "B001260",
+"name": "Vern Buchanan",
+"groups": [
+"Vice Chairman, House Committee on Ways and Means (119th Congress)"
+],
+"signature": "Retiring Ways and Means vice chair who sponsored the AI Fraud Accountability Act against AI impersonation scams and bills to have the IRS use AI to catch tax fraud.",
+"notable_quote": {
+"text": "The AI Fraud Accountability Act makes clear that if you use AI to defraud Americans, you will be prosecuted.",
+"date": "2026-03-04",
+"url": "https://buchanan.house.gov/2026/03/04/buchanan-soto-introduce-bipartisan-bicameral-legislation-to-combat-ai-enabled-impersonation-scams"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers or electric bills as of Sept 2026. We searched news and his office site for data center, ratepayer and electricity terms; his only related action is a vote for the SPEED Act permitting bill, which is not data-center specific.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 4776, SPEED Act (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for a broad permitting reform bill speeding federal environmental reviews for energy and infrastructure projects; general permitting reform, not a data center position."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Buchanan goes after AI misuse with specific laws: his AI Fraud Accountability Act would criminalize AI voice clones and deepfakes used to steal money, and he cosponsors the TAKE IT DOWN and DEFIANCE Acts. At the same time he pushes the IRS and Medicare to adopt AI and criticized health regulators for being too cautious about it. No statements found on frontier AI safety.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 7786, AI Fraud Accountability Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7786",
+"date": "2026-03-04",
+"quote": null,
+"what_it_shows": "His bill creates a federal crime and FTC enforcement for using realistic AI impersonations to defraud people."
+},
+{
+"type": "statement",
+"title": "Press release: Buchanan, Soto introduce bipartisan, bicameral legislation to combat AI-enabled impersonation scams",
+"url": "https://buchanan.house.gov/2026/03/04/buchanan-soto-introduce-bipartisan-bicameral-legislation-to-combat-ai-enabled-impersonation-scams",
+"date": "2026-03-04",
+"quote": "We are seeing a disturbing rise in AI-generated voice clones and deepfake videos that convincingly impersonate loved ones, business executives, government officials and trusted institutions to steal money.",
+"what_it_shows": "He sees AI-enabled fraud as a growing threat that Congress must answer by updating federal law."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633, TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-01-22",
+"quote": null,
+"what_it_shows": "Backed the now-law requirement that platforms quickly remove real or AI-faked intimate images."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3562, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "Supports letting victims sue over AI-made sexual deepfakes."
+},
+{
+"type": "statement",
+"title": "Press release: Buchanan bill to encourage use of AI tools to detect tax fraud advanced by House Ways and Means Committee (H.R. 9501)",
+"url": "https://buchanan.house.gov/2026/07/01/buchanan-bill-to-encourage-use-of-ai-tools-to-detect-tax-fraud-advanced-by-house-ways-and-means-committee",
+"date": "2026-07-01",
+"quote": "we should be empowering the IRS to use modern, emerging technologies to ensure that all tax fraud is detected and that bad actors are held accountable",
+"what_it_shows": "He is enthusiastic about government use of AI; the committee approved his AI Tax Integrity Act 40-0."
+},
+{
+"type": "letter",
+"title": "Press release: Buchanan leads letter to MedPAC on artificial intelligence in health care",
+"url": "https://buchanan.house.gov/2024/4/buchanan-leads-letter-to-medpac-on-artificial-intelligence-in-health-care",
+"date": "2024-04-18",
+"quote": "I am deeply concerned about MedPAC's negative and impractical guidance and recent work on digital health (AI) tools",
+"what_it_shows": "He pushed back on Medicare advisers he saw as too restrictive toward AI tools, a pro-adoption stance."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Buchanan backs targeted rules: the Kids Online Safety Act, the TikTok divestiture law, and takedowns of intimate images. In 2021 he urged regulators to rein in Big Tech over censorship and monopoly power, but he has not pushed break-ups or a Section 230 repeal in this Congress.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Buchanan urges Biden to crack down on Big Tech (letter to the President)",
+"url": "https://buchanan.house.gov/2021/1/buchanan-urges-biden-crack-down-big-tech",
+"date": "2021-01-24",
+"quote": "The next permanent heads of the Federal Trade Commission and Federal Communications Commission must be committed to reining in Big Tech and its assault against free speech and free enterprise",
+"what_it_shows": "He called for antitrust enforcement and narrowing Section 230 protections for platforms he said censored conservatives."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 7891, Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-06-11",
+"quote": null,
+"what_it_shows": "Backed the House version of KOSA requiring platforms to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 7521, Protecting Americans from Foreign Adversary Controlled Applications Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "Supported forcing TikTok's sale or ban; he also cosponsored the ANTI-SOCIAL CCP Act and ACES Act targeting Chinese-controlled apps."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633, TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-01-22",
+"quote": null,
+"what_it_shows": "Supports a platform takedown duty for non-consensual intimate images."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption of state AI laws as of Sept 2026. We searched for statements on the 2025 moratorium, state AI laws, the Dec 2025 executive order and the March 2026 White House framework and found none.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls as of Sept 2026. He sponsors chip manufacturing tax credits framed as keeping America ahead of China, but we found no statement on Nvidia sales, the Chip Security Act or BIS rules.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 8959, Semiconductor Superiority Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8959",
+"date": "2026-05-21",
+"quote": null,
+"what_it_shows": "Extends the chip manufacturing tax credit to space-based semiconductor production; industrial policy, not export policy."
+},
+{
+"type": "statement",
+"title": "Press release: Buchanan leads bill to ensure American semiconductor superiority in space",
+"url": "https://buchanan.house.gov/2026/05/21/buchanan-leads-bill-to-ensure-american-semiconductor-superiority-in-space",
+"date": "2026-05-21",
+"quote": "It will strengthen Florida's position as a national leader in the space economy and keep America ahead of China in the race for technological and space dominance.",
+"what_it_shows": "He frames chip policy as a race with China but through domestic incentives rather than export controls."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 802, STAR Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2025-01-28",
+"quote": null,
+"what_it_shows": "Supports extending and expanding the tax break for building chip factories in America."
+}
+]
+}
+},
+"search_notes": "About 9 Google News queries (AI, data centers, Big Tech/Section 230/chatbot/deepfake, chips/Nvidia/export controls/semiconductor, AI scams, electricity/ratepayers/energy, preemption/moratorium, TikTok/KOSA/TAKE IT DOWN, AI Fraud Accountability Act) plus a buchanan.house.gov site listing. Opened his 2026 AI fraud, AI tax and semiconductor releases, his 2021 Big Tech letter release, the 2024 MedPAC letter release, and Biometric Update coverage. He announced on Jan 27, 2026 that he will not seek reelection. No data center, preemption or export-control statements located; Florida Politics delegation columns were blocked (403) and the Wayback Machine was unreachable."
+},
+{
+"bioguide": "S001214",
+"name": "W. Gregory Steube",
+"groups": [],
+"signature": "Big Tech censorship critic (CASE-IT Act, Stop the Censorship Act cosponsor) who called to 'Block the Flock' AI license plate cameras without a warrant; China hawk on the Intelligence Committee.",
+"notable_quote": {
+"text": "If law enforcement wants to use Flock technology to catch criminals, GET A WARRANT.",
+"date": "2026-08-22",
+"url": "https://www.yahoo.com/news/politics/articles/rep-greg-steube-calls-flock-193107510.html"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers or electric bills as of Sept 2026, even though Sarasota County in his district moved to block large AI data centers in July 2026. His only related action is a vote for the SPEED Act permitting bill, which is not data-center specific.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 4776, SPEED Act (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for a broad permitting reform bill speeding federal environmental reviews; general permitting reform, not a data center position."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Steube's AI concerns are about surveillance and abuse. He wants police to get a warrant before using Flock's AI-powered license plate cameras and backs letting deepfake victims sue. No statements found on frontier AI safety, chatbots or AI regulation more broadly.",
+"evidence": [
+{
+"type": "social_post",
+"title": "Yahoo/Benzinga: Rep. Greg Steube calls for Flock camera ban, says police should 'get a warrant' (X post of Aug 22, 2026)",
+"url": "https://www.yahoo.com/news/politics/articles/rep-greg-steube-calls-flock-193107510.html",
+"date": "2026-08-22",
+"quote": "We've already seen this surveillance technology allegedly misused and abused right here in my district. BLOCK THE FLOCK!",
+"what_it_shows": "He called for a ban on Flock's AI license plate readers absent a warrant, citing the Fourth Amendment and a Sarasota officer who allegedly used them to track his ex-wife."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3562, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-02-04",
+"quote": null,
+"what_it_shows": "Supports letting victims sue over AI-made sexual deepfakes."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Steube is hostile to Big Tech, mainly over what he calls censorship of conservatives: he wrote the CASE-IT Act to condition Section 230 immunity for dominant platforms and cosponsors the Stop the Censorship Act. He also backs age verification for adult sites, a crackdown on foreign robocalls and a ban on Chinese-linked connected cars. Targeted fixes rather than break-ups or full repeal.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 908, Stop the Censorship Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/908",
+"date": "2025-10-17",
+"quote": null,
+"what_it_shows": "Would strip platforms' legal shield when they remove posts they merely find objectionable."
+},
+{
+"type": "statement",
+"title": "Press release: Steube introduces bill limiting Section 230 immunity for Big Tech companies (CASE-IT Act)",
+"url": "https://steube.house.gov/press-releases/steube-introduces-bill-limiting-section-230-immunity-for-big-tech-companies",
+"date": "2020-10-30",
+"quote": "Unelected Big Tech CEOs should not be able to abuse the protections granted to them by Section 230 to block speech and withhold information from the public, just because it doesn't suit their political beliefs",
+"what_it_shows": "His signature Big Tech bill makes Section 230 immunity conditional for market-dominant platforms that do not follow a First Amendment standard."
+},
+{
+"type": "other",
+"title": "Steube official website issue page: Big Tech",
+"url": "https://steube.house.gov/issues/big-tech",
+"date": null,
+"quote": "These companies worked hand-in-hand with federal officials to censor lawful speech on a variety of topics, including COVID-19 and the 2020 election cycle. This is absolutely unacceptable",
+"what_it_shows": "His standing position centers on stopping government-platform censorship collusion."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1623, SCREEN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
+"date": "2025-09-03",
+"quote": null,
+"what_it_shows": "Supports requiring adult websites to verify users' ages."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Steube: No More Robocalls (Foreign Robocall Elimination Act)",
+"url": "https://steube.house.gov/press-releases/rep-steube-no-more-robocalls",
+"date": "2025-11-19",
+"quote": "These sophisticated attacks pose a major risk to the personal safety and financial security of the American people. Congress cannot ignore this threat any longer.",
+"what_it_shows": "He co-introduced the House bill creating a task force to eliminate foreign scam robocalls."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "Supports banning connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption of state AI laws as of Sept 2026. We searched for statements on the 2025 moratorium, state AI laws, the Dec 2025 executive order and the March 2026 framework and found none.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls as of Sept 2026. He is a China hawk on technology imports (Chinese battery systems, connected cars) and cosponsors chip manufacturing tax credits, but we found no statement on Nvidia sales, the Chip Security Act or BIS rules.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Steube introduces CHARGE Act (bans Chinese energy storage systems with remote monitoring)",
+"url": "https://steube.house.gov/press-releases/rep-steube-introduces-charge-act",
+"date": "2026-02-20",
+"quote": "the United States cannot afford the risk of China spying on our power grid and the energy consumption of Americans with remote monitoring capabilities",
+"what_it_shows": "He targets Chinese technology imports on national security grounds; this is about imports, not chip exports."
+},
+{
+"type": "statement",
+"title": "Press release: Steube moderates House Intel panel on Chinese counterintelligence threats to Florida",
+"url": "https://steube.house.gov/press-releases/steube-moderates-house-intel-panel-on-chinese-counterintelligence-threats-to-florida",
+"date": "2026-05-07",
+"quote": "Florida's critical infrastructure and strategic importance make it a high value target, placing our state on the front lines.",
+"what_it_shows": "General China-threat framing from an Intelligence Committee member, without an AI chip position."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8959, Semiconductor Superiority Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8959",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "Supports tax breaks for designing and building chips in America; industrial policy, not export policy."
+}
+]
+}
+},
+"search_notes": "About 11 Google News queries (AI, data centers including Sarasota County's July 2026 move to block AI data centers, Section 230/Big Tech/censorship, chips/Nvidia/export controls/China technology, deepfake/chatbot/kids/SCREEN Act, preemption/state AI/moratorium, Flock/surveillance, TikTok/Connected Vehicle/robocalls) plus two steube.house.gov site listings. Opened the Yahoo/Benzinga Flock article, his Big Tech issue page, and his CASE-IT, robocall, CHARGE Act, WATCH Act and Intel panel releases. A Jan 21, 2026 Fox video titled 'Congressman Steube warns against repeating US mistakes by cozying up to China' could not be opened. No data center, preemption or chip-export statements located; Florida Politics pages were blocked (403) and the Wayback Machine was unreachable."
+},
+{
+"bioguide": "F000472",
+"name": "Scott Franklin",
+"groups": [
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress), member",
+"Great American AI Act / FRONTIER Act bipartisan sponsor group (Obernolte-Trahan), original cosponsor",
+"Chairman, House Science, Space, and Technology Subcommittee on Environment (119th Congress)"
+],
+"signature": "Original cosponsor of the FRONTIER Act and Great American AI Act, the House's main bipartisan frontier-AI oversight framework; House AI Task Force alum and appropriator who pushed funding for the federal AI standards center.",
+"notable_quote": {
+"text": "The FRONTIER Act recognizes that not every AI developer should be regulated the same way. It takes a targeted approach by focusing only on the handful of companies developing the most powerful frontier AI models",
+"date": "2026-07-23",
+"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers or electric bills as of Sept 2026, even though Polk County in his district saw a data center fight in mid-2026. His only related action is a vote for the SPEED Act permitting bill, which is not data-center specific.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 4776, SPEED Act (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for a broad permitting reform bill speeding federal environmental reviews; general permitting reform, not a data center position."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Franklin is an original cosponsor of the FRONTIER Act, which would make the largest frontier AI developers publish model cards, use risk-management frameworks, undergo independent audits and report serious incidents. He frames it as targeted rules that spare startups, and he sought more funding for the federal Center for AI Standards and Innovation.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release (Obernolte office): Obernolte, Trahan introduce bipartisan FRONTIER Act to strengthen oversight of advanced AI",
+"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+"date": "2026-07-23",
+"quote": "The FRONTIER Act recognizes that not every AI developer should be regulated the same way. It takes a targeted approach by focusing only on the handful of companies developing the most powerful frontier AI models",
+"what_it_shows": "He introduced the bill with Obernolte and Trahan and defends binding transparency and independent assessments for frontier developers while exempting smaller innovators."
+},
+{
+"type": "statement",
+"title": "Press release (Trahan office): Trahan, Obernolte unveil federal AI framework discussion draft (Great American AI Act)",
+"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
+"date": "2026-06-04",
+"quote": "Congress has a responsibility to establish clear rules of the road that encourage innovation while ensuring this technology is developed responsibly.",
+"what_it_shows": "He co-released the 269-page draft and said it is a step toward greater transparency and accountability for advanced AI systems, noting he secured extra FY27 funding for the Center for AI Standards and Innovation."
+},
+{
+"type": "statement",
+"title": "Press release: Franklin tapped to serve on bipartisan AI Task Force",
+"url": "https://franklin.house.gov/2024/2/franklin-tapped-to-serve-on-bipartisan-ai-task-force",
+"date": "2024-03-05",
+"quote": "the urgent need to construct guardrails against emerging threats while also allowing technological innovation to flourish",
+"what_it_shows": "From the start he has paired guardrails against AI threats with keeping innovation going, and warned adversaries want to dominate AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9363, AI Security and Innovation Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9363",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Supports federal work on making AI systems secure while keeping innovation moving."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2385, CREATE AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2025-04-02",
+"quote": null,
+"what_it_shows": "Backs a national shared computing resource so researchers can study AI without depending on big companies; he also cosponsored the 2023 version."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 2770, TAME Extreme Weather and Wildfires Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2770",
+"date": "2025-04-09",
+"quote": null,
+"what_it_shows": "He also promotes government use of AI, here for predicting extreme weather and wildfires."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on Big Tech regulation as of Sept 2026. We searched for kids online safety, KOSA, TikTok, Section 230, privacy and chatbot statements and found nothing beyond his AI bills.",
+"evidence": []
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Franklin leans toward one national standard. He co-released the Great American AI Act draft, which would preempt state laws on frontier AI development for three years while leaving state rules on AI use in place, and co-introduced the FRONTIER Act, which its sponsors say creates a uniform national standard to prevent a patchwork of state rules. We found no statement from him on the 2025 moratorium fight or the Dec 2025 executive order.",
+"evidence": [
+{
+"type": "statement",
+"title": "Roll Call: Bipartisan AI draft proposes three-year preemption of state laws",
+"url": "https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/",
+"date": "2026-06-04",
+"quote": "it includes a three-year preemption of state laws related to AI development that has previously generated significant pushback for Trahan",
+"what_it_shows": "Reporter's description of the Great American AI Act draft that Franklin joined Obernolte and Trahan in releasing; he is one of four members named as co-releasing it."
+},
+{
+"type": "statement",
+"title": "Press release (Obernolte office): FRONTIER Act introduction, sponsors' description of the bill",
+"url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+"date": "2026-07-23",
+"quote": "It also creates a uniform national standard for transparency, auditing, and reporting of catastrophic risk to prevent a patchwork of state regulations.",
+"what_it_shows": "The sponsors' own release (Franklin is a named introducing cosponsor) presents the bill as one national rule replacing state-by-state frontier AI rules; the quote is the release's language, not Franklin's."
+},
+{
+"type": "other",
+"title": "IAPP analysis: A view from DC: A bipartisan blockbuster bill on AI",
+"url": "https://iapp.org/news/a/a-view-from-dc-a-bipartisan-blockbuster-bill-on-ai",
+"date": "2026-06-05",
+"quote": "the preemptive effect is limited to state laws that target the development of AI models",
+"what_it_shows": "Independent analysis noting the draft's preemption is narrow, leaves state laws on AI use alone, and sunsets after three years."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls as of Sept 2026. We searched for Nvidia, export controls, Chip Security Act and China chip statements and found only general language about adversaries wanting to dominate AI.",
+"evidence": []
+}
+},
+"search_notes": "About 10 Google News queries (AI, data centers including Polk County's 2026 data center fight, FRONTIER/Great American AI Act/preemption/state AI, chips/Nvidia/export controls/China, Big Tech/chatbot/deepfake/Section 230, online safety/TikTok/privacy/KOSA, electricity/Ratepayer/SPEED Act/permitting) plus franklin.house.gov and obernolte.house.gov site listings. Opened the Trahan and Obernolte releases, Roll Call, IAPP, MLex, Lowell Sun and his 2024 task force release. franklin.house.gov has few archived 2025-26 releases, so his own statements mostly come via cosponsor releases. The landscape lead that he is a Congressional AI Caucus member could not be confirmed (caucus membership pages unreachable) and is not listed. His H.R. 8407 (Risk Assessment Tools and Evaluation Act, Apr 2026) could not be checked because congress.gov blocked the fetch; it appears to concern scientific risk assessment rather than AI. A July 9, 2026 Lakeland Ledger story on Polk County data center opposition and Politico's July 23, 2026 FRONTIER Act story could not be opened; the Wayback Machine was unreachable."
+}
+]

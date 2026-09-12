@@ -1,0 +1,182 @@
+[
+{
+"bioguide": "H001072",
+"checks": [
+{
+"url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9429",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-16",
+"note": "Op-ed by Hill dated Jan 16, 2025. Quote verbatim. Page calls the demand 'an indicator of strong economic growth' and says the challenge is delivering power 'reliably, and affordably', naming nuclear plants and grid modernization as key steps."
+},
+{
+"url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410824",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-30",
+"note": "Quote is verbatim from Hill's own statement; he also says the bill is 'key to keeping the U.S. at the forefront of AI innovation in financial services.'"
+},
+{
+"url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410946",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-10",
+"note": "Hearing was Dec 9, 2025 (release Dec 10). Sentence appears verbatim, attributed to Chairman Hill, following an ellipsis in the release."
+},
+{
+"url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9405",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12-17",
+"note": "Quote verbatim. Second principle on page is that firms 'disclose and document how AI is being utilized' and 'show their work'. Page does not mention licensing or safety testing, so the 'not licensing' part is an inference from absence, but the stated safeguards match."
+},
+{
+"url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9343",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-07-24",
+"note": "Quote verbatim. He invokes Chris Cox and 1996 telecom policy and says regulators 'were not going to say to Bank A, \"You can't use AI in your business.\" We're not going to say that.'"
+},
+{
+"url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9405",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-12-17",
+"note": "Quote verbatim in Hill's statement."
+},
+{
+"url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411059",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-18",
+"note": "Hearing on modernizing GLBA Title V, held Mar 17, 2026. Quote verbatim; he continues that states moving to data-level-only exemptions 'doesn't sound in keeping with Gramm-Leach-(Bliley).'"
+},
+{
+"url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410920",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-21",
+"note": "Quote verbatim. Letter urges CFPB to base privacy/security rules 'on existing frameworks under the Gramm-Leach-Bliley Act (GLBA)', matching the claim."
+},
+{
+"url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9343",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-07-24",
+"note": "Page: 'Have you seen the entire globe prosper and benefit from a free and open internet since the '90s'. Claim paraphrases 'entire' as 'whole'; substance is accurate."
+},
+{
+"url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410946",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-10",
+"note": "Section 'On How Unified AI Laws Promote Innovation' quotes Rep. William Timmons on the 'growing patchwork of state laws'; Hill is not quoted there. Claim correctly attributes the words to other members."
+},
+{
+"url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411059",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-18",
+"note": "Quote verbatim; concerns GLBA privacy, not AI. The claim's 'hint' framing is accurate but this is weak evidence for a preemption position on AI."
+},
+{
+"url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9343",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-07-24",
+"note": "Verbatim, from Hill's Ripon Society remarks."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "Neither source contains Hill saying anything about federal preemption of state AI laws. The AI-hearing release quotes Rep. Timmons, not Hill, and the GLBA remark is about financial privacy exemptions, not AI. Evidence is too thin for a directional score.",
+"suggested_score": 0,
+"suggested_label": "Mixed or conditional"
+}
+]
+},
+{
+"bioguide": "W000821",
+"checks": [
+{
+"url": "https://www.eenews.net/articles/data-center-moratorium-still-has-few-takers-on-capitol-hill/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-01",
+"note": "Page names Westerman as House Natural Resources chair, says he called a moratorium 'ridiculous', and the quote appears verbatim, followed by the PSC/utilities/data companies coordination and lower-rates passage."
+},
+{
+"url": "https://naturalresources.house.gov/news/documentsingle.aspx?DocumentID=418297",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-25",
+"note": "Quote appears verbatim in Westerman's statement; ties SPEED Act to 'meet skyrocketing energy demands' and 'lead the world in the AI race'."
+},
+{
+"url": "https://naturalresources.house.gov/news/documentsingle.aspx?DocumentID=418526",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Quote verbatim; statement also says 'I urge my colleagues in the Senate to act quickly and send the SPEED Act to President Trump's desk.'"
+},
+{
+"url": "https://www.eldoradonews.com/news/2026/sep/12/westerman-visits-sau-talks-lithium-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-12",
+"note": "Quote verbatim; he says hyperscale centers recirculate water like a golf course's usage, and separately says 'I think nuclear power is going to rapidly accelerate' (SMRs). The 'to meet AI demand' link is implied by the article's data-center framing rather than stated in his nuclear remark."
+},
+{
+"url": "https://www.hsvvoice.com/stories/entergy-breaks-ground-for-ironwood-power-plant,155306",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-20",
+"note": "Quote verbatim. Article: 446-MW Ironwood plant groundbreaking Aug. 20, 2026 (article posted Sept. 8); Westerman called it 'a milestone' and the paper says he believes it is the start of a new era providing power for manufacturing, data centers and rising demand. Note the article misidentifies him as 'the U.S. Senate's only forester'."
+},
+{
+"url": "https://www.eldoradonews.com/news/2026/sep/12/westerman-visits-sau-talks-lithium-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-12",
+"note": "Quote verbatim; continues 'it can also be used for for bad things. I say all that to say it's not going away. Somebody's going to develop it.'"
+},
+{
+"url": "https://westerman.house.gov/media-center/weekly-columns/protecting-our-kids-digital-world",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-13",
+"note": "Quote verbatim. Column backs the KIDS Act, recounts 'a mother's son who took his own life because of an AI chat box or content fed to him by a social media algorithm', and says Congress has an obligation to enact policies putting kids' safety first."
+},
+{
+"url": "https://naturalresources.house.gov/news/documentsingle.aspx?DocumentID=418297",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-25",
+"note": "Statement does frame the SPEED Act around leading 'the world in the AI race'; reasonable to log as an innovation-first counter-signal."
+},
+{
+"url": "https://westerman.house.gov/media-center/weekly-columns/protecting-our-kids-digital-world",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-13",
+"note": "Quote verbatim. Column says Congress must hold Big Tech accountable, criticizes the 'honor system' and wants adult-content sites held to brick-and-mortar-style restrictions, and cites his 2024 Focus on Learning Act on phones in schools."
+},
+{
+"url": "https://www.eldoradonews.com/news/2026/sep/12/westerman-visits-sau-talks-lithium-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-12",
+"note": "Quote verbatim: 'We're in a in a bit of a cold war with China on developing AI and the implications of leading the world in AI development has become a national security issue.' No mention of chip export controls, so null score is appropriate."
+},
+{
+"url": "https://www.eldoradonews.com/news/2026/sep/12/westerman-visits-sau-talks-lithium-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-12",
+"note": "Headline quote appears verbatim in the article."
+}
+],
+"score_objections": []
+}
+]

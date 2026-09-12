@@ -1,0 +1,275 @@
+[
+{
+"bioguide": "S001224",
+"checks": [
+{
+"url": "https://keithself.house.gov/media/press-releases/congressman-keith-self-introduces-privacy-act-protect-americans-fourth",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-15",
+"note": "Page loaded directly (status 200, dated July 15, 2026). Self introduced the PRIVACY Act requiring federal law enforcement to get a warrant before accessing state/local surveillance data including automated license plate readers; quote appears verbatim as Self's own words. Flock cameras are named in the release (cosponsor Clyde's quote and the Background section), so the claim's Flock reference is supported."
+},
+{
+"url": "https://keithself.house.gov/media/press-releases/congressman-keith-self-introduces-privacy-act-protect-americans-fourth",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-15",
+"note": "Quote appears verbatim as Self's second quoted paragraph. Page also confirms the 30-day data retention limit and a ban on federal funds for purchasing such technologies, matching the claim that he is writing new federal limits on surveillance tech (limits on government use, not on industry)."
+},
+{
+"url": "https://keithself.house.gov/media/press-releases/congressman-keith-self-introduces-privacy-act-protect-americans-fourth",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-15",
+"note": "Verbatim match, attributed to Congressman Self on his official House site, July 15, 2026."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only cited evidence is a Fourth Amendment bill about government warrants for surveillance data (license plate readers, Flock cameras). It mentions AI only in passing and says nothing about regulating AI developers, frontier models, or AI safety. That is too thin to place him at 'Targeted guardrails' on AI risk; the bill is a civil-liberties limit on government, not an AI-risk position.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "The PRIVACY Act restricts federal law enforcement, not tech companies. Requiring the government to get a warrant is not a rule on Big Tech or the tech industry, so this source does not establish a 'Targeted rules' stance on tech regulation. Unless other sources show him backing rules on companies, the evidence for -1 is too thin.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "F000246",
+"checks": [
+{
+"url": "https://www.cbsnews.com/texas/news/push-back-data-centers-texas-voters-gop-leaders-democratic-challengers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-17",
+"note": "Page (published 2026-08-17) names Fallon and carries the quote verbatim, framed as praise for the governor's new data center policy; the surrounding article describes Abbott's audit/interconnection pause."
+},
+{
+"url": "https://www.cbsnews.com/texas/video/republican-u-s-rep-pat-fallon-on-where-he-stands-on-data-centers-and-the-construction-at-big-bend/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Video page blurb reads: 'Republican U.S. Rep. Pat Fallon says he agrees with constituents and Gov. Greg Abbott's stance on data centers in Texas.' No date exposed in fetch output; transcript not available."
+},
+{
+"url": "https://fallon.house.gov/news/documentsingle.aspx?DocumentID=1598",
+"verdict": "confirmed",
+"corrected_quote": "If we want to win the AI race with China, it's critical that the US military embraces our competitive advantage—American's free-market system—to can ensure we harness cutting-edge technology swiftly and efficiently",
+"corrected_date": "2025-06-09",
+"note": "Quote fragment appears verbatim; full sentence given in corrected_quote (sic 'to can ensure'). Release is about DOD software/data-as-a-service procurement for AI; supports the speed/competition framing but says nothing about rules either way."
+},
+{
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-obernolte-fallon-brown-and-sens-kim-husted-lead-bipartisan-and-bicameral-bill-to-recruit-top-ai-talent-to-federal-government",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-10",
+"note": "Fallon quote appears verbatim and is attributed to him as a co-lead. Bill is about federal AI hiring; consistent with a capacity/leadership framing but not evidence about safety limits."
+},
+{
+"url": "https://fallon.house.gov/news/documentsingle.aspx?DocumentID=1592",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-15",
+"note": "Quote verbatim. Release concerns DOD contract-bidding competition for AI/cloud, with data security as the stated condition; it is procurement policy, not economy-wide AI or tech regulation."
+},
+{
+"url": "https://www.cbsnews.com/texas/news/push-back-data-centers-texas-voters-gop-leaders-democratic-challengers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-17",
+"note": "Same page as item 1; quote verbatim."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "All three ai_risk sources are DOD procurement and federal hiring bills; none address AI safety rules, guardrails, or the absence thereof. The 'light touch' score is an inference from race-with-China and free-market framing, not a stated position on AI risk regulation. Evidence is too thin to place him on this scale.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No cited source touches regulation of Big Tech or consumer tech. The Protecting AI and Cloud Competition in Defense Act is about competition in DOD contract bidding, not rules for tech companies. Nothing supports -1 'Targeted rules' (or any score).",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "G000589",
+"checks": [
+{
+"url": "https://www.foxnews.com/politics/blanche-urged-investigate-alleged-foreign-influence-fight-against-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Article (Fox News, 2026-07-24) says the letter was 'penned by Rep. Lance Gooden, R-Texas' and signed by other GOP lawmakers, urging AG Blanche to probe foreign influence in the campaign to block data centers. Quote about Neville Roy Singham appears verbatim, attributed to the letter. Claim that he treats local opposition as a foreign-influence problem is supported."
+},
+{
+"url": "https://www.foxnews.com/politics/blanche-urged-investigate-alleged-foreign-influence-fight-against-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Quote appears verbatim, attributed to Gooden 'told Fox News Digital in an interview.' Article says the letter claims foreign-linked groups are blocking centers 'to give China a leg up in the artificial intelligence (AI) race,' supporting the claim."
+},
+{
+"url": "https://washingtonreporter.news/exclusive-lawmakers-laud-trump-administrations-ai-genesis-mission/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-27",
+"note": "Washington Reporter (2026-03-27) says Gooden 'is leading his colleagues' in a letter to Energy Secretary Chris Wright supporting the Genesis Mission. Quote appears verbatim, attributed to Gooden."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "Gooden is listed among the ten House GOP members in Leading the Future's second endorsement round. Quote from Zac Moffatt appears verbatim. Note the article describes the PAC as AI-focused and backed by a16z/Brockman; it does not use the phrase 'pro-buildout,' but that characterization is fair given the PAC's stated aims."
+},
+{
+"url": "https://www.foxnews.com/politics/texas-congressman-lance-gooden-warns-very-scary-consequences-ai-overcomes-american-society",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2023-04-05",
+"note": "Quote appears verbatim (Fox News, April 5, 2023). Gooden voices worry about AI and says 'we need to be very cautious,' but the article contains no statement from him that Congress should act; the only call for regulation in the piece is attributed to Rep. Ted Lieu. The 'Congress should act' portion of the claim overstates the source."
+},
+{
+"url": "https://www.foxnews.com/politics/texas-congressman-lance-gooden-warns-very-scary-consequences-ai-overcomes-american-society",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-04-05",
+"note": "Quote appears verbatim, followed by 'That's very scary to me, and I think we need to be very cautious.' Claim matches the source."
+},
+{
+"url": "https://washingtonreporter.news/exclusive-lawmakers-laud-trump-administrations-ai-genesis-mission/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-27",
+"note": "Quote appears verbatim, attributed to Gooden. The statement is entirely about speed, innovation and beating the CCP; no mention of safety rules, supporting the claim."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "Page confirms Leading the Future endorsed Gooden. The article does not itself say the PAC 'opposes heavy AI regulation'; Moffatt actually describes a national framework that 'sets basic safety standards' and 'protects children.' The endorsement is confirmed, the characterization of the PAC's regulatory stance comes from outside this source."
+},
+{
+"url": "https://www.breitbart.com/politics/2026/05/22/exclusive-leading-the-future-super-pac-expands-house-gop-endorsements/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-22",
+"note": "Moffatt says the endorsed House members 'will be instrumental in advancing a national framework in Congress.' Gooden is on the list. No statement from Gooden on preemption appears, consistent with the claim."
+},
+{
+"url": "https://washingtonreporter.news/exclusive-lawmakers-laud-trump-administrations-ai-genesis-mission/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-27",
+"note": "Quote verbatim. Supports the narrow claim that his AI agenda is framed as a contest with China; the source says nothing about chips or export controls."
+},
+{
+"url": "https://www.foxnews.com/politics/blanche-urged-investigate-alleged-foreign-influence-fight-against-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Verbatim Gooden quote to Fox News Digital, 2026-07-24."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the listed sources say anything about regulating Big Tech or platforms. The only regulatory signals are a 2023 'we need to be very cautious' remark about AI in government and a 2026 endorsement from an industry super PAC; neither supports a 'Targeted rules' score. Evidence is too thin for -1.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "china_chips",
+"objection": "Sources show only generic China-rivalry rhetoric ('not fall behind the Chinese Communist Party,' Chinese/Russian collusion against data centers). Nothing on chip export controls, Nvidia sales, or the chip diffusion rule. A 'Leans hawkish' score on chips is not supported by these sources; the framing could equally support selling more chips to win the race.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "E000071",
+"checks": [
+{
+"url": "https://communityimpact.com/mckinney/austin/google-commits-40b-to-3-new-data-centers-infrastructure-in-texas-through-2027/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-14",
+"note": "Quote appears verbatim, attributed to Ellzey (R, represents Midlothian) speaking about the first Google center's impact on his district. Article does not say he was physically at the announcement event, only that he 'spoke to the impact'; claim itself (celebrates as economic win) is fully supported."
+},
+{
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407372",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Ellzey opening statement 'Empowering Rural America Through Investment in Innovation', Jan 21 2026. Quote verbatim (page has odd spacing around 'pro-energy' but same words). He credits Texas's 'low regulatory environment' for data center growth and frames rural data centers as opportunity."
+},
+{
+"url": "https://rollcall.com/2026/04/14/winning-the-ai-arms-race-holds-appeal-for-both-parties/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Roll Call (Apr 14 2026) quotes Chairman Ellzey at the January Small Business subcommittee hearing on AI data center infrastructure: investments in 'advanced energy solutions' for data centers 'keep us competitive with the AI race with China.' Verbatim. Hearing date is Jan 21 2026 per committee site."
+},
+{
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407489",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Ellzey opening statement 'Fueling the Golden Age', dated Sept 1 2026 on page (hearing held Sept 2). Quote verbatim. Context is broad (manufacturing, grid buildout, population growth, water), not only data centers, but claim of 'welcome growth, keep costs off Main Street' is accurate."
+},
+{
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407489",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-09-01",
+"note": "Quote verbatim. However Ellzey is describing what 'some states' vs 'others' are doing and calls the variety of approaches 'models for how communities across the nation can prepare'; he speaks of it approvingly but does not explicitly endorse large-load-pays as a condition on buildout. 'Endorses ... as a condition' overstates a descriptive, approving mention."
+},
+{
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407490",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-02",
+"note": "Committee press release Sept 2 2026; quote verbatim and attributed to Chairman Ellzey. Continues: 'If we get this right, we can protect ratepayers...' Claim 'build, but protect ratepayers' matches exactly."
+},
+{
+"url": "https://rollcall.com/2026/04/14/winning-the-ai-arms-race-holds-appeal-for-both-parties/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Same Roll Call passage; quote verbatim. Supports the China-competition frame. The 'no guardrail proposals found' part is an absence claim the page cannot prove, but nothing on the page contradicts it. Note the remark is about data center energy, not AI model risk."
+},
+{
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407372",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Quote verbatim from the Jan 21 2026 opening statement. He frames AI-driven growth purely as rural economic opportunity; no mention of AI risk anywhere in the statement."
+},
+{
+"url": "https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407490",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-02",
+"note": "Verbatim, attributed to Chairman Ellzey in the Sept 2 2026 press release. Suitable as headline quote."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the sources address AI safety, model risk, or AI-specific regulation; every item is about data center energy, water, and rural jobs. The only 'regulation' remark is praise for Texas's low-regulatory environment for data center development, and the China line is about energy investment. That is enough for a data_centers score but too thin to place him at 'Light touch' on AI risk rather than no known position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

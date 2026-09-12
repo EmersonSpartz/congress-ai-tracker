@@ -1,0 +1,261 @@
+[
+{
+"bioguide": "M001163",
+"checks": [
+{
+"url": "https://www.eenews.net/articles/house-committee-narrows-data-center-energy-bill-3/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-21",
+"note": "Article (E&E News, July 21, 2026) says Pallone's message that the bills 'don't go far enough to ensure that big tech and other data center owners fully pay' was 'echoed by Reps. Doris Matsui (D-Calif.) and Paul Tonko,' both advocating stronger legislation. Claim matches. 52-0 vote detail not verified in grep output."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-demand-information-open-ai-about-security-incident",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Quote appears verbatim (curly apostrophe in OpenAI's). Page states the letter 'is co-led by Rep. Doris Matsui (D-CA)' and includes 'more than 23 questions.' Signer count not counted but list is long."
+},
+{
+"url": "https://thenextweb.com/news/openai-automated-shutdown-house-democrats-logs-withheld-eu-ai-act-article-93-withdraw-recall",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-02",
+"note": "Article names Casar and Matsui as recipients of OpenAI's Sept 2 reply describing work toward fully autonomous shutdown procedures and declining to hand over the July breach logs. Matches the claim."
+},
+{
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404939",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-29",
+"note": "Quote is verbatim. Matsui (CA-07) is listed among the six E&C Democrats urging Meta to halt deployment of AI companion bots to users under 18."
+},
+{
+"url": "https://schakowsky.house.gov/media/press-releases/schakowsky-castor-and-matsui-demand-answers-meta-ahead-energy-commerce",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-09",
+"note": "Quote verbatim (from the press release framing, not the letter itself). Matsui is a named co-author demanding answers from Zuckerberg on the Android tracking loophole."
+},
+{
+"url": "https://matsui.house.gov/media/press-releases/matsui-statement-trumps-ai-executive-order",
+"verdict": "confirmed",
+"corrected_quote": "it's a gift to big tech—stripping away accountability when AI is becoming more powerful and deeply embedded in people's lives",
+"corrected_date": "2025-12-11",
+"note": "Quote is verbatim as a fragment; full clause supplied. She does call the order 'a gift to big tech.'"
+},
+{
+"url": "https://matsui.house.gov/media/press-releases/matsui-leads-colleagues-opposing-push-revive-ai-moratorium-ndaa",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Quote verbatim. Matsui led 81 lawmakers; letter opposes the NDAA moratorium, the planned executive order, and conditioning BEAD funds on state AI preemption. Note the release says '81 total lawmakers' and does not label them all as Democrats, though the co-leads are."
+},
+{
+"url": "https://matsui.house.gov/media/press-releases/matsui-statement-trumps-ai-executive-order",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Quote verbatim. Statement dated Dec 11, 2025, the day the EO was signed."
+},
+{
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-20",
+"note": "Quote verbatim. Matsui is a named introducer of the GUARDRAILS Act and says as C&T Ranking Member she 'won't let the Administration weaponize broadband funding to bully states.' Item type 'statement' is fine, though this is a bill introduction."
+},
+{
+"url": "https://matsui.house.gov/media/press-releases?page=1",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-13",
+"note": "Quote verbatim in the July 13, 2026 Bosch statement teaser; she is described as co-author of the CHIPS for America Act. Caution: this is a paginated index page that will churn; link the permanent release URL instead. Also, the statement is about domestic manufacturing subsidies and says nothing about export controls or China."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The only china_chips source is a CHIPS Act domestic-manufacturing subsidy statement about a Bosch plant in Roseville. It contains no position on export controls, selling chips abroad, or China. Evidence is too thin to place her at -1 'Leans hawkish'; either find a real export-control statement or record no position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "G000559",
+"checks": [
+{
+"url": "https://garamendi.house.gov/2026/04/09/media-press-releases-rep-garamendi-joins-tonko-introduce-bill-shield-consumers-data-center-driven/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-09",
+"note": "Garamendi's own press release; quote appears verbatim attributed to him. Bill summary confirms FERC rule making data centers pay for local transmission upgrades and a data center load queue / interconnection prioritization system."
+},
+{
+"url": "https://federalnewsnetwork.com/army/2026/06/house-ndaa-provision-could-derail-army-data-center-projects/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-12",
+"note": "Quote appears verbatim, attributed to Garamendi; article frames his concern as energy/water/noise/light conditions for base data centers, not opposition."
+},
+{
+"url": "https://www.eenews.net/articles/the-pentagon-wants-to-build-data-centers-congress-would-like-a-word/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Quote verbatim. Article says he proposed a 'sweeping amendment' to FY27 House NDAA requiring DOD determinations on energy, water, noise, light, security and supply-chain impacts before deals are finalized, and that House Armed Services Republicans rejected it in markup. Quote itself was made 'last month' (June 2026)."
+},
+{
+"url": "https://federalnewsnetwork.com/congress/2026/07/congress-ramps-up-scrutiny-of-pentagon-ai-data-center-plans/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Article states Garamendi introduced the measure at HASC markup and the committee voted it down; Rep. Van Orden quoted arguing it would 'stand in the way of us maintaining AI dominance over China.'"
+},
+{
+"url": "https://matsui.house.gov/media/press-releases/matsui-leads-colleagues-opposing-push-revive-ai-moratorium-ndaa",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Quote verbatim in letter text. Press release page does not list signers, but the linked letter PDF (matsui-letter-opposing-ai-moratorium...11.26.25.pdf) lists 'John Garamendi, Member of Congress' on page 8. Letter cites deepfakes, targeted scams, bias, kids' online safety as reasons for guardrails."
+},
+{
+"url": "https://matsui.house.gov/media/press-releases/matsui-leads-colleagues-opposing-push-revive-ai-moratorium-ndaa",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Quote verbatim. Letter opposes AI moratorium on state/local AI laws in NDAA and via executive order; Garamendi confirmed as signer in the letter PDF."
+},
+{
+"url": "https://www.eenews.net/articles/the-pentagon-wants-to-build-data-centers-congress-would-like-a-word/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Headline quote appears verbatim and is attributed to Garamendi."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "No item is tagged tech_regulation; the -1 score rests only indirectly on the data-center ratepayer bill and the anti-moratorium letter. Direction is consistent with 'Targeted rules' but evidence specific to Big Tech regulation is thin; consider flagging as low-confidence rather than changing the score.",
+"suggested_score": -1,
+"suggested_label": "Targeted rules"
+}
+]
+},
+{
+"bioguide": "H001090",
+"checks": [
+{
+"url": "https://harder.house.gov/media/press-releases/new-caucus-new-bipartisan-build-america-caucus-launches-to-support-pro-growth-policies",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-08",
+"note": "Quote verbatim, attributed to Chair Josh Harder. Page lists permitting and transmission reform, housing, infrastructure streamlining; no mention of data centers, matching the claim."
+},
+{
+"url": "https://harder.house.gov/media/press-releases/release-harder-reintroduces-stop-the-rate-hikes-act-to-stop-pge-s-endless-price-increases",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-04",
+"note": "Quote verbatim. Bill limits utilities to one rate hike per year; no reference to data centers or AI load."
+},
+{
+"url": "https://harder.house.gov/media/press-releases/genesis-mission-harder-celebrates-new-partnership-between-nih-and-genesis-mission-to-accelerate-new-cures",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Quote verbatim within Harder's statement. Page is unreservedly pro-AI-for-research; the 'guardrail cosponsorships' half of the claim is not on this page."
+},
+{
+"url": "https://aimoneywatch.org/people/josh-harder-ca-9",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Page for Josh Harder (D, CA-9, 2026 primary) states Leading the Future endorsed him with no independent expenditures reported yet. Quote verbatim. Page itself does not characterize LTF's policy aims; that part of the claim is external context."
+},
+{
+"url": "https://harder.house.gov/media/press-releases/scams-harder-announces-sweeping-anti-scam-legislation-to-crack-down-on-organized-cybercrime",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Quote verbatim. Bill creates an FBI-led government-wide task force; no platform-regulation provisions appear on the page."
+},
+{
+"url": "https://harder.house.gov/media/press-releases/scams-harder-s-advocacy-leads-to-coordinated-crackdown-on-international-scammers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-15",
+"note": "Page reports Google and FBI lawsuit against China-linked 'Outsider Enterprise' scam network, Google's endorsement of the Stop SCAMS Act, and Harder saying he is 'grateful to have Google's support' and looks forward to partnering with industry. Supports the cooperative-posture claim."
+},
+{
+"url": "https://harder.house.gov/media/press-releases/genesis-mission-harder-celebrates-new-partnership-between-nih-and-genesis-mission-to-accelerate-new-cures",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-24",
+"note": "Headline quote appears verbatim in Harder's statement."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the seven sources touches chip export controls or AI hardware policy. The only China reference is a scam-syndicate lawsuit (item 6) and a generic 'foreign adversaries racing ahead in critical manufacturing' line (item 1), which is a domestic-building argument, not an export-control position. A -2 'Tighten export controls' score is unsupported by this evidence set; unless separate votes or cosponsorships exist, no position should be assigned.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "The sourced evidence leans pro-innovation: an enthusiastic Genesis Mission/AI-for-cures release and an endorsement from Leading the Future, the industry super PAC opposing strict AI rules. The 'guardrail cosponsorships' invoked to justify -1 are not among the sources. On this record the balance reads as Mixed rather than Targeted guardrails; keep -1 only if the guardrail bills are documented.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "tech_regulation",
+"objection": "Both tech-regulation sources show a law-enforcement approach (FBI-led task force) with Google endorsing the bill and Harder praising the partnership. Nothing here imposes rules on platforms or Big Tech, so 'Targeted rules' at -1 overstates the sourced evidence; the record supports Mixed at most absent other platform-regulation positions.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+}
+]
+},
+{
+"bioguide": "D000623",
+"checks": [
+{
+"url": "https://broadbandbreakfast.com/ocasio-cortez-introduces-ai-data-center-moratorium-act/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-26",
+"note": "Quote appears verbatim and the article accurately describes the bill (immediate moratorium, 20 MW threshold, pending federal approval system). But the page never mentions DeSaulnier; it covers only Ocasio-Cortez and Sanders. His cosponsorship is asserted by the claim, not by this source, and should be verified via congress.gov before it anchors his data_centers score."
+},
+{
+"url": "https://desaulnier.house.gov/media-center/press-releases/representatives-desaulnier-and-patronis-introduce-legislation-hold-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Quote is verbatim and attributed to DeSaulnier. Page confirms the Sunset Section 230 Act (repeal after two years), his framing about platforms profiting at the expense of young people, and the Meta up-to-$18 billion settlement with 29 states."
+},
+{
+"url": "https://desaulnier.house.gov/media-center/press-releases/representatives-desaulnier-and-patronis-introduce-legislation-hold-tech",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Verbatim, attributed to Congressman DeSaulnier in the press release."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only data_centers source does not name DeSaulnier; his cosponsorship of the AI Data Center Moratorium Act is unverified by the cited page. A -2 'Pause or block' score is defensible only if the cosponsorship is confirmed on congress.gov; otherwise the evidence is too thin for any position.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "ai_risk",
+"objection": "None of the three items concerns AI safety or AI risk regulation (one is about data center construction, two about Section 230 repeal). There is no sourced evidence for a -1 'Targeted guardrails' score on ai_risk.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

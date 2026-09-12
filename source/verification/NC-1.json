@@ -1,0 +1,335 @@
+[
+{
+"bioguide": "T000476",
+"checks": [
+{
+"url": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Quote appears verbatim, attributed to Tillis. Article dated 2026-09-10. Claim matches: he calls the response irrational and describes off-grid, self-powered, self-cooled data centers."
+},
+{
+"url": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Quote verbatim; preceded by 'We got to go out and educate people,' supporting the education part of the claim."
+},
+{
+"url": "https://www.axios.com/2026/02/26/anthropic-pentagon-ultamatim-congress-deadline",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-26",
+"note": "Reached via Wayback (2026-08-24 snapshot). Quote verbatim; he also said 'this is sophomoric' about the public fight. Article frames him as urging Congress to weigh in on military AI."
+},
+{
+"url": "https://ipwatchdog.com/2026/05/13/senators-defend-copyright-office-independence-ai-executive-overreach-dominate-oversight-hearing/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-13",
+"note": "Quote verbatim in headline pull-quote and in body, attributed to Tillis at the Copyright Office oversight hearing; he tied it to copyright law enabling AI training content."
+},
+{
+"url": "https://www.tillis.senate.gov/2023/9/tillis-hickenlooper-urge-action-to-bolster-cyber-defenses-against-artificial-intelligence-threats",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "tillis.senate.gov returned 403 on repeated direct fetches (research_tools, curl, WebFetch); Wayback lookups failed (connection refused / 429). Could not verify quote."
+},
+{
+"url": "https://time.com/7299044/senators-reject-10-year-ban-on-state-level-ai-regulation-in-blow-to-big-tech/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-01",
+"note": "Quote verbatim; article continues 'and his vote—which happened after 4 a.m.—may have been a mistake, says someone with knowledge of the matter,' matching the claim."
+},
+{
+"url": "https://www.cnbc.com/2025/12/09/trump-nvidia-china-ai-chips-gop-congress.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-09",
+"note": "Quote verbatim, followed by 'But we've got to know where it is, how they're using it, those sorts of things.' Article explicitly contrasts him with GOP hawks ('Not all Republicans are piling on')."
+},
+{
+"url": "https://www.pymnts.com/cpi-posts/republican-lawmakers-urge-reversal-of-bidens-ai-export-controls/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-14",
+"note": "Signatory list verbatim. Article says seven GOP senators asked Commerce Sec. Lutnick to retract the AI Diffusion rule and proposed an alternative balancing national security with supporting US AI industry."
+},
+{
+"url": "https://ipwatchdog.com/2026/04/22/senate-judiciary-hearing-on-chinese-ip-theft/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "Quote verbatim; Tillis chaired in Grassley's place and warned China is moving from 'imitator to innovator.' However, the AI angle in the article comes from Hawley and a witness, not from Tillis's quoted remarks, so 'including in AI' overstates the source."
+},
+{
+"url": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-10",
+"note": "Headline quote appears verbatim in the article."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "Both direct sources lean toward selling more: he told CNBC he has no real problem giving China some chips (with tracking conditions), and he signed the letter asking Commerce to withdraw the AI Diffusion Rule for a lighter regime. The IP-theft hearing shows China-threat framing but no export-control stance. Nothing in the sources supports tightening controls, so 0 'Mixed' understates his lean.",
+"suggested_score": 1,
+"suggested_label": "Leans sell more"
+},
+{
+"dimension": "preemption",
+"objection": "The only evidence is a single post-4 a.m. vote that Time's source says may have been a mistake; the item itself calls it weak evidence. That is too thin to assign 'Leans national rule'.",
+"suggested_score": 0,
+"suggested_label": "Mixed or conditional"
+},
+{
+"dimension": "tech_regulation",
+"objection": "No item cites any tech_regulation source for Tillis. The closest evidence (copyright protections for creators, Congress weighing in on mass-surveillance AI) is indirect and already scored under ai_risk. Evidence is too thin for a position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "B001305",
+"checks": [
+{
+"url": "https://www.techpolicy.press/white-house-office-of-science-and-technology-policy-director-michael-kratsios-testifies-in-senate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-10",
+"note": "Quote appears verbatim in Budd's (R-NC) opening statement as subcommittee chair. Transcript published 2025-09-11; hearing held 2025-09-10. Transcript is 'lightly edited and may contain errors'."
+},
+{
+"url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-joined-senators-mccormick-and-coons-to-introduce-bill-to-boost-u-s-ai-leadership-with-energy-efficient-liquid-cooling-technology/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "schiff.senate.gov returned 403 on three attempts (fetch tool, WebFetch, curl with browser UA); Wayback Machine connection refused/rate-limited. Could not verify the quote or Budd's cosponsorship."
+},
+{
+"url": "https://www.techpolicy.press/white-house-office-of-science-and-technology-policy-director-michael-kratsios-testifies-in-senate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-10",
+"note": "Verbatim in Budd's opening statement; immediately preceded by his free-market/private-sector-led line and followed by the sandbox endorsement."
+},
+{
+"url": "https://www.techpolicy.press/white-house-office-of-science-and-technology-policy-director-michael-kratsios-testifies-in-senate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-10",
+"note": "Verbatim. Page intro describes the SANDBOX Act as letting AI developers apply for waivers or modifications to federal regulations to test products, matching the claim."
+},
+{
+"url": "https://www.commerce.senate.gov/2026/3/senator-budd-chairs-subcommittee-hearing-to-evaluate-innovative-deployment-of-ai-to-support-workforce-healthcare-and-industry",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "commerce.senate.gov returned 403 on repeated attempts (fetch tool, WebFetch, curl); Wayback unavailable (connection refused / 429). Quote and the 'listen to concerns / address harms' claim unverified."
+},
+{
+"url": "https://www.techpolicy.press/white-house-office-of-science-and-technology-policy-director-michael-kratsios-testifies-in-senate/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-09-10",
+"note": "Quote verbatim, but the page contains nothing from Budd about state vs federal authority; the preemption inference is the tracker's, as the item itself concedes. Supports the sandbox endorsement only."
+},
+{
+"url": "https://www.pymnts.com/cpi-posts/republican-lawmakers-urge-reversal-of-bidens-ai-export-controls/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-14",
+"note": "Signatory list verbatim; article says the letter urged Commerce to withdraw the AI diffusion rule and craft an alternative balancing security with support for US AI industry, while still preventing Chinese dominance. Sourced to Reuters."
+},
+{
+"url": "https://www.pymnts.com/cpi-posts/us-senators-urge-commerce-department-to-probe-risks-from-chinese-open-source-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-05",
+"note": "Quote verbatim; names Budd among a 'coalition of seven Republican senators' (he is one of the seven, not additional to them). Article mentions DeepSeek and PLA-linked data risk. Sourced to Reuters."
+},
+{
+"url": "https://www.techpolicy.press/white-house-office-of-science-and-technology-policy-director-michael-kratsios-testifies-in-senate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-10",
+"note": "Verbatim; continues 'AI must be globally diffused within a US led technology ecosystem' and praises the export-the-AI-stack executive order."
+},
+{
+"url": "https://www.techpolicy.press/white-house-office-of-science-and-technology-policy-director-michael-kratsios-testifies-in-senate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-10",
+"note": "Verbatim from Budd's opening statement."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "The verified sources all point the same direction on chip/AI exports: he signed the letter to withdraw the Biden AI diffusion rule and asked for a lighter alternative, and he told Kratsios the US must 'lean in to exporting our AI tech stack' to allies and third countries. The DeepSeek letter is about Chinese models harvesting US data, not export controls on chips. That is not 'Mixed'; it leans toward selling more.",
+"suggested_score": 1,
+"suggested_label": "Leans sell more"
+},
+{
+"dimension": "preemption",
+"objection": "The only preemption evidence is an endorsement of the SANDBOX Act, which is a federal waiver program and says nothing about barring states; the item itself admits he has not spoken to state authority. Too thin for 'Leans national rule'.",
+"suggested_score": 0,
+"suggested_label": "Mixed or conditional"
+},
+{
+"dimension": "tech_regulation",
+"objection": "None of the ten items touches Big Tech regulation, so nothing here supports -1 'Targeted rules'; if the tracker has no other source for this dimension it should show no position rather than a score.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "D000230",
+"checks": [
+{
+"url": "https://spectrumlocalnews.com/nc/charlotte/news/2026/07/23/data-center-moratorium-cooper-whatley",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Page names 'incumbent Democrat Don Davis' (NC-01) and says he told Spectrum News 1 that communities must be part of the decision-making and that questions 'should not prevent us from embracing the future, they should help us shape it responsibly. Artificial intelligence is one of the defining opportunities of our time.' Quote is verbatim. He is not quoted backing a moratorium, consistent with the claim."
+},
+{
+"url": "https://dondavis.house.gov/media/press-releases/davis-nunn-introduce-bipartisan-bill-put-artificial-intelligence-work-north",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Davis's own press release (July 16, 2026) on the FARM AI Act, 'legislation to accelerate the deployment of artificial intelligence (AI) across American agriculture by modernizing USDA research and workforce programs.' Quote appears verbatim, attributed to Congressman Davis. Supports the claim of an adoption-focused, optimistic stance; note it says nothing about AI risk or guardrails."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "The fetch tool returned zero text for the PDF, so I downloaded it and extracted text directly. Letter dated November 26, 2025, with 81 'Member of Congress' signature lines. The only Davis listed is 'Danny K. Davis'; no Don/Donald Davis appears. Claim is accurate, but absence from one letter is weak evidence of any preemption position."
+},
+{
+"url": "https://spectrumlocalnews.com/nc/charlotte/news/2026/07/23/data-center-moratorium-cooper-whatley",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Same page as item 1; quote is verbatim and attributed to Don Davis."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "Neither source shows Davis calling for AI guardrails or rules. The FARM AI Act release is purely about accelerating AI adoption in agriculture, and the Spectrum quote frames AI as 'one of the defining opportunities of our time' with only a vague 'shape it responsibly.' Evidence is too thin for -1 'Targeted guardrails'; the record read alone leans optimistic/light.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "tech_regulation",
+"objection": "None of the checked sources address Big Tech regulation, platform rules, or kids' online safety. There is no evidence in this item set to support -1 'Targeted rules'.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "china_chips",
+"objection": "No checked source mentions export controls, chips, or China. The -1 'Leans hawkish' score has no support in this item set.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "R000305",
+"checks": [
+{
+"url": "https://ross.house.gov/2026/7/congresswomen-ross-foushee-adams-demand-answers-from-duke-energy-on-trump-admin-deal-to-cancel-offshore-wind-lease",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-07-21",
+"note": "Quote appears verbatim (press release narration, not a direct Ross quote). Page is about Duke Energy taking $129M to abandon the Carolina Long Bay offshore wind lease and its 11.6% rate request. Data centers are never mentioned; the claim's link to the 'data center boom' is the tracker's inference, not the source's."
+},
+{
+"url": "https://ross.house.gov/2026/6/ross-hurd-beyer-introduce-bipartisan-bill-to-strengthen-ai-security-and-vulnerability-reporting",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-23",
+"note": "Verbatim in Ross's quote about the AI Flaw Reporting and Security Enhancement Act; she also cites 'advancing the responsible development of this technology.'"
+},
+{
+"url": "https://ross.house.gov/2026/4/ross-bill-included-in-bipartisan-proposal-to-advance-american-leadership-in-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-28",
+"note": "Verbatim Ross quote; release says her bill is included in the bipartisan American leadership in AI proposal covering vulnerability management and AI incident tracking."
+},
+{
+"url": "https://ross.house.gov/2024/9/ross-beyer-introduce-legislation-to-regulate-artificial-intelligence-security-mitigate-risk-incidents",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-09-23",
+"note": "Verbatim Ross quote; page confirms Warner and Tillis introduced the Secure Artificial Intelligence Act in the Senate."
+},
+{
+"url": "https://ross.house.gov/2024/2/nc-tech-experts-members-of-congress-meet-in-durham-to-discuss-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-02-20",
+"note": "NC Newsline article reposted on her site. Quote verbatim; article says Ross compared AI to nuclear power with positive and destructive uses, and the meeting discussed holding tech companies and individuals responsible for AI use."
+},
+{
+"url": "https://ross.house.gov/2025/12/ross-cortez-masto-kustoff-introduce-legislation-to-crack-down-on-illegal-robocalls-and-robotexts",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Ross quote verbatim and the bill adds prison time and higher penalties under the TCPA. However, the AI voice-cloning point comes from Rep. Kustoff's quote, not Ross's; her own remarks say only 'as technology advances.'"
+},
+{
+"url": "https://ross.house.gov/2025/12/ross-leads-letter-from-women-lawmakers-opposing-proposed-ai-moratorium-that-would-jeopardize-protections-for-women-and-girls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim from the letter excerpt. Release confirms Ross led women lawmakers urging Speaker Johnson and Leader Jeffries to reject a broad state/local AI moratorium in the NDAA or any other vehicle."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned no text; downloaded PDF and extracted with pypdf. Quote verbatim in the opening paragraph; letter also opposes a presidential executive order preempting state AI laws and conditioning BEAD/broadband funds. 'Deborah K. Ross' appears in the signature list."
+},
+{
+"url": "https://clarke.house.gov/?p=102767",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Redirects to Clarke press release. Quote verbatim; 'Deborah Ross' appears in the list of 44 signers urging exclusion of any AI moratorium or preemption from the final FY26 NDAA."
+},
+{
+"url": "https://ross.house.gov/2024/2/nc-tech-experts-members-of-congress-meet-in-durham-to-discuss-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-02-20",
+"note": "Quote verbatim. Article reports Ross said much of the work must happen federally because AI issues cross state lines, but states have a role on deepfakes, election security, and nonconsensual imagery."
+},
+{
+"url": "https://ross.house.gov/2026/4/ross-bill-included-in-bipartisan-proposal-to-advance-american-leadership-in-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-28",
+"note": "Verbatim Ross quote; suitable as headline quote."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only data_centers source is a letter about Duke Energy abandoning an offshore wind lease and seeking an 11.6% rate increase; data centers are never mentioned. A general ratepayer-protection stance on a wind deal is too thin to assign a data-center position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

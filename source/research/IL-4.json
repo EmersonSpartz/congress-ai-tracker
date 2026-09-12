@@ -1,0 +1,464 @@
+[
+{
+"bioguide": "F000454",
+"name": "Bill Foster",
+"signature": "PhD physicist and former House AI Task Force member who is leading the House Democratic push for an AI select committee, wants location tracking on exported AI chips, and defends states' right to regulate AI.",
+"notable_quote": {
+"text": "We're not ready for this, and we'll have to rethink how our economy works when the link has been broken between talent and hard work and economic success",
+"date": "2026-07-06",
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage"
+},
+"groups": [
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress), Member",
+"House Financial Services Committee Task Force on Artificial Intelligence (116th Congress), Chair"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Foster backs making data centers pay their own grid costs and has said voters will punish politicians who let data centers double electricity bills. He has also appeared at a data center groundbreaking in his district, so he is not opposed to the projects themselves.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7977, Energy Bills Relief Act (joined April 27, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-04-27",
+"quote": null,
+"what_it_shows": "He signed on to the main House Democratic bill to keep data center grid costs off household electric bills."
+},
+{
+"type": "interview",
+"title": "NOTUS interview: How Congress Fumbled Regulating Artificial Intelligence (reposted on foster.house.gov)",
+"url": "https://foster.house.gov/media/in-the-news/notus-how-congress-fumbled-regulating-artificial-intelligence",
+"date": "2025-12-08",
+"quote": "there's this data center in my back yard that is doubling the price of electricity, or that AI is taking my jobs and that the government should do nothing about it is going to be a massive loser",
+"what_it_shows": "He frames data center electricity costs as a problem government must act on, not ignore."
+},
+{
+"type": "other",
+"title": "Chicago Tribune: Construction of $350M CyrusOne data center set to begin in Aurora (reposted on foster.house.gov)",
+"url": "https://foster.house.gov/media/in-the-news/chicago-tribune-construction-350m-cyrus-one-data-center-sets-begin-aurora",
+"date": null,
+"quote": null,
+"what_it_shows": "He attended the groundbreaking for a large data center in his district, a sign he supports the projects when they bring local investment."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Foster treats AI as a serious near-term danger to jobs, financial stability and public trust, and wants Congress to act through a select committee, AI content labels for government, and financial regulators mapping AI risks. He has not called for a pause or licensing of frontier models.",
+"evidence": [
+{
+"type": "statement",
+"title": "Statement to USA Today on a House Democratic select committee on AI",
+"url": "https://www.usatoday.com/story/news/politics/2026/09/11/data-center-house-bill-vote/91706402007/",
+"date": "2026-09-11",
+"quote": "Leader Jeffries understands that we can't repeat Republicans' mistake of letting Congress sit on the sidelines while AI rapidly shapes our future.",
+"what_it_shows": "He is co-leading the effort to create a powerful House select committee on AI if Democrats win the majority."
+},
+{
+"type": "interview",
+"title": "Chicago Sun-Times: Illinois Democrats weigh pros and cons of using AI",
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"date": "2026-07-06",
+"quote": "We're not ready for this, and we'll have to rethink how our economy works when the link has been broken between talent and hard work and economic success",
+"what_it_shows": "He worries AI will break the link between work and economic reward and says the country is not ready."
+},
+{
+"type": "letter",
+"title": "Press release: Foster leads 21 Financial Services Democrats asking FSOC to study a potential AI bubble",
+"url": "https://foster.house.gov/media/press-releases/foster-leads-effort-calling-action-potential-ai-bubble",
+"date": "2025-11-20",
+"quote": "FSOC should act now to map exposures, close data gaps, and determine whether action is needed to make the U.S. economy more resilient in the event of an economic downturn.",
+"what_it_shows": "He sees concentrated AI investment, including data center construction, as a systemic risk regulators should map now."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 6571, REAL Act (AI labeling for government content)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6571",
+"date": "2025-12-10",
+"quote": null,
+"what_it_shows": "His bill would require federal agencies to label AI-generated images, video and unreviewed text."
+},
+{
+"type": "statement",
+"title": "Press release: Foster, Sessions introduce bipartisan REAL Act",
+"url": "https://foster.house.gov/media/press-releases/foster-sessions-introduce-bipartisan-bill-requiring-government-agencies-label",
+"date": "2025-12-10",
+"quote": "there must be clear guidelines to ensure those at our federal agencies and in our nation's highest office are not using AI in a way that could purposefully or inadvertently mislead the American public",
+"what_it_shows": "He wants transparency rules on government use of generative AI."
+},
+{
+"type": "interview",
+"title": "Daily Herald: Congressman Bill Foster is using AI, and he's worried (reposted on foster.house.gov)",
+"url": "https://foster.house.gov/media/in-the-news/daily-herald-congressman-bill-foster-using-ai-and-hes-worried",
+"date": null,
+"quote": "There's going to be a wail of pain from the American public when they're confronted by these because they're computer-generated, and they will happen at scale.",
+"what_it_shows": "He calls AI voice and image cloning fraud a short-term emergency."
+},
+{
+"type": "statement",
+"title": "Foster statement on the Bipartisan House Task Force Report on AI",
+"url": "https://foster.house.gov/media/press-releases/foster-statement-bipartisan-house-task-force-report-artificial-intelligence",
+"date": "2024-12-17",
+"quote": "ensuring our nation is able to both harness the potential of AI and protect against the national security and societal dangers this technology poses",
+"what_it_shows": "He wants legislation that both supports AI research and guards against its national security and societal dangers."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Foster pushes targeted rules for how AI is used in finance: SEC oversight of AI agents trading for retail investors and regulator authority over banks' third-party tech vendors. His focus is specific fixes, not breaking up Big Tech.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Foster, Sherman seek regulatory clarity on agentic AI trading (letter to SEC Chair Atkins)",
+"url": "https://foster.house.gov/media/press-releases/foster-sherman-seek-regulatory-clarity-agentic-ai-trading",
+"date": "2026-06-24",
+"quote": "The AI firms developing and deploying these agents have thus far operated largely outside the securities regulatory framework, even though their systems are making or enabling consequential investment decisions on behalf of retail investors.",
+"what_it_shows": "He wants AI developers and brokerages held to investor-protection rules when AI agents trade for people."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Foster introduces bill to improve financial sector security amid rising AI risks",
+"url": "https://foster.house.gov/media/press-releases/rep-foster-introduces-bill-improve-financial-sector-security-amid-rising-ai",
+"date": "2026-09-02",
+"quote": "As AI makes cyberattacks more sophisticated, it is even more important to ensure that third-party vendors don't become a weak link in our financial system",
+"what_it_shows": "His bill would let NCUA and FHFA oversee the technology vendors that credit unions and housing finance firms rely on."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Foster opposes federal preemption of state AI laws. He cosponsored the GUARDRAILS Act, signed the November 2025 letter against reviving the moratorium, and says states should lead until Congress acts.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8031, GUARDRAILS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "The bill would protect states' ability to pass and enforce their own AI laws."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Foster is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "He joined House Democrats telling leaders not to preempt state AI laws through the defense bill or an executive order."
+},
+{
+"type": "interview",
+"title": "Chicago Sun-Times: Illinois Democrats weigh pros and cons of using AI",
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"date": "2026-07-06",
+"quote": null,
+"what_it_shows": "The paper reports Foster says states, or a coalition of states, should take the lead on AI rules until Congress acts."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Foster is a leading voice for tighter chip export enforcement. He drafted the idea of location verification for exported AI chips, cosponsored the Chip Security Act, and warns China's military could use smuggled chips.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3447, Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "The bill requires location verification on advanced AI chips so smuggling to China can be detected."
+},
+{
+"type": "interview",
+"title": "Reuters exclusive: US lawmaker targets Nvidia chip smuggling to China with new bill (reposted on foster.house.gov)",
+"url": "https://foster.house.gov/media/in-the-news/reuters-exclusive-us-lawmaker-targets-nvidia-chip-smuggling-china-new-bill",
+"date": "2025-05-05",
+"quote": "It is a problem now, and at some point we're going to discover that the Chinese Communist Party, or their military, is busy designing weapons using large arrays of chips",
+"what_it_shows": "He treats chip smuggling to China as an urgent national security threat and wants chips that will not boot without a valid export license."
+}
+]
+}
+},
+"search_notes": "Ran news searches for Foster with artificial intelligence, data center, chips/Nvidia/export controls, preemption/moratorium, select committee, and bank run; listed 79 archived foster.house.gov URLs and read 12 releases and reposted articles; read the Sun-Times July 2026 delegation piece, USA Today Sept 11 2026 select committee story, IAPP recap of his Politico statement, and the Matsui letter PDF (downloaded and parsed locally; Foster is a signer; he is not on the Clarke letter). Verified H.R. 7977 cosponsorship on govtrack. Did not find any Foster statement on Nvidia H20/H200 sales specifically; Banking Dive bank-run article could not be opened."
+},
+{
+"bioguide": "B001295",
+"name": "Mike Bost",
+"signature": "No notable public AI activity found beyond cosponsoring the DEFIANCE Act on sexual deepfakes; chairs the House Veterans' Affairs Committee, which oversees the VA's use of AI in claims.",
+"notable_quote": null,
+"groups": [
+"House Committee on Veterans' Affairs (Chairman)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. Searched news for Bost with data center, electricity and ratepayers, and scanned his press release index; found only farmland and solar siting items, nothing on data centers.",
+"evidence": []
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Bost's only AI-related action found is cosponsoring the DEFIANCE Act, which lets victims sue over AI-made sexual deepfakes. No speeches or statements on broader AI risk were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3562, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-21",
+"quote": null,
+"what_it_shows": "He supports a civil right to sue over nonconsensual AI sexual deepfakes, a targeted guardrail."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Bost cosponsored a bill to crack down on foreign scam robocalls, a narrow consumer protection fix. No positions found on Section 230, antitrust or kids online safety.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6152, Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2025-12-15",
+"quote": null,
+"what_it_shows": "He backs a specific rule against scam robocalls entering the United States."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on preempting state AI laws. He voted for the House version of H.R. 1 in May 2025, which contained the 10-year state AI moratorium, but that was a vote on the whole tax and spending package and he has not spoken about the AI provision.",
+"evidence": [
+{
+"type": "vote",
+"title": "House passage of H.R. 1 (reconciliation bill including the state AI moratorium), May 22, 2025: Bost voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A package vote that included the moratorium; nearly all Republicans voted yes for many reasons, so it is weak evidence of his view on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China. Searches for Bost with chips, Nvidia, export controls and TikTok returned only unrelated items.",
+"evidence": []
+}
+},
+"search_notes": "Ran news searches for Bost with AI/artificial intelligence, data center/electricity/ratepayers, deepfake/chatbot/Big Tech/Section 230, China/chips/export controls, VA AI claims, and reconciliation/moratorium; listed archived bost.house.gov URLs (only pre-2024 energy items) and scanned his live press release index; confirmed VA Committee chairmanship at veterans.house.gov; checked govtrack for H.R. 9340 and H.R. 10169 cosponsors (not on either) and the H.R. 1 roll call. Nothing beyond the two record cosponsorships surfaced."
+},
+{
+"bioguide": "B001315",
+"name": "Nikki Budzinski",
+"signature": "Ranking Democrat on the VA technology subcommittee who presses the VA over error-prone AI claims tools and veterans' data going to AI vendors; says a data center must prove it will not raise a single resident's bill.",
+"notable_quote": {
+"text": "a data center developer would have to come in and make the case that that development is not going to increase a single resident's utility bill by $1",
+"date": "2026-08-27",
+"url": "https://ipmnewsroom.org/congresswoman-nikki-budzinski-discusses-her-record-makes-case-for-third-term/"
+},
+"groups": [
+"House Committee on Veterans' Affairs, Subcommittee on Technology Modernization (Ranking Member)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Budzinski says data center developers must show they will not raise any resident's utility bill and be held accountable to that promise, and she flags water, noise and environmental concerns. She also sees tax benefits for communities, and was an original cosponsor of the Energy Bills Relief Act.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor of H.R. 7977, Energy Bills Relief Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "She backed from day one the House Democratic bill to make data centers cover their own grid costs."
+},
+{
+"type": "interview",
+"title": "IPM Newsroom (Illinois Public Media): Budzinski discusses her record, makes case for third term",
+"url": "https://ipmnewsroom.org/congresswoman-nikki-budzinski-discusses-her-record-makes-case-for-third-term/",
+"date": "2026-08-27",
+"quote": "a data center developer would have to come in and make the case that that development is not going to increase a single resident's utility bill by $1",
+"what_it_shows": "Her test for data centers is no bill increases plus transparency and accountability; she also notes water and noise concerns and possible tax benefits."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Budzinski's AI concerns are practical and targeted: she says the VA's AI and automation pilots produce incorrect information and warns AI can re-identify people from anonymized data. She wants safeguards on how vendors use veterans' data, not broad AI rules.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Nextgov: AI won't replace human claims processors, VA officials say, as Democrats worry over staffing levels",
+"url": "https://www.nextgov.com/artificial-intelligence/2026/07/ai-wont-replace-human-claims-processors-va-officials-say-democrats-worry-over-staffing-levels/414753/",
+"date": "2026-07-14",
+"quote": "I hear from employees that the so-called fixes that VA has pushed, like automation and pilots of artificial intelligence tools, often produce incorrect information, compounding issues and slowing production",
+"what_it_shows": "As subcommittee ranking member she is skeptical that AI tools fix VA claims backlogs and says they cannot replace staff."
+},
+{
+"type": "hearing",
+"title": "FedScoop: Lawmakers aim to prevent sale of veterans' data for AI, scams",
+"url": "https://fedscoop.com/lawmakers-aim-to-prevent-sale-of-veterans-data-for-ai-scams/",
+"date": "2026-03-26",
+"quote": "AI has proven that, given enough information, the technology is more than capable of re-identifying individuals.",
+"what_it_shows": "She argues AI makes even de-identified veteran data unsafe in vendors' hands and wants contract safeguards."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Budzinski favors targeted privacy and security rules: her Veteran DATA Act would bar VA contractors from selling veterans' data, and she cosponsored bills against Chinese-linked connected cars and against intimate deepfakes.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 7280, Veteran DATA Act (Veteran Data Accountability for Third-party Actors Act)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7280",
+"date": "2026-01-30",
+"quote": null,
+"what_it_shows": "Her bill would stop the VA from signing contracts that let vendors sell or monetize veterans' sensitive data, including for AI training."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-06-23",
+"quote": null,
+"what_it_shows": "She supports banning connected cars and car software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3106 (118th), Preventing Deepfakes of Intimate Images Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2024-02-13",
+"quote": null,
+"what_it_shows": "She backed making it illegal to share AI-made sexual images of real people."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on preempting state AI laws. She did not sign the November 2025 Matsui letter or the December 2025 Clarke letter, and her Nay vote on the House H.R. 1 package in May 2025 was a vote on the whole bill, not the AI moratorium.",
+"evidence": [
+{
+"type": "vote",
+"title": "House passage of H.R. 1 (reconciliation bill including the state AI moratorium), May 22, 2025: Budzinski voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A package vote against the whole bill; it does not show a specific view on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls. Her China-related tech work is about connected vehicles and farmland or grain terminal purchases, not chips.",
+"evidence": []
+}
+},
+"search_notes": "Ran news searches for Budzinski with artificial intelligence, data center, deepfake/chatbot/Big Tech, China/chips/preemption, veterans data AI, and AI jobs/labor; listed archived budzinski.house.gov URLs (mostly clean energy) and read her Feb 2025 subcommittee release; read the IPM Aug 2026 interview, Nextgov July 2026 hearing story, and FedScoop March 2026 story; verified H.R. 7977 original cosponsorship and H.R. 7280 sponsorship on govtrack; confirmed she is not on the Matsui or Clarke preemption letters. No statement found on frontier AI risk, preemption, or chips."
+},
+{
+"bioguide": "U000040",
+"name": "Lauren Underwood",
+"signature": "Sponsor of the House Data Center Water and Energy Transparency Act and cosponsor of two ratepayer-protection bills; little other public AI activity found.",
+"notable_quote": null,
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Underwood wants data centers to disclose their water and electricity use and to keep grid costs off household bills. She sponsored the House companion to Durbin's transparency bill and cosponsored the SHIELD Act and the Energy Bills Relief Act. No statements in her own words were found; the 1,000-acre Project Cardinal campus in Yorkville is in her district.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 9825, Data Center Water and Energy Transparency Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9825",
+"date": "2026-07-22",
+"quote": null,
+"what_it_shows": "Her bill would require data center operators to report energy and water use to states and federal agencies."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7066, SHIELD Act (joined July 22, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7066",
+"date": "2026-07-22",
+"quote": null,
+"what_it_shows": "She supports keeping families from paying higher electric bills caused by data centers."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor of H.R. 7977, Energy Bills Relief Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "She backed from day one the main House Democratic bill to make data centers pay their own grid costs."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI safety or risk as of Sept 2026. Searched news for Underwood with artificial intelligence, AI, chatbot and deepfake and scanned her press releases; found only maternal-health telehealth and ICE oversight items.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Underwood has backed narrow tech rules: she cosponsored the Kids PRIVACY Act in 2023 and, as Homeland Security vice chair in 2019, pressed Facebook, Twitter and LinkedIn to make it easier to report election disinformation.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 2801 (118th), Kids PRIVACY Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2801",
+"date": "2023-07-12",
+"quote": null,
+"what_it_shows": "She supports limits on how apps and websites collect and use kids' and teens' data."
+},
+{
+"type": "letter",
+"title": "Press release: Vice Chair Underwood, Chairman Thompson press top social media companies on reporting election misinformation",
+"url": "https://underwood.house.gov/media/press-releases/vice-chair-underwood-chairman-thompson-press-top-social-media-companies",
+"date": "2019-11-26",
+"quote": "Policies that affect users of social media platforms must be accessible and understandable to those users, in addition to industry experts and to the platforms' employees.",
+"what_it_shows": "She asked platform CEOs for clear user tools to report election disinformation, a targeted accountability step."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on preempting state AI laws. She did not sign the November 2025 Matsui letter or the December 2025 Clarke letter, and her Nay on the House H.R. 1 package in May 2025 was a vote on the whole bill, not the AI moratorium.",
+"evidence": [
+{
+"type": "vote",
+"title": "House passage of H.R. 1 (reconciliation bill including the state AI moratorium), May 22, 2025: Underwood voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A package vote against the whole bill; it does not show a specific view on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Ran news searches for Underwood with artificial intelligence/AI, data center plus Yorkville/Project Cardinal, Data Center Water and Energy Transparency Act/Energy Bills Relief/ComEd, deepfake/chatbot/Kids Online Safety/privacy, and AI surveillance; listed archived underwood.house.gov URLs and scanned three pages of her live press release index (no data center release posted); verified H.R. 9825 sponsorship and H.R. 7066 and H.R. 7977 cosponsorships on govtrack; confirmed she is not on the Matsui or Clarke preemption letters. Local Project Cardinal coverage (WSPY) did not quote her."
+}
+]

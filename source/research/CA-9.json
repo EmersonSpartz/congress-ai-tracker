@@ -1,0 +1,529 @@
+[
+{
+"bioguide": "C001123",
+"name": "Gilbert Ray Cisneros, Jr.",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. He voted No on the SPEED Act permitting bill in Dec 2025, but that vote was about permitting rules in general, not data centers specifically.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: voted Nay on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the Republican permitting-reform bill that backers said would speed energy and infrastructure build-out, but the vote was not framed around data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Supports targeted guardrails: he cosponsors a bill pausing DHS use of face recognition and AI surveillance tools, and in 2024 he called for federal labeling rules for AI-made media. Most of his other AI work is about helping small businesses use AI, not restricting it.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 9314, DHS Surveillance Technology Moratorium Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9314",
+"date": "2026-07-06",
+"quote": null,
+"what_it_shows": "He backs pausing the Homeland Security department's use of face recognition and other AI surveillance tools."
+},
+{
+"type": "statement",
+"title": "2024 election questionnaire, San Gabriel Valley Tribune: answer on deepfakes",
+"url": "https://www.sgvtribune.com/2024/10/14/gil-cisneros-congress-district-31-candidate-2024-election-questionnaire/",
+"date": "2024-10-14",
+"quote": "we need federal legislation requiring clear labeling of AI-generated or manipulated media, especially in political ads and public communication, so viewers know when they're seeing or hearing synthetic content",
+"what_it_shows": "In his own words he wants a federal labeling law for AI-generated media and accountability for platforms that host deepfakes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 5784, AI-WISE Act (SBA online AI lessons for small businesses)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5784",
+"date": "2025-11-17",
+"quote": null,
+"what_it_shows": "His main AI focus is helping small businesses understand and adopt AI safely, a neutral pro-adoption stance rather than a restriction."
+},
+{
+"type": "statement",
+"title": "Press release: Downing's AI-WISE Act passes House, listing Cisneros as a cosponsor",
+"url": "https://downing.house.gov/media/press-releases/downings-ai-wise-act-passes-house",
+"date": "2026-01-20",
+"quote": "Additional cosponsors of the legislation include Representatives Brian Fitzpatrick (PA-01), Josh Gottheimer (NJ-05), Gil Cisneros (CA-31), and Maggie Goodlander (NH-02).",
+"what_it_shows": "Confirms his bipartisan work on AI literacy for small businesses, which passed the House in January 2026."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Favors targeted fixes: he cosponsors the QUIET Act requiring AI robocalls to identify themselves, and in 2024 said platforms should be held accountable for flagging deepfakes. No broad Big Tech break-up or Section 230 positions found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 1027, QUIET Act (AI robocall disclosure and higher fines)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-03-25",
+"quote": null,
+"what_it_shows": "He supports a specific consumer-protection rule requiring AI-voiced robocalls to say so up front."
+},
+{
+"type": "statement",
+"title": "2024 election questionnaire, San Gabriel Valley Tribune: platform accountability for deepfakes",
+"url": "https://www.sgvtribune.com/2024/10/14/gil-cisneros-congress-district-31-candidate-2024-election-questionnaire/",
+"date": "2024-10-14",
+"quote": null,
+"what_it_shows": "He wrote that platforms hosting AI-generated content should be held accountable for identifying and flagging potential deepfakes, a targeted platform rule."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Wants states to keep regulating AI. He signed the Nov 2025 House Democratic letter opposing any moratorium on state AI laws and the planned executive order, and he is a cosponsor of the GUARDRAILS Act to protect state AI laws from federal preemption.",
+"evidence": [
+{
+"type": "letter",
+"title": "Signer of Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "His name appears on the signer list of the letter telling congressional leaders not to revive the state AI-law moratorium or override state laws by executive order."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8031, GUARDRAILS Act (protects states' right to pass AI laws)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "He joined the bill on the day it was introduced, which was also the day House Republican leaders and the White House pushed a national framework to preempt state AI laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls as of Sept 2026. Searches for Nvidia, export controls and China chips returned only stock-trade disclosure coverage, not policy statements or bills.",
+"evidence": []
+}
+},
+"signature": "Small Business Committee Democrat who pushes AI literacy for small firms, signed the Nov 2025 letter against a state AI-law moratorium and cosponsors the GUARDRAILS Act.",
+"notable_quote": {
+"text": "we need federal legislation requiring clear labeling of AI-generated or manipulated media, especially in political ads and public communication, so viewers know when they're seeing or hearing synthetic content",
+"url": "https://www.sgvtribune.com/2024/10/14/gil-cisneros-congress-district-31-candidate-2024-election-questionnaire/",
+"date": "2024-10-14"
+},
+"groups": [],
+"search_notes": "Queries: 'Gil Cisneros' artificial intelligence; Cisneros 'data center'; Cisneros chatbot/deepfake/Big Tech/Section 230; 'Gil Cisneros' AI small business/preemption; Cisneros 'AI Caucus'; Cisneros AI military/Armed Services; Cisneros small businesses AI hearing; Cisneros NDAA AI amendment; Cisneros DHS surveillance moratorium; Cisneros questionnaire; Cisneros GUARDRAILS. Read: cisneros.house.gov press index and committees page, Downing AI-WISE release, Matsui letter PDF (downloaded and text-extracted; Cisneros is on the signer list), Clarke Dec 3 2025 letter (not a signer), SGV Tribune 2024 questionnaire, GovTrack roll call h356, Casar Aug 2026 AI CEO hearings letter (not a signer), Washington Examiner Sept 2026 Liccardo recess letter (not named). The landscape lead listing him in the Congressional AI Caucus could not be verified: the caucus site did not resolve and his own committees-and-caucuses page (archived Jan 2025) does not list it, so it is omitted from groups. His only news hits on Nvidia/AMD were MarketBeat stock-trade notices (not opened). No data center or chips statements found."
+},
+{
+"bioguide": "S000344",
+"name": "Brad Sherman",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. He voted No on the SPEED Act permitting bill in Dec 2025, a general permitting vote rather than a data center position.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: voted Nay on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the Republican permitting-reform bill, but the vote was not framed around data centers."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "high",
+"summary": "Treats advanced AI as an existential danger and has since 2007. He has introduced a bill to fund a NIST program to detect and prevent self-aware, ambitious AI, wants a federal ban or strict disclosure rules on deepfakes, and cosponsored a bill keeping humans in control of nuclear launches. His concrete ask is government-funded safety research rather than licensing or a pause, which he says is politically unlikely.",
+"evidence": [
+{
+"type": "statement",
+"title": "Sherman.house.gov page: The AI Research and Threat Assessment Act",
+"url": "https://sherman.house.gov/ai-research-and-threat-assessment-act",
+"date": "2026-02-24",
+"quote": "It is not in the interest of Silicon Valley billionaires to spend money making sure that AI does not develop its own self-awareness, ambition, and objectives. Government must undertake this task.",
+"what_it_shows": "His bill would create a NIST program to monitor for and prevent AI self-awareness, ambition, self-replication and self-set goals; the page cites the book If Anyone Builds It, Everyone Dies and says the bill was developed with co-author Nate Soares."
+},
+{
+"type": "statement",
+"title": "Press release with full text: UCLA commencement address revisiting AI 21 years later",
+"url": "https://sherman.house.gov/media-center/press-releases/congressman-brad-delivers-ucla-commencement-revisits-artificial",
+"date": "2026-06-17",
+"quote": "Our species is devoting trillions of dollars to making artificial intelligence more powerful. We're devoting basically nothing to making sure that it is controllable.",
+"what_it_shows": "He told graduates AI poses an existential threat, said a research pause is unlikely because 'China will' be the excuse, and called his AI research bill the most important legislation he will ever introduce."
+},
+{
+"type": "statement",
+"title": "2024 election questionnaire, Los Angeles Daily News: answer on deepfakes",
+"url": "https://www.dailynews.com/2024/10/14/brad-sherman-congress-district-32-candidate-2024-election-questionnaire/",
+"date": "2024-10-14",
+"quote": "We need a federal ban, or at least strict disclosure requirements, on deep-fakes and other AI-generated images in our elections and in general.",
+"what_it_shows": "He wants binding federal rules on deepfakes and property rights for performers over AI copies of their likeness and voice."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 2894 (118th), Block Nuclear Launch by Autonomous Artificial Intelligence Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2023-05-24",
+"quote": null,
+"what_it_shows": "He backed a law requiring a human, not an AI, to make any nuclear launch decision."
+},
+{
+"type": "other",
+"title": "2007 keynote speech posted on his site: 'Engineered Intelligence: Creating a Successor Species'",
+"url": "https://sherman.house.gov/media-center/in-the-news/congressman-sherman-speech-on-artificial-intelligence",
+"date": "2007-12",
+"quote": "There is one issue that I think is more explosive than even the spread of nuclear weapons: engineered intelligence.",
+"what_it_shows": "Shows his AI-risk views are two decades old: he urged DARPA to avoid building self-aware or ambitious systems and compared superhuman AI to humans meeting Neanderthals."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Backs targeted rules on tech platforms: he cosponsored the Journalism Competition and Preservation Act aimed at Google and Facebook's power over news, the TikTok divest-or-ban law, reproductive data privacy limits, a ban on Chinese-linked connected-car tech, and a 2026 bill barring social media firms from selling early access to government posts.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Sherman cosponsors bill to address Big Tech's power over news organizations (JCPA)",
+"url": "https://sherman.house.gov/media-center/press-releases/sherman-cosponsors-bill-to-help-address-big-tech-s-power-over-news",
+"date": "2022-10-06",
+"quote": "with online platforms' monopolization of news content, our free press faces an extinction-level crisis at a time when vigorous journalism is needed now more than ever",
+"what_it_shows": "He framed Google and Facebook as monopolizing news content and backed letting publishers bargain collectively against them."
+},
+{
+"type": "statement",
+"title": "Press release: Sherman joins Financial Services Democrats introducing the NO PROFIT Act on social media companies",
+"url": "https://sherman.house.gov/media-center/press-releases/sherman-joins-financial-services-dems-introducing-bill-bar-social-media",
+"date": "2026-08-20",
+"quote": "The public deserves to hear from their elected officials first, not wall street traders",
+"what_it_shows": "He backs a specific rule barring social media companies from selling subscription-based early access to government officials' market-moving posts."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7521 (118th), Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "He supported forcing TikTok's sale or ban, a major intervention against a tech platform on national security grounds."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-08-17",
+"quote": null,
+"what_it_shows": "He backs banning connected-car software and parts from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3420 (118th), My Body, My Data Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "He supports limits on how apps and companies collect and share reproductive health data."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Opposes federal preemption of state AI laws. He signed the Nov 2025 letter from 81 House Democrats against reviving the state AI-law moratorium in the NDAA or through an executive order. No other statements on preemption were found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Signer of Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "His name appears on the signer list of the letter telling congressional leaders not to revive the state AI-law moratorium or override state laws by executive order."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "A consistent hawk on AI chip exports. He cosponsors the Chip Security Act (location tracking for advanced chips), the AI OVERWATCH Act (Congress can block chip sales to China), the Remote Access Security Act (closes the cloud loophole), the Export Controls Enforcement Act, and was an original cosponsor of the Dec 2025 RESTRICT Act to block sales of advanced AI chips to China.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3447, Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-06-06",
+"quote": null,
+"what_it_shows": "He backs requiring built-in location verification on advanced AI chips to catch smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6875, AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "He backs giving Congress power to block advanced AI chip sales to China and other risky countries before they happen."
+},
+{
+"type": "statement",
+"title": "House Foreign Affairs Democrats press release: Meeks introduces RESTRICT Act to block sales of advanced AI chips to China, listing Sherman as an original cosponsor",
+"url": "https://democrats-foreignaffairs.house.gov/2025/12/meeks-introduces-bill-to-block-sales-of-advanced-ai-chips-to-china",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He joined the Democratic bill responding to the Trump administration's decision to allow Nvidia H200 sales to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 2683, Remote Access Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"date": "2025-04-08",
+"quote": null,
+"what_it_shows": "He backs closing the loophole that lets Chinese firms use American AI chips through cloud services."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 4505, Export Controls Enforcement Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4505",
+"date": "2026-04-22",
+"quote": null,
+"what_it_shows": "He backs putting more export-control officers overseas to catch chip smuggling."
+}
+]
+}
+},
+"signature": "Congress's longest-running AI doomsayer: warned of superintelligent 'engineered intelligence' in 2007 and now pushes a NIST program to prevent self-aware AI, while also a hawk on chip exports to China.",
+"notable_quote": {
+"text": "Our species is devoting trillions of dollars to making artificial intelligence more powerful. We're devoting basically nothing to making sure that it is controllable.",
+"url": "https://sherman.house.gov/media-center/press-releases/congressman-brad-delivers-ucla-commencement-revisits-artificial",
+"date": "2026-06-17"
+},
+"groups": [],
+"search_notes": "Queries: 'Brad Sherman' artificial intelligence; 'Brad Sherman' 'data center' (results were an Iowa candidate of the same name); Sherman SEC 'AI agents'/'AI trading' (three variants); Sherman Nvidia/export controls/chips China; Sherman preemption/state AI laws/moratorium; Sherman Big Tech/Section 230/antitrust/KOSA; 'AI Research and Threat Assessment Act'; Sherman self-aware/Soares/Neanderthals; Sherman AI hearing Financial Services. Read: sherman.house.gov site listing, press index pages 0-2, the AI Research and Threat Assessment Act page, UCLA commencement release (full text), 2007 speech page, JCPA release, NO PROFIT Act release, caucus page (2022 archive, no AI caucus listed), Meeks RESTRICT Act release, Matsui letter PDF (Sherman on signer list), Clarke letter (not a signer), LA Daily News 2024 questionnaire, GovTrack h356. Not confirmed: the June 2026 House Democratic letter to the SEC on AI trading agents that several outlets reported (BeInCrypto, Law360, AdvisorHub, JD Supra); Google News links would not decode and no press release was found, so it is omitted. A bill number for the AI Research and Threat Assessment Act was not found on GovTrack search. The landscape lead listing him in the Congressional AI Caucus could not be verified at a URL and is omitted from groups. No data center statements found."
+},
+{
+"bioguide": "A000371",
+"name": "Pete Aguilar",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026, including in his 2026 primary questionnaire. He voted No on the SPEED Act permitting bill in Dec 2025, a general permitting vote rather than a data center position.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: voted Nay on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the Republican permitting-reform bill, but the vote was not framed around data centers."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on AI safety rules. His AI record is entirely about bringing federal grants home for AI workforce training and research centers in the Inland Empire, which he frames as preparing students for jobs; he has not said whether AI needs new rules.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Aguilar and Sen. Schiff deliver more than $1 million for Cal State San Bernardino AI research center",
+"url": "https://aguilar.house.gov/2026/08/31/rep-aguilar-sen-schiff-deliver-more-than-1-million-for-cal-state-san-bernardino-ai-research-center/",
+"date": "2026-08-31",
+"quote": "Here in the Inland Empire, it's essential that we invest in innovative technology training to ensure that young people entering the workforce have the tools they need to succeed",
+"what_it_shows": "He treats AI as a jobs and training opportunity for his district, not as a risk to regulate."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Aguilar delivers over $1 million to strengthen AI technology and workforce at CSUSB",
+"url": "https://aguilar.house.gov/2026/02/06/rep-aguilar-delivers-over-1-million-to-strengthen-ai-technology-and-workforce-at-california-state-university-san-bernardino",
+"date": "2026-02-06",
+"quote": "I am so proud to deliver $1 million in community project funding for CSUSB's Artificial Intelligence and Virtual Reality Research and Retraining Center to help prepare our next generation for the new age of technology.",
+"what_it_shows": "He secured earmark funding for an AI and VR retraining center focused on cybersecurity and logistics workers."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Aguilar announces $1 million to expand Inland Empire AI education and workforce development",
+"url": "https://aguilar.house.gov/2025/12/04/rep-aguilar-announces-1-million-to-expand-inland-empire-artificial-intelligence-education-and-workforce-development",
+"date": "2025-12-04",
+"quote": "As the artificial intelligence workforce rapidly expands and evolves, it is essential that students in the Inland Empire have the skills and knowledge they need to have successful careers in this growing field",
+"what_it_shows": "Again frames AI as a growing field to train workers for, with no mention of guardrails."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Only one relevant action found: he cosponsored the My Body, My Data Act in 2024 to limit collection of reproductive health data by apps and companies. No statements on Big Tech, Section 230 or kids online safety found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3420 (118th), My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2024-11-12",
+"quote": null,
+"what_it_shows": "He supports a targeted privacy rule on reproductive health data."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No position found. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI-law moratorium, and no statements on preemption or the Dec 2025 executive order were found, despite his role as House Democratic Caucus chair.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls as of Sept 2026; searches for Nvidia, export controls and China chips returned nothing.",
+"evidence": []
+}
+},
+"signature": "House Democratic Caucus chair whose only AI footprint is federal grants for AI workforce training in the Inland Empire; no public stance found on AI rules, data centers, preemption or chips.",
+"notable_quote": {
+"text": "Here in the Inland Empire, it's essential that we invest in innovative technology training to ensure that young people entering the workforce have the tools they need to succeed",
+"url": "https://aguilar.house.gov/2026/08/31/rep-aguilar-sen-schiff-deliver-more-than-1-million-for-cal-state-san-bernardino-ai-research-center/",
+"date": "2026-08-31"
+},
+"groups": [],
+"search_notes": "Queries: 'Pete Aguilar' artificial intelligence; 'Pete Aguilar' data center(s); Aguilar chatbot/deepfake/Big Tech/Section 230/KOSA; Aguilar AI Democratic Caucus/Jeffries; Aguilar AI moratorium/executive order/state laws; Aguilar electricity/energy bills/ratepayers; Aguilar AI press conference; Inland Empire Labor Day parade AI; Aguilar Democrats data centers midterms; Redlands Votes CA-33; 'Caucus Chair' Aguilar AI; Politico 'AI message' Democrats. Read: aguilar.house.gov site listing and site search for 'artificial intelligence' (all hits are grant announcements: Dec 2025 NSF grant, Feb 2026 CSUSB and Hope Through Housing AI labs, Aug 2026 GeoAI and AI research center), three of those releases in full, San Bernardino Sun Sept 6 2026 article, OC Register May 2026 primary questionnaire (no AI or data center content), Matsui and Clarke letters (not a signer of either), GovTrack h356, Casar Aug 2026 letter (not a signer), Washington Examiner Sept 2026 recess letter (not named). Politico May 4 2026 'Dems' AI message narrower than voters' fears' and the IE Community News Labor Day parade story could not be opened (undecodable links). No AI-rule, data center, preemption or chips statements found."
+},
+{
+"bioguide": "G000585",
+"name": "Jimmy Gomez",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. He voted No on the SPEED Act permitting bill in Dec 2025, a general permitting vote rather than a data center position.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: voted Nay on H.R. 4776, the SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the Republican permitting-reform bill, but the vote was not framed around data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Mixed but leaning toward targeted guardrails. He co-led the Facial Recognition Act to limit police face scanning after the technology falsely matched him to a mugshot, and cosponsors bills against AI price gouging and intimate deepfakes. At the same time he is endorsed by the industry super PAC Leading the Future, advocacy groups pressed him to disavow it, and no response from him was found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Reps. Lieu, Jackson Lee, Clarke, Gomez, Ivey and Veasey introduce the Facial Recognition Act",
+"url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-jackson-lee-clarke-gomez-ivey-and-veasey-introduce-bill",
+"date": "2023-10-27",
+"quote": "This technology is being used every day, with mixed results, in neighborhoods across the country and any false readout can be deadly, especially for communities of color.",
+"what_it_shows": "In his own words he wants warrants and accuracy checks before police use face recognition, citing the 2019 test that falsely matched him and 27 colleagues to arrest photos."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 4695, Facial Recognition Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4695",
+"date": "2025-07-23",
+"quote": null,
+"what_it_shows": "He re-upped the police face recognition limits bill in the 119th Congress."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2026-07-30",
+"quote": null,
+"what_it_shows": "He backs banning companies from using AI and personal data to charge people different prices or pay workers different wages."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3106 (118th), Preventing Deepfakes of Intimate Images Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2024-02-23",
+"quote": null,
+"what_it_shows": "He backed making it illegal to share AI-made sexual images of real people and letting victims sue."
+},
+{
+"type": "pac",
+"title": "CNBC: Leading the Future endorses five House Democrats including Gomez; anti-Big Tech coalition asks them to disavow it",
+"url": "https://www.cnbc.com/2026/04/15/ai-2026-elections-midterms-campaign-donations.html",
+"date": "2026-04-15",
+"quote": "It also recently endorsed five House Democrats: Reps. Josh Gottheimer (D-N.J.), Sam Liccardo (D-Calif.), Yvette Clarke (D-N.Y.), Suhas Subramanyam (D-Va.) and Jimmy Gomez (D-Calif.).",
+"what_it_shows": "The $140 million pro-AI-industry super PAC network backed him, and groups led by the Tech Oversight Project sent him a letter asking him to disavow it."
+},
+{
+"type": "pac",
+"title": "The New Republic: Think Big (Leading the Future's Democratic arm) endorsed Gomez without financial support",
+"url": "https://newrepublic.com/post/215341/anthropic-ai-regulate-money-extinction",
+"date": "2026-09-11",
+"quote": "Think Big has also offered endorsements (but not financial support) to Sam Liccardo, Josh Gottheimer, Jimmy Gomez, Tom Suozzi, Eric Sorensen, Joyce Beatty, Herb Conaway, Emilia Sykes, and Suhas Subramanyam.",
+"what_it_shows": "Confirms the endorsement is public but that no independent spending on his behalf had been reported as of Sept 2026."
+},
+{
+"type": "pac",
+"title": "Semafor: poll commissioned by Guardrails Alliance shows the Leading the Future endorsement is a liability for Gomez",
+"url": "https://www.semafor.com/article/09/10/2026/california-dem-faces-election-turbulence",
+"date": "2026-09-11",
+"quote": "Gonzales-Torres leads 63% to Gomez's 22% after voters are told he is backed by Leading the Future.",
+"what_it_shows": "The anti-AI-money group Guardrails Alliance is testing the super PAC endorsement as an attack line in his Democrat-versus-Democrat general election."
+},
+{
+"type": "pac",
+"title": "AI Money Watch profile: Jimmy Gomez, endorsed by Leading the Future, no independent expenditures reported",
+"url": "https://aimoneywatch.org/people/jimmy-gomez-ca-34",
+"date": null,
+"quote": "Leading the Future has publicly endorsed this candidate but has not yet reported any independent expenditures in this race.",
+"what_it_shows": "Watchdog tracking of FEC filings shows endorsement only, no money spent, as of the page's last update."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward targeted rules based on two 118th Congress cosponsorships: limits on collecting reproductive health data and a ban on landlords using shared pricing algorithms to push up rents. No statements on Big Tech, Section 230 or kids online safety found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3420 (118th), My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2024-04-09",
+"quote": null,
+"what_it_shows": "He supports a targeted privacy rule on reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8622 (118th), Preventing the Algorithmic Facilitation of Rental Housing Cartels Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8622",
+"date": "2024-06-05",
+"quote": null,
+"what_it_shows": "He backed making it illegal for landlords to coordinate rents through shared software algorithms."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No position found. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI-law moratorium, is not a GUARDRAILS Act cosponsor, and no statements on preemption or the Dec 2025 executive order were found.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls as of Sept 2026; searches for Nvidia, export controls, China chips and TikTok returned nothing, despite his seat on the Intelligence Committee.",
+"evidence": []
+}
+},
+"signature": "Los Angeles Democrat who co-led the Facial Recognition Act and backs limits on AI pricing and intimate deepfakes, yet is endorsed by the pro-industry Leading the Future super PAC, now an attack line in his 2026 race.",
+"notable_quote": {
+"text": "This technology is being used every day, with mixed results, in neighborhoods across the country and any false readout can be deadly, especially for communities of color.",
+"url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-jackson-lee-clarke-gomez-ivey-and-veasey-introduce-bill",
+"date": "2023-10-27"
+},
+"groups": [],
+"search_notes": "Queries: 'Jimmy Gomez' artificial intelligence; 'Jimmy Gomez' 'Leading the Future'; 'Jimmy Gomez' data center(s); Gomez chatbot/deepfake/facial recognition; Gomez LTF disavow/Tech Oversight response; Gomez Gonzales-Torres AI/super PAC; Gomez Nvidia/export controls/chips/TikTok; Gomez preemption/state AI laws/Big Tech/Section 230; 'Rep. Gomez' AI workers/price gouging; Hogg 'Leaders We Deserve' Gomez; 'Rep. Jimmy Gomez' 'artificial intelligence'; Gomez CA-34 debate AI. Read: Semafor Sept 11 2026, CNBC Apr 15 2026, New Republic Sept 11 2026, AI Money Watch profile and people list, Lieu Oct 2023 Facial Recognition Act release, gomez.house.gov press release pages 1-2 (no AI items; site is dominated by ethics, fire relief and immigration news), his campaign issues page (no AI plank), Matsui and Clarke letters (not a signer of either), GovTrack h356, Casar Aug 2026 letter (not a signer), Washington Examiner Sept 2026 recess letter (not named). Could not open: Politico Aug 27 2026 'Hogg group takes on Jimmy Gomez', The Intercept June 3 2026, LA Progressive July 2026, VentureBeat 2020 interview (rate-limited), Politico CA Playbook (403). No statement from Gomez responding to the Leading the Future endorsement or the disavowal letter was found. Much 2026 coverage concerns a House Ethics sexual misconduct investigation, which is not AI-related."
+}
+]

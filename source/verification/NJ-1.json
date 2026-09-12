@@ -1,0 +1,227 @@
+[
+{
+"bioguide": "B001288",
+"checks": [
+{
+"url": "https://broadbandbreakfast.com/senate-bill-to-offset-data-centers-impact-on-energy-costs-introduced/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-23",
+"note": "Article (Jan 23, 2026) says Van Hollen's Power for the People Act 'has received support from seven other Democratic senators' and tags Cory Booker among them (with Durbin, Duckworth, Smith, Alsobrooks, Welch). Bill described as requiring data centers to build on-site power and pay for local transmission upgrades so costs are not shifted to ratepayers. Booker appears only in the tag list, not in body text, but the support claim is supported."
+},
+{
+"url": "https://www.booker.senate.gov/news/press/booker-kim-lead-members-of-nj-congressional-delegation-in-letter-to-pjm-interconnection-pjm-raising-serious-concerns-over-rate-increase-impacting-new-jersey-families",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "booker.senate.gov returned 403 on two fetch attempts and via WebFetch; Wayback Machine connection refused / rate-limited from this session. Could not verify the data-center attribution or the new-generation request."
+},
+{
+"url": "https://www.markey.senate.gov/news/press-releases/senator-markey-colleagues-call-for-state-energy-regulators-to-protect-ratepayers-from-data-center-related-cost-hikes",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "markey.senate.gov returned 403 on two fetch attempts and via WebFetch; Wayback returned 404 / connection refused. Could not confirm Booker is a signer or the letter's contents."
+},
+{
+"url": "https://pressley.house.gov/2025/12/03/pressley-clarke-markey-reintroduce-ai-civil-rights-act-to-eliminate-ai-discrimination/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Page lists 'Senators Mazie Hirono (D-Hawaii), Cory Booker (D-N.J.), Jeff Merkley (D-Ore.), and Elizabeth Warren (D-Mass)' as cosponsors, and describes the bill as preventing companies from using biased AI algorithms for critical decisions and ensuring 'algorithms are tested before and after deployment.' National Urban League quote also thanks 'Senators Markey and Booker.'"
+},
+{
+"url": "https://vtdigger.org/2026/04/27/lawmakers-on-capitol-hill-are-learning-to-love-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-27",
+"note": "Quote appears verbatim, attributed 'Booker told NOTUS.' Article says Booker leads online engagement for his caucus and 'is now also pushing them to adopt AI.' Claim supported."
+},
+{
+"url": "https://fedscoop.com/create-ai-act-senate-bill-nairr/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-01",
+"note": "Article (May 1, 2026) names Booker as a sponsor of S.4441 with Heinrich, Young and Rounds; quote appears verbatim as a partial sentence: the bill 'ensures that the future of AI research isn't shaped only by a small number of large companies,' attributed to Booker."
+},
+{
+"url": "https://vtdigger.org/2026/04/27/lawmakers-on-capitol-hill-are-learning-to-love-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-27",
+"note": "Quote appears verbatim near the end of the article: 'Booker told NOTUS: \"I think that we are in a moment of technology acceleration like we've never seen before. I do not want my party to be caught flat-footed and not engaging, not experimenting, and innovating in this space.\"'"
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the checked sources shows a broad 'rein in Big Tech' stance. The only tech-regulation evidence here is cosponsoring the AI Civil Rights Act (targeted anti-discrimination rules) and the CREATE AI Act, which is a public-research bill, not a regulation of large platforms. Unless other sources document antitrust or platform-breakup positions, -2 is stronger than the evidence supports.",
+"suggested_score": -1,
+"suggested_label": "Targeted rules"
+},
+{
+"dimension": "preemption",
+"objection": "No checked source addresses federal preemption of state AI laws at all. A -2 'Let states regulate' score has no support in this item set; it needs a source (e.g., a vote or statement on the state AI-law moratorium) or should be left unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "K000394",
+"checks": [
+{
+"url": "https://www.kim.senate.gov/press_release/kim-booker-lead-members-of-nj-congressional-delegation-in-letter-to-pjm-interconnection-pjm-raising-serious-concerns-over-rate-increase-impacting-new-jersey-families/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "kim.senate.gov returns 403 to the fetch tool and to WebFetch; Wayback Machine refused connections / rate-limited (429) on three attempts. Could not verify the data-center linkage or the $14.7B figure from this session."
+},
+{
+"url": "https://hudsonvalley.news12.com/sens-kim-husted-introduce-bipartisan-bill-to-regulate-ai-companion-chatbots-for-minors",
+"verdict": "confirmed",
+"corrected_quote": "We all just want peace of mind that our kids will be okay growing up in this era of algorithms and AI. That's why we need guardrails in place to keep up with ever-evolving technology like chatbots and make sure our kids' safety, mental health, and well-being are always put first",
+"corrected_date": "2026-07-30",
+"note": "Quote is verbatim but truncated mid-sentence; full sentence supplied. Page confirms age verification, parental controls/notification, bans on self-harm encouragement, sexual content and romantic conversations with minors, enforcement by FTC and state AGs. Page does not cite the bill number S.5154 (unverified here). Dated Jul 30, 2026."
+},
+{
+"url": "https://www.biometricupdate.com/202608/us-senators-propose-operating-system-based-age-assurance-framework",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-04",
+"note": "Quote verbatim. Article lists Kim first among sponsors (Kim, Schiff, Lummis, Barrasso) and describes the OS-based age-signal framework as an alternative to government ID or facial scans. Bill number S.5090 not stated on the page."
+},
+{
+"url": "https://vtdigger.org/2026/04/27/lawmakers-on-capitol-hill-are-learning-to-love-ai/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-27",
+"note": "Quote verbatim (apostrophes are curly on the page). Page says Kim envisions AI building a more responsive government, e.g. better constituent services, and quotes him saying 'Everybody needs to get deeper in on this.'"
+},
+{
+"url": "https://www.biometricupdate.com/202608/us-senators-propose-operating-system-based-age-assurance-framework",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-04",
+"note": "Page states FTC and state AGs enforce, and that the bill 'would preempt state laws only when they conflicted with its provisions and would preserve federal or state requirements that provided protections at least as strong.' Kim is listed as lead sponsor."
+},
+{
+"url": "https://www.commerce.senate.gov/press/dem/release/cantwell-commerce-committee-democrats-call-for-regular-order-on-dangerous-and-damaging-commerce-title-of-reconciliation-bill-2025-6/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "commerce.senate.gov returns 403 to both fetch tools; Wayback Machine refused connections and rate-limited on retries. Kim's signature and the 'trampling states' rights' language remain unverified from this session."
+},
+{
+"url": "https://www.aljazeera.com/economy/2025/12/4/us-senators-unveil-bill-to-keep-trump-from-allowing-ai-chip-sales-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-04",
+"note": "Quote verbatim. Page confirms the bill would require Commerce to deny licences for more-advanced AI chips to China/Russia/Iran/North Korea for 30 months, then brief Congress a month before rule changes; Kim named as Democratic co-sponsor."
+},
+{
+"url": "https://broadbandbreakfast.com/bipartisan-bill-targets-chinas-access-to-u-s-semiconductor-technology/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-15",
+"note": "Quote verbatim (page uses non-breaking hyphens in R‑Neb./D‑N.J.). Page confirms MATCH Act restricts DUV lithography and advanced etching tools to China and requires allies to adopt similar restrictions within 150 days or face FDPR action; Ricketts and Kim introduced Senate companion April 8."
+},
+{
+"url": "https://www.banking.senate.gov/newsroom/minority/warren-schumer-colleagues-press-lutnick-on-administrations-decision-to-sell-out-us-national-and-economic-security-by-greenlighting-the-sale-of-h200-chips-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-12",
+"note": "Verified via Wayback snapshot (2026-06-12). Release dated December 12, 2025 names Andy Kim (D-NJ) among seven Democratic signers (Warren, Schumer, Wyden, Kim, Bennet, Kaine, Slotkin) objecting to NVIDIA H200 exports to China."
+},
+{
+"url": "https://hudsonvalley.news12.com/sens-kim-husted-introduce-bipartisan-bill-to-regulate-ai-companion-chatbots-for-minors",
+"verdict": "confirmed",
+"corrected_quote": "We all just want peace of mind that our kids will be okay growing up in this era of algorithms and AI. That's why we need guardrails in place to keep up with ever-evolving technology like chatbots and make sure our kids' safety, mental health, and well-being are always put first",
+"corrected_date": "2026-07-30",
+"note": "Same source as item 2; quote verbatim but cut mid-sentence, full sentence supplied."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "The only source for the -2 position (the Cantwell letter opposing the AI moratorium) is unverified: the Senate site blocked every fetch and no mirror was reachable. The one verified preemption-relevant source is Kim's own Digital Age Assurance Act, which creates a national framework that preempts conflicting state laws while preserving stronger state protections. That is a states-leaning national rule, not 'let states regulate'. Evidence supports -1, not -2.",
+"suggested_score": -1,
+"suggested_label": "Leans states"
+}
+]
+},
+{
+"bioguide": "N000188",
+"checks": [
+{
+"url": "https://www.booker.senate.gov/imo/media/doc/pjm_letter_5225final.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-02",
+"note": "Direct fetch returns 403 (booker.senate.gov blocks bots), but a Wayback copy of the 3-page PDF was retrieved and text-extracted. Letter is dated May 2, 2025 (not June; June 1, 2025 is when the rate increase took effect), addressed to PJM chair Takahashi and CEO Asthana. Signer block lists 'Donald Norcross, Member of Congress' alongside Booker, Kim, Pallone, McIver, Conaway, Gottheimer, Sherrill, Pou. Body attributes the capacity-auction spike to 'growing demand on the grid from data centers and advanced computer technology, along with an insufficient increase in new generation' and cites the $14.7B ratepayer cost and 17%+ NJ bill increase. Claim fully supported."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF fetched directly (HTTP 200) and text-extracted. Dated November 26, 2025, addressed to Johnson, Thune, Jeffries, Schumer. Quote appears verbatim: 'Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.' 'Donald Norcross' appears in the signer list (line 167 of extracted text). Letter opposes both an NDAA AI moratorium on state/local AI laws and a proposed executive order preempting state AI laws. Supports preemption -2."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "Score is null but the verified May 2, 2025 PJM letter he signed frames data-center load as the driver of a $14.7B ratepayer cost and a 17%+ NJ bill increase, and asks PJM to prevent 'unnecessary price spikes' while speeding clean generation onto the grid. That is a ratepayer-first position, not a pause and not a build-faster stance. Evidence is a single delegation letter, so confidence is modest, but it is enough for a leaning score rather than no position.",
+"suggested_score": -1,
+"suggested_label": "Protect ratepayers first"
+}
+]
+},
+{
+"bioguide": "V000133",
+"checks": [
+{
+"url": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=1964",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Quote appears verbatim. Page describes Trump's proposal urging grid operators to explore an emergency power auction making major tech companies and large data centers directly help fund new generation, and Van Drew says 'President Trump is exactly right.' Claim supported."
+},
+{
+"url": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=1886",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-23",
+"note": "Quote verbatim. Release blames Murphy's shutdown of plants/offshore wind spending for shrinking generation, defends PJM, and says AI/data center demand will worsen the crisis. Claim supported."
+},
+{
+"url": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=1820",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-02-11",
+"note": "Quote verbatim and he is lead sponsor with Rep. Dean. However the release never mentions AI, deepfakes, or artificial intelligence; it is about non-consensual intimate image distribution and sextortion generally. Framing it as an AI-risk statement overstates it."
+},
+{
+"url": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=1964",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Headline quote appears verbatim on the page (the full sentence continues 'because of new energy needs they did not create')."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only ai_risk source is the SHIELD Act release, which does not mention AI at all (no 'AI', 'artificial intelligence', or 'deepfake' on the page). It is a general image-based abuse bill. There is no evidence in the provided sources of a position on AI risk regulation, so -1 'Targeted guardrails' is not supported.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "preemption",
+"objection": "None of the four sources touch on federal preemption of state AI laws; the +1 'Leans national rule' score has no supporting evidence among the checked items.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

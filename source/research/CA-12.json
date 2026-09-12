@@ -1,0 +1,636 @@
+[
+{
+"bioguide": "W000187",
+"name": "Maxine Waters",
+"signature": "Top Democrat on Financial Services who pushes AI guardrails in banking and housing, attacked the state AI law moratorium and executive order, and cosponsored the AI data center moratorium bill.",
+"notable_quote": {
+"text": "The stakes are too high, the risks are too great, and the consequences too real to hand this technology over to Big Tech billionaires with no guardrails and no accountability.",
+"url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=414017",
+"date": "2025-12-10"
+},
+"groups": [
+"Ranking Member, House Committee on Financial Services (119th Congress)",
+"House Financial Services Committee Bipartisan Working Group on Artificial Intelligence (118th Congress), co-founder as Ranking Member",
+"House Financial Services Committee Task Force on Artificial Intelligence (2019, created while she was Chair)"
+],
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "medium",
+"summary": "Waters cosponsored the AI Data Center Moratorium Act, which would pause new AI data centers until their effects on power bills and the environment are worked out. She also voted against the SPEED Act permitting bill. No speeches or press releases from her on data centers were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9442, Artificial Intelligence Data Center Moratorium Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+"date": "2026-07-13",
+"quote": null,
+"what_it_shows": "Signing onto a bill that pauses new AI data center construction is the clearest pause-or-block position available."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776, the SPEED Act permitting reform bill (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted against a permitting-streamlining bill that data center builders backed; a weak signal since almost all Democrats voted no."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Waters wants binding transparency, anti-bias and consumer safeguards for AI in finance and housing, and she opposed a Republican bill she said would give AI firms a pass on consumer laws. She frames this as responsible innovation with standards, not a pause or licensing regime.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement at Financial Services hearing on AI innovation in financial services",
+"url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=414017",
+"date": "2025-12-10",
+"quote": "Any legislative efforts by Congress must ensure that consumers and investors understand the AI they are interacting with in the financial services space, while giving companies meaningful standards they can innovate under.",
+"what_it_shows": "She calls for mandatory transparency and standards, cites chatbots harming minors and AI job losses, and opposes a GOP bill she says exempts AI firms from consumer, housing and securities laws."
+},
+{
+"type": "letter",
+"title": "Letter to big bank CEOs demanding a briefing on AI cyber threats identified by Anthropic's Mythos model",
+"url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=415339",
+"date": "2026-06-08",
+"quote": "I am deeply concerned that the Committee has not been briefed by your banks on how you are confronting the heightened risks of cybersecurity vulnerabilities identified by Mythos",
+"what_it_shows": "She treats increasingly powerful AI models as a financial stability and cybersecurity risk that demands oversight."
+},
+{
+"type": "other",
+"title": "Request for Information on AI risks and modernization in financial services",
+"url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=415374",
+"date": "2026-07-07",
+"quote": "help inform a modern federal framework that encourages responsible innovation while protecting consumers, investors, small businesses, and our nation's financial markets",
+"what_it_shows": "She is building toward a federal AI framework for finance that pairs innovation with consumer protection and asks where Congress may need to act."
+},
+{
+"type": "statement",
+"title": "Press release: GAO reports on AI and property technology risks to housing, requested by Waters and Warren",
+"url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413998",
+"date": "2025-12-03",
+"quote": "highlights how the real estate industry's use of artificial intelligence and PropTech can distort housing prices, perpetuate housing discrimination, reduce market transparency, and limit access to credit",
+"what_it_shows": "She used oversight tools to document AI harms in housing, including algorithmic rent-setting and discrimination."
+},
+{
+"type": "hearing",
+"title": "Opening statement at Financial Services hearing on AI applications in financial services and housing",
+"url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=412636",
+"date": "2024-07-23",
+"quote": "AI is built by humans and relies on data that may reflect bias and systemic inequities or perpetuate discrimination.",
+"what_it_shows": "She pushed draft legislation requiring disclosure of when products use AI and what data trained them, a targeted transparency rule."
+},
+{
+"type": "statement",
+"title": "Press release: Waters, McHenry, Hill and Lynch release bipartisan AI Working Group staff report",
+"url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=412620",
+"date": "2024-07-18",
+"quote": "this Committee will not only lead the way in overseeing Al to ensure equity, fairness, and privacy, but also get to work on crafting legislation",
+"what_it_shows": "She co-led a bipartisan working group whose report urged regulators to enforce existing anti-discrimination laws on AI and to close regulatory gaps."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.J.Res. 187, disapproving the Medicare WISeR AI prior-authorization model",
+"url": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/187",
+"date": "2026-06-23",
+"quote": null,
+"what_it_shows": "She backed blocking a Medicare experiment that would let contractors use AI to approve or deny treatments."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8858 (118th), Securing Elections From AI Deception Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "She supported banning AI deepfakes that deceive voters, a targeted guardrail."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "medium",
+"summary": "Waters wants stronger privacy rules that let people control their data, tougher antitrust enforcement against large corporations, and no legal pass for Big Tech. Most of her record is in banking and housing rather than platform regulation.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement at Financial Services hearing on updating the financial privacy framework",
+"url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=415280",
+"date": "2026-03-17",
+"quote": "Consumers should decide who gets access to their information and how it is used.",
+"what_it_shows": "She calls for stronger protections against corporations and data brokers misusing personal data, a strong-privacy-law position."
+},
+{
+"type": "statement",
+"title": "Press release: Waters and Booker introduce the Fair Competition for Small Business Act to strengthen antitrust law",
+"url": "https://waters.house.gov/media-center/press-releases/waters-booker-introduce-fair-competition-act-to-safeguard-small-businesses-and-strengthen-antitrust-laws",
+"date": "2025-12-18",
+"quote": "For far too long, large retailers have been able to use their market power to demand price concessions from suppliers that smaller retailers are unable to secure",
+"what_it_shows": "She sponsors legislation to expand antitrust enforcement against dominant companies, though the bill targets big retailers rather than tech platforms."
+},
+{
+"type": "hearing",
+"title": "Opening statement at Financial Services hearing on AI innovation in financial services",
+"url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=414017",
+"date": "2025-12-10",
+"quote": "Democrats are not going to sit by and watch Trump and Republicans allow Big Tech to forcibly experiment on our communities.",
+"what_it_shows": "She opposed a Republican bill she said would let AI and Big Tech creators off the hook when they violate consumer, housing, banking or securities laws."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-08-17",
+"quote": null,
+"what_it_shows": "She supports banning connected-car technology from companies tied to China, Russia, Iran or North Korea."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Waters criticized both the failed congressional moratorium on state AI laws and President Trump's executive order to block state AI safeguards, saying it seeks to undermine all state oversight. She did not sign the Matsui or Clarke letters.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement at Financial Services hearing on AI innovation in financial services",
+"url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=414017",
+"date": "2025-12-10",
+"quote": "Trump announced he would sign an Executive Order that would block states from adopting their own AI safeguards by threatening legal challenges and withholding federal funding.",
+"what_it_shows": "She condemned the executive order and the twice-failed moratorium on state AI laws, siding with states' ability to regulate."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements, votes or bills from Waters on AI chip export controls or Nvidia sales to China were found as of Sept 2026. Searches covered Nvidia, export controls, chips and semiconductors.",
+"evidence": []
+}
+},
+"search_notes": "Searches run: 'Maxine Waters' artificial intelligence; 'data center'; AI Big Tech/guardrails/chatbot/deepfake; preemption/moratorium/executive order; Nvidia/export controls/chips; HFSC AI hearing/markup; AI working group report; AI housing/insurance/RealPage; AI letters Anthropic/OpenAI; sandbox bill; AI super PAC. Site listings of waters.house.gov and democrats-financialservices.house.gov (month listings via WebFetch, then fetched DocumentIDs 414017, 415374, 415339, 413998, 412620, 412636, 415280). Opened the Matsui Nov 26 2025 letter PDF and extracted signature pages: Waters not among readable signers; Clarke letter signers also checked: not present. SPEED Act vote verified in clerk.house.gov roll 356 XML (Waters Nay); cited with the standard govtrack URL. aimoneywatch.org page for Waters did not load; no AI super PAC activity surfaced in news. The Feb 10 2025 GAO insurance-AI request and Dec 2024 FedScoop article were seen in headlines but not opened. HR 9442 cosponsorship taken from the verified record (date 2026-07-13)."
+},
+{
+"bioguide": "B001300",
+"name": "Nanette Diaz Barragán",
+"signature": "Energy and Commerce Democrat who says the Ratepayer Protection Act is not enough to shield families from data center power costs, sponsors AI literacy bills with Obernolte, and cosponsors the GUARDRAILS Act against preempting state AI laws.",
+"notable_quote": {
+"text": "this is not going to be enough. We need to do more to ensure that families are protected from higher electricity costs while also addressing the health and the environmental impacts.",
+"url": "https://thehill.com/policy/technology/5983931-house-advances-ratepayer-protection-act/",
+"date": "2026-07-23"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (House, 119th Congress), member per landscape pass; not independently verified"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Barragán voted for the Ratepayer Protection Act in committee but said it is not enough and that families must be protected from higher electricity costs and from health and environmental harms. She cosponsors the AI Environmental Impacts Act and voted against the SPEED Act.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Remarks at Energy and Commerce markup of the Ratepayer Protection Act, reported by The Hill",
+"url": "https://thehill.com/policy/technology/5983931-house-advances-ratepayer-protection-act/",
+"date": "2026-07-23",
+"quote": "this is not going to be enough. We need to do more to ensure that families are protected from higher electricity costs while also addressing the health and the environmental impacts.",
+"what_it_shows": "She supports the data center ratepayer bill as a first step and wants stronger protections for bills, health and the environment."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9183, Artificial Intelligence Environmental Impacts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-06-08",
+"quote": null,
+"what_it_shows": "She backs a federal study of AI's electricity, water and pollution footprint with voluntary company reporting."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7197 (118th), Artificial Intelligence Environmental Impacts Act of 2024",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7197",
+"date": "2024-08-30",
+"quote": null,
+"what_it_shows": "She supported the earlier version of the AI environmental impacts study bill."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776, the SPEED Act permitting reform bill (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She opposed a permitting-streamlining bill favored by data center developers; a weak signal since nearly all Democrats voted no."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Barragán backs targeted rules such as bias audits for automated decision systems, deepfake bans and AI labeling, plus AI literacy programs. But she signed the 2024 letter urging Governor Newsom to veto California's SB 1047 frontier-model safety bill, calling it focused on hypothetical existential risks.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter from eight California House Democrats led by Rep. Lofgren urging Gov. Newsom to veto SB 1047, reported by Roll Call",
+"url": "https://rollcall.com/2024/10/08/members-of-congress-pushed-back-on-californias-ai-bill/",
+"date": "2024-08-15",
+"quote": "skewed toward addressing extreme misuse scenarios and hypothetical existential risks while largely ignoring demonstrable AI risks like misinformation, disinformation, non-consensual deepfakes",
+"what_it_shows": "She opposed a strict state safety-testing and liability law for frontier AI models, preferring rules aimed at demonstrated harms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5511, Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-19",
+"quote": null,
+"what_it_shows": "She supports requiring companies to test automated decision systems for bias and harm and report to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5628 (118th), Algorithmic Accountability Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5628",
+"date": "2023-09-21",
+"quote": null,
+"what_it_shows": "Repeat support for mandatory AI impact assessments across two Congresses."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7766 (118th), Protecting Consumers from Deceptive AI Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7766",
+"date": "2024-08-30",
+"quote": null,
+"what_it_shows": "She supports mandatory labels and watermarks on AI-generated content."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3106 (118th), Preventing Deepfakes of Intimate Images Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2024-06-07",
+"quote": null,
+"what_it_shows": "She supports criminal and civil penalties for AI sexual deepfakes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8858 (118th), Securing Elections From AI Deception Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "She supports banning AI deepfakes that deceive voters."
+},
+{
+"type": "statement",
+"title": "Press release: Barragán and Obernolte introduce the Artificial Intelligence Public Awareness and Education Campaign Act",
+"url": "https://barragan.house.gov/2026/01/07/reps-barragan-obernolte-introduce-bipartisan-legislation-to-improve-public-understanding-and-trust-in-artificial-intelligence/",
+"date": "2026-01-07",
+"quote": "As artificial intelligence becomes more common in our workplaces, online spaces, and daily routines, people deserve clear, accessible information about how these technologies work",
+"what_it_shows": "Her own AI bills focus on consumer education and literacy rather than binding limits on AI developers."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 7151, Artificial Intelligence Public Awareness and Education Campaign Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7151",
+"date": "2026-01-20",
+"quote": null,
+"what_it_shows": "She sponsors a bipartisan public education campaign on AI."
+},
+{
+"type": "statement",
+"title": "Nextgov article on Barragán's HEAL-AI Act, reposted on her site",
+"url": "https://barragan.house.gov/2025/11/19/nextgov-fcw-lawmakers-propose-grant-program-to-boost-ai-training-in-medical-schools",
+"date": "2025-11-19",
+"quote": "With the rapid developments in AI technology, we now have the capability to do more, provide better care, and close the health care disparities",
+"what_it_shows": "She sees AI as a benefit in health care and wants clinicians trained to use it safely."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 6077, HEAL-AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6077",
+"date": "2025-11-18",
+"quote": null,
+"what_it_shows": "Her bill funds AI training in medical schools."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Barragán cosponsored the My Body, My Data Act to protect reproductive health data and has warned about kids' online safety in the preemption fight. No statements on Section 230, antitrust or Big Tech break-ups were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 (118th), My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "She supports a targeted privacy law restricting collection and sharing of reproductive health data."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Barragán is an original cosponsor of the GUARDRAILS Act to protect state AI laws and was the first-listed signer of the Dec 2025 Clarke letter calling an AI moratorium wildly irresponsible without federal legislation.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8031, GUARDRAILS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "She joined the bill on introduction day to stop the federal government from wiping out state AI laws."
+},
+{
+"type": "statement",
+"title": "Press release: Jacobs, Beyer, Matsui, Lieu, McClain Delaney introduce legislation to repeal the White House AI moratorium (lists Barragán as cosponsor)",
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Confirms she was among the original House cosponsors of the GUARDRAILS Act responding to the Dec 2025 executive order."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter of 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "She signed the letter opposing any state AI law moratorium in the defense bill; her name is listed first among signers."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position on AI chip export controls or Nvidia sales to China was found as of Sept 2026. She led a May 2025 letter opposing Trump's proposed semiconductor import tariffs, but that is trade policy, not export controls.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Barragán leads Communications and Technology Subcommittee Democrats' letter opposing semiconductor tariffs",
+"url": "https://barragan.house.gov/2025/05/08/press-release-congresswoman-barragan-leads-congressional-letter-opposing-trump-administrations-semiconductor-tariff-proposal",
+"date": "2025-05-08",
+"quote": "the United States should double down on policies that support domestic semiconductor production and strengthen our long-term competitiveness",
+"what_it_shows": "Shows engagement on chip policy from a pro-industry, pro-domestic-production angle, but says nothing about export controls to China."
+}
+]
+}
+},
+"search_notes": "Searches run: 'Barragán' artificial intelligence; 'data center'/'data centers'; chatbot/deepfake/Kids Online Safety/Big Tech; state AI laws/preemption/GUARDRAILS/executive order; Ratepayer Protection Act/Energy and Commerce; AI Public Awareness/HEAL-AI/Algorithmic Accountability/AI Caucus; E&C AI hearings 2026; KOSA/COPPA/App Store/Section 230/TikTok; AI super PAC. Site listing of barragan.house.gov plus WebFetch of press release archive pages 1 to 3 (found Jan 7 2026 AI bill release). Opened: The Hill Jul 23 2026 markup article, Roll Call SB 1047 article (she is a named signer of the Aug 15 2024 Lofgren letter), Clarke letter page, Jacobs GUARDRAILS release, semiconductor tariff release, HEAL-AI repost. Matsui Nov 26 2025 letter PDF signature pages extracted: Barragán not among readable signers. SPEED Act vote verified in clerk.house.gov roll 356 XML (Nay). aimoneywatch.org: no tracked AI super PAC spending or endorsements. AI Caucus membership comes from the landscape file and was not confirmed at a URL. Her Oct 2025 Stop the Trump Electricity Price Hikes Act release was not checked for data center language."
+},
+{
+"bioguide": "T000491",
+"name": "Derek Tran",
+"signature": "First-term Armed Services Democrat with a thin AI record: cosponsors AI education, AI price-gouging and data center liquid-cooling bills, and called for deepfake labeling rules as a 2024 candidate.",
+"notable_quote": {
+"text": "We need comprehensive legislation that mandates clear labeling of AI-generated content and imposes severe penalties for malicious use.",
+"url": "https://www.ocregister.com/2024/10/04/derek-tran-ca-45-candidate-2024-election-questionnaire/",
+"date": "2024-10-04"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Tran's only data center action is cosponsoring the Liquid Cooling for AI Act, a study-and-promote bill to cut data center energy and water use, plus a Nay vote on the SPEED Act permitting bill. No statements for or against data center growth were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5332, Liquid Cooling for AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5332",
+"date": "2026-01-14",
+"quote": null,
+"what_it_shows": "He backs federal work to make AI data centers use less energy and water, an efficiency approach rather than a pause or a build-faster push."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776, the SPEED Act permitting reform bill (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted against a permitting-streamlining bill favored by data center developers; a weak signal since nearly all Democrats voted no."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "As a 2024 candidate Tran called for federal rules requiring labels on AI-generated content and penalties for malicious deepfakes. In Congress he cosponsored the Stop AI Price Gouging and Wage Fixing Act and several AI education bills. No statements on frontier AI safety were found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Orange County Register 2024 candidate questionnaire answer on deepfakes",
+"url": "https://www.ocregister.com/2024/10/04/derek-tran-ca-45-candidate-2024-election-questionnaire/",
+"date": "2024-10-04",
+"quote": "We need comprehensive legislation that mandates clear labeling of AI-generated content and imposes severe penalties for malicious use.",
+"what_it_shows": "He supports targeted federal deepfake and labeling rules, especially for political ads."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "He supports banning companies from using AI and personal data to set individualized prices or wages."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5351, NSF AI Education Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He backs federal AI scholarships and teacher training, a neutral workforce approach."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5584, LIFT AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5584",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He supports K-12 AI literacy grants."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Tran cosponsored the No Fentanyl on Social Media Act, which makes platforms report and crack down on drug sales, and the AI price-gouging bill. No statements on Section 230, antitrust or kids' online safety were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6259, No Fentanyl on Social Media Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6259",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "He supports a specific new duty on social media companies to police drug sales."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption of state AI laws as of Sept 2026. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter, has not cosponsored the GUARDRAILS Act, and no statements on the Dec 2025 executive order or the Mar 2026 White House framework were found.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position on AI chip export controls or Nvidia sales to China was found. He cosponsored the China AI Power Report Act, which only orders a report comparing China's and America's AI capabilities.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6275, China AI Power Report Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6275",
+"date": "2026-01-08",
+"quote": null,
+"what_it_shows": "Shows interest in the U.S.-China AI race but takes no side on chip export controls."
+}
+]
+}
+},
+"search_notes": "Searches run: 'Derek Tran' artificial intelligence/AI; 'data center'; chatbot/deepfake/Big Tech/Section 230/Kids Online Safety; Nvidia/export controls/chips/semiconductor; 'artificial intelligence' exact; Rep./Congressman Tran AI veterans/small business/defense; Liquid Cooling/China AI Power Report/NSF AI Education/price gouging; Armed Services AI NDAA; TikTok/social media/online safety; AI super PAC. Site listing of tran.house.gov (no AI items) and WebFetch of his press release page and issues index (none mention AI). Opened OC Register 2024 questionnaire (deepfake answer) and 2026 questionnaire (no AI question). Politico 'Newsom's AI populism' item surfaced in results but the Google News link could not be decoded. Matsui letter PDF signature pages and Clarke letter checked: Tran not a signer. SPEED Act vote verified in clerk.house.gov roll 356 XML (Nay). aimoneywatch.org: no tracked AI super PAC activity. Prospect article listed him among Democrats who voted for a FISA 702 extension, not used as AI evidence."
+},
+{
+"bioguide": "C001110",
+"name": "J. Luis Correa",
+"signature": "Judiciary antitrust Democrat who resisted the 2021 Big Tech antitrust bills, sponsors a border-AI planning bill, opposed California's SB 1047, and frames AI as a race with China that needs more power for data centers.",
+"notable_quote": {
+"text": "With everything that ICE is doing, everything Homeland Security is doing, everything FISA is doing, this data is being interconnected and harvested, in ways that I cannot even begin to understand",
+"url": "https://www.ocregister.com/2026/05/04/john-seiler-congressman-lou-correa-talks-sense-on-privacy-ai-and-war/",
+"date": "2026-05-04"
+},
+"groups": [
+"Ranking Member, House Judiciary Subcommittee on the Administrative State, Regulatory Reform, and Antitrust (118th Congress)",
+"Ranking Member, House Homeland Security Subcommittee on Border Security and Enforcement (118th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "In a May 2026 interview Correa said the U.S. must win the AI race with China, worried that data centers' power demand could raise consumer electricity rates, and proposed micro-nuclear plants dedicated to data centers as a win-win. He has no data center bills and voted against the SPEED Act.",
+"evidence": [
+{
+"type": "interview",
+"title": "Orange County Register column: John Seiler interviews Correa on privacy, AI and war",
+"url": "https://www.ocregister.com/2026/05/04/john-seiler-congressman-lou-correa-talks-sense-on-privacy-ai-and-war/",
+"date": "2026-05-04",
+"quote": "The Chinese are building a power plant every day.",
+"what_it_shows": "He supports building out AI and its power supply to compete with China, acknowledges the risk of higher electricity rates from data centers, and favors dedicated micro-nuclear power as the fix."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776, the SPEED Act permitting reform bill (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted against a permitting-streamlining bill favored by data center developers; a weak counter-signal since nearly all Democrats voted no."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Correa is mixed. He signed the 2024 letter urging Governor Newsom to veto California's SB 1047 frontier-model safety bill and pushes AI adoption for border security, but he cosponsors the DEFIANCE Act against AI sexual deepfakes and pairs his border-AI support with civil liberties caveats.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter from eight California House Democrats led by Rep. Lofgren urging Gov. Newsom to veto SB 1047, reported by Roll Call",
+"url": "https://rollcall.com/2024/10/08/members-of-congress-pushed-back-on-californias-ai-bill/",
+"date": "2024-08-15",
+"quote": "skewed toward addressing extreme misuse scenarios and hypothetical existential risks while largely ignoring demonstrable AI risks like misinformation, disinformation, non-consensual deepfakes",
+"what_it_shows": "He opposed a strict state safety-testing and liability law for frontier AI models."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3562, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-12",
+"quote": null,
+"what_it_shows": "He supports letting victims sue over AI sexual deepfakes, a targeted guardrail."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 993, Emerging Innovative Border Technologies Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/993",
+"date": "2025-02-05",
+"quote": null,
+"what_it_shows": "His signature AI bill directs DHS to plan for using AI and machine learning at the border, a pro-adoption government-use stance."
+},
+{
+"type": "statement",
+"title": "Press release: House passes Correa-Luttrell Emerging Innovative Border Technologies Act",
+"url": "https://correa.house.gov/news/press-releases/03/11/2025/house-passes-correa-luttrell-bipartisan-bill-to-integrate-technology-and-border-security",
+"date": "2025-03-10",
+"quote": "utilizing cutting-edge technology that is already available to maintain trade and commerce and give our hard-working officers the tools they need to keep us safe",
+"what_it_shows": "He promotes AI and other new technologies as tools for border agents."
+},
+{
+"type": "hearing",
+"title": "Opening statement as Ranking Member at joint Homeland Security subcommittee hearing on technology's role in border security",
+"url": "https://correa.house.gov/news/press-releases/ranking-member-correa-delivers-opening-statement-in-joint-subcommittee-hearing-smart-investments-technologys-role-in-multi-layered-border-security-strategy",
+"date": "2024-07-09",
+"quote": "Advanced technologies will help CBP officers and agents work more efficiently and effectively to keep the American people safe.",
+"what_it_shows": "He praised integrating AI into homeland security while saying civil rights and civil liberties must still be protected."
+}
+]
+},
+"tech_regulation": {
+"score": 0,
+"confidence": "medium",
+"summary": "Correa is mixed. He publicly resisted the 2021 House tech antitrust package as a threat to California's economy and gave a balanced response to the FTC's Amazon case, but he is a privacy hawk who voted against extending FISA Section 702 without a warrant requirement and warns of a China-style surveillance model.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Correa calls for continued work on tech antitrust legislation after Judiciary markup",
+"url": "https://correa.house.gov/news/press-releases/rep-lou-correa-calls-for-continued-work-on-tech-antitrust-legislation",
+"date": "2021-06-23",
+"quote": "Yes, we must enforce our antitrust laws with adequate funding while we continue to assure that good-paying jobs are here for our children",
+"what_it_shows": "He argued the Big Tech antitrust bills would hurt California's economy and small businesses, favoring enforcement of existing law over new structural rules."
+},
+{
+"type": "statement",
+"title": "Press release: Ranking Member Correa statement on FTC antitrust complaint against Amazon",
+"url": "https://correa.house.gov/news/press-releases/ranking-member-correa-statement-on-ftc-antitrust-complaint-against-amazon",
+"date": "2023-09-26",
+"quote": "The FTC must continue to ensure that consumer protection and the promotion of competition remain at the forefront of the Biden Administration's antitrust agenda",
+"what_it_shows": "He backed antitrust enforcement in principle while stressing Amazon's jobs in underserved communities."
+},
+{
+"type": "interview",
+"title": "Orange County Register column: John Seiler interviews Correa on privacy, AI and war",
+"url": "https://www.ocregister.com/2026/05/04/john-seiler-congressman-lou-correa-talks-sense-on-privacy-ai-and-war/",
+"date": "2026-05-04",
+"quote": "And if Americans don't understand the danger of this, you're heading to a China model.",
+"what_it_shows": "He voted against extending FISA Section 702 without a warrant requirement and warns about government data harvesting, a strong privacy position."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3562, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-12",
+"quote": null,
+"what_it_shows": "A targeted online-harms rule he supports."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on federal preemption of state AI laws as of Sept 2026. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter, has not cosponsored the GUARDRAILS Act, and no statements on the Dec 2025 executive order or Mar 2026 framework were found.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position on AI chip export controls or Nvidia sales to China was found. He cosponsored a 2024 bill giving tax breaks for domestic circuit board manufacturing and voted for the CHIPS Act, which are industrial policy rather than export control positions.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3249 (118th), Protecting Circuit Boards and Substrates Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3249",
+"date": "2024-10-04",
+"quote": null,
+"what_it_shows": "Supports onshoring chip supply chain manufacturing; says nothing about export controls to China."
+}
+]
+}
+},
+"search_notes": "Searches run: 'Lou Correa' artificial intelligence/AI; 'data center'/'data centers'; Big Tech/antitrust/Section 230; state AI laws/preemption/moratorium/executive order; 'artificial intelligence' border/homeland/judiciary; chatbot/deepfake/privacy/facial recognition/surveillance; Judiciary AI hearing/copyright; data centers electricity nuclear; Right to Learn Act (turned out to be about immigration enforcement in schools, not AI); AI super PAC. Site listing of correa.house.gov; opened antitrust (2021), Amazon (2023), border tech hearing (2024) and House passage (2025) releases; OC Register Seiler column (May 2026) and 2026 primary questionnaire (no AI question). Roll Call Oct 2024 article confirms he signed the Aug 15 2024 Lofgren letter against SB 1047. Matsui letter PDF signature pages and Clarke letter checked: Correa not a signer. SPEED Act vote verified in clerk.house.gov roll 356 XML (Nay). aimoneywatch.org: no tracked AI super PAC activity. Subcommittee ranking member roles are from 2023 to 2024 releases; his 119th Congress subcommittee leadership status was not confirmed. GovTech (Apr 2024) and Nextgov (Jul 2024) border AI articles and the Feb 2025 FedScoop CBP article surfaced but were not opened."
+}
+]

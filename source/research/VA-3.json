@@ -1,0 +1,951 @@
+[
+{
+"bioguide": "V000138",
+"name": "Eugene Simon Vindman",
+"signature": "First-term Democrat from data-center-heavy VA-7 who co-founded the Congressional Lowering Utility Bills Caucus, wrote the Smart Data Center Policy Act, and sponsors bills to track China's AI and chip progress.",
+"notable_quote": {
+"text": "Virginia should welcome innovation, but not at any cost. We need to ensure data centers pay their fair share and are built in places that make sense",
+"url": "https://vindman.house.gov/2026/08/04/vindman-introduces-legislation-to-prevent-data-center-development-near-neighborhoods-schools-parks/",
+"date": "2026-08-04"
+},
+"groups": [
+"Congressional Lowering Utility Bills Caucus (founding member and co-launcher, Feb 2026)",
+"House Armed Services Subcommittee on Cyber, Information Technologies, and Innovation (Member)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Protect ratepayers and neighborhoods first. Vindman says Virginia should welcome data centers but only if they pay their own grid costs and are built in industrial zones, not next to homes, schools or parks. He cosponsors the main House bills to keep data center costs off electric bills and opposes the NextEra-Dominion merger partly because it would reward data center growth at customers' expense.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Vindman introduces the Smart Data Center Policy Act to keep data centers away from neighborhoods, schools and parks",
+"url": "https://vindman.house.gov/2026/08/04/vindman-introduces-legislation-to-prevent-data-center-development-near-neighborhoods-schools-parks/",
+"date": "2026-08-04",
+"quote": "Virginia should welcome innovation, but not at any cost. We need to ensure data centers pay their fair share and are built in places that make sense",
+"what_it_shows": "He backs data centers only with conditions: pay their fair share and stay out of residential areas."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 10041, Smart Data Center Policy Act (Commerce study of siting data centers in industrial zones, rail hubs, airports and military bases)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10041",
+"date": "2026-08-03",
+"quote": null,
+"what_it_shows": "His own bill pushes data centers away from residential communities and green space."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6529, Protecting Families from AI Data Center Energy Costs Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2026-07-09",
+"quote": null,
+"what_it_shows": "Supports a FERC process to keep data center grid costs off household bills."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9700, Ratepayer Justice and Commercial Power Accountability Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9700",
+"date": "2026-08-13",
+"quote": null,
+"what_it_shows": "Another bill to stop families from subsidizing large commercial power users like data centers."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7926, Stop Unfair Electricity Prices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7926",
+"date": "2026-08-20",
+"quote": null,
+"what_it_shows": "Aims to stop residential bills rising to serve big new loads such as data centers."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R. 7977, Energy Bills Relief Act (includes making data centers pay their own costs)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Joined the Casten-Levin energy affordability package at introduction; confirmed on govtrack's cosponsor list."
+},
+{
+"type": "letter",
+"title": "Press release with letter to Virginia SCC: Vindman opposes NextEra takeover of Dominion, citing data center cost shifting",
+"url": "https://vindman.house.gov/2026/08/04/vindman-opposes-terrible-deal-to-hand-over-virginias-energy-grid-to-nextera-jack-up-virginians-utility-costs/",
+"date": "2026-08-04",
+"quote": "This means NextEra’s incentives will align with keeping costs low for data centers rather than ensuring they pay their fair share. In the end, consumers will see these costs shifted to them.",
+"what_it_shows": "He frames the merger fight around making data centers, not households, pay for grid growth."
+},
+{
+"type": "statement",
+"title": "Press release: Vindman launches Congressional Lowering Utility Bills Caucus",
+"url": "https://vindman.house.gov/2026/02/09/icymi-vindman-launches-congressional-lowering-utility-bills-caucus/",
+"date": "2026-02-09",
+"quote": "Families across Virginia and the country are feeling the squeeze of rising utility bills, and Congress has a responsibility to act",
+"what_it_shows": "Electric bill affordability is a signature issue for him."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776, SPEED Act (NEPA permitting reform promoted as speeding AI and data center infrastructure), Roll Call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against a permitting-reform bill sold as accelerating data center and energy buildout."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5332, Liquid Cooling for AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5332",
+"date": "2025-10-08",
+"quote": null,
+"what_it_shows": "Also backs efficiency measures that would let data centers use less power and water, a sign he is not trying to block them outright."
+},
+{
+"type": "interview",
+"title": "E&E News: Virginia girds for data center-focused House races",
+"url": "https://www.eenews.net/articles/virginia-girds-for-data-center-focused-house-races/",
+"date": "2026-08-04",
+"quote": null,
+"what_it_shows": "Reports that Vindman, in a competitive district at the center of the data center boom, filed a utility rate-hike limit, a rate-change database bill and the siting study bill."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Targeted guardrails. Vindman cosponsors bills protecting AI company whistleblowers, requiring labels on AI-made media, banning election deepfakes and warning the public about AI risks, alongside bills to grow AI research and small-business AI use. No speeches found treating advanced AI as an existential danger.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3460, AI Whistleblower Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3460",
+"date": "2025-10-17",
+"quote": null,
+"what_it_shows": "Supports protecting AI lab workers who report safety problems."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5272, Protect Elections from Deceptive AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5272",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Backs a ban on AI deepfakes of candidates in federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8893, Protecting Consumers from Deceptive AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8893",
+"date": "2026-07-06",
+"quote": null,
+"what_it_shows": "Supports federal standards so people can tell when content is AI-generated."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5360, AWARE Act (public warnings about AI risks)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5360",
+"date": "2025-11-21",
+"quote": null,
+"what_it_shows": "Wants the government to educate the public about AI tool risks."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2385, CREATE AI Act of 2025 (national AI research resource)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2025-09-11",
+"quote": null,
+"what_it_shows": "Also supports expanding public AI research capacity, a pro-innovation counterweight."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Targeted rules. He cosponsors bills on child sexual abuse material, kids' social media safety, AI robocalls, fentanyl sales on social media and banning Chinese-linked connected cars. No calls found to break up Big Tech or repeal Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3921, STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2025-10-17",
+"quote": null,
+"what_it_shows": "Supports new duties and liability for platforms on child sexual abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6152, Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2025-12-09",
+"quote": null,
+"what_it_shows": "Backs a crackdown on foreign scam robocalls."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1027, QUIET Act (disclosure of AI voices in robocalls)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-02-24",
+"quote": null,
+"what_it_shows": "Supports requiring AI robocalls to identify themselves and higher fines."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6259, No Fentanyl on Social Media Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6259",
+"date": "2025-12-09",
+"quote": null,
+"what_it_shows": "Would make platforms report and act on drug sales."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6290, Safe Social Media Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6290",
+"date": "2026-01-07",
+"quote": null,
+"what_it_shows": "Supports new safety rules for social media, especially for kids."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "Backs banning connected-car tech from China, Russia, Iran and North Korea."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. Vindman is not a cosponsor of the GUARDRAILS Act and did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a moratorium on state AI laws; no statement on the Dec 2025 executive order or the Mar 2026 White House framework was found.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Leans hawkish. Vindman sponsors bills to track China's AI and chip capabilities and the effectiveness of export controls, and cosponsors closing the cloud loophole in chip export rules and banning DeepSeek on government devices. He has not taken a public position on the Nvidia H20/H200 sales or the Chip Security Act.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Vindman and Moylan introduce AI Sovereignty Act, China Advanced Technology Monitoring Act and Semiconductor Sovereignty Act",
+"url": "https://vindman.house.gov/2025/09/24/vindman-moylan-introduce-bipartisan-legislative-package-to-safeguard-u-s-tech-leadership-and-national-security/",
+"date": "2025-09-24",
+"quote": "Our adversaries are exploiting American innovation to fuel their rise and erode our strategic edge",
+"what_it_shows": "Frames AI and chips as a national security race with China and wants Commerce and DoD to track offshore AI and assess export control effectiveness."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 5288, AI Sovereignty Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5288",
+"date": "2025-09-10",
+"quote": null,
+"what_it_shows": "Directs Commerce to track offshore AI development and protect US talent and IP."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 5289, Semiconductor Sovereignty Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5289",
+"date": "2025-09-10",
+"quote": null,
+"what_it_shows": "Maps chip supply chains and risks from offshoring."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2683, Remote Access Security Act (closes cloud loophole in chip export controls)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"date": "2025-09-10",
+"quote": null,
+"what_it_shows": "Supports tightening export controls so China cannot access US chips through the cloud."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1121, No DeepSeek on Government Devices Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-07",
+"quote": null,
+"what_it_shows": "Backs removing the Chinese AI app from federal devices."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 6909, China AI Threat Assessment Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6909",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Orders an intelligence assessment of China's AI progress."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6275, China AI Power Report Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6275",
+"date": "2025-11-21",
+"quote": null,
+"what_it_shows": "Wants a government report comparing US and Chinese AI strength."
+}
+]
+}
+},
+"search_notes": "Ran Google News queries (Vindman data center; Eugene Vindman artificial intelligence; Vindman chips/export controls/DeepSeek; Vindman chatbot/Big Tech/Section 230; Vindman Smart Data Center Policy Act), a site listing of vindman.house.gov, and fetched 9 official releases (Smart Data Center Policy Act, NextEra letter, merger survey, utility package, utility caucus, tech-sovereignty package, drone release, Aug 12 utility bills) plus govtrack pages for H.R. 10041, H.R. 7977 cosponsors and Roll Call 356, and E&E News. Checked the Matsui letter PDF (pypdf) and the Clarke letter: Vindman is not a signer of either. Virginia Mercury (May 22, 2026) and WJLA (Jul 31, 2026) articles could not be opened (403 / Google News decoder rate-limited). Facebook and the Van Hollen PJM letter page were blocked. No chatbot, kids-AI or preemption statements found."
+},
+{
+"bioguide": "B001292",
+"name": "Donald S. Beyer, Jr.",
+"signature": "Co-chair of the Congressional AI Caucus and one of the House's most active AI legislators: author of the GUARDRAILS Act against preempting state AI laws, the AI Foundation Model Transparency Act and the Human Authority over Autonomous Weapons Act, and a leading voice for making data centers pay their way and stay out of neighborhoods.",
+"notable_quote": {
+"text": "In today’s lawless, Wild West artificial intelligence environment, states have been leading the charge to implement safeguards addressing serious risks ranging from algorithmic bias to data privacy and consumer protection",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9009",
+"date": "2026-03-20"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (Co-Chair, 119th Congress)",
+"House Bipartisan Task Force on Artificial Intelligence (Member, 118th Congress)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Protect ratepayers and communities first. Beyer urged Fairfax County to reject a data center substation in a residential area, co-signed letters pressing FERC, utilities and the industry to keep grid costs off household bills, cosponsors the main cost-shifting bills, and wrote the AI Environmental Impacts Act to force data centers to report energy and water use. He says he recognizes the infrastructure supports the region's economy, so he is not seeking a moratorium.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release with letter: Beyer urges Fairfax County Planning Commission to deny the Edsall Data Center Substation application",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9183",
+"date": "2026-07-30",
+"quote": "Data center infrastructure should not be built in residential areas where its scale and likely impacts are fundamentally incompatible with the character and quality of life of adjacent neighborhoods.",
+"what_it_shows": "He opposed a specific data center project in his district on siting grounds while saying he recognizes the need for infrastructure supporting the region's economy."
+},
+{
+"type": "letter",
+"title": "Press release: 20 House Democrats led by Rep. Mullin, including Beyer, send letters to FERC, Edison Electric Institute and the Data Center Coalition on data center energy costs",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"date": "2025-10-28",
+"quote": "we are concerned that energy costs associated with data center development and power consumption are increasingly being passed on to everyday Americans and small businesses",
+"what_it_shows": "Signed letters asking regulators and industry how they will keep grid upgrade costs off household bills."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6529, Protecting Families from AI Data Center Energy Costs Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2025-12-09",
+"quote": null,
+"what_it_shows": "Original cosponsor of the Landsman bill directing FERC to address data center cost shifting."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 9183, Artificial Intelligence Environmental Impacts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-06-08",
+"quote": null,
+"what_it_shows": "His bill would require AI data centers to report environmental and energy impacts, with fines for noncompliance, and order an EPA study."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Beyer, Sen. Markey reintroduce AI Environmental Impacts Act",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9143",
+"date": "2026-06-10",
+"quote": "Our legislation would ensure that we have better data, coordination, and transparency to identify risks and develop solutions that ensure AI development does not compromise our environment",
+"what_it_shows": "Frames data center oversight as transparency and community protection rather than a ban."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R. 7977, Energy Bills Relief Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Joined the Casten-Levin package that includes making data centers pay their own costs; confirmed on govtrack."
+},
+{
+"type": "interview",
+"title": "E&E News: Virginia girds for data center-focused House races",
+"url": "https://www.eenews.net/articles/virginia-girds-for-data-center-focused-house-races/",
+"date": "2026-08-04",
+"quote": "Most things in America, you’re trying to build a new road, it takes six or eight years. Data centers are going up in a matter of months, and that’s freaking people out",
+"what_it_shows": "He sees the speed of the buildout as the source of voter anger and now calls data centers a growing concern."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776, SPEED Act (permitting reform), Roll Call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against the permitting bill promoted as accelerating AI and data center infrastructure."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "medium",
+"summary": "Strict rules now. Beyer says the risks from frontier AI models are real, calls the administration's approach a dangerous 'wild west', and wants Congress to set comprehensive, binding standards for model evaluation and deployment. His own bills are mostly transparency and human-control measures (foundation model disclosure, human authority over autonomous weapons, a voluntary AI flaw-reporting system), so the score reflects his rhetoric and goals more than enacted mandates.",
+"evidence": [
+{
+"type": "statement",
+"title": "ARLnow: Beyer calls Trump administration's approach to AI 'haphazard' after Anthropic models pulled",
+"url": "https://www.arlnow.com/2026/06/25/beyer-calls-trump-administrations-approach-to-ai-haphazard-after-advanced-models-pulled/",
+"date": "2026-06-25",
+"quote": "The best path forward is for Congress to establish clear, comprehensive standards for model evaluations, deployment decisions, and risk mitigation so that developers, regulators, and the public can operate within a consistent and predictable framework",
+"what_it_shows": "He wants binding federal standards for testing and deploying powerful models, not ad hoc export controls."
+},
+{
+"type": "statement",
+"title": "Press release: AI Caucus Co-Chair Beyer response to Trump's executive order on voluntary early access to AI models",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9132",
+"date": "2026-06-02",
+"quote": "The risks posed by frontier AI models and their advanced cyber capabilities are real and demand serious attention, but this executive order falls short of providing a credible framework to manage those risks",
+"what_it_shows": "Criticizes a voluntary approach that lets companies release powerful models without meaningful evaluation."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 8094, AI Foundation Model Transparency Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8094",
+"date": "2026-03-26",
+"quote": null,
+"what_it_shows": "Would have the FTC require foundation model companies to disclose training data, testing and capabilities."
+},
+{
+"type": "statement",
+"title": "Press release: Beyer, Lawler, Jacobs introduce bipartisan AI Foundation Model Transparency Act",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9013",
+"date": "2026-03-26",
+"quote": "This bill would help users determine if they should trust the model they are using for certain applications, and help identify limitations on data, potential biases, or misleading results.",
+"what_it_shows": "Transparency mandate aimed at bias and misleading outputs in high-impact models."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 9729, Human Authority over Autonomous Weapons Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9729",
+"date": "2026-07-16",
+"quote": null,
+"what_it_shows": "Requires a human decision-maker before any AI-enabled weapon uses lethal force."
+},
+{
+"type": "statement",
+"title": "Press release: Beyer, Barrett, Jacobs introduce bipartisan legislation requiring human control over autonomous weapons",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9164",
+"date": "2026-07-17",
+"quote": "No machine should ever be given the power to decide to kill a human being on its own.",
+"what_it_shows": "Treats autonomous AI decisions over life and death as an unacceptable risk."
+},
+{
+"type": "social_post",
+"title": "The Hill: Lawmakers sound alarm on AI dangers after Anthropic researchers' warning (reporting Beyer's post)",
+"url": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
+"date": "2026-09-09",
+"quote": "Doing nothing on AI is unacceptable and dangerous",
+"what_it_shows": "After the Coxon resignation warning, he said Congress is moving too slowly and should hold hearings, get answers from the companies and pass ready bills quickly."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9333, AI Flaw Reporting and Security Enhancement Act (voluntary NIST reporting system)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9333",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Co-led a bipartisan bill for a central place to report AI vulnerabilities, a lighter-touch measure."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 2894, Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2023-04-26",
+"quote": null,
+"what_it_shows": "Long-standing concern about AI control over catastrophic decisions."
+},
+{
+"type": "interview",
+"title": "FFXnow: Candidates for Virginia's 8th District offer mixed views on tackling AI, data centers (Sept 8 debate)",
+"url": "https://www.ffxnow.com/2026/09/11/candidates-for-virginias-8th-district-offer-mixed-views-on-tackling-ai-data-centers/",
+"date": "2026-09-11",
+"quote": "There’s a lot of good that can come from it",
+"what_it_shows": "Balancing note: he says AI can be a net plus, pointing to health care advances, so he is a regulator, not an opponent, of the technology."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No clear public position found on the broader Big Tech agenda as of Sept 2026. Searched for Section 230, antitrust, kids online safety, privacy law and app store statements; found only AI-specific measures (an FTC-run transparency rule for foundation models, support for state privacy and consumer protection laws in his GUARDRAILS statements), which are scored under AI risk and preemption.",
+"evidence": []
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Let states regulate. Beyer wrote the GUARDRAILS Act to repeal Trump's December 2025 executive order against state AI laws, signed the Matsui and Clarke letters against a moratorium, and says the White House wants to kill state AI laws without setting even minimal federal guardrails. He supports a federal framework eventually but insists states keep their power until Congress acts.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 8031, GUARDRAILS Act (repeals the executive order preempting state AI laws)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Lead author of the House bill protecting states' right to pass AI laws; 35 cosponsors."
+},
+{
+"type": "statement",
+"title": "Press release: Beyer, Matsui, Lieu, Jacobs, McClain Delaney introduce legislation to repeal White House AI moratorium",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9009",
+"date": "2026-03-20",
+"quote": "the Trump White House aims to kill state AI laws without setting even minimally acceptable federal guardrails, exposing the American public to the growing risks accompanying completely unchecked artificial intelligence",
+"what_it_shows": "Direct opposition to federal preemption absent strong federal rules."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and the planned preemption executive order (Beyer is a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": null,
+"what_it_shows": "Signed the letter (name confirmed in the PDF signer list) telling congressional leaders not to revive the state AI-law moratorium or override states by executive order."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Beyer is a signer)",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "Second letter he signed against preempting state AI laws."
+},
+{
+"type": "statement",
+"title": "MeriTalk: Democrats push bill to restore state power on AI laws (quoting Beyer's office on the White House framework)",
+"url": "https://www.meritalk.com/articles/democrats-push-bill-to-restore-state-power-on-ai-laws/",
+"date": "2026-03-25",
+"quote": "clear, enforceable guardrails to address the urgent risks posed by AI systems",
+"what_it_shows": "His office said the March 2026 White House national framework lacks enforceable guardrails and tries to limit Congress's own regulatory action."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls as of Sept 2026. Searched for Beyer statements on Nvidia H20/H200 sales, the Chip Security Act, GAIN AI and the Gulf chip deals; found none. His criticism of the June 2026 export controls on Anthropic models concerned domestic AI governance, not China.",
+"evidence": []
+}
+},
+"search_notes": "Ran Google News queries (Don Beyer artificial intelligence; Beyer data center Virginia; Beyer GUARDRAILS; Beyer AI Environmental Impacts / Foundation Model Transparency; Beyer Nvidia/export controls/Saudi; Beyer Section 230/antitrust/Big Tech/KOSA). Site listing of beyer.house.gov returned nothing, so I pulled the press release index pages 1-10 and extracted DocumentIDs with curl, then fetched releases 8675, 9009, 9013, 9132, 9143, 9164 and 9183. Also opened ARLnow, MeriTalk, E&E News, The Hill (Sept 9, 2026), FFXnow, Annandale Today, govtrack Roll Call 356 and H.R. 7977 cosponsors, the Clarke letter and the Matsui PDF (signer confirmed). Could not open the Van Hollen PJM letter page (403), the Patch or FedScoop articles (404), or Axios (403). No Section 230 or chip export statements found."
+},
+{
+"bioguide": "G000568",
+"name": "H. Morgan Griffith",
+"signature": "Chairman of the Energy and Commerce Health Subcommittee who champions AI in health care with human oversight, sits on the GOP privacy working group, and is a Republican cosponsor of the Ratepayer Protection Act on data center power costs.",
+"notable_quote": {
+"text": "A blanketed embrace of AI technologies without appropriate guardrails would be irresponsible policy and grounded in fantasy.",
+"url": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=405775",
+"date": "2026-07-27"
+},
+"groups": [
+"House Energy and Commerce Subcommittee on Health (Chairman)",
+"House Energy and Commerce Subcommittee on Communications and Technology (Member)",
+"House Energy and Commerce Republican Privacy Working Group (Member)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Protect ratepayers first, based on his votes and bills rather than speeches. Griffith cosponsors the two main House bills to keep data center grid costs off household bills (the Ratepayer Protection Act and the Landsman FERC bill) and a bill on using AI to run the grid, while also voting for the SPEED Act permitting bill. No press release or floor statement from him about data centers was found; a Facebook post other researchers cited could not be opened.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9340, Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "One of a handful of Republicans on the main bipartisan bill to keep residential bills from covering power for large new loads like data centers; the bill cleared his committee 52-0."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6529, Protecting Families from AI Data Center Energy Costs Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "Joined the Landsman bill directing FERC to address data center cost shifting the day before Energy and Commerce marked it up."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9339, Affordable Innovation for the Grid Act (DOE study of AI to run the grid)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9339",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "Supports using AI to make the grid more reliable and efficient, a pro-technology counterweight."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on H.R. 4776, SPEED Act (NEPA permitting reform), Roll Call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted for the permitting bill promoted as accelerating energy and data center infrastructure, so he is not trying to slow construction."
+},
+{
+"type": "statement",
+"title": "Press release: Griffith urges Spanberger to protect Southwest Virginia coal and lower energy costs in the NextEra-Dominion merger",
+"url": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=405787",
+"date": "2026-08-07",
+"quote": "This merger will impact electric ratepayers, utility jobs and Virginia’s energy future.",
+"what_it_shows": "His energy focus is ratepayer costs and coal plant jobs; the release does not mention data centers."
+}
+]
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Griffith is enthusiastic about AI in health care and praises the administration for streamlining rules to speed its use, but he also says a blanket embrace of AI without guardrails would be irresponsible and wants human review of mental health chatbots and coverage denials. No position found on frontier AI safety, licensing or a pause.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement: Chairman Griffith at Health Subcommittee hearing on AI applications in American health care",
+"url": "https://energycommerce.house.gov/posts/chairman-griffith-delivers-opening-statement-at-subcommittee-on-health-hearing-on-the-meaningful-impacts-of-ai-applications-in-our-american-health-care-system",
+"date": "2025-09-03",
+"quote": "I applaud the work of the current administration to incorporate AI in a responsible manner that can help improve care.",
+"what_it_shows": "Pro-adoption: praises the Trump administration's push to use AI and streamline regulations in health care."
+},
+{
+"type": "hearing",
+"title": "Opening statement: Chairman Griffith at Health Subcommittee AI hearing (oversight passage)",
+"url": "https://energycommerce.house.gov/posts/chairman-griffith-delivers-opening-statement-at-subcommittee-on-health-hearing-on-the-meaningful-impacts-of-ai-applications-in-our-american-health-care-system",
+"date": "2025-09-03",
+"quote": "it is paramount that we ensure proper oversight is being applied, because the application of AI and machine learning will only increase",
+"what_it_shows": "Pairs enthusiasm with a call for congressional oversight and keeping clinicians in the loop."
+},
+{
+"type": "op_ed",
+"title": "Op-ed (posted by his office): Smart use of AI can improve American healthcare",
+"url": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=405775",
+"date": "2026-07-27",
+"quote": "A blanketed embrace of AI technologies without appropriate guardrails would be irresponsible policy and grounded in fantasy.",
+"what_it_shows": "Explicitly endorses guardrails and human supervision for AI in health care."
+},
+{
+"type": "op_ed",
+"title": "Op-ed (posted by his office): Smart use of AI can improve American healthcare (chatbot passage)",
+"url": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=405775",
+"date": "2026-07-27",
+"quote": "Where patients rely on AI chatbots for mental health resources, a medical professional should review the conversations.",
+"what_it_shows": "Wants human review of mental health chatbots and of AI coverage denials, a specific targeted rule."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward targeted rules. Griffith cosponsors the Foreign Robocall Elimination Act and sits on the Energy and Commerce Republican working group drafting a national data privacy law, which Republicans want to preempt stricter state rules. No statements found on Section 230, antitrust or kids online safety bills.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6152, Foreign Robocall Elimination Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Backs a crackdown on foreign scam robocalls."
+},
+{
+"type": "other",
+"title": "MeriTalk: House Republicans form task force to tackle data privacy standards (lists Griffith as a member)",
+"url": "https://www.meritalk.com/articles/house-republicans-form-task-force-to-tackle-data-privacy-standards/",
+"date": "2025-02-18",
+"quote": null,
+"what_it_shows": "He is one of nine members of the Guthrie-Joyce working group drafting a comprehensive federal privacy law, described as including provisions to keep states from adding stricter rules."
+},
+{
+"type": "other",
+"title": "IAPP: US House Republicans organize a privacy working group",
+"url": "https://iapp.org/news/a/a-view-from-dc-us-house-republicans-organize-a-privacy-working-group",
+"date": "2025-02-14",
+"quote": null,
+"what_it_shows": "Confirms his membership and notes he has previously spoken about the importance of privacy legislation."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on preempting state AI laws as of Sept 2026. The GOP privacy working group he sits on is exploring a federal privacy law that would block stricter state rules, but no statement from Griffith on the state AI-law moratorium, the Dec 2025 executive order or the Mar 2026 White House framework was found.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China as of Sept 2026; searches for Griffith with China chips, Nvidia, export controls and TikTok returned only unrelated items.",
+"evidence": []
+}
+},
+"search_notes": "Ran Google News queries (Morgan Griffith artificial intelligence; Morgan Griffith data center; Griffith Ratepayer Protection Act / Landsman FERC; Morgan Griffith state AI / preemption / Section 230 / privacy; Griffith Landsman data center; Morgan Griffith China chips / Nvidia / export controls / TikTok; privacy working group). Site listing returned zero archived URLs, so I pulled the morgangriffith.house.gov news index pages 1-6 with curl to get DocumentIDs and fetched the AI op-ed (405775), the NextEra merger release (405787), the Chairman Recap (405740) and weekly newsletters 7.24.26, 7.30.26, 8.7.26 and 8.14.26 (no data center mentions). Also opened his Sept 3, 2025 E&C hearing statement, govtrack Roll Call 356, MeriTalk and IAPP on the privacy working group, and Landsman's data center releases (no Griffith quote). Blocked: Washington Times op-ed original (403; his office's repost was used), Daily Energy Insider markup summary (403), Facebook post (400), E&C privacy working group release (404 at guessed URLs)."
+},
+{
+"bioguide": "S001230",
+"name": "Suhas Subramanyam",
+"signature": "Represents the world's densest data center cluster; author of the four-bill National Data Center Plan and an original cosponsor of the bipartisan FRONTIER Act who wants explicit AI containment rules written into law.",
+"notable_quote": {
+"text": "President Donald Trump keeps telling us that data centers are a golden goose. Well, I think they’re becoming a Trojan horse for our community.",
+"url": "https://wtop.com/virginia/2026/09/a-trojan-horse-northern-virginia-congressman-pushes-national-data-center-legislation/",
+"date": "2026-09-09"
+},
+"groups": [
+"Great American AI Act / FRONTIER Act bipartisan sponsor group (Obernolte-Trahan; original cosponsor)",
+"House Science, Space, and Technology Committee, Subcommittee on Research and Technology (Member)",
+"House Oversight Subcommittee on Cybersecurity, Information Technology, and Government Innovation (Member)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Protect communities and ratepayers first. Subramanyam's National Data Center Plan would make data centers pay the full cost of the grid upgrades they need, set federal siting best practices to keep them away from homes and schools, standardize energy and water measurement, and plan for their security. He calls the buildout a Trojan horse for his community but says innovation can coexist with communities and has not called for a moratorium.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Subramanyam introduces National Data Center Plan (four bills)",
+"url": "https://subramanyam.house.gov/media/press-releases/rep-subramanyam-introduces-national-data-center-plan",
+"date": "2026-09-08",
+"quote": "We need a national plan that puts communities first rather than the current ad hoc approach.",
+"what_it_shows": "His package requires data centers to pay for their own energy, weigh cumulative community impacts before building, and measure water and power use."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 10321, Responsible Data Center Siting Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10321",
+"date": "2026-09-08",
+"quote": null,
+"what_it_shows": "DOE siting best practices covering utility bills, water, noise and community impacts; six Democratic cosponsors."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 10322, Data Center Fair Share Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10322",
+"date": "2026-09-08",
+"quote": null,
+"what_it_shows": "Requires states to adopt large-load tariffs so data centers pay full grid and generation costs, enforced through federal highway funds."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 9372, Data Infrastructure Energy Measurement and Standards Act (passed House Science 34-1)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9372",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "NIST standards for measuring data center electricity and water use, cosponsored by Republican Jay Obernolte."
+},
+{
+"type": "interview",
+"title": "WTOP: 'A Trojan horse': Northern Virginia congressman pushes national data center legislation",
+"url": "https://wtop.com/virginia/2026/09/a-trojan-horse-northern-virginia-congressman-pushes-national-data-center-legislation/",
+"date": "2026-09-09",
+"quote": "President Donald Trump keeps telling us that data centers are a golden goose. Well, I think they’re becoming a Trojan horse for our community.",
+"what_it_shows": "Sharp critique of unchecked growth at a press event beside a school surrounded by data centers; he wants industry to pay for its own power infrastructure."
+},
+{
+"type": "hearing",
+"title": "Remarks at House Oversight hearing calling for a national strategic data center plan",
+"url": "https://subramanyam.house.gov/media/press-releases/congressman-suhas-subramanyam-calls-national-strategic-data-center-plan-and",
+"date": "2025-04-01",
+"quote": "One can support innovation, but it doesn’t have to come at the cost of our communities.",
+"what_it_shows": "Calls his district a cautionary tale on bills, power lines, water and security, while framing his goal as coexistence rather than a ban."
+},
+{
+"type": "letter",
+"title": "Press release: Subramanyam letter to Virginia SCC on Dominion's Golden to Mars transmission project",
+"url": "https://subramanyam.house.gov/media/press-releases/congressman-subramanyam-writes-commissioners-scc-about-dominion-energys",
+"date": "2025-09-04",
+"quote": "a national plan should be developed to ensure data centers and the energy infrastructure needed to supply them are not harming our communities",
+"what_it_shows": "Pressed regulators to reroute data center power lines away from schools and homes."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Subramanyam introduces Data Infrastructure Risk Reduction Act",
+"url": "https://subramanyam.house.gov/media/press-releases/rep-subramanyam-introduces-bill-protect-homes-and-property-near-data-centers",
+"date": "2026-05-08",
+"quote": "Data centers have become targets in the wars in Ukraine and the Middle East. Some of my constituents live within 100 feet of data centers and they are rightfully concerned about their own safety.",
+"what_it_shows": "Adds a national security argument for planning where data centers go."
+},
+{
+"type": "interview",
+"title": "Roll Call: The data centers are coming. Is Congress ready?",
+"url": "https://rollcall.com/2026/08/12/data-centers-coming-is-congress-ready/",
+"date": "2026-08-12",
+"quote": "Republicans seem to be tied with industry on this, and protective of the industry.",
+"what_it_shows": "Frames data centers as a top voter issue and positions Democrats as the side standing with communities."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9183, Artificial Intelligence Environmental Impacts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-06-23",
+"quote": null,
+"what_it_shows": "Backs Beyer's bill requiring data centers to report environmental and energy impacts."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 10005, Data Center Resource Disclosure Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10005",
+"date": "2026-07-30",
+"quote": null,
+"what_it_shows": "Supports mandatory disclosure of data center electricity and water use."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R. 7977, Energy Bills Relief Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Joined the Casten-Levin package including data-centers-pay-their-own-costs provisions; confirmed on govtrack."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776, SPEED Act (permitting reform), Roll Call 356",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against the permitting bill promoted as accelerating data center infrastructure."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "medium",
+"summary": "Strict rules now, paired with pro-innovation language. Subramanyam is an original cosponsor of the FRONTIER Act, which would require independent safety evaluations, audits and incident reporting for frontier AI developers, and after the OpenAI-Hugging Face breach he is pushing to add explicit, non-voluntary containment requirements. He also asked regulators to investigate an AI bubble. At the same time he wants the US to lead the AI race and backs small AI startups. Industry-aligned super PACs have endorsed him.",
+"evidence": [
+{
+"type": "interview",
+"title": "Nextgov: Dem lawmaker hopes to add AI containment language to FRONTIER Act (CSIS event remarks)",
+"url": "https://www.nextgov.com/artificial-intelligence/2026/08/dem-lawmaker-hopes-add-ai-containment-language-frontier-act/415602/",
+"date": "2026-08-24",
+"quote": "solving the big concern about an AI model getting out and going a little crazy and doing a lot of harm to a lot of people",
+"what_it_shows": "He treats loss of control over advanced models as a serious near-term risk and wants containment requirements codified beyond voluntary industry participation."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R. 9925, FRONTIER Act (Obernolte-Trahan frontier AI oversight bill)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9925",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "Backs binding third-party safety evaluations, audits and critical incident reporting for frontier AI labs; confirmed as original cosponsor on govtrack."
+},
+{
+"type": "statement",
+"title": "Trahan press release: Great American AI Act discussion draft released with Subramanyam and others",
+"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
+"date": "2026-06-04",
+"quote": "I want the United States to continue to be a leader in AI race but develop this technology in a responsible manner that protects people and communities.",
+"what_it_shows": "Supports a comprehensive federal AI framework while stressing US leadership."
+},
+{
+"type": "letter",
+"title": "Press release: Subramanyam asks the Fed and SEC to investigate an AI bubble",
+"url": "https://subramanyam.house.gov/media/press-releases/congressman-subramanyam-calls-investigation-assess-and-prepare-impacts-ai",
+"date": "2025-11-18",
+"quote": "We need transparency into the AI bubble to better understand what’s going on and make sure we are prepared.",
+"what_it_shows": "Sees AI's financial concentration as a systemic economic risk needing regulator attention."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Subramanyam introduces bipartisan bill to support small AI businesses (with Obernolte)",
+"url": "https://subramanyam.house.gov/media/press-releases/rep-subramanyam-introduces-bipartisan-bill-support-small-ai-businesses",
+"date": "2026-03-17",
+"quote": "To stay ahead of international competitors, we must support the small innovators who play a key role in this industry",
+"what_it_shows": "Balancing note: pro-innovation framing and concern about regulatory uncertainty for startups."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 7968, Small AI Innovators Empowerment Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7968",
+"date": "2026-03-17",
+"quote": null,
+"what_it_shows": "Study of funding, talent and regulatory barriers facing small AI companies."
+},
+{
+"type": "pac",
+"title": "CNBC: AI becomes contentious issue in 2026 midterms over donations (Leading the Future endorses Subramanyam; groups press him to disavow)",
+"url": "https://www.cnbc.com/2026/04/15/ai-2026-elections-midterms-campaign-donations.html",
+"date": "2026-04-15",
+"quote": null,
+"what_it_shows": "The industry-funded Leading the Future super PAC endorsed him as one of five House Democrats; a Tech Oversight Project-led coalition asked him to disavow it."
+},
+{
+"type": "pac",
+"title": "The New Republic: Dems want to regulate AI. But will AI money divide them? (Think Big endorsement)",
+"url": "https://newrepublic.com/post/215341/anthropic-ai-regulate-money-extinction",
+"date": "2026-09-11",
+"quote": null,
+"what_it_shows": "Think Big, the Democratic arm of the Leading the Future network, listed him among endorsed candidates (no reported spending), noting his FRONTIER Act cosponsorship."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Targeted rules, and he wants them stronger. Subramanyam voted no on the House Republicans' KIDS Act because it dropped requirements that tech companies design products to minimize harm, cosponsors the STOP CSAM and QUIET Acts, and wrote a bill requiring disclosure when algorithms set prices.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Subramanyam statement on KIDS Act vote (voted no on H.R. 7757)",
+"url": "https://subramanyam.house.gov/media/press-releases/rep-subramanyam-statement-kids-act-vote",
+"date": "2026-06-29",
+"quote": "I voted no on the KIDS Act because when it comes to keeping our kids safe online, we have to get it right.",
+"what_it_shows": "Opposed the GOP kids online safety bill for being too weak, wanting a duty on tech companies to design products that minimize harm."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3921, STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-06-02",
+"quote": null,
+"what_it_shows": "Supports new platform duties and victim lawsuits over child sexual abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1027, QUIET Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-12-16",
+"quote": null,
+"what_it_shows": "Backs disclosure of AI voices in robocalls and higher fines."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 9371, SLASH Prices Act (disclosure of algorithmic pricing)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9371",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Would make companies tell consumers when software sets their prices."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Leans toward one national standard. Subramanyam co-released the Great American AI Act discussion draft and is an original cosponsor of the FRONTIER Act, which sets a federal standard for frontier AI and would still preempt state rules on mandatory incident reporting and third-party audits while preserving state kids, civil rights and consumer laws. He did not sign the Matsui or Clarke letters against preemption and is not a GUARDRAILS Act cosponsor.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R. 9925, FRONTIER Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9925",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "The bipartisan bill creates a uniform national regime for frontier AI developers that overrides state audit and incident-reporting rules in that lane."
+},
+{
+"type": "other",
+"title": "The New Republic: This could be the biggest issue of 2027. Dems are split on it. (analysis of the FRONTIER Act's preemption)",
+"url": "https://newrepublic.com/post/215224/ai-democrats-regulate-lori-trahan",
+"date": "2026-09-09",
+"quote": "The latest version of the legislation would still preempt states on mandatory incident reporting and third-party audits of AI labs.",
+"what_it_shows": "Independent description of the preemption in the bill he cosponsors, after sponsors narrowed it from the original draft."
+},
+{
+"type": "statement",
+"title": "Trahan press release: Great American AI Act discussion draft (original preemption version) released with Subramanyam",
+"url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
+"date": "2026-06-04",
+"quote": "To do so, we must get a bipartisan conversation started and work faster to address the challenges and opportunities presented by AI",
+"what_it_shows": "He was one of six members who put out the draft that proposed a national standard with a multi-year preemption of state AI-development laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls as of Sept 2026. Searches for Subramanyam with Nvidia, export controls, DeepSeek and China chips returned nothing; his only related record is cosponsoring the BASIC Act chip-manufacturing tax credit and general calls to stay ahead of international competitors.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3204, BASIC Act (extends chip factory tax credit to chip design)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-05-05",
+"quote": null,
+"what_it_shows": "Supports domestic chip manufacturing incentives; says nothing about export controls."
+}
+]
+}
+},
+"search_notes": "Ran Google News queries (Subramanyam artificial intelligence; Subramanyam data center; Subramanyam FRONTIER Act containment; Subramanyam Leading the Future; Subramanyam chatbot/deepfake/kids/Section 230/Big Tech; Subramanyam Nvidia/export controls/chips/DeepSeek, no results). Site listing of subramanyam.house.gov plus curl of press release index pages 1-7; fetched the National Data Center Plan, 2025 Oversight remarks, SCC letter, AI bubble letter, small AI business bill, Data Infrastructure Risk Reduction Act, measurement standards bill and KIDS Act statement. Also opened WTOP, Roll Call (Aug 12, 2026), Nextgov (Aug 24, 2026, found via RSS after Google's decoder rate-limited), Hoodline, CNBC (Apr 15, 2026), both New Republic pieces, Trahan's GAAIA and FRONTIER releases, govtrack for H.R. 9925 and H.R. 7977 cosponsors and Roll Call 356, and the Matsui PDF and Clarke letter (not a signer of either). Could not open The Hill's Aug 20, 2026 'rein in data centers without losing tech race to China' piece, the Casar OpenAI letter signer list (page did not list names), or the Van Hollen PJM letter (403)."
+}
+]

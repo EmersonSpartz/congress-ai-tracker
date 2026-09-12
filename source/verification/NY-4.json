@@ -1,0 +1,242 @@
+[
+{
+"bioguide": "M000317",
+"checks": [
+{
+"url": "https://malliotakis.house.gov/media/in-the-news/reopen-indian-point-power-plant",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-19",
+"note": "Quote appears verbatim; the sentence continues '— driven by data centers, electric vehicles, and the demands of a modern economy.' She names data centers as a demand driver and calls for restarting Indian Point. Page does not discuss limits on data center projects either way, so it supports 'more generation' rather than any explicit stance on siting."
+},
+{
+"url": "https://malliotakis.house.gov/media/in-the-news/common-sense-can-lower-new-york-energy-costs",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-06-10",
+"note": "Quote verbatim, co-authored with Rep. LaMalfa. The page never mentions data centers or AI; it is a general energy-supply/blue-state-policy argument. The claim's description of the argument is accurate but the piece is only indirect evidence for a data_centers position."
+},
+{
+"url": "https://malliotakis.house.gov/media/in-the-news/malliotakis-op-ed-big-tech-acts-big-brother",
+"verdict": "confirmed",
+"corrected_quote": "It’s time for Congress to rein them in and reform Section 230 of the Communications Decency Act to require transparency for content-enforcement decisions and disclosure of appeals processes—and to remove liability protections for companies who censor constitutionally protected speech.",
+"corrected_date": "2021-08-15",
+"note": "Quote is verbatim but truncated; the sentence also calls for removing Section 230 liability protections for companies that censor protected speech. YouTube removal of her news-conference video is described on the page. Note the piece is from 2021 and is about content moderation, not AI."
+},
+{
+"url": "https://malliotakis.house.gov/media/in-the-news/reopen-indian-point-power-plant",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-19",
+"note": "Same page as item 1; quote verbatim."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the four items touches AI safety, AI rules, or frontier-model risk at all (two energy op-eds, one 2021 Section 230/censorship op-ed). There is no evidence in these sources for a -1 'Targeted guardrails' position on AI risk.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "data_centers",
+"objection": "Evidence is one sentence naming data centers as a demand driver plus a general supply-side energy argument. She states no conditions on data center construction, nor any position on siting or ratepayer protections, so 'Build with conditions' reads more into the sources than they say. If a score is kept, the record leans toward plain build-more-supply; otherwise the evidence is thin for any position.",
+"suggested_score": 2,
+"suggested_label": "Build faster"
+}
+]
+},
+{
+"bioguide": "N000002",
+"checks": [
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/antitrust-subcommittee-ranking-member-nadler-s-opening-statement-at-hearing-on-artificial-intelligence-innovation-and-competition",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-02",
+"note": "Quote appears verbatim. Page also says AI 'poses tremendous risks' and centers FTC antitrust/consumer-protection enforcement plus 'thoughtful regulation', matching the claim."
+},
+{
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-garcia-nadler-lead-house-colleagues-in-demanding-answers-from-delta-ceo-about-ai-use-in-ticket-pricing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-05",
+"note": "Nadler named as co-lead in title; quote appears verbatim in the letter excerpt about Delta/Fetcherr AI pricing."
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-nadler-opening-statement-for-house-judiciary-committee-ip-subcommittee-hearing-on-artificial-intelligence-and-intellectual-property-part-iii-ip-protection-for-ai-assisted-inventions-and-creative-works",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-04-10",
+"note": "Quote verbatim. Page frames Copyright Office and PTO guidance as turning on how much human involvement there was, supporting the claim."
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/chairman-nadler-statement-for-the-markup-of-the-final-report-on-investigation-of-competition-in-digital-markets",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-04-14",
+"note": "Quote verbatim; page also says 'we must modernize and reinvigorate antitrust law and enforcement', matching the claim."
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/nadler-applauds-new-york-attorney-general-letitia-james-and-federal-trade-commission-for-filing-historic-antitrust-lawsuits-against-facebook",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2020-12-09",
+"note": "Quote verbatim and Nadler clearly backs the FTC/state suits over the Instagram and WhatsApp acquisitions. But the statement never says the acquisitions should be unwound; the 'including unwinding acquisitions' part of the claim goes beyond the page."
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/raskin-nadler-demand-answers-following-ouster-of-doj-antitrust-chief-gail-slater-and-increasing-political-interference-with-doj-merger-reviews",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-25",
+"note": "Page names Nadler as co-author, cites the HPE/Juniper merger and Alford's allegations that lobbyists drove DOJ decisions. Claim supported."
+},
+{
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/antitrust-subcommittee-ranking-member-nadler-s-opening-statement-at-hearing-on-artificial-intelligence-innovation-and-competition",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-04-02",
+"note": "Both sentences appear verbatim as the first two of his 'three simple truths' in the April 2, 2025 opening statement."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "E000297",
+"checks": [
+{
+"url": "https://espaillat.house.gov/media/press-releases/representative-adriano-espaillat-leads-ai-leadership-roundtable-equity-access",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-16",
+"note": "Quote appears verbatim in Espaillat's own statement; page describes the AI Literacy and Inclusion Act (NSF grants to K-12 schools, nonprofits) and his line about putting AI into school curricula and workforce development programs. Page dated May 16, 2025."
+},
+{
+"url": "https://espaillat.house.gov/media/press-releases/readout-chc-inaugural-artificial-intelligence-roundtable",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-08-01",
+"note": "Quote appears verbatim, attributed to Rep. Espaillat. His quote stresses responsible development plus U.S. AI competitiveness; bias/discrimination themes come from other CHC members quoted on the page (Barragan, Velazquez), not from Espaillat himself, but he convened the roundtable. Page dated August 1, 2024."
+},
+{
+"url": "https://espaillat.house.gov/media/press-releases/espaillat-lofgren-and-wyden-lead-congressional-efforts-close-data-broker",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-20",
+"note": "Quote appears verbatim in his statement. Page confirms the amendment, adopted by the Appropriations Committee with bipartisan support, bars FBI, DEA, U.S. Marshals, and ATF from buying personal data and is derived from the Fourth Amendment Is Not For Sale Act. Page dated May 20, 2026."
+},
+{
+"url": "https://espaillat.house.gov/media/press-releases/statement-rep-adriano-espaillat-vote-opposing-tiktok-ban",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-13",
+"note": "Quote appears verbatim. Page confirms he voted against the TikTok divest-or-ban bill, calling it 'put together very quickly' (supports 'rushed') and calling for comprehensive industry-wide privacy protections. Dated March 13, 2024."
+},
+{
+"url": "https://espaillat.house.gov/media/press-releases/readout-chc-inaugural-artificial-intelligence-roundtable",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-08-01",
+"note": "Headline quote appears verbatim, attributed to Rep. Espaillat on his own office's page."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "O000172",
+"checks": [
+{
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-24",
+"note": "Quote appears verbatim as her own statement. Release lists bill goals covering worker benefits, utility prices and public well-being, supporting the claim."
+},
+{
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-presses-epa-assistant-administrator-kramer-jeopardizing-clean",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-20",
+"note": "Quote verbatim from remarks as delivered. Page confirms she visited Morgan County, Georgia Meta campus weeks earlier, asked EPA to look into water impacts, and criticized executive orders fast-tracking construction."
+},
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-28",
+"note": "Mullin-led letter of 20 lawmakers to FERC, EEI and Data Center Coalition; Ocasio-Cortez listed as co-signer; quote verbatim from letter text."
+},
+{
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-secures-department-energy-study-impact-ai-data-centers-americans",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-04",
+"note": "Quote verbatim. Release describes her appropriations request for a DOE study on demand response and load flexibility; predates the June 2026 moratorium bill."
+},
+{
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-24",
+"note": "Quote verbatim. Release frames the moratorium as lasting until a federal framework addressing AI harms exists, consistent with the claim."
+},
+{
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-highlights-economic-threat-ai-bubble",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-18",
+"note": "Quote verbatim from remarks. Page includes '2008 style threats to economic stability', ties chatbot harms to profit pressure, and states 'we should not be entertaining a bailout' if the bubble pops."
+},
+{
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-lee-join-house-members-and-advocates-calling-pass-defiance-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Quote verbatim. Press conference with Rep. Laurel Lee and Paris Hilton confirmed; she explicitly contrasts TAKE IT DOWN removal with DEFIANCE civil recourse."
+},
+{
+"url": "https://www.washingtonexaminer.com/policy/technology/4628419/aoc-break-up-tech-giants-apple-hikes-prices/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-29",
+"note": "Quote verbatim from the article's lead sentence, which references a Fox News interview. Article body is paywalled beyond the lead; the item correctly labels this as a reporter's summary."
+},
+{
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-garcia-nadler-lead-house-colleagues-in-demanding-answers-from-delta-ceo-about-ai-use-in-ticket-pricing",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-05",
+"note": "Quote verbatim from letter excerpt. Ocasio-Cortez listed among co-signers. Could not verify the exact '24' signer count from the page text but the named list is roughly that size."
+},
+{
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-calls-out-pattern-corruption-behind-trump-and-republican-efforts",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-17",
+"note": "Quote verbatim. Remarks reference children's safety and public health and say Trump's executive order 'is endangering their lives'."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "Fetch tool returned no text for the PDF; downloaded and extracted directly. Quote verbatim; letter dated Nov 26, 2025 to Johnson, Thune, Jeffries, Schumer; 81 'Member of Congress' signatures including Alexandria Ocasio-Cortez."
+},
+{
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-24",
+"note": "Quote verbatim. Export ban is conditioned on safety and environmental laws, not framed around China or national security; the item's characterization is accurate."
+},
+{
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-24",
+"note": "Headline quote appears verbatim, attributed to Ocasio-Cortez."
+}
+],
+"score_objections": []
+}
+]

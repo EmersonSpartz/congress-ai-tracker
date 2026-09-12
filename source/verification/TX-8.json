@@ -1,0 +1,131 @@
+[
+{
+"bioguide": "C001063",
+"checks": [
+{
+"url": "https://texasborderbusiness.com/rep-cuellar-introduces-the-ratepayer-bill-of-rights-act-of-2026/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-28",
+"note": "Quote appears verbatim, attributed to Congressman Cuellar; page is a republished office press release on the Ratepayer Bill of Rights Act of 2026. Note the press-release version of the 'overarching rule' line reads 'Tell the public what the project will use, protect our water and electric services, and pay the costs your project creates.'"
+},
+{
+"url": "https://www.lmtonline.com/local/article/south-texas-data-centers-bill-of-rights-cuellar-22402294.php",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-27",
+"note": "Quote verbatim, followed by 'And they should not be kept in the dark.' Article covers the Aug. 24, 2026 Laredo press conference introducing the bill."
+},
+{
+"url": "https://www.kgns.tv/2026/08/17/cuellar-pushes-ratepayer-bill-rights-targeting-data-center-costs/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-17",
+"note": "Quote verbatim as the bill's 'overarching rule.' Page also states the legislation would not prevent state or local governments from enacting stronger protections, and that he heard data center concerns from residents in Webb, Jim Hogg, Zapata, Duval, Starr, Hidalgo and Atascosa counties (seven)."
+},
+{
+"url": "https://riograndeguardian.com/stories/gop-leadership-blocking-data-center-legislation-until-after-election-cuellar-says,82850",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-09-07",
+"note": "Quote verbatim. Page supports that he says GOP leadership will not put up any data center bills before the election, including his own and a bipartisan bill that already cleared committee. However the page never mentions a '52-0' committee vote; that detail is not on this page and should be dropped or sourced elsewhere."
+},
+{
+"url": "https://www.texastribune.org/2026/09/09/henry-cuellar-tano-tijerina-south-texas-28th-congressional-district-laredo/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-09",
+"note": "Quote verbatim (bracketed 'are' is in the source). Article frames data centers as a live issue in his race against Tano Tijerina and ties it to Laredo's search for secondary water sources and drought planning."
+},
+{
+"url": "https://www.lmtonline.com/local/article/south-texas-data-centers-bill-of-rights-cuellar-22402294.php",
+"verdict": "confirmed",
+"corrected_quote": "The basic promise of this bill is simple: If a data center creates the cost, the data center pays the cost. The family ratepayer does not.",
+"corrected_date": "2026-08-27",
+"note": "Verbatim, though split across two quotation segments in the source ('...pays the cost,' Cuellar said. 'The family ratepayer does not.'). Fine as a headline quote."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the six sources addresses AI safety, frontier-model rules, or AI risk in any form; they are exclusively about data center utility costs, water and transparency. A -1 'Targeted guardrails' score has no supporting evidence in this item set.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "The sources show him wanting data centers to pay their own infrastructure costs and disclose usage, but contain nothing on platform regulation, antitrust, privacy, or Big Tech generally. Ratepayer cost-allocation is already captured by data_centers -1; scoring tech_regulation from the same evidence double-counts it. Evidence too thin for a position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "G000587",
+"checks": [
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Page lists 'Sylvia R. Garcia (TX-29)' among signers. Quote appears verbatim (preceded by 'Unfortunately,'). Letter calls advanced AI 'a clear risk to the safety and security of the American people' and says it 'threatens to displace millions of American workers'; signed by Casar, Ramirez and 19 other Democrats (21 total)."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "fetch tool returned 0 chars for the PDF; downloaded and extracted text directly. Letter dated November 26, 2025. Quote appears verbatim. 'Sylvia R. Garcia, Member of Congress' appears in the signature block on page 6. Letter opposes reviving the moratorium in the NDAA or via executive action."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote appears verbatim. 'Sylvia Garcia' is listed among the 44 signers. Letter urges preventing 'any AI moratorium or preemption' from the final FY26 NDAA and says preemption would 'let Big Tech run rampant'."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Verbatim on the page as part of the letter text; Garcia is a signer, not the author (letter led by Casar and Ramirez)."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "C001130",
+"checks": [
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Casar press release (Aug 10, 2026) lists Jasmine Crockett (TX-30) among signers of the letter to Speaker Johnson. Quote appears verbatim in the letter excerpt. Letter says advanced AI models 'pose a clear risk to the safety and security of the American people' and 'threatens to displace millions of American workers'; release ties it to OpenAI/Anthropic/Meta reports of models escaping test environments. Two leads plus 19 additional signers, so 'joined 19 Democrats' is approximately right (20 others besides her)."
+},
+{
+"url": "https://www.texastribune.org/2026/02/19/texas-2026-primaries-ai-ads-candidates-crockett-cornyn-paxton/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-19",
+"note": "Article describes Paxton's partly AI-generated video of Cornyn dancing with Crockett. Quote is verbatim (curly apostrophe), attributed to Crockett's campaign via KXAN; the campaign's response criticizes the attack on bipartisanship and does not call for AI-in-campaigns rules. Note this is a campaign statement, not Crockett personally, and it is weak evidence for an ai_risk position."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Verbatim in the letter text; Crockett is a listed signer. Quote is collective letter language, not her individual statement."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the cited sources mention export controls, chips, or China. A -1 'Leans hawkish' score has no evidentiary basis in the items checked.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

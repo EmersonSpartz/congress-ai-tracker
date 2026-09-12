@@ -1,0 +1,363 @@
+[
+{
+"bioguide": "J000305",
+"name": "Sara Jacobs",
+"signature": "Bipartisan AI Task Force member who co-led the GUARDRAILS Act against preempting state AI laws and sponsors bills on Pentagon AI failures, frontier-model nuclear risks, autonomous weapons, and AI job losses.",
+"groups": [
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress), member",
+"New Democrat Coalition Artificial Intelligence Working Group, Vice Chair"
+],
+"notable_quote": {
+"text": "President Trump's laissez-faire approach to AI regulation and trampling on states' AI rights is incredibly dangerous for Americans' rights and safety",
+"date": "2026-03-20",
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers, their electricity use, water use, or ratepayer costs were found as of Sept 2026. Searches covered her press releases, Google News, and the Pentagon base data center debate on her Armed Services Committee.",
+"evidence": []
+},
+"ai_risk": {
+"score": -2,
+"confidence": "medium",
+"summary": "Jacobs wants binding federal AI rules now. She sponsors bills to let agencies write enforceable AI rules, to test the most advanced models for nuclear and catastrophic risks, to track Pentagon AI failures, and to keep humans in control of lethal and nuclear decisions. She pairs this with language about encouraging innovation.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Jacobs and Maloy introduce the ATOMIC Act to test advanced AI for nuclear risks",
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-sara-jacobs-celeste-maloy-introduces-the-atomic-act-to-strengthen-ai-nuclear-security",
+"date": "2026-07-29",
+"quote": "As AI becomes more powerful, we have a responsibility to identify and guard against new risks before they become real-world threats.",
+"what_it_shows": "She backs a mandatory Energy Department program to test frontier models from the largest developers for deception, guardrail bypass, and nuclear-related dangers, and calls these guardrails a first step against worst-case scenarios."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 9965, AI Threat Output and Monitoring Incident Containment (ATOMIC) Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9965",
+"date": "2026-07-27",
+"quote": null,
+"what_it_shows": "Co-lead of a bill requiring evaluation of the most advanced AI systems for nuclear-related risks and containment protocols."
+},
+{
+"type": "statement",
+"title": "Press release: Jacobs introduces the Sectoral AI Governance Act",
+"url": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-introduces-bill-to-hold-ai-accountable-for-breaking-the-law",
+"date": "2026-06-03",
+"quote": "My Sectoral AI Governance Act gives federal agencies clearer authority to write and enforce rules when AI is used to break existing federal laws.",
+"what_it_shows": "She wants every federal agency to write binding rules for AI in the sector it already oversees, a comprehensive regulatory framework rather than voluntary standards."
+},
+{
+"type": "sponsor",
+"title": "H.R. 9125, Sectoral AI Governance Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9125",
+"date": "2026-06-03",
+"quote": null,
+"what_it_shows": "Lead sponsor of a bill giving agencies authority to issue AI rules whenever AI is likely to contribute to violations of existing law."
+},
+{
+"type": "statement",
+"title": "Press release: Beyer, Barrett, Jacobs introduce the Human Authority over Autonomous Weapons Act",
+"url": "https://sarajacobs.house.gov/news/press-releases/beyer-barrett-jacobs-introduce-bipartisan-legislation-requiring-human-control-over-autonomous-weapons",
+"date": "2026-07-17",
+"quote": "AI mistakes on the battlefield have the potential to be catastrophic: civilian casualties, friendly fire, unintended escalation, and calculations made on faulty data",
+"what_it_shows": "She wants a legal requirement that a human decision-maker stay in the loop before any AI-enabled weapon uses lethal force."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 9729, Human Authority over Autonomous Weapons Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9729",
+"date": "2026-07-16",
+"quote": null,
+"what_it_shows": "Co-lead of a bill requiring meaningful human control over lethal autonomous weapons."
+},
+{
+"type": "statement",
+"title": "Press release: Jacobs introduces bipartisan bill to address AI weaknesses and failures at the Pentagon",
+"url": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-introduces-bipartisan-legislation-to-address-ai-weaknesses-and-failures-at-pentagon",
+"date": "2026-08-31",
+"quote": "when AI fails at the Pentagon, the consequences can be deadly and could even pull the United States into a war",
+"what_it_shows": "She treats military AI failures as potentially catastrophic and wants a department-wide incident and vulnerability reporting program; the provision passed the House in the FY27 NDAA."
+},
+{
+"type": "sponsor",
+"title": "H.R. 10189, Defense AI Reliability and Reporting Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10189",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "Lead sponsor of a bill making the Pentagon track and fix AI incidents and report to Congress."
+},
+{
+"type": "statement",
+"title": "Press release: Jacobs and Lieu praise inclusion of provision preventing autonomous AI from launching nuclear weapons in the FY25 NDAA",
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-and-lieu-praise-armed-services-committee-for-including-provision-in-defense-authorization-bill-to-prevent-autonomous-ai-from-launching-nuclear-weapons",
+"date": "2024-05-29",
+"quote": "AI should never have the final say in deploying nuclear weapons, which pose one of the biggest threats to human life",
+"what_it_shows": "She authored the committee amendment that put a human-in-the-loop requirement for nuclear launches into the defense bill, citing AI's escalatory behavior in war games."
+},
+{
+"type": "statement",
+"title": "Press release: Jacobs on the Bipartisan AI Task Force final report",
+"url": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-secures-key-wins-in-bipartisan-ai-task-force-report",
+"date": "2024-12-17",
+"quote": "This is our opportunity to strike the right balance that encourages innovation and American leadership, while also creating guardrails that protect our rights and safety.",
+"what_it_shows": "Shows her framing: guardrails on rights and safety paired with support for innovation, plus a push to empower sectoral regulators."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 5511, Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-19",
+"quote": null,
+"what_it_shows": "Supports mandatory bias and harm testing of automated decision systems with reporting to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8094, AI Foundation Model Transparency Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8094",
+"date": "2026-03-26",
+"quote": null,
+"what_it_shows": "Supports requiring large AI developers to disclose training data and testing."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 9477, AI Incident Reporting Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
+"date": "2026-08-24",
+"quote": null,
+"what_it_shows": "Supports a system for reporting AI accidents and harms."
+},
+{
+"type": "statement",
+"title": "Fortune report quoting Jacobs's joint press release on the AI Tax and Work Protection Act (H.R. 10044)",
+"url": "https://fortune.com/2026/09/01/bill-tax-ai-tokens-fund-jobs-technology-unemployment/",
+"date": "2026-09-01",
+"quote": "If Congress does nothing, the rise of AI could create the biggest wealth transfer in history from the bottom to the top",
+"what_it_shows": "She co-introduced a bill taxing AI companies, with rates rising if unemployment climbs, to fund jobs for displaced workers."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 10044, AI Tax and Work Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10044",
+"date": "2026-08-06",
+"quote": null,
+"what_it_shows": "Co-lead of a bill taxing companies that replace workers with AI."
+},
+{
+"type": "statement",
+"title": "Press release: Jacobs, Horsford, Moylan introduce the AI-Related Job Impacts Clarity Act",
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-horsford-moylan-introduce-legislation-to-protect-workers-from-ai-driven-layoffs",
+"date": "2026-06-19",
+"quote": "We know that AI will rapidly transform our economy and our workforce, but we don't yet know when, how, or to what extent.",
+"what_it_shows": "She wants large employers to report AI-driven layoffs to the Labor Department so Congress can legislate on job losses."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 9352, AI-Related Job Impacts Clarity Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9352",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Co-lead of a bill requiring disclosure of AI-related layoffs."
+},
+{
+"type": "statement",
+"title": "Press release (Obernolte site): Obernolte and Jacobs introduce the Economy of the Future Commission Act",
+"url": "https://obernolte.house.gov/media/press-releases/rep-obernolte-rep-jacobs-introduce-bipartisan-bill-prepare-american-workers-ai",
+"date": "2026-04-21",
+"quote": "I'm constantly hearing from young people who are absolutely terrified that AI will take their jobs and make their degrees irrelevant.",
+"what_it_shows": "Bipartisan work with the House AI Task Force chair on a commission to study AI's labor-market effects, showing she also works across the aisle on study-first measures."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "She backs targeted privacy rules, such as protecting reproductive health data and stopping warrantless purchases of location data, and has called for comprehensive privacy law and guardrails for social media. But she voted against the 2024 TikTok divest-or-ban bill, calling it a blunt instrument and a free-speech risk.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Jacobs votes against the TikTok ban (H.R. 7521)",
+"url": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-votes-against-tiktok-ban",
+"date": "2024-03-13",
+"quote": "Instead, we need comprehensive data privacy legislation, alongside thoughtful guardrails for social media platforms",
+"what_it_shows": "She favors privacy law and platform guardrails over app bans, and warned the TikTok bill would expand government power to ban apps and harm civil liberties."
+},
+{
+"type": "sponsor",
+"title": "H.R. 3420 (118th), My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Lead sponsor of a privacy bill with 119 cosponsors restricting collection and sharing of reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 4639 (118th), Fourth Amendment Is Not For Sale Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4639",
+"date": "2023-07-14",
+"quote": null,
+"what_it_shows": "Supports stopping government agencies from buying Americans' data from brokers without a warrant."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 3218, Reproductive Data Privacy and Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-05-06",
+"quote": null,
+"what_it_shows": "Continues her targeted privacy work in the 119th Congress."
+},
+{
+"type": "statement",
+"title": "Press release: Jacobs leads bipartisan resolution condemning antisemitic content on AI platforms",
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-bacon-ciscomani-friedman-lead-bipartisan-resolution-condemning-antisemitic-content-on-ai-platforms",
+"date": "2025-12-18",
+"quote": "Corporations must play a role too in maintaining standards and safeguards for AI systems that protect human rights and the safety of all people",
+"what_it_shows": "After Grok's antisemitic posts, she urged robust, transparent safeguards from AI and social media companies, a call for platform accountability short of new binding law."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Strong opponent of federal preemption of state AI laws. She co-led the GUARDRAILS Act to repeal Trump's December 2025 executive order, signed both House Democratic letters against an AI moratorium, and praised states like California for acting where Congress has not.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Jacobs blasts Trump's executive order to block state-level AI laws",
+"url": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-blasts-trumps-executive-order-to-block-state-level-ai-laws",
+"date": "2025-12-11",
+"quote": "This executive order is deeply misguided, wildly corrupt, and will actually hinder innovation and weaken public trust in the long run.",
+"what_it_shows": "She opposed the December 2025 preemption order, credited states with addressing deepfakes, election disinformation, and unsafe chatbots, and vowed to fight it in the courts and Congress."
+},
+{
+"type": "statement",
+"title": "Press release: Jacobs, Beyer, Matsui, Lieu, McClain Delaney introduce the GUARDRAILS Act",
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"date": "2026-03-20",
+"quote": "President Trump's laissez-faire approach to AI regulation and trampling on states' AI rights is incredibly dangerous for Americans' rights and safety",
+"what_it_shows": "She co-led the House bill to block the executive order and criticized the March 2026 White House framework for preempting states without enforceable federal guardrails."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8031, GUARDRAILS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Original co-lead of the bill protecting states' right to enforce their own AI laws."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "our strong opposition to any effort in the National Defense Authorization Act (NDAA) that would reintroduce a sweeping moratorium on the ability of states and local governments to enforce their own artificial intelligence (AI) laws",
+"what_it_shows": "Jacobs is one of the 81 signers telling congressional leaders not to revive the state AI-law moratorium or override states by executive order or by withholding broadband funds."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "Jacobs is listed among the 44 signers asking defense-bill negotiators to keep any preemption of state AI laws out of the NDAA."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward tighter export controls. She cosponsored the export-control transparency law and signed an August 2026 bipartisan letter urging Commerce to close loopholes that let Americans sell AI and surveillance tools to Chinese security agencies. No statement was found on Nvidia H20 or H200 sales.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "H.R. 1316, Maintaining American Superiority by Improving Export Control Transparency Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1316",
+"date": "2025-02-13",
+"quote": null,
+"what_it_shows": "Early cosponsor of a bill making the export-control office report to Congress each year on which technology licenses it approved and denied; it later became law."
+},
+{
+"type": "letter",
+"title": "News report: bipartisan letter to Commerce Secretary Lutnick urging a ban on Americans aiding Chinese and Russian civilian intelligence agencies, signed by Jacobs",
+"url": "https://www.thenews.com.pk/latest/1413570-us-lawmakers-urge-trump-to-bar-americans-from-aiding-chinese-security-agencies",
+"date": "2026-08-25",
+"quote": "Foreign intelligence agencies in many countries can still legally hire consultants in the United States and buy advanced U.S. surveillance, cyber, and artificial intelligence technology",
+"what_it_shows": "She joined Wyden, Cornyn, Welch, McCaul and Harrigan in pressing Commerce to finalize stricter controls, a tightening posture on technology flows to China's security services."
+}
+]
+}
+},
+"search_notes": "Read her official press-release archive (23 AI/tech releases since 2025) and fetched the EO statement, GUARDRAILS Act release, Sectoral AI Governance Act, ATOMIC Act, autonomous weapons bill, Defense AI Reliability Act, AI layoffs bill, antisemitic-AI resolution, TikTok vote, AI Task Force report, and 2024 nuclear-launch release. Google News queries: artificial intelligence; AI; data center(s); electricity/ratepayers/power grid; chatbot/deepfake/Big Tech/Section 230; Nvidia/export controls/chips; KOSA/App Store; Anthropic/Pentagon/kill switch; Grok/AI Overwatch/Huawei/H20; Leading the Future/Think Big/super PAC; superintelligence/extinction. Confirmed her signature in the Matsui letter PDF (81 signers) and the Clarke letter (44 signers). No data center statements found. No AI super PAC support or attacks found (2020 coverage of family-funded PACs is unrelated). Casar's press release on H.R. 10044 returned 404, so the joint-release quote is cited via Fortune's verbatim report. Google News URL decoding was rate-limited late in the session, so the Politico March 2026 Gulf AI-export article and the Nextgov Sept 4 bills roundup were not opened. The landscape file lists her as a Congressional AI Caucus member, but her official caucus page does not, so it is omitted from groups. SDUT May 2026 candidate Q&A contained no AI content. Search engines (DuckDuckGo, Bing) and congress.gov member search were blocked."
+},
+{
+"bioguide": "V000130",
+"name": "Juan Vargas",
+"signature": "No notable public AI activity found; his one tech-policy statement is a 2024 vote against the TikTok divest-or-ban bill on free-speech grounds.",
+"groups": [],
+"notable_quote": {
+"text": "We should respond to any national security threat posed by TikTok in a way that stays true to our country's commitment to freedom of speech.",
+"date": "2024-03-13",
+"url": "https://vargas.house.gov/media/press-releases/rep-vargas-statement-on-voting-no-on-legislation-that-would-ban-tiktok"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers, electricity bills, or AI energy use were found as of Sept 2026. His only related vote is a Nay on the SPEED Act permitting bill, which nearly all House Democrats also opposed and which he did not explain in data center terms.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356 (Dec 18, 2025): passage of H.R. 4776, SPEED Act permitting reform; Vargas voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed a Republican permitting-reform bill often linked to faster energy and data center build-out, but the vote was a near party-line vote on environmental review and is not a stated data center position."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searches of his press releases, news coverage, Financial Services Committee activity, and his May 2026 candidate questionnaire turned up no statements on AI safety, chatbots, deepfakes, or AI rules, and he has sponsored or cosponsored no AI bills in the 119th Congress.",
+"evidence": []
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Limited record. He cosponsored the My Body, My Data Act to protect reproductive health data and voted against the 2024 TikTok divest-or-ban bill, saying Congress should protect national security and user privacy without restricting free speech.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Vargas statement on voting No on legislation that would ban TikTok",
+"url": "https://vargas.house.gov/media/press-releases/rep-vargas-statement-on-voting-no-on-legislation-that-would-ban-tiktok",
+"date": "2024-03-13",
+"quote": "We should respond to any national security threat posed by TikTok in a way that stays true to our country's commitment to freedom of speech.",
+"what_it_shows": "He opposed the forced-sale bill on free-speech grounds while saying he wants legislation that safeguards national security and protects user privacy."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 3420 (118th), My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Supports a targeted privacy law restricting collection and sharing of reproductive health data."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. He did not sign the November 2025 Matsui letter or the December 2025 Clarke letter against an AI moratorium, and he is not a cosponsor of the GUARDRAILS Act. His No vote on H.R. 1 was on the whole reconciliation bill and says nothing specific about the state AI-law moratorium.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. No statements, letters, or bills on chip export controls or Nvidia sales to China were located as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "Google News queries: artificial intelligence; Rep. Juan Vargas AI; data center(s); chatbot/deepfake/Big Tech/Section 230; Nvidia/export controls/China chips; Financial Services artificial intelligence hearing; Leading the Future/super PAC; state AI laws/moratorium/preemption; TikTok/Kids Online Safety/privacy; TAKE IT DOWN/DEFIANCE/NO FAKES; superintelligence/AI safety/OpenAI/Anthropic; local data centers (Otay Mesa, Chula Vista, National City). Ran the archived-site listing for vargas.house.gov with default and broadened tech filters (only the 2024 TikTok statement matched) and scanned his press-release index pages 1 to 3 (April 2025 through August 2026): housing, immigration, border pollution, Fed independence, Iran, no AI or tech items. Fetched the SDUT May 2026 candidate Q&A: no AI or data center content beyond a note that he used no AI tools to answer. Checked the Matsui letter PDF text (81 signers, Vargas absent), the Clarke letter (Vargas absent), and the GUARDRAILS Act release cosponsor list (absent). Checked govtrack roll calls h356 (SPEED Act, Nay) and h190 (H.R. 1, No). Could not verify whether he sat on the 118th Financial Services AI Working Group because the January 2024 announcement page was not retrievable and Google URL decoding was rate-limited; his 119th subcommittees do not include the Digital Assets, Financial Technology and AI subcommittee. His campaign site issues page returned no text. No AI super PAC support or attacks found. Search engines (DuckDuckGo, Bing) and congress.gov member search were blocked."
+}
+]

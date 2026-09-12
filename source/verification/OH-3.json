@@ -1,384 +1,204 @@
 [
 {
-"bioguide": "B001313",
+"bioguide": "M001222",
 "checks": [
 {
-"url": "https://shontelbrown.house.gov/media/press-releases/congresswoman-brown-introduces-legislation-protect-elections-ai-deception",
+"url": "https://maxmiller.house.gov/posts/congressman-max-miller-introduces-adversaries-act-to-close-export-control-loophole-exploited-by-china",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2024-06-27",
-"note": "Quote appears verbatim in Brown's own statement announcing the Securing Elections from AI Deception Act (only a double space after 'democracy.' differs)."
+"corrected_date": "2025-12-02",
+"note": "Page loaded directly (status 200). Quote appears verbatim, attributed to Congressman Miller. Release confirms Miller (OH-07) and Rep. Jefferson Shreve introduced the ADVERSARIES Act; it redefines 'foreign person' under the Export Control Reform Act to cover 1260-H, Military End User and Entity List Chinese companies plus subsidiaries/affiliates owned 50%+, broadening BIS authority to add companies to the Entity List. Claim matches. Dateline Dec 02, 2025."
 },
 {
-"url": "https://shontelbrown.house.gov/media/press-releases/congresswoman-brown-leads-letter-urging-fec-classify-ai-deepfakes-fraudulent",
+"url": "https://maxmiller.house.gov/posts/congressman-max-miller-introduces-adversaries-act-to-close-export-control-loophole-exploited-by-china",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2024-08-27",
-"note": "Quote verbatim. Page confirms Brown led a letter supporting Public Citizen's petition that existing fraudulent-misrepresentation law applies to AI campaign content, and explicitly ties it to the Aug 14, 2024 Grok-2 release."
-},
-{
-"url": "https://shontelbrown.house.gov/media/press-releases/brown-sewell-lead-bipartisan-letter-artificial-intelligence-interference-2024",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2024-03-13",
-"note": "Quote verbatim (page continues '– and the federal government needs to have a plan to address it'). Page confirms 33 House signers, letter to DOJ/DHS/EAC, and focus on Black and minority voters."
-},
-{
-"url": "https://shontelbrown.house.gov/media/press-releases/brown-leads-oversight-letter-dhs-ices-troubling-mass-surveillance-tech",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-02-19",
-"note": "Quote verbatim. Letter to Secretary Noem with Oversight Committee colleagues, 12 signers, demands legal authority and privacy safeguards for cellphone location tracking (Penlink). Note the item is filed under ai_risk though the subject is surveillance tech, not AI specifically."
-},
-{
-"url": "https://shontelbrown.house.gov/media/press-releases/congresswoman-shontel-brown-leads-bipartisan-push-equip-federal-workforce-ai",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-06-16",
-"note": "Quote verbatim; co-led with Rep. Mace. Bill summary says training 'Covers AI Benefits and Risks' including privacy safeguards and cybersecurity measures."
-},
-{
-"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-obernolte-fallon-brown-and-sens-kim-husted-lead-bipartisan-and-bicameral-bill-to-recruit-top-ai-talent-to-federal-government",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-10",
-"note": "Quote verbatim, attributed to Congresswoman Shontel Brown on Rep. Jacobs's release; Brown named as House co-lead."
-},
-{
-"url": "https://shontelbrown.house.gov/media/press-releases/brown-wyden-call-gao-investigation-after-dot-fails-protect-airline-passenger",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-08-27",
-"note": "Quote verbatim, attributed to 'the lawmakers' (Brown and Wyden) in the letter to the Acting Comptroller General. Supports claim of wanting active privacy enforcement."
-},
-{
-"url": "https://shontelbrown.house.gov/media/press-releases/brown-trahan-delbene-demand-independent-investigation-doge-privacy-violations",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-04-04",
-"note": "Quote verbatim from the joint letter; page repeatedly invokes the Privacy Act as the legal standard violated by the DOGE staffer's disclosure."
-},
-{
-"url": "https://shontelbrown.house.gov/media/press-releases/congresswoman-shontel-brown-statement-tiktok",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-01-18",
-"note": "Quote verbatim. Statement supports divestiture on national-security/privacy grounds while opposing an outright ban and urging more time."
-},
-{
-"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-11-26",
-"note": "Fetch tool returned empty text for the PDF; downloaded and extracted it directly. Quote verbatim on p.1; 'Shontel M. Brown / Member of Congress' appears in the signature block; letter dated Nov 26, 2025 and opposes both the NDAA moratorium and the preemption executive order."
-},
-{
-"url": "https://shontelbrown.house.gov/media/press-releases/congresswoman-brown-introduces-legislation-protect-elections-ai-deception",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2024-06-27",
-"note": "Same page as item 1; headline quote verbatim."
+"corrected_date": "2025-12-02",
+"note": "Same page; headline quote appears verbatim as Miller's own words: 'The United States cannot afford to let the Chinese Communist Party use our own system against us,' said Congressman Miller."
 }
 ],
 "score_objections": [
 {
-"dimension": "data_centers",
-"objection": "None of the 11 sources mentions data centers, energy, ratepayers, or permitting. There is no evidence in this record for any data_centers position; -1 'Protect ratepayers first' is unsupported by the cited material.",
-"suggested_score": null,
-"suggested_label": null
-},
-{
-"dimension": "china_chips",
-"objection": "No source addresses semiconductor export controls or chip sales. The only foreign-adversary item is the TikTok divestiture statement, which concerns data security of a social app, not chips. -1 'Leans hawkish' rests on no cited evidence.",
+"dimension": "ai_risk",
+"objection": "None of the sources supplied for this member address AI safety or AI regulation; the only cited evidence is the ADVERSARIES Act export-control release, which supports china_chips but says nothing about AI risk. Unless other sourced evidence exists, -1 'Targeted guardrails' is unsupported by the checked items.",
 "suggested_score": null,
 "suggested_label": null
 }
 ]
 },
 {
-"bioguide": "B001306",
+"bioguide": "D000626",
 "checks": [
 {
-"url": "https://balderson.house.gov/news/documentsingle.aspx?DocumentID=2887",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-09-18",
-"note": "Quote appears verbatim in Balderson's statement on the Central Ohio data center hub; page dated Sept 18, 2025."
-},
-{
-"url": "https://energycommerce.house.gov/posts/energy-and-commerce-committee-holds-hearing-on-ai-and-american-global-competitiveness",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-04-09",
-"note": "Verbatim quote attributed to Balderson (OH-12); he goes on to ask Dr. Schmidt what role tech companies should have in bringing new generation online. Committee release dated Apr 10, 2025 says the hearing was 'yesterday' (Apr 9, 2025)."
-},
-{
-"url": "https://www.whiznews.com/legislators-address-ai-data-center-concerns-at-a-zanesville-event/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-02-15",
-"note": "Quote verbatim, attributed to Balderson at the Zanesville event; article published Feb 15, 2026."
-},
-{
-"url": "https://balderson.house.gov/news/documentsingle.aspx?DocumentID=2994",
-"verdict": "confirmed",
-"corrected_quote": "By giving states and utilities the tools they need, we can ensure we expand and improve our grid as efficiently as possible—saving Ohio families money while boosting our nation's energy security",
-"corrected_date": "2026-07-23",
-"note": "Quote is a verbatim fragment; full sentence continues with the savings clause. Load Forecasting Enhancement Act approved 47-0 in full-committee markup; release dated July 23, 2026."
-},
-{
-"url": "https://menendez.house.gov/media/press-releases/menendez-and-balderson-applaud-advancement-of-key-grid-reliability-bill",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-06-24",
-"note": "Verbatim Balderson quote in the joint Menendez release dated June 24, 2026."
-},
-{
-"url": "https://balderson.house.gov/news/documentsingle.aspx?DocumentID=2905",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-02",
-"note": "Verbatim Balderson quote on the CLEAR Act; release dated Dec 2, 2025. Bill is about energy projects generally rather than data centers specifically, but the build-faster framing is accurate."
-},
-{
-"url": "https://www.govtrack.us/congress/bills/119/hr9340/cosponsors",
+"url": "https://davidson.house.gov/2026/7/davidson-warns-about-the-global-expansion-of-censorship-and-surveillance",
 "verdict": "partially_supported",
 "corrected_quote": null,
-"corrected_date": "2026-09-10",
-"note": "GovTrack lists Balderson (Energy Subcommittee) as 'No' for cosponsorship, so the factual core holds. But cosponsor join dates show the bill was introduced around Sept 10, 2026, two days before today, so non-cosponsorship is very weak evidence; the page also does not describe the 100 MW incremental-cost provision or call it a 'flagship' bill."
+"corrected_date": "2026-07-20",
+"note": "Quote is verbatim and the speech does frame Palantir/Flock surveillance networks as a liberty threat and urges governments to defend freedom. However the speech never mentions AI; 'AI-driven' is the tracker's inference, and the item is tagged ai_risk on that basis."
 },
 {
-"url": "https://energycommerce.house.gov/posts/energy-and-commerce-committee-holds-hearing-on-ai-and-american-global-competitiveness",
+"url": "https://davidson.house.gov/2025/7/rep-warren-davidson-will-vote-in-favor-of-president-trump-s-one-big-beautiful-bill",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2025-04-09",
-"note": "His quoted exchange with Schmidt is entirely about data center power demand and new generation, not AI rules. The 'only AI hearing appearance found' framing cannot be verified from this page alone."
+"corrected_date": "2025-07-02",
+"note": "Quote verbatim ('Notable progress was made—AI surveillance removed, SALT costs $220 billion instead of $350 billion, Medicaid reforms are bigger—but other things got worse'). Page does not identify what the 'AI surveillance' provision was; the claim correctly flags that."
 },
 {
-"url": "https://www.meritalk.com/articles/house-republicans-form-task-force-to-tackle-data-privacy-standards/",
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2025-02-18",
-"note": "Balderson named as a member of the E&C Republican data privacy working group (announced Feb 12, 2025; article Feb 18, 2025). Note the article says the group aims for a national standard that would prevent states from adding restrictions, i.e. it has a preemption component."
+"corrected_date": "2026-07-17",
+"note": "Quote verbatim; Davidson (OH-08) appears in the list of members. Note the page says '12 Republican members' but only lists 11 names. Page does not itself say Anthropic-backed."
 },
 {
-"url": "https://carey.house.gov/2022/01/14/mike-carey-calls-restore-us-leadership-semiconductor-chip-manufacturing",
+"url": "https://davidson.house.gov/2024/4/rep-warren-davidson-statement-on-the-house-of-representatives-passing-the-fourth-amendment-is-not-for-sale-act",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2022-01-14",
-"note": "Carey release says the letter urging full funding of the CHIPS for America Act was 'Led by Congressman Troy Balderson' with other Ohio Republicans; dated Jan 14, 2022. About domestic manufacturing subsidies, not export controls, as the claim states."
+"corrected_date": "2024-04-17",
+"note": "Quote verbatim. Bill described as stopping the federal government from buying Americans' data from big tech without a court order, i.e. a check on government."
 },
 {
-"url": "https://www.whiznews.com/legislators-address-ai-data-center-concerns-at-a-zanesville-event/",
+"url": "https://davidson.house.gov/2026/3/davidson-introduces-sweeping-fisa-reform-bill",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-02-15",
-"note": "Headline quote appears verbatim and is attributed to Balderson."
-}
-],
-"score_objections": []
+"corrected_date": "2026-03-12",
+"note": "Quote verbatim, attributed to Davidson; bill summary confirms warrant requirement and ban on government purchases from data brokers without a warrant. Bipartisan with Sen. Wyden."
 },
 {
-"bioguide": "S001223",
-"checks": [
-{
-"url": "https://rollcall.com/2026/02/24/trump-touts-push-to-contain-ai-energy-costs/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-02-24",
-"note": "Roll Call names Sykes as panel ranking member and quotes her verbatim; article itself says she 'worked to thread a needle between support for investment in her district and concern about electricity costs', matching the claim."
-},
-{
-"url": "https://rollcall.com/2026/02/24/trump-touts-push-to-contain-ai-energy-costs/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-02-24",
-"note": "Quote verbatim; article adds she advocated 'strong guardrails' to protect host communities and continued 'That's not the approach that I advocate for'. Supports claim."
-},
-{
-"url": "https://sykes.house.gov/media/press-releases/house-science-space-and-technology-committee-passes-rep-sykes-amendment-to-help-small-manufacturers-utilize-ai",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2024-09-13",
-"note": "Quote verbatim from Sykes' own release; amendment expands Manufacturing Extension Partnership AI training for small manufacturers. Release says nothing about restrictions either way, so 'not restrictions' is an inference, but adoption/workforce focus is directly supported."
-},
-{
-"url": "https://legis1.com/news/ai-workforce-opportunities-committee-examines-ais",
+"url": "https://davidson.house.gov/2026/7/davidson-warns-about-the-global-expansion-of-censorship-and-surveillance",
 "verdict": "partially_supported",
 "corrected_quote": null,
-"corrected_date": "2026-07-13",
-"note": "Legis1 confirms the Science Committee advanced 10 AI bills in late June with 'Rep. Sykes securing adoption of a workforce amendment'. The 'rather than safety mandates' contrast is not in the source; the same paragraph notes bipartisan transparency and security-vulnerability proposals moving alongside, without describing Sykes' stance on them."
+"corrected_date": "2026-07-20",
+"note": "Quote verbatim. He criticizes a 'digital ID bill' passed under the 'guise of protecting kids', but never uses the term 'age verification' or discusses kids online safety policy directly; the claim's specificity outruns the text."
 },
 {
-"url": "https://newrepublic.com/post/215341/anthropic-ai-regulate-money-extinction",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-09-11",
-"note": "Sentence appears verbatim; Sykes listed among Think Big endorsements without financial support. Article frames Think Big as Leading the Future's Democratic arm opposing state AI regulation."
-},
-{
-"url": "https://sykes.house.gov/media/press-releases/rep-sykes-votes-protect-americans-privacy-security-online",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2024-03-13",
-"note": "Quote verbatim (preceded in the release by 'As a member of the House Committee on Science, Space, and Technology,'). Release confirms her vote for H.R. 7521, which passed 352-65-1."
-},
-{
-"url": "https://sykes.house.gov/media/press-releases/rep-sykes-house-democrats-introduce-new-bill-to-stop-musk-from-invading-americans-privacy",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-02-07",
-"note": "Fragment verbatim from her statement supporting the Taxpayer Data Protection Act, which limits who can access Treasury payment systems. Note this is about government (DOGE) data access, not tech-industry regulation, so it is weak evidence for a tech_regulation score."
-},
-{
-"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-11-26",
-"note": "Fetch tool returned empty text for the PDF; downloaded and extracted with pypdf. Quote verbatim. 'Emilia Strong Sykes, Member of Congress' appears among signers (page 7). Letter opposes NDAA moratorium on state AI law enforcement and a preemption EO, noting Congress should not freeze state safeguards 'least of all when there are no meaningful federal' protections."
-},
-{
-"url": "https://sykes.house.gov/media/press-releases/rep-sykes-rejects-claim-that-bipartisan-chips-act-is-horrible-for-the-country",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-03-07",
-"note": "Quote verbatim. Release is about defending CHIPS and Science Act funding for the Akron Sustainable Polymers Tech Hub; no mention of chip export controls, consistent with null china_chips score."
-},
-{
-"url": "https://rollcall.com/2026/02/24/trump-touts-push-to-contain-ai-energy-costs/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-02-24",
-"note": "Headline quote verbatim, attributed to Sykes by Roll Call."
-}
-],
-"score_objections": []
-},
-{
-"bioguide": "J000295",
-"checks": [
-{
-"url": "https://appropriations.house.gov/news/remarks/joyce-remarks-oversight-hearing-us-federal-trade-commission",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-05-15",
-"note": "Quote appears verbatim in Joyce's opening remarks as FSGG subcommittee chairman; preceded by AI framing ('emergence of artificial intelligence... American innovators are at the forefront'). Claim matches."
-},
-{
-"url": "https://appropriations.house.gov/news/remarks/joyce-remarks-oversight-hearing-us-federal-trade-commission",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-05-15",
-"note": "Verbatim. Followed by 'I look forward to hearing more about the Commission's implementation of this important piece of legislation and the additional resources that will be required.' Supports the funding-enforcement claim."
-},
-{
-"url": "https://joyce.house.gov/posts/joyce-rice-and-norman-introduce-bill-to-hold-big-tech-accountable",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2021-11-02",
-"note": "Verbatim Joyce quote. Page confirms the bill makes violations an unfair or deceptive practice under Section 5 of the FTC Act, so the FTC-enforcement framing holds. Release dated Nov 02, 2021."
-},
-{
-"url": "https://appropriations.house.gov/news/remarks/joyce-remarks-oversight-hearing-us-federal-trade-commission",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-05-15",
-"note": "Verbatim; next sentence is 'I am encouraged by the Commission's renewed focus and direction under Chairman Ferguson's leadership.' Page does not name Khan but 'previous leadership' clearly refers to the prior FTC."
-},
-{
-"url": "https://broadbandbreakfast.com/house-subcommittee-would-provide-fcc-less-money-than-requested-for-2027/",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2026-04-20",
-"note": "Verbatim, attributed to the subcommittee 'Led by Chairman Rep. Dave Joyce, R-Ohio'. Article also confirms $390.2M for FY27, about 2% below the $398.3M request and 6% below FY26."
-},
-{
-"url": "https://joyce.house.gov/posts/joyce-applauds-passage-of-bill-to-block-ccp-influence-in-americas-classrooms",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2025-12-03",
-"note": "Verbatim Joyce quote on his CLASS Act (K-12 schools barred from CCP-tied funds). As the claim itself says, nothing about chips or export controls; weak evidence for the china_chips dimension."
-},
-{
-"url": "https://carey.house.gov/2022/01/14/mike-carey-calls-restore-us-leadership-semiconductor-chip-manufacturing",
+"url": "https://davidson.house.gov/2026/9/davidson-introduces-bill-to-block-enforcement-of-foreign-censorship-orders-against-americans",
 "verdict": "partially_supported",
 "corrected_quote": null,
-"corrected_date": "2022-01-14",
-"note": "Page lists 'Dave Joyce' among Ohio Republicans who signed the Balderson-led letter urging full funding of CHIPS for America Act. It does not mention Intel or an Ohio plant, so the Intel-specific part of the claim is inferred rather than on the page. Also domestic subsidies, not export controls."
+"corrected_date": "2026-09-08",
+"note": "Quote verbatim; NetChoice endorsement present; background names the UK Online Safety Act and Ofcom. The EU Digital Services Act is not mentioned anywhere on the page. The 'light-touch stance on online content rules' is a characterization; the release frames it as First Amendment / anti-foreign-censorship, not as a view on domestic regulation."
 },
 {
-"url": "https://appropriations.house.gov/news/remarks/joyce-remarks-oversight-hearing-us-federal-trade-commission",
-"verdict": "confirmed",
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"verdict": "partially_supported",
 "corrected_quote": null,
-"corrected_date": "2025-05-15",
-"note": "Headline quote appears verbatim."
-}
-],
-"score_objections": []
+"corrected_date": "2026-07-17",
+"note": "Quote verbatim, but it describes the collective records of the 11 listed members ('Their records include ... as well as work to keep federal preemption ... out of the NDAA'). The page does not individually credit Davidson with blocking the preemption rider."
 },
 {
-"bioguide": "C001126",
-"checks": [
-{
-"url": "https://www.recordherald.com/2025/10/06/rep-carey-discusses-government-shutdown-trade-tariffs-with-county-officials/",
-"verdict": "confirmed",
+"url": "https://davidson.house.gov/2025/7/rep-warren-davidson-will-vote-in-favor-of-president-trump-s-one-big-beautiful-bill",
+"verdict": "partially_supported",
 "corrected_quote": null,
-"corrected_date": "2025-10-06",
-"note": "Direct fetch 403; Wayback (2025-10-08) copy loaded. Article: 'Carey also spoke about rising electrical energy demands due to growth, such as data centers and 24-hour factories. He said solar power is the only option that can be permitted and installed for grid access faster than building a traditional or natural gas-powered plant.' No ratepayer/cost concerns mentioned. Matches claim."
+"corrected_date": "2025-07-02",
+"note": "Quote verbatim and he does list 'AI surveillance removed' as progress. But the page never mentions the state AI-law moratorium or the Senate vote; the link between 'AI surveillance' and the moratorium is asserted by the tracker, not the source."
 },
 {
-"url": "https://spectrumnews1.com/oh/columbus/Capital-This-Week/2026/07/15/don-leonard-looking-to-unseat-congressman-mike-carey",
-"verdict": "confirmed",
+"url": "https://publicfirstaction.us/news/public-first-action-launches-15-million-conservative-ai-consensus-project",
+"verdict": "partially_supported",
 "corrected_quote": null,
-"corrected_date": "2026-07-15",
-"note": "Quote appears verbatim. Page is about Democrat Don Leonard challenging Carey in OH-15; stopping data center expansion is one of his three platform planks. Note the page says nothing about Carey's own position."
+"corrected_date": "2026-07-17",
+"note": "Quote verbatim, but the bills are attributed collectively to the group's records; the page does not say which bills Davidson personally authored, sponsored, or supported. No Davidson-specific chip-export statement or cosponsorship is documented here."
 },
 {
-"url": "https://ohiocapitaljournal.com/2026/08/20/ohioans-criticize-ohio-u-s-rep-mike-carey-for-cuts-to-snap-medicaid-and-education/",
+"url": "https://davidson.house.gov/2026/7/davidson-warns-about-the-global-expansion-of-censorship-and-surveillance",
 "verdict": "confirmed",
 "corrected_quote": null,
-"corrected_date": "2026-08-20",
-"note": "Loaded via Wayback (2026-08-23). Quote is verbatim (attributed to organizer Terenzi). Article is about a constituent rally criticizing Carey; 'his support to data centers' is the activists' characterization, not Carey's words."
-},
-{
-"url": "https://cha.house.gov/2024/1/top-takeaways-from-hearing-on-artificial-intelligence-innovation-within-the-legislative-branch",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2024-01-30",
-"note": "Quote verbatim, attributed to Representative Mike Carey (OH-15), asking CAO about ChatGPT working-group office uses and shortcomings. Purely operational/productivity framing; no regulatory content."
-},
-{
-"url": "https://carey.house.gov/2022/01/21/congressman-mike-carey-applauds-historic-intel-investment",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2022-01-21",
-"note": "Quote verbatim in Carey's statement on Intel's Ohio investment; cites supply chain shortages and military equipment. Supports domestic chip manufacturing framing. Note this is about onshoring/CHIPS subsidies, not export controls."
-},
-{
-"url": "https://carey.house.gov/2022/01/14/mike-carey-calls-restore-us-leadership-semiconductor-chip-manufacturing",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2022-01-14",
-"note": "Press release confirms Carey joined Balderson-led letter with other Ohio Republicans to Pelosi/McCarthy/Schumer/McConnell urging full funding of the CHIPS for America Act."
-},
-{
-"url": "https://carey.house.gov/2022/01/21/congressman-mike-carey-applauds-historic-intel-investment",
-"verdict": "confirmed",
-"corrected_quote": null,
-"corrected_date": "2022-01-21",
-"note": "Same page as item 5; quote verbatim ('We can no longer afford to rely on foreign countries to produce this technology – now is the time to act.')."
+"corrected_date": "2026-07-20",
+"note": "Quote verbatim from the closing of the floor speech (press release dated 2026-07-20)."
 }
 ],
 "score_objections": [
 {
-"dimension": "ai_risk",
-"objection": "The only ai_risk source is a January 2024 hearing question about ChatGPT office productivity in the House, which the item itself concedes is 'not a regulatory question.' Nothing in the sources shows Carey favoring targeted guardrails (or any regulatory stance) on AI risk. Evidence is too thin for -1.",
+"dimension": "china_chips",
+"objection": "The only source is a PAC press release attributing five chip-export bills collectively to 11 members; no Davidson-authored statement, vote, or cosponsorship on chip export controls is documented. Evidence is too thin for the strongest score.",
+"suggested_score": -1,
+"suggested_label": "Leans hawkish"
+}
+]
+},
+{
+"bioguide": "K000009",
+"checks": [
+{
+"url": "https://kaptur.house.gov/media-center/press-releases/ranking-member-kaptur-floor-remarks-2026-energy-and-water-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-03",
+"note": "Quote appears verbatim in the floor remarks. Page goes on to say Ohio households saw monthly bills rise a minimum of 10% starting that July after big tech data center demand pushed prices up. Page dated 2025-09-03."
+},
+{
+"url": "https://kaptur.house.gov/media-center/press-releases/ranking-member-kaptur-floor-remarks-2026-energy-and-water-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-03",
+"note": "Quote verbatim (page renders 'in Ohio' with lowercase i). The $230-to-$494 constituent anecdote is on the page immediately after."
+},
+{
+"url": "https://www.eenews.net/articles/the-pentagon-wants-to-build-data-centers-congress-would-like-a-word/",
+"verdict": "confirmed",
+"corrected_quote": "This Congress has an obligation to defend our people — not stick our heads in the sand or pretend it’s 1946",
+"corrected_date": "2026-07-24",
+"note": "Article (2026-07-24) attributes the fuller sentence to Kaptur, said while discussing data center proliferation and rising bills, right after describing a bipartisan voice-vote amendment package advising DOE to mitigate data centers' impacts on energy/water use, grid reliability and ratepayers. Item quote is a verbatim fragment of the longer sentence."
+},
+{
+"url": "https://www.eenews.net/articles/appropriators-add-data-center-language-to-energy-water-bill/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-05-21",
+"note": "Only the lede is readable (paywall, 2440 chars). It says House Democrats introduced amendments highlighting data centers' energy and water use at the FY27 Energy-Water markup and identifies Kaptur as ranking member, but the accessible text does not explicitly say Kaptur led or offered the amendments."
+},
+{
+"url": "https://kaptur.house.gov/media-center/press-releases/kaptur-introduces-ratepayer-justice-and-commercial-power-accountability",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-15",
+"note": "Quote verbatim (2026-07-15 release on H.R. 9700). Claim as written is supported, but the release concerns FirstEnergy's HB6 corruption scandal and PUCO rate request; the page never mentions data centers, so it is weak evidence for the data_centers dimension specifically."
+},
+{
+"url": "https://kaptur.house.gov/media-center/press-releases/ranking-member-kaptur-floor-remarks-2026-energy-and-water-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-03",
+"note": "Headline quote appears verbatim on the page."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the six sources touches Big Tech regulation, platforms, privacy, or antitrust; they are all about electricity rates, data center grid impacts, and a utility corruption scandal. The -1 'Targeted rules' score has no support in the cited evidence and should be left unscored unless a tech-regulation source is added.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "T000463",
+"checks": [
+{
+"url": "https://kyma.com/news/2026/03/01/ohio-congressman-on-iran-strike-and-ai-regulations/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-01",
+"note": "Page names Rep. Mike Turner (R-Ohio) on Face the Nation, March 1, 2026. Quote appears verbatim as his answer when Brennan asked whether Congress will act to clarify how Anthropic's AI can be used by the military; he adds 'I'm unaware of this particular issue' and says it needs more detail than a TV interview. Claim of deferral is accurate."
+},
+{
+"url": "https://kyma.com/news/2026/03/01/ohio-congressman-on-iran-strike-and-ai-regulations/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-01",
+"note": "Same page; headline quote is verbatim. Note the quote is a punt (he was unaware of the Anthropic/Pentagon dispute), not a substantive policy position, so it is weak as a 'notable quote' for an AI tracker."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "Neither item supplied touches Big Tech or platform regulation; the only sourced statement is a deferral on the Pentagon-Anthropic dispute. No evidence in the checked sources supports a -1 'Targeted rules' score, so it should be null unless other sources are cited.",
 "suggested_score": null,
 "suggested_label": null
 },
 {
-"dimension": "tech_regulation",
-"objection": "No item cited for this member touches tech regulation at all (no KOSA, Section 230, antitrust, privacy, or Big Tech statements). The -1 'Targeted rules' score has no supporting evidence in the sources provided.",
+"dimension": "china_chips",
+"objection": "Nothing in the checked sources mentions chips, export controls, or China. A -1 'Leans hawkish' score may be plausible given Turner's national-security profile (former Intel chair), but it is not supported by any item in this record; it needs a cited source or should be null.",
 "suggested_score": null,
 "suggested_label": null
 }

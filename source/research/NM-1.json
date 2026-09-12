@@ -1,0 +1,650 @@
+[
+{
+"bioguide": "H001046",
+"name": "Martin Heinrich",
+"signature": "Founder and co-chair of the Senate AI Caucus and one of the four senators who wrote the 2024 Senate AI roadmap; as top Democrat on Energy and Natural Resources he leads on making data centers pay for grid upgrades while rejecting moratoriums.",
+"notable_quote": {
+"text": "I'm not a fan of the moratorium approach because it will simply push them to the places with the lowest standards, and we don't want to race to the bottom",
+"date": "2026-08-03",
+"url": "https://www.eenews.net/articles/heinrich-releases-data-center-energy-plan/"
+},
+"groups": [
+"Senate Artificial Intelligence Caucus (Founder and Co-Chair)",
+"Bipartisan Senate AI Working Group, the 'Gang of Four' (Member)",
+"Senate Committee on Energy and Natural Resources (Ranking Member)"
+],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "high",
+"summary": "Heinrich wants data centers built, but on the condition that the companies pay for the grid upgrades they cause and do not push costs onto families. He rejects moratoriums, pushes permitting reform and faster grid connections, and warns developers about water use and community engagement.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.5199 GRID Savings Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5199",
+"date": "2026-07-30",
+"quote": null,
+"what_it_shows": "His own bill would make very large power users such as AI data centers pay for the facilities needed to connect them to the grid."
+},
+{
+"type": "statement",
+"title": "Press release: Heinrich introduces GRID Savings Act to protect customers from costs of data center expansion",
+"url": "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-introduces-legislation-to-ensure-large-users-of-electricity-pay-for-grid-upgrades-protect-customers-from-costs-of-data-center-expansion",
+"date": "2026-08-03",
+"quote": "These companies have promised to protect customers from paying for their energy usage, and my GRID Savings Act gives teeth to that commitment",
+"what_it_shows": "He frames the bill as turning the voluntary Ratepayer Protection Pledge into a binding rule at FERC."
+},
+{
+"type": "interview",
+"title": "E&E News: Heinrich releases data center energy plan (POLITICO Energy podcast)",
+"url": "https://www.eenews.net/articles/heinrich-releases-data-center-energy-plan/",
+"date": "2026-08-03",
+"quote": "I'm not a fan of the moratorium approach because it will simply push them to the places with the lowest standards, and we don't want to race to the bottom",
+"what_it_shows": "He opposes data center moratoriums, but also says hyperscalers must not push costs onto consumers and calls water a giant issue."
+},
+{
+"type": "interview",
+"title": "Latitude Media interview: Sen. Heinrich on what data centers can learn from SunZia",
+"url": "https://www.latitudemedia.com/news/sen-heinrich-on-what-data-centers-can-learn-from-sunzia/",
+"date": "2026-06-23",
+"quote": "There's a healthy dose of arrogance in some of these budget proposals rather than starting from a position of humility and really trying to partner with local communities.",
+"what_it_shows": "He criticizes data center developers for weak community engagement and says they should be able to show they will lower local electricity bills."
+},
+{
+"type": "letter",
+"title": "Press release: Heinrich, Lee back DOE proposal requiring FERC action on large-load grid connections",
+"url": "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-lee-back-doe-proposal-requiring-ferc-action-on-large-load-grid-connections",
+"date": "2025-11-21",
+"quote": "We need to improve transmission planning and ensure that costs are allocated fairly so that households aren't left covering the increased demand from large new energy users.",
+"what_it_shows": "Bipartisan letter with the committee chairman supporting federal rules for hooking up data centers, with fair cost allocation as the priority."
+},
+{
+"type": "hearing",
+"title": "Press release: Heinrich questions experts on the power grid and efficiently powering data centers",
+"url": "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-questions-experts-on-the-power-grid-highlighting-need-to-expand-transmission-and-efficiently-power-data-centers-to-help-lower-costs-for-consumers",
+"date": "2026-03-26",
+"quote": null,
+"what_it_shows": "At the hearing he organized, he asked how to meet data center demand without offloading costs to consumers and pressed for more transmission and grid-enhancing technology."
+},
+{
+"type": "statement",
+"title": "Press release: Heinrich introduces Grid Connection and Congestion Management Act and Grid for Growth initiative",
+"url": "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-introduces-legislation-and-grid-initiative-aimed-at-delivering-cheap-reliable-power-to-working-families-and-businesses",
+"date": "2026-07-18",
+"quote": "As electricity demand grows, we need to find better, faster ways to add more affordable, reliable power to the grid",
+"what_it_shows": "Shows the build side of his approach: fast-track grid connections and permitting reform to meet surging demand without shifting costs to consumers."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3732 Artificial Intelligence Environmental Impacts Act of 2024 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/3732",
+"date": "2024-02-01",
+"quote": null,
+"what_it_shows": "Backed a study of AI's electricity, water and pollution footprint with voluntary company reporting."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Heinrich backs specific rules for concrete harms such as sexual deepfakes, algorithm bias and misuse of personal data, but his main push is innovation: public AI research resources, a 32 billion dollar a year roadmap and a regulatory sandbox for banks. He does not talk about advanced AI as an existential threat.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Senate AI Working Group roadmap (Rounds, Schumer, Heinrich, Young)",
+"url": "https://www.rounds.senate.gov/newsroom/press-releases/following-historic-ai-insight-forums-over-the-past-year-senator-rounds-leader-schumer-senators-heinrich-and-young-reveal-bipartisan-roadmap-for-artificial-intelligence-policy-in-the-united-states-senate",
+"date": "2024-05-15",
+"quote": "Most importantly, the roadmap lays out the guardrails necessary to mitigate the risks of AI",
+"what_it_shows": "He co-wrote the Senate roadmap, which paired heavy AI spending with a list of guardrail topics and left actual rules to committees."
+},
+{
+"type": "statement",
+"title": "Press release: Heinrich advances legislation to combat nonconsensual sexually explicit deepfakes (DEFIANCE Act)",
+"url": "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-advances-legislation-to-combat-nonconsensual-sexually-explicit-deepfakes",
+"date": "2026-01-20",
+"quote": "Senate passage of our DEFIANCE Act is a significant step in better protecting children and adults from being sexually exploited in AI-generated deepfakes and seek justice in court.",
+"what_it_shows": "Supports binding federal remedies for AI deepfake abuse; also notes he helped pass the TAKE IT DOWN Act."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.2164 Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2164",
+"date": "2025-06-25",
+"quote": null,
+"what_it_shows": "Would require big companies to test automated decision systems for bias and harm and report results."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1837 DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1837",
+"date": "2025-05-21",
+"quote": null,
+"what_it_shows": "Lets victims sue over AI-made sexual images."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.146 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Now law; criminalizes posting real or AI-faked intimate images and forces fast takedowns."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1396 COPIED Act (content provenance and deepfake labels)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1396",
+"date": "2025-04-09",
+"quote": null,
+"what_it_shows": "Supports transparency labels for AI content and protections for creators."
+},
+{
+"type": "statement",
+"title": "Press release: Heinrich, Rounds, Tillis, Kim reintroduce Unleashing AI Innovation in Financial Services Act",
+"url": "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-rounds-tillis-kim-reintroduce-legislation-supporting-ai-innovation-in-financial-services",
+"date": "2025-07-30",
+"quote": "To unlock AI's full potential and ensure it is deployed responsibly, we need regulatory guardrails that are informed by real-life use cases",
+"what_it_shows": "Points the other way: a sandbox letting banks test AI with fewer rules, framed as learning before regulating."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.2528 Unleashing AI Innovation in Financial Services Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2528",
+"date": "2025-07-29",
+"quote": null,
+"what_it_shows": "Fewer-rules bill creating AI test zones at financial regulators."
+},
+{
+"type": "statement",
+"title": "MeriTalk: Bipartisan senators renew push to codify NAIRR (CREATE AI Act reintroduction)",
+"url": "https://www.meritalk.com/articles/bipartisan-senators-renew-their-push-to-codify-nairr/",
+"date": "2026-05-04",
+"quote": "By truly democratizing access to AI, we can prepare American workers for the future, maintain our nation's competitive edge, and ensure these rapid advancements strengthen our economy and benefit communities",
+"what_it_shows": "His signature AI bill is about expanding research access and competitiveness, not restricting AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4441 CREATE AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4441",
+"date": "2026-04-29",
+"quote": null,
+"what_it_shows": "Builds a national shared computing and data resource for AI research."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: S.2714 CREATE AI Act of 2024 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2714",
+"date": "2023-07-27",
+"quote": null,
+"what_it_shows": "He led the original bill to create the National AI Research Resource."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Heinrich consistently backs targeted rules on tech companies: kids online safety, children's privacy, tougher merger review, limits on Chinese-linked apps and cars, and letters pressing Meta on hate speech and the Justice Department on location data sales. He has not called for breaking up companies or repealing Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms toward minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.836 Children and Teens' Online Privacy Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "Supports stronger privacy rules for kids and teens."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.130 Competition and Antitrust Law Enforcement Reform Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/130",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Backs tougher merger review aimed at the largest companies, including Big Tech."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-08-04",
+"quote": null,
+"what_it_shows": "Would ban connected cars and software from companies tied to China and other adversaries."
+},
+{
+"type": "letter",
+"title": "Press release: Luján, Heinrich, Rosen press Meta on rise in antisemitism on its platforms and AI models",
+"url": "https://www.lujan.senate.gov/newsroom/press-releases/lujan-heinrich-rosen-press-meta-on-dramatic-rise-in-antisemitism-on-their-social-media-platforms-and-artificial-intelligence-models",
+"date": "2025-12-16",
+"quote": "We are deeply concerned about the increase of hate speech and antisemitic content on Meta's platforms.",
+"what_it_shows": "Presses Meta over loosened content moderation and the risk its AI models learn from hateful content."
+},
+{
+"type": "letter",
+"title": "Press release: Heinrich, Wyden, Jacobs say DOJ failed to protect sensitive government locations from AI-enabled foreign spy threats",
+"url": "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-wyden-jacobs-justice-department-failed-to-protect-sensitive-us-government-locations-from-ai-enabled-foreign-spy-threats",
+"date": "2026-05-21",
+"quote": "we urge DOJ and the DNI to promptly act to address these problems",
+"what_it_shows": "Wants a broader crackdown on selling Americans' phone location data to rival countries, citing AI-enabled spying risks."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.686 RESTRICT Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/686",
+"date": "2023-03-07",
+"quote": null,
+"what_it_shows": "Backed government power to review and block apps and tech from rival countries."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on whether federal law should override state AI laws. He voted with 98 other senators to strip the 10-year state AI law moratorium from the 2025 budget bill, but that vote alone does not show a position, and he is not on the States' Right to Regulate AI Act. Searches for reactions to the December 2025 executive order and March 2026 White House framework found nothing.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the state AI law moratorium from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Joined the 99-1 vote to remove the moratorium; nearly every senator voted the same way, so it does not by itself show opposition to preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searches for Chip Security Act, GAIN AI, H20 and H200 statements found nothing; his China-related bills concern apps, cars and data rather than chips.",
+"evidence": []
+}
+},
+"search_notes": "Searches run: 'Martin Heinrich artificial intelligence'; 'Heinrich data center senator'; 'Heinrich AI preemption/state AI laws/moratorium'; 'Heinrich Nvidia/export controls/chips China'; 'Heinrich chatbot/deepfake/KOSA/Section 230'; 'Heinrich Ratepayer Protection Pledge'; 'Heinrich executive order AI states'; 'Heinrich semiconductors/Chip Security/H20'; 'Heinrich AI guardrails interview 2026'; 'Heinrich AI Caucus'; 'Heinrich AI national security/AI safety'; 'Heinrich SPEED Act/permitting data centers'; 'Heinrich Cruz AI moratorium'; 'Heinrich/Lujan GAIN AI/Chip Security/AI OVERWATCH'; AI super PAC search (none found). Site listing of heinrich.senate.gov (662 matches, top 60 reviewed). heinrich.senate.gov, energy.senate.gov and rounds.senate.gov block direct fetch and WebFetch; pages were read through the browser tool instead. Politico, Source NM and Akin Gump pages returned 403 and Wayback was down. Google News URL decoding hit rate limits, so several local articles (Santa Fe New Mexican, Albuquerque Journal, Legis1 FERC piece) were not opened; the GRID Savings Act primary release and E&E/Latitude interviews covered the same ground. Heinrich AI Caucus founder and co-chair role confirmed in his Jan 20, 2026 release. No chips or PAC items found."
+},
+{
+"bioguide": "L000570",
+"name": "Ben Ray Luján",
+"signature": "Senate Commerce member who sponsors the TEST AI Act to build federal AI testing labs, led the call to pull X and Grok from app stores over sexual deepfakes, and cosponsors the States' Right to Regulate AI Act.",
+"notable_quote": {
+"text": "AI has reached every sector in our country and driven innovation, but we cannot ignore the vulnerabilities and risks that come with it",
+"date": "2025-05-07",
+"url": "https://fedscoop.com/test-ai-act-senate-energy-nist-commerce/"
+},
+"groups": [
+"Senate Commerce Subcommittee on Communications, Media, and Broadband (Ranking Member)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Luján has not taken a public stand on Project Jupiter or other New Mexico data center fights. His record leans toward building: he calls transmission and permitting reform essential to power data centers and AI, and his water bill uses a tax credit to nudge data centers toward recycled water rather than imposing limits.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Luján, Britt unveil bipartisan Advancing Water Reuse Act",
+"url": "https://www.lujan.senate.gov/newsroom/press-releases/lujan-britt-unveil-bipartisan-bill-to-boost-industrial-water-reuse-protect-community-drinking-water-and-meet-public-and-private-demand-for-freshwater/",
+"date": "2026-05-13",
+"quote": "As demand for freshwater continues to grow, we need smart and forward-looking solutions to protect our vital resources and strengthen long-term water security.",
+"what_it_shows": "His bill offers a 30 percent tax credit for onsite water recycling, explicitly including data center facilities; an incentive approach, not a restriction."
+},
+{
+"type": "statement",
+"title": "Broadband Breakfast: Luján expressed frustration, dedication to federal permitting reform (INCOMPAS summit remarks)",
+"url": "https://broadbandbreakfast.com/sen-ben-ray-lujan-expressed-frustration-dedication-to-federal-permitting-reform/",
+"date": "2026-02-04",
+"quote": "If we can get the White House to get some of these transmission projects back in play, I think it solves the dilemma",
+"what_it_shows": "He said canceled wind and solar transmission projects are essential to power data centers and called permitting reform vital for expanding AI."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Luján wants concrete guardrails: government test labs to check whether AI systems are safe, bias and accountability rules, penalties for AI fraud, and action against sexual deepfakes. He has repeatedly said AI's benefits do not excuse ignoring its risks, and he questions whether AI companies should get legal immunity for what their products generate.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.1633 TEST AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1633",
+"date": "2025-05-07",
+"quote": null,
+"what_it_shows": "His bill has NIST and the Energy Department's national labs build testbeds to evaluate whether AI systems are safe and trustworthy."
+},
+{
+"type": "statement",
+"title": "FedScoop: Bipartisan Senate bill calls for Energy, NIST team-up on AI evaluations (Luján statement)",
+"url": "https://fedscoop.com/test-ai-act-senate-energy-nist-commerce/",
+"date": "2025-05-07",
+"quote": "AI has reached every sector in our country and driven innovation, but we cannot ignore the vulnerabilities and risks that come with it",
+"what_it_shows": "He frames federal AI testing as a way to implement responsible guardrails that protect national security and the public."
+},
+{
+"type": "letter",
+"title": "Press release: Amid growing concerns over AI, Luján pushes NTIA to create and implement responsible guardrails",
+"url": "https://www.lujan.senate.gov/newsroom/press-releases/amid-growing-concerns-over-ai-lujan-pushes-ntia-to-create-and-implement-responsible-guardrails-to-protect-americans",
+"date": "2023-06-13",
+"quote": "It is time for Congress and the Administration to create and implement responsible guardrails around AI development, governance, and use.",
+"what_it_shows": "Early call for AI audits covering language equity, artist protections and consumer fraud."
+},
+{
+"type": "letter",
+"title": "Press release: Luján, Wyden, Markey urge Apple and Google to remove X and Grok from app stores",
+"url": "https://www.lujan.senate.gov/newsroom/press-releases/icymi-lujan-wyden-markey-urge-apple-and-google-to-remove-x-and-grok-from-app-stores-following-grok-generating-illegal-sexual-images-at-scale/",
+"date": "2026-01-12",
+"quote": "immediately remove the X and Grok apps from their app stores until the company's Chief Executive Officer, Elon Musk, addresses these disturbing and likely illegal activities",
+"what_it_shows": "Sought the harshest available consequence for an AI tool that generated sexualized images of women and children."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: Senate Commerce hearing on 30 years of Section 230 (Luján questions)",
+"url": "https://www.techpolicy.press/transcript-senate-commerce-hearing-on-30-years-of-section-230/",
+"date": "2026-03",
+"quote": "one question raised by the introduction of generative AI products is the extent to which companies should be held liable for illegal content generated by their products",
+"what_it_shows": "He pressed witnesses on liability for AI-generated content and whether generative AI should fall outside Section 230 immunity."
+},
+{
+"type": "letter",
+"title": "Press release: Luján, Heinrich, Rosen press Meta on antisemitism on its platforms and AI models",
+"url": "https://www.lujan.senate.gov/newsroom/press-releases/lujan-heinrich-rosen-press-meta-on-dramatic-rise-in-antisemitism-on-their-social-media-platforms-and-artificial-intelligence-models",
+"date": "2025-12-16",
+"quote": "allowing antisemitic content remaining on Meta's platforms while using that same content to train Meta's AI models could lead to Meta's AI models reproducing antisemitic hate speech",
+"what_it_shows": "Raises training-data and model-output concerns directly with Meta's CEO."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.2164 Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2164",
+"date": "2025-06-25",
+"quote": null,
+"what_it_shows": "Would require big companies to test automated decision systems for bias and harm."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3982 AI Fraud Accountability Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3982",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "Adds penalties for using AI to scam people."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3312 Artificial Intelligence Research, Innovation, and Accountability Act of 2024 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/3312",
+"date": "2023-11-15",
+"quote": null,
+"what_it_shows": "Backed transparency reports and safety standards for high-stakes AI uses."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Luján pushes targeted accountability for online platforms: kids online safety and privacy bills, action against child abuse material, letters demanding Apple and Google pull X and Grok, and questions about whether AI content deserves Section 230 protection. He also has defended platforms' First Amendment right to moderate content, so he is not in the repeal-230 camp.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms toward minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.836 Children and Teens' Online Privacy Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/836",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "Supports stronger privacy rules for kids and teens."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1829 STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "Would let victims sue platforms that fail to remove child sexual abuse material."
+},
+{
+"type": "letter",
+"title": "Press release: Luján, Wyden, Markey urge Apple and Google to remove X and Grok from app stores",
+"url": "https://www.lujan.senate.gov/newsroom/press-releases/icymi-lujan-wyden-markey-urge-apple-and-google-to-remove-x-and-grok-from-app-stores-following-grok-generating-illegal-sexual-images-at-scale/",
+"date": "2026-01-12",
+"quote": "must remove these apps from the app stores until X's policy violations are addressed",
+"what_it_shows": "Asked the two app store gatekeepers to enforce their own terms against X."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: Senate Commerce hearing on 30 years of Section 230 (Luján questions)",
+"url": "https://www.techpolicy.press/transcript-senate-commerce-hearing-on-30-years-of-section-230/",
+"date": "2026-03",
+"quote": "So, Elon Musk using Grok to put your face on a naked body is okay?",
+"what_it_shows": "Skeptical of Section 230 immunity for AI-generated content, while noting he filed a brief defending platforms' right to moderate."
+},
+{
+"type": "other",
+"title": "Luján official site, Tech and Broadband issue page",
+"url": "https://www.lujan.senate.gov/about/issues/tech",
+"date": null,
+"quote": "Ben believes that these corporations shouldn't profit from creating harmful online environments for their customers.",
+"what_it_shows": "His stated priority is holding platforms accountable and protecting personal data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.483 Internet PACT Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/483",
+"date": "2023-02-16",
+"quote": null,
+"what_it_shows": "Backed transparency and takedown rules for big websites' content moderation."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Luján cosponsors the States' Right to Regulate AI Act, which says states keep the power to pass their own AI rules and the federal government cannot wipe them out. No speeches or letters on preemption were found beyond that cosponsorship.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3557 States' Right to Regulate AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3557",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "Signed on days after the December 2025 executive order targeting state AI laws; the bill blocks federal preemption of state AI rules."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the state AI law moratorium from H.R. 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Joined the 99-1 vote to remove the moratorium; nearly every senator voted the same way, so on its own it shows little."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Searches for Nvidia, export controls, Chip Security Act and GAIN AI statements found nothing; his RESTRICT Act cosponsorship concerns apps and tech from rival countries, not chips.",
+"evidence": []
+}
+},
+"search_notes": "Searches run: 'Ben Ray Luján artificial intelligence'; 'Luján data center senator New Mexico'; 'Luján AI preemption/state AI laws/States Right to Regulate' (no results); 'Luján chatbot/deepfake/KOSA'; 'Luján Nvidia/export controls/chips China'; 'Luján Big Tech/Section 230/antitrust'; 'Luján AI chatbot children hearing'; 'Luján AI national labs/TEST AI/guardrails 2026'; 'Luján AI moratorium Cruz/executive order'; 'Luján Grok/Kids Off Social Media/App Store Accountability'; 'Luján AI Caucus' (no results); chips and AI super PAC sweeps (none). Site listing of lujan.senate.gov (106 matches, 60 reviewed). lujan.senate.gov blocks direct fetch and WebFetch; pages read through the browser tool. Opened: Grok/Apple/Google release, Advancing Water Reuse Act release, Meta antisemitism/AI letter, NTIA guardrails letter, tech issue page, FedScoop TEST AI story, Tech Policy Press 230 transcript, two Broadband Breakfast pieces (CES 2026 panel and INCOMPAS summit). Could not open the Medill kids/AI hearing story or a New Republic piece on Bessent questioning (Google News decode rate-limited). Senate AI Caucus membership from the landscape file could not be confirmed on his site, so it is left out of groups; the Communications Subcommittee ranking member role is confirmed by Broadband Breakfast (Jan 2026). No statement found on Project Jupiter."
+},
+{
+"bioguide": "S001218",
+"name": "Melanie A. Stansbury",
+"signature": "Top Democrat on the House DOGE subcommittee who demanded answers on DOGE's use of AI on federal data, signed both House Democratic letters against preempting state AI laws, and pressed New Mexico officials on Project Jupiter's water use.",
+"notable_quote": {
+"text": "The scale of Project Jupiter makes this an important test case for how New Mexico evaluates major industrial water users in a water-scarce future",
+"date": "2026-08-24",
+"url": "https://stansbury.house.gov/media/press-releases/rep-stansbury-demands-answers-project-jupiters-water-use-new-mexico-supreme"
+},
+"groups": [
+"House Oversight Subcommittee on Delivering on Government Efficiency (Ranking Member)"
+],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Stansbury has demanded a full public accounting of Project Jupiter's water use, water rights and permits, calling it a test case for how a water-scarce state handles giant industrial users. She frames this as transparency and accountability and has not called for a moratorium or for blocking the project.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Rep. Stansbury demands answers on Project Jupiter's water use as NM Supreme Court issues emergency orders",
+"url": "https://stansbury.house.gov/media/press-releases/rep-stansbury-demands-answers-project-jupiters-water-use-new-mexico-supreme",
+"date": "2026-08-24",
+"quote": "The scale of Project Jupiter makes this an important test case for how New Mexico evaluates major industrial water users in a water-scarce future",
+"what_it_shows": "Letter to the state attorney general, state engineer and environment secretary seeking Project Jupiter's water consumption, water rights, permits and Rio Grande Compact analysis by Aug 28, 2026."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Stansbury demands answers on Project Jupiter's water use (statement on transparency)",
+"url": "https://stansbury.house.gov/media/press-releases/rep-stansbury-demands-answers-project-jupiters-water-use-new-mexico-supreme",
+"date": "2026-08-24",
+"quote": "Every new major water use deserves a transparent accounting of where its water is coming from",
+"what_it_shows": "She ties the data center to New Mexico's water crisis and obligations to tribes, acequias, farmers and downstream states, and says the public must have a say."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Stansbury supports specific guardrails: labels on AI-made content, a ban on AI deception in elections, a commission on AI and child exploitation, and oversight of how DOGE used AI on Americans' data. She has said addressing AI risks is compatible with U.S. leadership in AI.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Ranking Member Stansbury introduces Resolution of Inquiry into DOGE's unsanctioned use of government data and AI",
+"url": "https://stansbury.house.gov/media/press-releases/ranking-member-stansbury-introduces-resolution-inquiry-doges-unsanctioned-use",
+"date": "2025-04-01",
+"quote": "Today, I dropped an oversight resolution demanding the Administration provide answers about what it is doing with our data and how it is using Artificial Intelligence to data mine our systems.",
+"what_it_shows": "Used her DOGE subcommittee post to demand records on AI use over sensitive federal data, including Privacy Act and AI disclosure law concerns."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We strongly support innovation, and it is simply wrong to accept the premise that identifying and addressing AI-specific risks, and setting common-sense guardrails, is incompatible with U.S. leadership in AI.",
+"what_it_shows": "As a signer, she endorsed the view that AI harms such as deepfakes, scams and biased systems need guardrails now."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.7766 Protecting Consumers from Deceptive AI Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7766",
+"date": "2024-05-07",
+"quote": null,
+"what_it_shows": "Would require labels and hidden markers on AI-made images, video and audio."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.8858 Securing Elections From AI Deception Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "Would ban AI-made fakes used to trick voters in federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.8005 Child Exploitation and Artificial Intelligence Expert Commission Act (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8005",
+"date": "2024-04-29",
+"quote": null,
+"what_it_shows": "Would create an expert commission on how AI is used to exploit children."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.5077 CREATE AI Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5077",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "Also backs public AI research infrastructure, showing she is not anti-AI."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Stansbury backs targeted fixes: disclosure of AI robocalls, tougher duties on platforms over child abuse material, reproductive health data privacy and web accessibility rules. She has also pressed Meta, X, ABC and Paramount over settlement payments tied to President Trump, framed as a corruption concern rather than a platform rule.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.1027 QUIET Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-04-28",
+"quote": null,
+"what_it_shows": "Robocalls using AI voices would have to disclose it, with higher fines."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3921 STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "Would let victims sue platforms that fail to remove child sexual abuse material."
+},
+{
+"type": "letter",
+"title": "Press release: Stansbury, Warren, Blumenthal press Big Tech CEOs on Trump settlements to now-dissolved library fund",
+"url": "https://stansbury.house.gov/media/press-releases/stansbury-warren-blumenthal-press-big-tech-ceos-trump-settlements-now",
+"date": "2026-03-12",
+"quote": "It is unclear where this money has gone, exacerbating concerns about corruption that were raised at the time of the settlements",
+"what_it_shows": "Demanded that Meta, X, ABC and Paramount explain up to 63 million dollars in settlement payments; about accountability of large companies, not new tech rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.3420 My Body, My Data Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Would limit collection and sharing of reproductive health data by apps and companies."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R.5813 Websites and Software Applications Accessibility Act of 2023 (118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5813",
+"date": "2024-02-05",
+"quote": null,
+"what_it_shows": "Would set accessibility rules for websites and apps."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Stansbury signed both House Democratic letters in late 2025 opposing any federal moratorium or preemption of state AI laws, including through the defense bill, an executive order or broadband funding conditions. The letters say states must be free to act because no meaningful federal AI protections exist.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats to Johnson, Thune, Jeffries and Schumer opposing an AI moratorium and a preemption executive order",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "Her name appears among the signers; the letter opposes reviving the state AI law moratorium in the NDAA and using an executive order or BEAD funds to override state laws."
+},
+{
+"type": "letter",
+"title": "Clarke-led letter from 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA",
+"url": "https://clarke.house.gov/?p=102767",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "Listed as a signer of the letter to Armed Services leaders asking them to keep any state AI law preemption out of the defense bill."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. Her CHIPS Act statements concern domestic semiconductor manufacturing jobs in New Mexico, not export policy.",
+"evidence": []
+}
+},
+"search_notes": "Searches run: 'Stansbury artificial intelligence New Mexico'; 'Stansbury Project Jupiter'; 'Stansbury data center(s)'; 'Stansbury AI moratorium/preemption/chatbot/deepfake'; 'Melanie Stansbury AI'; 'Stansbury Big Tech/Section 230/Nvidia/export controls/DOGE AI'; 'Stansbury SoftBank/Stargate/Oversight AI'; 'Stansbury Oracle/OpenAI investigation water'; 'Stansbury Project Jupiter investigation attorney general'; 'Stansbury AI Caucus' (no results); AI super PAC and chips sweeps (none). Site listings of stansbury.house.gov (default filter and a custom DOGE/AI/water/Jupiter filter) plus the press release index. Opened: Aug 24, 2026 Project Jupiter release and letter text, DOGE AI resolution of inquiry release, DOGE ranking member release, Big Tech CEOs letter release, committees and caucuses page, Matsui letter PDF (text extracted locally; Stansbury listed as signer), Clarke letter page (Stansbury listed among 44 signers). Could not open KOAT (Sept 3, 2026) or Albuquerque Journal items reporting she later called for an investigation into Project Jupiter's water use, because Google News decoding was rate-limited and Source NM returned 403; her own site index showed no newer release as of Sept 12, 2026. Congressional AI Caucus membership from the landscape file could not be confirmed (her caucus page does not list it, and the caucus site did not resolve), so it is left out of groups."
+}
+]

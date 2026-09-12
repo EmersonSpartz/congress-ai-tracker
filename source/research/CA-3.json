@@ -1,0 +1,708 @@
+[
+{
+"bioguide": "M001163",
+"name": "Doris O. Matsui",
+"groups": [
+"House Energy and Commerce Committee, Subcommittee on Communications and Technology (Ranking Member)",
+"Congressional Artificial Intelligence Caucus (Vice Chair, per first-pass landscape study; not independently verified in this pass)"
+],
+"signature": "The House's chief organizer against federal preemption of state AI laws; top Democrat on the E&C Communications and Technology Subcommittee; co-led the August 2026 House Democratic letter to OpenAI about AI agents escaping tests.",
+"notable_quote": {
+"text": "With no federal AI framework in place, states like California have stepped up with common-sense safeguards that protect the public while keeping innovation and competition strong.",
+"date": "2025-12-11",
+"url": "https://matsui.house.gov/media/press-releases/matsui-statement-trumps-ai-executive-order"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "At the July 2026 Energy and Commerce markup she pressed for stronger data center legislation than the bipartisan Ratepayer Protection Act, echoing Pallone's view that Big Tech should fully pay for the power it demands. She has not called for a pause, and no statement of her own on local data center projects was found.",
+"evidence": [
+{
+"type": "hearing",
+"title": "E&E News: House committee narrows data center energy bill (E&C markup, 52-0 vote)",
+"url": "https://www.eenews.net/articles/house-committee-narrows-data-center-energy-bill-3/",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "Reporter says Matsui echoed Pallone's message that the Ratepayer Protection Act did not go far enough to make Big Tech and data center owners fully pay for their energy demand, and urged the committee to pass stronger legislation."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776, the SPEED Act permitting-reform bill (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted against the Republican permitting-reform bill that supporters framed as speeding energy and infrastructure buildout, an indirect signal against a build-faster approach."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Matsui backs specific guardrails: transparency for chatbots, protections for kids from AI companion bots, disclosure of AI in political ads, and oversight of frontier labs after their models escaped test environments. She has not called for licensing or a pause.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter to OpenAI co-led by Casar and Matsui demanding answers on a frontier model that escaped its test environment (31 signers)",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-demand-information-open-ai-about-security-incident",
+"date": "2026-08-10",
+"quote": "whether any model has taken actions to undermine OpenAI's ability to control, align, or oversee future models; and what steps OpenAI is taking to implement stronger misalignment safeguards",
+"what_it_shows": "She co-led a 23-question oversight letter treating loss of control over AI agents as a safety problem needing congressional scrutiny."
+},
+{
+"type": "other",
+"title": "The Next Web: OpenAI tells House Democrats (Casar and Matsui) it is building automated shutdown capability",
+"url": "https://thenextweb.com/news/openai-automated-shutdown-house-democrats-logs-withheld-eu-ai-act-article-93-withdraw-recall",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "OpenAI's reply to her letter described work toward automated shutdown procedures but withheld incident logs, showing her letter produced a company response on frontier safety."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7985 CHATBOT Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7985",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "Backs requiring AI chatbot companies to be transparent so users are not harmed."
+},
+{
+"type": "letter",
+"title": "Castor-led letter from six E&C Democrats urging Meta to halt AI companion bots for minors",
+"url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404939",
+"date": "2025-05-29",
+"quote": "These inappropriate AI systems pose significant safety risks to children and teenagers who use Meta's platforms.",
+"what_it_shows": "She signed a demand that Meta stop deploying AI companion bots to users under 18."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 4624 Algorithmic Justice and Online Platform Transparency Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4624",
+"date": "2023-07-13",
+"quote": null,
+"what_it_shows": "Her own bill would make platforms explain their algorithms and ban discriminatory ones."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9639 AI Ads Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/9639",
+"date": "2024-09-17",
+"quote": null,
+"what_it_shows": "Supports requiring disclosure when political ads use AI-generated content."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "A consistent Big Tech critic who pushes targeted fixes: privacy demands on Meta, protections for kids from companion bots, and reproductive data privacy. She calls the Trump AI order a gift to big tech, but no call for break-ups or Section 230 repeal was found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Schakowsky, Castor and Matsui letter to Meta on covert Android tracking loophole",
+"url": "https://schakowsky.house.gov/media/press-releases/schakowsky-castor-and-matsui-demand-answers-meta-ahead-energy-commerce",
+"date": "2025-12-09",
+"quote": "underscores the urgent need for Congress to rein in Big Tech's repeated abuses of Americans' privacy",
+"what_it_shows": "She joined a demand that Zuckerberg explain tracking users across the web against their privacy choices, framed as a case for Congress to rein in Big Tech."
+},
+{
+"type": "statement",
+"title": "Press release: Matsui statement on Trump's AI executive order",
+"url": "https://matsui.house.gov/media/press-releases/matsui-statement-trumps-ai-executive-order",
+"date": "2025-12-11",
+"quote": "stripping away accountability when AI is becoming more powerful and deeply embedded in people's lives",
+"what_it_shows": "She called the preemption order a gift to big tech, tying her preemption fight to holding tech companies accountable."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 My Body, My Data Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Supports limits on apps collecting or sharing reproductive health data."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Matsui is the House's leading opponent of preempting state AI laws. She organized the 81-signer letter against reviving the moratorium in the NDAA, condemned the December 2025 executive order as illegal coercion, and co-introduced the GUARDRAILS Act to repeal it.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and the planned executive order",
+"url": "https://matsui.house.gov/media/press-releases/matsui-leads-colleagues-opposing-push-revive-ai-moratorium-ndaa",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "She organized the main House Democratic pushback against a state AI-law moratorium and against using BEAD broadband money to coerce states."
+},
+{
+"type": "statement",
+"title": "Press release: Matsui statement on Trump's AI executive order",
+"url": "https://matsui.house.gov/media/press-releases/matsui-statement-trumps-ai-executive-order",
+"date": "2025-12-11",
+"quote": "This is illegal federal coercion, plain and simple",
+"what_it_shows": "She rejected the executive order preempting state AI laws the day it was signed."
+},
+{
+"type": "statement",
+"title": "Press release: Jacobs, Beyer, Matsui, Lieu, McClain Delaney introduce the GUARDRAILS Act",
+"url": "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-matsui-lieu-mcclain-delaney-introduce-legislation-to-repeal-white-house-ai-moratorium",
+"date": "2026-03-20",
+"quote": "President Trump's executive order is illegal coercion: it threatens states with costly lawsuits and tries to hold hostage the BEAD dollars Congress provided to connect every American to affordable broadband.",
+"what_it_shows": "As a lead sponsor she vowed to use her subcommittee post to stop the administration from weaponizing broadband funding against state AI laws."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8031 GUARDRAILS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8031",
+"date": "2026-03-20",
+"quote": null,
+"what_it_shows": "Formal support for the bill blocking the executive order and protecting states' right to pass AI laws."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Matsui co-authored the CHIPS Act and cosponsored a bill rewarding whistleblowers who report illegal chip exports, which leans toward enforcing controls. No statement on Nvidia H20 or H200 sales to China was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6322 Stop Stealing our Chips Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6322",
+"date": "2025-12-09",
+"quote": null,
+"what_it_shows": "Supports paying and protecting tipsters who report export-control violations on chips."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 802 STAR Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2025-01-28",
+"quote": null,
+"what_it_shows": "Backs extending the tax credit for building chip factories in America; neutral on export controls."
+},
+{
+"type": "statement",
+"title": "Press release: Matsui statement on CHIPS Act award to Bosch (listed on her press release index)",
+"url": "https://matsui.house.gov/media/press-releases?page=1",
+"date": "2026-07",
+"quote": "When I co-authored the original CHIPS Act, days like today are exactly what we had in mind",
+"what_it_shows": "She identifies as a CHIPS Act co-author focused on domestic chip manufacturing."
+}
+]
+}
+},
+"search_notes": "Searched Google News for Matsui with artificial intelligence, data center, preemption/moratorium, chatbot/deepfake/Big Tech, Nvidia/export controls, OpenAI/Anthropic, ratepayer, Ratepayer Protection Act, AI Caucus. Site listing tool returned zero for matsui.house.gov, so I paged through her press release index (pages 1 to 8) and fetched her Dec 11 2025 EO statement, Nov 26 2025 letter release, SECURE Grid Act release. Extracted the Nov 26 letter PDF locally and confirmed Matsui and Garamendi as signers. Fetched Casar OpenAI letter release, The Next Web, MeriTalk, E&E News markup story, Castor and Schakowsky Meta letters, Jacobs GUARDRAILS release, govtrack SPEED Act vote. Could not verify AI Caucus vice chair role (caucus site unreachable). Found no Matsui statement of her own on data centers beyond the E&E characterization, and nothing on H20/H200 chip sales. Reuters and Politico blocked."
+},
+{
+"bioguide": "G000559",
+"name": "John Garamendi",
+"groups": [
+"House Armed Services Committee, Subcommittee on Readiness (Ranking Member)"
+],
+"signature": "Top Democrat on Armed Services Readiness who pushed an NDAA amendment to vet AI data centers on military bases for energy and water impacts; original cosponsor of the Power for the People Act on data center energy costs.",
+"notable_quote": {
+"text": "As we enter the period of AI, which requires very serious data centers, data facilities, that are extraordinary consumers of both energy and water, the question arises as to whether they should be on military bases",
+"date": "2026-07-24",
+"url": "https://www.eenews.net/articles/the-pentagon-wants-to-build-data-centers-congress-would-like-a-word/"
+},
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Garamendi says he is not opposed to data centers but wants them to pay for their own grid upgrades and wants the Pentagon to study energy, water, noise and security impacts before leasing base land. His House Armed Services amendment to require that review was voted down.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Garamendi joins Tonko to introduce the Power for the People Act",
+"url": "https://garamendi.house.gov/2026/04/09/media-press-releases-rep-garamendi-joins-tonko-introduce-bill-shield-consumers-data-center-driven/",
+"date": "2026-04-09",
+"quote": "This legislation is about putting consumers first and restoring fairness to our energy system.",
+"what_it_shows": "He co-introduced a bill making data centers pay for the transmission upgrades they require and creating a data center interconnection queue."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R. 8241 Power for the People Act of 2026 (verified on GovTrack cosponsor list)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8241",
+"date": "2026-04-09",
+"quote": null,
+"what_it_shows": "Formal backing for a FERC rule that data centers pay the local grid costs they cause."
+},
+{
+"type": "statement",
+"title": "Federal News Network: House NDAA provision could derail Army data center projects (Garamendi remarks)",
+"url": "https://federalnewsnetwork.com/army/2026/06/house-ndaa-provision-could-derail-army-data-center-projects/",
+"date": "2026-06-12",
+"quote": "We're not opposed to data centers. We just want to make sure that if we're going to put a data center on a federal facility, that federal facility is not going to be degraded by the data center",
+"what_it_shows": "He frames his position as conditions on base data centers, not a ban."
+},
+{
+"type": "statement",
+"title": "E&E News: The Pentagon wants to build data centers. Congress would like a word.",
+"url": "https://www.eenews.net/articles/the-pentagon-wants-to-build-data-centers-congress-would-like-a-word/",
+"date": "2026-07-24",
+"quote": "As we enter the period of AI, which requires very serious data centers, data facilities, that are extraordinary consumers of both energy and water, the question arises as to whether they should be on military bases",
+"what_it_shows": "He proposed a sweeping FY27 NDAA amendment requiring DOD to assess energy, water, noise, light and security impacts before data center deals; Armed Services Republicans rejected it."
+},
+{
+"type": "other",
+"title": "Federal News Network: Congress ramps up scrutiny of Pentagon AI data center plans",
+"url": "https://federalnewsnetwork.com/congress/2026/07/congress-ramps-up-scrutiny-of-pentagon-ai-data-center-plans/",
+"date": "2026-07-24",
+"quote": null,
+"what_it_shows": "Reports his committee amendment on base data centers was voted down, with Republicans arguing it would hurt AI dominance over China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9183 Artificial Intelligence Environmental Impacts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-07-06",
+"quote": null,
+"what_it_shows": "Supports a federal study of AI's electricity, water and pollution footprint with voluntary reporting."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776, the SPEED Act permitting-reform bill (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against the Republican permitting-reform bill, an indirect signal against a build-faster approach."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Garamendi cosponsored the bill to keep humans, not AI, in charge of nuclear launch decisions and signed a letter saying AI-specific risks need common-sense guardrails. He has no AI safety bills of his own and rarely speaks on the topic.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2894 Block Nuclear Launch by Autonomous Artificial Intelligence Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2024-04-29",
+"quote": null,
+"what_it_shows": "Backs a legal rule that a human must always decide on a nuclear launch."
+},
+{
+"type": "letter",
+"title": "Signer: Matsui-led letter from 81 House Democrats opposing an AI moratorium (signature confirmed in letter PDF)",
+"url": "https://matsui.house.gov/media/press-releases/matsui-leads-colleagues-opposing-push-revive-ai-moratorium-ndaa",
+"date": "2025-11-26",
+"quote": "We strongly support innovation, and it is simply wrong to accept the premise that identifying and addressing AI-specific risks, and setting common-sense guardrails, is incompatible with U.S. leadership in AI.",
+"what_it_shows": "He signed on to the view that AI harms like deepfakes, scams and chatbot risks justify guardrails now."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His only relevant action found is cosponsoring the Connected Vehicle Security Act, which bans internet-connected cars and software from companies tied to China and other adversaries. No statements on Big Tech, Section 230 or kids' online safety were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "Supports a national-security ban on connected-car technology from adversary-linked companies."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Garamendi signed the 81-member Matsui letter telling congressional leaders not to revive a moratorium on state AI laws in the NDAA or through an executive order. He did not sign the Clarke letter or cosponsor the GUARDRAILS Act, and no statement of his own was found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Signer: Matsui-led letter from 81 House Democrats opposing an AI moratorium in the NDAA and the planned executive order (signature confirmed in letter PDF)",
+"url": "https://matsui.house.gov/media/press-releases/matsui-leads-colleagues-opposing-push-revive-ai-moratorium-ndaa",
+"date": "2025-11-26",
+"quote": "Trying to revive the same flawed policy in the NDAA, or through executive action, is an attempt to quietly jam through an idea that has already been rejected",
+"what_it_shows": "He joined the House Democrats' formal opposition to preempting state AI laws."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. I searched for Garamendi with Nvidia, chips, export controls and China AI and checked his site; nothing on chip export policy turned up. His Connected Vehicle Security Act cosponsorship targets Chinese car technology, not AI chips.",
+"evidence": []
+}
+},
+"search_notes": "Searched Google News for Garamendi with artificial intelligence, data center, Big Tech/Section 230, Nvidia/export controls, NDAA AI, nuclear/autonomous, Pentagon data center amendment. His site blocks the press-release listing at /media/press-releases, so I used the WordPress search (?s=data+center, ?s=AI, ?s=NDAA) via WebFetch and fetched the Apr 9 2026 Power for the People release, Jul 22 2026 NDAA no-vote statement, committees page. Politico blocked; used E&E News version of the same Jul 24 2026 story plus two Federal News Network articles. Verified H.R. 8241 original cosponsorship on GovTrack and his signature on the Matsui letter PDF (extracted text). He is not on the Clarke letter or the GUARDRAILS cosponsor list. No chip or Big Tech statements found."
+},
+{
+"bioguide": "H001090",
+"name": "Josh Harder",
+"groups": [
+"Build America Caucus (Chair)",
+"Congressional Artificial Intelligence Caucus (Member, per first-pass landscape study; not independently verified in this pass)"
+],
+"signature": "Chairs the bipartisan Build America Caucus and champions AI for medical research (Genesis Mission, CREATE AI) while cosponsoring targeted guardrails on deepfakes, scams, AI whistleblowers and chip smuggling; endorsed by the Leading the Future super PAC.",
+"notable_quote": {
+"text": "I pushed for NIH to join the Genesis Mission because breakthroughs happen faster when our researchers have AI and advanced computing at their fingertips.",
+"date": "2026-07-24",
+"url": "https://harder.house.gov/media/press-releases/genesis-mission-harder-celebrates-new-partnership-between-nih-and-genesis-mission-to-accelerate-new-cures"
+},
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Harder has no direct statement on data centers. He cosponsored bills to study hosting AI computing in rural areas and to promote liquid cooling, chairs a caucus that wants faster permitting and transmission, yet voted against the Republican SPEED Act and focuses his energy fights on PG&E rate hikes.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5227 Unleashing Low-Cost Rural AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5227",
+"date": "2025-09-30",
+"quote": null,
+"what_it_shows": "Supports a study of hosting AI computing in rural areas using cheap local energy; neutral to mildly pro-buildout."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5332 Liquid Cooling for AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5332",
+"date": "2025-10-21",
+"quote": null,
+"what_it_shows": "Supports federal work to cut data center energy and water use through liquid cooling."
+},
+{
+"type": "statement",
+"title": "Press release: New bipartisan Build America Caucus launches to support pro-growth policies (Harder as Chair)",
+"url": "https://harder.house.gov/media/press-releases/new-caucus-new-bipartisan-build-america-caucus-launches-to-support-pro-growth-policies",
+"date": "2025-05-08",
+"quote": "It's time to get back to building. Housing costs are out of control, our energy grid is strained, and foreign adversaries are racing ahead in critical manufacturing.",
+"what_it_shows": "He leads a caucus that prioritizes permitting and transmission reform, a build-friendly stance that does not mention data centers."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776, the SPEED Act permitting-reform bill (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Despite his pro-permitting caucus, he voted against the Republican permitting bill, a mixed signal."
+},
+{
+"type": "statement",
+"title": "Press release: Harder reintroduces Stop the Rate Hikes Act on PG&E",
+"url": "https://harder.house.gov/media/press-releases/release-harder-reintroduces-stop-the-rate-hikes-act-to-stop-pge-s-endless-price-increases",
+"date": "2025-09-04",
+"quote": "Families here in the Valley can't afford this insanity. The average bill is now $300 a month, and PG&E keeps demanding more and more money",
+"what_it_shows": "His ratepayer focus targets utility rate hikes generally, without linking them to data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Harder pairs enthusiasm for AI in science with targeted guardrails: he sponsored a study on AI accountability and cosponsored bills protecting AI whistleblowers, banning nonconsensual AI sexual images, studying deepfake scams and warning the public about AI risks. He does not treat AI as an existential danger.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 1694 AI Accountability Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1694",
+"date": "2025-02-27",
+"quote": null,
+"what_it_shows": "His own bill orders a federal study on holding AI systems accountable and trustworthy."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3460 AI Whistleblower Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3460",
+"date": "2025-10-21",
+"quote": null,
+"what_it_shows": "Supports protecting AI company workers who report safety problems."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3562 DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-13",
+"quote": null,
+"what_it_shows": "Backs a right to sue over AI-made sexual images shared without consent."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1734 Preventing Deep Fake Scams Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1734",
+"date": "2025-02-27",
+"quote": null,
+"what_it_shows": "Supports a task force on AI deepfakes used in financial scams."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5360 AWARE Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5360",
+"date": "2025-11-21",
+"quote": null,
+"what_it_shows": "Supports public warnings and education about AI risks."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3919 Advanced AI Security Readiness Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3919",
+"date": "2025-11-19",
+"quote": null,
+"what_it_shows": "Supports an NSA playbook to protect advanced AI systems from theft by rivals."
+},
+{
+"type": "statement",
+"title": "Press release: Harder celebrates NIH joining the Genesis Mission AI research initiative",
+"url": "https://harder.house.gov/media/press-releases/genesis-mission-harder-celebrates-new-partnership-between-nih-and-genesis-mission-to-accelerate-new-cures",
+"date": "2026-07-24",
+"quote": "breakthroughs happen faster when our researchers have AI and advanced computing at their fingertips",
+"what_it_shows": "He actively promotes AI as a tool for cures, a pro-innovation counterweight to his guardrail cosponsorships."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2385 CREATE AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+"date": "2025-10-17",
+"quote": null,
+"what_it_shows": "Supports a national public AI research resource; pro-innovation."
+},
+{
+"type": "pac",
+"title": "AI Money Watch: Josh Harder endorsed by Leading the Future",
+"url": "https://aimoneywatch.org/people/josh-harder-ca-9",
+"date": null,
+"quote": "Leading the Future has publicly endorsed this candidate but has not yet reported any independent expenditures in this race.",
+"what_it_shows": "The AI industry super PAC that fights strict AI rules has endorsed him, though no spending is reported."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Harder favors specific fixes rather than sweeping Big Tech crackdowns: he cosponsored the Kids Online Safety Act and Sammy's Law, backs dating-app scam warnings, and wrote the Stop SCAMS Act, which Google endorsed. No calls for break-ups or Section 230 repeal were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7891 Kids Online Safety Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-09-19",
+"quote": null,
+"what_it_shows": "Backed the House KOSA bill requiring apps to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5778 Sammy's Law of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5778",
+"date": "2023-12-11",
+"quote": null,
+"what_it_shows": "Supports letting parents plug safety software into kids' social media accounts."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2481 Romance Scam Prevention Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2481",
+"date": "2025-04-01",
+"quote": null,
+"what_it_shows": "Supports requiring dating apps to warn users about banned scammers."
+},
+{
+"type": "statement",
+"title": "Press release: Harder announces the Stop SCAMS Act to crack down on organized cybercrime",
+"url": "https://harder.house.gov/media/press-releases/scams-harder-announces-sweeping-anti-scam-legislation-to-crack-down-on-organized-cybercrime",
+"date": "2026-01-22",
+"quote": "This bill is a crackdown on these criminals that brings every level of government together under one mission to end criminal scams.",
+"what_it_shows": "His signature tech bill targets scammers through an FBI-led task force rather than regulating platforms."
+},
+{
+"type": "statement",
+"title": "Press release: Harder's advocacy leads to coordinated crackdown on international scammers (Google endorses Stop SCAMS Act)",
+"url": "https://harder.house.gov/media/press-releases/scams-harder-s-advocacy-leads-to-coordinated-crackdown-on-international-scammers",
+"date": "2026-06-15",
+"quote": null,
+"what_it_shows": "He touts partnership with Google and other tech companies against scam rings, showing a cooperative rather than adversarial posture toward Big Tech."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Harder did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI-law moratorium, is not a GUARDRAILS Act cosponsor, and no statement on the December 2025 executive order or the March 2026 White House framework turned up.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Harder cosponsored the Chip Security Act, which requires location tracking on advanced AI chips to catch smuggling to China, and the Stop Stealing our Chips Act rewarding export-control whistleblowers. No statement on Nvidia H20 or H200 sales was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3447 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"date": "2025-07-21",
+"quote": null,
+"what_it_shows": "Backs built-in location verification for advanced AI chips to stop diversion to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6322 Stop Stealing our Chips Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6322",
+"date": "2025-12-01",
+"quote": null,
+"what_it_shows": "Supports paying and protecting tipsters who expose illegal chip exports."
+}
+]
+}
+},
+"search_notes": "Searched Google News for Josh Harder with AI/artificial intelligence, data center (Stockton, Tracy, San Joaquin), Leading the Future/AI super PAC, deepfake/chatbot/KOSA/Big Tech, Chip Security/Nvidia/export controls, PG&E/ratepayers, AI scams, AI bill announcements. Site listing tool returned zero, so I paged his press release index (pages 1 to 13, Jul 2024 to Sep 2026) by text fetch and WebFetch; only AI items were the two Genesis Mission releases (Jul 2026) and scam releases. Fetched Genesis Mission, Stop SCAMS, Build America Caucus, NEPA, Stop the Rate Hikes releases, AI Money Watch page, CNBC LTF story (Harder not among the five named there), govtrack SPEED vote. No press release found for his AI Accountability Act. Not on Matsui or Clarke preemption letters. AI Caucus membership not verified (caucus site unreachable)."
+},
+{
+"bioguide": "D000623",
+"name": "Mark DeSaulnier",
+"groups": [
+"House Committee on Education and Workforce, Subcommittee on Health, Employment, Labor, and Pensions (Ranking Member)"
+],
+"signature": "Sponsor of the Sunset Section 230 Act to repeal Big Tech's liability shield; cosponsor of the AI Data Center Moratorium Act, data center ratepayer bills and AI civil-rights legislation.",
+"notable_quote": {
+"text": "Big Tech's days of acting with impunity, wreaking havoc, and then asking for forgiveness once the damage has been done are over.",
+"date": "2026-09-10",
+"url": "https://desaulnier.house.gov/media-center/press-releases/representatives-desaulnier-and-patronis-introduce-legislation-hold-tech"
+},
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "medium",
+"summary": "DeSaulnier joined the AI Data Center Moratorium Act, which would halt new AI data centers until federal safeguards exist, after cosponsoring two bills to keep data center grid costs off household bills. His district includes Pittsburg and Oakley, where residents fought data center projects, but no statement of his own was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9442 Artificial Intelligence Data Center Moratorium Act (joined July 21, 2026, per GovTrack)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "Supports a pause on building or expanding AI data centers until Congress sets federal rules."
+},
+{
+"type": "other",
+"title": "Broadband Breakfast: Ocasio-Cortez introduces AI Data Center Moratorium Act",
+"url": "https://broadbandbreakfast.com/ocasio-cortez-introduces-ai-data-center-moratorium-act/",
+"date": "2026-06-26",
+"quote": "would impose an immediate moratorium on the construction and expansion of artificial intelligence data centers once enacted",
+"what_it_shows": "Describes what the bill he later cosponsored does: an immediate moratorium on facilities over 20 megawatts pending a federal approval system."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6529 Protecting Families from AI Data Center Energy Costs Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
+"date": "2026-06-04",
+"quote": null,
+"what_it_shows": "Supports keeping families' electric bills from paying for data center grid upgrades."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8241 Power for the People Act of 2026 (joined April 22, 2026, per GovTrack)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8241",
+"date": "2026-04-22",
+"quote": null,
+"what_it_shows": "Supports a FERC rule making data centers pay for the transmission upgrades they require."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on H.R. 4776, the SPEED Act permitting-reform bill (House roll call 356)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Voted against the Republican permitting-reform bill, consistent with a go-slow stance."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "DeSaulnier backs targeted rules against AI discrimination and surveillance: he cosponsored the AI Civil Rights Act, the Algorithmic Accountability Act, a federal facial-recognition moratorium and platform algorithm transparency. He has not spoken about frontier or existential AI risk.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6356 Artificial Intelligence Civil Rights Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2026-03-03",
+"quote": null,
+"what_it_shows": "Supports banning discriminatory AI and requiring bias checks before and after deployment."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5511 Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "Supports mandatory impact testing of automated decision systems with reports to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1404 Facial Recognition and Biometric Technology Moratorium Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/1404",
+"date": "2023-04-18",
+"quote": null,
+"what_it_shows": "Backed halting federal use of facial recognition until Congress authorizes it."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4624 Algorithmic Justice and Online Platform Transparency Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4624",
+"date": "2024-01-05",
+"quote": null,
+"what_it_shows": "Supported requiring platforms to explain their algorithms and banning discriminatory ones."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "DeSaulnier wants to rein in Big Tech hard. His Sunset Section 230 Act would repeal the law shielding platforms from lawsuits over user content so families can sue over online harms to young people, and he backs strong reproductive data privacy limits.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 10332 Sunset Section 230 Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10332",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "His own bill would end Section 230 liability protection after two years unless Congress replaces it."
+},
+{
+"type": "statement",
+"title": "Press release: DeSaulnier and Patronis introduce the Sunset Section 230 Act",
+"url": "https://desaulnier.house.gov/media-center/press-releases/representatives-desaulnier-and-patronis-introduce-legislation-hold-tech",
+"date": "2026-09-10",
+"quote": "it is critical and urgent that we take action to rein in the big tech companies that are allowing the dissemination of harmful material on their platforms",
+"what_it_shows": "He frames Section 230 repeal as necessary to stop platforms profiting from harm to teenagers, citing Meta's $18 billion youth mental health settlement."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3218 Reproductive Data Privacy and Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3218",
+"date": "2025-09-02",
+"quote": null,
+"what_it_shows": "Supports banning collection or sale of reproductive health data without permission."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3420 My Body, My Data Act of 2023 (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Earlier support for limiting apps' collection of reproductive health data."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. DeSaulnier is not among the 81 signers of the Nov 2025 Matsui letter or the 44 signers of the Dec 2025 Clarke letter, is not a GUARDRAILS Act cosponsor, and no statement on the December 2025 executive order or the March 2026 White House framework turned up.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searches for DeSaulnier with Nvidia, chips, export controls and China AI returned nothing, and his bill record has no chip or export-control legislation.",
+"evidence": []
+}
+},
+"search_notes": "Searched Google News for DeSaulnier with AI/artificial intelligence, data center (Pittsburg, Oakley, Contra Costa), Section 230, moratorium, chatbot/deepfake/Big Tech/algorithm, AI workforce hearings, AI civil rights bills, Nvidia/chips. Site listing tool returned zero and /media/press-releases is 404; found the real index at /media-center/press-releases via WebFetch of the homepage and scanned pages 1 to 5 plus two DeSaulnier Digest newsletters (no AI or data center content). Fetched the Sep 10 2026 Sunset Section 230 release and his committees page (HELP subcommittee ranking member). Verified H.R. 9442 (Jul 21 2026) and H.R. 8241 (Apr 22 2026) cosponsorships on GovTrack. Not on Matsui or Clarke preemption letters or GUARDRAILS list. His caucuses page is empty. No personal statement on data centers, AI risk or chips found; HR Executive and Legis1 hearing stories were paywalled or did not name him."
+}
+]

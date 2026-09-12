@@ -1,0 +1,614 @@
+[
+{
+"bioguide": "A000381",
+"name": "Yassamin Ansari",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No direct statement on data centers found as of Sept 2026. She voted against the SPEED Act permitting bill and against the House megabill, but neither vote was framed as a data center position, and a Facebook post about Phoenix's data center growth could not be retrieved.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: Nay on H.R. 4776, the SPEED Act permitting reform bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She opposed the permitting overhaul that backers say would speed energy and data center construction, but this is an indirect signal, not a stated data center position."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Ansari wants firm rules on AI misuse. She wrote a bill to criminalize AI impersonation of federal officials, and in August 2026 she signed letters demanding AI CEOs testify under oath and pressing OpenAI on safety after its models escaped a test environment. She has not called for licensing or a pause.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 4628, AI Impersonation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4628",
+"date": "2025-07-23",
+"quote": null,
+"what_it_shows": "Her own bill would make it a crime to use AI to impersonate federal officials with intent to mislead."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Ansari introduces AI Impersonation Prevention Act",
+"url": "https://ansari.house.gov/media/press-releases/rep-ansari-introduces-ai-impersonation-prevention-act-to-safeguard-national-security",
+"date": "2025-08-11",
+"quote": "AI will only continue to become more powerful and accessible, so we must act now to establish stringent guardrails and accountability",
+"what_it_shows": "In her own words she calls for stringent guardrails and accountability as AI grows more powerful."
+},
+{
+"type": "letter",
+"title": "Letter: Casar-led call for Speaker Johnson to hold hearings with AI CEOs under oath (Ansari a signer)",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"date": "2026-08-10",
+"quote": "The CEOs of the largest AI companies should answer questions under oath, and Americans should have a chance to hear from independent experts on the dangers posed by this technology.",
+"what_it_shows": "She joined 19 Democrats who say Congress has failed to respond to AI threats and want CEOs questioned under oath after AI models escaped test environments."
+},
+{
+"type": "letter",
+"title": "Letter: Casar and Matsui-led demand for information from OpenAI about its security incident (Ansari a signer)",
+"url": "https://casar.house.gov/media/press-releases/casar-leads-demand-information-open-ai-about-security-incident",
+"date": "2026-08-10",
+"quote": null,
+"what_it_shows": "She signed a 29-member letter with 23 questions about OpenAI's ability to control future models and its misalignment safeguards."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-08-08",
+"quote": null,
+"what_it_shows": "Backs a ban on companies using AI and personal data to charge different prices or pay different wages."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Ansari backs targeted consumer protections: AI robocall disclosure, a right to sue over AI sexual deepfakes, and a ban on AI-driven price and wage discrimination. No position on Big Tech break-ups or Section 230 was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 1027, QUIET Act (AI robocall disclosure)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-11-25",
+"quote": null,
+"what_it_shows": "Supports requiring robocalls that use AI voices to say so and raising fines for illegal robocalls."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3562, DEFIANCE Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-20",
+"quote": null,
+"what_it_shows": "Supports letting victims sue over nonconsensual AI sexual images."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 4640, Stop AI Price Gouging and Wage Fixing Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2025-08-08",
+"quote": null,
+"what_it_shows": "Supports a major bill restricting how companies use AI and personal data in pricing and pay."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Ansari signed both House Democratic letters in late 2025 opposing a federal moratorium on state AI laws and the planned executive order to override them. She wants states free to regulate AI.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter: Matsui-led letter of 81 House Democrats opposing an AI moratorium in the NDAA and a preemption executive order (Ansari a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "Congress should not freeze state and local AI safeguards, least of all when there are no meaningful federal protections in place.",
+"what_it_shows": "She is listed as a signer of the letter telling congressional leaders not to revive the state AI-law moratorium or use an executive order or BEAD funds to override state laws."
+},
+{
+"type": "letter",
+"title": "Letter: Clarke-led letter of 44 House Democrats urging no AI moratorium or preemption in the FY26 NDAA (Ansari a signer)",
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"date": "2025-12-03",
+"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
+"what_it_shows": "She is named among the 44 signers asking defense bill negotiators to keep any state AI-law preemption out of the NDAA."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, bills or letters on chip export controls, the Chip Security Act or Nvidia sales to China were found for Ansari as of Sept 2026.",
+"evidence": []
+}
+},
+"signature": "First-term progressive who signed the 2026 letters demanding AI CEOs testify under oath and the 2025 letters against preempting state AI laws; sponsor of the AI Impersonation Prevention Act.",
+"notable_quote": {
+"text": "AI will only continue to become more powerful and accessible, so we must act now to establish stringent guardrails and accountability",
+"url": "https://ansari.house.gov/media/press-releases/rep-ansari-introduces-ai-impersonation-prevention-act-to-safeguard-national-security",
+"date": "2025-08-11"
+},
+"groups": [
+"Ranking Member, House Natural Resources Subcommittee on Energy and Mineral Resources"
+],
+"search_notes": "Ran 10 Google News queries (AI, data centers, chatbot/deepfake, Big Tech/Section 230, Oversight AI hearings, preemption, AI jobs/TikTok, AI Impersonation Act coverage, DOGE privacy) plus a site listing of ansari.house.gov. Opened her AI Impersonation Prevention Act release, the two Casar letters, the Clarke letter page, the Matsui letter PDF (text extracted locally to confirm her signature), her subcommittee ranking member release, and govtrack roll calls 145 and 356 (Nay on both). Her caucus page says to contact the office, so AI caucus membership could not be confirmed. Her Facebook post on Phoenix data centers was not retrievable. Nothing found on chips or data centers beyond votes."
+},
+{
+"bioguide": "S001211",
+"name": "Greg Stanton",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Stanton's data center record is about protecting ratepayers. He co-introduced a 120-member Democratic energy bill that would make data centers cover their own energy costs, and he cosponsored bills on data center siting rules and standard energy-use measurement. He has not called for a pause on building.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Stanton, colleagues introduce Energy Bills Relief Act",
+"url": "https://stanton.house.gov/2026/3/stanton-colleagues-introduce-energy-bills-relief-act",
+"date": "2026-03-27",
+"quote": "Ensuring that large facilities, such as data centers, cover their own energy costs.",
+"what_it_shows": "His bill, introduced with 120 House Democrats, lists making data centers pay their own energy costs and reallocating grid costs to protect consumers as core goals."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 10321, Responsible Data Center Siting Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/10321",
+"date": "2026-09-08",
+"quote": null,
+"what_it_shows": "Backs federal best practices for where large data centers can be built so they do not overload local power and water."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 9372, Data Infrastructure Energy Measurement and Standards Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9372",
+"date": "2026-08-10",
+"quote": null,
+"what_it_shows": "Backs standard ways to measure data center electricity and water use so demand can be forecast and compared."
+},
+{
+"type": "vote",
+"title": "Roll call 356: Nay on H.R. 4776, the SPEED Act permitting reform bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted against the Republican permitting overhaul meant to speed energy and data center construction."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No statements on AI safety, chatbots or frontier AI risk were found. His AI-related bills are about using AI for heat tracking and about chips, not about regulating AI models, and he did not sign the August 2026 letters demanding AI CEO hearings. A pro-industry AI super PAC spent to support him.",
+"evidence": [
+{
+"type": "pac",
+"title": "Think Big PAC (Leading the Future network) independent expenditures supporting Stanton in the 2026 Democratic primary",
+"url": "https://elections.transformernews.ai/races/az-h-04",
+"date": "2026-07",
+"quote": null,
+"what_it_shows": "The pro-innovation AI super PAC spent $265,156 supporting him against progressive challenger Kai Newkirk; this is outside support, not his own position."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Stanton leans toward targeted privacy protections: he cosponsored the My Body, My Data Act and backed a 2025 bill to limit who can access Treasury data during the DOGE fight. No position was found on Section 230, antitrust or kids online safety bills.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Stanton backs legislation to stop Elon Musk from invading Americans' privacy (Taxpayer Data Protection Act)",
+"url": "https://stanton.house.gov/2025/2/stanton-backs-legislation-to-stop-elon-musk-from-invading-americans-privacy",
+"date": "2025-02-06",
+"quote": "This legislation is a direct response to Elon Musk's shameful invasion of Americans' privacy.",
+"what_it_shows": "Shows he treats access to sensitive personal data as a privacy and national security problem needing legal limits."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3420 (118th), My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-07-27",
+"quote": null,
+"what_it_shows": "Supported a major bill restricting collection and sharing of reproductive health data by apps and companies."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No position found. He did not sign the Nov 2025 Matsui letter or the Dec 2025 Clarke letter against a state AI-law moratorium, and no statement on the Dec 2025 executive order or the March 2026 White House framework was found.",
+"evidence": []
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "A consistent chip hawk. Stanton wrote the Semiconductor Controls Effectiveness Act to tighten export controls on advanced AI chips to China, co-introduced the AI OVERWATCH Act to let Congress block chip sales to risky countries, and signed a bipartisan letter urging countrywide controls on chipmaking tools. He also defends the CHIPS Act for domestic production.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 8287, Semiconductor Controls Effectiveness Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8287",
+"date": "2026-04-15",
+"quote": null,
+"what_it_shows": "His bipartisan bill with Rep. Issa orders a review of whether chip export controls on China are working and how to close diversion loopholes."
+},
+{
+"type": "statement",
+"title": "Press release with committee remarks: Stanton-led Semiconductor Controls Effectiveness Act passes House Foreign Affairs unanimously",
+"url": "https://stanton.house.gov/2026/4/stanton-led-semiconductor-controls-effectiveness-act-passes-house-foreign-affairs-committee-unanimously",
+"date": "2026-04-22",
+"quote": "This legislation aims to strengthen export controls on advanced AI chips and improve congressional oversight to prevent the flow of U.S. technology to competitors.",
+"what_it_shows": "In his own words the goal is stronger export controls on advanced AI chips and constraining China's AI development."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6875, AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He helped introduce the bill giving Congress power to block sales of advanced AI chips to China and other risky countries; govtrack lists him as a cosponsor."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 4505, Export Controls Enforcement Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4505",
+"date": "2026-04-21",
+"quote": null,
+"what_it_shows": "Backs posting at least 20 export-control officers overseas to catch chip smuggling."
+},
+{
+"type": "letter",
+"title": "Letter: Moolenaar and Mast bipartisan letter to Rubio and Lutnick for stronger allied export controls on chipmaking tools (Stanton a cosigner)",
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+"date": "2026-02-10",
+"quote": "We urge the Administration to press allies to implement countrywide controls on key chokepoint semiconductor manufacturing equipment and subcomponents",
+"what_it_shows": "He joined eight members urging countrywide, not entity-specific, controls on chipmaking equipment sold to China."
+},
+{
+"type": "interview",
+"title": "KTAR interview reposted by his office: Arizona congressman fires back after Trump calls CHIPS Act a horrible thing",
+"url": "https://stanton.house.gov/2025/3/arizona-congressman-fires-back-after-trump-calls-chips-act-a-horrible-horrible-thing",
+"date": "2025-03-05",
+"quote": "Instead of attacking the CHIPS Act, we ought to be celebrating it as a huge, successful policy",
+"what_it_shows": "He defends domestic chip subsidies as a national security win, the build-at-home side of a hawkish chips stance."
+}
+]
+}
+},
+"signature": "Chip-export hawk on the House Select Committee on the CCP who wrote the Semiconductor Controls Effectiveness Act and wants data centers to pay their own energy costs; got $265,000 in Think Big PAC support in his 2026 primary.",
+"notable_quote": {
+"text": "This legislation aims to strengthen export controls on advanced AI chips and improve congressional oversight to prevent the flow of U.S. technology to competitors.",
+"url": "https://stanton.house.gov/2026/4/stanton-led-semiconductor-controls-effectiveness-act-passes-house-foreign-affairs-committee-unanimously",
+"date": "2026-04-22"
+},
+"groups": [],
+"search_notes": "Ran 10 Google News queries (AI, data centers, Nvidia/export controls, Think Big/Leading the Future, chatbot/Big Tech/KOSA, preemption/AI regulation, AI jobs/workforce, chips/Huawei, data center siting bills, Newkirk/tech money) plus a site listing of stanton.house.gov. Opened his Semiconductor Controls Effectiveness Act release, Energy Bills Relief Act release, CHIPS Act defense, Taxpayer Data Protection Act release, the Moolenaar-Mast letter, govtrack pages for H.R. 6875 cosponsors, H.R. 10321 and H.R. 9372, the Transformer AI money page for AZ-04, and govtrack roll calls 145 and 356 (Nay on both). Checked the Matsui letter PDF and Clarke letter: he is not a signer of either. His committees and caucuses page returns 404; his About page confirms Select Committee on the CCP membership and Extreme Heat Caucus co-founder but no AI caucus. Arizona Republic candidate-issues piece could not be opened (Google News redirect decoding failed)."
+},
+{
+"bioguide": "B001302",
+"name": "Andy Biggs",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "high",
+"summary": "Biggs, the GOP nominee for governor, says he supports data center development but with no tax breaks and no special treatment. He wants developers to build their own power and water supply without crowding out existing customers, backs nuclear expansion to meet demand, and his ticket rejects an outright moratorium.",
+"evidence": [
+{
+"type": "interview",
+"title": "AZ Free News interview: Biggs outlines governor agenda on affordability, water, resources",
+"url": "https://azfreenews.com/2026/07/biggs-outlines-governor-agenda-on-affordability-water-resources-and-election-integrity/",
+"date": "2026-07-11",
+"quote": "We're going to allow you guys to develop your power… provided that you do not encroach on current and future commercial and residential users.",
+"what_it_shows": "He says he supports data center development but opposes taxpayer incentives and wants developers to finance their own power and water."
+},
+{
+"type": "interview",
+"title": "AZ Free News interview: Biggs backs Palo Verde expansion and small modular reactors",
+"url": "https://azfreenews.com/2026/07/biggs-backs-palo-verde-expansion-pushes-arizona-to-lead-small-modular-reactor-development/",
+"date": "2026-07-10",
+"quote": "No special breaks. No special benefits,",
+"what_it_shows": "He ties nuclear expansion to demand from AI and data centers and says data center projects should proceed without subsidies or preferential treatment."
+},
+{
+"type": "other",
+"title": "Arizona Capitol Times: To build or not to build? Data center debate hits the campaign trail",
+"url": "https://azcapitoltimes.com/news/2026/09/07/to-build-or-not-to-build-data-center-debate-hits-the-campaign-trail/",
+"date": "2026-09-07",
+"quote": "Congressman Andy Biggs, Hobbs' Republican opponent, has also committed to repealing the tax incentives",
+"what_it_shows": "Reports his pledge to repeal Arizona's data center tax exemption while his running mate Sine Kerr says the ticket would not support an outright moratorium and prefers local decision-making."
+},
+{
+"type": "other",
+"title": "Arizona Capitol Times: Biggs, Schweikert skip the fireworks in tame GOP governor debate",
+"url": "https://azcapitoltimes.com/news/2026/06/18/biggs-schweikert-skip-the-fireworks-in-tame-gop-governor-debate/",
+"date": "2026-06-18",
+"quote": "He pledged to eliminate tax incentives for data centers",
+"what_it_shows": "At the June 17 debate he agreed with ending data center tax incentives, a step further than the three-year pause Gov. Hobbs signed."
+},
+{
+"type": "vote",
+"title": "Roll call 356: Yea on H.R. 4776, the SPEED Act permitting reform bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for the permitting overhaul meant to speed energy and data center construction."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Biggs has not spoken about frontier AI risk. His one AI bill, the SOUL Act, would give people ownership of their face and voice against AI copies, a targeted guardrail. Otherwise he frames AI as a tool to cut regulation and stresses fighting overregulation.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 8323, SOUL Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8323",
+"date": "2026-04-16",
+"quote": null,
+"what_it_shows": "His bill would establish ownership rights in a person's unique likeness and protect against unauthorized digital replications, per the govtrack summary."
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Biggs introduces AI legislation to reduce overregulation",
+"url": "https://biggs.house.gov/media/press-releases/congressman-biggs-introduces-ai-legislation-reduce-overregulation",
+"date": "2024-03-06",
+"quote": "AI technology is an effective tool that can save taxpayer dollars, benefit American business owners, and promote economic growth.",
+"what_it_shows": "He sees AI as a deregulation tool for agencies and frames federal overregulation as the problem; no call for AI safety rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3921, STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2026-05-11",
+"quote": null,
+"what_it_shows": "Backs making platforms do more to remove child sexual abuse material, including AI-generated material."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Mixed but leaning toward targeted rules. Biggs attacks Big Tech for censoring conservatives and would strip its legal shield for viewpoint-based removals, and he backs privacy limits on data brokers and connected cars plus the STOP CSAM Act. But he voted against the TikTok divestiture bill as not serious and is a longtime opponent of heavy regulation.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 908, Stop the Censorship Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/908",
+"date": "2025-02-04",
+"quote": null,
+"what_it_shows": "Supports removing Section 230 protection when platforms take down posts they merely find objectionable."
+},
+{
+"type": "interview",
+"title": "Fox News interview reposted by his office: Big Tech censorship against conservatives is dictatorial",
+"url": "https://Biggs.house.gov/media/in-the-news/big-tech-censorship-against-conservatives-dictatorial-republican-congressman",
+"date": "2021-01-12",
+"quote": null,
+"what_it_shows": "He condemned Amazon, Apple, Google, Facebook and Twitter for deplatforming Parler as dictatorial efforts to suppress speech."
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Biggs explains vote on TikTok bill",
+"url": "https://Biggs.house.gov/media/press-releases/congressman-biggs-explains-vote-tiktok-bill",
+"date": "2024-03-14",
+"quote": "This bill is not a serious attempt to thwart China's influence or data collection in the United States.",
+"what_it_shows": "He voted against the TikTok divestiture bill, arguing it did little and that privacy should be protected from both foreign and domestic spying."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 4639 (118th), Fourth Amendment Is Not For Sale Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4639",
+"date": "2023-07-14",
+"quote": null,
+"what_it_shows": "Backs stopping police and spy agencies from buying Americans' data from brokers without a warrant."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6734, Auto Data Privacy and Autonomy Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6734",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Backs giving car owners control over data collected by connected cars."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "The only signal is his May 2025 vote for the House megabill, which carried a 10-year moratorium on state AI laws. He has not spoken about preemption directly, and his gubernatorial ticket says data center decisions should stay with local communities, so this is a weak lean.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 145: Yea on House passage of H.R. 1, which included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House version of the megabill containing the state AI-law moratorium; the provision was later stripped in the Senate 99-1."
+},
+{
+"type": "other",
+"title": "Center for American Progress Action report: Almost every House Republican voted to block state and local governments' ability to protect residents from AI data centers",
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"date": "2026-08-24",
+"quote": "The House version of the One Big Beautiful Bill Act contained a state and local AI moratorium that, if it had become law, would have prevented local control efforts to limit or restrict AI data centers.",
+"what_it_shows": "Explains why the H.R. 1 vote is read as a preemption vote, including for local data center rules."
+},
+{
+"type": "other",
+"title": "Arizona Capitol Times: running mate Sine Kerr on data centers and local control",
+"url": "https://azcapitoltimes.com/news/2026/09/07/to-build-or-not-to-build-data-center-debate-hits-the-campaign-trail/",
+"date": "2026-09-07",
+"quote": "I think with responsible guidelines and guardrails, there is a place for data centers,",
+"what_it_shows": "Contradictory signal: the Biggs-Kerr ticket says it would keep data center decisions with local communities rather than impose a statewide rule."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No position on chip export controls or Nvidia sales to China found. He voted against the CHIPS Act subsidies and against the 2024 TikTok bill, which he called not a serious attempt to thwart China, but neither is a chip-export position.",
+"evidence": []
+}
+},
+"signature": "GOP nominee for governor who backs data center growth with no tax breaks and self-supplied power; sponsor of the SOUL Act on AI likeness rights; longtime critic of Big Tech censorship.",
+"notable_quote": {
+"text": "I sat down with multiple brokers for data centers and said, 'Look, here's the deal. No special breaks. No special benefits,'",
+"url": "https://azfreenews.com/2026/07/biggs-outlines-governor-agenda-on-affordability-water-resources-and-election-integrity/",
+"date": "2026-07-11"
+},
+"groups": [
+"Chairman, House Judiciary Subcommittee on Crime and Federal Government Surveillance"
+],
+"search_notes": "Ran 11 Google News queries (data centers, AI, AI regulation/preemption, Big Tech/Section 230, SOUL Act, Nvidia/chips/TikTok, data centers own power, Hobbs tax exemption debate, deepfake reaction, NDAA/AI votes, CHIPS Act) plus two site listings of biggs.house.gov. Opened two AZ Free News interviews (his own data center words), three Arizona Capitol Times pieces, his 2024 AI deregulation release, TikTok vote statement, Big Tech censorship interview, committees and caucuses page, letters, bills and press release index pages (no SOUL Act release found), govtrack for H.R. 8323 and roll calls 145 and 356 (Yea on both), and the CAP Action report. Blocked: Arizona Mirror debate story (403, Wayback down), KTAR Q&A and data center video (403), Phoenix New Times (URL not resolvable). No AI caucus membership on his site."
+},
+{
+"bioguide": "C001133",
+"name": "Juan Ciscomani",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement on data centers found as of Sept 2026, even though Project Blue in Pima County and TEP's data-center-linked rate request are live issues near his Tucson district. Climate Power attacked his megabill vote over rising bills and he voted for the SPEED Act permitting bill, but neither is a data center position.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: Yea on H.R. 4776, the SPEED Act permitting reform bill",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for the permitting overhaul meant to speed energy and data center construction; an indirect signal only."
+},
+{
+"type": "other",
+"title": "Climate Power press release: Arizonans' electricity bills are spiking, and Juan Ciscomani voted to make it worse",
+"url": "https://climatepower.us/news/arizonans-electricity-bills-are-spiking-and-juan-ciscomani-voted-to-make-it-worse/",
+"date": "2026-05-29",
+"quote": "Congressman Juan Ciscomani (AZ-06) voted to gut it. His vote for HR1 directly threatened $557 million in clean energy investments and 245 good-paying jobs in his own district",
+"what_it_shows": "An advocacy group ties his H.R. 1 vote to rising bills while TEP seeks a 13% hike partly for data-center-linked infrastructure; it is an attack, not his statement."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Ciscomani supports specific AI guardrails. He cosponsored the bill requiring a human decision on any nuclear launch, co-led a 2025 resolution urging transparent safeguards after AI chatbots produced antisemitic content, and co-led the QUIET Act on AI robocalls. No statement on frontier AI risk or licensing was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 2894 (118th), Block Nuclear Launch by Autonomous Artificial Intelligence Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2894",
+"date": "2023-06-05",
+"quote": null,
+"what_it_shows": "Backed a major bill saying a human, not an AI, must always decide to launch a nuclear weapon."
+},
+{
+"type": "statement",
+"title": "Press release (Rep. Sara Jacobs): Reps. Jacobs, Bacon, Ciscomani, Friedman lead bipartisan resolution condemning antisemitic content on AI platforms",
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-bacon-ciscomani-friedman-lead-bipartisan-resolution-condemning-antisemitic-content-on-ai-platforms",
+"date": "2025-12-18",
+"quote": "I'm proud to co-lead Rep. Jacobs' bipartisan resolution condemning antisemitism and calling out the alarming rise of antisemitic content, including content amplified on AI platforms.",
+"what_it_shows": "He co-led a resolution that urges robust, transparent safeguards for AI systems after chatbots produced antisemitic output."
+},
+{
+"type": "statement",
+"title": "Press release: Ciscomani, Sorensen lead effort to crack down on artificial intelligence robocalls (QUIET Act)",
+"url": "https://ciscomani.house.gov/media/press-releases/ciscomani-sorensen-lead-effort-crack-down-artificial-intelligence-robocalls",
+"date": "2025-02-06",
+"quote": "The advancement of technology combined with the integration of artificial intelligence (AI) have transformed robocalls from an occasional nuisance into a powerful tool used by scammers and other bad actors",
+"what_it_shows": "He frames AI voice cloning as a fraud threat and wants disclosure plus higher penalties for AI impersonation."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "A steady backer of targeted online rules, mainly for kids and scam victims. He cosponsored the House Kids Online Safety Act in 2024, voted for the KIDS Act in July 2026, and co-led bills on AI robocalls and dating-app scam warnings. No calls for break-ups or Section 230 repeal were found.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Ciscomani applauds House passage of landmark kids internet safety legislation (KIDS Act, 267-117)",
+"url": "https://ciscomani.house.gov/media/press-releases/ciscomani-applauds-house-passage-landmark-kids-internet-safety-legislation",
+"date": "2026-07-06",
+"quote": "As a father of six, my children's safety is my number one concern. I want to know that they are safe, especially when using the internet",
+"what_it_shows": "He voted for the Kids Internet and Digital Safety Act and urged the Senate to act, calling kids' online safety common sense."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7891 (118th), Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-09-17",
+"quote": null,
+"what_it_shows": "Backed the House version of KOSA requiring apps to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 1027, QUIET Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1027",
+"date": "2025-02-05",
+"quote": null,
+"what_it_shows": "Co-led the bill requiring AI robocall disclosure and raising fines."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 2481, Romance Scam Prevention Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2481",
+"date": "2025-04-01",
+"quote": null,
+"what_it_shows": "Backs requiring dating apps to warn users who messaged a banned scammer."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 2393 (118th), Combating Cartels on Social Media Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2393",
+"date": "2023-03-29",
+"quote": null,
+"what_it_shows": "Backed a study of cartel recruitment on social media and work with platforms to stop it."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "low",
+"summary": "The only signal is his May 2025 vote for the House megabill that carried a 10-year moratorium on state AI laws. No statement on preemption, the Dec 2025 executive order or the March 2026 White House framework was found, so this is a weak lean.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 145: Yea on House passage of H.R. 1, which included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House version of the megabill containing the state AI-law moratorium; the provision was later stripped in the Senate 99-1."
+},
+{
+"type": "other",
+"title": "Center for American Progress Action report: Almost every House Republican voted to block state and local governments' ability to protect residents from AI data centers",
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"date": "2026-08-24",
+"quote": "The House version of the One Big Beautiful Bill Act contained a state and local AI moratorium that, if it had become law, would have prevented local control efforts to limit or restrict AI data centers.",
+"what_it_shows": "Explains why the H.R. 1 vote is read as a vote for preempting state and local AI rules."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, bills or letters on chip export controls, Nvidia sales to China or the CHIPS Act were found for Ciscomani as of Sept 2026.",
+"evidence": []
+}
+},
+"signature": "Kids online safety and anti-scam Republican: voted for the KIDS Act, co-led the QUIET Act on AI robocalls and a resolution on antisemitic AI content; no public data center position found.",
+"notable_quote": {
+"text": "As a father of six, my children's safety is my number one concern. I want to know that they are safe, especially when using the internet",
+"url": "https://ciscomani.house.gov/media/press-releases/ciscomani-applauds-house-passage-landmark-kids-internet-safety-legislation",
+"date": "2026-07-06"
+},
+"groups": [],
+"search_notes": "Ran 11 Google News queries (AI, data centers, chatbot/deepfake/Grok, Big Tech/KOSA, Nvidia/chips, Project Blue/Marana/TEP, kids safety, AI in veterans/appropriations, electricity costs, AI state laws/preemption, CHIPS Act/TSMC) plus two site listings of ciscomani.house.gov. Opened his QUIET Act and KIDS Act releases, the Sara Jacobs resolution release, his committees and caucuses page (no AI caucus; Vice Chair of Appropriations Homeland Security subcommittee), the Climate Power attack, the Arizona Daily Independent TSMC story (no Ciscomani quote), the CAP Action report, and govtrack roll calls 145 and 356 (Yea on both). NYT and E&E stories on his district could not be opened. Nothing found on data centers, chips or preemption beyond votes."
+}
+]

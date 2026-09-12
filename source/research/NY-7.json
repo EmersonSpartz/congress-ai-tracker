@@ -1,0 +1,792 @@
+[
+{
+"bioguide": "L000600",
+"name": "Nicholas A. Langworthy",
+"signature": "Energy and Commerce Republican who wants one national AI standard: urged Commerce to target New York's RAISE Act as overregulation, while backing kids-online-safety, deepfake and AI-child-exploitation bills.",
+"notable_quote": {
+"text": "We cannot allow a patchwork of burdensome state regulations to weaken our competitive edge, nor can we afford to let Communist China dictate the global rules of the road.",
+"url": "https://gabeevans.house.gov/media/press-releases/reps-gabe-evans-and-nick-langworthy-send-letter-department-commerce-secretary",
+"date": "2026-02-19"
+},
+"groups": [
+"House Energy and Commerce Republican Privacy Working Group (member, 2025)",
+"House Committee on Energy and Commerce, Subcommittee on Energy (member)"
+],
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Langworthy treats rising demand from data centers as a reason to build more power plants and speed up permitting, not as a reason to slow data centers. He has not been found commenting on Gov. Hochul's 2026 data center pause.",
+"evidence": [
+{
+"type": "statement",
+"title": "Wellsville Sun: Borrello, Langworthy and Molitor call on Hochul to repower the idle NRG plant in Dunkirk",
+"url": "https://wellsvillesun.com/blog/2026/02/20/borrello-langworthy-and-molitor-call-on-governor-hochul-to-repower-nrg-plant-in-dunkirk/",
+"date": "2026-02-20",
+"quote": "You cannot remove dependable energy from the grid while demand is growing and expect costs to fall or reliability to improve.",
+"what_it_shows": "He named data centers, along with manufacturing, as drivers of rising electricity demand and argued the answer is more generation, not less demand."
+},
+{
+"type": "vote",
+"title": "Roll call 356: Yea on the SPEED Act (H.R. 4776), federal permitting reform",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted for a permitting-reform bill widely tied to speeding up energy and data center construction."
+},
+{
+"type": "statement",
+"title": "Press release: Langworthy and Schrier introduce the FLOWS Act to modernize hydropower permitting",
+"url": "https://langworthy.house.gov/media/press-releases?page=0",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "Another supply-side, cut-red-tape energy bill; it shows his general build-more-power approach rather than a data center position."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Mixed but leaning light touch. He backs targeted protections for kids, deepfake victims and AI child-exploitation cases, yet he asked Commerce to treat New York's frontier-AI safety law (the RAISE Act) as harmful overregulation and wants innovation-first national standards to stay ahead of China.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter with Rep. Gabe Evans to Commerce Secretary Lutnick flagging Colorado SB 205 and New York's RAISE Act as AI overregulation",
+"url": "https://gabeevans.house.gov/media/press-releases/reps-gabe-evans-and-nick-langworthy-send-letter-department-commerce-secretary",
+"date": "2026-02-19",
+"quote": "The United States is best positioned to establish strong, innovation-driven standards that protect consumers, safeguard children, and promote economic growth.",
+"what_it_shows": "He asked the administration to list New York's AI safety law among burdensome state rules, framing AI policy around innovation and competition with China."
+},
+{
+"type": "statement",
+"title": "Statement on House passage of the Kids Internet and Digital Safety Act (KIDS Act)",
+"url": "https://langworthy.house.gov/media/press-releases/statement-on-passage-kids-act",
+"date": "2026-06-30",
+"quote": "Families deserve real tools to shield children from online predators, addictive algorithms, scams, dangerous and illegal products, explicit content, and the emerging risks posed by AI.",
+"what_it_shows": "He supports specific, kid-focused rules that include AI risks."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Child Exploitation and Artificial Intelligence Expert Commission Act of 2024 (H.R. 8005, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8005",
+"date": "2024-04-15",
+"quote": null,
+"what_it_shows": "His own AI bill created a study commission on AI-generated child abuse material rather than new binding rules."
+},
+{
+"type": "statement",
+"title": "Press release: Langworthy introduces legislation to combat the use of AI to create child sexual abuse material",
+"url": "https://langworthy.house.gov/media/press-releases/congressman-langworthy-introduces-legislation-combat-use-artificial",
+"date": "2024-04-16",
+"quote": "The rapid growth of artificial intelligence poses unique challenges for protecting our children now and in the future as technology evolves",
+"what_it_shows": "He sees AI as a real threat to children and wants law enforcement tools to keep up."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Preventing Deepfakes of Intimate Images Act (H.R. 1941)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1941",
+"date": "2025-03-27",
+"quote": null,
+"what_it_shows": "Supports criminal penalties for sharing AI-made sexual deepfakes."
+},
+{
+"type": "hearing",
+"title": "House Oversight hearing wrap-up: Federal Government Use of Artificial Intelligence Poses Promise, Peril",
+"url": "https://oversight.house.gov/release/hearing-wrap-up-federal-government-use-of-artificial-intelligence-poses-promise-peril/",
+"date": "2023-09-15",
+"quote": "Do you agree that the public has right to know for what purposes AI is being used by the federal agencies and that it’s important that these inventories are done consistently, completely and accurately",
+"what_it_shows": "He pressed for transparency about government AI use and raised concern that criminals will exploit AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Federal A.I. Governance and Transparency Act of 2024 (H.R. 7532, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7532",
+"date": "2024-03-05",
+"quote": null,
+"what_it_shows": "Backed public reporting on how federal agencies use AI."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Langworthy favors targeted rules on Big Tech: kids' online safety, app store competition, foreign robocalls, data brokers and forcing TikTok away from Chinese control. He has not called for break-ups or repealing Section 230.",
+"evidence": [
+{
+"type": "statement",
+"title": "Statement on House passage of the Kids Internet and Digital Safety Act (KIDS Act)",
+"url": "https://langworthy.house.gov/media/press-releases/statement-on-passage-kids-act",
+"date": "2026-06-30",
+"quote": "This bill gives parents more control, strengthens privacy protections for children, updates outdated online safety laws, and holds Big Tech accountable for putting profits ahead of our kids’ well-being.",
+"what_it_shows": "He celebrated a kids-online-safety law in explicitly anti-Big-Tech terms."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: App Store Freedom Act (H.R. 3209)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3209",
+"date": "2025-10-24",
+"quote": null,
+"what_it_shows": "Supports forcing Apple and Google to allow outside app stores."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Foreign Robocall Elimination Act (H.R. 6152)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
+"date": "2026-08-20",
+"quote": null,
+"what_it_shows": "Supports a specific crackdown on scam robocalls from abroad."
+},
+{
+"type": "statement",
+"title": "Press release and floor speech: Langworthy votes to force TikTok to cut ties with the Chinese Communist Party",
+"url": "https://langworthy.house.gov/media/press-releases/rep-langworthy-votes-force-tiktok-cut-ties-chinese-communist-party",
+"date": "2024-03-13",
+"quote": "This is a significant national security risk as TikTok’s parent company, ByteDance, is owned by the Chinese Communist Party",
+"what_it_shows": "He backed a forced divestiture of TikTok on national security and data-privacy grounds."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Child Online Safety Modernization Act of 2023 (H.R. 5182, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"date": "2023-11-06",
+"quote": null,
+"what_it_shows": "Supports stronger reporting duties for platforms on child abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Military Servicemembers' Data Act of 2023 (H.R. 6573, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6573",
+"date": "2023-12-06",
+"quote": null,
+"what_it_shows": "Supports limits on data brokers selling troops' personal data to hostile countries."
+},
+{
+"type": "other",
+"title": "IAPP: House Republicans organize a privacy working group (Langworthy named a member)",
+"url": "https://iapp.org/news/a/a-view-from-dc-us-house-republicans-organize-a-privacy-working-group",
+"date": "2025-02-14",
+"quote": null,
+"what_it_shows": "He sits on the Energy and Commerce GOP group drafting a national consumer privacy bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Speech from Government Interference Act (H.R. 140, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/140",
+"date": "2023-02-27",
+"quote": null,
+"what_it_shows": "His Big Tech concerns also include government pressure on platforms to remove posts, a conservative free-speech angle."
+}
+]
+},
+"preemption": {
+"score": 2,
+"confidence": "high",
+"summary": "Langworthy wants one national AI rule. In February 2026 he and Rep. Gabe Evans asked Commerce to list New York's RAISE Act and Colorado's AI law as burdensome state laws under President Trump's preemption executive order, calling for uniform federal standards.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter with Rep. Gabe Evans to Commerce Secretary Lutnick on AI overregulation in Colorado and New York",
+"url": "https://gabeevans.house.gov/media/press-releases/reps-gabe-evans-and-nick-langworthy-send-letter-department-commerce-secretary",
+"date": "2026-02-19",
+"quote": "We cannot allow a patchwork of burdensome state regulations to weaken our competitive edge, nor can we afford to let Communist China dictate the global rules of the road.",
+"what_it_shows": "He urged the administration to include his own state's AI safety law in the Commerce report that the December 2025 executive order uses to target state AI laws, and called uniform federal standards essential."
+},
+{
+"type": "vote",
+"title": "Roll call 145: Yea on House passage of H.R. 1, which then included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the full reconciliation bill while it carried the state AI-law moratorium; this was a vote on the whole bill, so it is weak evidence on its own."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China as of Sept 2026. He backs tax credits for building chip factories in the United States and is hawkish on Chinese apps like TikTok, but that is not the same question.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: BASIC Act (H.R. 3204), semiconductor manufacturing tax credit",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-05-05",
+"quote": null,
+"what_it_shows": "Supports domestic chip-factory incentives; neutral on export controls."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: STAR Act of 2025 (H.R. 802)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "Another domestic chip manufacturing tax credit; neutral on export controls."
+},
+{
+"type": "statement",
+"title": "Press release and floor speech on forcing TikTok to cut ties with the Chinese Communist Party",
+"url": "https://langworthy.house.gov/media/press-releases/rep-langworthy-votes-force-tiktok-cut-ties-chinese-communist-party",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "Shows a China-tech hawk posture on apps and data, but he has not spoken on chip exports."
+}
+]
+}
+},
+"search_notes": "Searches: Langworthy artificial intelligence; Langworthy data center; Langworthy KIDS Act; Langworthy ratepayer/electricity bills; Langworthy Big Tech/Section 230/privacy/app store; Langworthy Nvidia/export controls/chips; Langworthy Hochul moratorium data center; Langworthy Energy and Commerce AI/preemption; Langworthy Ratepayer Protection/SPEED/permitting; Langworthy state AI/AI moratorium/AI regulation; Langworthy Dunkirk NRG. Read langworthy.house.gov press index pages 0-8 and archived AI/energy releases, the Evans-Langworthy Lutnick letter release (found on gabeevans.house.gov after Google News link decoding was rate-limited), Wellsville Sun Dunkirk article, Oversight 2023 hearing wrap-up, IAPP privacy working group piece, govtrack roll calls h145 and h356. Not found: any statement on Hochul's July 2026 data center pause or on the Ratepayer Protection Act markup he sat through as an E&C member; any chip export control statement. His Energy Choice Act, BUSES Act and Dietary Supplement Regulatory Uniformity Act all preempt state rules in other areas, consistent with the AI preemption stance but not counted as AI evidence."
+},
+{
+"bioguide": "T000478",
+"name": "Claudia Tenney",
+"signature": "Semiconductor tax-credit champion (sponsor of the BASIC Act) and China-tech hawk who backs deepfake-victim bills; little public record on broader AI safety or data centers.",
+"notable_quote": {
+"text": "Our laws must keep pace with emerging technology and make clear that exploitation and abuse, whether online or offline, will not be tolerated.",
+"url": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-joins-effort-advance-defiance-act",
+"date": "2026-01-22"
+},
+"groups": [
+"House Big Tech Censorship and Data Task Force (House Republican task force, appointed 2021)",
+"House Election Integrity Caucus (founder and chair)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on data centers as of Sept 2026, even though the $19.5 billion Stream/STAMP project sits in her district's Genesee County. Her energy statements blame Albany's climate mandates for high bills and never mention data centers; she voted for federal permitting reform.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 356: Yea on the SPEED Act (H.R. 4776), federal permitting reform",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted for permitting reform often tied to energy and data center buildout, but the bill is not specific to data centers."
+},
+{
+"type": "statement",
+"title": "Press release: Tenney condemns latest utility rate hikes impacting Upstate families",
+"url": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-condemns-latest-utility-rate-hikes-impacting-upstate",
+"date": "2026-05-15",
+"quote": "New Yorkers deserve affordable, dependable energy. Albany Democrats have delivered the exact opposite.",
+"what_it_shows": "She frames electricity affordability as a state-policy failure and does not mention data center demand."
+},
+{
+"type": "statement",
+"title": "Press release: Tenney joins New York delegation to demand energy affordability and oppose Hochul's mandates",
+"url": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-joins-new-york-delegation-demand-energy-affordability-and",
+"date": "2025-11-18",
+"quote": null,
+"what_it_shows": "She warned of a strained grid and rising demand but pointed to electrification mandates, not data centers, as the problem."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Her AI record is narrow. She cosponsors and publicly promotes the DEFIANCE Act letting deepfake porn victims sue, and earlier backed a commission on AI child exploitation. She also cosponsored a bill to lock in the 'woke AI' procurement order and an AI-for-IRS study, but has taken no found position on broader AI safety rules.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Tenney joins effort to advance the DEFIANCE Act",
+"url": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-joins-effort-advance-defiance-act",
+"date": "2026-01-22",
+"quote": "The DEFIANCE Act gives victims the ability to fight back by holding perpetrators accountable and restoring control over their own likeness and identity.",
+"what_it_shows": "She supports a targeted civil remedy against AI sexual deepfakes."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: DEFIANCE Act of 2025 (H.R. 3562)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-08",
+"quote": null,
+"what_it_shows": "Backs a private right of action for deepfake victims."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: bill to codify Executive Order 14319 on preventing 'woke AI' in the federal government (H.R. 4873)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4873",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "Her AI concern includes ideological bias in government-bought AI, a culture-war lens rather than a safety lens."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: DETECT Act of 2025 (H.R. 4974), study of AI to catch tax fraud",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4974",
+"date": "2025-08-15",
+"quote": null,
+"what_it_shows": "She is open to government use of AI for enforcement."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Child Exploitation and Artificial Intelligence Expert Commission Act of 2024 (H.R. 8005, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8005",
+"date": "2024-04-15",
+"quote": null,
+"what_it_shows": "Supported studying how AI is used to exploit children."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Tenney favors targeted action against specific tech harms, especially Chinese-controlled apps like TikTok and AI deepfakes. As a member of the 2021 House GOP Big Tech task force she called for holding platforms accountable on censorship and personal data, but she has not pushed break-ups or a Section 230 repeal.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Protecting Americans from Foreign Adversary Controlled Applications Act (H.R. 7521, 118th), the TikTok divest-or-ban law",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "Backed forcing TikTok's sale on national security grounds."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Terminate TikTok on Campus Act of 2023 (H.R. 231, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/231",
+"date": "2023-01-10",
+"quote": null,
+"what_it_shows": "Supported banning TikTok on federally funded college networks."
+},
+{
+"type": "statement",
+"title": "Tenney named to the House Big Tech Censorship and Data Task Force",
+"url": "https://tenney.house.gov/media/in-the-news/congresswoman-claudia-tenney-named-big-tech-task-force",
+"date": "2021-07-10",
+"quote": "It is time for big tech to follow the same rules as everyone else",
+"what_it_shows": "She framed Big Tech as censoring conservatives and mishandling data, and said she wanted results that hold platforms accountable."
+},
+{
+"type": "statement",
+"title": "Press release: Tenney joins effort to advance the DEFIANCE Act",
+"url": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-joins-effort-advance-defiance-act",
+"date": "2026-01-22",
+"quote": null,
+"what_it_shows": "Supports a specific legal fix for online sexual exploitation."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on whether Washington should override state AI laws. She voted for the May 2025 House version of H.R. 1 that carried the state AI-law moratorium, but that was a vote on the whole budget bill and does not show a position on preemption itself.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 145: Yea on House passage of H.R. 1, which then included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A whole-bill vote; it does not by itself show support for preempting state AI laws."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Tenney leans hawkish on keeping American chips and AI away from China. She cosponsored the Remote Access Security Act to close the cloud loophole in export controls and the No DeepSeek on Government Devices Act, and she sponsors the BASIC Act to expand the chip-factory tax credit that helps Micron build in New York. No found comment on Nvidia H20 or H200 sales.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Remote Access Security Act (H.R. 2683)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"date": "2025-04-08",
+"quote": null,
+"what_it_shows": "Supports extending export controls to cover remote cloud access to U.S. chips and AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: No DeepSeek on Government Devices Act (H.R. 1121)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1121",
+"date": "2025-02-07",
+"quote": null,
+"what_it_shows": "Wants Chinese AI apps off federal devices."
+},
+{
+"type": "statement",
+"title": "Tenney's America First Foreign Policy Plan (DeepSeek section)",
+"url": "https://tenney.house.gov/issues/america-first-foreign-policy-plan",
+"date": "2025-12",
+"quote": "Allowing DeepSeek on federal devices would create an unacceptable national security risk, and its use must be prohibited.",
+"what_it_shows": "Her own policy plan treats Chinese AI as a security threat."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: BASIC Act (H.R. 3204), raising the chip manufacturing credit to 35 percent through 2030",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-05-05",
+"quote": null,
+"what_it_shows": "She leads the House push for domestic chip-factory incentives."
+},
+{
+"type": "statement",
+"title": "Press release: Tenney introduces the BASIC Act to stimulate investment in American manufacturing",
+"url": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-introduces-legislation-stimulate-investments-american",
+"date": "2025-05-01",
+"quote": "The BASIC Act extends and expands the manufacturing investment credit, encouraging investment in the U.S. economy and enabling companies like Micron to build factories right here in New York.",
+"what_it_shows": "She ties chip policy to Micron's New York fab and to staying ahead of China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Semiconductor Superiority Act (H.R. 8959)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8959",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "Continues her focus on domestic chip design and manufacturing incentives."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: No Technology for Terror Act (H.R. 6603, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6603",
+"date": "2024-04-15",
+"quote": null,
+"what_it_shows": "Supported tighter controls on chips and parts reaching Iran's weapons programs."
+}
+]
+}
+},
+"search_notes": "Searches: Claudia Tenney artificial intelligence; Tenney data center; Tenney STAMP/Stream/Genesee; Tenney Micron/chips/semiconductor; Tenney DEFIANCE/deepfake/chatbot; Tenney woke AI/export controls/Nvidia/DeepSeek; Tenney BASIC Act/Semiconductor Superiority Act. Read tenney.house.gov press index pages 0-2, archived releases (DEFIANCE, BASIC Act, utility rate hikes, NY delegation energy presser, Technology for Energy Security Act, Intelligence hearing, Big Tech task force), the foreign policy plan, energy plan and voting plan issue pages, govtrack roll calls h145 and h356. Dead ends: Batavia Daily News and The Batavian searches for a Tenney comment on the STAMP data center were blocked (429/403); PolitiFact's Feb 2026 fact-check of her Micron claim was seen only as a search-result summary; Syracuse.com letter about her and Oswego County was blocked (403). No found statement on the Hochul data center pause, state AI-law preemption, or Nvidia chip sales."
+},
+{
+"bioguide": "M001206",
+"name": "Joseph D. Morelle",
+"signature": "The House's leading sponsor of deepfake-porn and AI election-ad disclosure bills; top Democrat on House Administration; backed in 2026 by the industry-funded Think Big AI super PAC.",
+"notable_quote": {
+"text": "Women are disproportionately targeted by this technology, yet there are too few protections in place to defend them from exploitation",
+"url": "https://morelle.house.gov/media/press-releases/congressman-joe-morelle-announces-renewed-effort-combat-harmful-deepfake",
+"date": "2025-03-06"
+},
+"groups": [
+"Ranking Member, Committee on House Administration (oversees federal elections and the Library of Congress, including the Copyright Office)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statement found on data centers as of Sept 2026, though the STAMP project is near Rochester. He is an original cosponsor of the Energy Bills Relief Act on electricity costs and voted against the SPEED Act permitting bill, but neither is specific to data centers.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: Energy Bills Relief Act (H.R. 7977)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-04",
+"quote": null,
+"what_it_shows": "Shows concern about household electricity costs, but the bill is about energy prices generally, not data centers."
+},
+{
+"type": "vote",
+"title": "Roll call 356: Nay on the SPEED Act (H.R. 4776), federal permitting reform",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the GOP permitting-reform bill often linked to faster data center and energy buildout; the vote is not data-center specific."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Morelle is a leading House voice for targeted AI guardrails: he wrote the Preventing Deepfakes of Intimate Images Act, sponsors a bill requiring disclosure of AI in political ads, cosponsors the NO FAKES Act on voice and likeness, and blasted the firing of the Copyright Office chief after her report on AI training. He has not called for licensing, a pause or sweeping AI rules.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: Preventing Deepfakes of Intimate Images Act (H.R. 1941)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1941",
+"date": "2025-03-06",
+"quote": null,
+"what_it_shows": "His signature bill makes sharing AI sexual deepfakes a federal crime and lets victims sue."
+},
+{
+"type": "statement",
+"title": "Press release: Morelle announces renewed effort to combat harmful deepfake pornography",
+"url": "https://morelle.house.gov/media/press-releases/congressman-joe-morelle-announces-renewed-effort-combat-harmful-deepfake",
+"date": "2025-03-06",
+"quote": "Women are disproportionately targeted by this technology, yet there are too few protections in place to defend them from exploitation",
+"what_it_shows": "He argues AI deepfakes cause real harm and that current law has gaps needing new safeguards."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: AI Transparency in Elections Act of 2026 (H.R. 9922)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9922",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "Wants political ads to disclose when they were made with AI."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: NO FAKES Act of 2025 (H.R. 2794)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2794",
+"date": "2025-04-09",
+"quote": null,
+"what_it_shows": "Supports a legal right to stop AI copies of a person's voice and face."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: NO FAKES Act of 2026 (H.R. 8915)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8915",
+"date": "2026-05-20",
+"quote": null,
+"what_it_shows": "Re-upped support for the voice and likeness bill."
+},
+{
+"type": "statement",
+"title": "Statement as top House Administration Democrat on the firing of Register of Copyrights Shira Perlmutter",
+"url": "https://democrats-cha.house.gov/media/press-releases/morelles-statement-abrupt-firing-shira-perlmutter-register-copyrights",
+"date": "2025-05-10",
+"quote": "It is surely no coincidence he acted less than a day after she refused to rubber-stamp Elon Musk’s efforts to mine troves of copyrighted works to train AI models.",
+"what_it_shows": "He sided with the Copyright Office's caution about using copyrighted works to train AI and called the firing a power grab."
+},
+{
+"type": "hearing",
+"title": "Press release: Morelle participates in Oversight subcommittee hearing on dangerous AI-generated deepfakes",
+"url": "https://morelle.house.gov/media/press-releases/congressman-joe-morelle-participates-oversight-committee-hearing-dangerous-ai",
+"date": "2024-03-12",
+"quote": "deepfake pornography is dangerous, abusive, and requires our urgent action",
+"what_it_shows": "He used a House hearing to push for criminal and civil penalties for deepfake creators."
+},
+{
+"type": "statement",
+"title": "Press release: Morelle authors legislation to make AI-generated deepfakes illegal",
+"url": "https://morelle.house.gov/media/press-releases/congressman-joe-morelle-authors-legislation-make-ai-generated-deepfakes",
+"date": "2023-05-05",
+"quote": "As artificial intelligence continues to evolve and permeate our society, it’s critical that we take proactive steps to combat the spread of disinformation and protect individuals from compromising situations online.",
+"what_it_shows": "He was early in Congress to call for proactive rules on AI-made content."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: AI Transparency in Elections Act of 2024 (H.R. 8668, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8668",
+"date": "2024-06-07",
+"quote": null,
+"what_it_shows": "First version of his AI political-ad disclosure bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: No AI FRAUD Act (H.R. 6943, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6943",
+"date": "2024-01-10",
+"quote": null,
+"what_it_shows": "Backed letting people sue over unauthorized AI copies of their voice or likeness."
+},
+{
+"type": "pac",
+"title": "Rochester Beacon: Wilt presses uphill battle against Morelle (Think Big PAC ads for Morelle)",
+"url": "https://rochesterbeacon.com/2026/06/22/wilt-presses-uphill-battle-against-morelle/",
+"date": "2026-06-22",
+"quote": "She launched an attack on the incumbent based on his recent mailers, and TV and digital advertisements paid for by the Think Big PAC.",
+"what_it_shows": "The Leading the Future network's Democratic arm spent to support him in the 2026 primary; this shows industry backing, not his own stated position."
+},
+{
+"type": "pac",
+"title": "City & State: cheat sheet to super PACs in the 2026 New York primaries",
+"url": "https://www.cityandstateny.com/politics/2026/06/cheat-sheet-super-pacs-2026-new-york-primaries/414191/",
+"date": "2026-06-15",
+"quote": null,
+"what_it_shows": "Lists Think Big, funded mainly by Leading the Future, as supporting Morelle in NY-25."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Morelle consistently backs targeted tech rules: the Kids Online Safety Act, updated kids' privacy law, reproductive-health data privacy, web accessibility rules, a ban on Chinese-linked connected-car tech, and demands that TikTok moderate dangerous content. No found support for break-ups or a Section 230 repeal.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids Online Safety Act (H.R. 7891, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-08-06",
+"quote": null,
+"what_it_shows": "Supports a duty of care for platforms toward children."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Children and Teens' Online Privacy Protection Act (H.R. 7890, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7890",
+"date": "2024-08-09",
+"quote": null,
+"what_it_shows": "Supports stronger limits on collecting kids' and teens' data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Kids PRIVACY Act (H.R. 2801, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2801",
+"date": "2023-07-27",
+"quote": null,
+"what_it_shows": "Another kids' data privacy bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: My Body, My Data Act of 2023 (H.R. 3420, 118th)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "Supports privacy rules for reproductive health data held by apps."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (H.R. 8730)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-15",
+"quote": null,
+"what_it_shows": "Backs banning connected-car tech from China, Russia, Iran and North Korea."
+},
+{
+"type": "statement",
+"title": "Press release: Morelle calls on TikTok to remove dangerous content and act to protect public safety",
+"url": "https://morelle.house.gov/media/press-releases/congressman-joe-morelle-calls-tiktok-remove-dangerous-content-and-act-protect",
+"date": "2021-12-17",
+"quote": "Posts spreading on TikTok that incite violence are threatening the safety of educators, students, and families in our community.",
+"what_it_shows": "He has long pressed platforms to take responsibility for content moderation."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws. He voted against the May 2025 House version of H.R. 1 that carried the state AI-law moratorium, but that was a vote on the whole budget bill. He did not sign the November 2025 Matsui letter or the December 2025 Clarke letter opposing preemption.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 145: Nay on House passage of H.R. 1, which then included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A whole-bill vote; it does not by itself show a position on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China. He cosponsors tax credits for building chip factories in the United States, which is neutral on export policy.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: BASIC Act (H.R. 3204), semiconductor manufacturing tax credit",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-05-05",
+"quote": null,
+"what_it_shows": "Supports domestic chip-factory incentives; neutral on export controls."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: STAR Act of 2025 (H.R. 802)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/802",
+"date": "2025-01-28",
+"quote": null,
+"what_it_shows": "Another domestic chip manufacturing credit; neutral on export controls."
+}
+]
+}
+},
+"search_notes": "Searches: Joe Morelle artificial intelligence; Morelle data center(s); Morelle Think Big/Leading the Future/super PAC; Morelle copyright Perlmutter; Morelle NO FAKES/AI Transparency in Elections; Morelle House Administration AI; Morelle STAMP/Stream/Energy Bills Relief; Morelle Copyright Office. Read morelle.house.gov press index pages 0-4 and archived deepfake, privacy and TikTok releases, the House Administration Democrats statement on Perlmutter, Rochester Beacon and City & State articles on Think Big spending, govtrack h145, h356 and H.R. 7977 cosponsors, the Matsui letter PDF, Clarke letter and Casar letter signer lists (Morelle absent from all three). Not found: any data center or Hochul-moratorium statement; a press release for the 2026 AI Transparency in Elections Act (sponsorship confirmed from the record); the Fortune 'power grab' article itself (the same quote was verified in his official statement). Google News link decoding was rate-limited midway, so several local news items could only be read by guessing direct URLs."
+},
+{
+"bioguide": "K000402",
+"name": "Timothy M. Kennedy",
+"signature": "Thin AI record: says the Tonawanda data center decision belongs to the community; cosponsors the deepfake-images bill, the Chinese connected-car ban and the chip-factory tax credit.",
+"notable_quote": {
+"text": "It all comes down to the community. What does the community want? I think the community needs to be front and center, giving input.",
+"url": "https://www.btpm.org/local/2026-06-01/data-center-discussion-heats-up-as-meeting-looms-wednesday",
+"date": "2026-06-01"
+},
+"groups": [
+"Ranking Member, House Homeland Security Subcommittee on Emergency Management and Technology"
+],
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Kennedy has not taken a side on data centers. Asked about the proposed data center at the former Tonawanda Coke site in his district, he said the community should decide. He cosponsors the Energy Bills Relief Act on electricity costs and voted against the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "statement",
+"title": "Buffalo Toronto Public Media: Data center discussion heats up as meeting looms Wednesday",
+"url": "https://www.btpm.org/local/2026-06-01/data-center-discussion-heats-up-as-meeting-looms-wednesday",
+"date": "2026-06-01",
+"quote": "It all comes down to the community. What does the community want? I think the community needs to be front and center, giving input.",
+"what_it_shows": "He deferred to local residents on the Tonawanda data center rather than backing or opposing it."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Energy Bills Relief Act (H.R. 7977)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-04-09",
+"quote": null,
+"what_it_shows": "Shows concern about household electricity costs, but the bill is about energy prices generally, not data centers."
+},
+{
+"type": "vote",
+"title": "Roll call 356: Nay on the SPEED Act (H.R. 4776), federal permitting reform",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the GOP permitting-reform bill often linked to faster data center and energy buildout; the vote is not data-center specific."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "His only found AI action is cosponsoring the Preventing Deepfakes of Intimate Images Act in December 2025, a targeted guardrail. No speeches, letters or statements on broader AI risk were found as of Sept 2026.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Preventing Deepfakes of Intimate Images Act (H.R. 1941)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1941",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "Supports criminal penalties and civil remedies for AI sexual deepfakes."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Kennedy's one tech-regulation action is cosponsoring the Connected Vehicle Security Act, which would ban internet-connected cars and parts from companies tied to China, Russia, Iran or North Korea. No statements on Big Tech, kids' online safety or Section 230 were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Connected Vehicle Security Act of 2026 (H.R. 8730)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-06-29",
+"quote": null,
+"what_it_shows": "Backs a specific national-security restriction on adversary-linked car technology."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws. He voted against the May 2025 House version of H.R. 1 that carried the state AI-law moratorium, a whole-bill vote. He did not sign the Matsui or Clarke letters opposing preemption.",
+"evidence": [
+{
+"type": "vote",
+"title": "Roll call 145: Nay on House passage of H.R. 1, which then included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A whole-bill vote; it does not by itself show a position on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI chip export controls or Nvidia sales to China. He cosponsors the BASIC Act tax credit for building chip factories in the United States, which is neutral on export policy.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: BASIC Act (H.R. 3204), semiconductor manufacturing tax credit",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-05-05",
+"quote": null,
+"what_it_shows": "Supports domestic chip-factory incentives; neutral on export controls."
+}
+]
+}
+},
+"search_notes": "Searches: Tim Kennedy congressman artificial intelligence; Kennedy Tonawanda data center; Tim Kennedy data center; Rep./Congressman Kennedy Buffalo AI; Tim Kennedy AI Caucus/veterans AI; Kennedy NY-26 data center/moratorium/Hochul; Kennedy Homeland Security artificial intelligence; Tim Kennedy utility bills/energy costs; Kennedy Veterans Affairs AI claims. Read the BTPM Tonawanda data center article, kennedy.house.gov press release pages 1-12 (the site is not archived by Wayback and uses documentquery.aspx; no AI-related release found), his About page, govtrack h145, h356 and H.R. 7977 cosponsors, and the Matsui, Clarke and Casar letter signer lists (Kennedy absent). Unverified lead: an April 16, 2026 Nextgov story, 'AI is helping VA speed up claims processing, but Dems worry about errors,' may quote him as a Veterans' Affairs member, but the article could not be retrieved (Google News decoding rate-limited, Nextgov search returned no link), so it is not used. Note: the state context file's 'Congressional AI Caucus (Member (UT-03))' lead is a mismatch with Rep. Mike Kennedy of Utah and was not counted; his own site lists no AI caucus."
+}
+]

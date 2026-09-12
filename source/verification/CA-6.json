@@ -1,0 +1,219 @@
+[
+{
+"bioguide": "P000613",
+"checks": [
+{
+"url": "https://www.nextgov.com/policy/2026/05/tech-bills-week-mandatory-ai-rmf-usage-ai-energy-generation-and-storage-and-more/413583/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-07",
+"note": "Nextgov (May 15, 2026) says Panetta introduced the Better Energy Storage and Safety Act on May 7 to update Energy Act of 2020 storage programs as power demand rises amid reliance on AI. No data-center stance expressed; the claim's framing as a grid-reliability measure is accurate. Article does not cite the H.R. number."
+},
+{
+"url": "https://liccardo.house.gov/media/press-releases/rep-liccardo-introduces-skill-act-prepare-workers-ai-driven-job-market-shifts",
+"verdict": "confirmed",
+"corrected_quote": "Rather than attempting to turn back the clock on technological progress in the face of widespread fear of AI-driven jobs disruption",
+"corrected_date": "2026-06-24",
+"note": "Release (June 24, 2026) names Panetta as joining Liccardo; the quote appears verbatim and the release explicitly references warnings by 'doomsday' prognosticators. Note the quote is the press office's framing, not a Panetta direct quote. Bill is an employer tax credit for training, no limits on AI."
+},
+{
+"url": "https://aimoneywatch.org/people/jimmy-panetta-ca-19",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-19",
+"note": "Page shows Think Big (FEC C00923417) spent $599,280 supporting Panetta in the 2026 primary, itemized as digital advertising ($555,581), SMS/MMS ($25,450) and media production, all filed 2026-05-19. The 'sees him as friendly' inference is the tracker's, not stated on the page."
+},
+{
+"url": "https://elections.transformernews.ai/pacs/C00923417",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Think Big PAC page lists Jimmy Panetta, DEM, Supporting $599,280, Opposing $0. Matches AI Money Watch figure."
+},
+{
+"url": "https://panetta.house.gov/media/press-releases/rep-jimmy-panetta-introduces-bipartisan-legislation-boost-tech-and-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-25",
+"note": "Quote verbatim from Panetta's own release (July 25, 2025). Rep. Wilson's quote says the Chinese Communist Party is trying to exploit Africa and the US should offer an alternative. However the page contains nothing about chips, semiconductors or export controls, so this is weak evidence for a china_chips position; it is AI/tech diplomacy, not chip policy."
+},
+{
+"url": "https://panetta.house.gov/media/press-releases/rep-jimmy-panetta-introduces-bipartisan-legislation-boost-tech-and-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-07-25",
+"note": "Quote appears verbatim, attributed to Rep. Panetta."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the sources show Panetta backing guardrails. The only AI-risk evidence is a co-sponsored release that dismisses 'doomsday' warnings and frames the answer as training tax credits rather than limits on the technology, plus $599,280 in support from the industry's pro-innovation super PAC. That points toward a light-touch posture, not -1 'Targeted guardrails'.",
+"suggested_score": 1,
+"suggested_label": "Light touch"
+},
+{
+"dimension": "tech_regulation",
+"objection": "No item in the evidence set concerns Big Tech regulation, platform rules, or antitrust. A -1 'Targeted rules' score has no support in the cited sources; unless other evidence exists it should be left unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "F000480",
+"checks": [
+{
+"url": "https://cyberscoop.com/congress-industry-ponder-government-posture-for-protecting-data-centers/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-04-29",
+"note": "Page (Apr 29, 2026) says Reps. Fong and McIver 'asked panel witnesses Wednesday about federal protection' of data centers, right after noting the U.K. treats them as a standalone critical infrastructure sector. It does not itself attribute the 'should Congress follow the U.K.' question to Fong; that specific attribution comes from the MeriTalk piece. Fong is also in the article tags."
+},
+{
+"url": "https://www.meritalk.com/articles/data-centers-satellites-could-gain-critical-infrastructure-label/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Page states: 'All witnesses agreed with Rep. Vince Fong, R-Calif., who asked whether Congress should mirror the U.K.'s designations' (U.K. recognizes data centers, space, telecom as separate critical infrastructure sectors). No publish date extracted; hearing was the House Homeland Security hearing of late April 2026."
+},
+{
+"url": "https://thehill.com/homenews/5947976-ai-leadership-america-future/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-01",
+"note": "Op-ed bylined 'by Rep. Vince Fong (R-Calif.), opinion contributor - 07/01/26'. Quote appears verbatim. Grep for 'guardrail', 'regulat', 'chip', 'export' finds nothing in the body; only risks named are adversaries (China, Russia, Iran) and cybercriminals using AI. Headline on page is 'Securing America's future in the age of AI' (browser title 'AI's role in America's future: A call to leadership')."
+},
+{
+"url": "https://fong.house.gov/media/press-releases/congressman-fong-introduces-ai-education-act-2025-strengthen-americas",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-16",
+"note": "Press release dated Sept 16, 2025; quote appears verbatim, attributed to Fong. Framing is workforce/education opportunity for rural communities; no risk or containment language."
+},
+{
+"url": "https://www.techpolicy.press/transcript-ostp-director-kratsios-testifies-on-trump-ai-action-plan/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-15",
+"note": "Transcript (published Jan 15, 2026) shows Fong's full five minutes: thanks Kratsios for AI policy and AI education work (AI Education Task Force), asks about NSF education/workforce programs and AI test beds under the AI Action Plan, then yields back. No concerns raised about the Action Plan or preemption EO. Quote verbatim."
+},
+{
+"url": "https://fong.house.gov/media/editorial/future-freight-national-framework-autonomous-trucking",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-18",
+"note": "Editorial dated Aug 18, 2025, originally in The Hill. Quote verbatim. He promotes the America Drives Act to set national safety/performance standards and 'define the roles and responsibilities of federal and state governments.' Autonomous trucking only, so an indirect preemption signal as the claim says."
+},
+{
+"url": "https://thehill.com/homenews/5947976-ai-leadership-america-future/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-01",
+"note": "Quote appears verbatim in Fong's July 1, 2026 op-ed. Page contains no mention of chips, semiconductors, or export controls; China appears only as adversary/AI-race rival."
+},
+{
+"url": "https://thehill.com/homenews/5947976-ai-leadership-america-future/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-01",
+"note": "Quote appears verbatim in the op-ed bylined by Rep. Vince Fong, dated 07/01/26."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "Both sources only show Fong asking whether data centers should be designated a critical infrastructure sector for security purposes. Nothing in the evidence addresses building more data centers, permitting speed, energy use, or ratepayer protection, so there is no basis for 'Build with conditions' versus any other point on the build-speed scale. Evidence is too thin for a position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "C001059",
+"checks": [
+{
+"url": "https://costa.house.gov/media/press-releases/news-representatives-costa-moore-call-federal-study-ai-data-centers-impact",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-11",
+"note": "Quote appears verbatim in Costa's own press release (Sept 11, 2025) announcing the bipartisan Rural AI Act, which would require DOE/Interior/USDA to study data center impacts in rural America. Ratepayer framing ('families aren't left paying the price') is present."
+},
+{
+"url": "https://costa.house.gov/media/press-releases/news-representatives-costa-moore-call-federal-study-ai-data-centers-impact",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-11",
+"note": "Verbatim: '...it's important that rural communities are not left behind in the new opportunities that AI data centers will provide for agricultural sciences...'. Supports the claim he sees economic opportunity and is not seeking to block. Note the bill itself is a study, not a build mandate."
+},
+{
+"url": "https://www.nextgov.com/emerging-tech/2026/01/lawmakers-worry-over-new-rule-will-allow-sales-nvidias-h200-chips-china/410696/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-14",
+"note": "Nextgov (Jan 14, 2026) reports on a House Foreign Affairs hearing; sentence about Costa appears verbatim, with only 'rings hollow' as a direct quote of Costa. Context (Military-Civil Fusion Strategy) supports the leaning-hawkish reading."
+},
+{
+"url": "https://costa.house.gov/media/press-releases/news-representatives-costa-moore-call-federal-study-ai-data-centers-impact",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-11",
+"note": "Headline quote appears verbatim as the opening of Costa's statement in the release."
+}
+],
+"score_objections": [
+{
+"dimension": "data_centers",
+"objection": "The only source is a call for a federal study. Costa's statement leads with utility-cost and water concerns and 'families aren't left paying the price', then balances with rural opportunity. He never advocates building or accelerating; the position is a study-first balance of ratepayer concern and opportunity, which fits 0 better than +1 'Build with conditions' (and the tracker's own item 1 claim says ratepayer protection is 'at the center').",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "ai_risk",
+"objection": "No item cites any Costa statement or vote on AI safety/risk regulation. The assigned -1 rests on no evidence in the provided sources.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "tech_regulation",
+"objection": "No item cites any Costa position on Big Tech or platform regulation. The assigned -1 rests on no evidence in the provided sources.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "V000129",
+"checks": [
+{
+"url": "https://hoodline.com/2026/09/hanford-data-center-fight-turns-into-a-california-midterm-battleground/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-06",
+"note": "Article (published 2026-09-06) names Rep. David Valadao and contains the quoted reporter's summary verbatim; it also confirms opponent Randy Villegas calls for a moratorium of at least one year. Note this is a reporter's paraphrase, not a direct Valadao quotation."
+},
+{
+"url": "https://valadao.house.gov/news/documentsingle.aspx?DocumentID=3067",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-23",
+"note": "Press release dated 2025-06-23 attributes the quote verbatim to Congressman Valadao. The bill requires dating apps to send fraud-ban notifications to users; the 'safeguards' framing is consumer protection, but the scope is narrow (dating-app fraud notices), not Big Tech regulation broadly."
+},
+{
+"url": "https://valadao.house.gov/news/documentsingle.aspx?DocumentID=3067",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-23",
+"note": "Quote appears verbatim in the 2025-06-23 press release, attributed to Congressman Valadao."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The only source is a narrow bipartisan bill requiring dating apps to notify users about banned scammers. That is consistent with 'Targeted rules' (-1) but is thin evidence for a general tech-regulation stance; no source addresses Big Tech, Section 230, or platform accountability more broadly. Keep -1 only if the tracker accepts a single narrow consumer-protection bill as sufficient; otherwise consider leaving it unscored.",
+"suggested_score": -1,
+"suggested_label": "Targeted rules"
+}
+]
+}
+]

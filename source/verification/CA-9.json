@@ -1,0 +1,201 @@
+[
+{
+"bioguide": "C001123",
+"checks": [
+{
+"url": "https://www.sgvtribune.com/2024/10/14/gil-cisneros-congress-district-31-candidate-2024-election-questionnaire/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-10-14",
+"note": "Page is Cisneros's own questionnaire answers. Quote appears verbatim (extraction only joined a few words across line breaks: 'federallegislation', 'whenthey're'). Preceded by 'First,' and followed by a second sentence on platform accountability for deepfakes, so the claim's accountability half is also on the page."
+},
+{
+"url": "https://downing.house.gov/media/press-releases/downings-ai-wise-act-passes-house",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Downing press release dated 2026-01-20; cosponsor sentence naming Gil Cisneros (CA-31) appears verbatim. Bill is about AI literacy resources for small businesses via SBA e-learning platform; Downing is a Republican so bipartisan characterization holds."
+},
+{
+"url": "https://www.sgvtribune.com/2024/10/14/gil-cisneros-congress-district-31-candidate-2024-election-questionnaire/",
+"verdict": "confirmed",
+"corrected_quote": "Second, platforms hosting this content should be held accountable for identifying and flagging potential deep fakes. This can be achieved through regulations mandating improved detection tools, in partnership with the tech industry, to automatically flag suspicious materials for further review.",
+"corrected_date": "2024-10-14",
+"note": "Item had no quote; the exact passage supporting the platform-accountability claim is supplied in corrected_quote. He frames it as regulations mandating detection tools in partnership with industry, i.e. a targeted rule, matching the claim."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF fetched directly (research_tools returned 0 chars; pdftotext used). Letter dated November 26, 2025 to Johnson/Thune/Jeffries/Schumer opposing NDAA AI moratorium and a preemption executive order. Quote is verbatim. 'Gilbert Ray Cisneros, Jr.' appears in the signer list (line 223 of extracted text)."
+},
+{
+"url": "https://www.sgvtribune.com/2024/10/14/gil-cisneros-congress-district-31-candidate-2024-election-questionnaire/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-10-14",
+"note": "Same page and same verbatim passage as item 1; suitable as headline quote. Full sentence begins 'First, we need federal legislation...'."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "S000344",
+"checks": [
+{
+"url": "https://sherman.house.gov/ai-research-and-threat-assessment-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-24",
+"note": "Quote appears verbatim. Page describes an AI Research and Threat Assessment Program at NIST, cites 'If Anyone Builds It, Everyone Dies' and says the bill was developed in consultation with co-author Nate Soares."
+},
+{
+"url": "https://sherman.house.gov/media-center/press-releases/congressman-brad-delivers-ucla-commencement-revisits-artificial",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-17",
+"note": "Quote verbatim. Speech text says a pause is unlikely ('We will be told if we don't do it, China will'), references the existential-threat letter, and calls his bill 'the most important legislation that I'll ever introduce'."
+},
+{
+"url": "https://www.dailynews.com/2024/10/14/brad-sherman-congress-district-32-candidate-2024-election-questionnaire/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-10-14",
+"note": "Quote verbatim in his answer on deepfakes; he also supports 'extending property rights to actors' likenesses and voices'."
+},
+{
+"url": "https://sherman.house.gov/media-center/in-the-news/congressman-sherman-speech-on-artificial-intelligence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2007-02-05",
+"note": "Quote verbatim. Speech says he urged DARPA to build systems 'avoiding self-awareness, or at least ambition' and uses the Neanderthal comparison."
+},
+{
+"url": "https://sherman.house.gov/media-center/press-releases/sherman-cosponsors-bill-to-help-address-big-tech-s-power-over-news",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2022-10-06",
+"note": "Quote verbatim from Sherman's statement on the JCPA; page describes publishers collectively negotiating with Google, Facebook and other dominant platforms."
+},
+{
+"url": "https://sherman.house.gov/media-center/press-releases/sherman-joins-financial-services-dems-introducing-bill-bar-social-media",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-20",
+"note": "Quote verbatim (source lowercases 'wall street'). NO PROFIT Act bars social media companies from selling advance/paid-subscription access to government officials' market-moving posts. Note the framing is anti-corruption aimed at Trump's Truth Social scheme more than general tech regulation."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF downloaded and text-extracted directly (fetch tool returned no text). Quote appears verbatim; 'Brad Sherman' is in the signer list; letter dated Nov 26, 2025, addressed to Johnson, Thune, Jeffries et al., opposing the NDAA moratorium and a preemption executive order."
+},
+{
+"url": "https://democrats-foreignaffairs.house.gov/2025/12/meeks-introduces-bill-to-block-sales-of-advanced-ai-chips-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Brad Sherman is listed among original cosponsors of the RESTRICT Act; bill prohibits sale of H200 and other advanced AI chips to China, framed as a response to Trump's decision."
+},
+{
+"url": "https://sherman.house.gov/media-center/press-releases/congressman-brad-delivers-ucla-commencement-revisits-artificial",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-17",
+"note": "Headline quote appears verbatim in the commencement speech text."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "A000371",
+"checks": [
+{
+"url": "https://aguilar.house.gov/2026/08/31/rep-aguilar-sen-schiff-deliver-more-than-1-million-for-cal-state-san-bernardino-ai-research-center/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-08-31",
+"note": "Quote appears verbatim, attributed to Rep. Pete Aguilar. Page supports the jobs/training framing (CSUSB Applied Research Training Center, cybersecurity/supply chain/logistics workforce). The 'not as a risk to regulate' half of the claim is an inference from silence; the release never mentions regulation or risk either way."
+},
+{
+"url": "https://aguilar.house.gov/2026/02/06/rep-aguilar-delivers-over-1-million-to-strengthen-ai-technology-and-workforce-at-california-state-university-san-bernardino",
+"verdict": "confirmed",
+"corrected_quote": "That's why I am so proud to deliver $1 million in community project funding for CSUSB's Artificial Intelligence and Virtual Reality Research and Retraining Center to help prepare our next generation for the new age of technology.",
+"corrected_date": "2026-02-06",
+"note": "Quote is verbatim except it omits the leading 'That's why'. Page confirms $1M community project funding (earmark) for the AI/VR Research and Retraining Center; CSUSB's Center for Cyber and AI directors cite cybersecurity workforce, and the release references supply chain and logistics workforce."
+},
+{
+"url": "https://aguilar.house.gov/2025/12/04/rep-aguilar-announces-1-million-to-expand-inland-empire-artificial-intelligence-education-and-workforce-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-04",
+"note": "Quote verbatim, attributed to Rep. Pete Aguilar. Release announces NSF HSI grants ($600K CSUSB, $400K UCR) for AI education and workforce development; no mention of guardrails or regulation, as claimed."
+},
+{
+"url": "https://aguilar.house.gov/2026/08/31/rep-aguilar-sen-schiff-deliver-more-than-1-million-for-cal-state-san-bernardino-ai-research-center/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-31",
+"note": "Headline quote appears verbatim on the page, attributed to Rep. Pete Aguilar."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the four sources touches tech regulation, Big Tech, or platform rules; all are AI workforce/education funding announcements. The assigned -1 'Targeted rules' has no support in the cited evidence and should be left blank until a source on his regulatory positions is added.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "G000585",
+"checks": [
+{
+"url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-jackson-lee-clarke-gomez-ivey-and-veasey-introduce-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-10-27",
+"note": "Quote appears verbatim in Gomez's attributed statement; he cites the 2019 misidentification of himself and 27 colleagues. Bill text summary on page requires a warrant showing probable cause of a serious violent felony before FRT deployment plus annual assessments/reporting, supporting the warrants-and-accuracy-checks claim. Note the press release is a 2023 reintroduction."
+},
+{
+"url": "https://www.cnbc.com/2026/04/15/ai-2026-elections-midterms-campaign-donations.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-15",
+"note": "Quote verbatim. Page says Leading the Future's total haul is $140 million, endorsed Gomez among five House Democrats, and a Tech Oversight Project-led coalition sent letters asking the five to 'disavow' the PAC. CNBC notes it was unclear whether the members received any donations."
+},
+{
+"url": "https://newrepublic.com/post/215341/anthropic-ai-regulate-money-extinction",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Quote verbatim; article dated Sept 11, 2026 says Think Big endorsed Gomez without financial support. Claim wording 'no independent spending had been reported' is a reasonable paraphrase of 'not financial support'."
+},
+{
+"url": "https://www.semafor.com/article/09/10/2026/california-dem-faces-election-turbulence",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-11",
+"note": "Quote verbatim. Page confirms Guardrails Alliance (formed to counter Leading the Future) commissioned the Upswing poll, both Gomez and Angela Gonzales-Torres are Democrats who advanced via top-two, and the LTF-backing message is framed as a potential attack line. Semafor byline shows Sep 11, 2026 though URL says 09/10."
+},
+{
+"url": "https://aimoneywatch.org/people/jimmy-gomez-ca-34",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim on the AI Money Watch profile (file LTF-CA-34): endorsed by Leading the Future, no independent expenditures yet reported. Page gives no last-updated date."
+},
+{
+"url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-jackson-lee-clarke-gomez-ivey-and-veasey-introduce-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2023-10-27",
+"note": "Headline quote is verbatim and attributed to Congressman Gomez in the Oct 27, 2023 press release."
+}
+],
+"score_objections": []
+}
+]

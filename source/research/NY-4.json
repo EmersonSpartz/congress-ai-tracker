@@ -1,0 +1,613 @@
+[
+{
+"bioguide": "M000317",
+"name": "Nicole Malliotakis",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "She has not taken a position on data centers themselves. She cites data center demand as a reason to reopen the Indian Point nuclear plant and voted for the SPEED Act permitting bill, so she leans toward building more power supply rather than limiting projects.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Op-ed (NY Daily News, reposted on her site): Reopen the Indian Point power plant",
+"url": "https://malliotakis.house.gov/media/in-the-news/reopen-indian-point-power-plant",
+"date": "2026-04-19",
+"quote": "Wright has called for reopening Indian Point, and I strongly support that effort. The site still exists, and the need for power is only increasing",
+"what_it_shows": "She names data centers as one of the drivers of rising electricity demand and answers with more reliable generation, not limits on projects."
+},
+{
+"type": "vote",
+"title": "House roll call 356: passage of the SPEED Act (H.R. 4776), voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She voted for the Republican permitting reform bill that speeds federal approvals for energy and infrastructure projects, including those serving data centers."
+},
+{
+"type": "op_ed",
+"title": "Op-ed (Washington Examiner, with Rep. LaMalfa): Common sense can lower New York energy costs",
+"url": "https://malliotakis.house.gov/media/in-the-news/common-sense-can-lower-new-york-energy-costs",
+"date": "2025-06-10",
+"quote": "The primary obstacle to lower electricity prices in the Northeastern U.S. is clear. Blue states have denied affordable and reliable energy by blocking pipeline construction, retiring generating facilities too early with no replacements",
+"what_it_shows": "Her electricity-cost argument blames state limits on supply, not data center demand, which points to a build-more-supply approach."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "She backs specific rules against AI-made sexual deepfakes, cosponsoring the TAKE IT DOWN Act, the DEFIANCE Act and the SHIELD Act. No statements found on broader AI safety, frontier models, chatbots or jobs.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: TAKE IT DOWN Act (H.R. 633)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-24",
+"quote": null,
+"what_it_shows": "Supports making it a crime to post real or AI-faked sexual images without consent and forcing platforms to remove them quickly."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: DEFIANCE Act of 2025 (H.R. 3562)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2026-01-09",
+"quote": null,
+"what_it_shows": "Supports letting victims sue people who make or share AI sexual deepfakes of them."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: SHIELD Act of 2025 (H.R. 1218)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1218",
+"date": "2025-10-06",
+"quote": null,
+"what_it_shows": "Supports a federal crime for sharing private nude images without consent."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "She wants Congress to reform Section 230 so platforms lose liability protection when they remove constitutionally protected speech and must explain content decisions. Her Big Tech concern is censorship of conservatives, not broad privacy or antitrust law.",
+"evidence": [
+{
+"type": "op_ed",
+"title": "Op-ed (Wall Street Journal, reposted on her site): Big Tech Acts Like Big Brother",
+"url": "https://malliotakis.house.gov/media/in-the-news/malliotakis-op-ed-big-tech-acts-big-brother",
+"date": "2021-08-15",
+"quote": "It’s time for Congress to rein them in and reform Section 230 of the Communications Decency Act to require transparency for content-enforcement decisions and disclosure of appeals processes",
+"what_it_shows": "She calls for a targeted Section 230 change aimed at platform censorship after YouTube removed her video, rather than a broad regulatory regime."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on whether states should be allowed to regulate AI. She voted for H.R. 1 in May 2025 when it carried the 10-year state AI law moratorium, but that was a vote on the whole tax and spending bill, not on the AI provision.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: passage of H.R. 1 (reconciliation bill including the state AI law moratorium), voted Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "She voted for the House version of H.R. 1, which included the moratorium, but the vote covered the entire bill so it is weak evidence on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements found on chip export controls or Nvidia sales to China. Her only related action is cosponsoring the BASIC Act, which extends the tax credit for building chip factories in the United States.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: BASIC Act (H.R. 3204)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3204",
+"date": "2025-05-05",
+"quote": null,
+"what_it_shows": "Supports domestic chip manufacturing tax credits; this says nothing about export controls."
+}
+]
+}
+},
+"signature": "Staten Island Republican focused on energy supply and Big Tech censorship who cosponsors deepfake bills but has said little about AI itself.",
+"notable_quote": {
+"text": "Wright has called for reopening Indian Point, and I strongly support that effort. The site still exists, and the need for power is only increasing",
+"date": "2026-04-19",
+"url": "https://malliotakis.house.gov/media/in-the-news/reopen-indian-point-power-plant"
+},
+"groups": [],
+"search_notes": "Ran 12 news queries (artificial intelligence, AI, data center, deepfake/chatbot/Take It Down, Big Tech/Section 230/TikTok, Nvidia/chips/export controls, Indian Point/nuclear/electricity bills, Kids Online Safety/KOSA, AI moratorium/preemption, ChatGPT/robocall/scams, Staten Island AI, broad 'Nicole Malliotakis AI') plus three listings of malliotakis.house.gov. Opened and read her Big Tech op-ed (2021), two energy op-eds (2025, 2026), and govtrack pages for House votes 145 and 356. Found no press release or interview on AI regulation, data centers, chatbots, preemption or chip exports. A July 2026 letter with Frank Morano asking DOJ to review sports streaming deals appeared in search results but the page could not be opened, so it is not used. The Newsweek list of DEFIANCE Act backers (July 2026) could not be opened either. Google News link decoding failed for most items and the Wayback fallback was down for part of the session."
+},
+{
+"bioguide": "N000002",
+"name": "Jerrold Nadler",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. He is an original cosponsor of the Energy Bills Relief Act, a broad Democratic energy-cost bill that mentions data centers only inside a study, and he voted against the SPEED Act permitting bill, which is not specific to data centers.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: Energy Bills Relief Act (H.R. 7977)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "A 400-page Democratic energy affordability bill; its only data center language is a study category, so it is not a data center position."
+},
+{
+"type": "vote",
+"title": "House roll call 356: passage of the SPEED Act (H.R. 4776), voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He voted against the Republican permitting reform bill; a whole-bill vote and weak evidence on data centers."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "He wants existing antitrust, consumer protection and privacy laws enforced against AI companies through a strong FTC, and he has pressed Delta over AI-driven ticket pricing and backed limits on rent-setting algorithms. He talks about AI's risks but has not called for licensing or a pause.",
+"evidence": [
+{
+"type": "hearing",
+"title": "Opening statement: Judiciary Antitrust Subcommittee hearing on AI innovation and competition",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/antitrust-subcommittee-ranking-member-nadler-s-opening-statement-at-hearing-on-artificial-intelligence-innovation-and-competition",
+"date": "2025-04-02",
+"quote": "with control of AI technology in the hands of just a few entrenched companies, it is important that we keep a watchful eye on the industry with thoughtful regulation that will foster growth and innovation while protecting consumers",
+"what_it_shows": "He calls AI's risks tremendous but frames the answer as enforcement of current law and thoughtful regulation, not sweeping new rules."
+},
+{
+"type": "letter",
+"title": "Letter: García and Nadler lead 24 House Democrats demanding answers from Delta's CEO on AI ticket pricing",
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-garcia-nadler-lead-house-colleagues-in-demanding-answers-from-delta-ceo-about-ai-use-in-ticket-pricing",
+"date": "2025-11-05",
+"quote": "generative AI is being deployed throughout the economy with limited transparency, this move could drive up prices for consumers and result in individualized, surveillance-based price discrimination",
+"what_it_shows": "He co-led a demand for transparency about generative AI pricing, a targeted consumer protection concern."
+},
+{
+"type": "hearing",
+"title": "Opening statement: Judiciary IP Subcommittee hearing on AI and intellectual property, Part III",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-nadler-opening-statement-for-house-judiciary-committee-ip-subcommittee-hearing-on-artificial-intelligence-and-intellectual-property-part-iii-ip-protection-for-ai-assisted-inventions-and-creative-works",
+"date": "2024-04-10",
+"quote": "I applaud the Copyright and Patent Offices for taking much-needed first steps to clarify what should and should not receive intellectual property protections as generative AI becomes increasingly and indelibly incorporated in our society",
+"what_it_shows": "He supports agency guidance that limits copyright and patent protection to the human parts of AI-assisted works, a measured approach."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Preventing the Algorithmic Facilitation of Rental Housing Cartels Act (H.R. 8622, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8622",
+"date": "2024-06-05",
+"quote": null,
+"what_it_shows": "Supports banning landlords from using shared pricing algorithms to coordinate rents, a targeted rule on algorithmic harm."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "A longtime Big Tech antitrust hawk. As Judiciary chairman he led the investigation that called the largest tech companies gatekeepers like the railroad monopolists, backed the antitrust suits against Facebook, and in 2026 he demanded answers on political interference in DOJ merger reviews. He also cosponsored major privacy bills.",
+"evidence": [
+{
+"type": "statement",
+"title": "Statement for markup of the Final Report on Investigation of Competition in Digital Markets",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/chairman-nadler-statement-for-the-markup-of-the-final-report-on-investigation-of-competition-in-digital-markets",
+"date": "2021-04-14",
+"quote": "The largest companies have morphed from being innovative startups into powerful gatekeepers, not unlike the railroad and telephone monopolists of the past.",
+"what_it_shows": "As chairman he endorsed the Big Tech antitrust report and said antitrust law must be modernized and reinvigorated."
+},
+{
+"type": "statement",
+"title": "Statement applauding the New York attorney general and FTC antitrust lawsuits against Facebook",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/nadler-applauds-new-york-attorney-general-letitia-james-and-federal-trade-commission-for-filing-historic-antitrust-lawsuits-against-facebook",
+"date": "2020-12-09",
+"quote": "As a result, Facebook has illegally maintained its monopoly, allowing it to engage in other abusive conduct. This should never have happened in the first place, and accountability is long overdue.",
+"what_it_shows": "He backed aggressive antitrust enforcement against a Big Tech platform, including unwinding acquisitions."
+},
+{
+"type": "letter",
+"title": "Raskin and Nadler letter demanding answers after ouster of DOJ antitrust chief Gail Slater and political interference in merger reviews",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/raskin-nadler-demand-answers-following-ouster-of-doj-antitrust-chief-gail-slater-and-increasing-political-interference-with-doj-merger-reviews",
+"date": "2026-02-25",
+"quote": null,
+"what_it_shows": "As antitrust ranking member he pressed DOJ over alleged lobbyist influence on tech merger decisions such as HPE's purchase of Juniper Networks."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Fourth Amendment Is Not For Sale Act (H.R. 4639, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4639",
+"date": "2023-07-14",
+"quote": null,
+"what_it_shows": "Supports stopping police and spy agencies from buying Americans' phone and location data from data brokers."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: My Body, My Data Act of 2023 (H.R. 3420, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-25",
+"quote": null,
+"what_it_shows": "Supports strong limits on collecting and sharing reproductive health data."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws. He did not sign the November 2025 Matsui letter or the December 2025 Clarke letter opposing a moratorium, and he has not cosponsored bills on either side. His Nay vote on H.R. 1 covered the whole bill.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: passage of H.R. 1 (reconciliation bill including the state AI law moratorium), voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted against the House bill that carried the moratorium, but the vote was on the entire tax and spending package, so it is weak evidence on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements or bills found on chip export controls, the Chip Security Act, or Nvidia sales to China as of Sept 2026.",
+"evidence": []
+}
+},
+"signature": "Judiciary antitrust ranking member and Big Tech critic who says there is no AI exception to antitrust or consumer protection law; retiring at the end of the 119th Congress.",
+"notable_quote": {
+"text": "First, there is no artificial intelligence exception to the antitrust and consumer protection laws. Second, there is no DOGE exception to federal privacy protections.",
+"date": "2025-04-02",
+"url": "https://democrats-judiciary.house.gov/media-center/press-releases/antitrust-subcommittee-ranking-member-nadler-s-opening-statement-at-hearing-on-artificial-intelligence-innovation-and-competition"
+},
+"groups": [
+"Ranking Member, House Judiciary Subcommittee on the Administrative State, Regulatory Reform, and Antitrust (119th Congress)",
+"Former Chairman and Ranking Member, House Judiciary Committee (2019 to 2024)"
+],
+"search_notes": "Ran 12 news queries (artificial intelligence, AI copyright/deepfake, Big Tech/antitrust/Section 230, Leading the Future/Bores/Lasher, data center/state AI laws/preemption, AI hearing opening statement, Delta AI pricing, Google/Meta/Amazon antitrust, AI and intellectual property, 2026 AI statements) plus listings of nadler.house.gov (almost nothing archived) and democrats-judiciary.house.gov. Read his April 2025 AI competition statement, April 2024 AI and IP statement, the Delta letter release, the 2021 digital markets markup statement, the 2020 Facebook suit statement, the Feb 2026 Slater letter, govtrack pages for H.R. 7977 cosponsors and House votes 145 and 356, and the Matsui letter PDF (his name is absent). The June 2026 NY-12 primary drew heavy AI super PAC spending, but it targeted candidates to succeed him, not Nadler, so no PAC item is recorded. No data center or chip export statements found. Wayback fallback was down for part of the session."
+},
+{
+"bioguide": "E000297",
+"name": "Adriano Espaillat",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. He cosponsored the AI Environmental Impacts Act, a study and voluntary reporting bill, and the broad Energy Bills Relief Act, but has not said whether data centers should be built, limited or paused.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Artificial Intelligence Environmental Impacts Act of 2026 (H.R. 9183)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+"date": "2026-06-15",
+"quote": null,
+"what_it_shows": "Supports a federal study of AI's electricity, water and pollution footprint with voluntary company reporting; not a position on building or pausing."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor: Energy Bills Relief Act (H.R. 7977)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "A broad Democratic energy affordability bill whose only data center language is a study category."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "He backs targeted AI guardrails: bias testing under the Algorithmic Accountability Act, disclosure of AI training data, a pause on federal face recognition, and bans on AI voice fakes in campaign ads. His own bill funds AI literacy, and he frames AI as something to develop responsibly rather than something to halt.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: Algorithmic Accountability Act of 2025 (H.R. 5511)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-30",
+"quote": null,
+"what_it_shows": "Supports making companies test automated decision systems for bias and harm and report to the FTC."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Artificial Intelligence Literacy and Inclusion Act (H.R. 3210)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3210",
+"date": "2025-05-06",
+"quote": null,
+"what_it_shows": "His own AI bill funds AI education in underserved communities; it treats AI as an opportunity gap to close, not a danger to stop."
+},
+{
+"type": "statement",
+"title": "Press release: Espaillat leads AI Leadership Roundtable and introduces the AI Literacy and Inclusion Act",
+"url": "https://espaillat.house.gov/media/press-releases/representative-adriano-espaillat-leads-ai-leadership-roundtable-equity-access",
+"date": "2025-05-16",
+"quote": "That means making AI education and literacy as fundamental as reading, writing, and math",
+"what_it_shows": "He wants AI taught in schools and workforce programs so communities are not locked out of a tech-driven economy."
+},
+{
+"type": "statement",
+"title": "Readout: Congressional Hispanic Caucus inaugural AI roundtable led by Espaillat",
+"url": "https://espaillat.house.gov/media/press-releases/readout-chc-inaugural-artificial-intelligence-roundtable",
+"date": "2024-08-01",
+"quote": "AI has the potential to revolutionize our society, but it must be developed and implemented responsibly.",
+"what_it_shows": "He convened Latino-focused AI discussions on bias and discrimination while stressing U.S. competitiveness, a balanced guardrails stance."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: AI Foundation Model Transparency Act of 2023 (H.R. 6881, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6881",
+"date": "2024-05-21",
+"quote": null,
+"what_it_shows": "Supports requiring builders of large AI models to disclose training data and testing."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Facial Recognition and Biometric Technology Moratorium Act of 2023 (H.R. 1404, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/1404",
+"date": "2023-03-07",
+"quote": null,
+"what_it_shows": "Supports pausing federal use of face recognition until Congress approves it."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: Candidate Voice Fraud Prohibition Act (H.R. 4611, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/4611",
+"date": "2023-07-13",
+"quote": null,
+"what_it_shows": "He wrote a bill to make it a crime to use AI-faked candidate voices in political ads to trick voters."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "He favors targeted privacy rules over blunt bans. He voted against the 2024 TikTok divest-or-ban law while calling for comprehensive industry-wide privacy protections, and in 2026 he won a bipartisan appropriations amendment stopping the FBI, DEA, Marshals and ATF from buying Americans' personal data from data brokers.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Espaillat, Lofgren and Wyden on closing the data broker loophole after his amendment passed the Appropriations Committee",
+"url": "https://espaillat.house.gov/media/press-releases/espaillat-lofgren-and-wyden-lead-congressional-efforts-close-data-broker",
+"date": "2026-05-20",
+"quote": "it is critical that our personal information remains protected and not easily accessible or sold to federal agents",
+"what_it_shows": "He pushed through an amendment, drawn from the Fourth Amendment Is Not For Sale Act, barring several federal law enforcement agencies from buying personal data."
+},
+{
+"type": "statement",
+"title": "Statement on his vote opposing a TikTok ban",
+"url": "https://espaillat.house.gov/media/press-releases/statement-rep-adriano-espaillat-vote-opposing-tiktok-ban",
+"date": "2024-03-13",
+"quote": "We need comprehensive industry-wide privacy protections, and as we move forward, we must not deploy the restrictive tactics of our adversaries and limit use and access of billions of users and businesses on these platforms.",
+"what_it_shows": "He opposed the TikTok divest-or-ban bill as rushed and asked instead for a broad privacy law covering all platforms; a mixed signal that leans toward targeted rules."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on federal preemption of state AI laws. He did not sign the Matsui or Clarke letters opposing a moratorium and has not cosponsored bills on either side. His Nay vote on H.R. 1 covered the whole bill.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: passage of H.R. 1 (reconciliation bill including the state AI law moratorium), voted Nay",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted against the House bill that carried the moratorium, but the vote was on the entire package, so it is weak evidence on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on chip export controls, the Chip Security Act, or Nvidia sales to China as of Sept 2026.",
+"evidence": []
+}
+},
+"signature": "Congressional Hispanic Caucus chair who runs AI equity roundtables and sponsors AI literacy and anti-deepfake bills; lost his June 2026 primary but serves through January 2027.",
+"notable_quote": {
+"text": "AI has the potential to revolutionize our society, but it must be developed and implemented responsibly.",
+"date": "2024-08-01",
+"url": "https://espaillat.house.gov/media/press-releases/readout-chc-inaugural-artificial-intelligence-roundtable"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (House, 119th Congress), member",
+"Chair, Congressional Hispanic Caucus (119th Congress); led the CHC AI roundtable series"
+],
+"search_notes": "Ran 12 news queries (artificial intelligence, data center, AI literacy, deepfake/Big Tech/TikTok/Section 230, Nvidia/chips/preemption, AI Caucus/Algorithmic Accountability, TikTok ban vote, facial recognition/surveillance/ICE, DHS user data letter, and primary coverage) plus four listings of espaillat.house.gov. Read his AI Literacy Act release, the 2024 CHC AI roundtable readout, his TikTok ban statement, the May 2026 data broker amendment release, govtrack pages for H.R. 7977 cosponsors and House votes 145 and 356, and the Matsui letter PDF (his name is absent). The AI Caucus membership comes from the landscape file; the caucus website could not be reached to confirm it. No data center, preemption or chip export statements found. The March 2026 Van Hollen, Wyden and Espaillat letter on ICE location data purchases appeared in search results but no source page could be opened."
+},
+{
+"bioguide": "O000172",
+"name": "Alexandria Ocasio-Cortez",
+"positions": {
+"data_centers": {
+"score": -2,
+"confidence": "high",
+"summary": "She sponsors the House AI Data Center Moratorium Act, which would halt new data centers and expansions until Congress passes AI safety, worker and utility-cost protections. She has also pressed EPA over water damage near Meta's Georgia campus, joined a letter to FERC on grid costs, and secured a DOE study of data centers' effect on electric bills.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: Artificial Intelligence Data Center Moratorium Act (H.R. 9442)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+"date": "2026-06-24",
+"quote": null,
+"what_it_shows": "She leads the House bill to pause new data centers and expansions, the companion to Sen. Sanders' S. 4214."
+},
+{
+"type": "statement",
+"title": "Press release: Ocasio-Cortez introduces House version of the AI Data Center Moratorium Act",
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act",
+"date": "2026-06-24",
+"quote": "Congress has a moral obligation to stand with the American people and stop the expansion of these data centers until we have a framework to adequately address the existential harm AI poses to our society.",
+"what_it_shows": "In her own words, she wants construction stopped until federal safeguards on safety, workers and utility prices are in place."
+},
+{
+"type": "hearing",
+"title": "E&C Oversight hearing remarks: presses EPA's Jessica Kramer on data center construction and drinking water",
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-presses-epa-assistant-administrator-kramer-jeopardizing-clean",
+"date": "2026-05-20",
+"quote": "They now rely on bottled water to drink and prepare meals, and nearby residents' water bills are expected to increase by 33%.",
+"what_it_shows": "After visiting Meta's Georgia data center campus she asked EPA to investigate water harm and criticized executive orders fast-tracking construction."
+},
+{
+"type": "letter",
+"title": "Mullin-led letter of 20 House Democrats to FERC, Edison Electric Institute and the Data Center Coalition on data center energy costs",
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"date": "2025-10-28",
+"quote": "The expansion of data centers risks creating persistent affordability challenges for households and small businesses.",
+"what_it_shows": "She signed a letter asking regulators and the industry how grid upgrade costs will be kept off household bills."
+},
+{
+"type": "statement",
+"title": "Press release: Ocasio-Cortez secures DOE study on impact of AI data centers on electric bills",
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-secures-department-energy-study-impact-ai-data-centers-americans",
+"date": "2025-09-04",
+"quote": "Electric bills across the country are already skyrocketing, and increased energy demand from Big Tech data centers may only make it harder for people to afford their electric bills and keep the lights on.",
+"what_it_shows": "Before backing a moratorium she pushed ratepayer-protection steps such as a federal study of demand response and load flexibility."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "high",
+"summary": "She calls AI an existential harm to society and wants data center construction paused until binding federal safety rules exist. She has warned that AI chatbots are driving suicides and psychosis, called the AI investment boom a bubble that should get no bailout, and leads the DEFIANCE Act against sexual deepfakes. She has also backed public AI research infrastructure.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Ocasio-Cortez introduces House version of the AI Data Center Moratorium Act",
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act",
+"date": "2026-06-24",
+"quote": "stop the expansion of these data centers until we have a framework to adequately address the existential harm AI poses to our society. We must choose humanity over profit.",
+"what_it_shows": "She ties a construction pause to binding rules that make AI safe and effective before harmful products are released."
+},
+{
+"type": "hearing",
+"title": "E&C Oversight hearing remarks on AI chatbots and the economic threat from the AI bubble",
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-highlights-economic-threat-ai-bubble",
+"date": "2025-11-18",
+"quote": "Many of the stories that we've heard today about the deadly consequences of some of these AI chat bots are pretty extreme and horrifying. We're talking about suicidality.",
+"what_it_shows": "She links chatbot harms to companies' pressure to profit, warns of a 2008-style bubble and says there should be no bailout if it pops."
+},
+{
+"type": "sponsor",
+"title": "Sponsor: DEFIANCE Act of 2025 (H.R. 3562)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"date": "2025-05-21",
+"quote": null,
+"what_it_shows": "She leads the House bill letting victims sue over AI sexual deepfakes; it passed the Senate unanimously."
+},
+{
+"type": "statement",
+"title": "Press conference with Rep. Laurel Lee and Paris Hilton urging House passage of the DEFIANCE Act",
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-lee-join-house-members-and-advocates-calling-pass-defiance-act",
+"date": "2026-01-22",
+"quote": "It is not enough to take down content; we need to give victims a civil right of action.",
+"what_it_shows": "She wants liability for deepfake makers on top of the TAKE IT DOWN Act's removal rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Algorithmic Accountability Act of 2025 (H.R. 5511)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-10-24",
+"quote": null,
+"what_it_shows": "Supports mandatory bias and harm testing of automated decision systems with FTC reporting."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Artificial Intelligence Civil Rights Act of 2025 (H.R. 6356)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "Supports banning discriminatory AI and requiring pre- and post-deployment audits."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: CREATE AI Act of 2023 (H.R. 5077, 118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5077",
+"date": "2024-09-11",
+"quote": null,
+"what_it_shows": "She backed a national public compute and data resource so researchers, not only big companies, can build AI; she is not against AI research itself."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "She wants to break up Big Tech. In June 2026 she said Congress should pass antitrust legislation to break up large technology companies after Apple raised prices, she co-signed the letter pressing Delta on AI-driven ticket pricing, and she cosponsors a bill banning AI-driven price and wage discrimination.",
+"evidence": [
+{
+"type": "interview",
+"title": "Washington Examiner report on her Fox News interview calling to break up tech giants after Apple price hikes",
+"url": "https://www.washingtonexaminer.com/policy/technology/4628419/aoc-break-up-tech-giants-apple-hikes-prices/",
+"date": "2026-06-29",
+"quote": "said Congress should pursue antitrust legislation to “break up” large technology companies after Apple significantly raised prices on its products.",
+"what_it_shows": "A reporter's summary of her televised remarks; The Hill, New York Post, Fox News and The Independent reported the same call, but those pages could not be opened."
+},
+{
+"type": "letter",
+"title": "García and Nadler-led letter of 24 House Democrats demanding answers from Delta's CEO on AI ticket pricing (co-signer)",
+"url": "https://chuygarcia.house.gov/media/press-releases/reps-garcia-nadler-lead-house-colleagues-in-demanding-answers-from-delta-ceo-about-ai-use-in-ticket-pricing",
+"date": "2025-11-05",
+"quote": "this move could drive up prices for consumers and result in individualized, surveillance-based price discrimination",
+"what_it_shows": "She joined a demand for transparency about generative AI pricing in a concentrated industry."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: Stop AI Price Gouging and Wage Fixing Act of 2025 (H.R. 4640)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
+"date": "2026-01-07",
+"quote": null,
+"what_it_shows": "Supports banning companies from using AI and personal data to charge people different prices or pay different wages."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "She opposes federal preemption of state AI laws. She signed the November 2025 letter from 81 House Democrats against reviving the moratorium, and at a December 2025 hearing she called the Republican moratorium push and Trump's executive order a story of corruption driven by AI company lobbying.",
+"evidence": [
+{
+"type": "hearing",
+"title": "E&C Oversight hearing remarks on Trump and Republican efforts to ban states from regulating AI",
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-calls-out-pattern-corruption-behind-trump-and-republican-efforts",
+"date": "2025-12-17",
+"quote": "And the reason that these AI tech giants are lobbying for a ban on state-level regulations is because they know that they don't want to fight these regulations in all 50 states.",
+"what_it_shows": "She defends state AI laws on child safety and public health and says the executive order blocking them endangers lives."
+},
+{
+"type": "letter",
+"title": "Matsui-led letter of 81 House Democrats opposing an AI moratorium in the NDAA and the planned preemption executive order (signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": "We write to express our strong opposition to any effort in the National Defense Authorization Act (NDAA)",
+"what_it_shows": "Her name appears among the 81 signers telling congressional leaders not to revive the state AI law moratorium or override states by executive order."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "low",
+"summary": "No position found on chip export controls or Nvidia sales to China. Her data center moratorium bill would ban exports of AI computing infrastructure to countries without equivalent safety and environmental laws, but that is framed around safety, not China.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Ocasio-Cortez introduces House version of the AI Data Center Moratorium Act (export provision)",
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act",
+"date": "2026-06-24",
+"quote": "The legislation also bans U.S. exports of AI computing infrastructure to countries that lack equivalent safety and environmental laws",
+"what_it_shows": "A general export restriction tied to safety standards, not a stance on national security chip controls toward China."
+}
+]
+}
+},
+"signature": "Progressive leader of the House push to pause AI data centers, calling AI an existential harm; also the House lead on the DEFIANCE Act against sexual deepfakes.",
+"notable_quote": {
+"text": "Congress has a moral obligation to stand with the American people and stop the expansion of these data centers until we have a framework to adequately address the existential harm AI poses to our society.",
+"date": "2026-06-24",
+"url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act"
+},
+"groups": [
+"Congressional Artificial Intelligence Caucus (House, 119th Congress), member",
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress), member"
+],
+"search_notes": "Ran 14 news queries (data center moratorium, AI regulation, break up Big Tech, Nvidia/export controls/chips, preemption/state AI laws, chatbot/Section 230/KOSA/Grok, AI bubble/superintelligence/existential, Memphis xAI, H200/AI Overwatch/Leading the Future, and URL-decoding attempts for the June 2026 break-up interview) plus two listings of ocasio-cortez.house.gov. Read her moratorium release, the Nov 2025 AI bubble hearing remarks, the Dec 2025 preemption hearing remarks, the May 2026 EPA water hearing remarks, the Sept 2025 DOE study release, the Jan 2026 DEFIANCE press conference, the Mullin FERC letter, the Delta letter, the Matsui letter PDF (her name present), the Roll Call June 2026 piece, and govtrack vote pages. Task force membership confirmed in Espaillat's 2024 CHC readout; AI Caucus membership rests on the landscape file because the caucus site was unreachable. Could not open the Sanders Senate release, the Markey EPA letter, Memphis xAI local coverage, or The Hill, Fox, NY Post and Mediaite articles on her break-up remarks (403s and paywalls, with the Wayback fallback down), so the break-up quote is a reporter's summary. No AI super PAC support or attacks found."
+}
+]

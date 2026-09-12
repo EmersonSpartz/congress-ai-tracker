@@ -1,0 +1,705 @@
+[
+{
+"bioguide": "D000563",
+"name": "Richard J. Durbin",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Durbin wrote a bill making data centers disclose their electricity and water use, tied rising Illinois utility bills to energy-hungry data centers, and cosponsored the Power for the People Act so data centers pay their own grid costs. He has not called for a pause on building.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.4213 Data Center Water and Energy Transparency Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4213",
+"date": "2026-03-25",
+"quote": null,
+"what_it_shows": "His own bill would force data centers to report energy and water use to states, project five years of demand, and face fines for not complying."
+},
+{
+"type": "statement",
+"title": "Press release: As utility costs rise, Durbin introduces data center transparency bill",
+"url": "https://www.durbin.senate.gov/newsroom/press-releases/as-utility-costs-rise-durbin-introduces-new-legislation-to-bring-transparency-to-energy-and-water-consumption-by-data-centers",
+"date": "2026-03-25",
+"quote": null,
+"what_it_shows": "Durbin said a sharp rise in utility bills may come from the growth of energy-hungry data centers and that Illinoisans deserve an honest analysis of data centers' electricity and water needs; the release notes he also wrote about rising water and electric bills in the Chicago Tribune."
+},
+{
+"type": "other",
+"title": "News report: Durbin listed as cosponsor of Van Hollen's Power for the People Act",
+"url": "https://www.datacenterdynamics.com/en/news/senate-democrats-propose-legislation-to-curb-data-center-grid-impact/",
+"date": "2026-01-27",
+"quote": "Joining Van Hollen as cosponsors on the legislation are Democratic Senators Dick Durbin, Richard Blumenthal, Cory Booker, Tammy Duckworth, Tina Smith, and Angela Alsobrooks.",
+"what_it_shows": "He backed a bill creating data center load queues, new rate classes and FERC rules so data centers, not households, pay for grid upgrades."
+},
+{
+"type": "statement",
+"title": "Press release: Van Hollen leads new bill to ensure Americans aren't footing the bill for big data centers",
+"url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-leads-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers",
+"date": "2026-01-15",
+"quote": null,
+"what_it_shows": "The sponsor's release lists Durbin as an original cosponsor of the ratepayer-protection bill, which the Illinois Citizens Utility Board endorsed."
+}
+]
+},
+"ai_risk": {
+"score": -2,
+"confidence": "medium",
+"summary": "Durbin wants binding rules now: his AI LEAD Act would let anyone harmed by an AI system sue the company under product liability law, and he cosponsors the GUARD Act to keep kids away from AI companion bots. His focus is harm to kids and consumers from AI products, not existential risk.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.2937 AI LEAD Act (federal product liability for AI systems)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2937",
+"date": "2025-09-29",
+"quote": null,
+"what_it_shows": "His bill classifies AI systems as products so the Attorney General, state attorneys general and private people can sue developers and deployers for harms."
+},
+{
+"type": "statement",
+"title": "Press release: Hawley, Durbin introduce legislation empowering Americans to bring liability claims against AI companies",
+"url": "https://www.hawley.senate.gov/hawley-durbin-introduce-legislation-empowering-americans-to-bring-liability-claims-against-ai-companies/",
+"date": "2025-09-30",
+"quote": "By opening the courtroom and allowing victims to sue, our bill will force AI companies to develop their products with safety in mind. Our message to AI companies is clear: keep innovating, but do it responsibly.",
+"what_it_shows": "In his own words, he wants courts and liability, not self-policing, to force safer AI design."
+},
+{
+"type": "hearing",
+"title": "Press release: Durbin exposes harms of unregulated AI chatbots during Senate Judiciary hearing",
+"url": "https://www.durbin.senate.gov/newsroom/press-releases/durbin-exposes-harms-of-unregulated-ai-chatbots-during-senate-judiciary-committee-hearing",
+"date": "2025-09-16",
+"quote": null,
+"what_it_shows": "Questioning parents whose children were harmed by Character.AI and ChatGPT, Durbin said the problem is money and profit and that making companies pay a price for the devastation would change their conduct; he previewed the AI LEAD Act at the hearing."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3062 GUARD Act (age checks, no AI companion bots for minors)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+"date": "2026-04-17",
+"quote": null,
+"what_it_shows": "He joined Hawley's bill requiring chatbot companies to verify ages and bar minors from companion bots."
+},
+{
+"type": "hearing",
+"title": "Roll Call: Ban on kids' companion chatbots advanced by Senate committee",
+"url": "https://rollcall.com/2026/04/30/ban-on-kids-companion-chatbots-advanced-by-senate-committee/",
+"date": "2026-04-30",
+"quote": null,
+"what_it_shows": "Roll Call names Durbin, the committee's ranking member, among the GUARD Act's cosponsors as the Judiciary Committee advanced it."
+},
+{
+"type": "statement",
+"title": "Roll Call: Senate passes Durbin's DEFIANCE Act on nonconsensual deepfake images",
+"url": "https://rollcall.com/2026/01/13/senate-passes-bill-targeting-nonconsensual-deepfake-images/",
+"date": "2026-01-13",
+"quote": "This legislation says if they are guilty of such reckless misconduct, that they can be sued for it and held civilly liable for the damages.",
+"what_it_shows": "As sponsor he won unanimous passage of a civil right to sue over AI sexual deepfakes and criticized X for letting Grok create exploitive images."
+},
+{
+"type": "hearing",
+"title": "IPWatchdog: Senate Judiciary hearing on Chinese IP theft (Durbin exchange with Helen Toner)",
+"url": "https://ipwatchdog.com/2026/04/22/senate-judiciary-hearing-on-chinese-ip-theft/",
+"date": "2026-04-22",
+"quote": "In response to a question from Senator Dick Durbin (D-IL) about whether the government should be more involved in the development of AI technologies",
+"what_it_shows": "Durbin raised whether government should have a bigger role in AI development; the witness replied the mismatch between AI's importance and government involvement is unprecedented."
+},
+{
+"type": "hearing",
+"title": "Press release: Durbin opening statement at Judiciary hearing on AI training on copyrighted works",
+"url": "https://www.durbin.senate.gov/newsroom/press-releases/durbin-delivers-opening-statement-in-senate-judiciary-subcommittee-hearing-on-the-way-ai-interacts-with-copyrights",
+"date": "2025-07-16",
+"quote": null,
+"what_it_shows": "He said AI innovation and intellectual property protection are not mutually exclusive and criticized Meta and Anthropic for training models on pirated books without paying creators."
+}
+]
+},
+"tech_regulation": {
+"score": -2,
+"confidence": "high",
+"summary": "Durbin wants to rein in Big Tech. He cosponsors the Sunset Section 230 Act, campaigned for it with actor Joseph Gordon-Levitt, opened a Judiciary investigation into child abuse on Roblox, and backs STOP CSAM, KOSA and an ad-tech antitrust bill.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3546 Sunset Section 230 Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3546",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "He backs ending the legal shield that protects platforms from lawsuits over user content."
+},
+{
+"type": "statement",
+"title": "Courthouse News: Joseph Gordon-Levitt joins Durbin to urge rollback of Section 230",
+"url": "https://www.courthousenews.com/10-things-i-hate-about-section-230-joseph-gordon-levitt-urges-rollback-of-big-tech-protections/",
+"date": "2026-02-04",
+"quote": "rolling back liability protection for tech companies would help to force “real accountability” in the industry",
+"what_it_shows": "At his own press event Durbin argued repealing Section 230 would force accountability and acknowledged the tech lobby would fight it."
+},
+{
+"type": "letter",
+"title": "Letter: Hawley and Durbin launch Judiciary subcommittee investigation into child sexual abuse on Roblox",
+"url": "https://www.hawley.senate.gov/hawley-durbin-launch-investigation-into-child-sexual-abuse-on-roblox/",
+"date": "2026-08-13",
+"quote": null,
+"what_it_shows": "As subcommittee ranking member he co-signed a letter saying Roblox appears to prioritize revenue and engagement over children's safety and ordering it to preserve all child-safety records."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1829 STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1829",
+"date": "2025-05-21",
+"quote": null,
+"what_it_shows": "He backs letting victims sue platforms that host child sexual abuse material."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-07-31",
+"quote": null,
+"what_it_shows": "He supports a duty of care for platforms used by minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1060 AMERICA Act (breaking up online ad market control)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1060",
+"date": "2025-04-04",
+"quote": null,
+"what_it_shows": "He backs antitrust limits on giant ad-tech companies like Google."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Durbin cosponsors the States' Right to Regulate AI Act, which would block Washington from wiping out state AI laws, and voted to strip the 10-year state AI moratorium from the 2025 budget bill. No separate statement on the December 2025 executive order was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.3557 States' Right to Regulate AI Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3557",
+"date": "2025-12-17",
+"quote": null,
+"what_it_shows": "Joined the bill one week after the Trump executive order targeting state AI laws; it says states keep the power to pass their own AI rules."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the state AI moratorium from H.R. 1 (99 to 1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He voted to remove the moratorium, as did nearly every senator, so the vote alone is weak evidence."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Durbin signed a June 2026 letter questioning the approval of 35,000 Nvidia Blackwell chips for the UAE firm G42 despite warnings China could access them, which leans hawkish. He has no bill or major statement on chip export controls.",
+"evidence": [
+{
+"type": "letter",
+"title": "News report: Five Senate Democrats including Durbin demand hearings on Trump UAE deal and G42 chip approval",
+"url": "https://unchainedcrypto.com/senate-democrats-demand-hearings-on-uaes-reported-500-million-stake-in-trump-family-crypto-venture/",
+"date": "2026-06-24",
+"quote": "despite warnings from U.S. intelligence officials that China could access the technology through the firm",
+"what_it_shows": "The letter he signed treats the Blackwell chip transfer to G42 as a national security concern tied to possible Chinese access."
+},
+{
+"type": "hearing",
+"title": "IPWatchdog: Senate Judiciary hearing on Chinese IP theft",
+"url": "https://ipwatchdog.com/2026/04/22/senate-judiciary-hearing-on-chinese-ip-theft/",
+"date": "2026-04-22",
+"quote": null,
+"what_it_shows": "He took part in a hearing on Chinese theft of US AI technology and asked about a larger government role in AI development, but did not stake out a chips position."
+}
+]
+}
+},
+"signature": "Senate Judiciary ranking member behind the AI LEAD Act (letting people sue AI companies), the DEFIANCE Act on sexual deepfakes, the Sunset Section 230 Act and a data center energy and water disclosure bill; retiring in January 2027.",
+"notable_quote": {
+"text": "By opening the courtroom and allowing victims to sue, our bill will force AI companies to develop their products with safety in mind. Our message to AI companies is clear: keep innovating, but do it responsibly.",
+"url": "https://www.hawley.senate.gov/hawley-durbin-introduce-legislation-empowering-americans-to-bring-liability-claims-against-ai-companies/",
+"date": "2025-09-30"
+},
+"groups": [
+"Senate Committee on the Judiciary (Ranking Member, 119th Congress)",
+"Senate Judiciary Subcommittee on Crime and Counterterrorism (Ranking Member)"
+],
+"search_notes": "Ran about 16 news searches (AI, data centers, chatbots, deepfakes, Section 230, Nvidia/export controls, preemption, Roblox, UAE letter) plus a site listing of durbin.senate.gov (193 archived tech/energy URLs). durbin.senate.gov and hawley.senate.gov return 403 to script fetchers and the Wayback fallback refused connections for most of the session, so several official pages (data center release, chatbot hearing release, copyright hearing, Roblox letter) were read in the Browser pane; quotes from those pages are withheld (quote null) and paraphrased instead. Verified quotes came from hawley.senate.gov via Wayback, Roll Call, Courthouse News, FedScoop, IPWatchdog, DCD and Unchained. Not found: any Durbin statement on the Dec 2025 AI executive order, on Nvidia H20/H200 sales, or on the March 2026 White House framework. The context lead about a Chicago Tribune letter on data centers matched a March 16, 2026 Tribune headline but the page was not fetchable."
+},
+{
+"bioguide": "D000622",
+"name": "Tammy Duckworth",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "high",
+"summary": "Duckworth says data centers should not be allowed to raise utility or water bills, should use wastewater and bring their own power or co-locate with nuclear plants, and calls Illinois' approach thoughtful. She cosponsors the Power for the People Act to make data centers pay their own grid costs.",
+"evidence": [
+{
+"type": "interview",
+"title": "Chicago Sun-Times: Illinois Democrats weigh pros and cons of using AI (Duckworth on data centers)",
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"date": "2026-07-06",
+"quote": "Data centers have a lot of money, and they will pay to comply to whatever they need to, in order to be established. But if you don't put up the guardrails, they'll do whatever they want",
+"what_it_shows": "She said data centers should not raise utility prices or water bills, should use wastewater not drinking water, should bring their own generators or co-locate with nuclear, and that Illinois must set guardrails before the industry explodes."
+},
+{
+"type": "other",
+"title": "News report: Duckworth listed as cosponsor of Van Hollen's Power for the People Act",
+"url": "https://www.datacenterdynamics.com/en/news/senate-democrats-propose-legislation-to-curb-data-center-grid-impact/",
+"date": "2026-01-27",
+"quote": "Joining Van Hollen as cosponsors on the legislation are Democratic Senators Dick Durbin, Richard Blumenthal, Cory Booker, Tammy Duckworth, Tina Smith, and Angela Alsobrooks.",
+"what_it_shows": "She backed a bill creating data center load queues, separate rate classes and FERC rules so data centers pay for the transmission upgrades they cause."
+},
+{
+"type": "statement",
+"title": "Press release: Van Hollen leads new bill to ensure Americans aren't footing the bill for big data centers",
+"url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-leads-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers",
+"date": "2026-01-15",
+"quote": null,
+"what_it_shows": "The sponsor's release lists Duckworth as an original cosponsor and cites PJM capacity costs that could add $70 a month to household bills by 2028."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Duckworth's AI focus is children: she wrote the Children's AI Toy Safety Act, asked the FTC to investigate AI toy makers, and says people must remain the master of the technology. She also praises AI's potential in health care and defends federal AI research funding, so she is not a broad AI-risk hawk.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: S.5171 Children's Artificial Intelligence Toy Safety Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5171",
+"date": "2026-07-29",
+"quote": null,
+"what_it_shows": "Her bill orders a National Academies study of AI toy risks and an FTC and CPSC action plan; the Commerce Committee reported it on Aug. 5, 2026."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press: Senate Commerce Committee advances four bills protecting children online (Duckworth on AI toys)",
+"url": "https://www.techpolicy.press/senate-committee-advances-four-bills-aimed-at-protecting-children-online/",
+"date": "2026-08-06",
+"quote": "Duckworth said existing federal toy-safety rules primarily address physical hazards and do not adequately account for emotional, mental or social harms caused by AI systems embedded in toys.",
+"what_it_shows": "She argued current toy safety law misses the mental and emotional harms of AI chatbots built into toys."
+},
+{
+"type": "letter",
+"title": "Press release: Duckworth, Gillibrand demand Trump administration protect children from risky AI toys (letter to FTC)",
+"url": "https://www.duckworth.senate.gov/news/press-releases/duckworth-gillibrand-demand-trump-administration-protect-our-children-from-risky-age-inappropriate-ai-toys",
+"date": "2026-03-12",
+"quote": null,
+"what_it_shows": "Her letter urged the FTC to investigate Mattel and other AI toy sellers for deceptive marketing, seek injunctions and enforce children's privacy law, citing toys that told kids where to find knives or had sexual conversations."
+},
+{
+"type": "interview",
+"title": "Chicago Sun-Times: Duckworth on her own AI use and AI's limits",
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"date": "2026-07-06",
+"quote": "But again, like anything else, we must remain the master of the technology and not the other way around.",
+"what_it_shows": "She sees real potential for AI in health care but insists humans stay in control."
+},
+{
+"type": "statement",
+"title": "Press release: Duckworth stresses importance of Illinois national labs to AI leaders, condemns research cuts",
+"url": "https://www.duckworth.senate.gov/news/press-releases/duckworth-stresses-importance-of-illinois-national-labs-to-ai-leaders-condemns-trump-and-musks-cuts-to-technology-innovation-research",
+"date": "2025-05-08",
+"quote": null,
+"what_it_shows": "Speaking to Sam Altman and other AI executives, she defended Fermilab and Argonne funding and called research cuts self-sabotage, showing she supports federal AI research rather than slowing it."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Duckworth backs targeted tech rules: the Kids Online Safety Act, FTC enforcement against deceptive AI toys, and pressure on Tesla and Waymo over self-driving safety and wheelchair access. No calls for breakups or Section 230 repeal were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-10-16",
+"quote": null,
+"what_it_shows": "She supports a duty of care for platforms used by minors."
+},
+{
+"type": "hearing",
+"title": "Press release: Duckworth pushes Tesla and Waymo to ensure autonomous vehicles are safe and accessible",
+"url": "https://www.duckworth.senate.gov/news/press-releases/duckworth-pushes-tesla-and-waymo-to-ensure-autonomous-vehicles-are-safe-and-accessible-for-all-americans",
+"date": "2026-02-04",
+"quote": null,
+"what_it_shows": "At a Commerce hearing she pressed self-driving companies on safety and said they pay lip service to accessibility, a targeted-oversight approach to AI-driven vehicles."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): S.1656 My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1656",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "She backed limits on collecting and selling reproductive health data."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "high",
+"summary": "Duckworth cosponsors the GUARDRAILS Act protecting states' right to write their own AI safety laws, signed a June 2025 Commerce Committee letter saying the AI moratorium tramples states' rights, and voted to strip the moratorium from the budget bill.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: S.4216 GUARDRAILS Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4216",
+"date": "2026-03-26",
+"quote": null,
+"what_it_shows": "She joined the Senate bill blocking federal preemption of state AI safety laws days after the March 2026 White House framework."
+},
+{
+"type": "letter",
+"title": "Letter: Cantwell and Commerce Committee Democrats call for regular order on the Commerce title of the reconciliation bill",
+"url": "https://www.commerce.senate.gov/press/dem/release/cantwell-commerce-committee-democrats-call-for-regular-order-on-dangerous-and-damaging-commerce-title-of-reconciliation-bill-2025-6/",
+"date": "2025-06-11",
+"quote": null,
+"what_it_shows": "Duckworth is listed among the 12 Democratic signers of a letter to Chairman Cruz that said the AI moratorium proposal tramples states' rights and holds the $42 billion BEAD broadband program hostage."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on Senate roll call 363, Blackburn amendment striking the state AI moratorium from H.R. 1 (99 to 1)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "She voted to remove the moratorium, as did nearly every senator; her letter and bill show the vote reflected her actual view."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "medium",
+"summary": "Duckworth signed a May 2026 Foreign Relations Democrats statement that condemned the administration for greenlighting advanced AI chip sales to Chinese firms like Alibaba and Tencent and called for strict enforcement of export controls and closing loopholes. This is one joint statement, not her own bill.",
+"evidence": [
+{
+"type": "statement",
+"title": "Statement: Senate Foreign Relations Democrats on the Trump-Xi summit (Duckworth a signer)",
+"url": "https://www.foreign.senate.gov/press/dem/release/senate-foreign-relations-democrats-statement-on-trump-xi-summit",
+"date": "2026-05-15",
+"quote": null,
+"what_it_shows": "The ten senators, including Duckworth, said AI safety talks cannot be a Trojan Horse for technological surrender, called the sale of advanced AI chips to Chinese military-linked firms dangerous, and demanded strict export control enforcement."
+}
+]
+}
+},
+"signature": "Senate Commerce member who wrote the Children's AI Toy Safety Act, pushed the FTC on AI toys, opposes preemption of state AI laws, and says data centers must pay their own way and not raise Illinois utility or water bills.",
+"notable_quote": {
+"text": "Data centers have a lot of money, and they will pay to comply to whatever they need to, in order to be established. But if you don't put up the guardrails, they'll do whatever they want",
+"url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+"date": "2026-07-06"
+},
+"groups": [],
+"search_notes": "Ran about 12 news searches (AI, data centers, AI toys, chatbots, GUARDRAILS/preemption, Nvidia/export controls, Big Tech/KOSA, metro-east data center meeting) plus a site listing of duckworth.senate.gov (164 archived tech/energy URLs). duckworth.senate.gov, commerce.senate.gov, foreign.senate.gov and vanhollen.senate.gov block script fetchers and Wayback was refusing connections, so those pages were read in the Browser pane; their quotes are withheld (quote null) and paraphrased. Verified quotes came from the Sun-Times, Tech Policy Press and DCD via the fetch tool. The Feb. 6, 2026 Belleville News-Democrat story on her Madison County data center meeting (context lead quote about wanting one for the jobs) could not be opened by any tool, so it is not used. Nothing found on Section 230, antitrust, or AI existential risk. The Nov. 2025 electricity-bills release with Durbin blames Trump energy policy and does not mention data centers."
+},
+{
+"bioguide": "J000309",
+"name": "Jonathan L. Jackson",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Jackson's only data center action is cosponsoring the Energy Bills Relief Act in April 2026, which aims to make large new power users like data centers pay their own grid costs. He did not join the AI Data Center Moratorium Act or other data center bills, and no statements were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7977 Energy Bills Relief Act (joined April 22, 2026)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-04-22",
+"quote": null,
+"what_it_shows": "He signed onto the Casten-Levin bill to keep households from paying for the power that data centers need; govtrack lists him as a later cosponsor, not an original one."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Jackson cosponsors targeted AI guardrail bills: the Algorithmic Accountability Act (bias testing and FTC reporting) and the AI Civil Rights Act (no discriminatory AI), plus earlier bills on AI election deception and a child exploitation and AI commission. No speeches or statements on AI were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5511 Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-19",
+"quote": null,
+"what_it_shows": "He backs making companies test automated decision systems for bias and harm and report to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6356 Artificial Intelligence Civil Rights Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "He backs banning discriminatory AI and requiring pre- and post-deployment bias checks."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 8858 Securing Elections From AI Deception Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8858",
+"date": "2024-06-27",
+"quote": null,
+"what_it_shows": "He backed banning AI deepfakes that trick voters in federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 5077 CREATE AI Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5077",
+"date": "2023-10-12",
+"quote": null,
+"what_it_shows": "He also supports public AI research infrastructure, so he is not anti-AI."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Jackson cosponsors kids' online safety and privacy bills (Sammy's Law, and in the last Congress KOSA, COPPA 2.0 and the reproductive data privacy bill) and backed the TikTok divest-or-ban law. All cosponsorships; no statements found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2657 Sammy's Law",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"date": "2025-10-08",
+"quote": null,
+"what_it_shows": "He backs requiring big platforms to let parents use third-party safety apps on kids' accounts."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 7891 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-04-16",
+"quote": null,
+"what_it_shows": "He backed the House KOSA duty-of-care bill."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 7890 Children and Teens' Online Privacy Protection Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7890",
+"date": "2024-04-16",
+"quote": null,
+"what_it_shows": "He backed stronger kids' data privacy rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 7521 Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"date": "2024-03-11",
+"quote": null,
+"what_it_shows": "He backed forcing TikTok's Chinese owner to sell or face a ban."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found as of Sept 2026. He did not sign the Nov. 2025 Matsui letter or the Dec. 2025 Clarke letter against an AI moratorium, is not a cosponsor of the GUARDRAILS Act, and no statement on the Dec. 2025 executive order or the March 2026 White House framework was found.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Jackson cosponsors the Remote Access Security Act, which closes the cloud loophole so foreigners cannot use restricted American chips and AI remotely. That leans toward tighter controls, but it is his only action and he has said nothing publicly on Nvidia chip sales.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 2683 Remote Access Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2683",
+"date": "2025-04-08",
+"quote": null,
+"what_it_shows": "He backs extending export controls to cover remote cloud access to advanced chips and AI."
+}
+]
+}
+},
+"signature": "Congressional AI Caucus member whose AI record is all cosponsorships: algorithmic accountability, AI civil rights, kids' online safety, chip export loophole closure and the Energy Bills Relief Act; no public AI statements found.",
+"notable_quote": null,
+"groups": [
+"Congressional Bipartisan Artificial Intelligence Caucus (member)"
+],
+"search_notes": "Ran about 9 news searches (AI, data centers, chatbots/deepfakes/Big Tech/TikTok, AI Caucus, Bobby Rush AI ad) plus site listing and direct reads of jonathanjackson.house.gov (press release index pages, in-the-news page, committees-and-caucuses page). His site confirms AI Caucus membership but has no AI or data center press releases. The 'AI restores Bobby Rush's voice for Jackson ad' and 'AI dollars boosting Jackson' stories are about Jesse Jackson Jr. (IL-02 candidate), not Jonathan Jackson, and were excluded. Checked govtrack cosponsor lists: he is on H.R. 7977 (Apr 22, 2026) but not on H.R. 9442, 9340, 6529, 8488, 10321, 7858, 6984 or 8031. Extracted text of the Matsui letter PDF shows no Jonathan Jackson signature; the Clarke letter signer list also lacks him. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "K000385",
+"name": "Robin L. Kelly",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Kelly is an original cosponsor of the Energy Bills Relief Act to make data centers pay their own costs and says Illinoisans statewide are complaining about utility bills, so Congress must look at data centers being responsible neighbors. She has not joined the moratorium or siting bills, and her hearing remarks stress clean energy investment to meet AI's power needs.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor: H.R. 7977 Energy Bills Relief Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "She was an original cosponsor of the Casten-Levin bill to keep households from paying for power that data centers need."
+},
+{
+"type": "interview",
+"title": "Bloomberg Government: Data center backlash floods campaign trail as Hill action stalls",
+"url": "https://news.bgov.com/bloomberg-government-news/data-center-backlash-floods-campaign-trail-as-hill-action-stalls",
+"date": "2026-09-04",
+"quote": "A lot of people in Illinois from all over the state are complaining, so we definitely do need to look at that because people do feel like their utility bills have gone up and they need to be responsible neighbors",
+"what_it_shows": "She ties constituent anger over electric bills to data centers and wants Congress to act, in measured terms."
+},
+{
+"type": "hearing",
+"title": "Tech Policy Press transcript: House Energy and Commerce hearing on AI's role in energy (Kelly questions)",
+"url": "https://www.techpolicy.press/transcript-us-lawmakers-probe-ais-role-in-energy-and-climate/",
+"date": "2025-04-09",
+"quote": "Alongside the provisions in the IRA, it's imperative, we continue working to invest in our nation's critical supply chains",
+"what_it_shows": "At the committee's AI-and-energy hearing she argued for keeping Inflation Reduction Act clean energy incentives and supply chain investment to meet AI power demand, and touted a quantum computing campus in her district."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "high",
+"summary": "Kelly wants targeted guardrails against AI bias and harm: she cosponsors the Algorithmic Accountability Act and AI Civil Rights Act, grilled UnitedHealth's CEO over AI claim denials, and says the US must lead in AI while making sure real-world discrimination is not coded into it. She has long framed AI policy through bipartisan white papers, not sweeping mandates.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 5511 Algorithmic Accountability Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+"date": "2025-09-19",
+"quote": null,
+"what_it_shows": "She backs mandatory bias and harm testing of automated decision systems with reports to the FTC."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6356 Artificial Intelligence Civil Rights Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+"date": "2025-12-02",
+"quote": null,
+"what_it_shows": "She backs banning discriminatory AI and requiring companies to test for unfair treatment."
+},
+{
+"type": "hearing",
+"title": "Press release: Health insurance CEO can't commit to safe AI practices in congressional hearing",
+"url": "https://robinkelly.house.gov/media-center/press-releases/health-insurance-ceo-cant-commit-safe-ai-practices-congressional",
+"date": "2026-01-22",
+"quote": "As health insurance companies turn to AI technology, we must ensure that physicians and science-backed medicine guide all decisions.",
+"what_it_shows": "She pressed UnitedHealth's CEO on AI-driven claim denials and said insurers should not weaponize AI to deny care."
+},
+{
+"type": "other",
+"title": "Capitol News Illinois: US Senate candidates respond to questionnaire (Kelly on AI regulation)",
+"url": "https://capitolnewsillinois.com/news/candidates-for-u-s-senate-in-illinois-respond-to-questionnaire/",
+"date": "2026-02-17",
+"quote": "We need to ensure the US stays the leader in AI, while protecting civil liberties and ensuring that real world discrimination is not coded into AI.",
+"what_it_shows": "Asked whether government should regulate AI, she pointed to her five bipartisan AI white papers, worker preparation, civil liberties and US leadership."
+},
+{
+"type": "op_ed",
+"title": "Editorial: US leadership in AI is not guaranteed, but it's possible (Kelly and Hurd)",
+"url": "https://robinkelly.house.gov/media-center/editorials/us-leadership-ai-not-guaranteed-its-possible-heres-how",
+"date": "2020-09-22",
+"quote": "We should use existing regulations as a starting point for the regulation of AI.",
+"what_it_shows": "Her long-standing approach: national AI strategy, more R&D, and applying existing anti-discrimination law to AI rather than new sweeping rules."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 1694 AI Accountability Act (study of trustworthy AI)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1694",
+"date": "2025-02-27",
+"quote": null,
+"what_it_shows": "A minor study bill on AI accountability she joined early in the Congress."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Kelly co-chairs the Tech Accountability Caucus and backs targeted rules: she led a 2026 letter pressing tech and telecom companies on how they handle warrantless DHS subpoenas, and cosponsors bills against Chinese-linked routers and connected cars and against AI election deception. No support for breakups or Section 230 repeal was found.",
+"evidence": [
+{
+"type": "letter",
+"title": "Press release: Reps. Kelly, Jayapal lead 26 members in letter to major tech and telecom companies on DHS administrative subpoenas",
+"url": "https://robinkelly.house.gov/media-center/press-releases/reps-kelly-jayapal-leads-26-members-congress-letter-major-tech-telecom",
+"date": "2026-03-03",
+"quote": "Administrative subpoenas from Homeland Security are issued without a judge, used to suppress free speech",
+"what_it_shows": "She pressed tech and telecom firms to explain how they comply with or challenge government data demands, an ACLU-endorsed privacy oversight effort."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "She backs banning connected-car tech from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4894 Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+"date": "2025-08-05",
+"quote": null,
+"what_it_shows": "She backs outlawing false voting information, including AI-made content, before federal elections."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 866 ROUTERS Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/866",
+"date": "2025-01-31",
+"quote": null,
+"what_it_shows": "She backs a security study of routers made by China- or Russia-linked companies."
+}
+]
+},
+"preemption": {
+"score": -2,
+"confidence": "medium",
+"summary": "Kelly signed the Nov. 26, 2025 letter from 81 House Democrats telling congressional leaders not to revive the state AI-law moratorium in the defense bill and not to use an executive order or broadband money to override state AI laws. She has not cosponsored the GUARDRAILS Act.",
+"evidence": [
+{
+"type": "letter",
+"title": "Matsui-led letter of 81 House Democrats opposing an AI moratorium in the NDAA and the planned preemption executive order (Kelly a signer)",
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"date": "2025-11-26",
+"quote": null,
+"what_it_shows": "The letter text lists Robin L. Kelly among signers urging leaders to oppose any effort to reinsert an AI moratorium barring states from enforcing their laws and objecting to conditioning BEAD funds on state preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Kelly leans hawkish on Chinese technology, cosponsoring bans on Chinese-linked connected cars and a study of Chinese routers, and her 2020 AI op-ed called the Chinese Communist Party the biggest threat to US AI leadership. No position on Nvidia chip sales or export controls was found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-09-02",
+"quote": null,
+"what_it_shows": "She backs blocking Chinese-linked connected-vehicle technology from the US market on security grounds."
+},
+{
+"type": "op_ed",
+"title": "Editorial: US leadership in AI is not guaranteed, but it's possible (Kelly and Hurd)",
+"url": "https://robinkelly.house.gov/media-center/editorials/us-leadership-ai-not-guaranteed-its-possible-heres-how",
+"date": "2020-09-22",
+"quote": null,
+"what_it_shows": "She wrote that the Chinese Communist Party is the biggest threat to America's AI leadership and urged more US AI research spending to compete."
+}
+]
+}
+},
+"signature": "Energy and Commerce Democrat and Tech Accountability Caucus co-chair who co-authored bipartisan AI white papers, backs algorithmic-bias and AI civil rights bills, signed the anti-preemption letter and co-sponsored the Energy Bills Relief Act; lost the March 2026 Senate primary.",
+"notable_quote": {
+"text": "We need to ensure the US stays the leader in AI, while protecting civil liberties and ensuring that real world discrimination is not coded into AI.",
+"url": "https://capitolnewsillinois.com/news/candidates-for-u-s-senate-in-illinois-respond-to-questionnaire/",
+"date": "2026-02-17"
+},
+"groups": [
+"Tech Accountability Caucus (Co-Chair)",
+"Digital Health Caucus (Co-Chair)"
+],
+"search_notes": "Ran about 10 news searches (AI, data centers, chatbots/deepfakes/Big Tech, preemption, chips/China/TikTok, AI Caucus, Senate debate AI, AI super PACs in the Illinois primary) plus a site listing of robinkelly.house.gov (51 tech URLs) and direct reads of her press releases, editorial, caucus page and the Capitol News Illinois questionnaire. Important: the context file's leads about SASC hearings, the Ultimate Human Responsibility in Defense Systems Act, the Senior Chatbot Protection Act, the Blunt Rochester letter and the Senate AI Caucus belong to Sen. Mark Kelly of Arizona, not Robin Kelly, and were excluded. Her own caucus page does not list the Congressional AI Caucus, so that context lead was not used. Govtrack checks: original cosponsor of H.R. 7977; not on H.R. 9442, 9340, 6529, 8488, 10321, 7858, 6984 or 8031. Matsui letter signature confirmed from the PDF text; her name is not on the Clarke letter. AI and crypto super PACs spent heavily in the March 2026 Illinois primaries, but no source tying Leading the Future or its affiliates to support or attacks on Kelly was found, so no PAC evidence is listed."
+}
+]

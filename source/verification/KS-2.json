@@ -1,0 +1,118 @@
+[
+{
+"bioguide": "S001228",
+"checks": [
+{
+"url": "https://www.cjonline.com/story/news/politics/government/2026/06/10/what-3-things-kansas-towns-should-ask-data-centers-developers-schmidt/90419962007/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Direct fetch returns 403 on two attempts; Wayback lookup failed (connection refused, then 429 rate limit). No archived copy verified. Headline in the URL slug matches the item, but substance/direction of his advice remains unverified, consistent with the item's own caveat."
+},
+{
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Page (published 2026-07-16) lists under 'Kansas U.S. Representative District 2': 'Derek Schmidt (Republican) — No response by time of publication.' Note the page also lists a Patrick Schmidt (Democrat) and Vicki Schmidt (Republican, gubernatorial ticket); the item correctly refers to Derek Schmidt."
+},
+{
+"url": "https://schmidt.house.gov/media/press-releases/rep-derek-schmidt-backs-legislation-fight-child-exploitation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-25",
+"note": "Quote appears verbatim, followed by 'We need to redouble our efforts for the law to keep pace.' Release explicitly mentions cosponsoring the ENFORCE Act to cover CSAM created with AI tools, so the AI framing in the claim is supported."
+},
+{
+"url": "https://schmidt.house.gov/media/press-releases/rep-derek-schmidt-backs-legislation-fight-child-exploitation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-25",
+"note": "Verbatim: STOP CSAM Act (H.R. 3921) 'strengthens federal laws requiring online platforms to assist in combating child sexual abuse materials on their platforms.' Subhead reads 'Builds on work he undertook as Kansas attorney general,' supporting the carry-over framing. He is a cosponsor, not sponsor."
+},
+{
+"url": "https://schmidt.house.gov/media/press-releases/rep-derek-schmidt-led-bill-strengthen-small-business-competition-passes-house",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-23",
+"note": "Quote verbatim; bill (Main Street Competes Act, with Rep. Scholten) requires annual federal reports on how antitrust laws serve small business, so the 'modest reporting measure' characterization is accurate. However the page does not mention the Judiciary antitrust subcommittee or tech firms; those parts of the claim are the item's inference, not in the source."
+},
+{
+"url": "https://schmidt.house.gov/media/press-releases/rep-derek-schmidt-introduces-bill-coordinate-federal-response-scams",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-05",
+"note": "Quote verbatim ('ripoff' spelled as one word on the page). He 'joined in leading a bipartisan group' introducing the National Strategy for Combating Scams Act (H.R. 6425), an FBI-led interagency working group; no tech-company mandates described. Claim supported."
+},
+{
+"url": "https://schmidt.house.gov/media/press-releases/rep-derek-schmidt-backs-legislation-fight-child-exploitation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-25",
+"note": "Headline quote appears verbatim, attributed to Schmidt."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "D000629",
+"checks": [
+{
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Page loaded directly (published 2026-07-16). Davids' written response appears verbatim, prefaced by 'Data center decisions are primarily made at the state and local level, but the standard should be clear:' which matches the claim's state/local note."
+},
+{
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Second sentence of Davids' response appears verbatim on the page. Claim that it balances guardrails with support for growth is a fair reading."
+},
+{
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-19",
+"note": "Fetch tool returned zero chars for the PDF; downloaded and extracted text directly. Letter dated March 19, 2026, to House Appropriations leaders; quote appears verbatim; 'Sharice L. Davids' is the second of 14 signers. Requested report language covers grid reliability, consumer electricity costs, water efficiency, geographic diversification, and an 18-month deadline, as claimed."
+},
+{
+"url": "https://davids.house.gov/media/press-releases/rep-davids-named-new-democrat-coalition-healthcare-and-tech-task-forces-will-co",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2019-03-04",
+"note": "Press release dated 2019-03-04 confirms she was named co-chair of the New Dem Tech Task Force; quote appears verbatim. Claim correctly notes this is a role, not a regulatory position. Note the item is 7 years old."
+},
+{
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-16",
+"note": "Headline quote appears verbatim in Davids' KSHB voter guide response."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "E000298",
+"checks": [
+{
+"url": "https://estes.house.gov/news/documentsingle.aspx?DocumentID=7481",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-05",
+"note": "Page is Estes's own press release on H.Res. 1340 (Digital Services Tax resolution), co-led by Rep. Suzan DelBene, published 2026-06-05. Quote appears verbatim as a direct Estes statement. The claim's framing (pro-U.S.-tech on international tax, not a domestic regulation position) is accurate; the release is about foreign DSTs and trade/tax tools, not domestic tech regulation."
+},
+{
+"url": "https://estes.house.gov/news/documentsingle.aspx?DocumentID=7481",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-05",
+"note": "Headline quote appears verbatim in the release, attributed to Rep. Estes."
+}
+],
+"score_objections": []
+}
+]

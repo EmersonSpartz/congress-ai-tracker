@@ -1,0 +1,214 @@
+[
+{
+"bioguide": "E000296",
+"checks": [
+{
+"url": "https://evans.house.gov/media/press-releases/evans-dean-press-answers-transparency-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-28",
+"note": "Quote appears verbatim in the Evans/Dean letter text embedded in the press release. Release states they asked FERC about oversight of data-center power demand, grid reliability, costs passed to home consumers, environmental impact (air quality, water), with responses requested no later than June 30, 2026. Page published 2026-05-28."
+},
+{
+"url": "https://www.thecentersquare.com/pennsylvania/article_a10f7a51-4ad3-4321-9549-fb474b81d9e7.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-02",
+"note": "Center Square article (published 2026-06-02) names both Dean and Evans and reproduces the quote verbatim, attributed to their letter, covering environmental impact, air quality, water consumption and community input."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-25",
+"note": "Fetch tool returned empty text for the PDF; downloaded it directly and extracted with pypdf. Quote is verbatim (opening sentence). Letter dated November 26, 2025, addressed to Johnson, Thune, Jeffries, Schumer; 'Dwight Evans, Member of Congress' appears in the signature block. Letter repeatedly says states should not be blocked 'when there are no meaningful federal protections in place', matching the claim. Note: correct date is 2025-11-26 (the letter's own date); item currently lacks a date."
+},
+{
+"url": "https://evans.house.gov/media/press-releases/evans-dean-press-answers-transparency-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-28",
+"note": "Headline quote appears verbatim in the letter text quoted in the press release, immediately preceding the item 1 quote."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the four sources concerns regulation of Big Tech platforms as such. The FERC letter is about grid/ratepayer oversight of data centers and the Matsui letter is about preserving state AI laws (already captured by preemption -2 and ai_risk -1). Evidence for a distinct tech_regulation position is too thin from these items; either add a source on platform/antitrust/kids-online-safety votes or leave it unscored.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "D000631",
+"checks": [
+{
+"url": "https://evans.house.gov/media/press-releases/evans-dean-press-answers-transparency-data-centers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-28",
+"note": "Quote appears verbatim in the letter text. Page says Evans and Dean wrote FERC seeking information on oversight of data-center power demand, grid reliability and costs passed to home consumers."
+},
+{
+"url": "https://dean.house.gov/2025/12/dean-warren-democrats-urge-commerce-department-watchdog-to-investigate-lutnick-family-s-conflicts-of-interest-impact-on-ai-data-center-decisions",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Quote verbatim, attributed to 'the lawmakers'. Dean-led (with Warren) request to Commerce IG; page frames data centers as pushing energy costs to record highs for households."
+},
+{
+"url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=8675",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-28",
+"note": "Quote verbatim. 'Madeline Dean (PA-04)' listed among 20 co-signers of the Mullin letter; letter asks about protecting consumers from cost pass-through and whether load forecasts are realistic. Note the page misspells her first name."
+},
+{
+"url": "https://whyy.org/articles/pennsylvania-federal-energy-bills-relief-act/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-05-29",
+"note": "Quote verbatim, attributed to Dean as 'another co-sponsor'. Article does not say 'original cosponsor'. Data-center/ratepayer-protection framing comes from WHYY and Rep. Scanlon, not from Dean's own words; Dean's quote is about clean-energy credit rollbacks and rising costs generally."
+},
+{
+"url": "https://salazar.house.gov/media/press-releases/salazar-dean-blackburn-coons-bipartisan-colleagues-reintroduce-no-fakes-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-21",
+"note": "Quote verbatim, attributed to Rep. Dean. She is named in the headline as a lead; her statement calls for a federal right to control digital replicas of voice and likeness."
+},
+{
+"url": "https://dean.house.gov/2026/1/ean-moran-introduce-bipartisan-bill-to-protect-creators-from-unauthorized-ai-training",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-22",
+"note": "Quote verbatim from Dean's statement. She says there is no path for creators to know if their work was used without permission to train AI models; TRAIN Act grants access to records."
+},
+{
+"url": "https://dean.house.gov/2026/1/dean-klobuchar-and-salazar-demand-doj-investigation-into-grok-s-sexually-explicit-ai-generated-images",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-21",
+"note": "Quote verbatim, attributed to 'the lawmakers'. Page states Grok generated about 6,700 sexually explicit or suggestive images per hour; letter demands DOJ investigation."
+},
+{
+"url": "https://dean.house.gov/2025/1/congresswoman-dean-reintroduces-the-legislation-to-protect-victims-of-explicit-ai-deepfakes",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-01-23",
+"note": "Quote verbatim, in Dean's own statement on reintroducing the TAKE IT DOWN Act."
+},
+{
+"url": "https://salazar.house.gov/media/press-releases/salazar-klobuchar-cruz-dean-request-information-implementation-take-it-down",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-19",
+"note": "Quote verbatim from the letter to the FTC. Dean is named as one of four signers; release says they urge the FTC to hold tech companies accountable if they fail to remove NCII as required."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF text extracted directly (fetch tool returned 0 chars). Quote verbatim; letter is addressed to Johnson, Jeffries, Thune, Schumer and also opposes a preemption executive order. 'Madeleine Dean, Member of Congress' appears in the signature block."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Quote verbatim. 'Madeline Dean' (misspelled) listed among 44 signers; letter urges preventing any AI moratorium or preemption in the FY26 NDAA."
+},
+{
+"url": "https://salazar.house.gov/media/press-releases/salazar-dean-blackburn-coons-bipartisan-colleagues-reintroduce-no-fakes-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-21",
+"note": "Same page as item 5; quote verbatim and attributed to Rep. Dean."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "S001205",
+"checks": [
+{
+"url": "https://whyy.org/articles/pennsylvania-federal-energy-bills-relief-act/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-29",
+"note": "WHYY article (published 2026-05-29) attributes the quote verbatim to U.S. Rep. Mary Gay Scanlon, D-Delaware County, co-sponsor of the Energy Bills Relief Act; ties higher utility bills to data centers and corporate demand, ratepayers first."
+},
+{
+"url": "https://9to5mac.com/2026/06/30/law-proposed-to-ban-ai-companies-from-selling-your-health-data/",
+"verdict": "confirmed",
+"corrected_quote": "In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new version of the Health and Location Data Protection Act […] expanded to ban other companies from selling such data to brokers, and to specifically cover data entered into AI systems.",
+"corrected_date": "2026-06-30",
+"note": "9to5Mac, relaying The Verge, names Scanlon as co-lead on an expanded Health and Location Data Protection Act covering data entered into AI systems. Quote is verbatim minus the leading 'In the coming weeks,'. Secondhand report of a planned bill, not an introduced one."
+},
+{
+"url": "https://whyy.org/articles/pennsylvania-federal-energy-bills-relief-act/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-29",
+"note": "Same WHYY page; headline quote appears verbatim and is attributed to Scanlon."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The only source is a single targeted privacy bill (ban on selling health/location data to brokers, extended to AI inputs). That is a targeted rule, not a broad 'rein in Big Tech' agenda; -2 overstates the evidence.",
+"suggested_score": -1,
+"suggested_label": "Targeted rules"
+},
+{
+"dimension": "ai_risk",
+"objection": "None of the checked sources address AI safety or risk regulation; the health-data bill is a privacy measure. Evidence is too thin to assign an ai_risk position.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "H001085",
+"checks": [
+{
+"url": "https://whyy.org/articles/rep-houlahan-state-of-the-sixth-address/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-10",
+"note": "Quote appears verbatim. Article says she doesn't know enough about data centers and needs to learn more, then quotes her saying they must be 'paying their share' so individuals don't bear the cost. Claim matches."
+},
+{
+"url": "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=5056",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-09",
+"note": "Quote verbatim. Page (reposted Pottstown Mercury piece) states Houlahan said 101 data centers operate in PA, raised electricity costs by $9.3B, and are responsible for 63 percent of the price hike. Claim matches."
+},
+{
+"url": "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=5009",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "Quote verbatim (including the 'politization' spelling). Press release frames the letter as pro public-private AI/cyber partnership with the Pentagon while criticizing weakened ability to hold AI companies accountable on trust and safety. Claim of a mixed, guardrail-friendly stance is fair."
+},
+{
+"url": "https://whyy.org/articles/rep-houlahan-state-of-the-sixth-address/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-10",
+"note": "Headline quote appears verbatim in the WHYY article, attributed to Houlahan on AI data centers."
+}
+],
+"score_objections": [
+{
+"dimension": "china_chips",
+"objection": "None of the listed sources mention chips, export controls, or China; the -1 'Leans hawkish' score has no supporting evidence in this item set.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

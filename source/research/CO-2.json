@@ -1,0 +1,531 @@
+[
+{
+"bioguide": "H001100",
+"name": "Jeff Hurd",
+"signature": "Science Committee Republican who co-led a voluntary AI flaw-reporting bill and says AI rules belong in Washington, not in a state-by-state patchwork.",
+"groups": [
+"House Science, Space, and Technology Committee (member; Energy and Environment subcommittees)"
+],
+"notable_quote": {
+"text": "I'm concerned that if we have various states implementing AI rules on a piecemeal basis, we are going to impair the economy",
+"date": "2025-08-12",
+"url": "https://tsscolorado.com/colorado-congressional-delegation-finds-some-bipartisan-agreement-on-ai-tax-credit-extensions"
+},
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Hurd has not spoken publicly about data centers as of Sept 2026. He cosponsors the Ratepayer Protection Act, which aims to keep data center power costs off household bills, while also voting for permitting reform and pushing for more power supply from geothermal and coal plants kept open.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9340 Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-09-10",
+"quote": null,
+"what_it_shows": "He joined the bipartisan bill that makes large new power users like data centers pay for the grid upgrades they need instead of regular customers."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on House passage of H.R. 4776 SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He backed a bill to speed environmental reviews for energy and infrastructure projects, a build-faster signal on the supply side."
+},
+{
+"type": "statement",
+"title": "Roll Call: Hurd sponsors geothermal permitting package that passed the House",
+"url": "https://rollcall.com/2026/06/03/congress-finds-a-unifying-issue-geothermal-energy/",
+"date": "2026-06-03",
+"quote": "The future will require more electricity, more reliability, more domestic energy production. Geothermal can help meet that challenge.",
+"what_it_shows": "He frames rising electricity demand as something to meet with more generation rather than limits, without naming data centers."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "Hurd favors a light federal approach: he co-led a bill for a voluntary NIST system to report AI flaws, called Colorado's AI law intrusive, and wants Congress rather than states to write rules. He also cosponsored the TAKE IT DOWN Act on AI sexual deepfakes.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor (Republican co-lead): H.R. 9333 AI Flaw Reporting and Security Enhancement Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9333",
+"date": "2026-06-18",
+"quote": null,
+"what_it_shows": "He is the lone Republican cosponsor of a bill that creates a voluntary, not mandatory, program at NIST for reporting AI safety flaws; the Science Committee reported it 29-0."
+},
+{
+"type": "hearing",
+"title": "House Science Committee markup reports H.R. 9333 by 29-0",
+"url": "https://science.house.gov/2026/6/full-committee-markup-of-h-r-9341-9363-2385-5351-5584-6461-8893-9333-9334-and-9372",
+"date": "2026-06-25",
+"quote": "directs NIST, in consultation with CISA, to establish a voluntary program for reporting, collecting, and tracking AI vulnerabilities, failures, and other flaws",
+"what_it_shows": "The bill he co-led relies on voluntary reporting rather than binding safety rules."
+},
+{
+"type": "statement",
+"title": "Sum and Substance: Hurd tells Colorado Chamber luncheon that Colorado's AI law is intrusive and Congress should act",
+"url": "https://tsscolorado.com/colorado-congressional-delegation-finds-some-bipartisan-agreement-on-ai-tax-credit-extensions",
+"date": "2025-08-12",
+"quote": "Please push us. Hold us accountable to get something done at the federal level.",
+"what_it_shows": "He wants federal AI legislation but criticized the disclosure and appeal mandates in Colorado's law, and he cited national security risks of AI as a reason it is a federal issue."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-10",
+"quote": null,
+"what_it_shows": "He backed the now-law crackdown on AI-generated sexual images, a targeted guardrail."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7226 Leveraging Artificial Intelligence to Streamline the Code of Federal Regulations Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7226",
+"date": "2026-01-30",
+"quote": null,
+"what_it_shows": "He wants the government to use AI to find outdated rules, a pro-AI, deregulatory use case."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His only tech-regulation record is cosponsoring the TAKE IT DOWN Act against nonconsensual and AI-faked sexual images. No statements found on Big Tech, Section 230, antitrust, or kids online safety.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-10",
+"quote": null,
+"what_it_shows": "A targeted rule forcing platforms to remove intimate images fast, the one tech-regulation bill he has joined."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Hurd says he would rather Colorado let Congress take the lead on AI rules and warns that piecemeal state laws will hurt the economy. He voted for the House version of H.R. 1 that carried the 10-year moratorium, though he has not explicitly endorsed a moratorium.",
+"evidence": [
+{
+"type": "statement",
+"title": "Sum and Substance: Hurd and Pettersen agree AI should be regulated federally, not by states",
+"url": "https://tsscolorado.com/colorado-congressional-delegation-finds-some-bipartisan-agreement-on-ai-tax-credit-extensions",
+"date": "2025-08-12",
+"quote": "I'm concerned that if we have various states implementing AI rules on a piecemeal basis, we are going to impair the economy",
+"what_it_shows": "In his own words he prefers one federal approach over state-by-state AI rules and vowed to try to pass something in Congress."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on House passage of H.R. 1 (May 22, 2025), which included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the reconciliation bill while it still contained the state AI-law moratorium; this was a huge package, so it is a weak signal on its own."
+},
+{
+"type": "other",
+"title": "Colorado Sun CD3 issue guide: Hurd declined to answer whether Congress should pass an AI law",
+"url": "https://coloradosun.com/2026/06/04/jeff-hurd-ron-hanks-colorado-primary-election-cd3-issue-guide",
+"date": "2026-06-04",
+"quote": "Hurd declined to participate in the Sun's issue guide.",
+"what_it_shows": "He skipped a direct chance to spell out what federal AI regulation he supports."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searched for statements on export controls, Nvidia chip sales to China, the Chip Security Act and related bills, and found nothing from Hurd as of Sept 2026.",
+"evidence": []
+}
+},
+"search_notes": "About 14 Google News queries plus fetches of hurd.house.gov press pages, the Colorado Sun CD3 issue guide, Colorado Newsline energy roundtable, Roll Call, Sum and Substance, Science Committee markup pages, govtrack. Hurd's own site has no AI or data center releases. The Google News URL decoder was rate-limited (HTTP 429) and Colorado Newsline, CPR and the Pueblo Chieftain returned 403 with Wayback down, so his Oct 2025 letter asking DOE to keep the Comanche coal plants open, his Feb 2026 tele-town hall and a WIRED piece on the AI flaw bill could not be read. No AI super PAC spending or endorsements listed for him on aimoneywatch.org."
+},
+{
+"bioguide": "B000825",
+"name": "Lauren Boebert",
+"signature": "Fourth Amendment hawk pushing warrant rules for facial recognition and license-plate cameras; says data center decisions belong to local governments.",
+"groups": [
+"House Oversight Subcommittee on Economic Growth, Energy Policy, and Regulatory Affairs (member)"
+],
+"notable_quote": {
+"text": "I want people to have local control. That's what I fought for. That's what we got.",
+"date": "2026-09-01",
+"url": "https://www.yahoo.com/news/politics/articles/rep-lauren-boebert-won-t-123549824.html"
+},
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "medium",
+"summary": "Boebert cosponsors the Ratepayer Protection Act and says her fight has been for local governments to decide whether data centers get built. She declined to back President Trump's claim that data center opponents are backwards and poor, while also voting for federal permitting reform.",
+"evidence": [
+{
+"type": "interview",
+"title": "Yahoo/MeidasTouch: Boebert won't back Trump's claim that data center opponents are backwards and poor",
+"url": "https://www.yahoo.com/news/politics/articles/rep-lauren-boebert-won-t-123549824.html",
+"date": "2026-09-01",
+"quote": "The president says a lot of things. Sometimes, it's really funny. Anyway, I fought for data centers to have local control.",
+"what_it_shows": "She distanced herself from Trump's attack on data center opponents and framed her position as local control over siting, not build-at-all-costs."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9340 Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-08-27",
+"quote": null,
+"what_it_shows": "She joined the bipartisan bill to keep data center grid costs off regular customers' electric bills."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on House passage of H.R. 4776 SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "She supported faster federal permitting for energy and infrastructure projects."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Her AI-related record is about government use: she introduced the Surveillance Accountability Act to require warrants and ban warrantless facial recognition scanning by police, and wrote an op-ed against always-on license plate camera networks. She also cosponsored the TAKE IT DOWN Act on AI sexual deepfakes. Nothing found on frontier AI safety or the AI industry.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Reps. Massie and Boebert introduce the Surveillance Accountability Act",
+"url": "https://boebert.house.gov/media/press-releases/representatives-massie-boebert-introduce-surveillance-accountability-act",
+"date": "2026-04-23",
+"quote": "Prohibit warrantless facial recognition scanning by federal and local law enforcement agencies in public spaces, including at schools and places of worship.",
+"what_it_shows": "Her own bill would put binding warrant limits on government use of AI-driven surveillance tools like facial recognition and license plate readers."
+},
+{
+"type": "op_ed",
+"title": "Press release on Daily Caller op-ed: Surveillance on every corner is not freedom",
+"url": "https://boebert.house.gov/media/press-releases/rep-boebert-surveillance-every-corner-not-freedom",
+"date": "2026-09-01",
+"quote": "restrict federal grant funding that can be used to buy these camera networks, require warrants, limit data retention, ban the commercial sale of the information",
+"what_it_shows": "She lists concrete restrictions she wants on automated license plate reader networks such as Flock cameras."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 633 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/633",
+"date": "2025-03-04",
+"quote": null,
+"what_it_shows": "She backed the now-law crackdown on AI-generated sexual images."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Boebert targets Big Tech mainly over censorship and Chinese-linked hardware. She cosponsored the Stop the Censorship Act to strip Section 230 protection for removing lawful posts, introduced the ELON Act to audit government collusion with Big Tech censorship, and backs bans on Chinese-linked connected cars and DJI drones.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 908 Stop the Censorship Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/908",
+"date": "2025-02-04",
+"quote": null,
+"what_it_shows": "She wants social media companies to lose their legal shield when they take down posts they simply find objectionable."
+},
+{
+"type": "statement",
+"title": "Press release: Boebert introduces the ELON Act to audit government collusion with Big Tech censorship",
+"url": "https://boebert.house.gov/media/press-releases/rep-lauren-boebert-introduces-elon-act-audit-government-collusion-big-tech",
+"date": "2023-02-09",
+"quote": "The ELON Act also places a one-year moratorium on any payments going from the FBI to big tech companies.",
+"what_it_shows": "Her own bill in the last Congress aimed at the government-platform relationship over content moderation."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-05-13",
+"quote": null,
+"what_it_shows": "She supports banning connected cars and car software from companies tied to China and other adversaries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 2864 Countering CCP Drones Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2864",
+"date": "2024-04-09",
+"quote": null,
+"what_it_shows": "She backed blocking new DJI drones from U.S. airwaves over spying concerns."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on whether Washington should override state AI laws. She voted for the House version of H.R. 1 that carried the 10-year moratorium, but that was a giant package and she has not spoken on the issue; her local-control comments concern data center siting, not AI rules.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on House passage of H.R. 1 (May 22, 2025), which included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "Context only: the vote covered the whole reconciliation bill, so it does not show a considered view on preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Nothing found on chip export controls or Nvidia sales to China. She leans hawkish on Chinese technology more broadly, cosponsoring bans on Chinese-linked connected cars and DJI drones.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-05-13",
+"quote": null,
+"what_it_shows": "A China-tech restriction on cars and software, adjacent to but not the same as chip export controls."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 2864 Countering CCP Drones Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/2864",
+"date": "2024-04-09",
+"quote": null,
+"what_it_shows": "Another sign she favors restricting Chinese technology on security grounds."
+}
+]
+}
+},
+"search_notes": "About 12 Google News queries plus boebert.house.gov press release index pages (live and Wayback), the Yahoo/MeidasTouch data center exchange, the Surveillance Accountability Act release, the Daily Caller op-ed release, the ELON Act release, Sum and Substance, govtrack. Her own site has no releases on AI industry rules, data centers or chips; the Sum and Substance account of the Aug 2025 Chamber luncheon has her praising the end of wind and solar subsidies but nothing on AI. Could not read a CBS Colorado July 2026 piece on her warrant push or a Colorado Springs Gazette Aug 2026 Water Congress story (URLs not resolvable). No AI super PAC spending or endorsements listed for her on aimoneywatch.org."
+},
+{
+"bioguide": "C001137",
+"name": "Jeff Crank",
+"signature": "Armed Services member focused on grid reliability and keeping coal online; cosponsors the Ratepayer Protection Act but has almost no public AI record.",
+"groups": [
+"House Armed Services Subcommittee on Cyber, Information Technologies, and Innovation (member)"
+],
+"notable_quote": {
+"text": "Coal is a reliable, baseload domestic energy resource to help power our grid here in Colorado.",
+"date": "2026-09-04",
+"url": "https://gabeevans.house.gov/media/press-releases/reps-crank-and-evans-join-secretary-wright-tour-ray-d-nixon-power-plant"
+},
+"positions": {
+"data_centers": {
+"score": 0,
+"confidence": "low",
+"summary": "Crank has not spoken directly about data centers as of Sept 2026. He cosponsors the Ratepayer Protection Act to keep data center grid costs off household bills, and separately argues for keeping coal plants online and holding electricity costs down as demand grows.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 9340 Ratepayer Protection Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+"date": "2026-08-31",
+"quote": null,
+"what_it_shows": "He joined the bipartisan bill that makes large new power users like data centers pay for the grid upgrades they need."
+},
+{
+"type": "statement",
+"title": "Press release: Reps. Crank and Evans join Energy Secretary Wright for tour of the Ray D. Nixon coal plant",
+"url": "https://gabeevans.house.gov/media/press-releases/reps-crank-and-evans-join-secretary-wright-tour-ray-d-nixon-power-plant",
+"date": "2026-09-04",
+"quote": "Coal is a reliable, baseload domestic energy resource to help power our grid here in Colorado. Colorado's burdensome energy mandates continue to cost our region, not only with higher utility bills but they also threaten our national security assets.",
+"what_it_shows": "He wants baseload coal kept running to meet growing demand and lower bills, a supply-side answer to the load growth driven by data centers."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Crank votes to lower electricity costs (H.R. 1047 Grid Power Act)",
+"url": "https://crank.house.gov/media/press-releases/rep-crank-votes-lower-electricity-costs",
+"date": "2025-09-18",
+"quote": "House Republicans are working to ensure that energy costs remain low, while also ensuring the stability of the bulk power system can fuel the next generation.",
+"what_it_shows": "He frames grid reliability and low electricity costs as his priority."
+},
+{
+"type": "vote",
+"title": "Vote: Yea on House passage of H.R. 4776 SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He supported faster federal permitting for energy and infrastructure projects."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on AI safety rules as of Sept 2026. His only AI-adjacent bill is the Renewed Hope Act, which lets investigators use face-matching technology to identify abused children. Searched his press releases, debate coverage and Armed Services role and found no statements on AI risk.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6998 Renewed Hope Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6998",
+"date": "2026-04-15",
+"quote": null,
+"what_it_shows": "Supports a specific law-enforcement use of facial recognition, which says nothing about limits on AI."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Looked for statements or bills on Big Tech, Section 230, kids online safety, privacy or antitrust and found none as of Sept 2026.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on whether Washington should override state AI laws. He voted for the House version of H.R. 1 that carried the 10-year moratorium, but that was a giant package and he has not spoken on the issue.",
+"evidence": [
+{
+"type": "vote",
+"title": "Vote: Yea on House passage of H.R. 1 (May 22, 2025), which included the 10-year moratorium on state AI laws",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "Context only: the vote covered the whole reconciliation bill, so it does not show a considered view on preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China as of Sept 2026, despite his seat on the Armed Services cyber and technology subcommittee.",
+"evidence": []
+}
+},
+"search_notes": "About 10 Google News queries plus crank.house.gov press release index pages (live and Wayback), the Grid Power Act release, the Ray Nixon tour release on Evans' site, Sum and Substance, govtrack. His site's press releases cover energy, NDAA and district items but nothing on AI, chips or Big Tech. Coverage of his Aug 2026 debate with Jessica Killin (CPR, Colorado Newsline, Colorado Politics) could not be read because those sites returned 403 and Wayback was down; headlines suggest troops, taxes and war dominated. His campaign site was offline. No AI super PAC spending or endorsements listed for him on aimoneywatch.org."
+},
+{
+"bioguide": "C001121",
+"name": "Jason Crow",
+"signature": "Intelligence and Armed Services Democrat who wants a human in the kill chain for military AI and tighter export-control enforcement to keep chips from China.",
+"groups": [
+"House Armed Services Subcommittee on Cyber, Information Technologies, and Innovation (member)",
+"House Permanent Select Committee on Intelligence (member)"
+],
+"notable_quote": {
+"text": "I'm somebody that believes that there always must be a human involved in the kill chain, and that we should not be making decisions to take lives based on an AI algorithm.",
+"date": "2026-06-12",
+"url": "https://crow.house.gov/media/press-releases/crow-discusses-national-security-bipartisanship-with-center-for-a-new-american-security"
+},
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No direct position on data centers found as of Sept 2026. He co-signed an Oct 2025 letter noting that AI and data centers are driving up power demand and urging investment in affordable energy, and he voted against the SPEED Act permitting bill, but neither states a view on data center growth or limits.",
+"evidence": [
+{
+"type": "letter",
+"title": "FedScoop: Colorado Democrats' letter to Energy Secretary Wright on canceled energy projects cites AI data center demand",
+"url": "https://fedscoop.com/ai-data-centers-canceled-energy-projects-colorado-democrats/",
+"date": "2025-10-14",
+"quote": "In an era where artificial intelligence and data centers are driving a rise in energy demand, we must meet these challenges by investing in responsible and affordable energy solutions, rather than destabilizing them.",
+"what_it_shows": "He treats data center demand as a reason to keep investing in affordable power, not as a reason to slow data centers."
+},
+{
+"type": "vote",
+"title": "Vote: Nay on House passage of H.R. 4776 SPEED Act (permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"date": "2025-12-18",
+"quote": null,
+"what_it_shows": "He opposed the Republican permitting-reform bill that would speed energy and infrastructure approvals."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "medium",
+"summary": "Crow says AI must be part of U.S. military strategy but that Congress is not talking enough about the risks, and he draws a firm line: a human must always be in the kill chain and no lethal decision should rest on an AI algorithm. No position found on rules for commercial AI.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Crow discusses national security and AI at CNAS conference",
+"url": "https://crow.house.gov/media/press-releases/crow-discusses-national-security-bipartisanship-with-center-for-a-new-american-security",
+"date": "2026-06-12",
+"quote": "I'm somebody that believes that there always must be a human involved in the kill chain, and that we should not be making decisions to take lives based on an AI algorithm.",
+"what_it_shows": "He wants a binding human-control limit on lethal military AI and says risk conversations are lagging."
+},
+{
+"type": "statement",
+"title": "Sum and Substance: Crow calls for Pentagon contracting reform to field new technology faster",
+"url": "https://tsscolorado.com/colorado-congressional-delegation-finds-some-bipartisan-agreement-on-ai-tax-credit-extensions",
+"date": "2025-08-12",
+"quote": null,
+"what_it_shows": "He also pushes to speed adoption of new technology in the military, so his guardrail is targeted, not anti-AI."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "In the last Congress he cosponsored targeted bills: protecting reproductive health data from apps, letting parents plug safety software into kids' social media accounts, and requiring websites to be accessible. No statements found on Big Tech breakups or Section 230 in the current Congress.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 3420 My Body, My Data Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
+"date": "2023-05-17",
+"quote": null,
+"what_it_shows": "He backed limits on apps collecting or sharing reproductive health data."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 5778 Sammy's Law of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5778",
+"date": "2023-12-19",
+"quote": null,
+"what_it_shows": "He supported requiring big platforms to let parents use third-party safety tools for their kids' accounts."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 5813 Websites and Software Applications Accessibility Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5813",
+"date": "2024-05-21",
+"quote": null,
+"what_it_shows": "He backed binding accessibility rules for websites and apps."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. He did not sign the Nov 26, 2025 Matsui letter or the Dec 3, 2025 Clarke letter opposing a state AI-law moratorium, and no statement on the Dec 2025 executive order or the March 2026 White House framework was found as of Sept 2026.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Crow leads a bipartisan bill to modernize the Commerce Department's export-control office so it can better track chips and advanced software headed to China and Russia, and he helped pass the CHIPS Act. He has not taken a public position on the Nvidia H20 or H200 sales.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor: H.R. 4920 BIS IT Modernization Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4920",
+"date": "2025-08-08",
+"quote": null,
+"what_it_shows": "His bill upgrades the Bureau of Industry and Security's systems to enforce export controls on dual-use technology."
+},
+{
+"type": "statement",
+"title": "Press release: Reps. Crow and Kean introduce bipartisan legislation to prevent critical U.S. technology from being used by adversaries",
+"url": "https://crow.house.gov/media/press-releases/reps-crow-kean-introduce-bipartisan-legislation-to-prevent-critical-us-technology-from-being-used-by-adversaries",
+"date": "2025-08-08",
+"quote": "Our bipartisan bill helps keep us safe by making it harder for critical U.S. technologies, like chips and advanced computer software, from falling into the hands of America's adversaries",
+"what_it_shows": "He frames chip export enforcement as a national security priority against China and Russia."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor (118th): H.R. 3249 Protecting Circuit Boards and Substrates Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3249",
+"date": "2024-10-04",
+"quote": null,
+"what_it_shows": "He supported incentives to bring circuit board manufacturing back to the U.S., a supply-chain security measure."
+}
+]
+}
+},
+"search_notes": "About 12 Google News queries plus crow.house.gov press release index (found at /news/press-releases), the CNAS discussion release, the BIS IT Modernization Act release, the Oct 2025 DOE statement, FedScoop, the Matsui letter PDF (parsed with pypdf, Crow not among signers), the Clarke letter page (Crow not listed), Sum and Substance, govtrack. Most of his 2025-2026 releases concern Iran, ICE oversight and Pentagon accountability; the only AI remarks found are the CNAS excerpts. No AI super PAC spending or endorsements listed for him on aimoneywatch.org. His campaign site timed out."
+}
+]

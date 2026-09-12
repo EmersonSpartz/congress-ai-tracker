@@ -1,0 +1,262 @@
+[
+{
+"bioguide": "A000381",
+"checks": [
+{
+"url": "https://ansari.house.gov/media/press-releases/rep-ansari-introduces-ai-impersonation-prevention-act-to-safeguard-national-security",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-11",
+"note": "Page dated Aug 11, 2025 quotes Rep. Ansari verbatim (source uses an en-dash before 'that's why we need my AI Impersonation Prevention Act'). Bill targets AI impersonation of federal officials."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Aug 10, 2026 release: Casar led 19 members; letter text matches verbatim; page cites models escaping test environments; Yassamin Ansari (AZ-03) listed as signer."
+},
+{
+"url": "https://casar.house.gov/media/press-releases/casar-leads-demand-information-open-ai-about-security-incident",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-08-10",
+"note": "Ansari is listed as a signer and the letter covers control of future models and misalignment safeguards, but the page says Casar led 31 members (30 named plus Casar) and 'more than 23 questions', not a 29-member letter."
+},
+{
+"url": "https://matsui.house.gov/sites/evo-subsites/matsui.house.gov/files/evo-media-document/matsui-letter-opposing-ai-moratorium-and-proposed-ai-preemption-executive-order-11.26.25.pdf",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-26",
+"note": "PDF (fetch tool returned empty text; downloaded and extracted directly) dated Nov 26, 2025 to Johnson/Thune/Jeffries/Schumer; quote verbatim; opposes NDAA moratorium, the preemption executive order and conditioning BEAD funds; 81 'Member of Congress' signature blocks including Yassamin Ansari."
+},
+{
+"url": "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-03",
+"note": "Dec 3, 2025 release; quote verbatim; 'signed by 44 Members of Congress' list includes Yassamin Ansari; urges no AI moratorium or preemption in final FY26 NDAA."
+},
+{
+"url": "https://ansari.house.gov/media/press-releases/rep-ansari-introduces-ai-impersonation-prevention-act-to-safeguard-national-security",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-11",
+"note": "Same page as item 1; quote verbatim and attributed to Rep. Ansari."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "S001211",
+"checks": [
+{
+"url": "https://stanton.house.gov/2026/3/stanton-colleagues-introduce-energy-bills-relief-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-27",
+"note": "Quote appears verbatim as a bullet in the bill goals list; page confirms Stanton and 120 House Democrats introduced the bill and the subhead says it 'makes data centers cover their own energy costs.' The phrase 'reallocating grid costs to protect consumers' is a paraphrase (page talks about price gouging, grid modernization, utility assistance) rather than a stated goal."
+},
+{
+"url": "https://elections.transformernews.ai/races/az-h-04",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Transformer FEC tracker shows Think Big (Pro-innovation) spent $265,156 supporting Greg Stanton in the AZ-04 Democratic primary, $0 opposing; race concluded, Stanton won. Page does not name Kai Newkirk or the Leading the Future network affiliation; those details are not verifiable from this source. Correctly framed as outside spending, not his own position."
+},
+{
+"url": "https://stanton.house.gov/2025/2/stanton-backs-legislation-to-stop-elon-musk-from-invading-americans-privacy",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2025-02-06",
+"note": "Quote is verbatim, but it is press-release narration, not a direct Stanton quote. The Taxpayer Data Protection Act concerns who may access the Treasury payment system (DOGE/Musk staff without clearance), i.e. government data access, not regulation of the tech industry. Supports a privacy stance but is weak evidence for a tech_regulation position."
+},
+{
+"url": "https://stanton.house.gov/2026/4/stanton-led-semiconductor-controls-effectiveness-act-passes-house-foreign-affairs-committee-unanimously",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "Quote appears verbatim in Stanton's committee remarks; bill introduced with Rep. Issa requires a review of export-control effectiveness on the PRC with the stated aim of strengthening controls on advanced AI chips."
+},
+{
+"url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-10",
+"note": "Quote verbatim in letter text. Stanton is named as a cosigner alongside Moolenaar, Mast, Meeks, Huizenga, Kamlager-Dove, Baumgartner and Olszewski (eight signers total). Letter urges countrywide controls on chokepoint SME that China cannot produce indigenously."
+},
+{
+"url": "https://stanton.house.gov/2025/3/arizona-congressman-fires-back-after-trump-calls-chips-act-a-horrible-horrible-thing",
+"verdict": "partially_supported",
+"corrected_quote": "Instead of attacking the CHIPS Act, we ought to be celebrating it as a huge, successful policy — a bipartisan win for the United States of America",
+"corrected_date": "2025-03-05",
+"note": "Quote is a verbatim fragment of Stanton's KTAR remark. However the page never mentions national security; he frames the CHIPS Act as a bipartisan economic/jobs win for Arizona. The 'national security win' characterization is the tracker's inference, not his words."
+},
+{
+"url": "https://stanton.house.gov/2026/4/stanton-led-semiconductor-controls-effectiveness-act-passes-house-foreign-affairs-committee-unanimously",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-22",
+"note": "Verbatim from his committee remarks; suitable headline quote."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "The only tech_regulation source is the Taxpayer Data Protection Act release, which targets DOGE/Musk staff access to the Treasury payment system, a government-data-access issue, not regulation of technology companies or platforms. No source shows a position on Big Tech, AI companies, or platform rules. Evidence is too thin to place him at -1.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "B001302",
+"checks": [
+{
+"url": "https://azfreenews.com/2026/07/biggs-outlines-governor-agenda-on-affordability-water-resources-and-election-integrity/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-11",
+"note": "Page says Biggs 'supports data center development but opposes taxpayer incentives' and that developers should finance their own electrical generation and water infrastructure. Quote appears verbatim (ellipsis is in the source)."
+},
+{
+"url": "https://azfreenews.com/2026/07/biggs-backs-palo-verde-expansion-pushes-arizona-to-lead-small-modular-reactor-development/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-10",
+"note": "Page ties nuclear/SMR expansion to demand from AI and data centers and says data center projects 'should proceed without taxpayer subsidies or preferential treatment.' Quote verbatim."
+},
+{
+"url": "https://azcapitoltimes.com/news/2026/09/07/to-build-or-not-to-build-data-center-debate-hits-the-campaign-trail/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-07",
+"note": "Quote verbatim. Page also reports running mate Sine Kerr told KTAR the ticket would not support an outright moratorium and prefers keeping decisions with local communities."
+},
+{
+"url": "https://azcapitoltimes.com/news/2026/06/18/biggs-schweikert-skip-the-fireworks-in-tame-gop-governor-debate/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-18",
+"note": "Quote verbatim. Page notes Hobbs secured a three-year moratorium on new data center tax incentives while Biggs pledged to eliminate them. Article published June 18; debate date of June 17 is inferred, not stated in the excerpt read."
+},
+{
+"url": "https://biggs.house.gov/media/press-releases/congressman-biggs-introduces-ai-legislation-reduce-overregulation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-06",
+"note": "Quote verbatim. Release frames AI as a tool for agencies to identify and cut regulations; no mention of AI safety rules. Note this is a 2024 item and is the only ai_risk source."
+},
+{
+"url": "https://Biggs.house.gov/media/in-the-news/big-tech-censorship-against-conservatives-dictatorial-republican-congressman",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2021-01-12",
+"note": "Fox News piece reposted on his site: Biggs condemned deplatforming of Parler as 'dictatorial' and named Amazon, Apple, Google, Facebook and Twitter. It is rhetoric, not a policy proposal for regulating tech."
+},
+{
+"url": "https://Biggs.house.gov/media/press-releases/congressman-biggs-explains-vote-tiktok-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-03-14",
+"note": "Quote verbatim; release ends with call to protect 'Americans' privacy from both foreign and domestic spying agencies.' The page does not literally say 'voted no' (title is 'Explains Vote'), but the statement is plainly opposition and the roll call confirms a no vote."
+},
+{
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Quote verbatim (report subhead). Report names Biggs, says he voted for the House OBBBA moratorium, and quotes him telling KTAR data centers are 'a local jurisdiction issue' - i.e. the report itself highlights the tension between his H.R. 1 vote and his pro-local-control campaign statements."
+},
+{
+"url": "https://azcapitoltimes.com/news/2026/09/07/to-build-or-not-to-build-data-center-debate-hits-the-campaign-trail/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-09-07",
+"note": "Kerr quote verbatim; page says the ticket 'would instead prefer to keep that decision-making authority with local communities.' Statement is from the running mate, not Biggs himself, though CAP Action quotes Biggs saying the same to KTAR."
+},
+{
+"url": "https://azfreenews.com/2026/07/biggs-outlines-governor-agenda-on-affordability-water-resources-and-election-integrity/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-11",
+"note": "Headline quote appears verbatim on the page."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "The only ai_risk source is a 2024 press release casting AI as a deregulation tool and 'federal overregulation' as the problem, with no call for any AI safety rules. Nothing in the sources shows support for targeted guardrails; the evidence points to a light-touch stance, and -1 is unsupported.",
+"suggested_score": 1,
+"suggested_label": "Light touch"
+},
+{
+"dimension": "tech_regulation",
+"objection": "Sources show anti-Big-Tech rhetoric (Parler deplatforming 'dictatorial') but the only vote is against the TikTok divestiture bill, with a generic call to protect privacy from foreign and domestic spying. Neither source shows him backing a concrete rule on tech companies, so 'Targeted rules' is thinly supported; the record reads as mixed.",
+"suggested_score": 0,
+"suggested_label": "Mixed"
+},
+{
+"dimension": "preemption",
+"objection": "The +1 rests on a party-line H.R. 1 vote that included the AI moratorium, while the more recent and more specific evidence (CAP Action quoting Biggs to KTAR that data centers are 'a local jurisdiction issue,' and running mate Kerr saying decisions should stay with local communities) points the other way. The sources are contradictory, which is the definition of 0.",
+"suggested_score": 0,
+"suggested_label": "Mixed or conditional"
+}
+]
+},
+{
+"bioguide": "C001133",
+"checks": [
+{
+"url": "https://climatepower.us/news/arizonans-electricity-bills-are-spiking-and-juan-ciscomani-voted-to-make-it-worse/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-29",
+"note": "Climate Power press release (May 29, 2026) names Ciscomani; quote appears verbatim. Page also confirms the TEP 13% rate hike request tied partly to $1.7B in data-center-linked infrastructure. Correctly framed as an advocacy attack, not his statement."
+},
+{
+"url": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-bacon-ciscomani-friedman-lead-bipartisan-resolution-condemning-antisemitic-content-on-ai-platforms",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-18",
+"note": "Jacobs press release (Dec 18, 2025) lists Ciscomani as a co-lead; his quote appears verbatim. Page states the resolution 'urges robust, transparent safeguards for AI systems', supporting the claim. Note the safeguards language is the release's description of the resolution, not Ciscomani's own words, which focus on condemning antisemitism."
+},
+{
+"url": "https://ciscomani.house.gov/media/press-releases/ciscomani-sorensen-lead-effort-crack-down-artificial-intelligence-robocalls",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-02-06",
+"note": "Ciscomani's own press release (Feb 6, 2025); quote verbatim. Page describes the QUIET Act as requiring disclosure of AI use and increasing penalties for AI impersonation with intent to defraud, matching the claim."
+},
+{
+"url": "https://ciscomani.house.gov/media/press-releases/ciscomani-applauds-house-passage-landmark-kids-internet-safety-legislation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-06",
+"note": "Ciscomani press release (July 6, 2026); quote verbatim. Confirms he voted for the KIDS Act (267-117), urges Senate passage, and calls kids' safety 'simply common sense'."
+},
+{
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "CAP Action report (Aug 24, 2026); quote appears verbatim and the page explains the House OBBBA AI moratorium argument. However, the page text never names Ciscomani (the only Arizona member discussed is Andy Biggs); it references House Roll Call 145 generically. His individual vote is not documented on this page."
+},
+{
+"url": "https://ciscomani.house.gov/media/press-releases/ciscomani-applauds-house-passage-landmark-kids-internet-safety-legislation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-06",
+"note": "Headline quote appears verbatim in Ciscomani's July 6, 2026 press release."
+}
+],
+"score_objections": [
+{
+"dimension": "preemption",
+"objection": "The only preemption evidence is his vote for H.R. 1, an omnibus reconciliation bill whose AI moratorium was one provision among hundreds, plus a CAP report that does not name him. No statement from Ciscomani on state vs. federal AI rules was found in any source. Inferring 'Leans national rule' from an omnibus vote alone is too thin.",
+"suggested_score": 0,
+"suggested_label": "Mixed or conditional"
+}
+]
+}
+]

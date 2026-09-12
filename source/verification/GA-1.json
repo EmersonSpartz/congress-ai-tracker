@@ -1,0 +1,236 @@
+[
+{
+"bioguide": "O000174",
+"checks": [
+{
+"url": "https://www.cbsnews.com/atlanta/news/ossoff-investigating-ai-data-center-are-impacting-rising-power-bills-in-georgia/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-21",
+"note": "Quote appears verbatim, attributed to Ossoff's letter to FERC chair Laura Swett. Page confirms the investigation, the 'pay their own way' question, and the June 1 response deadline."
+},
+{
+"url": "https://broadbandbreakfast.com/ossoff-probes-energy-impact-of-ai-data-centers-in-georgia/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-24",
+"note": "Page says he asked FERC to evaluate whether tech companies' pledges to 'pay their own way' are credible and enforceable, and pointed to pending federal efforts to standardize interconnection for large loads with an April 30 deadline."
+},
+{
+"url": "https://www.savannahnow.com/story/news/politics/2026/09/07/senate-candidates-ossoff-and-collins-weigh-in-on-effingham-data-center/91474128007/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Direct fetch 403/402 (TollBit bot wall), eu. and sibling Gannett domains blocked, Wayback and archive.ph unavailable, WebFetch refused the host. Quote could not be checked."
+},
+{
+"url": "https://www.usatoday.com/story/news/politics/2026/08/24/politicians-data-centers-stances-trump-ossoff-shapiro-abbott/91444197007/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Page says Ossoff 'has taken a cautious approach to the data centers topic' and 'has stressed that ratepayers shouldn't suffer financially because of them,' and cites the FERC letter. No outright opposition described."
+},
+{
+"url": "https://punchbowl.news/article/tech/openai-lehane-ossoff-fundraiser/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-05-06",
+"note": "Direct fetch blocked (403, no mirror); WebFetch second opinion returned article dated May 6, 2026 saying OpenAI's Chris Lehane and other tech officials are raising money for Ossoff in San Francisco, with Ron Conway also hosting. That is ~2 weeks after the Apr 20 FERC letter, so 'weeks after' holds, but the article itself does not mention the FERC inquiry or data centers; the 'sign he keeps ties' framing is the tracker's inference. Verbatim check not possible from fetch output."
+},
+{
+"url": "https://jewishinsider.com/2026/02/senate-democrats-pentagon-grok-ai-antisemitism-deepfake-pornography/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-10",
+"note": "Quote appears verbatim from the letter to Hegseth. Letter led by Ossoff and co-signed by Van Hollen, Schiff, Durbin, Hickenlooper and Warnock (six Democrats total including Ossoff). Asks what rules and safeguards exist for Grok in DoD."
+},
+{
+"url": "https://www.gpb.org/news/2026/08/07/ossoff-launches-investigation-impact-of-ai-on-children",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "GPB returned 403 to the fetch tool, curl with browser UA, and WebFetch; Wayback unavailable. The companion WTVM story (item 8) independently confirms the NCMEC-partnered investigation into AI-generated child exploitation, but the '400 Georgia reports' figure could not be verified here."
+},
+{
+"url": "https://www.wtvm.com/2026/08/06/sen-ossoff-launches-investigation-into-ai-dangers-children/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-06",
+"note": "Page states: 'Ossoff said the results of the investigation will be used to protect children in Georgia and across the country through legislation in Congress.' Investigation is with NCMEC; page cites nudify-report growth 14 (2023) to 202 (2025)."
+},
+{
+"url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdC1FdGxCNlpIbnZCTG5SaUpWUFFZcTMwMktuOXNQNG9jckI5amQwYnI3ZUt6bHZ6NHhSNHJZcVk5WkE5Mjh0SHV3MUhEOU9kSS1lUXhHSWJYMlIyLWZaRnp3a0h3Vmk3aVZVR3Q4bld0REx6SVBVLTZlT05kTzZpS1ZyaVBqLUJWQTgxVzFmMXdlYkdiR2R6Q1VSSVdmZEoyYXdUaHpEZERTVzc1cGNsakxrS2MtMW12RWNKVEpKSFNKYzN3RjRES1M5X0toV0MxX0VQLVZPTTY3dw?oc=5",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Google News redirect page returns no content; encoded URL is not decodable; guessed ossoff.senate.gov press-release URL returned 403 with no Wayback. Item already acknowledges contents are unverified; headline-only evidence. Consider dropping or replacing with a reachable source."
+},
+{
+"url": "https://www.gpb.org/news/2026/08/07/ossoff-launches-investigation-impact-of-ai-on-children",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Same GPB page blocked (403, no mirror). WTVM confirms the investigation is meant to produce federal legislation; the 'kids-online-safety work' framing could not be verified from this page."
+},
+{
+"url": "https://www.savannahnow.com/story/news/politics/2026/09/07/senate-candidates-ossoff-and-collins-weigh-in-on-effingham-data-center/91474128007/",
+"verdict": "unreachable",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Same TollBit-walled Savannah Morning News page; headline quote could not be verified verbatim. Sentiment matches his confirmed FERC-letter language ('pay their own way', sky-high power bills) but the exact wording is unchecked; recommend finding a reachable source before using as the headline quote."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "W000790",
+"checks": [
+{
+"url": "https://www.warnock.senate.gov/newsroom/press-releases/warnock-visits-future-openai-data-center-site-calls-for-statewide-moratorium",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-28",
+"note": "warnock.senate.gov returns 403 to the fetch script and Wayback was refusing connections, so the page was read live in Chrome. Quote appears verbatim. Page lists the five lift conditions exactly as claimed (no water/electric bill increases, no sweetheart tax giveaways, no NDAs, no air and water pollution, no ambiguity around noise and light pollution). Page itself shows no date; CBS Atlanta dates the event 2026-08-28."
+},
+{
+"url": "https://www.cbsnews.com/atlanta/news/sen-warnock-calls-for-statewide-data-center-moratorium-after-regulators-approved-massive-openai-facility/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-08-28",
+"note": "Fetched OK (published 2026-08-28). Confirms the moratorium call, the same-day site visit, the 3.2 GW OpenAI data center and the $20 billion investment cleared by the Georgia PSC. But the article says the PSC approval came 'earlier this week', not specifically two days before; it does not say 'two days' or describe a '3.2 gigawatt contract'. Drop the 'two days after' precision unless another source supplies it."
+},
+{
+"url": "https://thecitizen.com/2026/07/27/warnock-calls-for-community-protections-from-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-27",
+"note": "Fetched OK. Quote appears verbatim (in pull-quote and in letter body). Page confirms letter to EPA asking for guidance and best practices to protect long-term water supplies, and letter text says EPA 'has largely remained on the sidelines'. Note the page reproduces a Warnock press release; letter addressee named as EPA (Zeldin named in surrounding coverage only)."
+},
+{
+"url": "https://www.warnock.senate.gov/newsroom/press-releases/warnock-markey-push-trump-admin-to-shield-americans-from-data-center-energy-costs",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Fetch script got 403 and Wayback refused connections; read live in Chrome. Quote verbatim. Page says Warnock 'joined Senator Ed Markey and five other Senators' (six others total, matching the claim) urging FERC Chair Laura Swett; letter asks FERC to reject transmission filings that spread data-center-driven costs across the region and to protect residential ratepayers. No date shown on page; letter references 'thus far in 2025' so it dates to 2025."
+},
+{
+"url": "https://www.warnock.senate.gov/newsroom/press-releases/icymi-warnock-delivers-commencement-address-to-georgia-tech-class-of-2026-urges-graduates-to-hold-onto-hope",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Fetch script got 403; read live in Chrome. Quote verbatim in transcript: 'We have got to make sure that it emerges in such a way that it is more helpful than hurtful. Implications for the labor market, implications for privacy, our national security'. Transcript confirms he 'met a couple of days ago with AI leaders and creators from all of the various companies' and speaks of 'the promise and the perils of AI'. Spring 2026 commencement; exact date not on page."
+},
+{
+"url": "https://jewishinsider.com/2026/02/senate-democrats-pentagon-grok-ai-antisemitism-deepfake-pornography/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-10",
+"note": "Fetched OK. Quote verbatim. Letter led by Ossoff, co-signed by Van Hollen, Schiff, Durbin, Hickenlooper and Warnock; asks Hegseth what rules and safeguards exist for DoD use of Grok given antisemitic content and deepfake pornography."
+},
+{
+"url": "https://www.warnock.senate.gov/newsroom/press-releases/senator-reverend-warnock-aging-committee-colleagues-question-federal-trade-commission-chair-about-efforts-to-protect-seniors-from-ai-sca",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Fetch script got 403; read live in Chrome. Quote verbatim. Bipartisan Aging Committee letter to FTC Chair Lina Khan confirmed (signers include Casey, Braun, Rubio, Vance, Warren etc.). However the page describes 'scammers utilizing AI to impersonate loved ones' and never mentions voice cloning specifically; soften 'voice-clone scams' to 'AI impersonation scams'. Page shows no date (context: Khan as chair, Casey as chair, Braun ranking = 2023)."
+},
+{
+"url": "https://tiffinohio.net/posts/cruz-warnock-ai-ethics-commission-bill-incomplete-experts/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-29",
+"note": "Fetch script got 403 (Cloudflare); read live in Chrome after the challenge cleared. Article (Ohio Capital Journal via States Newsroom, 2026-07-29) confirms Cruz and Warnock introduced the Human Dignity and Emerging Technologies Act creating a 17-member bipartisan advisory commission, $2M/yr for five years, sunsetting 2032, 'largely serving as a researcher and advisor' with no binding rules. Warnock quote available: 'we need to be clear eyed about addressing the potential problems and perils of this technology'. Item note about 403 can be replaced with real content."
+},
+{
+"url": "https://www.warnock.senate.gov/newsroom/press-releases/warnock-visits-future-openai-data-center-site-calls-for-statewide-moratorium",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-28",
+"note": "Read live in Chrome (fetch 403, Wayback refused). Quote appears verbatim in the release both as the pull-quote and in the body. Also confirmed verbatim in the CBS Atlanta article."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "C001103",
+"checks": [
+{
+"url": "https://www.quiverquant.com/news/Press+Release:+Rep.+Buddy+Carter+Hosts+Roundtable+on+Georgia%27s+Energy+Demand+with+American+Petroleum+Institute",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-18",
+"note": "Page (Quiver repost of Carter press release, dated 2025-08-18) confirms roundtable with API, Georgia Power forecast load growth up to 9,400 MW over the next decade driven partly by data centers, and Carter quote about tools to 'keep pace with 21st century innovation'. Pro-build framing is fair; no explicit conditions or ratepayer language visible in the summary."
+},
+{
+"url": "https://buddycarter.house.gov/news/documentsingle.aspx?DocumentID=16366",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-05",
+"note": "Quote appears verbatim on Carter's official page (2026-03-05). Page also contains 'I urge a swift vote on the House floor on this critical, bipartisan legislation.' Bill described as giving parents the choice to use third-party safety software on social media; page does not itself say 'large' companies, but the claim's direction is supported."
+},
+{
+"url": "https://broadbandbreakfast.com/house-leaders-reach-deal-on-kids-online-safety-package/",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-06-23",
+"note": "Article (2026-06-23) confirms Sammy's Law, introduced by Wasserman Schultz and Carter, was omitted from the final KIDS Act package and 'was considered separately.' It does not state that the bill still awaits a floor vote; that part of the claim is an inference not on the page."
+},
+{
+"url": "https://buddycarter.house.gov/news/documentsingle.aspx?DocumentID=16366",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-05",
+"note": "Headline quote appears verbatim on the page, attributed to Rep. Carter."
+}
+],
+"score_objections": [
+{
+"dimension": "ai_risk",
+"objection": "None of the four sources touches AI safety, frontier models, or AI-specific regulation; Sammy's Law is a kids-online-safety/social-media bill and the API roundtable is about energy supply. The -1 'Targeted guardrails' score for ai_risk has no supporting evidence in the checked items and should be null unless another source is added.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "B000490",
+"checks": [
+{
+"url": "https://www.walb.com/2026/07/17/south-georgia-congressmen-say-data-centers-need-guardrails-before-moving-forward/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Quote appears verbatim, attributed to Rep. Bishop. Page also supports every element of the claim: 'The public has a right to know about the water consumption, the power consumption', 'It's a situation that will have to be decided by each and every community... Because data centers are not for every community', and 'It's important that the decision-makers... get something in return.' He also frames it as 'pros and cons' (investment/tax base vs energy/water)."
+},
+{
+"url": "https://bishop.house.gov/media-center/press-releases/bishop-franklin-introduce-bill-to-strengthen-agricultural-research-innovation",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-27",
+"note": "Press release dated Feb 27, 2026 confirms Bishop and Franklin reintroduced the bipartisan Land Grant Research Prioritization Act, H.R. 7734, giving land grant universities access to USDA NIFA competitive grants for AI and mechanization research. Bishop's own quote frames AI as something to 'help improve U.S. agriculture.' The 'tool rather than hazard' phrasing is the tracker's characterization, but the release contains no risk language, so it is a fair reading. Weak evidence for an ai_risk position (it is an ag research bill, not an AI-governance stance)."
+},
+{
+"url": "https://prospect.org/2026/04/30/ai-supercharging-surveillance-state-congress-fisa-section-702/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-04-30",
+"note": "Article lists 'Sanford Bishop (D-GA)' among the Democrats who joined 192 Republicans in voting for the three-year Section 702 extension; text says 'Himes and these 41 Democrats', i.e. 42 total, matching the claim. The article's thesis is that AI is supercharging surveillance and the bill lacks warrant/AI limits, so 'critics say' framing is accurate. Note this is a proxy inference about Bishop's AI views; the article quotes nothing from him."
+},
+{
+"url": "https://www.walb.com/2026/07/17/south-georgia-congressmen-say-data-centers-need-guardrails-before-moving-forward/",
+"verdict": "confirmed",
+"corrected_quote": "It's a situation that will have to be decided by each and every community. Because data centers are not for every community.",
+"corrected_date": "2026-07-17",
+"note": "Appears verbatim as two adjacent sentences attributed to Bishop, separated only by 'Bishop said.' Same text as the item quote (curly apostrophe in source)."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the four cited sources touch Big Tech regulation, platform rules, antitrust, or online safety. The data center comments are local land-use/utility concerns and the FISA vote concerns government surveillance, not tech-company regulation. Evidence is too thin to assign -1 'Targeted rules'; suggest no position until a source directly on tech regulation is added.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+}
+]

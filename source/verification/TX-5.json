@@ -1,0 +1,139 @@
+[
+{
+"bioguide": "E000299",
+"checks": [
+{
+"url": "https://escobar.house.gov/news/documentsingle.aspx?DocumentID=3098",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-03-25",
+"note": "Quote appears verbatim in the letter. Page confirms the letter raises consumer rates (Virginia 267% example), gas-powered turbines replacing a walked-back renewable commitment, water use (up to 5M gallons/day), and requests public listening sessions."
+},
+{
+"url": "https://escobar.house.gov/news/documentsingle.aspx?DocumentID=3149",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-04-27",
+"note": "Quote verbatim. Letter is a follow-up to the March 25 letter and contrasts Meta with the Army, which held its first public listening session on April 22, 2026 on the Fort Bliss project. However, the page never explicitly states that Meta failed to respond; non-response is implied by the follow-up framing ('Again Calls', 'I look forward to your response'), not stated."
+},
+{
+"url": "https://escobar.house.gov/news/documentsingle.aspx?DocumentID=3174",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-12",
+"note": "Quote verbatim. Letter's suggestion list includes contractually requiring closed-loop liquid cooling, clear metering reported to the PSB, real-time public reporting, drought-period priority for residential and existing commercial users, and a separate rate structure for data centers (system development fees, peak capacity charges, up-front capital contributions)."
+},
+{
+"url": "https://escobar.house.gov/news/documentsingle.aspx?DocumentID=3184",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-21",
+"note": "Quote verbatim. Letter references hyperscale levels approaching 2.5 gigawatts and asks Army and Carlyle Group to slow the process and reconsider location; it does not oppose the project outright, matching the claim."
+},
+{
+"url": "https://escobar.house.gov/news/documentsingle.aspx?DocumentID=3192",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-04",
+"note": "Quote verbatim from the June 4, 2026 Appropriations markup transcript. Page states her amendment would prohibit federal funds for implementing the EPA NSR 'begin actual construction' rule change letting gas-generator data centers start construction before Clean Air Act permits and public comment; 'This amendment was rejected by Republicans.'"
+},
+{
+"url": "https://escobar.house.gov/news/documentsingle.aspx?DocumentID=3159",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-06",
+"note": "Quote verbatim (page uses 'it's' with curly apostrophe). She explicitly ties cosponsoring the Energy Bills Relief Act to ratepayers' fear of data center-driven utility cost increases."
+},
+{
+"url": "https://escobar.house.gov/news/documentsingle.aspx?DocumentID=3294",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-31",
+"note": "Page describes all three bills (Lowering Utility Bills Act, Heating and Cooling Relief Act, Energy Bills Relief Act). The 'large energy users—including data centers—pay their fair share' language is attributed specifically to the Lowering Utility Bills Act, not the whole package; minor imprecision in the claim."
+},
+{
+"url": "https://escobar.house.gov/news/documentsingle.aspx?DocumentID=3192",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-06-04",
+"note": "Same transcript as item 5; quote is verbatim and attributed to Rep. Escobar."
+}
+],
+"score_objections": []
+},
+{
+"bioguide": "S000250",
+"checks": [
+{
+"url": "https://sessions.house.gov/2026/2/congressman-pete-sessions-tx-17-announces-federal-partnership-with-texas-agriculture-commissioner-sid-miller-to-establish-agriculture-freedom-zones-nationwide",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-02-25",
+"note": "Quote appears verbatim in Sessions' statement. Page confirms the forthcoming bill would use capital gains tax deferrals and related incentives to steer resource-intensive development 'such as data centers' toward marginal lands, brownfields, arid regions; Miller is quoted saying Sessions 'has seen firsthand the dramatic impact data center expansion is having on... rural Texas communities.' Dated Feb 25, 2026."
+},
+{
+"url": "https://www.foxbusiness.com/politics/bipartisan-bill-would-force-government-agencies-label-ai-content",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Quote is verbatim, attributed to Sessions. Article also quotes him saying the REAL Act 'brings greater transparency and accountability to the federal government's use of artificial intelligence,' matching the claim. Bill co-led with Rep. Bill Foster; article dated Dec 11, 2025."
+},
+{
+"url": "https://oversight.house.gov/release/sessions-opens-hearing-on-using-id-verification-to-combat-evolving-fraud-landscape/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-15",
+"note": "Quote is verbatim from Sessions' prepared opening remarks as Subcommittee Chairman (hearing 'Emerging Fraud Threats and the Evolving Fraud Landscape'). Remarks also reference synthetic identities and focus on Login.gov/agency ID verification rather than AI developer rules, matching the claim. Dated July 15, 2026."
+},
+{
+"url": "https://www.foxbusiness.com/politics/bipartisan-bill-would-force-government-agencies-label-ai-content",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-11",
+"note": "Same Fox Business article; headline quote is verbatim and attributed to Sessions."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the cited sources address regulating tech companies or Big Tech. The REAL Act only imposes disclosure duties on federal agencies and officials, and the fraud hearing targets government ID verification. There is no evidence here for any tech_regulation position, so -1 'Targeted rules' rests on nothing in the record.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "M001245",
+"checks": [
+{
+"url": "https://menefee.house.gov/media/press-releases/congressman-menefee-presses-trump-administration-on-false-chips-claims-and-ai-data-centers-impact-on-texas",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Quote appears verbatim. Page confirms he raised data center water use (399B gallons by 2030) and rising electricity prices at a House Science Committee hearing, and that the witness declined to commit to upholding state data center laws, saying 'I think I'm going to stick with my domain, which is science and technology.' Published 2026-07-22."
+},
+{
+"url": "https://menefee.house.gov/media/press-releases/rep-menefee-pushes-for-nuclear-energy-investments-in-houston",
+"verdict": "confirmed",
+"corrected_quote": "But as we grow this industry, we have to make sure the communities surrounding these facilities aren't left carrying the burden.",
+"corrected_date": "2026-09-02",
+"note": "Quote verbatim (curly apostrophe on page). Science Energy Subcommittee hearing 'Powering the Nuclear Renaissance.' He says 'I want Texas to grow... in this space' and cites growing electricity demand, paired with community health/safety protections. Note the release never mentions data centers explicitly; the 'tempers data center tone' framing is the tracker's inference, though reasonable. Published 2026-09-02."
+},
+{
+"url": "https://menefee.house.gov/media/press-releases/congressman-menefee-presses-trump-administration-on-false-chips-claims-and-ai-data-centers-impact-on-texas",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Quote verbatim. Page says he asked whether the Administration would 'commit to preserving states' authority to regulate water usage' as it 'pursues policies that could preempt state AI regulations,' and that the witness declined. Supports the claim. Note the preemption question is framed around data center water/utility rules rather than AI model regulation per se."
+},
+{
+"url": "https://menefee.house.gov/media/press-releases/congressman-menefee-presses-trump-administration-on-false-chips-claims-and-ai-data-centers-impact-on-texas",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-22",
+"note": "Verbatim on page. This is the press office's paraphrase of his questioning, not a first-person quote from Menefee; a headline quote might better use his own words, but the text is accurate."
+}
+],
+"score_objections": []
+}
+]

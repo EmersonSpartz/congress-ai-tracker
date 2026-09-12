@@ -1,0 +1,297 @@
+[
+{
+"bioguide": "S001228",
+"name": "Derek Schmidt",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No verified public position as of September 2026. He did not answer KSHB's July 2026 data center questionnaire. A June 10, 2026 Topeka Capital-Journal story says he offered Kansas towns three tips for weighing data center proposals, but the article is paywalled and not archived, so what he actually said could not be checked.",
+"evidence": [
+{
+"type": "other",
+"title": "News article (headline only): In Kansas data center debate, Derek Schmidt gives 3 tips to consider (Topeka Capital-Journal)",
+"url": "https://www.cjonline.com/story/news/politics/government/2026/06/10/what-3-things-kansas-towns-should-ask-data-centers-developers-schmidt/90419962007/",
+"date": "2026-06-10",
+"quote": null,
+"what_it_shows": "Shows he has spoken publicly about how towns should evaluate data center developers, but the page returned a 403 and has no archived copy, so the substance and direction of his advice are unverified."
+},
+{
+"type": "statement",
+"title": "KSHB voter guide on data center development: Schmidt listed as not responding",
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"date": "2026-07-16",
+"quote": null,
+"what_it_shows": "When asked by KSHB where he stands on data center expansion and tax breaks, his office gave no response by publication, so he declined to state a position on the record."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "His AI record is narrow and enforcement-focused. He cosponsors a bill closing a loophole so people who make child sexual abuse material with AI tools face full penalties, a study of how courts use AI, and a bill letting investigators use face-matching technology to identify abused children. No statements found on frontier AI safety, licensing, liability, or a pause.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 4831 ENFORCE Act (AI-generated child sexual abuse material)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4831",
+"date": "2025-11-21",
+"quote": null,
+"what_it_shows": "Backs a targeted rule making sure offenders who create child sexual abuse material with AI tools are held fully accountable under federal obscenity law."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Derek Schmidt Backs Legislation to Fight Child Exploitation",
+"url": "https://schmidt.house.gov/media/press-releases/rep-derek-schmidt-backs-legislation-fight-child-exploitation",
+"date": "2025-11-25",
+"quote": "The ways in which sex offenders can exploit children are multiplying as fast as online technology is evolving",
+"what_it_shows": "In his own words he frames AI and online technology as creating new child-exploitation risks that the law must keep pace with; he adds that Congress needs to redouble its efforts."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 7997 Research and Oversight of AI in Courts Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7997",
+"date": "2026-04-16",
+"quote": null,
+"what_it_shows": "Supports having the government study and report on how AI is being used in courtrooms; a neutral, study-first step."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6998 Renewed Hope Act (face-matching to identify child victims)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6998",
+"date": "2026-07-20",
+"quote": null,
+"what_it_shows": "Supports letting investigators use face-matching AI to identify children in abuse images, showing comfort with law-enforcement use of AI rather than restricting it."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Leans toward targeted rules rather than sweeping ones. He cosponsors the STOP CSAM Act to make online platforms do more against child abuse material, leads a bipartisan bill requiring annual reports on how antitrust law helps small businesses compete, and co-leads a bill to coordinate the federal fight against scams. No calls to break up Big Tech or repeal Section 230 were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 3921 STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2025-10-17",
+"quote": null,
+"what_it_shows": "Backs making online platforms report and remove child sexual abuse material and letting victims sue platforms that fail to act."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Derek Schmidt Backs Legislation to Fight Child Exploitation (describes STOP CSAM Act)",
+"url": "https://schmidt.house.gov/media/press-releases/rep-derek-schmidt-backs-legislation-fight-child-exploitation",
+"date": "2025-11-25",
+"quote": "strengthens federal laws requiring online platforms to assist in combating child sexual abuse materials on their platforms",
+"what_it_shows": "His office presents new platform duties on child abuse material as a priority carried over from his time as Kansas attorney general."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Derek Schmidt-Led Bill to Strengthen Small Business Competition Passes House (Main Street Competes Act)",
+"url": "https://schmidt.house.gov/media/press-releases/rep-derek-schmidt-led-bill-strengthen-small-business-competition-passes-house",
+"date": "2026-06-23",
+"quote": "Many small businesses find themselves competing against national or global corporations that have far more resources, influence, and market power",
+"what_it_shows": "As a member of the Judiciary antitrust subcommittee he pushes a modest pro-competition measure (annual reports on how antitrust law serves small business) rather than aggressive action against large tech firms."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Derek Schmidt Introduces Bill to Coordinate Federal Response to Scams",
+"url": "https://schmidt.house.gov/media/press-releases/rep-derek-schmidt-introduces-bill-coordinate-federal-response-scams",
+"date": "2025-12-05",
+"quote": "As a former Kansas attorney general, nothing makes my blood boil more than crooks and scam artists who ripoff billions of dollars each year from Americans, particularly preying on our seniors",
+"what_it_shows": "Co-leads the bipartisan National Strategy for Combating Scams Act; a consumer-protection posture focused on coordination, not new mandates on tech companies."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on whether Washington should override state AI laws. He voted for the May 2025 House budget bill that carried a 10-year moratorium on enforcing state AI laws, but that was one line in a giant package and his statement on the bill did not mention AI. No reaction found to the December 2025 executive order or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: passage of H.R. 1 (One Big Beautiful Bill), which included a 10-year moratorium on state AI law enforcement",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "Voted Yea on the House bill that contained the state AI law moratorium; weak evidence because it was a sweeping tax and spending bill and he never spoke to the AI provision."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, votes, or cosponsorships found on chip export controls, the Chip Security Act, or Nvidia sales to China as of September 2026. Searches of his press releases and news coverage for Nvidia, export controls, and China chips returned nothing.",
+"evidence": []
+}
+},
+"signature": "Former Kansas attorney general on the House Judiciary antitrust subcommittee; his AI work is narrow (AI-made child abuse images, AI in courts) and he has said little on data centers.",
+"notable_quote": {
+"text": "The ways in which sex offenders can exploit children are multiplying as fast as online technology is evolving",
+"url": "https://schmidt.house.gov/media/press-releases/rep-derek-schmidt-backs-legislation-fight-child-exploitation",
+"date": "2025-11-25"
+},
+"groups": [],
+"search_notes": "Google News queries: 'Derek Schmidt artificial intelligence', 'Derek Schmidt data center', chatbot/deepfake/Section 230/Big Tech, antitrust/Main Street Competes, Judiciary AI hearing, town hall data center, ENFORCE Act, AG-era Google antitrust, and 3 tips headline. Read all four pages of schmidt.house.gov press releases (Jan 2025 to Aug 2026) plus his energy and economy issue pages and in-the-news page; opened the child exploitation, scams, and Main Street Competes releases. Confirmed ENFORCE Act cosponsorship on govtrack. Opened KSHB data center voter guide (no response from Schmidt). The Topeka Capital-Journal 'three tips' article returned 403 from cjonline and Gannett mirrors, WebFetch was blocked, and Wayback had no copy, so its content is unverified. KCUR KS-2 candidate guide URL could not be located (Google News link decoding was rate-limited). Wayback CDX listing for schmidt.house.gov failed (connection refused). No AI super PAC activity found in his race. Campaign site not found."
+},
+{
+"bioguide": "D000629",
+"name": "Sharice Davids",
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "medium",
+"summary": "Davids says no data center should go forward if it raises families' electric bills, wastes water, or shifts costs onto Kansas communities, while still welcoming projects that bring good jobs. She cosponsors a bill making data centers publicly report power and water use and signed a New Democrat letter calling data centers vital but in need of a national plan to manage grid and consumer-cost impacts. Protect ratepayers first, but not anti-growth.",
+"evidence": [
+{
+"type": "statement",
+"title": "KSHB voter guide on data center development: Davids' written response",
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"date": "2026-07-16",
+"quote": "no data center should move forward if it raises electricity costs for families, wastes our limited water resources, or shifts the burden onto Kansas communities",
+"what_it_shows": "Sets a clear ratepayer, water, and community-cost test for new projects, while noting decisions are mostly state and local."
+},
+{
+"type": "statement",
+"title": "KSHB voter guide on data center development: Davids on jobs and competitiveness",
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"date": "2026-07-16",
+"quote": "Kansas should, of course, continue pursuing opportunities that create good-paying jobs and help us compete globally, and that must be done transparently and responsibly.",
+"what_it_shows": "Balances her guardrails with support for growth, which keeps her short of a pause-or-block position."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor: H.R. 6984 Data Center Transparency Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6984",
+"date": "2026-05-12",
+"quote": null,
+"what_it_shows": "Backs requiring data centers to publicly report their electricity and water consumption and effects on air and water quality."
+},
+{
+"type": "letter",
+"title": "Letter: 14 New Democrat Coalition members ask appropriators to direct DOE to write a National Strategic Data Center Plan (Davids signed)",
+"url": "https://newdemocratcoalition.house.gov/imo/media/doc/data_centers_letter_fy27.pdf",
+"date": "2026-03-19",
+"quote": "Rapidly increasing demand for data centers, driven by cloud computing and AI, is vital for America's economy and competitiveness. However, this expansion strains electricity grids, land, water, and community infrastructure",
+"what_it_shows": "Signed a letter framing data centers as important for the economy but asking for an 18-month federal plan on grid reliability, consumer electricity costs, water efficiency, and where they get built."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, votes, or bills found on AI safety, chatbots, deepfakes, AI liability, or AI job impacts as of September 2026. Searches of her press releases, news coverage, and candidate guides for artificial intelligence, chatbot, deepfake, and TAKE IT DOWN returned nothing beyond her data center work.",
+"evidence": []
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No votes, bills, or statements found on Big Tech, Section 230, privacy law, or kids' online safety. Her one related role is co-chairing the New Democrat Coalition's Tech Task Force in 2019, whose agenda listed data privacy and AI, but no specific position followed from it in the record searched.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Davids Named to New Democrat Coalition Healthcare and Tech Task Forces, Will Co-Chair Task Force on Tech",
+"url": "https://davids.house.gov/media/press-releases/rep-davids-named-new-democrat-coalition-healthcare-and-tech-task-forces-will-co",
+"date": "2019-03-04",
+"quote": "The Technology Task Force will focus on issues including emerging technology, global competitiveness, innovation, data privacy and artificial intelligence.",
+"what_it_shows": "Shows past leadership on a pragmatic, business-friendly Democratic tech agenda, but it is a role, not a stated position on regulating tech companies."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No position found. She is not among the 81 signers of the November 26, 2025 House Democratic letter opposing a state AI law moratorium, and no statement was found on the December 2025 executive order or the March 2026 White House framework. Her Nay vote on the May 2025 House budget bill was about the whole package, not its AI moratorium.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: passage of H.R. 1 (One Big Beautiful Bill), which included a 10-year moratorium on state AI law enforcement",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "Voted Nay along with nearly all Democrats; the bill carried the state AI law moratorium, but her opposition was to the full tax and spending package and she did not single out the AI provision."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on chip export controls, the Chip Security Act, or Nvidia sales to China. Searches turned up only local coverage of CHIPS Act manufacturing funding for Kansas City area firms, which is about domestic factories, not export policy.",
+"evidence": []
+}
+},
+"signature": "Johnson County Democrat and New Democrat Coalition member whose AI-adjacent work centers on data centers: a no-rate-hikes, no-water-waste test for new projects and a push for data center disclosure.",
+"notable_quote": {
+"text": "no data center should move forward if it raises electricity costs for families, wastes our limited water resources, or shifts the burden onto Kansas communities",
+"url": "https://www.kshb.com/news/local-news/kansas/johnson-county/voters-guide-kansas-political-candidates-stances-on-data-center-development",
+"date": "2026-07-16"
+},
+"groups": [
+"New Democrat Coalition (member); co-chaired its Tech Task Force in 2019"
+],
+"search_notes": "Google News queries: 'Sharice Davids artificial intelligence', 'Sharice Davids data center', chatbot/deepfake/Section 230/privacy, Evergy/electric bills, Data Center Transparency Act, AI moratorium/executive order/preemption, Kids Online Safety/TikTok, De Soto/Digital Realty, and 'Representative Sharice Davids artificial intelligence'. Scanned davids.house.gov press release links (pages 1 to 8, 2025 to Sept 2026), her energy and jobs issue pages, in-the-news page, and a Wayback listing of 44 archived tech/energy URLs; opened the 2019 Tech Task Force release. Opened and quoted the KSHB voter guide and the New Democrat Coalition FY27 data center letter (PDF). Downloaded the Nov 26, 2025 Matsui letter PDF and checked all extractable signer names: Davids not present. Opened govtrack pages for H.R. 6984 (introduced by Rep. Rob Menendez Jan 8, 2026; 14 cosponsors) and H.R. 7977 Energy Bills Relief Act (Casten). Johnson County Post July 2026 candidate guide opened: it mentions AI regulation only for challenger Sarah Preu, nothing from Davids. Her caucus page on the House site is outdated (118th Congress). Campaign site returned 403. No AI super PAC activity found in her race."
+},
+{
+"bioguide": "E000298",
+"name": "Ron Estes",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements, data-center-specific votes, or cosponsorships found as of September 2026. KSHB's July 2026 data center questionnaire covered Kansas City area races, not his Wichita district, and his 2026 press releases and e-newsletters (June through August 2026) do not mention data centers, Evergy rates, or the Wichita data center proposals.",
+"evidence": []
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on AI safety, chatbots, deepfakes, or AI and jobs. His public work on Ways and Means, Budget, and the Joint Economic Committee has focused on taxes, Social Security, and spending; searches for his name with artificial intelligence, AI hearing, and Joint Economic Committee AI returned nothing.",
+"evidence": []
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No position found on regulating Big Tech, Section 230, privacy, or kids' online safety. His closest tech stance is a June 2026 resolution opposing foreign digital services taxes that he says unfairly hit American tech companies; that defends U.S. firms in trade and tax fights but says nothing about domestic rules for them.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Rep. Estes Introduces Bipartisan Digital Services Tax Resolution (H.Res. 1340)",
+"url": "https://estes.house.gov/news/documentsingle.aspx?DocumentID=7481",
+"date": "2026-06-05",
+"quote": "DSTs are designed to unfairly penalize American innovation, creating a hostile environment of double taxation and market distortion that harms not just our premier tech companies, but also the U.S. small businesses and consumers who rely on them.",
+"what_it_shows": "Shows a protective, pro-industry posture toward U.S. tech companies on international tax, co-led with Democrat Suzan DelBene, but it is not a position on regulating those companies at home."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on whether Washington should override state AI laws. He voted for the May 2025 House budget bill that carried a 10-year moratorium on enforcing state AI laws, but that was one provision in a giant tax and spending package and he did not address the AI piece. No reaction found to the December 2025 executive order or the March 2026 White House framework.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 145: passage of H.R. 1 (One Big Beautiful Bill), which included a 10-year moratorium on state AI law enforcement",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "Voted Yea on the House bill containing the state AI law moratorium; weak evidence because it was a sweeping budget bill and he never spoke to the AI provision."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, votes, or cosponsorships found on chip export controls, the Chip Security Act, or Nvidia sales to China as of September 2026.",
+"evidence": []
+}
+},
+"signature": "Wichita Republican tax writer on Ways and Means with no notable public AI activity found; his closest tech stance is opposing foreign digital services taxes on U.S. tech companies.",
+"notable_quote": {
+"text": "DSTs are designed to unfairly penalize American innovation, creating a hostile environment of double taxation and market distortion that harms not just our premier tech companies, but also the U.S. small businesses and consumers who rely on them.",
+"url": "https://estes.house.gov/news/documentsingle.aspx?DocumentID=7481",
+"date": "2026-06-05"
+},
+"groups": [],
+"search_notes": "Google News queries: 'Ron Estes artificial intelligence', 'Ron Estes data center', chatbot/deepfake/Section 230/Big Tech/Nvidia/export controls, Digital Services Tax/TikTok, Wichita AI, Evergy/power grid/energy costs, social media/Kids Online Safety, Joint Economic Committee AI, Big Beautiful Bill AI moratorium, Musicians Caucus NO FAKES. Scanned estes.house.gov press release headlines pages 1 to 6 (Aug 2025 to Sept 2026); opened the Digital Services Tax resolution, Musicians' Caucus co-chair, and Wichita Chamber keynote releases (no AI content). Read six e-newsletters dated June 4 to Aug 28, 2026: no AI, data center, or chips mentions. Campaign site issues page (estesforcongress.com) has no AI or data center content. KSHB data center voter guide did not cover the 4th District; KMUW 4th District voter guide URL guess failed and Google News link decoding was rate-limited. Wichita Eagle Aug 29, 2025 town hall recap could not be retrieved. Record file shows zero relevant bill cosponsorships in the 118th or 119th Congress. He chairs the Ways and Means Social Security Subcommittee and co-chairs the Congressional Musicians' Caucus, neither AI-focused. No AI super PAC activity found in his race."
+}
+]

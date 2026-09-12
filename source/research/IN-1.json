@@ -1,0 +1,584 @@
+[
+{
+"bioguide": "Y000064",
+"name": "Todd Young",
+"signature": "Senate AI Working Group ('Gang of Four') member and lead Republican author of the Future of AI Innovation Act and CREATE AI Act; pro-innovation, voluntary standards, China-focused.",
+"notable_quote": {
+"text": "I favor coming up with a federal standard that's consistent with our constitutional responsibilities to facilitate interstate commerce, but I, as a practical matter, recognize that we may have to accommodate narrow areas of state concern",
+"url": "https://www.nextgov.com/artificial-intelligence/2026/01/bipartisan-pair-senators-acknowledge-need-federal-ai-standard-accounts-state-laws/411019/",
+"date": "2026-01-28"
+},
+"groups": [
+"Bipartisan Senate AI Working Group ('AI Gang of Four': Schumer, Rounds, Heinrich, Young) that ran the 2023 AI Insight Forums and wrote the May 2024 Senate AI roadmap",
+"Senate Artificial Intelligence Caucus (member, per first-pass landscape research; not independently verified)"
+],
+"positions": {
+"data_centers": {
+"score": 2,
+"confidence": "medium",
+"summary": "Young wants data centers built faster. At a January 2026 CSIS event he pushed permitting reform for data center construction and said slow permitting and regulatory uncertainty scare off investment, and he is an original cosponsor of the GRID Power Act to speed new power plants onto the grid. No statements found about protecting Indiana ratepayers from data center costs.",
+"evidence": [
+{
+"type": "interview",
+"title": "Nextgov: Young advocates the administration's permitting reform for data center construction at CSIS event",
+"url": "https://www.nextgov.com/artificial-intelligence/2026/01/bipartisan-pair-senators-acknowledge-need-federal-ai-standard-accounts-state-laws/411019/",
+"date": "2026-01-28",
+"quote": "Companies are only going to keep deploying these massive amounts of money if they have certainty about what the future looks like",
+"what_it_shows": "Nextgov reports Young called permitting reform for data center construction a near-term bipartisan opportunity to fortify U.S. infrastructure, framing investor certainty as the goal."
+},
+{
+"type": "statement",
+"title": "Broadband Breakfast: Young says slow permitting discourages investment in data centers",
+"url": "https://broadbandbreakfast.com/lawmakers-urge-faster-tech-investment-as-u-s-competes-with-china/",
+"date": "2026-01-28",
+"quote": "We need to think about speed and scale",
+"what_it_shows": "The article reports Young said slow permitting and regulatory uncertainty can discourage investment in data centers, energy infrastructure, and advanced manufacturing."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor of S.465 GRID Power Act (Hoeven), which fast-tracks dispatchable power plants onto the grid",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/465",
+"date": "2025-02-06",
+"quote": null,
+"what_it_shows": "Supports adding power supply quickly to meet load growth; cosponsorship confirmed on GovTrack's cosponsor list for S.465."
+},
+{
+"type": "statement",
+"title": "Press release: Young opposes S.J.Res. 60, saying reinstating limits on Indiana power plants would raise Hoosier energy costs",
+"url": "https://www.young.senate.gov/newsroom/press-releases/young-opposes-effort-by-senate-democrats-to-raise-energy-costs-for-hoosiers/",
+"date": "2025-09-17",
+"quote": "Hoosiers should not pay more because government insists on regulating yesterday's grid instead of today's realities.",
+"what_it_shows": "Frames energy policy around keeping generation steady and bills low, not around limiting large new loads; not data center specific."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "high",
+"summary": "Young's AI bills favor innovation, research and voluntary standards over binding rules: the Future of AI Innovation Act (voluntary standards and testbeds at NIST's CAISI), the CREATE AI Act (a national research computing resource), the VET AI Act (voluntary rules for outside evaluators) and an NSA playbook to protect AI from foreign theft. He did cosponsor the TAKE IT DOWN Act on AI-faked intimate images, a targeted guardrail.",
+"evidence": [
+{
+"type": "statement",
+"title": "Press release: Young and Cantwell reintroduce the Future of AI Innovation Act (voluntary standards, CAISI, testbeds)",
+"url": "https://www.young.senate.gov/newsroom/press-releases/young-cantwell-reintroduce-future-of-ai-innovation-act/",
+"date": "2026-02-26",
+"quote": "One of my top priorities for federal AI policy is to ensure these technologies are developed in a manner that reflects American values and supports U.S. innovation.",
+"what_it_shows": "His flagship AI bill authorizes voluntary guidelines and standards and is pitched as maintaining American leadership, not as binding safety regulation."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.3952 Future of Artificial Intelligence Innovation Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3952",
+"date": "2026-02-26",
+"quote": null,
+"what_it_shows": "Sets up a government center to test AI and create voluntary standards without forcing companies to follow them."
+},
+{
+"type": "statement",
+"title": "Press release: Young and Kelly introduce the Advanced AI Security Readiness Act (NSA playbook to protect U.S. AI from adversaries)",
+"url": "https://www.young.senate.gov/newsroom/press-releases/young-kelly-introduce-legislation-to-protect-american-ai-innovation/",
+"date": "2025-11-19",
+"quote": "America's leadership in advanced technology depends on our ability to protect it. As our foreign adversaries race to steal and exploit cutting-edge AI systems, we must stay ahead of these threats",
+"what_it_shows": "Treats AI risk mainly as a security and theft problem to be handled by the intelligence community, not by rules on developers."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.4441 CREATE AI Act (national AI research resource)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4441",
+"date": "2026-04-29",
+"quote": null,
+"what_it_shows": "Builds shared computing and data for researchers; a pro-research, pro-innovation measure."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.2615 VET Artificial Intelligence Act (voluntary rules for outside AI evaluators)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/2615",
+"date": "2026-02-26",
+"quote": null,
+"what_it_shows": "Backs voluntary, not mandatory, standards for third-party AI checks."
+},
+{
+"type": "letter",
+"title": "Letter with eight senators urging BLS and Census to expand data collection on AI's impact on the workforce",
+"url": "https://www.young.senate.gov/newsroom/press-releases/young-colleagues-push-for-more-data-on-ais-impact-on-american-workforce/",
+"date": "2026-03-06",
+"quote": "At a time when the U.S. workforce is approaching an inflection point due to the acceleration of artificial intelligence, adaptable and responsive federal statistical agencies are necessary",
+"what_it_shows": "Acknowledges AI could disrupt jobs and wants government data on it; an information measure rather than a rule."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.146 TAKE IT DOWN Act (AI-faked intimate images), now law",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "A targeted guardrail on one AI harm, showing he is not opposed to all AI-specific rules."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Young backs targeted rules for online platforms, especially to protect kids: he cosponsored the Kids Online Safety Act in both the 118th and 119th Congresses, the TAKE IT DOWN Act, and the Cooper Davis Act requiring platforms to report fentanyl sales. No support found for breaking up Big Tech or repealing Section 230.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1748 Kids Online Safety Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-07-16",
+"quote": null,
+"what_it_shows": "Supports a duty of care and safety tools for minors on social media and apps."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1409 Kids Online Safety Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409",
+"date": "2023-05-02",
+"quote": null,
+"what_it_shows": "Consistent multi-year support for kids online safety rules; his site also announced a release applauding Senate passage of KOSA."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.146 TAKE IT DOWN Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/146",
+"date": "2025-01-16",
+"quote": null,
+"what_it_shows": "Requires platforms to remove nonconsensual intimate images quickly."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1080 Cooper Davis Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/1080",
+"date": "2023-03-30",
+"quote": null,
+"what_it_shows": "Would make social media companies report illegal drug sales to the DEA; a targeted platform obligation."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "Young wants one federal AI standard but says Congress may have to carve out narrow areas of state concern such as state deepfake laws. He voted with 98 other senators to strip the 10-year state AI law moratorium from the reconciliation bill, a vote that by itself does not show his view.",
+"evidence": [
+{
+"type": "interview",
+"title": "Nextgov: Young favors a federal AI standard that accommodates narrow state concerns like deepfake laws",
+"url": "https://www.nextgov.com/artificial-intelligence/2026/01/bipartisan-pair-senators-acknowledge-need-federal-ai-standard-accounts-state-laws/411019/",
+"date": "2026-01-28",
+"quote": "I favor coming up with a federal standard that's consistent with our constitutional responsibilities to facilitate interstate commerce, but I, as a practical matter, recognize that we may have to accommodate narrow areas of state concern",
+"what_it_shows": "Leans toward a single national rule grounded in interstate commerce powers while leaving room for some state laws, said weeks after the December 2025 executive order targeting state AI laws."
+},
+{
+"type": "vote",
+"title": "Voted Yea on Senate roll call 363 (Blackburn amendment striking the state AI law moratorium from H.R. 1), 99 to 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "He joined nearly the whole Senate after the deal collapsed; the vote alone does not show a position on preemption."
+}
+]
+},
+"china_chips": {
+"score": -1,
+"confidence": "low",
+"summary": "Young frames technology policy around out-competing China and, at a January 2026 event, stressed the need for semiconductor export controls, but he has not been a leading voice on Nvidia chip sales to China. His chip record is mostly about building fabs at home (the CHIPS Act and the Building Chips in America Act).",
+"evidence": [
+{
+"type": "statement",
+"title": "Broadband Breakfast: Young emphasizes semiconductor export controls and hardened infrastructure at CSIS event",
+"url": "https://broadbandbreakfast.com/lawmakers-urge-faster-tech-investment-as-u-s-competes-with-china/",
+"date": "2026-01-28",
+"quote": "The United States leads the development and deployment of most high technologies, but it's clear we need to up our game",
+"what_it_shows": "The article reports Young pointed to supply chain disruptions as evidence markets alone cannot address security risks, emphasizing the need for semiconductor export controls."
+},
+{
+"type": "statement",
+"title": "Press release: Advanced AI Security Readiness Act to protect U.S. AI systems from foreign adversaries",
+"url": "https://www.young.senate.gov/newsroom/press-releases/young-kelly-introduce-legislation-to-protect-american-ai-innovation/",
+"date": "2025-11-19",
+"quote": null,
+"what_it_shows": "Directs the NSA to guard advanced AI from theft by adversaries; a China-hawkish security measure rather than an export control."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.2228 Building Chips in America Act of 2023, now law",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2228",
+"date": "2023-07-11",
+"quote": null,
+"what_it_shows": "Speeds environmental review for new U.S. chip factories; about domestic supply, not export controls."
+}
+]
+}
+},
+"search_notes": "Searches run (Google News RSS): Todd Young + artificial intelligence; data center; preemption/state AI laws/moratorium; Nvidia/export controls/chips China; chatbot/deepfake/KOSA/Big Tech; electricity/ratepayers/grid; Section 230/antitrust/TikTok; Jensen Huang/chip exports; executive order/national standard; plus Wayback CDX listings of young.senate.gov press releases. Opened and read: Nextgov (Jan 28 2026), Broadband Breakfast (Jan 28 2026), FedScoop (Feb 27 2026), young.senate.gov releases on the Future of AI Innovation Act, Advanced AI Security Readiness Act, AI workforce data letter, S.J.Res. 60, and the press release index; GovTrack cosponsor pages for S.465, S.3062, S.1586, S.3557, S.4216 (Young is not a cosponsor of the GUARD Act, App Store Accountability Act, States' Right to Regulate AI Act or GUARDRAILS Act). Limits: young.senate.gov blocks direct fetches and the Wayback Machine was offline for much of the session, so the CREATE AI Act (Apr 2026), Ripon Society (Mar 2026), KOSA passage and AI roadmap releases could not be opened; Google News link decoding was rate limited, so Politico (Jun 12 and Jul 28 2026), Punchbowl and Fortune items were not opened. No AI super PAC support or attacks found for Young."
+},
+{
+"bioguide": "B001299",
+"name": "Jim Banks",
+"signature": "China chip hawk: author of the GAIN AI and AI OVERWATCH Acts and the Banks-Warren Nvidia letters, who also warned in May 2026 that superintelligence and loss-of-control risks are unresolved.",
+"notable_quote": {
+"text": "More broadly, there are unresolved questions about whether we currently have the ability to keep powerful AI systems under our control.",
+"url": "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/",
+"date": "2026-05-14"
+},
+"groups": [
+"Chairman, Senate HELP Subcommittee on Employment and Workplace Safety (held July 29, 2026 hearing on AI and the workforce)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of Sept 2026. Searched news for Banks with data center, Amazon, Meta, Google, NIPSCO, electricity and ratepayers, and his press release archive; nothing relevant turned up.",
+"evidence": []
+},
+"ai_risk": {
+"score": 0,
+"confidence": "medium",
+"summary": "Mixed. Banks says the U.S. must reach key AI thresholds before China and rejects a 'grand bargain' with Beijing, yet his May 2026 letter to Trump officials warns of unresolved questions about keeping powerful AI under control and superintelligence risks, and urges strong national security oversight. His bills focus on chips, espionage and workforce data, not binding rules on AI developers.",
+"evidence": [
+{
+"type": "letter",
+"title": "Letter to Bessent, Cairncross, Kratsios, Lutnick and Rubio urging a strategic approach to advanced AI national security risks",
+"url": "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/",
+"date": "2026-05-14",
+"quote": "Our major AI companies believe superintelligence could pose significant risks that our current scientific understanding is not yet capable of addressing.",
+"what_it_shows": "Takes loss-of-control and superintelligence risks seriously and asks for strong government oversight, while framing the goal as reaching critical AI thresholds before China."
+},
+{
+"type": "letter",
+"title": "Same letter: Banks rejects an AI 'grand bargain' with China and urges narrower engagement",
+"url": "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/",
+"date": "2026-05-14",
+"quote": "There may be certain critical thresholds in AI development that are imperative to reach before adversaries.",
+"what_it_shows": "Prioritizes winning the race over arms-control style limits, the light-touch side of his mixed stance."
+},
+{
+"type": "letter",
+"title": "Letter to Secretary Hegseth on the Pentagon's AI Futures Steering Committee and U.S.-China AI competition",
+"url": "https://www.banks.senate.gov/news/press-releases/banks-outlines-priorities-for-pentagons-u-s-china-ai-strategy-as-tech-rivalry-intensifies/",
+"date": "2026-03-04",
+"quote": "Many experts predict that AI may soon match or surpass human performance across various tasks, including AI research and development itself.",
+"what_it_shows": "Asks the Pentagon to study recursive self-improvement, AGI trajectories and covert AI development; treats advanced AI as a serious strategic risk."
+},
+{
+"type": "letter",
+"title": "Banks and Grassley letter to nine AI companies on Chinese espionage and model weight security",
+"url": "https://www.banks.senate.gov/news/press-releases/senator-banks-raises-concerns-over-chinese-espionage-targeting-u-s-artificial-intelligence-sector/",
+"date": "2026-04-30",
+"quote": "Protecting AI technology from PRC espionage is of paramount importance, especially as these systems become more powerful.",
+"what_it_shows": "Presses frontier labs on insider threats and model weight security, including whether a model itself might try to exfiltrate weights; oversight through questions, not new mandates."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor of S.5105 Collaboration on Adversarial Threats and Security Risks Act (Schiff-Banks antitrust safe harbor for AI security cooperation)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/5105",
+"date": "2026-07-23",
+"quote": null,
+"what_it_shows": "Lets AI companies share threat information and coordinate defenses against distillation and model theft; confirmed as original cosponsor on GovTrack."
+},
+{
+"type": "statement",
+"title": "Hamilton County Reporter: Banks and Schiff introduce bill to help AI companies combat Chinese espionage",
+"url": "https://readthereporter.com/sen-banks-introduce-bill-to-help-american-ai-companies-combat-chinese-espionage/",
+"date": "2026-07-24",
+"quote": "The AI race is one that America can't afford to lose",
+"what_it_shows": "Frames AI security as beating China rather than regulating AI development."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.3339 AI Workforce PREPARE Act (federal data on AI job impacts)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3339",
+"date": "2025-12-03",
+"quote": null,
+"what_it_shows": "Study-and-report approach to AI's effect on jobs; endorsed by Americans for Responsible Innovation."
+},
+{
+"type": "hearing",
+"title": "Roll Call: Banks chairs HELP subcommittee hearing on AI and the workforce, pushes PREPARE Act",
+"url": "https://rollcall.com/2026/07/29/lawmakers-want-better-data-on-ais-workforce-impacts/",
+"date": "2026-07-29",
+"quote": "Existing labor statistics too often fail to tell us how occupations' tasks are changing, what skills are needed, which jobs will grow and shrink and how workers move through the labor force because of AI",
+"what_it_shows": "Wants better data before acting on AI job losses; not a call for restrictions on AI."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Banks backs targeted rules aimed at kids and at Chinese tech: he cosponsored the Kids Online Safety Act, the SCREEN Act age-verification bill and the Connected Vehicle Security Act. He also cosponsored a resolution to cancel a CFPB rule overseeing big payment apps, so he is not a broad Big Tech regulator.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1748 Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1748",
+"date": "2025-07-31",
+"quote": null,
+"what_it_shows": "Supports safety duties for platforms serving minors."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.737 SCREEN Act (age verification for adult sites)",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/737",
+"date": "2025-02-26",
+"quote": null,
+"what_it_shows": "Targeted online rule to keep kids off adult content; he also cosponsored the House version in 2024."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.4429 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+"date": "2026-06-17",
+"quote": null,
+"what_it_shows": "Would ban connected car tech from companies tied to China and other adversaries."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.J.Res.28 disapproving the CFPB rule on large digital payment apps",
+"url": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/28",
+"date": "2025-03-03",
+"quote": null,
+"what_it_shows": "Voted to cancel federal oversight of big payment apps, a deregulatory move that cuts against the guardrails side."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Searched for Banks with preemption, state AI laws, moratorium and AI framework; nothing turned up beyond his Yea vote on the 99 to 1 roll call to strip the state AI moratorium, which nearly every senator cast and which does not show his view.",
+"evidence": [
+{
+"type": "vote",
+"title": "Voted Yea on Senate roll call 363 (Blackburn amendment striking the state AI law moratorium from H.R. 1), 99 to 1",
+"url": "https://www.govtrack.us/congress/votes/119-2025/s363",
+"date": "2025-07-01",
+"quote": null,
+"what_it_shows": "Joined the near-unanimous vote after the deal collapsed; not evidence of a stance on preemption."
+}
+]
+},
+"china_chips": {
+"score": -2,
+"confidence": "high",
+"summary": "Banks is one of the Senate's leading chip hawks. He wrote the GAIN AI Act (Americans get first claim on advanced chips) and the AI OVERWATCH Act (codify the ban on top chips to China), cosponsored the Chip Security and SAFE Chips Acts, and with Elizabeth Warren pressed Nvidia over its Shanghai lab and asked Commerce to suspend Nvidia export licenses after a smuggling case.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor of S.4456 AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4456",
+"date": "2026-04-30",
+"quote": null,
+"what_it_shows": "Gives Congress a say before advanced AI chips are sold to China and codifies the export ban on the most capable chips."
+},
+{
+"type": "statement",
+"title": "Press release: Banks introduces AI OVERWATCH Act with Warren, Cotton, Cortez Masto, Ricketts and Shaheen",
+"url": "https://www.banks.senate.gov/news/press-releases/banks-introduces-ai-overwatch-act/",
+"date": "2026-05-04",
+"quote": "We are in an AI arms race with the Chinese Communist Party that's powered by advanced chips and the winner will determine the future of global military superiority.",
+"what_it_shows": "Explains the bill as locking in Trump's prohibition on exporting the most capable AI chips to adversaries."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of S.3150 GAIN AI Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3150",
+"date": "2025-11-06",
+"quote": null,
+"what_it_shows": "Requires chipmakers to offer advanced AI chips to U.S. buyers before shipping to China; passed the Senate as an NDAA amendment in October 2025."
+},
+{
+"type": "statement",
+"title": "Press release quoting Banks in National Review on the GAIN AI Act",
+"url": "https://www.banks.senate.gov/news/press-releases/icymi-jim-banks-ai-chip-legislation-opens-rift-between-china-hawks-industry-leaders/",
+"date": "2025-09-12",
+"quote": "It puts America First by securing AI dominance at home before sending critical technology to adversaries like China.",
+"what_it_shows": "Defends the bill against chip industry objections; explicitly about restricting sales to China."
+},
+{
+"type": "letter",
+"title": "Banks and Warren letter to Commerce urging suspension of Nvidia AI chip export licenses after Super Micro smuggling charges (Tom's Hardware)",
+"url": "https://www.tomshardware.com/tech-industry/us-senators-want-to-suspend-nvidia-ai-chip-export-licenses-to-china-and-its-intermediaries-bipartisan-letter-to-commerce-dept-says-that-huangs-claims-of-no-chip-diversion-were-contradicted-by-reporting-available",
+"date": "2026-03-24",
+"quote": "including the immediate pausing, suspension, or other reconsideration of all active export licenses covering advanced Nvidia AI chips and server systems",
+"what_it_shows": "Asked the administration to halt Nvidia chip exports to China and Southeast Asian intermediaries, opposing the H200 sales policy."
+},
+{
+"type": "letter",
+"title": "Banks and Warren letter to Nvidia CEO Jensen Huang on national security risks of a Shanghai R&D facility",
+"url": "https://www.banks.senate.gov/news/press-releases/banks-warren-press-nvidia-on-national-security-risks-of-shanghai-rd-facility/",
+"date": "2025-06-02",
+"quote": "No American company should be helping the Chinese Communist Party close the AI gap. NVIDIA was built by American innovation and taxpayer-funded research, not by empowering our adversaries.",
+"what_it_shows": "Criticizes Nvidia's China strategy and the H20 chip; a hawkish posture toward chip sales to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.1705 Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1705",
+"date": "2025-09-11",
+"quote": null,
+"what_it_shows": "Requires location verification on exported advanced chips to stop smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of S.3374 SAFE Chips Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/3374",
+"date": "2025-12-11",
+"quote": null,
+"what_it_shows": "Locks in restrictions on the most advanced AI chips so the White House cannot loosen them alone."
+},
+{
+"type": "statement",
+"title": "Quiver Quantitative mirror of Banks press release on his Hill and Valley Forum remarks on the AI race with China",
+"url": "https://www.quiverquant.com/news/Press+Release:+Senator+Jim+Banks+Addresses+AI+Competition+with+China+at+Hill+and+Valley+Forum",
+"date": "2026-03-25",
+"quote": null,
+"what_it_shows": "Summary says Banks called the AI race with China a moral fight and pushed stronger technology export controls and his GAIN AI Act."
+}
+]
+}
+},
+"search_notes": "Searches run (Google News RSS): Jim Banks + artificial intelligence; data center(s); preemption/state AI laws/moratorium/AI framework; chatbot/App Store/SCREEN/kids online/deepfake; Amazon/Meta/Google Indiana data center electricity; Schiff distillation/open-weight/kill switch; Mythos/superintelligence/AI oversight; Gabbard/intelligence community China AI; plus a Wayback CDX listing of banks.senate.gov press releases. Opened and read: banks.senate.gov releases on the AI oversight letter (May 2026), AI OVERWATCH Act (May 2026), GAIN AI ICYMI (Sept 2025), Nvidia Shanghai letter (June 2025), espionage letter to nine AI companies (Apr 2026), Pentagon AI Futures letter (Mar 2026), AI Workforce PREPARE Act (Dec 2025); Roll Call (Jul 23 and Jul 29 2026); Tom's Hardware (Mar 24 2026); Hamilton County Reporter (Jul 24 2026); Quiver Quantitative mirror of the Hill and Valley release; GovTrack pages for S.5105 (Banks is original cosponsor; it is the Schiff-Banks security cooperation bill, not the AI Kill Switch Act, which the Roll Call article does not tie to Banks), S.3062 GUARD Act and S.1586 (Banks not a cosponsor). Not opened: Reuters/Quartz report (Aug 14 2026) that Banks urged Trump to back U.S. open-weight AI models (Reuters returned 401, link decoding rate limited, release not archived), Bloomberg (Jun 5 2026), The Hill (May 26 2026), Axios (Feb 10 2026) and the GAIN AI and SAFE for Kids Act introduction releases (Wayback offline). No AI super PAC support or attacks found."
+},
+{
+"bioguide": "M001214",
+"name": "Frank J. Mrvan",
+"signature": "Northwest Indiana utility-bill fighter: FERC and DOE letters over NIPSCO costs and outages and cosponsor of the Energy Bills Relief Act; little direct AI activity beyond deepfake bills.",
+"notable_quote": {
+"text": "At a time when ratepayers in Northwest Indiana are already facing skyrocketing utility bills, this action will continue to place burdensome and unnecessary costs on families and businesses throughout the region.",
+"url": "https://mrvan.house.gov/media/press-releases/mrvan-letter-doe-utility-affordability",
+"date": "2026-06-22"
+},
+"groups": [],
+"positions": {
+"data_centers": {
+"score": -1,
+"confidence": "low",
+"summary": "Mrvan has not spoken directly about data centers, but his energy record is ratepayer-first: he is an original cosponsor of the Energy Bills Relief Act, which would keep the cost of powering large users like data centers off household bills, and he has fought DOE orders and NIPSCO practices he says raise Northwest Indiana bills.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Original cosponsor of H.R.7977 Energy Bills Relief Act (Casten)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7977",
+"date": "2026-03-18",
+"quote": null,
+"what_it_shows": "House Democrats' energy cost package; cosponsorship confirmed on GovTrack's list of 161 cosponsors."
+},
+{
+"type": "other",
+"title": "League of Conservation Voters explainer of what the Energy Bills Relief Act would do",
+"url": "https://www.lcv.org/blog/how-democrats-energy-bills-relief-act-would-put-money-back-in-your-pocket/",
+"date": "2026-03-18",
+"quote": "Ensure the cost of powering large energy consumers, like data centers, doesn't fall on households and small businesses.",
+"what_it_shows": "The bill Mrvan cosponsored includes a provision aimed at stopping data center power costs from shifting to families."
+},
+{
+"type": "letter",
+"title": "Letter to DOE opposing the emergency order forcing NIPSCO to keep two coal units running",
+"url": "https://mrvan.house.gov/media/press-releases/mrvan-letter-doe-utility-affordability",
+"date": "2026-06-22",
+"quote": "On average, families in Northwest Indiana have seen their utility rates jump more than 26 percent over the last year, one of the highest rate increases in the country.",
+"what_it_shows": "Shows his priority is keeping electric bills down for households and steel mills; the coal orders are tied to Indiana's load growth debate but he does not name data centers."
+},
+{
+"type": "letter",
+"title": "Letter asking FERC and NERC to investigate NIPSCO's two-week outages after the Aug. 11, 2026 derecho",
+"url": "https://mrvan.house.gov/media/press-releases/mrvan-requests-federal-investigation-nwi-power-outages",
+"date": "2026-09-10",
+"quote": "NIPSCO has emphasized that recent rate increases are necessary to support infrastructure upgrades and improve grid reliability.",
+"what_it_shows": "Demands accountability for what ratepayers got for $2.3 billion in NIPSCO infrastructure charges; a utility accountability stance, not data center specific."
+},
+{
+"type": "cosponsor",
+"title": "Original cosponsor of H.R.8568 Lowering Utility Bills Act (Casar), capping utility profits and barring lobbying costs from rates",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8568",
+"date": "2026-04-29",
+"quote": null,
+"what_it_shows": "Listed as a cosponsor in Rep. Casar's introduction release and on GovTrack; another ratepayer protection measure."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Mrvan's only AI-specific actions are cosponsoring bills against AI-made sexual deepfakes in both the 118th and 119th Congresses and a 2024 bill to study AI-enabled child exploitation. No statements found on frontier AI safety, chatbots or AI regulation generally.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.1941 Preventing Deepfakes of Intimate Images Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1941",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "Supports a federal crime for sharing AI-made intimate images; a targeted guardrail."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.3106 Preventing Deepfakes of Intimate Images Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/3106",
+"date": "2024-02-14",
+"quote": null,
+"what_it_shows": "Earlier version of the same deepfake bill, showing consistent support."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.8005 Child Exploitation and Artificial Intelligence Expert Commission Act of 2024",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8005",
+"date": "2024-05-15",
+"quote": null,
+"what_it_shows": "Backs a study commission on AI and child exploitation."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "medium",
+"summary": "Mrvan supports targeted tech rules: he voted for the 2024 bill forcing TikTok's Chinese owner to divest, cosponsored the Connected Vehicle Security Act banning Chinese-linked car tech, and cosponsored deepfake bills. No record found on Section 230, antitrust or a broad privacy law.",
+"evidence": [
+{
+"type": "vote",
+"title": "Voted Yea on H.R.7521 Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divestment), House roll call 86",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "Backed forcing TikTok's Chinese owner to sell or face a ban."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.8730 Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"date": "2026-07-09",
+"quote": null,
+"what_it_shows": "Would ban connected cars and software from companies tied to China, Russia, Iran or North Korea."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R.1941 Preventing Deepfakes of Intimate Images Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1941",
+"date": "2025-05-15",
+"quote": null,
+"what_it_shows": "A targeted rule on one online harm."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found. Mrvan voted against the whole reconciliation bill that carried the 10-year state AI law moratorium, but that vote was about the entire bill. He did not sign the Dec. 3, 2025 Clarke letter against AI preemption and is not a cosponsor of the GUARDRAILS Act.",
+"evidence": [
+{
+"type": "vote",
+"title": "Voted Nay on H.R.1 (reconciliation bill containing the state AI law moratorium), House roll call 145",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "A vote against the full bill, like every House Democrat; not evidence of a view on AI preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No public position found on chip export controls or Nvidia sales to China. His China-related tech actions (TikTok vote, Connected Vehicle Security Act) are about apps and cars, not chips; his China trade focus is steel.",
+"evidence": []
+}
+},
+"search_notes": "Searches run (Google News RSS): Frank Mrvan + artificial intelligence/AI; data center(s)/NIPSCO; deepfake/chatbot/KOSA/TikTok/Section 230/Big Tech; moratorium/state AI/preemption; China/chips/Nvidia/TikTok/export; utility bills/energy bills/ratepayers; Quiver Quantitative press release mirrors. Opened and read: mrvan.house.gov press release index and releases on the FERC investigation request (Sept 10 2026), DOE utility affordability letter (June 22 2026) and the Wright hearing (Apr 15 2026); Chicago Tribune (Aug 31 2026); Casar release on the Lowering Utility Bills Act; LCV explainer on the Energy Bills Relief Act; Clarke letter signer list (Mrvan absent); Beyer/Mullin data center letter (Mrvan absent); GovTrack cosponsor pages for H.R.7977 and H.R.8568 (Mrvan is an original cosponsor of both), H.R.8031, H.R.9340, H.R.6529, H.R.7858, H.R.6984, H.R.9442 (not a cosponsor of any); GovTrack roll calls h86 (2024) and h145 (2025). A site search of mrvan.house.gov for artificial intelligence returned nothing. No AI super PAC support or attacks found."
+}
+]

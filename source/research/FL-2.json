@@ -1,0 +1,509 @@
+[
+{
+"bioguide": "C001039",
+"name": "Kat Cammack",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "Cammack frames AI as needing a big energy build-out and voted for the SPEED Act permitting bill, which points toward building. A Fox Business segment in August 2026 was billed as discussing her warning about data center opposition, but that segment could not be opened, so no direct data center statement is confirmed.",
+"evidence": [
+{
+"type": "interview",
+"title": "Regulating AI podcast, reported by The American Bazaar: Cammack on energy for AI infrastructure",
+"url": "https://americanbazaaronline.com/2025/08/13/congresswoman-kat-cammack-urges-healthy-and-smart-adoption-of-ai-466166/",
+"quote": "The energy capability… is enormous… you're not going to do it off of solar and wind",
+"date": "2025-08-13",
+"what_it_shows": "She calls for an all-of-the-above energy policy to power AI compute, a build-friendly stance on the infrastructure behind data centers."
+},
+{
+"type": "vote",
+"title": "House roll call 356: Yea on H.R. 4776, the SPEED Act (federal permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"date": "2025-12-18",
+"what_it_shows": "She voted for a bill to speed up federal permitting for energy and infrastructure projects, which data center builders favor."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "medium",
+"summary": "Cammack is innovation-first on AI: she says she does not want to overregulate, calls shutting AI down terrible for innovation, and wants private industry to teach Congress before it writes rules. She does back narrow fixes such as the DEFIANCE Act on sexual deepfakes and election-deepfake guardrails at the FEC.",
+"evidence": [
+{
+"type": "interview",
+"title": "FedScoop interview: House AI task force member Cammack on AI regulation",
+"url": "https://fedscoop.com/election-integrity-and-digital-liberty-kat-cammack",
+"quote": "I don't want us to overregulate because I'm fearful that that will stamp out innovation.",
+"date": "2024-03-04",
+"what_it_shows": "Her core AI stance is to avoid heavy federal rules, while asking the FEC to set guardrails on AI in elections."
+},
+{
+"type": "interview",
+"title": "Regulating AI podcast, reported by The American Bazaar: Cammack urges healthy and smart adoption of AI",
+"url": "https://americanbazaaronline.com/2025/08/13/congresswoman-kat-cammack-urges-healthy-and-smart-adoption-of-ai-466166/",
+"quote": "If you don't… have a basic understanding of the technology, you have really no business trying to regulate it",
+"date": "2025-08-13",
+"what_it_shows": "She said AI doomsayers who want to shut everything down are terrible for innovation, warned that heavy rules would entrench OpenAI and Google, and floated a national right to compute law."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Cammack announces launch of RSC Emerging Tech Task Force",
+"url": "https://cammack.house.gov/media/press-releases/rep-cammack-announces-launch-rsc-emerging-tech-task-force",
+"quote": "we're advancing policies that foster innovation, drive economic growth, and ensure the United States remains the global leader in emerging tech development",
+"date": "2025-04-07",
+"what_it_shows": "As chair of the Republican Study Committee task force on AI and emerging tech, she set an innovation and US-leadership agenda rather than a safety agenda."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3562, DEFIANCE Act of 2025 (civil remedy for AI sexual deepfakes)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3562",
+"quote": null,
+"date": "2025-05-21",
+"what_it_shows": "She supports a targeted guardrail letting victims sue over AI-made sexual images."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "high",
+"summary": "Cammack is a leading House Republican critic of Apple and Google's app store control. She sponsors the App Store Freedom Act, calls the two companies a monopoly, sponsors a bill making apps explain and let users turn off their feed algorithms, and backed the TikTok divestiture law and TikTok warning labels.",
+"evidence": [
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 3209, App Store Freedom Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3209",
+"quote": null,
+"date": "2025-05-06",
+"what_it_shows": "Her bill would force Apple and Google to allow outside app stores and sideloading, a direct mandate on Big Tech."
+},
+{
+"type": "interview",
+"title": "Washington Reporter interview: Rep. Kat Cammack pitches her App Store Freedom Act",
+"url": "https://washingtonreporter.news/rep-kat-cammack-lays-out-her-app-store-fix-tim-scott-rebukes-the-eus-sustainability-measures-and-more",
+"quote": "They can spare me on any security argument, because when you, as a company, are hosting Chinese military-developed VPNs, 60 plus of them, on your platform, in your app store",
+"date": "2025-12-12",
+"what_it_shows": "She dismisses Apple's security defense of its app store and describes the Apple-Google setup as a monopoly that needs legislation."
+},
+{
+"type": "hearing",
+"title": "Roll Call: House panel advances kids online safety bills; Cammack presses for her app store bill",
+"url": "https://rollcall.com/2025/12/11/house-panel-advances-kids-online-safety-bills/",
+"quote": null,
+"date": "2025-12-11",
+"what_it_shows": "At an Energy and Commerce markup she argued her app store bill would give parents more control over kids' apps and implied tech company opposition kept it out of the package."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 6253, Algorithmic Transparency and Choice Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6253",
+"quote": null,
+"date": "2025-11-21",
+"what_it_shows": "Her bill would make apps explain how their feeds pick content and let users turn the algorithm off."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7521 (118th), Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok divestiture)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7521",
+"quote": null,
+"date": "2024-03-05",
+"what_it_shows": "She backed forcing TikTok's Chinese owner to sell or face a ban."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Cammack introduces CAUTION Act, passes bill out of Energy and Commerce subcommittee",
+"url": "https://cammack.house.gov/media/press-releases/rep-cammack-introduces-caution-act-passes-bill-out-house-energy-commerce",
+"quote": "Applications that have been banned on U.S. government devices, including TikTok, represent real threats and it is only right that such disclaimers be required for users to know the risks involved",
+"date": "2023-02-07",
+"what_it_shows": "Her CAUTION Act would require warning labels on Chinese-linked apps such as TikTok."
+},
+{
+"type": "statement",
+"title": "Press release: Cammack statement on social media censorship after Trump ban",
+"url": "https://cammack.house.gov/media/press-releases/congresswoman-kat-cammack-fl-03-issues-statement-social-media-censorship",
+"quote": "Conservatives have grown unacceptably and unrightfully accustomed to censorship by Big Tech over the past few years.",
+"date": "2021-01-10",
+"what_it_shows": "Her hostility to Big Tech also runs through a free-speech and anti-censorship lens."
+}
+]
+},
+"preemption": {
+"score": 1,
+"confidence": "medium",
+"summary": "In an August 2025 podcast Cammack said AI is global commerce and Congress has an obligation to set a national standard, warning against the patchwork of state laws. No statement was found on the December 2025 executive order or the March 2026 White House framework, and she has not cosponsored a preemption or states'-rights bill.",
+"evidence": [
+{
+"type": "interview",
+"title": "Regulating AI podcast, reported by The American Bazaar: Cammack calls for a national AI standard",
+"url": "https://americanbazaaronline.com/2025/08/13/congresswoman-kat-cammack-urges-healthy-and-smart-adoption-of-ai-466166/",
+"quote": "AI… is not just interstate commerce. This is global. And so we have an obligation… to establish a national standard.",
+"date": "2025-08-13",
+"what_it_shows": "She warned against a fragmented set of state AI laws and said Congress should set one national standard, which leans toward preemption."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "Searched for statements on Nvidia H20 or H200 sales, the Chip Security Act, GAIN AI and export controls and found none. She is a China tech hawk on TikTok, Chinese payment terminals and Chinese cars, and has praised Nvidia's chip innovation, but has taken no public position on chip export rules as of September 2026.",
+"evidence": [
+{
+"type": "interview",
+"title": "Breitbart News Daily interview: Cammack says China is building digital twins of lawmakers",
+"url": "https://www.breitbart.com/politics/2026/07/22/exclusive-rep-kat-cammack-chinese-government-has-been-building-digital-twins-of-lawmakers/",
+"quote": "So the Chinese have been building digital twins of lawmakers in an effort to run digital twin simulations on different scenarios",
+"date": "2026-07-22",
+"what_it_shows": "Shows her China-tech hawkishness on data collection and AI simulations, but she did not address chip exports."
+}
+]
+}
+},
+"signature": "Energy and Commerce member and chair of the RSC Emerging Technologies Task Force; innovation-first on AI but the House's lead sponsor of the App Store Freedom Act against Apple and Google.",
+"notable_quote": {
+"text": "I don't want us to overregulate because I'm fearful that that will stamp out innovation.",
+"url": "https://fedscoop.com/election-integrity-and-digital-liberty-kat-cammack",
+"date": "2024-03-04"
+},
+"groups": [
+"House Bipartisan Task Force on Artificial Intelligence (118th Congress), member",
+"Republican Study Committee Emerging Technologies Task Force, Chair (119th Congress)"
+],
+"search_notes": "Ran about 20 Google News queries (AI, data centers, electricity, chatbot/deepfake, Big Tech/App Store, Nvidia/export controls, moratorium/preemption, RSC task force, Hill Nation Summit) plus archive listings for cammack.house.gov, thehill.com, breitbart.com, fedscoop.com, washingtonreporter.news, americanbazaaronline.com. Opened and used: FedScoop 2024 interview, American Bazaar 2025 podcast writeup, RSC task force release, Washington Reporter interview, Roll Call and The Hill markup coverage, CAUTION Act and 2021 censorship releases, Breitbart digital twins interview, govtrack SPEED Act roll call; also read three pages of her 2026 press releases (no AI or data center releases). Unreachable leads: Fox Business Mornings with Maria segment (Aug 17, 2026) on her warning about data center opposition; The Hill Jul 15, 2026 digital twins article; Politico Jul 22, 2026 newsletter on data centers and the midterms that surfaced in a Cammack data center search; Florida Politics Last Call 8.25.26 (site returns 403). Google News link decoding was rate limited, so several items could only be identified by headline. No AI super PAC support or attacks found."
+},
+{
+"bioguide": "B001314",
+"name": "Aaron Bean",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers, electric bills or ratepayers found as of September 2026. He voted for the SPEED Act permitting bill in December 2025, which is not a data center position on its own.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: Yea on H.R. 4776, the SPEED Act (federal permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"date": "2025-12-18",
+"what_it_shows": "He voted for a general permitting reform bill favored by energy and infrastructure builders."
+}
+]
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "Bean has cosponsored bills to have the IRS test AI against tax fraud and to use AI to find outdated federal rules, which show interest in government use of AI but no position on AI safety rules, liability or a pause. No speeches or interviews on AI risk were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 4974, DETECT Act of 2025 (study of AI to catch tax fraud)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/4974",
+"quote": null,
+"date": "2025-08-15",
+"what_it_shows": "He backs studying AI as an IRS fraud-detection tool."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7226, Leveraging Artificial Intelligence to Streamline the Code of Federal Regulations Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7226",
+"quote": null,
+"date": "2026-01-22",
+"what_it_shows": "He backs using AI to flag outdated or duplicative federal regulations."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 9501, AI Tax Integrity Act of 2026 (IRS AI pilot)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9501",
+"quote": null,
+"date": "2026-06-29",
+"what_it_shows": "He is an original cosponsor of a Ways and Means bill creating an IRS pilot on AI fraud detection."
+},
+{
+"type": "other",
+"title": "FedScoop: Republican lawmakers look to AI for agency rules review",
+"url": "https://fedscoop.com/republican-lawmakers-ai-federal-agency-rule-review-bill/",
+"quote": null,
+"date": "2026-01-26",
+"what_it_shows": "Confirms Bean as the cosponsor of Rep. Blake Moore's AI rules-review bill; Bean is not quoted."
+},
+{
+"type": "other",
+"title": "FedScoop: Ways and Means advances the AI Tax Integrity Act unanimously",
+"url": "https://fedscoop.com/irs-data-scientists-fellowship-program-house-bill/",
+"quote": null,
+"date": "2026-07-02",
+"what_it_shows": "The AI Tax Integrity Act from Buchanan, Horsford, Bean and Schweikert advanced out of committee without opposition; Bean is not quoted."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "His only mark on tech rules is cosponsoring the Connected Vehicle Security Act, which would ban internet-connected cars and car software from companies tied to China, Russia, Iran or North Korea. No statements found on Section 230, kids online safety, privacy or antitrust.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 8730, Connected Vehicle Security Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
+"quote": null,
+"date": "2026-08-27",
+"what_it_shows": "He backs a national-security restriction on adversary-linked connected car technology sold in the US."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, letters or cosponsorships found on preempting or protecting state AI laws as of September 2026.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "Searched for statements on Nvidia, chip export controls and China AI and found none. His Connected Vehicle Security Act cosponsorship targets Chinese car technology, not chips.",
+"evidence": []
+}
+},
+"signature": "Ways and Means member who cosponsors bills to put AI to work at the IRS and on the federal rulebook; no broader public AI record found.",
+"notable_quote": null,
+"groups": [],
+"search_notes": "Ran about 12 Google News queries (artificial intelligence, AI, data centers with Nassau/Duval/JEA, electricity/ratepayers, chatbot/Big Tech/Section 230, China/TikTok/Connected Vehicle, IRS AI) plus a bean.house.gov archive listing, his press release page (2026 releases are health care, veterans, Medicare fraud, digital asset taxes, Foreign-Trade Zone Caucus) and a FedScoop site search. Opened three FedScoop articles confirming his cosponsorships (DETECT Act, AI rules-review bill, AI Tax Integrity Act); none quote him. Florida Politics delegation columns that may mention him are blocked (403). No AI statements, town hall remarks, op-eds or AI PAC activity found. His Democratic challenger Michael Kirwan campaigns on regulating AI, but Bean has not responded publicly in anything found."
+},
+{
+"bioguide": "R000609",
+"name": "John H. Rutherford",
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements on data centers, electric bills or ratepayers found as of September 2026, including on Jacksonville-area proposals. He voted for the SPEED Act permitting bill in December 2025.",
+"evidence": [
+{
+"type": "vote",
+"title": "House roll call 356: Yea on H.R. 4776, the SPEED Act (federal permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"date": "2025-12-18",
+"what_it_shows": "He voted for a general permitting reform bill favored by energy and infrastructure builders."
+}
+]
+},
+"ai_risk": {
+"score": -1,
+"confidence": "low",
+"summary": "Rutherford's only AI-specific action is cosponsoring a bill to make it a crime to use AI to create sexual images of children, a narrow guardrail. No speeches, interviews or letters on AI safety were found.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 1283, Protecting Our Children in an AI World Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1283",
+"quote": null,
+"date": "2025-04-29",
+"what_it_shows": "He is the sole cosponsor of Rep. Bilirakis's bill criminalizing AI-generated child sexual abuse material, a targeted AI guardrail."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "In the last Congress he cosponsored the House Kids Online Safety Act and the Child Online Safety Modernization Act, both aimed at making platforms protect children. No statements on Section 230, privacy or antitrust were found, and no kids-safety cosponsorships in the current Congress.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7891 (118th), Kids Online Safety Act",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"quote": null,
+"date": "2024-09-23",
+"what_it_shows": "He backed the House version of KOSA requiring platforms to protect kids from harmful content and addictive design."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 5182 (118th), Child Online Safety Modernization Act of 2023",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/5182",
+"quote": null,
+"date": "2023-11-29",
+"what_it_shows": "He backed stronger reporting and evidence-retention duties for online platforms on child abuse material."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, letters or cosponsorships found on preempting or protecting state AI laws as of September 2026.",
+"evidence": []
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "Searched for statements on Nvidia, export controls and China AI and found none. He cosponsored a study bill asking the State Department to assess AI built by rival countries, which takes no side on chip sales.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7058, Foreign Adversary AI Risk Assessment and Diplomacy Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7058",
+"quote": null,
+"date": "2026-01-21",
+"what_it_shows": "He backs a State Department assessment of adversary AI and allied coordination; the bill does not address export controls."
+}
+]
+}
+},
+"signature": "Appropriator with a thin AI record: cosponsored kids online safety bills and a bill to criminalize AI child sexual images; no public AI statements found.",
+"notable_quote": null,
+"groups": [],
+"search_notes": "Ran about 12 Google News queries (artificial intelligence, AI, data centers with Jacksonville/JEA, electricity/ratepayers, Kids Online Safety/chatbot/deepfake, TikTok/China/Big Tech, Protecting Our Children in an AI World) plus a rutherford.house.gov archive listing and his 2025-2026 press release page (Secret Service, FAST Act, DHS shutdown, appropriations, NDAA, fisheries; nothing on AI or tech). Confirmed on govtrack that H.R. 1283 is a Bilirakis bill with Rutherford as sole cosponsor. Searched for a Bilirakis release quoting him and found none. A News4JAX 2026 voter guide for FL-5 and Florida Politics delegation columns could not be opened. No AI PAC activity found."
+},
+{
+"bioguide": "F000484",
+"name": "Randy Fine",
+"positions": {
+"data_centers": {
+"score": 1,
+"confidence": "low",
+"summary": "In a May 2026 radio interview Fine said data centers bring high-paying jobs, up to 400 per center, but must be built without raising local utility rates or draining community water. That is a build-with-conditions stance, reported by the outlet rather than in his own words. He also voted for the SPEED Act permitting bill.",
+"evidence": [
+{
+"type": "interview",
+"title": "Florida's Voice: U.S. Rep. Randy Fine pushes AI education measures, dual citizenship ban (radio interview writeup)",
+"url": "https://flvoicenews.com/u-s-rep-randy-fine-pushes-ai-education-measures-dual-citizenship-ban/",
+"quote": null,
+"date": "2026-05-11",
+"what_it_shows": "The outlet reports he said data centers bring up to 400 high-paying jobs each but must be built without raising local utility rates or depleting community water."
+},
+{
+"type": "vote",
+"title": "House roll call 356: Yea on H.R. 4776, the SPEED Act (federal permitting reform)",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h356",
+"quote": null,
+"date": "2025-12-18",
+"what_it_shows": "He voted for a general permitting reform bill favored by energy and infrastructure builders."
+}
+]
+},
+"ai_risk": {
+"score": 1,
+"confidence": "low",
+"summary": "Fine frames AI as an arms race the United States must win, says it can be used for good or bad, and pushes AI education rather than new safety rules. His K-12 bill stresses teaching kids to use AI safely and responsibly with no new spending or Washington interference.",
+"evidence": [
+{
+"type": "interview",
+"title": "Florida's Voice: Fine on the AI arms race and his AI bills",
+"url": "https://flvoicenews.com/u-s-rep-randy-fine-pushes-ai-education-measures-dual-citizenship-ban/",
+"quote": "We have to determine how to make sure we end up on the right side of that change.",
+"date": "2026-05-11",
+"what_it_shows": "He compared AI to the arrival of narcotics a century ago, saying it offers incredible good but carries risks if misused, yet his response is education and export promotion, not binding rules."
+},
+{
+"type": "statement",
+"title": "Press release: Congressman Fine introduces K-12 AI Literacy and Readiness Act of 2026",
+"url": "https://fine.house.gov/news/documentsingle.aspx?DocumentID=209",
+"quote": "let states and districts use existing federal dollars for AI instruction, train our teachers, and make sure every student learns to use this technology safely and responsibly",
+"date": "2026-05-12",
+"what_it_shows": "His answer to AI's risks is literacy and readiness in schools, with the bill creating no new spending or federal mandates."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 8747, K-12 AI Literacy and Readiness Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8747",
+"quote": null,
+"date": "2026-05-12",
+"what_it_shows": "Lets schools use existing federal funds to teach students and teachers how to use AI."
+}
+]
+},
+"tech_regulation": {
+"score": -1,
+"confidence": "low",
+"summary": "Fine cosponsored Sammy's Law, which would make big social media sites let parents use safety apps to monitor their kids' accounts. No statements found on Section 230, antitrust or privacy.",
+"evidence": [
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 2657, Sammy's Law",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/2657",
+"quote": null,
+"date": "2025-10-24",
+"what_it_shows": "He backs a targeted kids online safety rule for large social media platforms."
+}
+]
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, letters or cosponsorships found on preempting or protecting state AI laws as of September 2026. His K-12 bill praises Florida acting without Washington interference, but that is about schools, not AI rules.",
+"evidence": []
+},
+"china_chips": {
+"score": -1,
+"confidence": "medium",
+"summary": "Fine is hawkish on China and chips: he cosponsors the Chip Security Act and the AI OVERWATCH Act, which would track exported chips and let Congress block sales to China, and says America cannot afford to let China win the AI arms race. At the same time he sponsors a bill to promote exporting the full American AI stack to friendly countries, so he wants controls on adversaries and more sales to allies.",
+"evidence": [
+{
+"type": "interview",
+"title": "Florida's Voice: Fine on the AI arms race with China",
+"url": "https://flvoicenews.com/u-s-rep-randy-fine-pushes-ai-education-measures-dual-citizenship-ban/",
+"quote": "We can't afford for China to win the AI arms race; it has to be the United States.",
+"date": "2026-05-11",
+"what_it_shows": "He treats AI as a strategic contest with China and pitched his AI stack export bill as a way to set the global standard against Chinese competition."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 3447, Chip Security Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
+"quote": null,
+"date": "2026-03-17",
+"what_it_shows": "He backs location tracking on advanced AI chips to catch smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 6875, AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"quote": null,
+"date": "2026-01-16",
+"what_it_shows": "He backs giving Congress power to block advanced AI chip sales to China and other risky countries."
+},
+{
+"type": "sponsor",
+"title": "Sponsor of H.R. 6996, Full AI Stack Export Promotion Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6996",
+"quote": null,
+"date": "2026-01-09",
+"what_it_shows": "His bill makes it US policy to help American firms sell chips, cloud, models and standards as a package to friendly countries, a pro-export stance toward allies."
+},
+{
+"type": "other",
+"title": "House Foreign Affairs Committee press release on the April 22, 2026 export control markup, listing H.R. 6996 among bills advanced",
+"url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-match-act",
+"quote": null,
+"date": "2026-04-22",
+"what_it_shows": "His AI stack export bill advanced as one of 15 GOP-led export control measures the committee framed as winning the AI arms race with China."
+},
+{
+"type": "other",
+"title": "The American Prospect: Subsidize, Build, Export, Repeat (on Fine's AI stack export bill)",
+"url": "https://prospect.org/2026/05/01/subsidize-build-export-repeat-ai-stack-national-security",
+"quote": null,
+"date": "2026-05-01",
+"what_it_shows": "Reports that Fine's bill would promote the export of the entire American AI stack and advanced through House Foreign Affairs on a bipartisan basis."
+},
+{
+"type": "cosponsor",
+"title": "Cosponsor of H.R. 7058, Foreign Adversary AI Risk Assessment and Diplomacy Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/7058",
+"quote": null,
+"date": "2026-03-16",
+"what_it_shows": "He backs a State Department assessment of AI built by rival countries and allied coordination."
+}
+]
+}
+},
+"signature": "Foreign Affairs freshman who wants America to win the AI arms race: backs chip export controls on China, sponsors a bill to export the full US AI stack to allies, and a K-12 AI literacy bill.",
+"notable_quote": {
+"text": "We can't afford for China to win the AI arms race; it has to be the United States.",
+"url": "https://flvoicenews.com/u-s-rep-randy-fine-pushes-ai-education-measures-dual-citizenship-ban/",
+"date": "2026-05-11"
+},
+"groups": [],
+"search_notes": "Ran about 14 Google News queries (artificial intelligence, data centers, Full AI Stack, Nvidia/export controls/chips, AI Overwatch/Chip Security, Sammy's Law/social media/chatbot, DeSantis/AI preemption, Education and Workforce AI hearings, California HFAC field hearing) plus archive listings for fine.house.gov, flvoicenews.com and prospect.org and his official press release index. Opened and used: Florida's Voice May 11, 2026 radio interview writeup, his K-12 AI Literacy release, the HFAC April 22, 2026 markup release, The American Prospect piece, govtrack pages for H.R. 6996 and H.R. 8747, and the SPEED Act roll call. His site has no press release for the Full AI Stack Export Promotion Act. Unreachable leads: The Hill Jul 21, 2026 'Cracks on data centers deepen on right' (surfaced in Fine data center searches, may quote him) and Florida Politics delegation columns (403). A Sept 2026 story in which he said a viral mailbox video may have been AI-made was not treated as a policy position. No AI PAC support or attacks found in his 2026 primary against Dan Bilzerian."
+}
+]

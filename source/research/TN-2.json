@@ -1,708 +1,404 @@
 [
 {
-"bioguide": "O000175",
-"name": "Andrew Ogles",
+"bioguide": "B001309",
+"name": "Tim Burchett",
+"signature": "Broke with Trump on data centers (\"I guess I'm backwards and poor\"), wants local control over siting; sponsor of a bill to cut federal funds for Flock-style automated surveillance cameras; Kids Online Safety Act cosponsor.",
+"notable_quote": {
+"text": "I guess I'm backwards and poor",
+"url": "https://thehill.com/homenews/house/6062972-data-centers-republicans-trump-burchett/",
+"date": "2026-09-01"
+},
 "groups": [
-"Chair, Subcommittee on Cybersecurity and Infrastructure Protection (House Committee on Homeland Security)"
+"Chairman, House Oversight Subcommittee on Delivering on Government Efficiency (DOGE)"
 ],
-"signature": "Chairs the House Homeland cyber subcommittee; ran hearings on frontier AI models, Chinese open-weight AI and AI-driven cyberattacks; lost his Aug 2026 primary.",
-"notable_quote": {
-"text": "The same models that hunt for software flaws can, without the right safeguards, help a bad actor work through the hardest steps of building a biological weapon.",
-"url": "https://homeland.house.gov/2026/06/04/subcommittee-chairman-ogles-opens-hearing-on-frontier-ai-models-the-future-of-cybersecurity",
-"date": "2026-06-04"
-},
 "positions": {
 "data_centers": {
-"score": null,
-"confidence": "none",
-"summary": "No public position found on whether to build, slow or condition data centers as of Sept 2026, even though Nashville, partly in his district, paused permits in July 2026. His only data center activity is a hearing on protecting them from Chinese cyberattacks.",
-"evidence": [
-{
-"type": "statement",
-"title": "Homeland Committee advisory: Ogles announces hearing on cyber threats to telecom networks, data centers and satellites",
-"url": "https://homeland.house.gov/2026/04/23/media-advisory-subcommittee-chairman-ogles-announces-hearing-on-combating-cyber-threats-to-telecom-networks-data-centers-satellites",
-"date": "2026-04-23",
-"quote": "Our adversaries are actively seeking to exploit vulnerabilities in the subsea cables that keep us connected, the data centers that power the cloud, and the satellites that serve as the backbone of military operations",
-"what_it_shows": "He treats data centers as critical infrastructure to defend from China, but says nothing about siting, power bills or whether more should be built."
-}
-]
-},
-"ai_risk": {
-"score": 0,
+"score": -1,
 "confidence": "medium",
-"summary": "Mixed. Ogles calls frontier AI models a weapon in the wrong hands, warns they could help build bioweapons, and sponsored bills banning federal facial recognition ID checks and biometric databases. But he frames AI mainly as an arms race with China, praised Trump's voluntary early-access framework, and says oversight is not about slowing innovation.",
+"summary": "Burchett publicly broke with President Trump over data centers in September 2026, saying communities need more local control and suggesting the facilities go on military installations instead of in neighborhoods. He has not backed a moratorium or a specific bill, and his campaign site does not list the issue.",
 "evidence": [
 {
-"type": "hearing",
-"title": "Opening statement: Ogles opens hearing on frontier AI models and the future of cybersecurity",
-"url": "https://homeland.house.gov/2026/06/04/subcommittee-chairman-ogles-opens-hearing-on-frontier-ai-models-the-future-of-cybersecurity",
-"date": "2026-06-04",
-"quote": "In the right hands, that is a powerful defensive advantage. In the wrong hands, it is a weapon.",
-"what_it_shows": "He treats the most advanced AI models as a serious national security danger, including bioweapon risk once safeguards are stripped out."
-},
-{
-"type": "hearing",
-"title": "Ogles question to witnesses at the June 4, 2026 AI security hearing (Tech Policy Press transcript)",
-"url": "https://www.techpolicy.press/house-subcommittee-on-cybersecurity-and-infrastructure-protection-hosts-hearing-on-ai-security/",
-"date": "2026-06-04",
-"quote": "When you think about a regulatory framework for AI, how do we regulate AI in such a way to protect the consumer, the public, but yet not hinder ourselves against this arms race that essentially is against China?",
-"what_it_shows": "He is open to some AI regulation but weighs it against beating China."
-},
-{
-"type": "hearing",
-"title": "Opening statement: Ogles and Brecheen hearing with Anthropic, Google and Quantum Xchange",
-"url": "https://homeland.house.gov/2025/12/17/subcommittee-chairmen-ogles-brecheen-deliver-opening-statements-in-hearing-with-anthropic-google-quantum-xchange-on-future-of-cybersecurity",
-"date": "2025-12-17",
-"quote": "This is not about slowing innovation. It is about making sure innovation strengthens the nation rather than exposing it.",
-"what_it_shows": "He frames congressional oversight of AI as pro-innovation, not as new mandates."
-},
-{
-"type": "statement",
-"title": "Cyberscoop: written statement announcing the frontier AI hearing",
-"url": "https://cyberscoop.com/house-hearing-frontier-ai-cybersecurity-threats/",
-"date": "2026-05-28",
-"quote": "AI is the America First mission of the future, and it is becoming our number one offensive and defensive weapon against cyber terrorists",
-"what_it_shows": "He casts AI as a strategic weapon to be advanced, a light-touch, race-with-China framing."
-},
-{
-"type": "letter",
-"title": "Homeland Republicans (Garbarino, Ogles, Brecheen) request Anthropic, Google, Quantum Xchange testimony after AI-assisted PRC cyber operation",
-"url": "https://homeland.house.gov/2025/11/26/homeland-republicans-request-anthropic-google-quantum-xchange-testimony-following-report-of-ai-assisted-partially-autonomous-prc-cyber-operation",
-"date": "2025-11-26",
-"quote": null,
-"what_it_shows": "He used his subcommittee to probe a largely autonomous AI-enabled cyberattack, treating advanced AI misuse as a live homeland security risk."
-},
-{
-"type": "sponsor",
-"title": "H.R. 3782, bill to prohibit the federal government from using facial recognition for identity verification",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/3782",
-"date": "2025-06-05",
-"quote": null,
-"what_it_shows": "A specific guardrail on government use of AI surveillance."
-},
-{
-"type": "sponsor",
-"title": "H.R. 3693, bill to prohibit a federal database of biometric identity data on US citizens",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/3693",
-"date": "2025-06-03",
-"quote": null,
-"what_it_shows": "Another limit on government biometric and AI identification tools."
-}
-]
-},
-"tech_regulation": {
-"score": -1,
-"confidence": "low",
-"summary": "Leans toward targeted rules: he cosponsored the SCREEN Act requiring age checks on adult websites. He did not vote on the 2024 TikTok divestiture bill, and no broader Big Tech or Section 230 statements were found.",
-"evidence": [
-{
-"type": "cosponsor",
-"title": "H.R. 1623, SCREEN Act (age verification for adult websites)",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
-"date": "2025-02-27",
-"quote": null,
-"what_it_shows": "Supports a specific online safety rule for kids."
-},
-{
-"type": "vote",
-"title": "Roll call 86 (Mar 13, 2024), Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok): Ogles Not Voting",
-"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
-"date": "2024-03-13",
-"quote": null,
-"what_it_shows": "He did not record a vote on the TikTok divestiture bill, so it adds no signal either way."
-}
-]
-},
-"preemption": {
-"score": null,
-"confidence": "none",
-"summary": "No statement found on the 10-year state AI law moratorium, the Dec 2025 executive order or the Mar 2026 White House preemption framework as of Sept 2026.",
-"evidence": []
-},
-"china_chips": {
-"score": -1,
-"confidence": "low",
-"summary": "Hawkish on Chinese AI: he warns the world must not become dependent on Chinese open-weight models, backs a joint investigation into their spread, and wants American open-weight alternatives. No statement found on Nvidia chip sales or export controls specifically.",
-"evidence": [
-{
-"type": "hearing",
-"title": "Opening statement: Ogles opens hearing on frontier AI models and the future of cybersecurity",
-"url": "https://homeland.house.gov/2026/06/04/subcommittee-chairman-ogles-opens-hearing-on-frontier-ai-models-the-future-of-cybersecurity",
-"date": "2026-06-04",
-"quote": "We cannot let the world grow dependent on Chinese AI the way it grew dependent on other Chinese technologies we are now scrambling to address.",
-"what_it_shows": "He treats Chinese AI models as a strategic threat and wants a US strategy to counter them."
-},
-{
-"type": "statement",
-"title": "Cyberscoop: written statement announcing the frontier AI hearing",
-"url": "https://cyberscoop.com/house-hearing-frontier-ai-cybersecurity-threats/",
-"date": "2026-05-28",
-"quote": "Communist China is moving aggressively to control the technologies that will define the future of economic and military power, and few technologies are more consequential than artificial intelligence",
-"what_it_shows": "Frames AI competition with China as the central national security issue."
+"type": "interview",
+"title": "The Hill: Burchett responds to Trump's 'backwards and poor' remark on data centers",
+"url": "https://thehill.com/homenews/house/6062972-data-centers-republicans-trump-burchett/",
+"date": "2026-09-01",
+"quote": "We need more local control. We should have brought everybody to the table.",
+"what_it_shows": "He answered Trump's attack on data center opponents with \"I guess I'm backwards and poor,\" called for local control, and suggested building data centers on military installations rather than in communities."
 },
 {
 "type": "other",
-"title": "Homeland Committee release: Garbarino and Moolenaar announce joint investigation into PRC AI models (names Ogles's letters to Anthropic and Google)",
-"url": "https://homeland.house.gov/2026/04/29/chairmen-garbarino-moolenaar-announce-joint-investigation-into-national-security-risks-posed-by-prc-ai-models",
-"date": "2026-04-29",
+"title": "Knox News: Where Tim Burchett and opponent Michaela Barnett stand on data centers",
+"url": "https://www.knoxnews.com/story/news/politics/2026/09/09/tim-burchett-and-michaela-bartlett-stand-on-data-centers-congress/91596941007/",
+"date": "2026-09-09",
 "quote": null,
-"what_it_shows": "His subcommittee's work fed into a formal investigation of Chinese AI models, a hawkish posture on Chinese AI rather than on chip exports."
-}
-]
-}
-},
-"search_notes": "About 14 searches (AI, data centers, Big Tech, chips/China, preemption, chatbot/deepfake, Nashville Zoo/TVA, OpenAI letter, Israel AI bill, Quiver releases) plus Wayback listings of ogles.house.gov and homeland.house.gov. Opened: Homeland Committee releases (Jun 4 2026 opener, Dec 17 2025 opener, Nov 26 2025 letter, Apr 23 and Apr 29 2026 releases, Jan 2026 Examiner op-ed, Nov 2025 chair announcement), the full Tech Policy Press transcript, Cyberscoop (May 13 and May 28 2026), govtrack roll call 86 CSV. Headline-only, not opened: BBC and others report he lost the Aug 6, 2026 GOP primary to Charlie Hatcher; VitalLaw (paywalled) reported Aug 3, 2026 that House cyber panel leaders sought a briefing on OpenAI's misbehaving models; Haaretz reported he shared an AI-made video of himself as a Crusader. He also sponsored H.R. 3303 America-Israel AI Cooperation Act (research cooperation, neutral). Nothing found on data center siting, ratepayers, preemption or chip export controls."
-},
-{
-"bioguide": "R000612",
-"name": "John W. Rose",
-"groups": [],
-"signature": "2026 governor candidate who called data centers a local decision needing a state framework and blamed Chinese money for stirring opposition; longtime TikTok and kids-online-safety hawk; lost the Aug 2026 GOP primary and is leaving the House.",
-"notable_quote": {
-"text": "I think the state should lead in establishing a framework for looking at these [data centers], but I think ultimately you want it to be locally controlled",
-"url": "https://www.williamsonscene.com/news/john-rose-spring-hill-tn/article_17bd3208-f7b6-4e26-bba9-dec8762c521e.html",
-"date": "2026-07-22"
-},
-"positions": {
-"data_centers": {
-"score": 1,
-"confidence": "medium",
-"summary": "Build, with conditions. As a candidate for governor he said data centers should be a local decision with a state framework to help communities evaluate them, said he is not opposed to data centers, and warned that blanket opposition helps China. He did not propose ratepayer or water protections.",
-"evidence": [
-{
-"type": "interview",
-"title": "Williamson Scene: Rose fields questions at Spring Hill campaign stop",
-"url": "https://www.williamsonscene.com/news/john-rose-spring-hill-tn/article_17bd3208-f7b6-4e26-bba9-dec8762c521e.html",
-"date": "2026-07-22",
-"quote": "I think the state should lead in establishing a framework for looking at these [data centers], but I think ultimately you want it to be locally controlled",
-"what_it_shows": "Supports data centers with local control and a state evaluation framework; the article adds he is not opposed to all data centers."
-},
-{
-"type": "interview",
-"title": "Local 3 News: Data centers and Flock cameras, what the GOP candidates for governor think",
-"url": "https://www.local3news.com/local-news/data-centers-and-flock-cameras-what-do-the-republican-candidates-for-governor-think-about-these/article_bd1e215e-ccde-41ba-9fa2-5759bd9622fe.html",
-"date": "2026-07-24",
-"quote": "For Tennessee, I think this should be a local decision. I think local communities should have the final say on what happens in their communities.",
-"what_it_shows": "His core position: local say, no state-level block."
-},
-{
-"type": "interview",
-"title": "Local 3 News: Rose on Chinese interference in data center fights",
-"url": "https://www.local3news.com/local-news/data-centers-and-flock-cameras-what-do-the-republican-candidates-for-governor-think-about-these/article_bd1e215e-ccde-41ba-9fa2-5759bd9622fe.html",
-"date": "2026-07-24",
-"quote": "there's sufficient evidence now that the Chinese are actually interfering in the affairs of our country. They're actually spending money to try to stir up dissent here at home",
-"what_it_shows": "He casts local opposition to data centers as partly China-driven and argues the US must host AI computing itself, a pro-build framing."
+"what_it_shows": "Local paper reports he has expressed opposition to data centers in East Tennessee communities, differing from Trump, but notes he does not list data centers as an issue on his campaign website."
 }
 ]
 },
 "ai_risk": {
-"score": null,
-"confidence": "none",
-"summary": "No position found on AI safety rules, chatbots, deepfakes or liability as of Sept 2026. His only AI remarks came inside data center answers, arguing the US must not depend on China to power artificial intelligence.",
+"score": -1,
+"confidence": "low",
+"summary": "His main AI-adjacent move is a bill to stop federal agencies from buying or using automated surveillance systems that identify and track people, which he calls unconstitutional. He has said nothing found on frontier AI safety, and he himself shared an AI-generated fake video of musician Jack White in December 2025.",
 "evidence": [
+{
+"type": "sponsor",
+"title": "H.R. 9800, Protection Against Mass Surveillance Act (sponsor)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/9800",
+"date": "2026-07-21",
+"quote": null,
+"what_it_shows": "His bill would bar federal agencies from purchasing or accessing automated surveillance systems that identify, track, or record individuals, aimed at Flock-style license plate camera networks."
+},
 {
 "type": "interview",
-"title": "Local 3 News: Rose on AI and China in data center answer",
-"url": "https://www.local3news.com/local-news/data-centers-and-flock-cameras-what-do-the-republican-candidates-for-governor-think-about-these/article_bd1e215e-ccde-41ba-9fa2-5759bd9622fe.html",
+"title": "Fox 17 Nashville: 'We gotta ban these dadgum things,' Burchett criticizes Flock cameras",
+"url": "https://fox17.com/news/local/we-gotta-ban-these-dadgum-things-congressman-criticizes-flock-cameras-police-respond",
 "date": "2026-07-24",
-"quote": "We certainly don't want to be dependent on China for powering things like artificial intelligence because we can easily see a country that's our sworn enemy how they would use that power",
-"what_it_shows": "Frames AI as a national security race with China, but says nothing about safety rules for AI itself."
-}
-]
-},
-"tech_regulation": {
-"score": -1,
-"confidence": "medium",
-"summary": "Targeted rules. He called TikTok a clear and present danger and voted for the divestiture law, cosponsored the House Kids Online Safety Act and the SCREEN Act, backed a ban on new DJI drones, voted for the 2022 antitrust filing-fee package, and wrote a homebuyer credit-data privacy law that Trump signed in 2025.",
-"evidence": [
-{
-"type": "statement",
-"title": "Press release: Rep. Rose floor speech, TikTok currently poses clear and present danger to the United States",
-"url": "https://johnrose.house.gov/media/press-releases/rep-rose-tiktok-currently-poses-clear-and-present-danger-united-states",
-"date": "2024-03-12",
-"quote": "TikTok currently poses an undoubtedly clear and present danger to the United States and its users across the country.",
-"what_it_shows": "Supports forcing foreign-adversary control out of a major app."
+"quote": "these law enforcement intelligence agents, they gotta have tools to address these threats, but taking our constitutional rights is not on the table",
+"what_it_shows": "He frames automated camera surveillance as a Fourth Amendment violation and says Americans should never have to choose between safety and liberty."
 },
 {
 "type": "vote",
-"title": "Roll call 86 (Mar 13, 2024), Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok): Rose Yea",
-"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
-"date": "2024-03-13",
+"title": "House vote #104 (2025): passage of the TAKE IT DOWN Act, Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h104",
+"date": "2025-04-28",
 "quote": null,
-"what_it_shows": "Voted for the TikTok divestiture bill."
+"what_it_shows": "Voted for the federal law criminalizing nonconsensual AI-faked sexual images; the bill passed 409 to 2, so the vote says little on its own."
 },
-{
-"type": "cosponsor",
-"title": "H.R. 7891, Kids Online Safety Act (House version, 118th Congress)",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
-"date": "2024-04-16",
-"quote": null,
-"what_it_shows": "Backs a duty on platforms to protect kids."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 1623, SCREEN Act (age verification for adult websites)",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/1623",
-"date": "2025-02-26",
-"quote": null,
-"what_it_shows": "Supports a specific kids online safety rule."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 2864, Countering CCP Drones Act",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/2864",
-"date": "2024-04-09",
-"quote": null,
-"what_it_shows": "Supports restricting Chinese-made tech over spying concerns."
-},
-{
-"type": "other",
-"title": "Rose website reposts Daily Signal article: with GOP support, House takes first big step to curb power of Big Tech",
-"url": "https://johnrose.house.gov/media/in-the-news/gop-support-house-takes-first-big-step-curb-power-big-tech",
-"date": "2022-10-04",
-"quote": null,
-"what_it_shows": "His office highlights that he was one of 39 House Republicans who voted for the 2022 antitrust package aimed at Big Tech."
-},
-{
-"type": "statement",
-"title": "Press release: President Trump signs Rep. Rose's bill to safeguard homebuyer privacy into law",
-"url": "https://johnrose.house.gov/media/press-releases/president-trump-signs-rep-roses-bill-safeguard-homebuyer-privacy-law",
-"date": "2025-09-05",
-"quote": null,
-"what_it_shows": "A narrow consumer data privacy law he authored, consistent with targeted fixes rather than broad tech regulation."
-}
-]
-},
-"preemption": {
-"score": null,
-"confidence": "none",
-"summary": "No statement found on the state AI law moratorium, the Dec 2025 executive order or the Mar 2026 White House preemption framework. His 'local decision' stance on data centers is about zoning, not AI law preemption.",
-"evidence": []
-},
-"china_chips": {
-"score": null,
-"confidence": "none",
-"summary": "No position found on chip export controls or Nvidia sales to China. He is a China hawk on TikTok, drones and data center siting, but none of that addresses semiconductor exports.",
-"evidence": []
-}
-},
-"search_notes": "About 12 searches (AI, data centers, financial services AI, China/chips, Big Tech/KOSA, preemption, governor race data centers, Quiver releases, Anthropic PAC) plus a Wayback listing of johnrose.house.gov. Opened: Williamson Scene (Jul 22 2026), Local 3 News candidates piece (Jul 24 2026), Nashville Banner 30-question survey (no data center or AI questions), WSMV candidate roundup (no data center answers from Rose), his TikTok, Big Tech and homebuyer privacy releases, govtrack roll call 86. The state file's leads about questioning Hegseth on Anthropic and holding SASC cyber subcommittee leadership were actually Sen. Jacky Rosen (verified at The Verge) and were discarded. Rose sits on the Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence but no AI hearing remarks were found. Headline-only context: he lost the Aug 6, 2026 GOP gubernatorial primary to Blackburn and conceded; Johnny Garrett won the GOP nomination for his House seat; Tennessee Lookout reported Anthropic gave $250K to a pro-Blackburn PAC in the primary's last days (not opened, about his opponent). Local 3 and WBIR interview pages blocked (429/403)."
-},
-{
-"bioguide": "V000139",
-"name": "Matt Van Epps",
-"groups": [],
-"signature": "Freshman on the Science Committee who champions Trump's AI, quantum and nuclear agenda, wants US open-weight models to counter Chinese distillation, and sponsors the Web of Biological Data Act.",
-"notable_quote": {
-"text": "We must maintain the lead across the board when it comes to AI.",
-"url": "https://vanepps.house.gov/media/press-releases/rep-van-epps-speaks-at-sst-budget-hearing-on-revitalizing-american-scientific-research",
-"date": "2026-07-23"
-},
-"positions": {
-"data_centers": {
-"score": null,
-"confidence": "none",
-"summary": "No public statements found on data centers, TVA rates or the Nashville-area moratorium as of Sept 2026. His energy remarks focus on advanced nuclear reactors.",
-"evidence": []
-},
-"ai_risk": {
-"score": 1,
-"confidence": "medium",
-"summary": "Light touch. In a July 2026 Science Committee hearing he praised the White House National AI Legislative Framework for spurring AI innovation, said America must keep the lead across the board on AI, and treated lighter guardrails on open-weight models as a competitiveness issue rather than a safety problem. He also cosponsored the NSF AI Education Act.",
-"evidence": [
-{
-"type": "hearing",
-"title": "Press release: Rep. Van Epps speaks at SST budget hearing on revitalizing American scientific research (opening remarks)",
-"url": "https://vanepps.house.gov/media/press-releases/rep-van-epps-speaks-at-sst-budget-hearing-on-revitalizing-american-scientific-research",
-"date": "2026-07-23",
-"quote": "the National AI Legislative Framework provided clear direction on how Congress should act to spur…on AI innovation that serves Americans",
-"what_it_shows": "Endorses the Trump administration's innovation-first AI framework."
-},
-{
-"type": "hearing",
-"title": "Press release: Rep. Van Epps questions OSTP Director Kratsios on AI leadership",
-"url": "https://vanepps.house.gov/media/press-releases/rep-van-epps-speaks-at-sst-budget-hearing-on-revitalizing-american-scientific-research",
-"date": "2026-07-23",
-"quote": "US companies are turning toward open-source and open-weight models as they are cheaper, customizable, and… have less guardrails.",
-"what_it_shows": "He notes weaker guardrails on open models as a fact of the market and asks how to protect US leadership, not how to add safety rules."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 5351, NSF AI Education Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
-"date": "2026-06-08",
-"quote": null,
-"what_it_shows": "Supports growing the AI workforce, a pro-adoption measure."
-}
-]
-},
-"tech_regulation": {
-"score": null,
-"confidence": "none",
-"summary": "No statements or bills found on Big Tech, Section 230, kids online safety or privacy as of Sept 2026. He joined Congress in Dec 2025 and was not present for the 2024 TikTok vote.",
-"evidence": []
-},
-"preemption": {
-"score": 1,
-"confidence": "low",
-"summary": "Leans toward one national standard, based only on his praise for the White House National AI Legislative Framework, which calls for preempting state AI laws. He has not spoken about preemption directly.",
-"evidence": [
-{
-"type": "hearing",
-"title": "Press release: Rep. Van Epps speaks at SST budget hearing (opening remarks praising OSTP)",
-"url": "https://vanepps.house.gov/media/press-releases/rep-van-epps-speaks-at-sst-budget-hearing-on-revitalizing-american-scientific-research",
-"date": "2026-07-23",
-"quote": "the National AI Legislative Framework provided clear direction on how Congress should act to spur…on AI innovation that serves Americans",
-"what_it_shows": "Endorses the March 2026 White House framework, whose centerpiece is a single federal AI rulebook over state laws, though he does not mention preemption itself."
-}
-]
-},
-"china_chips": {
-"score": -1,
-"confidence": "low",
-"summary": "Leans hawkish on Chinese AI: he pressed the White House on the threat from Chinese open-weight models and covert distillation of American models, and cosponsored a bill having the State Department assess foreign adversary AI. No statement found on chip export controls or Nvidia sales.",
-"evidence": [
-{
-"type": "hearing",
-"title": "Press release: Rep. Van Epps questions OSTP Director Kratsios on Chinese open-weight models",
-"url": "https://vanepps.house.gov/media/press-releases/rep-van-epps-speaks-at-sst-budget-hearing-on-revitalizing-american-scientific-research",
-"date": "2026-07-23",
-"quote": "how is OSTP responding to the threat to American AI leadership posed by Chinese open source and open weight models?",
-"what_it_shows": "Treats Chinese AI models and distillation of US models as a threat to counter."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 7058, Foreign Adversary AI Risk Assessment and Diplomacy Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/7058",
-"date": "2026-01-30",
-"quote": null,
-"what_it_shows": "Backs a formal assessment of dangers from AI built by rival countries such as China."
-}
-]
-}
-},
-"search_notes": "About 9 searches (AI, data centers, China/chips/TikTok, chatbot/social media/TVA/energy, biological data bill, Quiver releases, Clarksville Now) plus Wayback listings of vanepps.house.gov. Opened: his Jul 23, 2026 SST hearing press release (verbatim remarks and questions), his Dec 2025 committee assignment release, Quiver summaries of the hearing release and his Jul 2026 NDAA amendments (defense tech fielding, Fort Campbell), and the press release listing on his site. Google News link decoding was rate-limited, so the Clarksville Now story on the Web of Biological Data Act (with Auchincloss and Young), the Ripon Advance version, and a NewsChannel 5 interview were not opened. He has been in office only since Dec 4, 2025, so the record is thin. Nothing found on data centers, preemption directly, kids online safety or chip export controls."
-},
-{
-"bioguide": "K000392",
-"name": "David Kustoff",
-"groups": [],
-"signature": "Low profile on AI: welcomed xAI's Memphis supercomputer as a historic investment in 2024, cosponsored the NO FAKES Act and the Connected Vehicle Security Act, and voted for the TikTok divestiture law.",
-"notable_quote": {
-"text": "This historic investment, which is the largest single investment in Memphis’ history, will lead us into the next generation of technology and transform West Tennessee into an innovation hub",
-"url": "https://www.commercialappeal.com/story/news/local/2024/06/05/elon-musk-xai-memphis-politicians-react/73989801007/",
-"date": "2024-06-05"
-},
-"positions": {
-"data_centers": {
-"score": 2,
-"confidence": "low",
-"summary": "Celebrated xAI's Memphis supercomputer in June 2024 as a historic investment that would make West Tennessee an innovation hub, and praised grid investment to meet growing demand. No statements found since on the turbine, water or TVA rate fights, so this rests on one early post.",
-"evidence": [
 {
 "type": "social_post",
-"title": "Commercial Appeal: Memphis political leaders react to xAI supercomputer (Kustoff post on X)",
-"url": "https://www.commercialappeal.com/story/news/local/2024/06/05/elon-musk-xai-memphis-politicians-react/73989801007/",
-"date": "2024-06-05",
-"quote": "This historic investment, which is the largest single investment in Memphis’ history, will lead us into the next generation of technology and transform West Tennessee into an innovation hub",
-"what_it_shows": "Unconditional welcome for the region's biggest AI data center project."
-},
-{
-"type": "statement",
-"title": "Press release: Kustoff statement on Hitachi Energy investment in Crockett County",
-"url": "https://kustoff.house.gov/media/press-releases/congressman-david-kustoff-statement-hatachi-energy-investment-crockett-county",
-"date": "2025-08-20",
-"quote": "this project strengthens our nation’s energy infrastructure and ensures grid stability as we meet growing energy demand",
-"what_it_shows": "Frames rising power demand as something to build for, not restrain."
-}
-]
-},
-"ai_risk": {
-"score": -1,
-"confidence": "low",
-"summary": "Leans toward targeted guardrails based on one bill: he cosponsored the 2024 NO FAKES Act giving people the right to block AI copies of their voice and face. No statements found on AI safety, chatbots or liability.",
-"evidence": [
-{
-"type": "cosponsor",
-"title": "H.R. 9551, NO FAKES Act of 2024",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/9551",
-"date": "2024-10-01",
+"title": "Ultimate Classic Rock: Jack White slams Burchett over AI-generated video",
+"url": "https://ultimateclassicrock.com/jack-white-congressman-ai-video/",
+"date": "2025-12-30",
 "quote": null,
-"what_it_shows": "Supports a specific rule against unauthorized AI deepfakes of real people."
+"what_it_shows": "Burchett posted an AI-generated fake video of Jack White making a political statement the musician never made, drawing a public rebuke; this shows his own use of AI fakes, not a policy position."
 }
 ]
 },
 "tech_regulation": {
 "score": -1,
 "confidence": "medium",
-"summary": "Targeted rules, mostly China-focused: cosponsor of the Connected Vehicle Security Act banning Chinese-linked car software, voted for the TikTok divestiture bill, and cosponsored NO FAKES. No broad Big Tech, antitrust or Section 230 positions found.",
+"summary": "Burchett backs targeted online rules: he cosponsored the Kids Online Safety Act and the STOP CSAM Act, a car data privacy bill, and voted to force TikTok's Chinese owner to divest. He also cosponsored a bill to stop federal officials from pressuring platforms to remove posts, a conservative anti-censorship measure.",
 "evidence": [
 {
 "type": "cosponsor",
-"title": "H.R. 8730, Connected Vehicle Security Act of 2026",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
-"date": "2026-09-10",
+"title": "H.R. 7891, Kids Online Safety Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/7891",
+"date": "2024-07-25",
 "quote": null,
-"what_it_shows": "Backs banning connected-car tech tied to China, Russia, Iran or North Korea."
-},
-{
-"type": "vote",
-"title": "Roll call 86 (Mar 13, 2024), Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok): Kustoff Yea",
-"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
-"date": "2024-03-13",
-"quote": null,
-"what_it_shows": "Voted to force TikTok's divestiture from Chinese control."
+"what_it_shows": "Cosponsored the House version of KOSA requiring platforms to protect minors from harmful content and addictive design."
 },
 {
 "type": "cosponsor",
-"title": "H.R. 9551, NO FAKES Act of 2024",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/9551",
-"date": "2024-10-01",
+"title": "H.R. 3921, STOP CSAM Act of 2025",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/3921",
+"date": "2025-09-26",
 "quote": null,
-"what_it_shows": "Supports a likeness-rights rule aimed at AI platforms."
+"what_it_shows": "Cosponsored a bill making platforms do more to report and remove child sexual abuse material and letting victims sue."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6734, Auto Data Privacy and Autonomy Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6734",
+"date": "2026-01-12",
+"quote": null,
+"what_it_shows": "Cosponsored a minor bill giving car owners control over data their connected cars collect."
+},
+{
+"type": "statement",
+"title": "Press release: Rep. Burchett votes to require CCP-affiliated company to divest from TikTok",
+"url": "https://burchett.house.gov/media/press-releases/rep-burchett-votes-require-ccp-affiliated-company-divest-tiktok",
+"date": "2024-03-13",
+"quote": "This isn’t a bill to ban TikTok, it just requires TikTok to get out from under the Chinese government’s thumb.",
+"what_it_shows": "His own explanation of voting for the TikTok divestiture law, framed as keeping the Chinese Communist Party away from a data-mining source."
+},
+{
+"type": "vote",
+"title": "House vote #86 (2024): passage of H.R. 7521, TikTok divestiture bill, Yea",
+"url": "https://www.govtrack.us/congress/votes/118-2024/h86",
+"date": "2024-03-13",
+"quote": null,
+"what_it_shows": "Recorded Yea vote on the bill forcing ByteDance to sell TikTok or face a ban."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 140, Protecting Speech from Government Interference Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/140",
+"date": "2023-02-27",
+"quote": null,
+"what_it_shows": "Cosponsored a bill barring federal employees from pressuring social media companies to take down posts, a mixed signal that targets government rather than platforms."
 }
 ]
 },
 "preemption": {
 "score": null,
 "confidence": "none",
-"summary": "No statement found on the state AI law moratorium, the Dec 2025 executive order or the Mar 2026 White House framework as of Sept 2026.",
-"evidence": []
+"summary": "No statement found on preempting or pausing state AI laws, the December 2025 executive order, or the March 2026 White House framework, and he has not joined the GUARDRAILS Act or the pro-preemption bills. He voted for the House budget bill that carried the 10-year moratorium, but that was a party-line package vote, and his 'local control' remarks concern data center siting, not AI laws.",
+"evidence": [
+{
+"type": "vote",
+"title": "House vote #145 (2025): passage of H.R. 1, which then included a 10-year moratorium on state AI laws, Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House version of the budget bill containing the state AI law moratorium; it was a sweeping package vote and does not by itself show a view on preemption."
+}
+]
 },
 "china_chips": {
 "score": null,
 "confidence": "none",
-"summary": "No position found on chip export controls or Nvidia sales to China. His China-tech record (TikTok vote, connected vehicles) does not touch semiconductors.",
+"summary": "No statements or bills found on AI chip export controls, Nvidia sales to China, or the Chip Security Act as of September 2026. His TikTok vote concerns Chinese app ownership, not chips.",
 "evidence": []
 }
 },
-"search_notes": "About 9 searches (AI, data centers/xAI, Big Tech/TikTok/deepfake, NO FAKES/crypto/connected vehicles, Section 230/Ways and Means, Quiver releases, xAI Memphis 2025-26, turbines/Boxtown/TVA, TikTok vote) plus a Wayback listing and the live press release page of kustoff.house.gov. Opened: Commercial Appeal Jun 5, 2024 reaction roundup (his X post), his Aug 2025 Hitachi Energy statement, his press release index (Rural Patient Monitoring Access Act, PAR Act on digital asset taxes, small business tax cut; nothing on AI), govtrack roll call 86. Nothing found on AI safety rules, data center fights since 2024, preemption or chips. Redistricting put part of Memphis in his district for 2026 but no data center comments surfaced."
+"search_notes": "Ran about 16 Google News queries (data center, AI, chatbot/deepfake, Big Tech/Section 230/KOSA, Nvidia/export controls, preemption/moratorium, TVA/ratepayers, DOGE AI, Flock cameras, Jack White) plus Wayback listings of burchett.house.gov, wvlt.tv, fox17.com, rollingstone.com and others. Opened and confirmed: The Hill (verbatim quotes), Knox News Sept 9 profile (fetched with a browser user agent after the helper got a 403), govtrack page for H.R. 9800, Fox 17 Flock articles, his TikTok press release, govtrack roll calls h86, h104, h145, and the Ultimate Classic Rock report on the AI video. Could not open: WATE's Aug 3 2026 story (headline says he 'urges state regulations' on Flock cameras; 403), Washington Times and AmmoLand (403), Newsweek's list of Republicans breaking with Trump, the Daily Beast and Independent pieces (Google News link decoder rate-limited, Wayback unreachable from this session). He voted Nay on the FY27 NDAA (clerk roll 278, July 22 2026), which contained AI provisions, but no AI-related reason was found, so it is not scored. His official caucus page lists no AI caucus. No AI super PAC activity for or against him was found."
 },
 {
-"bioguide": "C001068",
-"name": "Steve Cohen",
-"groups": [
-"Congressional Artificial Intelligence Caucus (member; listed by landscape pass, membership page could not be opened)"
-],
-"signature": "Tennessee's most active member on data centers: sponsor of the Clean Cloud Act, original cosponsor of the AI Data Center Moratorium Act, and author of repeated letters pressing xAI on Memphis turbine pollution; retiring in Jan 2027 after redistricting.",
+"bioguide": "F000459",
+"name": "Charles J. \"Chuck\" Fleischmann",
+"signature": "Self-described 'nuclear congressman' who chairs Energy and Water appropriations; wants small modular reactors to power AI data centers, promises TVA customers no surprise rate hikes, and cosponsors chip export-control bills.",
 "notable_quote": {
-"text": "We cannot allow high-demand industries to increase pressure on the Tennessee Valley Authority’s (TVA) system or lead to higher bills for Memphis households.",
-"url": "https://cohen.house.gov/media-center/press-releases/congressman-cohen-introduces-clean-cloud-act",
-"date": "2025-11-20"
+"text": "I can assure you that there will be no rate increases without going to the people",
+"url": "https://newschannel9.com/news/local/repfleischmann-says-tva-customers-shouldnt-see-surprise-rate-hikes-tied-to-data-centers-chuck-fleischmann-tva-rates-data-center-electricity-demand-tennessee-tva-ai-power-usage-chattanooga-electricity-rates-data-centers",
+"date": "2026-05-27"
 },
+"groups": [
+"Chairman, House Appropriations Subcommittee on Energy and Water Development and Related Agencies (funds DOE AI and supercomputing programs)",
+"Co-Chairman, American Energy Dominance Caucus"
+],
 "positions": {
 "data_centers": {
-"score": -2,
-"confidence": "medium",
-"summary": "He welcomed xAI's Memphis supercomputer in 2024, then turned sharply critical: he sponsored the Clean Cloud Act, cosponsored five more data center bills including the AI Data Center Moratorium Act, and wrote repeatedly demanding the strictest emissions controls, transparency and ratepayer protection from xAI. His own words stress conditions rather than blocking, but the moratorium cosponsorship puts him in the pause camp.",
+"score": 1,
+"confidence": "high",
+"summary": "Fleischmann wants AI data centers built and powered by new nuclear reactors, and his appropriations bills pour money into DOE AI and nuclear programs. He pairs that with assurances to Chattanooga-area voters that TVA customers will not see rate hikes caused by data centers, pointing to Trump's ratepayer executive order.",
 "evidence": [
 {
-"type": "cosponsor",
-"title": "H.R. 9442, Artificial Intelligence Data Center Moratorium Act (original cosponsor)",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
-"date": "2026-06-24",
-"quote": null,
-"what_it_shows": "Backs a temporary national stop on new AI data centers until their effects on bills and the environment are sorted out."
+"type": "interview",
+"title": "WTVC: Rep. Fleischmann says TVA customers shouldn't see surprise rate hikes tied to data centers",
+"url": "https://newschannel9.com/news/local/repfleischmann-says-tva-customers-shouldnt-see-surprise-rate-hikes-tied-to-data-centers-chuck-fleischmann-tva-rates-data-center-electricity-demand-tennessee-tva-ai-power-usage-chattanooga-electricity-rates-data-centers",
+"date": "2026-05-27",
+"quote": "I can assure you that there will be no rate increases without going to the people",
+"what_it_shows": "As TVA weighed a data center rate class, he promised no surprise rate hikes for households and said a Trump executive order would make data centers cover their own power costs."
 },
 {
-"type": "sponsor",
-"title": "H.R. 6179, Clean Cloud Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/6179",
-"date": "2025-11-20",
-"quote": null,
-"what_it_shows": "His own bill sets pollution limits and fees on power used by big data centers and crypto mines."
-},
-{
-"type": "statement",
-"title": "Press release: Congressman Cohen introduces the Clean Cloud Act",
-"url": "https://cohen.house.gov/media-center/press-releases/congressman-cohen-introduces-clean-cloud-act",
-"date": "2025-11-20",
-"quote": "We cannot allow high-demand industries to increase pressure on the Tennessee Valley Authority’s (TVA) system or lead to higher bills for Memphis households.",
-"what_it_shows": "Puts ratepayers and the grid ahead of data center growth."
-},
-{
-"type": "letter",
-"title": "Press release: Cohen submits public comment on xAI emissions permit to Shelby County Health Department",
-"url": "https://cohen.house.gov/media-center/press-releases/congressman-cohen-submits-public-comment-xai-emissions-permit",
-"date": "2025-05-01",
-"quote": "I support the strictest emissions requirements because I am concerned about the potential cumulative impact on health that the natural gas-powered turbines may have on the neighboring communities",
-"what_it_shows": "Wants the toughest pollution controls, monitoring and site visits on xAI's gas turbines."
-},
-{
-"type": "letter",
-"title": "Press release: Cohen seeks greater transparency from xAI on its power generation impact on public health",
-"url": "https://cohen.house.gov/media-center/press-releases/congressman-cohen-seeks-greater-transparency-xai-its-power-generation",
-"date": "2026-02-25",
-"quote": "I understand the transformative economic potential of data centers. However, any largescale development, especially those involving significant energy consumption and onsite combustion sources, warrant early, transparent, and ongoing engagement with surrounding communities.",
-"what_it_shows": "Acknowledges economic upside but demands transparency and community engagement; a conditions-first stance."
+"type": "interview",
+"title": "WTVC: Fleischmann on TVA power supply for data centers",
+"url": "https://newschannel9.com/news/local/repfleischmann-says-tva-customers-shouldnt-see-surprise-rate-hikes-tied-to-data-centers-chuck-fleischmann-tva-rates-data-center-electricity-demand-tennessee-tva-ai-power-usage-chattanooga-electricity-rates-data-centers",
+"date": "2026-05-27",
+"quote": "We want to make sure that there is abundant, affordable, reliable power for the TVA customer base",
+"what_it_shows": "He acknowledged rising demand pressure on TVA and backed expanding generation, including new natural gas plants, rather than limiting data center growth."
 },
 {
 "type": "statement",
-"title": "Press release: Cohen urges immediate continuation of Colossus water recycling plant construction",
-"url": "https://cohen.house.gov/media-center/press-releases/congressman-cohen-urges-immediate-continuation-colossus-water-recycling",
-"date": "2026-04-10",
-"quote": "The Memphis Sand Aquifer is one of our most vital resources and must be protected.",
-"what_it_shows": "Presses xAI to keep its water commitments to the community."
+"title": "Broadband Breakfast: 'Nuclear Congressman' says small modular reactors key to data center growth",
+"url": "https://broadbandbreakfast.com/nuclear-congressman-says-small-modular-reactors-key-to-data-center-growth/",
+"date": "2025-03-28",
+"quote": "These data centers are very energy-intensive",
+"what_it_shows": "Speaking at a data center summit, he said AI will boom and the answer to data center power demand is building many small modular nuclear reactors, ideally on site."
 },
 {
-"type": "cosponsor",
-"title": "H.R. 6529, Protecting Families from AI Data Center Energy Costs Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
-"date": "2025-12-17",
+"type": "other",
+"title": "E&E News: Appropriators add data center language to Energy-Water bill",
+"url": "https://www.eenews.net/articles/appropriators-add-data-center-language-to-energy-water-bill/",
+"date": "2026-05-21",
 "quote": null,
-"what_it_shows": "Backs keeping families' electric bills from paying for data center grid costs."
+"what_it_shows": "His FY27 Energy-Water bill, which boosts DOE AI and nuclear funding, cleared committee 34 to 25 after Democrats offered amendments on data centers' energy and water use and rising bills."
 },
 {
-"type": "cosponsor",
-"title": "H.R. 7858, Data Center Community Impact Act",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/7858",
-"date": "2026-03-05",
+"type": "op_ed",
+"title": "Washington Times op-ed: The time to forge America's nuclear energy future is now",
+"url": "https://fleischmann.house.gov/media/in-the-news/the-time-to-forge-america-s-nuclear-energy-future-is-now",
+"date": "2025-04-30",
+"quote": "Revolutionary advancements in artificial intelligence, the widespread adoption of cryptocurrencies, the explosive growth of new industries, and surging electrification of everyday life are propelling our nation and the globe toward a situation where demand far exceeds the supply",
+"what_it_shows": "He treats AI-driven power demand as a reason to build more nuclear energy fast, not as a reason to slow data center growth."
+},
+{
+"type": "other",
+"title": "WTVC: Federal energy leaders address Chattanooga concerns over AI data centers and power rates",
+"url": "https://newschannel9.com/news/local/federal-energy-leaders-address-chattanooga-concerns-over-ai-data-centers-and-power-rates-us-deputy-secretary-of-the-department-of-energy-james-danly-congressman-chuck-fleischmann-tva",
+"date": "2026-05-28",
 "quote": null,
-"what_it_shows": "Requires builders to show impacts on local power, water and bills."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 8488, AI Data Center Site Selection Transparency Act of 2026",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/8488",
-"date": "2026-04-23",
-"quote": null,
-"what_it_shows": "More public disclosure before data centers are sited."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 9183, Artificial Intelligence Environmental Impacts Act of 2026",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
-"date": "2026-06-23",
-"quote": null,
-"what_it_shows": "Government study and voluntary reporting of AI's energy, water and pollution footprint."
-},
-{
-"type": "statement",
-"title": "Press release: Congressman Cohen applauds economic impact of xAI Gigafactory in Memphis",
-"url": "https://cohen.house.gov/media-center/press-releases/congressman-cohen-applauds-economic-impact-xai-gigafactory-memphis",
-"date": "2024-06-05",
-"quote": "This is great news for Memphis and the Memphis economy and will make our region a focus for the future of artificial intelligence.",
-"what_it_shows": "Contradictory early evidence: he cheered the project before the turbine and water fights."
+"what_it_shows": "Local station recaps his promise that constituents would not see TVA rate hikes from data centers, alongside a DOE deputy secretary's visit on the same issue."
 }
 ]
 },
 "ai_risk": {
-"score": -1,
-"confidence": "medium",
-"summary": "Targeted guardrails. He cosponsored the Algorithmic Accountability Act in both the 118th and 119th Congresses, the Algorithmic Justice and Online Platform Transparency Act, the resolution blocking Medicare's AI prior-authorization experiment, and a bill letting musicians bargain with AI companies. No calls for licensing or a pause were found.",
+"score": 1,
+"confidence": "low",
+"summary": "Fleischmann talks about AI as a race for America to win and uses his appropriations post to fund DOE AI and supercomputing work, including Trump's Genesis Mission. No statement found on AI safety testing, liability, or chatbot rules; he did vote for the TAKE IT DOWN Act on deepfake sexual images.",
 "evidence": [
 {
-"type": "cosponsor",
-"title": "H.R. 5511, Algorithmic Accountability Act of 2025",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
-"date": "2025-09-30",
-"quote": null,
-"what_it_shows": "Requires companies to test automated decision systems for bias and harm and report to the FTC."
+"type": "statement",
+"title": "Press release: Fleischmann hosts Energy Secretary Wright at Oak Ridge National Lab",
+"url": "https://fleischmann.house.gov/media/press-releases/icymi-energy-water-chairman-fleischmann-hosts-energy-secretary-wright-at-oak-ridge-national-lab",
+"date": "2025-03-06",
+"quote": "expand American-made energy, win the AI race, and secure America’s preeminence in new energy technologies and scientific breakthroughs",
+"what_it_shows": "He frames AI as a competition to win through energy and national lab investment, with no mention of guardrails."
 },
 {
-"type": "cosponsor",
-"title": "H.R. 5628, Algorithmic Accountability Act of 2023",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/5628",
-"date": "2023-09-21",
-"quote": null,
-"what_it_shows": "Repeat support across two Congresses for AI impact assessments."
+"type": "statement",
+"title": "Press release: Fleischmann releases FY27 Energy and Water legislation",
+"url": "https://fleischmann.house.gov/media/press-releases/rep-fleischmann-chairman-of-the-energy-and-water-appropriations-subcommittee-releases-fy27-legislation",
+"date": "2026-05-15",
+"quote": "Furthering President Trump’s executive order on the Genesis Mission, a coordinated national effort to leverage artificial intelligence to accelerate discovery, strengthen national security, and drive energy innovation.",
+"what_it_shows": "His spending bill advances the administration's AI-for-science push at DOE labs."
 },
 {
-"type": "cosponsor",
-"title": "H.J.Res. 187, disapproving the CMS WISeR rule (AI prior authorization in Medicare)",
-"url": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/187",
-"date": "2026-06-08",
-"quote": null,
-"what_it_shows": "Opposes letting contractors use AI to gate medical treatments."
+"type": "other",
+"title": "E&E News: House Energy-Water bill backs nuclear and AI, cuts renewables",
+"url": "https://www.eenews.net/articles/house-energy-water-bill-backs-nuclear-and-ai-cuts-renewables/",
+"date": "2026-05-14",
+"quote": "builds on the successes of prior years",
+"what_it_shows": "His FY27 bill proposes to surge funding for nuclear energy and artificial intelligence while cutting Biden-era energy programs."
 },
 {
-"type": "cosponsor",
-"title": "H.R. 4624, Algorithmic Justice and Online Platform Transparency Act",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/4624",
-"date": "2024-01-25",
+"type": "vote",
+"title": "House vote #104 (2025): passage of the TAKE IT DOWN Act, Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h104",
+"date": "2025-04-28",
 "quote": null,
-"what_it_shows": "Would make platforms explain their algorithms and ban discriminatory ones."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 8994, Protect Working Musicians Act of 2026",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/8994",
-"date": "2026-05-21",
-"quote": null,
-"what_it_shows": "Lets small musicians collectively bargain with or refuse AI companies using their work."
+"what_it_shows": "Voted for the law criminalizing nonconsensual AI-faked sexual images; it passed 409 to 2, so this is weak evidence of a guardrails stance."
 }
 ]
 },
 "tech_regulation": {
 "score": -1,
-"confidence": "medium",
-"summary": "Targeted rules: voted for the TikTok divestiture bill, cosponsored the Connected Vehicle Security Act, the My Body, My Data Act on reproductive health data, and the Algorithmic Justice and Online Platform Transparency Act. No break-up or Section 230 repeal positions found.",
+"confidence": "low",
+"summary": "No statements or sponsored bills found on Big Tech, Section 230, or kids online safety. His only recorded positions are votes for the TikTok divestiture law and the TAKE IT DOWN Act, both of which passed with large bipartisan majorities.",
 "evidence": [
 {
 "type": "vote",
-"title": "Roll call 86 (Mar 13, 2024), Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok): Cohen Yea",
+"title": "House vote #86 (2024): passage of H.R. 7521, TikTok divestiture bill, Yea",
 "url": "https://www.govtrack.us/congress/votes/118-2024/h86",
 "date": "2024-03-13",
 "quote": null,
-"what_it_shows": "Voted to force TikTok's divestiture from Chinese control."
+"what_it_shows": "Voted to force ByteDance to sell TikTok or face a ban."
 },
 {
-"type": "cosponsor",
-"title": "H.R. 8730, Connected Vehicle Security Act of 2026",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/8730",
-"date": "2026-06-30",
+"type": "vote",
+"title": "House vote #104 (2025): passage of the TAKE IT DOWN Act, Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h104",
+"date": "2025-04-28",
 "quote": null,
-"what_it_shows": "Backs banning connected-car tech tied to adversary nations."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 3420, My Body, My Data Act of 2023",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/3420",
-"date": "2023-05-17",
-"quote": null,
-"what_it_shows": "Supports privacy limits on reproductive health data collection."
-},
-{
-"type": "cosponsor",
-"title": "H.R. 4624, Algorithmic Justice and Online Platform Transparency Act",
-"url": "https://www.congress.gov/bill/118th-congress/house-bill/4624",
-"date": "2024-01-25",
-"quote": null,
-"what_it_shows": "Platform transparency and anti-discrimination rules."
+"what_it_shows": "Voted for a targeted federal rule forcing platforms to remove nonconsensual intimate images quickly."
 }
 ]
 },
 "preemption": {
-"score": -2,
-"confidence": "medium",
-"summary": "Let states regulate. He signed the Dec 3, 2025 Clarke letter from 44 House Democrats urging that no AI moratorium or preemption of state AI laws be put in the FY26 defense bill.",
+"score": null,
+"confidence": "none",
+"summary": "No statement found on preempting state AI laws, the December 2025 executive order, or the March 2026 White House framework. He voted for the House budget bill that carried the 10-year moratorium, a party-line package vote that does not show his view on preemption.",
 "evidence": [
 {
-"type": "letter",
-"title": "Clarke-led House Democratic letter to Armed Services leaders opposing any AI moratorium or preemption in the FY26 NDAA (Cohen listed as signer)",
-"url": "https://clarke.house.gov/?p=102767",
-"date": "2025-12-03",
-"quote": "a moratorium would be wildly irresponsible given the lack of any federal legislation",
-"what_it_shows": "Signed on to oppose federal preemption or a moratorium on state AI laws."
+"type": "vote",
+"title": "House vote #145 (2025): passage of H.R. 1, which then included a 10-year moratorium on state AI laws, Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House version of the budget bill containing the state AI law moratorium; a sweeping package vote, not a statement on preemption."
 }
 ]
 },
 "china_chips": {
 "score": -2,
-"confidence": "low",
-"summary": "Cosponsored the Chip Security Act, which would require location tracking on advanced AI chips to catch smuggling to China. No statements found on Nvidia H20/H200 sales.",
+"confidence": "medium",
+"summary": "Fleischmann cosponsors the main House bills to tighten AI chip controls on China: location tracking for advanced chips, a congressional veto over chip sales to risky countries, and penalties for Chinese theft of American AI models. No statements in his own words were found.",
 "evidence": [
 {
 "type": "cosponsor",
 "title": "H.R. 3447, Chip Security Act",
 "url": "https://www.congress.gov/bill/119th-congress/house-bill/3447",
-"date": "2025-09-08",
+"date": "2025-10-21",
 "quote": null,
-"what_it_shows": "Supports tighter enforcement of chip export controls."
+"what_it_shows": "Cosponsored the major bill requiring built-in location verification on advanced AI chips to catch smuggling to China."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 6875, AI OVERWATCH Act",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+"date": "2026-07-27",
+"quote": null,
+"what_it_shows": "Cosponsored the major bill giving Congress power to block advanced AI chip sales to China and other risky countries."
+},
+{
+"type": "cosponsor",
+"title": "H.R. 8283, Deterring American AI Model Theft Act of 2026",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+"date": "2026-07-27",
+"quote": null,
+"what_it_shows": "Cosponsored a bill punishing foreign companies, especially Chinese ones, that steal or copy American AI models."
 }
 ]
 }
 },
-"search_notes": "About 12 searches (AI, xAI/turbines, data centers, retirement, Judiciary AI/Section 230, chips/WISeR/algorithmic accountability, primary results, Markey EPA letter, AI caucus) plus a Wayback listing of cohen.house.gov. Opened and verified: his 2024 xAI applause, May 2025 emissions comment, Nov 2025 Clean Cloud Act release, Feb 2026 xAI transparency letter release, Apr 2026 water recycling statement, WVLT coverage of the Feb 2026 letter, Commercial Appeal 2024 roundup, Clarke letter signer list, Axios (Dec 2025) and Memphis Flyer (Jul 2026) on data centers in the 9th District race, govtrack roll call 86. The Markey-McClellan EPA letter page returned no text, so that lead was not used. The AI Caucus membership page could not be opened, so the caucus listing is flagged as unverified. Context from headlines only: he announced May 15, 2026 he would not seek re-election after Republican redistricting; the Memphis Flyer calls him outgoing; state Rep. Justin Pearson, a leading xAI turbine critic, won the Democratic primary on Aug 6, 2026, while Cohen backed London Lamar."
+"search_notes": "Ran about 14 Google News queries (data center, AI, Section 230/KOSA/TikTok, preemption/moratorium, Nvidia/export controls, Genesis Mission/Oak Ridge, AI Caucus, TVA rates, Kaptur amendments) plus Wayback listings of fleischmann.house.gov (82 energy/tech URLs), newschannel9.com, local3news.com, chattanoogan.com, timesfreepress.com. Opened and confirmed: WTVC May 27 2026 interview (verbatim quotes, URL recovered from the station's search page), WTVC May 28 recap, Broadband Breakfast March 2025 speech report, E&E News May 14 and May 21 2026, his FY27 release, ORNL/Wright release, Washington Times op-ed on his site, SMR funding release (Dec 2025, quotes there are Wright's and TVA's, not his), govtrack roll calls h86, h104, h145 and clerk roll 278 (FY27 NDAA, Yea). Could not open: the local3news June 1 2026 piece 'TVA uniquely positioned to maintain affordable electricity', Politico's 'Congress cracks the door to regulating data centers', the Times Free Press Genesis Mission story, and a May 2026 NewsNation segment on Taiwan chip reliance that a name search surfaced (Google News link decoder rate-limited; Wayback unreachable). The landscape pass listed him as a Congressional AI Caucus member, but his official committees-and-caucuses page does not list it, so it is left out of groups. No AI super PAC activity found."
+},
+{
+"bioguide": "D000616",
+"name": "Scott DesJarlais",
+"signature": "No notable public AI activity found",
+"notable_quote": null,
+"groups": [
+"Chairman, House Armed Services Subcommittee on Strategic Forces (nuclear weapons, missile defense, space; no AI-specific record found)"
+],
+"positions": {
+"data_centers": {
+"score": null,
+"confidence": "none",
+"summary": "No public statements found on data centers as of September 2026, even though rural counties in and near his Middle Tennessee district have passed moratoria. Searched news, his official site (his 2025 to 2026 releases cover a VA clinic, SNAP, Space Command and the budget bill), and bill records.",
+"evidence": []
+},
+"ai_risk": {
+"score": null,
+"confidence": "none",
+"summary": "No statements, bills, or hearing remarks found on AI safety, chatbots, or deepfakes. His only recorded item is a Yea on the TAKE IT DOWN Act in a 409 to 2 vote, which is too lopsided to show a stance.",
+"evidence": [
+{
+"type": "vote",
+"title": "House vote #104 (2025): passage of the TAKE IT DOWN Act, Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h104",
+"date": "2025-04-28",
+"quote": null,
+"what_it_shows": "Voted with nearly the whole House for the law against nonconsensual AI-faked sexual images."
+}
+]
+},
+"tech_regulation": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on Big Tech, Section 230, kids online safety, or privacy. He did not vote on the 2024 TikTok divestiture bill and has no relevant cosponsorships in the 118th or 119th Congress.",
+"evidence": []
+},
+"preemption": {
+"score": null,
+"confidence": "none",
+"summary": "No statement found on state AI laws, the moratorium fight, the December 2025 executive order, or the March 2026 framework. He voted for and praised the House budget bill that carried the 10-year moratorium, but his statement on it mentioned taxes, energy, the border and the military, not AI.",
+"evidence": [
+{
+"type": "vote",
+"title": "House vote #145 (2025): passage of H.R. 1, which then included a 10-year moratorium on state AI laws, Yea",
+"url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "He voted for the House version of the budget bill containing the state AI law moratorium; a sweeping package vote, not a statement on preemption."
+},
+{
+"type": "statement",
+"title": "Press release: DesJarlais celebrates House passage of One Big Beautiful Bill",
+"url": "https://desjarlais.house.gov/2025/5/desjarlais-celebrates-house-passage-of-one-big-beautiful-bill",
+"date": "2025-05-22",
+"quote": null,
+"what_it_shows": "His statement praising H.R. 1 lists tax cuts, energy, the border and the military and does not mention the AI moratorium."
+}
+]
+},
+"china_chips": {
+"score": null,
+"confidence": "none",
+"summary": "No statements or bills found on AI chip export controls or Nvidia sales to China as of September 2026, despite his Taiwan Caucus membership and Armed Services role.",
+"evidence": []
+}
+},
+"search_notes": "Ran about 14 Google News queries (data center, AI, chatbot/deepfake/Big Tech/TikTok, nuclear AI/Strategic Forces, TVA/Flock, Golden Dome/Anthropic/Pentagon AI, Section 230/export controls/Huawei, Warren and Coffee County data centers, agriculture/Medicare AI, missile defense statements) plus Wayback listings of desjarlais.house.gov and fetches of his media center index, committees page, issues page, subcommittee chairmanship release, first Strategic Forces hearing release, and the Breaking Defense 'Who's Who' profile (no AI content). Nothing relevant surfaced beyond roll-call votes: Yea on H.R. 1 (h145), Yea on TAKE IT DOWN (h104), Yea on the FY27 NDAA (clerk roll 278, which carried AI provisions but is a must-pass defense bill for a HASC subcommittee chair), and No Vote on the 2024 TikTok bill (h86). No AI caucus membership on his official caucus list. No AI super PAC activity found. Google News link decoder was rate-limited and Wayback unreachable, but no headline mentioning him and AI or data centers appeared in any search, so nothing relevant was left unopened."
 }
 ]

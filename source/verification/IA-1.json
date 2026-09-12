@@ -1,0 +1,221 @@
+[
+{
+"bioguide": "G000386",
+"checks": [
+{
+"url": "https://siouxcityjournal.com/news/local/business/article_7dc05450-4a91-44be-b004-1c63c2237e80.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-01",
+"note": "Article body is ROT47-obfuscated behind Lee Enterprises paywall; decoded text contains the quote verbatim. Also confirms Cedar Rapids water complaints, 'it's something that's coming and we adjust to it', and state/local siting deferral. Event was June 30, 2026; article dated July 1, 2026."
+},
+{
+"url": "https://www.judiciary.senate.gov/press/rep/releases/icymi-grassley-discusses-ai-whistleblower-protection-act-during-a-starting-point-interview",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-04",
+"note": "Direct fetch 403; Wayback capture (2026-04-23) of release published 06.04.2025 contains the quote verbatim, plus 'I've had [AI] whistleblowers come to me' and the NDA 'covering up things that are wrong' passage."
+},
+{
+"url": "https://www.judiciary.senate.gov/press/rep/releases/icymi-grassley-discusses-ai-whistleblower-protection-act-during-a-starting-point-interview",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-04",
+"note": "Quote verbatim (via Wayback). Continues: 'because the government is legitimately a referee within the free enterprise system' and 'this legislation isn't about upending any non-disclosure agreements or ending companies' rights to confidentiality', supporting the claim."
+},
+{
+"url": "https://www.techpolicy.press/what-the-ai-whistleblower-protection-act-would-mean-for-tech-workers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-30",
+"note": "Article (May 30, 2025) attributes the quote verbatim to Grassley 'in the bill's press release'. Secondary source quoting the release, but the attribution is explicit."
+},
+{
+"url": "https://broadbandbreakfast.com/as-judges-admit-ai-drafted-faulty-orders-sen-grassley-demands-oversight",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-10-27",
+"note": "Quote verbatim (curly vs straight apostrophe only). Article also states 'Grassley said his oversight would continue until the judiciary adopts firm and transparent policies governing artificial intelligence' and covers his letters to Judges Wingate and Neals."
+},
+{
+"url": "https://siouxcityjournal.com/news/local/business/article_7dc05450-4a91-44be-b004-1c63c2237e80.html",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-01",
+"note": "Quote verbatim in decoded body. Article also has 'it's still hard for me to digest it' and the buggy-maker/automobile comparison."
+},
+{
+"url": "https://www.techpolicy.press/transcript-us-senate-hearing-on-examining-whistleblower-allegations-that-meta-buried-child-safety-research/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-09",
+"note": "Quote verbatim in transcript of the Sept 9, 2025 Judiciary Subcommittee on Privacy, Technology, and the Law hearing (transcript posted Sept 10). Grassley cites his letters to Meta on COPPA/targeted ads, to OpenAI and Meta on silencing whistleblowers, and his AI whistleblower bill. Blackburn addresses him as 'Mr. Chairman'."
+},
+{
+"url": "https://www.judiciary.senate.gov/press/rep/releases/icymi-grassley-discusses-ai-whistleblower-protection-act-during-a-starting-point-interview",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-06-04",
+"note": "Same quote as item 2, verbatim via Wayback capture of the June 4, 2025 release."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "Sources show oversight letters to Meta/OpenAI, a COPPA-focused hearing, and a whistleblower-protection bill, but Grassley explicitly frames himself as pro-business/pro-growth, says government is only 'a referee', and stresses his bill does not upend NDAs or companies' confidentiality rights. Nothing in the sources supports structural rein-in measures (antitrust, breakup, broad platform mandates). The evidence supports targeted rules, not -2.",
+"suggested_score": -1,
+"suggested_label": "Targeted rules"
+}
+]
+},
+{
+"bioguide": "E000295",
+"checks": [
+{
+"url": "https://millermeeks.house.gov/media/press-releases/miller-meeks-energy-secretary-spotlight-one-big-beautiful-bill-critical",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-08-14",
+"note": "Quote appears verbatim, attributed to Senator Ernst. Page dated Aug 14, 2025. Statement is about national labs, energy and critical materials for 'the AI revolution'; it does not mention data centers, ratepayers, water or siting, so the claim's framing (no conditions mentioned) is accurate but the item is only indirectly about data centers."
+},
+{
+"url": "https://www.militarytimes.com/news/pentagon-congress/2026/05/20/pentagon-policy-isnt-keeping-pace-with-autonomous-weapons-senators-argue/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-20",
+"note": "Quote verbatim. Article also has Ernst saying DoD's 'policy architecture really has to scale with it' and 'this is where we probably lag behind', and cites the $55B DAWG request. Article does not itself state she chairs the subcommittee (she does chair SASC Emerging Threats and Capabilities in the 119th Congress); 'call for guardrails on military AI' is a fair reading."
+},
+{
+"url": "https://fedscoop.com/ernst-seeks-sba-ai-use-case-it-information",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2024-05-09",
+"note": "Quote verbatim from the letter as quoted by FedScoop (article May 31, 2024; letter dated May 9). Article says she alleged SBA had AI uses it had not reported in its annual inventory. Note she is described as ranking member, and the letter was primarily about the IT Working Capital Fund with AI as a secondary probe."
+},
+{
+"url": "https://www.sbc.senate.gov/public/index.cfm/2025/5/new-report-ernst-exposes-critical-tech-is-vulnerable-to-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-05-15",
+"note": "Fetch tool and WebFetch got 403 and Wayback was rate-limited; page loaded in the browser pane. Quote verbatim. Page says six of the 25 largest SBIR recipients had clear links to China and still got ~$180M from the Pentagon, and that her INNOVATE Act creates 'strong and enforceable due diligence requirements'. Topic is SBIR/STTR research security, not semiconductor export controls."
+},
+{
+"url": "https://www.ernst.senate.gov/news/press-releases/ernst-moolenaar-work-with-pentagon-to-safeguard-critical-tech-from-china",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-11-17",
+"note": "Fetch tool and WebFetch got 403; page loaded in the browser pane. Quote verbatim (joint statement 'wrote the lawmakers'). Page says Ernst and Moolenaar asked the Pentagon how Congress can help close loopholes and safeguard critical defense technology from China via SBIR/STTR due diligence standards. Again about research funding security, not chips."
+},
+{
+"url": "https://www.militarytimes.com/news/pentagon-congress/2026/05/20/pentagon-policy-isnt-keeping-pace-with-autonomous-weapons-senators-argue/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-05-20",
+"note": "Headline quote appears verbatim, attributed to Ernst at the May 19, 2026 Emerging Threats and Capabilities hearing."
+}
+],
+"score_objections": [
+{
+"dimension": "tech_regulation",
+"objection": "None of the six sources concerns regulating technology companies or Big Tech. The only adjacent item (SBA AI inventory letter) is federal-agency oversight, not tech regulation. Evidence is too thin for a -1 'Targeted rules' placement.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "data_centers",
+"objection": "The single source is a one-sentence remark about a national lab supplying 'energy and critical materials to power the AI revolution'. It never mentions data centers, permitting, or conditions, so 'Build with conditions' asserts a nuance the evidence does not contain; if scored at all it reads closer to 'Build faster' than conditional support. Too thin for a position.",
+"suggested_score": null,
+"suggested_label": null
+},
+{
+"dimension": "china_chips",
+"objection": "Both China sources are about SBIR/STTR grant due diligence and foreign-ownership vetting, not semiconductor export controls or chip sales. Hawkish direction is real, but the dimension as defined (export controls on chips) has no direct evidence; 'Leans hawkish' is an inference from adjacent China-tech-transfer positions rather than a chips stance.",
+"suggested_score": null,
+"suggested_label": null
+}
+]
+},
+{
+"bioguide": "M001215",
+"checks": [
+{
+"url": "https://cbs2iowa.com/news/local/rep-miller-meeks-discusses-stop-insider-trading-act-daylight-saving-time-bill",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-23",
+"note": "Quote verbatim. Page also has her saying it is important not to increase electricity rates, that keeping abreast of the CCP on AI 'means data centers', and 'it needs to be done transparently. You need to have community involvement in this.' Claim fully supported."
+},
+{
+"url": "https://energycommerce.house.gov/posts/energy-subcommittee-holds-hearing-on-meeting-growing-power-demand-while-protecting-ratepayers",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": null,
+"note": "Quote verbatim, attributed to Miller-Meeks (IA-01). She continues: bills address 'accurate load forecasting, cost-effective transmission expansion, and making sure infrastructure costs are borne by the customers who caused them.' Page gives no date."
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs",
+"verdict": "partially_supported",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Quote verbatim. But the claim overstates: she says 'They want to put limits on data centers and AI' without naming Democrats, and she never mentions nuclear; the nuclear remarks on the page belong to Reps. Harrigan and Issa. Drop 'including nuclear' and soften 'Democratic proposals'."
+},
+{
+"url": "https://millermeeks.house.gov/media/press-releases/modeled-after-iowa-law-rep-miller-meeks-introduces-bill-shield-kids-predatory-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Listed URL returns 404 (no Wayback copy). Correct URL drops the trailing '-ai': https://millermeeks.house.gov/media/press-releases/modeled-after-iowa-law-rep-miller-meeks-introduces-bill-shield-kids-predatory. On that page the quote is verbatim and the release says the bill 'takes a pro-innovation, risk-based approach, explicitly exempting internal business tools, basic smart speakers, and B2B services.' Fix the URL."
+},
+{
+"url": "https://broadbandbreakfast.com/iowa-house-republican-introduces-bill-to-protect-kids-from-chatbots-plying-sexual-content",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-21",
+"note": "Article (Abby Larkin, July 21, 2026) says the bill 'would ban deceptive AI personas and allow parental supervision of AI' and 'is modeled directly after Iowa's SF 2417'. Also gives introduction date July 17."
+},
+{
+"url": "https://millermeeks.house.gov/media/press-releases/rep-miller-meeks-backs-efforts-expand-ai-driven-eye-exams-diabetics-rural",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-09-23",
+"note": "Quote verbatim, attributed to Dr. Miller-Meeks; release is about FY26 Labor-HHS appropriations report language promoting autonomous AI for diabetic eye exams."
+},
+{
+"url": "https://millermeeks.house.gov/media/press-releases/miller-meeks-leads-effort-protect-children-online-spy-kids-act",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2025-12-02",
+"note": "Quote verbatim. Same paragraph: platforms must be 'built with their well-being, not corporate profit, as the priority.' Claim's 'engineered around engagement' is a paraphrase but the substance holds."
+},
+{
+"url": "https://washingtonreporter.news/interview-eight-gop-lawmakers-on-an-ai-deal-with-kosa-and-how-to-lower-energy-costs",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-01-20",
+"note": "Quote verbatim, in direct answer to the question of whether she would back a bill preempting state AI regulation if it included KOSA-style kids protections. She also plugs her SPY Kids Act."
+},
+{
+"url": "https://www.americanprogressaction.org/article/almost-every-house-republican-voted-to-block-state-and-local-governments-ability-to-protect-residents-from-ai-data-centers/",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-08-24",
+"note": "Quote verbatim. Page records the Pallone COMM19 amendment rejected 29-24 with Miller-Meeks voting against, plus two further committee votes advancing text containing the moratorium (May 13-14, 2025 markup), and her floor vote for OBBBA. Partisan source but vote descriptions are footnoted."
+},
+{
+"url": "https://millermeeks.house.gov/media/press-releases/modeled-after-iowa-law-rep-miller-meeks-introduces-bill-shield-kids-predatory-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Listed URL 404s; correct URL is .../modeled-after-iowa-law-rep-miller-meeks-introduces-bill-shield-kids-predatory (no '-ai'). Quote verbatim there, and Gov. Reynolds is quoted: 'Iowa is leading the way in responsible AI legislation, first at the state and now at the federal level.' Fix the URL."
+},
+{
+"url": "https://millermeeks.house.gov/media/press-releases/modeled-after-iowa-law-rep-miller-meeks-introduces-bill-shield-kids-predatory-ai",
+"verdict": "confirmed",
+"corrected_quote": null,
+"corrected_date": "2026-07-17",
+"note": "Quote verbatim on the correctly-slugged page (drop trailing '-ai' from URL; listed URL 404s)."
+}
+],
+"score_objections": []
+}
+]
