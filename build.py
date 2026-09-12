@@ -324,6 +324,11 @@ def main():
                 n_statements += len(research_statements)
                 score = rp['score']; conf = rp['confidence']; summary = rp['summary'] or None
                 basis = 'research'
+                # an omnibus vote (the May 2025 budget bill that carried the moratorium) cannot be the only basis for a label
+                omnibus_only = evidence and all(e['type'] == 'vote' and re.search(r'/votes/119-2025/h145\b', e['url']) for e in evidence)
+                if score is not None and omnibus_only:
+                    score = None; conf = 'none'
+                    summary = (summary or '').rstrip('.') + '. Because the only evidence is a vote on a sweeping budget bill, no position is shown.'
                 if score is not None and not evidence:
                     score = None; conf = 'none'
                     summary = 'The sources found for this could not be verified, so no position is shown.'
